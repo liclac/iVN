@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8F1089C313D857DC0014DAAC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F1089C213D857DC0014DAAC /* UIKit.framework */; };
+		8F1089C513D857DC0014DAAC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F1089C413D857DC0014DAAC /* Foundation.framework */; };
+		8F1089C713D857DC0014DAAC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8F1089C613D857DC0014DAAC /* CoreGraphics.framework */; };
+		8F1089CD13D857DC0014DAAC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8F1089CB13D857DC0014DAAC /* InfoPlist.strings */; };
+		8F1089CF13D857DC0014DAAC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1089CE13D857DC0014DAAC /* main.m */; };
+		8F1089D313D857DC0014DAAC /* iVNAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1089D213D857DC0014DAAC /* iVNAppDelegate.m */; };
+		8F1089D613D857DD0014DAAC /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F1089D413D857DD0014DAAC /* MainWindow.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8F1089BE13D857DC0014DAAC /* iVN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iVN.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F1089C213D857DC0014DAAC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8F1089C413D857DC0014DAAC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8F1089C613D857DC0014DAAC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8F1089CA13D857DC0014DAAC /* iVN-Info.plist */ = {isa = PBXFileReference; path = "iVN-Info.plist"; sourceTree = "<group>"; };
+		8F1089CC13D857DC0014DAAC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8F1089CE13D857DC0014DAAC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8F1089D013D857DC0014DAAC /* iVN-Prefix.pch */ = {isa = PBXFileReference; path = "iVN-Prefix.pch"; sourceTree = "<group>"; };
+		8F1089D113D857DC0014DAAC /* iVNAppDelegate.h */ = {isa = PBXFileReference; path = iVNAppDelegate.h; sourceTree = "<group>"; };
+		8F1089D213D857DC0014DAAC /* iVNAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iVNAppDelegate.m; sourceTree = "<group>"; };
+		8F1089D513D857DD0014DAAC /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8F1089BB13D857DC0014DAAC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F1089C313D857DC0014DAAC /* UIKit.framework in Frameworks */,
+				8F1089C513D857DC0014DAAC /* Foundation.framework in Frameworks */,
+				8F1089C713D857DC0014DAAC /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8F1089B313D857D90014DAAC = {
+			isa = PBXGroup;
+			children = (
+				8F1089C813D857DC0014DAAC /* iVN */,
+				8F1089C113D857DC0014DAAC /* Frameworks */,
+				8F1089BF13D857DC0014DAAC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8F1089BF13D857DC0014DAAC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8F1089BE13D857DC0014DAAC /* iVN.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8F1089C113D857DC0014DAAC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8F1089C213D857DC0014DAAC /* UIKit.framework */,
+				8F1089C413D857DC0014DAAC /* Foundation.framework */,
+				8F1089C613D857DC0014DAAC /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8F1089C813D857DC0014DAAC /* iVN */ = {
+			isa = PBXGroup;
+			children = (
+				8F1089D113D857DC0014DAAC /* iVNAppDelegate.h */,
+				8F1089D213D857DC0014DAAC /* iVNAppDelegate.m */,
+				8F1089D413D857DD0014DAAC /* MainWindow.xib */,
+				8F1089C913D857DC0014DAAC /* Supporting Files */,
+			);
+			path = iVN;
+			sourceTree = "<group>";
+		};
+		8F1089C913D857DC0014DAAC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8F1089CA13D857DC0014DAAC /* iVN-Info.plist */,
+				8F1089CB13D857DC0014DAAC /* InfoPlist.strings */,
+				8F1089CE13D857DC0014DAAC /* main.m */,
+				8F1089D013D857DC0014DAAC /* iVN-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8F1089BD13D857DC0014DAAC /* iVN */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8F1089D913D857DD0014DAAC /* Build configuration list for PBXNativeTarget "iVN" */;
+			buildPhases = (
+				8F1089BA13D857DC0014DAAC /* Sources */,
+				8F1089BB13D857DC0014DAAC /* Frameworks */,
+				8F1089BC13D857DC0014DAAC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iVN;
+			productName = iVN;
+			productReference = 8F1089BE13D857DC0014DAAC /* iVN.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8F1089B513D857D90014DAAC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "MacaroniCode Software";
+			};
+			buildConfigurationList = 8F1089B813D857D90014DAAC /* Build configuration list for PBXProject "iVN" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 8F1089B313D857D90014DAAC;
+			productRefGroup = 8F1089BF13D857DC0014DAAC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8F1089BD13D857DC0014DAAC /* iVN */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8F1089BC13D857DC0014DAAC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F1089CD13D857DC0014DAAC /* InfoPlist.strings in Resources */,
+				8F1089D613D857DD0014DAAC /* MainWindow.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8F1089BA13D857DC0014DAAC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8F1089CF13D857DC0014DAAC /* main.m in Sources */,
+				8F1089D313D857DC0014DAAC /* iVNAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		8F1089CB13D857DC0014DAAC /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8F1089CC13D857DC0014DAAC /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8F1089D413D857DD0014DAAC /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8F1089D513D857DD0014DAAC /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8F1089D713D857DD0014DAAC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		8F1089D813D857DD0014DAAC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8F1089DA13D857DD0014DAAC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
+				INFOPLIST_FILE = "iVN/iVN-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8F1089DB13D857DD0014DAAC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
+				INFOPLIST_FILE = "iVN/iVN-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8F1089B813D857D90014DAAC /* Build configuration list for PBXProject "iVN" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8F1089D713D857DD0014DAAC /* Debug */,
+				8F1089D813D857DD0014DAAC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8F1089D913D857DD0014DAAC /* Build configuration list for PBXNativeTarget "iVN" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8F1089DA13D857DD0014DAAC /* Debug */,
+				8F1089DB13D857DD0014DAAC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8F1089B513D857D90014DAAC /* Project object */;
+}
