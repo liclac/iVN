@@ -5,6 +5,8 @@ The current version supports only *VNDS* (a homebrew Visual Novel engine for the
 
 The current version will be replaced by a more flexible (and portable) OpenGL-based engine once the main difficulties are dealt with.
 
+*NOTE:* This is not yet on the App Store. It's right before Beta stage, and will be released once it's finished. Feel free to help out!
+
 ## Features
 #### No Jailbreak Required
     
