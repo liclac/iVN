@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		22098A3E149D2F2300ED6131 /* Archive.m in Sources */ = {isa = PBXBuildFile; fileRef = 22098A3D149D2F2300ED6131 /* Archive.m */; };
+		2212A59414B9A5B6004529C5 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 2212A59314B9A5B6004529C5 /* README.markdown */; };
 		224BA2C714B1D25F009E9BF4 /* LoadingViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 224BA2C614B1D25F009E9BF4 /* LoadingViewController~iPad.xib */; };
 		224BA2CB14B1D42D009E9BF4 /* LoadingBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 224BA2CA14B1D42D009E9BF4 /* LoadingBackgroundView.m */; };
 		22543E8314B2052000F410B4 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22543E8114B204E400F410B4 /* CoreText.framework */; };
@@ -74,7 +75,6 @@
 		8F59529913D97C930064ACA8 /* ClassicModeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F59529713D97C930064ACA8 /* ClassicModeViewController.m */; };
 		8F59529A13D97C930064ACA8 /* ClassicModeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F59529813D97C930064ACA8 /* ClassicModeViewController.xib */; };
 		8F5952A913D9A4B10064ACA8 /* ScriptInterpreter.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5952A813D9A4B10064ACA8 /* ScriptInterpreter.m */; };
-		8F5952B013D9D1890064ACA8 /* TextPaneView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5952AF13D9D1890064ACA8 /* TextPaneView.m */; };
 		8F5952B313D9D4210064ACA8 /* SpriteView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5952B213D9D4210064ACA8 /* SpriteView.m */; };
 		8F59546D13DA11520064ACA8 /* MTDevice.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5953BC13DA11510064ACA8 /* MTDevice.m */; };
 		8F59546E13DA11520064ACA8 /* MTNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5953BE13DA11510064ACA8 /* MTNavigationController.m */; };
@@ -95,8 +95,6 @@
 		8F59547F13DA11520064ACA8 /* UIViewController+Tools.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5953DF13DA11510064ACA8 /* UIViewController+Tools.m */; };
 		8F5C4DF413D87D8300D3DFDE /* State.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5C4DF313D87D8300D3DFDE /* State.m */; };
 		8FA7680313D897B30063DE59 /* Command.m in Sources */ = {isa = PBXBuildFile; fileRef = 8FA7680213D897B30063DE59 /* Command.m */; };
-		8FB6226213F4464E001B1FB8 /* saya in Resources */ = {isa = PBXBuildFile; fileRef = 8FB6226013F4464E001B1FB8 /* saya */; };
-		8FB6226313F4464E001B1FB8 /* tsukihime in Resources */ = {isa = PBXBuildFile; fileRef = 8FB6226113F4464E001B1FB8 /* tsukihime */; };
 		8FC5DB7713DACD66008FDB71 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8FC5DB7613DACD66008FDB71 /* QuartzCore.framework */; };
 		8FC5DB7B13DAE2D3008FDB71 /* Sazanami-Gothic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8FC5DB7A13DAE2D3008FDB71 /* Sazanami-Gothic.ttf */; };
 		8FC5DB7D13DAE444008FDB71 /* skip@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8FC5DB7C13DAE444008FDB71 /* skip@2x.png */; };
@@ -125,6 +123,7 @@
 /* Begin PBXFileReference section */
 		22098A3C149D2F2300ED6131 /* Archive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Archive.h; path = Model/Archive.h; sourceTree = "<group>"; };
 		22098A3D149D2F2300ED6131 /* Archive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Archive.m; path = Model/Archive.m; sourceTree = "<group>"; };
+		2212A59314B9A5B6004529C5 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 		224BA2C614B1D25F009E9BF4 /* LoadingViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "LoadingViewController~iPad.xib"; path = "Controller/LoadingViewController~iPad.xib"; sourceTree = "<group>"; };
 		224BA2C914B1D42D009E9BF4 /* LoadingBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingBackgroundView.h; path = View/LoadingBackgroundView.h; sourceTree = "<group>"; };
 		224BA2CA14B1D42D009E9BF4 /* LoadingBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoadingBackgroundView.m; path = View/LoadingBackgroundView.m; sourceTree = "<group>"; };
@@ -234,8 +233,6 @@
 		8F5952A713D9A4B10064ACA8 /* ScriptInterpreter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScriptInterpreter.h; path = Controller/ScriptInterpreter.h; sourceTree = "<group>"; };
 		8F5952A813D9A4B10064ACA8 /* ScriptInterpreter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScriptInterpreter.m; path = Controller/ScriptInterpreter.m; sourceTree = "<group>"; };
 		8F5952AA13D9A53A0064ACA8 /* ScriptInterpreterDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScriptInterpreterDelegate.h; path = Protocols/ScriptInterpreterDelegate.h; sourceTree = "<group>"; };
-		8F5952AE13D9D1890064ACA8 /* TextPaneView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TextPaneView.h; path = View/TextPaneView.h; sourceTree = "<group>"; };
-		8F5952AF13D9D1890064ACA8 /* TextPaneView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TextPaneView.m; path = View/TextPaneView.m; sourceTree = "<group>"; };
 		8F5952B113D9D4210064ACA8 /* SpriteView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SpriteView.h; path = View/SpriteView.h; sourceTree = "<group>"; };
 		8F5952B213D9D4210064ACA8 /* SpriteView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SpriteView.m; path = View/SpriteView.m; sourceTree = "<group>"; };
 		8F5953AE13DA11510064ACA8 /* Doxygen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Doxygen.h; sourceTree = "<group>"; };
@@ -282,8 +279,6 @@
 		8F9F8E5B13DC0F9300E0CC5C /* SaveLoadPageDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaveLoadPageDelegate.h; path = Protocols/SaveLoadPageDelegate.h; sourceTree = "<group>"; };
 		8FA7680113D897B30063DE59 /* Command.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Command.h; path = Model/Command.h; sourceTree = "<group>"; };
 		8FA7680213D897B30063DE59 /* Command.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Command.m; path = Model/Command.m; sourceTree = "<group>"; };
-		8FB6226013F4464E001B1FB8 /* saya */ = {isa = PBXFileReference; lastKnownFileType = folder; name = saya; path = iVN/saya; sourceTree = "<group>"; };
-		8FB6226113F4464E001B1FB8 /* tsukihime */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tsukihime; path = iVN/tsukihime; sourceTree = "<group>"; };
 		8FC5DB7613DACD66008FDB71 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		8FC5DB7913DADCF6008FDB71 /* ChoiceDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ChoiceDelegate.h; path = Protocols/ChoiceDelegate.h; sourceTree = "<group>"; };
 		8FC5DB7A13DAE2D3008FDB71 /* Sazanami-Gothic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sazanami-Gothic.ttf"; sourceTree = "<group>"; };
@@ -370,6 +365,7 @@
 		8F1089B313D857D90014DAAC = {
 			isa = PBXGroup;
 			children = (
+				2212A59314B9A5B6004529C5 /* README.markdown */,
 				8F59527B13D97B050064ACA8 /* Game */,
 				8F02722F13DB1B37008DA03A /* Save/Load */,
 				8F59528713D97B880064ACA8 /* Choices */,
@@ -381,8 +377,6 @@
 				22B509F614B33FE1000559FB /* Categories */,
 				8F1089C813D857DC0014DAAC /* iVN */,
 				8F1089C913D857DC0014DAAC /* Supporting Files */,
-				8FB6226013F4464E001B1FB8 /* saya */,
-				8FB6226113F4464E001B1FB8 /* tsukihime */,
 				8F1089C113D857DC0014DAAC /* Frameworks */,
 				8F1089BF13D857DC0014DAAC /* Products */,
 			);
@@ -612,8 +606,6 @@
 		8F5952AC13D9A6080064ACA8 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				8F5952AE13D9D1890064ACA8 /* TextPaneView.h */,
-				8F5952AF13D9D1890064ACA8 /* TextPaneView.m */,
 				8F5952B113D9D4210064ACA8 /* SpriteView.h */,
 				8F5952B213D9D4210064ACA8 /* SpriteView.m */,
 			);
@@ -789,8 +781,6 @@
 				8FC7C0AA13DD68A500A5E60C /* Readme.markdown in Resources */,
 				8FC7C0B013DD6E3C00A5E60C /* LoadingViewController.xib in Resources */,
 				8FC7C0B913DD8B6D00A5E60C /* GameMenuViewController.xib in Resources */,
-				8FB6226213F4464E001B1FB8 /* saya in Resources */,
-				8FB6226313F4464E001B1FB8 /* tsukihime in Resources */,
 				8F1DC63713F562310097DAB3 /* A.png in Resources */,
 				8F1DC63813F562310097DAB3 /* A@2x.png in Resources */,
 				8F1DC63B13F562C50097DAB3 /* gear.png in Resources */,
@@ -802,6 +792,7 @@
 				22AF492314B0860200913FAF /* SaveLoadViewController~iPad.xib in Resources */,
 				224BA2C714B1D25F009E9BF4 /* LoadingViewController~iPad.xib in Resources */,
 				22B509F414B33C4E000559FB /* index.html in Resources */,
+				2212A59414B9A5B6004529C5 /* README.markdown in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -845,7 +836,6 @@
 				8F59529313D97C390064ACA8 /* ClassicChoiceViewController.m in Sources */,
 				8F59529913D97C930064ACA8 /* ClassicModeViewController.m in Sources */,
 				8F5952A913D9A4B10064ACA8 /* ScriptInterpreter.m in Sources */,
-				8F5952B013D9D1890064ACA8 /* TextPaneView.m in Sources */,
 				8F5952B313D9D4210064ACA8 /* SpriteView.m in Sources */,
 				8F59546D13DA11520064ACA8 /* MTDevice.m in Sources */,
 				8F59546E13DA11520064ACA8 /* MTNavigationController.m in Sources */,

@@ -18,7 +18,6 @@
 #import "StandardChoiceViewController.h"
 #import "SaveLoadViewController.h"
 #import "GameMenuViewController.h"
-#import "TextPaneView.h"
 
 #import "UIDevice+Tools.h"
 #import "UIWebView+BufferFunctions.h"
