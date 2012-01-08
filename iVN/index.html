@@ -1,0 +1,86 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			var bodyLoaded = false;
+			
+			var bufferSize = 500;
+			var counter = 0;
+			var buffer = new Array();
+			
+			function __addLine(string)
+			{
+				if(!bodyLoaded) { buffer[buffer.length()] = string; return; }
+				var newP = document.createElement("p");
+				newP.textContent = string;
+				
+				if(counter >= bufferSize)
+				{
+					document.body.removeChild(doument.body.firstChild);
+				}
+				else counter++;
+				document.body.appendChild(newP);
+				
+				window.scrollTo(0, document.body.scrollHeight);
+			}
+			
+			function __clearBuffer()
+			{
+				while(document.body.hasChildNodes())
+				{
+					document.body.removeChild(document.body.firstChild);
+				}
+			}
+			
+			function __setFontSize(fz)
+			{
+				document.body.fontSize = fz;
+				window.scrollTo(0, document.body.scrollHeight);
+			}
+			
+			function _onLoad()
+			{
+				bodyLoaded = true;
+				for(var line in buffer)
+				{
+					__addLine(line);
+				}
+				
+				return "[" + buffer + "]";
+			}
+		</script>
+		<style type="text/css">
+			@font-face {
+				font-family: "Sazanami Gothic";
+				src: url(Sazanami-Gothic.ttf) format("truetype");
+			}
+			
+			p
+			{
+				margin-top:10px;
+			}
+			
+			p:last-child
+			{
+				color:yellow;
+			}
+			
+			html, body
+			{
+				background-color:transparent;
+				margin:0;
+				padding:0;
+			}
+			
+			body
+			{
+				color:#fff;
+				text-shadow:0 5px 5px #000;
+				font-family:"Sazanami Gothic";
+				padding:0 10px 10px 10px;
+			}
+		</style>
+	</head>
+	<body onload="_onLoad()">
+		
+	</body>
+</html>

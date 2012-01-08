@@ -1,0 +1,14 @@
+bgload BG_29B.jpg
+text .... I'll stay here.
+text We promised.
+text We promised to meet here.
+text We still haven't fulfilled our promise for tonight.
+text To meet here, and to fight together.
+text ----So,
+text If I can't break this promise, and if she thinks it's important too,
+text ~
+text Arcueid will come back here.
+text I can only continue to believe in her and wait here.
+bgload IMA_10.jpg
+setvar ark_regard + 2
+jump s193.scr

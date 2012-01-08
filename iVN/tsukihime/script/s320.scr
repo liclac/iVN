@@ -1,0 +1,222 @@
+bgload BG_34A.jpg
+text .... I guess if I tried to help Hisui I'd just get in the way.
+text Since Akiha's actually home for a change, I guess I'll pass the time talking to her.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_46A.jpg
+sound SE_04.aac 1
+text "Akiha, you here?"
+text "Eh---Ni, Nii-san..!?"
+text Hurried sounds can be heard from within.
+text "I just wanted to talk for a bit, if that's okay?"
+text "Ah---yes, please, come in."
+text I put my hand on the doorknob.
+text Thinking about it, this is the first time I've ever been in Akiha's room.
+text "...... Hmm."
+text I open the door a bit tensely.
+bgload BG_36A.jpg
+text "Uh---"
+text .... I guess the room is exactly what I was expecting.
+bgload BG_36A.jpg
+setimg AKI_T16B.png 40 0
+text "What is it, Nii-san?
+text Is it something important, to make you come to my room?"
+text "Nah, not at all; I just felt like talking for a bit.
+text If you're busy, I can come back later."
+bgload BG_36A.jpg
+setimg AKI_T08B.png 40 0
+text ".... Well, I am busy, but.. I can put that off, to make time to talk with you."
+text Akiha tidies up the notebook on her desk.
+text "Oh, you were doing homework?
+text Then, I should go; I shouldn't interrupt your studies."
+bgload BG_36A.jpg
+setimg AKI_T04B.png 40 0
+text "No, I was just about to start, so I can leave it for tonight.
+text It's fine, so please sit down.
+text I shall make some tea."
+text "Alright, but no tea, thanks.
+text I wouldn't want to spoil my appetite today."
+bgload BG_36A.jpg
+setimg AKI_T16B.png 40 0
+text "Ah, t-that's true.. Then, I'll do the same."
+bgload BG_36A.jpg
+text Akiha sits on the chair of her desk.
+text I lower myself into a suitable chair, and glance around Akiha's room.
+text It's an amazing room, but of course it's not really my type of place.
+text I haven't even been able to settle into my own room, and it has just the bed and the desk; if they'd given me a room decked out like this, I might have fled.
+text "Hey, Akiha."
+bgload BG_36A.jpg
+setimg AKI_T12B.png 40 0
+text "Yes?
+text What is it?"
+text "Um, it's just something I've been wondering about for a while.
+text Why did you call me back?
+text The old man died, and while I am the eldest son, that doesn't seem like much of a reason."
+bgload BG_36A.jpg
+setimg AKI_T21B.png 40 0
+text "What do you mean, not much of a reason?
+text This is your home; it's only natural for you to come back here.
+text There doesn't need to be a reason."
+text "Well, that's true, but.. don't you have a grudge against me?
+text I left you here for eight years."
+bgload BG_36A.jpg
+setimg AKI_T03B.png 40 0
+text "Yes, of course I have a grudge.
+text It was father's fault you were sent to live with the Arimas, but it really made me mad that you didn't send even a single letter during that time."
+text "Uh---no, that was.."
+bgload BG_36A.jpg
+setimg AKI_T07B.png 40 0
+text "That was what?
+text Come on, Nii-san, what is it!?
+text You come in here to remind me of things I almost forgot!
+text Do you enjoy making me angry that much?"
+text "No!
+text Of course I didn't do it to make you angry.
+text The thing about the letter, I didn't do it because that old man forbade me to do it, so---"
+bgload BG_36A.jpg
+setimg AKI_T06B.png 40 0
+text "I know that!
+text I'm angry because you brought it up!"
+text "---Ah.
+text I'm sorry, I just wondered.
+text I shouldn't have mentioned it."
+bgload BG_36A.jpg
+setimg AKI_T05B.png 40 0
+text "Indeed.
+text Please don't talk about such trifling matters."
+text With a sound of annoyance, Akiha looks away.
+text .... Really, what am I doing?
+text After I took the trouble to come and talk to Akiha, why am I talking about such unimportant things?
+bgload BG_36A.jpg
+setimg AKI_T18B.png 40 0
+text "Well, I guess it's like you to carry such small matters forever.
+text Kohaku said so too, right?
+text This is your home.
+text You should be more relaxed."
+text "Yeah.. I think I'll get used to it, gradually.
+text But---"
+text "But, what?"
+text "Well, no, it's just.. there's no nostalgia.
+text I remember life in the mansion, but I'm confused, because none of this matches my memories.
+text Well, I guess I've been away for eight years, so it's natural."
+bgload BG_36A.jpg
+setimg AKI_T23B.png 40 0
+text "Hm?
+text What's with that expression?
+text Like I said, I don't have anything against the mansion.
+text Don't worry, I don't want to leave or anything."
+text "Ah---yeah.
+text I'm glad, but.."
+bgload BG_36A.jpg
+text Akiha looks away for some reason.
+bgload BG_36A.jpg
+setimg AKI_T17B.png 40 0
+text "Nii-san, I have a question I forgot to ask, too.
+text It's.. about the injury from your accident eight years ago.."
+text "Hm?
+text Injury from the accident.. you mean, the wound in my chest?"
+text "Yes.
+text Kohaku said it hasn't completely healed yet, but.. does it still trouble you?"
+text "Hm.. I don't know.
+text The actual wound itself healed ages ago, but there's some unstable organs that got damaged.
+text I heard that some of those would heal in time, but some would stay unstable.
+text .... I guess my incessant anemia is the result of that, in addition to some emotional damage from the accident."
+bgload BG_36A.jpg
+text "Does it.. um, hurt, Nii-san?"
+text Akiha murmurs a question, looking away.
+text ".... Nah, it doesn't hurt anymore.
+text I just feel a little dizzy when I wake up, no worse than that."
+text Well, perhaps it hurts occasionally in the dead of winter.
+text "The dizziness has faded lately, and I'm sure the anemia will go away in a few years.
+text Anyway, it's nothing to worry about.
+text There are people out there with wounds they won't recover from for twenty years, so my wound's nothing in comparison."
+text Akiha says nothing, still looking away.
+text ".............."
+text Damn.
+text The atmosphere has become heavy again.
+text ".............."
+text Akiha is completely motionless.
+text "............?"
+text Somehow, it seems unnatural.
+text "Hey, Akiha!?"
+bgload BG_36A.jpg
+setimg AKI_T19C.png 40 0
+text "Ah---Nii-san?"
+text Akiha looks up.
+text She lacks all vitality, as if she was passed out until now.
+text "What's wrong, do you feel bad?
+text If you do, you should lie down.
+text I'll go back to my room."
+text "Nn---no, that's not it.
+text I was just.... listening to you, I was remembering about the past---"
+bgload BG_36A.jpg
+text Akiha's body shakes.
+text She almost falls off her chair, but she remains in it somehow.
+bgload BG_36A.jpg
+setimg AKI_T20B.png 40 0
+text She takes a halting breath.
+text "Akiha, you're really acting strangely.
+text You should lie down."
+bgload BG_36A.jpg
+setimg AKI_T12B.png 40 0
+text "---No, it's alright.
+text It's not as bad as yours, but I get easily dizzy too.
+text .... I was just thinking about the accident eight years ago.
+text Your wound was so deep, and there was so much blood coming out of it---that's why I felt so bad."
+text ".... I see.
+text If that's so, but don't push yourself.
+text If you feel bad, please tell me."
+bgload BG_36A.jpg
+setimg AKI_T04B.png 40 0
+text "Of course.
+text I would do that without being told.
+text It's alright; unlike yours, my dizziness is purely mental."
+text Akiha answers me clearly, completely recovered.
+bgload IMA_10.jpg
+bgload BG_36A.jpg
+bgload BG_36A.jpg
+setimg AKI_T04B.png 40 0
+text "It's almost time, isn't it?
+text Kohaku will call us soon, so you should go back to your room."
+text "Ahh, five o'clock already?
+text .... Well, I'll go back to my room, but Akiha, don't push yourself.
+text It doesn't do any good not to speak up when you're suffering."
+bgload BG_36A.jpg
+setimg AKI_T08B.png 40 0
+text "Oh?
+text It's not like you to be so concerned about me, Nii-san.
+text Maybe I should do so once in a while."
+text "Dummy.
+text It's just an occasional thing.
+text I'll see you later."
+bgload BG_36A.jpg
+music ~
+text I open the door.
+text Akiha's room is at the very end of the west wing, a good fifty meters from my room at the end of the east wing.
+bgload BG_36A.jpg
+setimg AKI_T17B.png 40 0
+text "Ah---Nii-san."
+text "Hm?
+text What is it?
+text Did you forget something?"
+bgload BG_36A.jpg
+setimg AKI_T12B.png 40 0
+text "No, it's not that, but......"
+text Akiha falls silent, unable to find the right words.
+text But the eyes gazing at me---
+text ~
+text ".... I'm sorry.
+text It's nothing."
+text ~
+text ---seem like they are apologizing to me.
+bgload BG_36A.jpg
+setimg AKI_T04B.png 40 0
+text "I'll see you in the dining room later.
+text I won't get angry whatever you do today, so don't worry."
+text "Ahh, that's a relief.
+text Since Kohaku-san cooked us a feast, I was hoping we might be able to forget about table manners today."
+bgload BG_36A.jpg
+text With that, I leave Akiha's room.
+bgload IMA_10.jpg
+setvar akiha_regard + 1
+jump s321.scr

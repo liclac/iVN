@@ -1,0 +1,378 @@
+bgload BG_29B.jpg
+text ...... The clock's hands point to twelve.
+text It's two hours past the promised time.
+text "---Whew."
+text I slouch on the bench and sigh.
+text ".... She might not come after all."
+text I don't know.
+text I don't know, but I don't feel like going back.
+text "---Yeah, I'll wait until the morning.
+text Damn it."
+text I lie on the bench in frustration.
+text ~
+text ----And then.
+text "...... Huh?"
+text Wait a minute.
+text I think I saw a flash of white behind the rest area.
+text .... Besides, it moves back as soon as I saw it.
+text "------"
+text I stand up from the bench and stride towards the rest area.
+text .... As if it knew it couldn't hide anymore, the white figure shows its face.
+text ~
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+music 03.mp3
+text "Ahaha, you found me~"
+text Arcueid appears more cheerfully than ever.
+text "Arcueid, you---"
+text "Hm?
+text What?"
+text "---You really came?"
+text I blurt that out because I still can't believe it.
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "Of course, we promised.
+text I came about ten minutes before you did."
+text She looks the other way.
+text ".... Ten minutes before, but, I---"
+text I came before ten o'clock, and she came earlier?
+text "Why....?
+text If you were here before me, why didn't you tell me you were waiting there?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "I wanted to watch you while I was hiding."
+text "-----"
+text .... I see.
+text Even though she doesn't act any different, she must be bothered by what happened last night.
+text That's why----she couldn't face me directly and was hiding.
+text ".... Sorry.
+text That's right, it's not that simple---"
+text "Yeah.
+text You never even knew I was here.
+text I was waiting for you to notice.
+text I was planning on meeting in a different way this time, but you ruined it by just spacing out."
+text "----Eh?"
+text ~
+text Ruined what?
+text "Arcueid---you weren't hiding because you felt awkward....?"
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "Why?
+text I was a little bored so I wanted to play around."
+text She says it lightly, not even knowing an inkling of the frustration I felt.
+text ".... Play around with me, you---"
+bgload BG_29B.jpg
+text The joy I felt from meeting her fades away instantly.
+text It's not a mood where I have to think about what I should do after seeing her.
+text .... As usual, she's acting at her own pace without even understanding how I feel.
+text "-----Ha."
+text I fill my lungs with a deep breath of night air.
+text I'm less angry than surprised.
+text Maybe I'm just relieved she is acting normally.
+text Well, normal for her.
+text As proof, it feels like my heart laden with impurities has just been cleaned anew.
+text ".... Man.
+text You win."
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Really?
+text I thought you were just zoned out."
+text "No, not about the hide-and-go-seek."
+text .... Oh well, it's useless putting it into words.
+text "I'm glad you came.
+text To be honest, I thought I'd never see you again."
+bgload BG_29B.jpg
+setimg ARK_T12.png 36 0
+text "---Eh?
+text You thought so after only waiting two hours?"
+text ".... That's not it.
+text It's because of last night.
+text I thought we would never meet again."
+music ~
+bgload BG_29B.jpg
+setimg ARK_T17.png 36 0
+text "----"
+music 05.mp3
+text ".... That won't do, Shiki.
+text I said to just forget about it."
+text Arcueid says this weakly.
+bgload BG_29B.jpg
+text "Ah-----"
+text .... Idiot.
+text I am such an idiot.
+text I selfishly thought she was acting completely normal.
+text But, I was wrong.
+text She was acting that way so I wouldn't feel bad.
+text ".... Sorry.
+text I was an idiot.
+text I don't have any right to yell at you anymore."
+bgload BG_29B.jpg
+setimg ARK_T10.png 36 0
+text "I said it's okay.
+text If anyone is to blame, it's me.
+text So just forget about it.
+text Isn't that better for the both of us?"
+text She tries to fool us both by speaking cheerfully.
+text Fool us about last night, fool us about how bothered she is.
+text But.
+text Telling me to forget with that expression, how can I forget?
+text "---No.
+text I wasn't apologizing for last night.
+text I'm an idiot because I can't forget about something I should forget."
+text "Eh---Shiki?"
+text "Since this morning, all I thought about was you.
+text All I could think about was how I should apologize to you and what to say after I saw you.
+text So, I can't---just forget about it now."
+bgload BG_29B.jpg
+setimg ARK_T17.png 36 0
+text "----"
+text Arcueid looks away.
+text I---can't look at her either.
+text After sensing I said something I shouldn't have, I can't look into her eyes now.
+text She doesn't respond.
+text I can't either, and a long silence begins.
+text ~
+text ---I don't know how long the two of us stood there.
+text ~
+text Arcueid nods slightly.
+text ".... Yeah, to tell the truth.
+bgload BG_29B.jpg
+setimg ARK_T14.png 36 0
+text I couldn't forget about it either, Shiki."
+text Arcueid blushes as she says this with some difficulty.
+text "Arcueid----"
+text She looks so cute doing that.
+bgload BG_29B.jpg
+text As soon as I think that---Arcueid looks around her.
+text ~
+text I don't know when this happened, but we're surrounded by human shapes.
+music ~
+text "Wha......!?"
+text I can't think since it was so sudden.
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+music 06.mp3
+text "We're surrounded.
+text Get ready Shiki.
+text If you don't fight, you'll just die."
+text "Fight?
+text Then they---"
+text "If you take off your glasses, you'll get it, won't you?
+text They are 'The Dead' without even a finger's worth of normal blood."
+text "........!"
+text I quickly take out my knife and take off my glasses.
+bgload BG_29C.jpg
+text Like she says,
+text The five people surrounding us are just scribbled lines making a human shape.
+text "Why---!?
+text You said you killed them all yesterday, Arcueid!"
+bgload BG_29C.jpg
+setimg ARK_T05C.png 36 0
+text "---Yes.
+text These are the ones I destroyed yesterday."
+text She narrows her eyes and glares at them.
+text They advance sluggishly.
+text "Then were they only pretending to be dead....!?"
+text "Of course not.
+text I'm not weakened enough to be fooled by such tricks.
+text .... But, the fact that I made a mistake can't be excused.
+text I didn't make sure they dissolved into ashes at the end."
+bgload BG_29C.jpg
+text ~
+text Shuffle.
+text They close the circle around us.
+text My fingers grasping my knife tremble a bit.
+text To be blunt, there's no pressure coming from these Dead.
+text Compared to a monster like Nrvnqsr, they're practically nothing.
+text ~
+text ---But, five of them.
+text Can I fight this many Dead---this many things who were once human?
+text "--Shiki, if you hesitate you'll die.
+text They are no longer alive.
+text Once they have their blood sucked by a vampire and become The Dead, they can no longer return--they are just dolls used by the vampire.
+text There's no sin in killing them."
+text I hear her voice from behind me.
+text It seems she moved to protect my vulnerable back.
+text "Wait.
+text What do you mean?"
+text ".... I mean there are many ways to magically control a dead body.
+text It's easier to infuse a human corpse with mana than animals or intangible objects, so it's very convenient---unfortunately, I don't have time to go over the details.
+text They're coming."
+text I sense her moving away.
+text At the same time, they attack.
+bgload IMA_10.jpg
+text The shapes of death attack.
+text They simply fly forward, arms outstretched.
+text "----K!"
+text I take a huge leap to the side and evade their attack.
+text Then, I sense something terrible behind me.
+text "Why---you....!"
+text I whirl around with all my strength.
+text There, one of The Dead is trying to punch me.
+bgload IMA_10.jpg
+setimg MAN_T03.png 47 0
+text ~
+text ----The Dead's body is almost devoid of places without "lines".
+text Which lets me slice anywhere on it's body.
+text What's more, it's movements are incredibly sluggish.
+text Far easier than anything that came out of Nrvnqsr.
+text "------"
+text The Dead charge me.
+text I can kill them with ease.
+text ~
+text Evading the swinging arm, I aim for the first one's unprotected lower left abdomen.
+text ~
+text In the "line" of blood vessels there.
+text I stare at the heart called its "point"----
+text ~
+text "Damn---it....!!!!"
+text Thrash.
+text The knife doesn't reach it's target, only slicing through its upraised arm.
+text The one-armed Dead doesn't even pause its attack.
+text The other Dead also comes in showing no fear.
+text ~
+text The one-armed Dead attacks.
+text Right when I evade that Dead, the other Dead jumps on me from behind.
+bgload IMA_13.jpg
+sound SE_10.aac 1
+text "Ah----"
+text Grind.
+text From behind, like a piggy-back stance.
+text The Dead bites on my neck.
+text Not to suck my blood or anything like that.
+text Just like a beast trying to kill its prey by biting its neck off.
+text "Gah----!"
+text Is a neck able to be bitten off by human mouth?
+text The Dead's mouth is shallow.
+text It bites with its front teeth rather than its back.
+text As a result, The Dead's teeth actually break off.
+text Even still---it tries to bite through my neck with its flat mouth.
+text ~
+text It doesn't really hurt.
+text It's just disgusting.
+text "Ah.... ah, ah---"
+text The one-armed dead walks toward me.
+text I have to kill The Dead behind me or I'll die.
+text The method is simple.
+text As it tries to continue biting my neck, I can just slice my knife through its face.
+text "------"
+text But---that means I am going to kill.
+text I understand.
+text They aren't human, they aren't even living---but I still feel it's wrong.
+text ~
+text ~
+text ~
+text ~
+text ---How naive.
+text Even if they are corpses.
+text They have the shapes of humans, and they move like them.
+text It still seems mistaken to kill them as another human being----
+text "Shiki---!?"
+text I hear Arcueid's voice as she deals with the other three Dead.
+text Without thinking, despite the one in front of me, I look over at her.
+text ~
+text ---And.
+text I see something terribly unbelievable.
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg ARK_T15.png 36 0
+text "-----"
+text Arcueid is wounded.
+text Even though they move so sluggishly and would only take her a second to kill, Arcueid is being pushed by those Dead.
+text She breathes heavily.
+text Her footwork is also unsteady---and she's having difficulty evading those attacks even I can evade.
+bgload BG_29C.jpg
+text The Dead rips into her arm.
+text She counters.
+text She tears the body in two from the head to its waist.
+text Both halves crumble to the ground.
+text ~
+text At the same time---the other waiting shades of death pounce on her.
+bgload BG_29C.jpg
+setimg ARK_T18.png 36 0
+text "A---"
+text With a crash she lands on her knees.
+text I can tell she's breathing wildly from this distance.
+bgload BG_29C.jpg
+text There---the two Dead attack.
+text They kick her kneeling figure in the face and makes her collapse on the ground.
+text ~
+text "St---"
+text ~
+text After that,
+text they carry a dull, expressionless smile as they get on top of her.
+text "Stop---"
+text ~
+text .... She lies there arms outspread like a cross.
+text Like when I did those disgraceful things to her last night.
+text ~
+text "Stop it, you fucking bastards---!"
+bgload IMA_10.jpg
+bgload IMA_14.jpg
+text Stab.
+text I cut through the face of the one behind me still trying to bite me.
+text I pierce the lower right abdomen of the one in front of me which had strangely paused.
+text That's where its "death" is.
+text Not even looking at it as it crumbles away, I turn around and kill the faceless Dead behind me.
+text I run.
+text The ones around her realize I'm coming and get up and attack.
+text "-----"
+text No problem.
+text I slice through their "points" of death as they attack me.
+music ~
+bgload BG_29B.jpg
+text "Ha-----agh."
+text After it's all over.
+text I start to catch my breath.
+text ~
+text "Gha---ah."
+text The four figures crumble away into ash.
+text The one Arcueid killed earlier makes five.
+text "Ha--aah."
+text Killed.
+text Without hesitating, I stopped them completely.
+text ~
+text "Agh, ah."
+text I can't think clearly.
+text Probably because regret and self-admonition are screaming at me.
+text My panting fills the air.
+text But, it's still good.
+text It's better than her getting hurt.
+text For the first time,
+text With my own free will, with the mind of Tohno Shiki---I used this power for someone else's sake.
+text ~
+text I keep panting.
+text I can't seem to fully catch my breath.
+text I can hear slight wheezing mixed in with the wild breathing.
+text ".... Arcueid."
+text Turning around, I see her full of pain and on her knees.
+text ~
+text "Are you okay, Arcueid....!?"
+text I dash towards her.
+text She's curled up as she breathes like something who can do nothing else.
+text "What's wrong, you're covered in sweat.
+text Did your wound open up....?"
+text I kneel and try to look at her face.
+bgload BG_29B.jpg
+setimg ARK_T20.png 36 0
+text "Shi----ki."
+text However, she has a hand covering it.
+text I can't see her face.
+text All I can see---is the blood-shot red eyes through her fingers.
+text "---"
+text Her suffering isn't normal.
+text The way she's breathing intermittently isn't natural.
+text A hungry breath.
+text Bloodshot eyes.
+text Her aacing hair.
+text "Ar---c"
+text ~
+text ----Chill.
+text ~
+text Sensing danger, I step back.
+text Yet far faster than my movement is her teeth closing in to suck my blood.
+bgload IMA_11.jpg
+if flgB >= 1
+    jump s188.scr
+fi
+jump s189.scr

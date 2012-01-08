@@ -1,0 +1,839 @@
+bgload BG_33B.jpg
+text I'll go ask Kohaku-san.
+text She seemed pretty knowledgeable about all those things this morning.
+text I don't think Akiha would want to talk about it, and searching my old man's room would take time.
+text I'll probably have the best luck with Kohaku-san.
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+music 01.mp3
+text "She's probably sweeping in the back."
+text I enter the courtyard.
+text "Huh....?"
+text I don't see her anywhere.
+text I glance around.
+text ~
+text ---And then.
+text ~
+text For just an instant, I see the color of her kimono in the forest.
+text "....?
+text Is there anything to clean over there?
+text There isn't anything over there.
+text I played in that forest as a child, so I would remember.
+text I used to play a lot in that direction, so over there---
+bgload BG_44A.jpg
+bgload BG_42B.jpg
+text "-----Eh?"
+text .... What was that?
+text There should be nothing there.
+text But there's something odd about that.
+text If there's nothing there, then why?
+text Did this garden-like area hold some special significance to me?
+text "...... Ou, ch......"
+text I get a light headache.
+text .... After a little debate with myself, I follow after Kohaku-san.
+bgload IMA_10.jpg
+bgload BG_54B.jpg
+bgload BG_44A.jpg
+text "---------"
+text Deep in the forest, there is another mansion.
+text .... Detached, I suppose.
+text Deep within the trees, it seems to be hidden from sight from the main building of the mansion.
+sound SE_01.aac 1
+text "-------No way."
+text My heart convulses.
+text This is the first time I've seen it, but---it seems horribly familiar, and I start to get dizzy.
+text ".................."
+text .... Kohaku-san went inside.
+text I don't remember what this detached building is.
+text I just have a bad feeling about all of this and I don't want to go inside.
+text But, it would be pretty stupid if I came all the way here only to go back, so I force myself to continue.
+bgload IMA_10.jpg
+text .... I walk around inside.
+text It's a little run-down here and there, probably because it hasn't been used in years.
+text But it seems like someone may have been doing some maintenance because it isn't dirty.
+text ".... Kohaku-san is probably in the Japanese-style room in the back."
+text I absent-mindedly think that aloud and automatically walk towards the room.
+bgload BG_45B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---This is all so familiar.
+text The smell of tatami fills the small room.
+bgload BG_45B.jpg
+setimg KOHA_T02B.png 52 0
+text "Huh?
+text Shiki-san?
+text Why did you come here?"
+text Kohaku-san tilts her head in surprise.
+text I---
+text "I wanted to ask you about something, so I followed you here."
+text ---Strangely enough, I respond calmly.
+bgload BG_45B.jpg
+setimg KOHA_T03B.png 52 0
+text "A talk, with me?"
+text "Yeah.
+text I wanted to talk more about this morning.
+text .... If this isn't a good place, should we go to the courtyard?"
+text I look up to the ceiling.
+text It is almost sunset, so it'll get dark soon.
+text The light in this room probably doesn't work, so we should head somewhere else.
+bgload BG_45B.jpg
+setimg KOHA_T12.png 52 0
+text "Shiki-san, if you want to talk about that then here is probably better.
+text If we go back to the mansion, we might run into Akiha-sama and will not be able to talk about Makihisa-sama."
+text "Ah---that's right.
+text She'll probably see us.
+text .... But Kohaku-san, I don't like keeping things secret from Akiha."
+text "Hmm, that is a little difficult.
+text Akiha-sama does not like talking about Makihisa-sama.
+text So if you wish to continue our talk from this morning, then we have to do it where Akiha-sama will not overhear us."
+text ".... Does that mean, we have to keep it a secret from Akiha?"
+bgload BG_45B.jpg
+setimg KOHA_T15.png 52 0
+text "Yes.
+text A secret between me and you, Shiki-san.
+text We can't let Akiha-sama or Hisui-chan know about it."
+text Kohaku-san smiles like she's having a lot of fun.
+text .... Well.
+text Having a secret just between the two of us does seem a little exciting, but....
+text "But Kohaku-san, the sun is almost setting.
+text We can't talk here, right?"
+bgload BG_45B.jpg
+setimg KOHA_T03B.png 52 0
+text "Not at all.
+text This building is still maintained at a level for people to live in, so it has futons already prepared and electricity."
+text "Really?
+text But this place hasn't been used for a while, right?
+text Why is it maintained like that?"
+text "Let's see, maybe Akiha-sama is just fond of this place.
+text A long time ago, this was where Makihisa-sama's adopted child used to live."
+text ~
+text ----Huh?
+text Makihisa.... my old man, adopted a child, a long time ago?
+text ~
+text ".... Wait a sec, Kohaku-san.
+text My old man adopted a child?"
+bgload BG_45B.jpg
+setimg KOHA_T02B.png 52 0
+text "Oh, you don't remember?
+text About ten years ago, he brought a child here.
+text His parents both died in an accident, so he adopted the child."
+text "That---happened?"
+text "Yes.
+text But two years later, the child passed away.
+text It was a trivial accident, but a lot of the servants began to say that the Tohno family was cursed."
+music ~
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+sound SE_02.aac -1
+text -----Wait a minute.
+text Something about her words seems scary.
+text Just hearing them, my vision starts to warp.
+text It was as if the room was made completely of dissolving sugar.
+text ~
+text "Ko, Kohaku, san."
+text A child adopted ten years ago.
+text Two years later, the child died.
+text In other words,
+text eight years ago----that's when I had my accident and was sent to the hospital.
+bgload CMO_06.jpg
+text ---Accident.
+text ~
+text What kind of accident was it?
+text An accident that seriously wounded me.
+text An, accident that the adopted child, was killed in?
+text ~
+text A hot summer day.
+text ~
+text ---I can't remember.
+text All I know is at that time, my arms seemed to be soaked in blood----
+bgload BG_45B.jpg
+music 04.mp3
+text "Kohaku, san.
+text You said 'cursed'?"
+bgload BG_45B.jpg
+setimg KOHA_T12.png 52 0
+text "No, it isn't anything important.
+text It is just that a lot of the members of the Tohno family have died young.
+text Such as in accidents, or suicide, or illness; a curse that does not allow them a natural death.
+text Well, that was the rumor, anyway."
+text "----Suicide.... what?"
+text "Some members of the Tohno family---like Makihisa-sama, carried mental illnesses and committed suicide when they became adults.
+text These are just rumors, but it's said some of them were murderers before the war."
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text .... Mental illness?
+text .... Murderers?
+text .... Such as, seeing dreams of killing people?
+text .... Such as, my memory being extremely vague?
+text "Kohaku-san, that---"
+bgload BG_45B.jpg
+setimg KOHA_T12.png 52 0
+text "Oh, I'm very sorry.
+text Those are just dark rumors about the Tohno family."
+text ".... No, that's fine.
+text That is what I wanted to ask about.
+text .... If you don't mind, can you continue?"
+bgload BG_45B.jpg
+setimg KOHA_T08.png 52 0
+text "---About Makihisa-sama?"
+text Her tone lowers.
+text "............ Yeah."
+text I nod.
+text Kohaku-san lowers her eyes, and then looks directly at me.
+bgload BG_45B.jpg
+setimg KOHA_T03B.png 52 0
+text "Shiki-san.
+text We spoke about it this morning, but I took care of Makihisa-sama's condition two years before he passed away.
+text .... While you were living with the Arima family, Makihisa-sama would become very depressed at times and I would have to prepare his medicine."
+text ".... Wait.
+text You said it this morning too, but was he that bad that he had to take medicine?"
+text "---Yes.
+text It would not be uncommon for him to walk into the garden at night and kill the pet dogs and cats, or to hurt his own body.
+text And when the night was over, he wouldn't remember a thing, only thinking that it was strange that his hands were painted in blood."
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text ----What---
+text What is this?
+text That's pretty much crazy.
+text As crazy as I am in my dreams.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text .... No, that is backwards.
+text Am I crazy just like my old man?
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+music ~
+sound SE_05.aac 1
+bgload BG_45B.jpg
+setimg KOHA_T10.png 52 0
+text "Shiki-san....!?"
+text .... I hear Kohaku-san's voice.
+text I---I don't know when it happened, but I'm on my knees on the tatami floor.
+text "Shiki-san, you look terrible.
+text If you are feeling poorly, you should rest in your room....!"
+text Kohaku-san says this as she grabs my shoulder.
+text With her help, I can stand.
+text ".... Yeah.... I'm fine, so---"
+text I'm somehow able to focus again.
+text But I'm still dizzy.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+text Swirling red and black.
+text My vision strobes between blood and night.
+text ~
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+text The darkness brought about by my anemia now turns into just one sheet of red.
+text A red reminiscent of blood.
+text The ease with which I bit the neck of the dead body in last night's dream.
+text ~
+text ---It slides down my throat.
+text The taste of warm blood.
+bgload BG_45B.jpg
+text "----------Ah."
+text Thud.
+text Somehow, I understand that was the sound of my body hitting the floor.
+text "Shiki-san----!?"
+text Kohaku-san dashes towards me.
+text "Shiki-san, are you in pain?
+text Shiki-san....!?"
+text .... No.
+text It doesn't hurt.
+text I want to tell her, but my consciousness is fading.
+text "................"
+text I can't speak.
+text I can't even move a finger.
+text It seems that if I exert myself even the slightest bit, I'll completely lose consciousness.
+text Collapsed on the floor, I try as hard as I can to resist the coming darkness.
+text "---Don't strain yourself, please lie down."
+text Kohaku-san speaks to me.
+text She slides me over.
+text With one hand holding my head, Kohaku-san slides a pillow underneath me.
+text ".... Please relax.
+text This will help the blood to flow, right?"
+text ".............. Nn."
+text Her voice sounds so close.
+text I piece together my situation.
+text It seems I am resting on her lap.
+bgload IMA_10.jpg
+bgload BG_45C.jpg
+music 08.mp3
+text .... The time passes quietly.
+text Neither of us say anything.
+text Right now, that silence relaxes my heart.
+text ".... It's so quiet.
+text For some reason.... this seems so familiar."
+text Lying down on my side, I stare at the tatami mat floor.
+text After nodding, Kohaku-san checks my pulse.
+text "Well, this isn't good.
+text Shiki-san, your body temperature has fallen.
+text I should go back and bring you some medicine."
+text "No, I'm fine.
+text I'm used to this, so I'll be fine soon.
+text Today was a little harder than before, but I'll be alright.
+text .... So can we stay like this a little longer?
+text I can relax better like this."
+text I tell her that, wanting to stay like this a little longer.
+text "In that case", Kohaku-san says as she stays in place.
+text ~
+text ----------And then.
+text ~
+text "Shiki-san, you are not scared?"
+text ~
+text Kohaku-san asks me this.
+text ".... Eh?
+text Of what?"
+text "About your health.
+text About two days before you returned here, I received all your information from the doctor.
+text I was not surprised, but felt more like he was deceiving me."
+text "?
+text Deceiving you?
+text Why?"
+text "Because you are so close to aacering between life and death, but you can live a normal life.
+text Normally, with a condition like yours, you would be confined to bed."
+text That voice seems not so much full of worry, but more.... full of anger, almost.
+text "Shiki-san, you're different from most people, who can rest assured at night that they'll wake up the next morning.
+text But you still live normally and do not have fear.
+text .... I can't understand it.
+text Please answer me.
+text Why are you not scared?"
+text ".............."
+text I can't come up with a good answer.
+text My weak body.
+text The death that's always close.
+text .... My eyes that can see death.
+text Maybe that's why I'm just numb to it.
+text "Who knows?
+text Maybe I just don't feel it as being real."
+text ".... I don't get it.
+text Do you not feel how close death is?
+text Or is it because your body could die at any moment so living does not concern you?"
+text ".... It's hard to say.
+text Maybe I'm desensitized to death.
+text Being sensitive and seeing it that close every day, it just becomes normal."
+text ".... But I can still say this, Kohaku-san.
+text Since I'm so close to death all the time, I can feel life more strongly.
+text I know that living itself is happiness.
+text Like you said, my body isn't that free.
+text .... But, with such a puppet-like body, I want to believe that even talking right now is such a wonderful thing."
+text .... That's right.
+text More than thinking about my body, I want to treasure the present.
+text If I have time to worry about dying, I should be enjoying the present more.
+text ".... I see.
+text Your heart is free, isn't it?"
+text Quietly, as if she's singing, Kohaku-san says this to herself.
+text Her fingers run through my hair gently.
+music ~
+text "-----Kohaku-san?"
+text I look up.
+text I see---
+text ~
+bgload event/KOHA_E03.jpg
+music 07.mp3
+text ---her smiling very peacefully.
+text Her smile that I should be so used to seeing.
+text But it seems like it's the first time,
+text the first time I've ever seen her smile.
+text "................"
+text .... Time just passes by.
+text She lightly runs her fingers through my hair.
+text I feel the warmth of her body from her legs.
+text The nostalgic smell of the tatami mats.
+text It's all so comforting, my eyelids slowly start to close.
+text .... She has such a gentle look on her face.
+text If I can sleep like this, it would be---
+text ".... That's funny---"
+text ~
+text Really, like this.
+text ~
+text ".... I feel like, this is the first time, I've seen you smile, Kohaku-san."
+text ~
+text I feel like I'm falling asleep.
+text ~
+text "Is that right?
+text Shiki-san, you must be really sleepy."
+text ".... That's fine.
+text If you're happy, then---"
+text If this makes her smile, I want to do this forever.
+text .... In the middle of this dark room.
+text I want to feel her closer to me and I reach out my hand.
+text ".... Shiki-san....?"
+text My fingers touch her.
+text My fingers trace the lines of her face.
+text They brush her smooth skin, and reach her hair, then---
+music ~
+text ~
+text "---Kohaku, you came here ahead of me?"
+text ~
+text Vigorously opening the screen door, Akiha enters the room.
+bgload BG_45C.jpg
+bgload BG_45C.jpg
+setimg AKI_T15B.png 40 0
+text "Wha--------"
+text Kohaku-san's fingers suddenly stop moving.
+bgload BG_45C.jpg
+setimg AKI_T11B.png 40 0
+text "----What are you two doing?"
+text Akiha's emotionless voice.
+text "A, Akiha....!?
+text This, it's not what you think....!"
+text I stand up in a hurry.
+text I'll just tell her to calm down.
+text There's nothing wrong, or anything suspicious.
+text We haven't done anything, and all Kohaku-san did was watch over me after I collapsed.
+text "Wait, Akiha.
+text I just collapsed, so Kohaku-san was---"
+text It's over before I can finish.
+bgload BG_45C.jpg
+setimg AKI_T10B.png 40 0
+text Akiha stares at Kohaku-san and enters.
+bgload BG_45C.jpg
+text ~
+text It's only a moment after.
+text Slap!
+text The dry sound echoes through the room.
+text "Wha......"
+text There wasn't even time to stop it.
+text Akiha just walked in and slapped her.
+text Kohaku-san takes a few steps back.
+text It must've been pretty hard.
+text "Akiha, you----!"
+bgload BG_45C.jpg
+setimg AKI_T11B.png 40 0
+text "Nii-san, this place is off limits.
+text If you are feeling well, please go back to the mansion."
+text "....!
+text I don't care about that!
+text Why'd you hit her!?"
+text "Why not?
+text This is an old, decrepit building.
+text What was she thinking, having you rest here?"
+text "Just for that?
+text She was just taking care of me!"
+text "---Just that?
+text What do you mean, Nii-san?
+text It would not be surprising if this place collapses.
+text An earthquake could cause the ceiling to collapse.
+text To take care of the eldest son of the Tohno household in such a place means she doesn't have the discretion proper for a servant."
+text "Akiha....!
+text There's some things you shouldn't say.
+text Kohaku-san didn't do anything wrong.
+text I was the one that called her here anyway!"
+bgload BG_45C.jpg
+setimg AKI_T10B.png 40 0
+text "---Oh?
+text You're going this far to protect Kohaku, Nii-san?"
+text Her gaze sharpens.
+text "---------"
+text She looks just like she did in that dream.
+text A gaze that looks close to malice and hatred.
+text In front of me---in reality, there's a nightmarish Akiha.
+sound SE_01.aac 1
+bgload BG_45C.jpg
+text "Eh--------?"
+text My pulse tightens.
+text Was I hallucinating?
+text For an instant, around Akiha---I thought that I saw something terrible.
+bgload BG_45C.jpg
+bgload BG_45C.jpg
+setimg AKI_T11B.png 40 0
+text "----I understand.
+text If you say that, then I will not say anything else.
+text But, Nii-san.
+text From now on, please do not come here.
+text If you can not even do that, then I have some ideas, too."
+text ~
+text ---It must have been an illusion.
+text There isn't anything strange around her.
+text But why?
+text The danger I feel from her makes me uneasy.
+text "We're going back, Kohaku.
+text Nii-san, go back to your room."
+bgload BG_45C.jpg
+text .... Akiha walks away.
+text "Kohaku-san."
+text .... I call out to Kohaku-san, who is still looking down.
+text "Kohaku-san....?
+text Are, you alright....?"
+bgload BG_45C.jpg
+setimg KOHA_T03B.png 52 0
+text "Yes?
+text Alright about what?"
+text She says this casually.
+text With her usual smile, she looks up.
+text .... That isn't a forced, empty smile.
+text She really is smiling.
+text As if Akiha never even hit her.
+text ".... Um, well, that---"
+text "Well then, Shiki-san.
+text Let's go back.
+text Akiha-sama found out, so you shouldn't come back here again.
+text Akiha-sama would really punish you for sure."
+bgload BG_45C.jpg
+text "Ahaha," laughing at her own joke, she leaves the room.
+text "---------"
+text It's probably because both of them are acting strange.
+text I can't go back right away.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+music 01.mp3
+text I eat dinner alone and go back to my room.
+text I guess Akiha was still feeling poorly because she wasn't there.
+text .... Kohaku-san made me dinner with her usual cheery mood and then went to take care of Akiha.
+text ".... I wonder if Kohaku-san is feeling uneasy."
+text It would seem that Kohaku-san doesn't resent Akiha at all.
+text It seems like Hisui is over what happened this morning and is taking care of me.
+text .... Hisui took half a day to get over it, so maybe Kohaku-san is a lot stronger.
+text "--------"
+text Lying down on my bed, I let out a big sigh.
+text .... I must be tired.
+text Recently, as soon as night falls, I've been falling into bed.
+text Even though there are a lot of things I should think about, I feel like nothing concerns me and try to go to sleep.
+text ".... That's odd.
+text I can't concentrate----"
+text I stare at the ceiling.
+text ~
+text My eyes start to close.
+text Again, I don't think about anything and fall into a deep sleep----
+bgload IMA_10.jpg
+music ~
+bgload BG_24C.jpg
+bgload IMA_10.jpg
+sound SE_02.aac -1
+text ~
+text ~
+text ----Burning.
+text ~
+text ~
+text ~
+text ----Burning.
+text ~
+text ~
+text ~
+text ~
+text ----Burning.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----My skin is burning.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I can't sleep like this.
+text I have get up and drink some water.
+sound ~
+bgload BG_25B.jpg
+music 04.mp3
+text The city at night.
+text Repeating my hot breathing, I look at the people passing by.
+text There are only two or three of them tonight.
+text If possible, I want to find a lone girl who is about my age.
+text ~
+text ~
+text ~
+text ---Hot.
+text I see my reflection in the mirror.
+text Breathing wildly, it looks like I'm running a high fever.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Hot--I can't stand this burning.
+text .... There.
+text I don't need to get any closer.
+text I grab her from behind and make her pass out.
+text ~
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+text I pick her up and take her with me.
+text ---I start to smile.
+text I endured it for so long, and now everything is over.
+bgload IMA_10.jpg
+bgload BG_01C.jpg
+text .... I decide to do it here in the end.
+text The reason is simple.
+text Because, this was the killer's lair.
+bgload IMA_10.jpg
+bgload BG_10C.jpg
+text ~
+text ~
+text ~
+text ---Burning.
+text My breathing fills the air.
+text Soon.
+text Soon I can taste her.
+bgload IMA_10.jpg
+bgload BG_06C.jpg
+text Then I start my meal.
+text Biting into her neck, I suck the blood.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---It is unbelievably sweet.
+text The sensation is really terrifying.
+text If it is this sweet and feels this good,
+text I may just become a captive to this sensation, in place of that killer.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---The night is deep.
+text Above my head is the silver eye bearing witness to my sin.
+text With blood-smeared lips, I look up at the night sky with eyes full of amusement.
+text Fluttering hair.
+text Above is the spiraling sky.
+text What a beautiful, silver moon.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Like a snake.
+text Watching the blood-sucking demon.
+sound ~
+bgload IMA_10.jpg
+music ~
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+sound SE_11.aac -1
+text "------!"
+text I leap out of bed, unable to take it any longer.
+text "Ah---haa, ha----ah."
+text Holding back the urge to vomit, I breathe like some sort of animal.
+text "Wha------"
+text What was that just now?
+text A dream.
+text It was a dream.
+text But, what was that?
+text It's different than what I saw two days ago.
+text The feeling of walking the streets at night.
+text The smell of blood lingering in my nose.
+text The sound of dragging that girl who was close to my age.
+text ~
+text ---All of it is fresh in my memory.
+text "Ha, ah-------"
+text Was that something you could call pleasure?
+text It was pure excitement condensed like a bullet, fired straight into my head.
+text "G---"
+text My breathing stops just thinking about it.
+text Then.. perhaps that impact could be something called "pleasure".
+text "Why did I.. that kind of dream.."
+text I look down at my hands.
+text Of course, they are pure white, without a trace of red blood on them.
+sound ~
+text But, for an instant,
+text I saw both of my hands covered in red.
+sound SE_02.aac -1
+text ---What, you too?
+text ~
+text .... Huh?
+text ~
+text ---This is the first time I've seen another killer besides myself.
+text ~
+text .... That's right.
+text I did have that conversation.
+text ~
+text ---The same city doesn't need two killers.
+text I'll give you this place.
+text ~
+text .... But, when was that?
+sound ~
+text ".... Why, can't I remember----?"
+text Certainly, I feel like I had that conversation with someone.
+text But I just can't remember.
+text Was it real, or was it just an empty dream?
+text I just remember that the killer said I was the same as him.
+text "---That's strange.
+text .... Why is it.... all mixed up in my head----"
+text I earnestly try hard to remember about last night's dream.
+sound SE_05.aac 1
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "Ga----!?"
+text My head pounds.
+text "Agh---ah, agh......!"
+text I can't, remember.
+text When I try to remember about yesterday, I feel the urge to vomit.
+text I'm scared.
+text I'm scared of the fact that I can't remember.
+text It feels like..
+text A Tohno Shiki I don't know is killing people, and in order to hide it, is deceiving the Tohno Shiki that is me.
+text ~
+text ----And.
+text I sense someone in the hallway.
+text ~
+text "Who's there----!?"
+text I call out.
+sound SE_04.aac 1
+text Knock.
+text Knock.
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+music 02.mp3
+text "Please excuse me," Hisui says as she enters the room.
+text It's just a normal morning scene.
+text "Ah---------"
+text Is it because she is acting so naturally?
+text My pounding heart instantly calms down.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text "...... Hisu, i?"
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "Yes, it is time, so I have prepared your change of clothes already.
+text .... Um, Shiki-sama?
+text Are you not feeling well?"
+text "No, that's not it.
+text I feel fine.
+text There's nothing wrong."
+text I get up from bed, as if to prove my words.
+text "Morning, Hisui.
+text I'll go to the sitting room after I change, so please go ahead of me."
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Yes.
+text Well then, please excuse me."
+bgload BG_40A.jpg
+text Hisui quietly closes the door and leaves.
+text After watching her go, I take a deep breath.
+text "Why am I feeling down like this?"
+text Probably because I found out about my old man's illness yesterday.
+text Just because my symptoms are similar to his, maybe I'm being too paranoid.
+text ".... Yeah.
+text Ever since I came back, I've been so tired.
+text I shouldn't think about that dream."
+text ~
+text ---Well then.
+text It's almost seven.
+text Like yesterday, I should be able to enjoy the morning.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text ----And then..
+text Unthinkingly, I step into the sitting room and it hits me that I forgot something very important.
+text "Oh cra-----"
+text I swallow my words.
+text Akiha, Hisui, and Kohaku-san are in the sitting room.
+text Everything seems just like normal, but after what happened yesterday, I'm sure it'll be really awkward.
+text Akiha and Kohaku-san seemed to have reached an understanding, but I haven't spoken with Akiha yet.
+text Thinking how Akiha acted yesterday, I'm pretty sure Akiha's still mad at me.
+bgload BG_34A.jpg
+setimg AKI_T09.png 40 0
+text "Good morning, Nii-san.
+text Did you sleep well?"
+text "--------Huh?"
+text And.
+text Akiha greets me with a big smile.
+bgload BG_34A.jpg
+text "Uh............?"
+text My mind freezes at such an unexpected event.
+text Akiha still has a big smile as I just stand there.
+text Akiha is way too cheerful and it makes me think she is planning something.
+bgload BG_34A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, would you care to sit down?"
+text "Ah.... yeah, if you want me to sit, I will."
+text I fearfully look at Akiha as I sit down across from her.
+bgload BG_34A.jpg
+text "Morning, Akiha.
+text You seem to be in a good mood today."
+bgload BG_34A.jpg
+setimg AKI_T08A.png 40 0
+text "Is that so?
+text Certainly I feel much better, so I probably look less pale than before."
+text .... No, it is far beyond not looking pale.
+bgload BG_34A.jpg
+setimg AKI_T09.png 40 0
+text "Anyway, first I have to thank you.
+text I really wanted to thank you yesterday, but I was feeling rather ill and did not have an opportunity."
+text Akiha looks directly at me.
+text There isn't even a trace of yesterday's coldness.
+text .... It also seems that the air of danger has disappeared.
+text "Thank me?
+text I didn't really do anything to deserve that."
+text "That's not true.
+text You took care of me when I was sick, right?
+text Because you embraced me, I was determined.
+text I was extremely happy that night."
+text "-------!"
+text She says something that catches me totally off guard.
+bgload BG_34A.jpg
+text ~
+text ----And then.
+text I feel incredibly heavy pressure against my back.
+text I glance behind me.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 116 0
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T03.png 116 0
+text .... There, Hisui and Kohaku-san stare at me in a manner far different than usual.
+bgload BG_34A.jpg
+text "---Akiha.
+text Don't say things that might give people the wrong impression.
+text You were in so much pain, I just supported you, that's all."
+bgload BG_34A.jpg
+setimg AKI_T08A.png 40 0
+text "Oh?
+text I suppose wrapping your arms around me is just supporting me?"
+text Akiha giggles softly.
+text Staring.
+text They're staring at me.
+text The stares of the two behind me get even heavier.
+text "---Now look.
+text You're acting odd.
+text Are you enjoying making fun of me?"
+text "Yes, a lot.
+text Looking at your troubled face is fun."
+text ".........."
+text This is just too weird.
+text Is this really Akiha's personality?
+text "You have some strange hobbies.
+text Bothering me in the morning and lecturing me last night.
+text .... Well, I thought so at first, but you really must have something against me."
+text I end with a sigh.
+bgload BG_34A.jpg
+text All of a sudden, Akiha averts her gaze.
+bgload BG_34A.jpg
+setimg AKI_T13A.png 40 0
+text ".... I'm very sorry.
+text What I did yesterday was stupid.
+text There was something wrong with me, and I've already apologized to Kohaku---"
+text "You apologized to Kohaku-san!?"
+text I blurt this out in surprise.
+text Not only did she apologize, but she apologized to Kohaku-san.
+bgload BG_34A.jpg
+setimg AKI_T21.png 40 0
+text "---Hey.
+text Nii-san, just what kind of person do you think I am?
+text I was at fault, so it is only natural that I apologized to Kohaku, right?"
+text .... When she says that, I get a vague mental image of her acting as a strict mistress.
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text "Nii-san.
+text You're thinking of something bad, aren't you?"
+text .... She's sharp.
+text As happy as she is, it doesn't do anything to dull her sense of perception.
+bgload BG_34A.jpg
+setvar flgR + 1
+jump s419.scr

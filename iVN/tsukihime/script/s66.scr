@@ -1,0 +1,319 @@
+bgload BG_14D.jpg
+if ciel_regard >= 4
+    jump s68.scr
+fi
+text .... This is just a bad dream.
+text But somehow, this stench of blood smells so horribly real.
+text ".... Wro.. ng.."
+text Yes.
+text Wrong wrong wrong wrong.
+text Wrong wrong wrong wrong.
+text But.
+text I killed her.
+text Is that fact wrong?
+text I didn't kill her.
+text Is that fact wrong?
+text ~
+text Yes, I---
+text ~
+text Tohno Shiki    wanted to kill    that girl.
+text ~
+text That's what I wanted to do back then.
+text Just that, it was all so muddy inside my head, I didn't put it into words.
+text "Wro----ng!"
+text ~
+text I feel like throwing up from the smell of blood.
+text ~
+text "Ah---guh!"
+text ~
+text The contents of my stomach rise in my throat.
+text ~
+text "Ah---ah!"
+text ~
+text The crimson is soaking into my eyeballs.
+text ~
+text I feel dizzy.
+text I fall down on my knees into the red sea of blood.
+text "Ah---Guh....!"
+text My gastric juices come up.
+text I throw everything back up.
+text My food, my gastric juices, everything, while I cry.
+text There is nothing left in my stomach.
+text But my body continues to force me to throw up, as if trying to undo what had occurred and return me to a normal life.
+text ~
+text Guuh----burgh!
+text ~
+text Pain.
+text It hurts, like my insides are burning.
+text The tears won't stop, and my body collapses to the floor like a pile of garbage.
+text My knees sink into the red puddle spread all over the floor.
+text Red starts to stain my body.
+text It's so painful and red; it's like I'm dreaming.
+text "Ah-----Aaah....!"
+text I keep crying.
+text The fact that I killed someone is making me sad.
+text .... No.
+text That's not right.
+text I am sad because I killed her without reason, like breaking apart a doll.
+text ~
+text ---I don't understand.
+text ~
+text Why I feel like this,
+text Why I killed her without reason.
+text I can't find the reason.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "--------It's a lie."
+text It doesn't feel real.
+text So this is just one of those dreams I have when I faint.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "------It's a lie."
+text Besides, how can someone cut apart someone like that with just a knife.
+text I read it in a book once.
+text It takes a whole day of strenuous labor to cut someone up, even when using a saw.
+text That's why there's no way I could have possibly done such a thing with just a knife.
+text These "lines" never existed in the first place.
+text Everything was just a delusion I had fallen for--
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "------It's a lie."
+bgload IMA_10.jpg
+music ~
+bgload BG_14D.jpg
+text Guh---ffpt.
+text ~
+text Gastric juice drips over my lips.
+text Passing out of my mouth, dripping down my jaw.
+text Mixed with the juices is something red.
+text My throat is probably bleeding because my stomach keeps trying to throw up even when there's nothing left in there.
+text ~
+text "O.... u----"
+text ~
+text It hurts.
+text That's why this..
+text This isn't a dream, and I'm just lying to myself.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "---It's all lies."
+text Yes, actually, I understand everything.
+text I lusted after her.
+text Just looking at her aroused me.
+text When I cut her apart, it was so thrilling I almost ejaculated.
+text These eyes, too.
+text If I knew these "lines" could cut things apart like paper being shredded..
+text I should have understood that even a person could easily be cut apart like I just did to her.
+text I had lived a normal life without even thinking about something like that.
+text ~
+text ---If I really am the sort of dangerous person who could easily kill just about anything..
+text Then I should have put out these eyes or lived a life without seeing anyone.
+text ".... I'm sorry, Sensei."
+text ~
+text ---I'm so sorry.
+text ~
+text Not even such a simple promise.
+text Was I able to keep----
+bgload IMA_10.jpg
+bgload BG_14D.jpg
+text "Have I----gone insane?"
+text ~
+text I don't know.
+text There isn't even a trace of that impulse left.
+text The thought of holding back never crossed my mind.
+text I didn't even consider trying to stop myself.
+text "Kill this girl."
+text It had seemed like the obvious thing to do, and I went through with it.
+text Then the answer is simple.
+text I must be insane.
+text ~
+text I've probably been mad since eight years ago, when I miraculously came back to life from a fatal accident-------
+bgload IMA_10.jpg
+bgload BG_12A.jpg
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+bgload IMA_10.jpg
+bgload BG_24B.jpg
+bgload IMA_10.jpg
+bgload BG_22B.jpg
+bgload IMA_10.jpg
+bgload BG_33B.jpg
+bgload IMA_10.jpg
+text .... I can hear the sound of rain coming from somewhere.
+text ~
+text It's raining.
+text ~
+text "-----"
+text I'm in a daze.
+text My throat hurts when I try to breathe.
+text "Ou.. ch."
+text I can speak.
+text ~
+text "----Shiki-sama?"
+text Then, I become aware of someone's presence near me--
+bgload BG_40C.jpg
+text "My---room."
+text Somehow, I'm in my own room.
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text "Hisui..?"
+text "Yes.
+text How are you feeling?"
+text "....?"
+text Hisui asks me an odd question.
+text There's not a single thing wrong with my body, but---
+bgload IMA_11.jpg
+bgload event/ARK_E01.jpg
+bgload BG_40C.jpg
+text "Wh---y?"
+text Yes, why?
+text Why am I asleep in a place like this--
+text "Even though I---kil--"
+text I was about to say "killed someone", but I stop myself.
+text My brain tells me I shouldn't say those words.
+text "What am I---doing here, Hisui?"
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text ".... Do you not remember?
+text Your school called to say you left early.
+text However, you did not come back even after dusk, so when my sister went to look for you, she found you resting in the park."
+text "---Park?---You mean the park near here?"
+text "Yes, when she found you, you were resting on the park bench.
+text Then you returned to the mansion on your own feet."
+text ".... You have got to be kidding.
+text I don't remember any of that."
+text "I do not believe it is such an odd thing that your memory is unstable, Shiki-sama.
+text It is difficult for me to say this, but when my sister brought you back, you were in a daze."
+text "........"
+text .... I don't remember any of this.
+text But I have no reason to doubt what Hisui says.
+text ".... Yeah, it's already nine o'clock.. I don't remember anything."
+text "Yes.
+text When you returned to the mansion, you said you 'wanted to sleep'.
+text My sister suggested we call a doctor, but you said 'it happens all the time'."
+text "---I see.
+text I guess I do collapse from anemia all the time, but---"
+text ~
+text .... This time, it's different.
+text Because I had killed someone---huh?
+text ~
+text "What did I look like, Hisui?"
+text "---Huh?"
+text "My clothing, I mean.
+text Was my uniform.. uh, with the blood---"
+text It was stained with blood.
+text "Your uniform was dirty, so I am washing it."
+text "Washing--you mean those blood-stained clothes..!?"
+bgload BG_40C.jpg
+setimg HIS_T08.png 62 0
+text ".... There was certainly mud on it, but nothing like blood."
+text "Eh..?
+text But it was so---"
+text Even though I was on my knees in a sea of blood, and both my arms and legs had been completely soaked red..?
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Have you had a nightmare of some sort, Shiki-sama?
+text You looked like you were having a bad dream until now, and you do not look fine."
+text Hisui stares at my face.
+bgload BG_40C.jpg
+text "A dream?
+text ----That, a dream?"
+text Was it a dream?
+text That feeling.
+text That smell of blood.
+text That hideously beautiful white girl.
+text "No---maybe you're right.
+text That's just a bad dream."
+text ~
+text Phew.
+text I breathe out slowly.
+text ~
+text ----That's right.
+text That's got to be a bad dream.
+text There's no way I would break my childhood promise to Sensei needlessly and for no reason.
+text "Ah---I'm finally awake."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Yes.
+text If you are feeling better, I will go prepare dinner now."
+text "Dinner, huh?"
+text .... I know it's just a dream, but the color and smell of blood still lingers in my mind.
+text "---No, it's fine.
+text I'm just going to sleep like this tonight.
+text More importantly, Hisui.."
+text "Yes, what is it, Shiki-sama?"
+text "Um.. well.
+text It seems like I came back after dusk, did Akiha say anything?"
+text "Akiha-sama was not home yet at the time.
+text She came back about two hours ago, and was informed of your condition through my sister."
+text Hisui seems to silently ask "What about it?"
+text "Oh, it's nothing.
+text I was just wondering if she was disgusted with me for causing her trouble on just the second day after I've come back."
+text ".... It did seem like Akiha-sama was distressed, but I would not say she was disgusted."
+text Saying that, Hisui takes a step away from me.
+text "Well, I will be leaving now.
+text Please call for me if you need anything."
+text "Yeah, thanks.
+text --Oh, one more thing I forgot to ask."
+text "Yes, what is it, Shiki-sama?"
+text "It's raining outside.
+text When did it start?"
+text "Before you came back, Shiki-sama.
+text When my sister found you, you were drenched."
+text "........"
+text I see.
+text I can't even remember that.
+text It seems like it was a pretty serious case of anemia.
+text .... If that's the case, I shouldn't have pushed myself and should have just rested at school.
+text "Good night.
+text I'm really sorry about today.
+text Please express my gratitude to Kohaku-san, too."
+text "I understand.
+text --Good night."
+bgload BG_40C.jpg
+text "----A dream, huh."
+text It's like I don't even know what I felt.
+text But if I can't understand what happened or how I feel about it,
+text how do I know it was a dream?
+text ~
+text I can hear the sound of the rain outside.
+text My mind still feels a little heavy.
+text I glance down at my chest.
+text .... The old wound from eight years ago is still distinctly there, like a burn scar.
+text ~
+text "Ah---"
+text On top of my desk lies the knife my father left me.
+text That old blade which had cut that white girl into seventeen pieces.
+text " ----"
+text .... That was a dream.
+text Nothing more.
+text I repeat this over and over again, trying to placate myself until I sleep.
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... But when I was a child,
+text I think someone once told me, "Don't tell lies that can't even fool yourself."
+jump s69.scr

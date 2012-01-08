@@ -1,0 +1,42 @@
+music ~
+bgload BG_25B.jpg
+text .... There is no one around.
+text The shopping district still had some people, but the way back to the mansion should be completely empty.
+text "......"
+text The words "serial killer" run through my mind.
+text Midnight.
+text Walking through town alone.
+text I might be an easy prey for such an attacker.
+sound SE_10.aac 1
+text "----!?"
+text A sound.
+text Somewhere behind a building, there is a sound.
+text I think it is the sound of someone falling?
+text ".... The back alley....?"
+text The noise came only once.
+text An eerie silence surrounds me.
+sound SE_10.aac 1
+text .... I have a bad feeling about this.
+text Did someone collapse in the back alley?
+text Did the wind just knock something over?
+text .... Whatever it was, I probably shouldn't get involved.
+text ~
+text -----But.
+text Is it because I was looking for Yumizuka a while ago?
+text I feel like she's there for some reason.
+text ".... What.. should I do....?"
+text There's no one around.
+text The only help I can rely on is this knife Kohaku-san handed me this morning.
+text ~
+text I-------
+text ~
+choice Go and look.|Don't go and look.
+if selected == 1
+    if flgP >= 1
+        jump s217.scr
+    fi
+    jump s218.scr
+fi
+if selected == 2
+    jump s234.scr
+fi

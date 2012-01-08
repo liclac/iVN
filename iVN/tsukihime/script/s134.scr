@@ -1,0 +1,66 @@
+bgload BG_11A.jpg
+bgload BG_11A.jpg
+setimg CEL_T07A.png 52 0
+text "----Ah."
+text Having her stare right at me like this--makes me remember my dream.
+text "Tohno-kun?
+text What's wrong?
+text Your face is turning red."
+text "I, it's nothing.
+text Just, I had a bad dream.
+text I don't feel very well."
+text I think I'm honest as I don't say I don't feel bad at all.
+text "...... Tohno-kun?"
+text She looks at me with a very serious expression.
+text ".... Senpai....?"
+text I'm perplexed.
+text I feel as if Senpai is reading my mind, and I remember more and more of last night's dream.
+bgload BG_11A.jpg
+setimg CEL_T12.png 52 0
+text "Tohno-kun, you said you had a bad dream.
+text What does that mean?"
+text "It doesn't mean anything, and it's none of your business.
+text Don't worry about it, and I'm asking you what you're doing."
+bgload BG_11A.jpg
+setimg CEL_T08.png 52 0
+text "It is my business!
+text Tohno-kun, you didn't sleep well last night, did you?"
+text "----Eh?"
+text Well--she is right but.
+text ".... Senpai, how do you know about that?"
+bgload BG_11A.jpg
+setimg CEL_T12.png 52 0
+text "Because your face is all red.
+text I don't know if you are sick, but you don't look well, Tohno-kun."
+text "Oh--I see."
+text I was surprised for a moment there.
+text She guessed right about last night, so I thought--
+bgload BG_11A.jpg
+setimg CEL_T07A.png 52 0
+text "About this dream, Tohno-kun.
+text Please tell me what kind of dream it was."
+text .... Senpai asks me again, as she hasn't given up.
+text ".... Fine.
+text It's not a big deal really.
+text Just.... Um, you were in it a little."
+text ~
+text I answer reluctantly.
+text ~
+text All of a sudden,
+bgload BG_11A.jpg
+setimg CEL_T10D.png 52 0
+text "I, I was in it!?"
+text Senpai gets mad.
+text "Um.... Senpai?"
+bgload BG_11A.jpg
+setimg CEL_T09B.png 52 0
+text "................"
+text Senpai quickly takes a step away and stares at me.
+text "........"
+bgload BG_11A.jpg
+text Senpai looks like she wants to say something more, but she just gives a quick bow and runs away.
+text "......?"
+text I tilt my head in confusion.
+text Then, the homeroom bell echoes through the hallway.
+bgload IMA_10.jpg
+jump s135.scr

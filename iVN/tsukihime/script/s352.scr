@@ -1,0 +1,488 @@
+bgload BG_40B.jpg
+text ----Alright.
+text I'm always in her debt, so I'll go help Kohaku-san.
+text ~
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+text "Huh....?"
+text I don't see her anywhere in the courtyard.
+text I glance around.
+text For just an instant, I see the color of her kimono in the forest.
+text "Is that where the detached building is?"
+text .... After a little internal debate, I follow after Kohaku-san.
+bgload IMA_10.jpg
+bgload BG_44A.jpg
+text Kohaku-san continues and enters inside.
+text I would be pretty stupid if I came all the way here only to go back, so I force myself to go inside.
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+music 01.mp3
+bgload BG_45B.jpg
+setimg KOHA_T09.png 52 0
+text "Shiki-san?
+text Why did you come here?"
+text "Um, well----I was thinking maybe I should give you a hand.
+text Am I in the way?"
+bgload BG_45B.jpg
+setimg KOHA_T18.png 52 0
+text "Shiki-san, I am happy you feel that way, but I didn't come here to work.
+text I only came here to check the electricity according to Akiha-sama's orders."
+text "Eh?
+text Electricity?
+text This place is still used?"
+bgload BG_45B.jpg
+setimg KOHA_T03.png 52 0
+text "Yes, this is the only room with electricity.
+text This building is still maintained at a level for people to live in.
+text The bath is still able to be used and there are futons ready."
+text "Really?
+text But this place hasn't been used for a while, right?
+text Why is it maintained like that?"
+bgload BG_45B.jpg
+setimg KOHA_T01A.png 52 0
+text "Let's see, maybe Akiha-sama is just fond of this place.
+text A long time ago, this was where Makihisa-sama's adopted child used to live."
+text ~
+text ----Huh?
+text Makihisa.... my old man, adopted a child.. a long time ago?
+text ".... Wait a sec, Kohaku-san.
+text My old man adopted a child?"
+bgload BG_45B.jpg
+setimg KOHA_T02.png 52 0
+text "Oh, you don't remember?
+text About ten years ago, he brought a child here.
+text His parents both died in an accident, so he adopted the child."
+text "That---happened?"
+text "Yes.
+text But two years later, the child passed away.
+text It was a trivial accident, but a lot of the servants began to say that the Tohno family was cursed."
+music ~
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text -----Wait a minute.
+text ~
+text Something about her words seems scary.
+text Just hearing them, my vision starts to warp.
+text It's like the whole room is made entirely of dissolving sugar.
+text "Ko, Kohaku, san."
+text A child adopted ten years ago.
+text Two years later, the child died.
+text In other words, eight years ago.. That's when I had my accident and was sent to the hospital.
+music 06.mp3
+bgload CMO_05.jpg
+text ~
+text ~
+text ~
+text ---Accident.
+text ~
+text What kind of accident was it?
+text An accident that seriously wounded me.
+text An accident, that the adopted child was killed in?
+text ~
+text A hot summer day.
+text ~
+text ---I can't remember.
+text ~
+text All I know is at that time, my arms seemed to be soaked in blood----
+bgload BG_45B.jpg
+text "Kohaku, san.
+text You said 'cursed'?"
+bgload BG_45B.jpg
+setimg KOHA_T18.png 52 0
+text "No, it isn't anything important.
+text It is just that a lot of the members of the Tohno family have died young.
+text Such as in accidents, or suicide, or illness; a curse that does not allow them a natural death.
+text Well, that was the rumor, anyway."
+text "----Suicide.... what?"
+bgload BG_45B.jpg
+setimg KOHA_T03.png 52 0
+text "Yes.
+text Whatever the case, the members of the Tohno family.... mostly male, carried some mental illness and committed suicide when they became adults.
+text These are just stubborn rumors, but it is said some of them were murderers before the war."
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text .... Mental illness?
+text .... Murderers?
+text .... Such as, seeing dreams of killing people every night?
+text .... Such as, feeling a sense of longing as I see dreams of killing people every night?
+text "Kohaku-san, that---"
+bgload BG_45B.jpg
+setimg KOHA_T03.png 52 0
+text "Oh, I'm very sorry.
+text Those are just dark rumors about the Tohno family."
+text "No, that's fine.
+text It's okay.... could you tell me in more detail, Kohaku-san?"
+text ".... I do not mind, but I do not necessarily know all the details.
+text Just that, well.... Makihisa-sama did have that kind of air about him."
+text "My old man----my old man did?"
+sound SE_01.aac 1
+bgload IMA_10.jpg
+text Blurring.
+text My vision whirls around.
+bgload BG_45B.jpg
+bgload BG_45B.jpg
+setimg KOHA_T01A.png 52 0
+text "Yes.
+text I took care of Makihisa-sama's condition two years before he passed away.
+text .... While you were living with the Arima family, Makihisa-sama would become very depressed and I would have to prepare his medicine to calm him."
+text "Medicine to calm him----was my old man that bad, Kohaku-san?"
+text ".... Yes.
+text It would not be uncommon for him to walk into the garden at night and kill the pet dogs and cats, or to hurt his own body."
+sound SE_01.aac 1
+text ----Wha-
+text What is this?
+text That's pretty much crazy.
+text As crazy as I am in my dreams.
+sound SE_01.aac 1
+text ~
+text .... No, that is backwards.
+text Am I crazy just like my old man?
+bgload IMA_10.jpg
+music ~
+bgload BG_45B.jpg
+sound SE_05.aac 1
+sound SE_02.aac -1
+bgload BG_45B.jpg
+setimg KOHA_T09.png 52 0
+text "Shiki-san....!?
+text .... I hear Kohaku-san's voice.
+text I---don't know when it happened, but I'm on my knees on the tatami floor.
+text "Shiki-san, you look terrible.
+text If you are feeling poorly, you should rest in your room....!"
+text Kohaku-san says this as she grabs my shoulder.
+text With her help, I can stand.
+text ".... Yeah.... I'm fine, so---"
+text I am somehow able to focus again.
+text But I am still dizzy.
+bgload IMA_11B.jpg
+bgload BG_45B.jpg
+text ~
+text In the red and white swirl of my vision,
+text white.
+text Kohaku.. san's.. terribly warm.. looking neck.
+text ~
+text "------Ah."
+text How captivating.
+text If my body could move properly, I would seize Kohaku's body and----
+bgload IMA_11B.jpg
+text The black vision from my anemia all of sudden turns deep red..
+text Kohaku's white neck.
+text Last night's crimson dream.
+text ~
+text ------The nighttime killings.
+text Painful pleasure, as if my heart would rip itself out.
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+bgload IMA_13.jpg
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text "Gg------!"
+text Unable to bear it, I pull away from Kohaku-san.
+sound ~
+bgload BG_45B.jpg
+setimg KOHA_T01A.png 52 0
+text "Shiki-san....?"
+text "No----I'm fine----I'm fine, so leave me alone."
+bgload BG_45B.jpg
+setimg KOHA_T04.png 52 0
+text "That won't do.
+text If you collapse here, Akiha-sama will get very angry.
+text In the first place, you look like you are in a lot of pain."
+bgload BG_45B.jpg
+text Kohaku-san says this and draws closer.
+text ~
+text ------This isn't good.
+text ~
+text It's scary.
+text If she comes within reach of my hands, I'm afraid I don't know what I'll do.
+text "----I'm fine, just leave me alone, Kohaku.. san.."
+bgload BG_45B.jpg
+setimg KOHA_T04.png 52 0
+text "I can't.
+text Shiki-san, please calm down."
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+sound SE_02.aac -1
+text .... Please, stop.
+text It's dangerous if you come near me.
+text I told you not to come near me.
+text Why?
+text Why won't this woman listen to me?
+bgload IMA_10.jpg
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Why?
+text ~
+text Why are you getting in my way?
+sound SE_01.aac 1
+text Why are you like this,
+text Not doing what I want you to....!?
+sound SE_01.aac 1
+bgload BG_45B.jpg
+text "Shut up....!
+text Don't you understand I'm telling you to get away, Kohaku!"
+sound SE_10.aac 1
+text "Kyaa----!"
+text Thud, a thick sound.
+text Kohaku-san slams into the wall, her face distorting in pain.
+text ~
+text "Ah-------"
+text ~
+text .... Her expression causes my sanity to return.
+text The dizziness fades quickly.
+text After just a moment, all dizziness disappears, leaving only a feeling of guilt.
+text "--Sorry.
+text What was.. I.."
+bgload BG_45B.jpg
+setimg KOHA_T03.png 52 0
+text "It is okay, please do not worry about it.
+text I only provoked you when you were in a bad mood."
+text ~
+text She gives her usual smile.
+text ~
+text "You are no longer pale and seem to have recovered.
+text Shall we continue our conversation?"
+text "No--that's enough for today.
+text Sorry Kohaku-san.
+text There's, something wrong with me."
+text "Oh?
+text You are a man, so I don't think it is unnatural to be a little rough.
+text In fact, I think you are usually too calm, Shiki-san."
+text She says that, smiling.
+text "............"
+text Seeing that smile makes my chest hurt.
+text .... Kohaku-san trusts me.
+text But what was I about to do to her just earlier----?
+text ".... Like you say, Kohaku-san, I will go back to my room.
+text I really am sorry about earlier."
+text I say this and run away.
+text I leave the detached building behind, being crushed by self-loathing.
+bgload IMA_10.jpg
+music 01.mp3
+bgload BG_40C.jpg
+text ---After dinner, I return to my room.
+text I collapse on my bed and remember Kohaku-san's face.
+text ~
+text "----"
+text I don't understand.
+text Why I felt that way, and why I did that.
+text Back then..
+text Looking at Kohaku-san's neck, I was lusting.
+text Just like in last night's dream, I wanted to bite into her neck.
+text But, I can't even think about that right now.
+text ~
+text Last night's dream, and myself a while ago.
+text I feel like there's someone inside me that isn't me.
+text "----"
+text I touch my neck.
+text Those who are bitten by a vampire become vampires in turn, they say.
+text ".... That's stupid.
+text I'm walking around in the daytime, after all."
+text .... Yes, it's impossible.
+text It was just dizziness and my fading consciousness contributing to the imagination.
+text What happened with Yumizuka is burnt into my mind, so I think I just remember it when I suffer from anemia.
+text "Like Kohaku-san said, maybe I'm just tired."
+text .... Perhaps.
+text I should hurry up and get to sleep, and rest my tired body.
+bgload IMA_10.jpg
+music ~
+sound SE_01.aac 1
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----My body, once aroused,
+text can't be calmed with something like sleep.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----So.
+text Tonight too, I shall relieve my thirst.
+bgload BG_47.jpg
+bgload IMA_10.jpg
+bgload BG_24C.jpg
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text It seems I went into town at night.
+text It seems like I'm waiting with bloodshot eyes for someone to pass by.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Again.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Suddenly, I see a face reflected in the window.
+text The eyes are bloodshot, and the face looks quite insane.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----This dream, again.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text It seems I found my prey.
+text I bring it down without a chance to scream, without it even realizing it has died.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I'm seeing this nightmare again.
+bgload IMA_10.jpg
+bgload IMA_12B.jpg
+bgload BG_31B.jpg
+text Taking the dead body, and the sound of biting into the throat.
+text A gurgling sound.
+text Drinking the blood flowing out of the rended neck, my thirst is quenched.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The same scene as last night.
+text Getting bored with just blood, I take the hand of the dead body and bite off the fingers one by one.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The same scene as last night.
+text Getting bored with just the fingers, I take the limbs of the dead body, and bite them off one by one.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The same scene as last night.
+text Then,
+text an obstruction appears.
+text I throw the dead body aside and jump.
+text Someone.
+text Someone is watching me.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Is it different from last night..?
+bgload IMA_02.jpg
+text Something like a vast nail is flying through the air.
+text To dodge it, I leap aside.
+text I run up the side of a building, and jump from rooftop to rooftop.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The figure in black chases the vampire.
+text From rooftop to rooftop.
+text From shadow to shadow.
+text The figure follows.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----It can't be helped.
+text It can't be helped, it murmurs.
+text And tonight's meal ended.
+bgload IMA_10.jpg
+sound SE_02.aac -1
+bgload IMA_11.jpg
+text "Shiki-sama----?"
+text ~
+text ----A voice.
+text ~
+text "Please get a hold of yourself, I will bring you a drink right away..!"
+text ~
+text ----The sound of running footsteps.
+bgload BG_40A.jpg
+text ~
+text "Ah----"
+text I awaken from the nightmare.
+text ".... My own room."
+text I am definitely in my own room.
+text Just lying in bed, and morning has come.
+text .... I saw that dream again.
+text The dream of sucking someone's blood.
+text Though I know it's just a dream, it still feels terribly real.
+text My hands retain the feel of ripping meat; my nose, the smell of fresh blood..
+text "---What's happening to me?"
+text I touch my neck gently.
+text .... Yumizuka's bite marks are long gone.
+text I'm still a normal human being.
+text I don't want to drink people's blood, and I don't have a problem with the sun.
+text "----Ah."
+text No.
+text Yesterday, I
+text What did I think when I saw Kohaku-san's neck?
+text ~
+text ---Her white neck.
+text From the bottom of my heart, I wanted to drink the blood flowing in there----
+jump s353.scr

@@ -1,0 +1,210 @@
+bgload BG_06A.jpg
+text ~
+text ---I won't.
+text Skipping two meals won't kill me.
+text ~
+text ".... Mm, I'll pass.
+text Do what you want."
+text Seeing a vision of food with something red on it isn't something I want to do again.
+text To be honest, I'm already feeling bad looking at Arihiko's sandwich.
+text Because there are many bright red tomatoes in it.
+bgload BG_06A.jpg
+setimg ARI_T03.png 40 0
+text "What's this?
+text You're becoming more and more unhealthy.
+text Is your new lifestyle not suiting you that much?"
+text "That might be it.
+text They complain about me being late when I wake up at seven o'clock and the curfew's at eight o'clock.
+text If I spend the night somewhere without asking, they interrogate me afterwards.
+text It's like a prison, right?"
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Isn't that alright?
+text It's a proper life.
+text Early to bed and early to rise, right?
+text You won't be able to grow up to be a good guy if you burn out when you're young."
+text "I agree.
+text .... But, you seem to lend the argument more strength than anyone else can."
+text ~
+text As the ultimate counter-example, that is.
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "Oh yeah?
+text You're pretty honest today.
+text Alright, alright, I'll split the sandwich with you."
+text "I said, I didn't want to eat.
+text Don't worry about me and eat; lunch'll end soon."
+text "Okay, down the hatch."
+text Arihiko holds his sandwich with both hands and begins to eat.
+bgload BG_06A.jpg
+text ~
+text ------And then.
+text ~
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+text "Hello everyone."
+text Senpai comes in with something that looks like a boxed lunch.
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T01.png 104 0
+text "Oh?
+text Senpai, I thought you always ate in the cafeteria?"
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "No, I don't have a set lunch routine.
+text It just depends what mood I'm in."
+text Senpai takes out an boxed lunch wrapped up in a cute handkerchief.
+text But it seems just a little too big for a girl.
+text ".... You mean you managed to get up early and make lunch this morning?"
+text "Yes, that's it.
+text I managed to wake up before seven this morning and.... wait a minute, what are you making me say, Tohno-kun!?"
+bgload BG_06A.jpg
+setimg CEL_T08.png -12 0
+setimg ARI_T01.png 104 0
+text ".... No, that's not what I meant, but.... Senpai, you're not a morning person?"
+bgload BG_06A.jpg
+setimg CEL_T02.png -12 0
+setimg ARI_T01.png 104 0
+text "Eh----?
+text Ah, yes, I'm not.. not good at waking up early."
+text Senpai suddenly looks like a student being scolded by a teacher.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "My family owned a bakery, so we'd get up very early every morning.
+text But I'm terrible in the morning.
+text My father would always get angry when I was a kid."
+text What!?
+text A bakery!?
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T04.png 104 0
+text Me and Arihiko look at each other.
+text He must be imagining the same thing I am: Ciel-senpai kneading dough with those white finger of hers and baking it.
+bgload BG_06A.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T04.png 104 0
+text "My daily battle with my father lasted ten years, but in the end, he gave up and told me working two people's worth is better than trying to train me.
+text Since then, I can wake up when I want to."
+text ~
+text Ciel-senpai sticks out her well-developed chest.
+text ~
+text "Oh, is that so?
+text I'm a little surprised; you seem so reliable."
+bgload BG_06A.jpg
+setimg CEL_T02.png -12 0
+setimg ARI_T04.png 104 0
+text "Yes, I always try hard to not make any mistakes in front of you.
+text But really, I'm more of a clumsy person."
+text Yeah, maybe she is a bit clumsy.
+text Come to think of it, I really started to get close to Senpai when I saw her, an upperclassman, all alone in the courtyard fixing those splints and helped her out.
+text A really clumsy person would never do something that wouldn't benefit them the least bit.
+text "I see.
+text ---But, I like people that are clumsy.
+text I can relax better with them."
+text "Yup." Arihiko agrees next to me.
+text "So, since you're not a morning person, you usually eat in the cafeteria?"
+bgload BG_06A.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T04.png 104 0
+text "Yes, although I usually eat in the cafeteria, there are times when I make lunch.
+text Aren't you two part of the cafeteria group?"
+bgload BG_06A.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T03.png 104 0
+text "Nah, it depends on what mood we're in too.
+text When we were freshmen, my sister made me something, but Tohno here would always eat in the cafeteria or buy bread, so I end up doing what he does."
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T03.png 104 0
+text "I see.
+text So Tohno-kun is a person of many moods."
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T02.png 104 0
+text "Yeah, yeah.
+text Being with him will just drain you out, so be careful Senpai."
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T02.png 104 0
+text ~
+text "That's true," Senpai agrees and she opens her lunch.
+text The round box is half rice and half side dish.
+text It's pretty much a normal lunch, but it seems a little large.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T02.png 104 0
+text "Then, I'll start eating.
+text Is is okay if I use this person's chair?"
+text "A person who isn't here has their chair up for grabs.
+text I'm sure Takada-kun would love for you to have his seat, Senpai."
+text Takada-kun is a guy who sits next to me.
+text He's pretty plump, but a good guy.
+text Sometimes, he borrows money with a grace period which lasts about until the end of eternity.
+bgload BG_06A.jpg
+text Senpai doesn't put her lunch on my desk, but puts it in her lap.
+text Next to her, Arihiko starts opening his second pack of bread while still standing up.
+text Next to these two, I stare aimlessly out the window.
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+text "Huh?
+text Tohno-kun, are you not eating?"
+text "No, I thought I'd skip today."
+bgload BG_06A.jpg
+setimg CEL_T08.png -12 0
+text "Not eat.... Won't that make you hungry?"
+text "No, not really.
+text I'm not hungry and skipping lunch doesn't affect me that much."
+bgload BG_06A.jpg
+setimg CEL_T02.png -12 0
+text "Wow, that's amazing.
+text If I skip a single meal, I can't function.
+text I'd just collapse of hunger.
+text .... It's a little embarrassing, I always eat more than most people, and I still get hungry."
+bgload BG_06A.jpg
+setimg CEL_T02.png -12 0
+setimg ARI_T01.png 104 0
+text "Not at all.
+text Senpai, you've developed a lot more than other women.
+text I'm sure you have to eat a lot to maintain that large chest of yours."
+text Yeah, Arihiko speaks the truth.
+text To tell the truth, we both want her to eat more and grow more.
+bgload BG_06A.jpg
+setimg CEL_T11.png -12 0
+setimg ARI_T01.png 104 0
+text Is Senpai embarrassed or shy?
+text She makes a face I don't quite understand.
+text .... Well, I'm sure she's probably happy.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "But Tohno-kun, will you really be alright if you skip lunch?"
+text "I'll be fine.
+text Skipping meals during the day isn't that rare.
+text I only didn't eat breakfast, so I'll probably be fine until evening."
+bgload BG_06A.jpg
+setimg CEL_T08.png -12 0
+setimg ARI_T01.png 104 0
+text "Wow---Tohno-kun, your body will break down with that kind of lifestyle."
+text "It won't break.
+text This is more of a mental restriction.
+text .... Well, thanks to an accident long ago, my doctor told me it wasn't good to gain weight, so it's better for me to skip meals once in a while."
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T01.png 104 0
+text "Huh.
+text I guess even guys still think about their diet after all."
+text Senpai looks up at me for some reason, and after thinking a little bit, closes her lunch.
+bgload BG_06A.jpg
+setimg CEL_T08.png -12 0
+setimg ARI_T01.png 104 0
+text "Um, I just remembered I had something to do, so excuse me."
+text Gathering up her things quickly, she disappears like the wind.
+bgload BG_06A.jpg
+setimg ARI_T01.png 104 0
+text "---Mmm, how cute."
+text Arihiko comments on Senpai regretfully while watching her leave.
+bgload IMA_10.jpg
+setvar flgD + 1
+jump s228.scr

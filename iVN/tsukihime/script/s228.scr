@@ -1,0 +1,147 @@
+music ~
+bgload BG_06B.jpg
+text After class, the room quickly fills with the gloom of dusk.
+text The sun is sinking below the horizon.
+text There's no one else in the classroom.
+text I'm the only one who likes sitting here and doing nothing.
+text ~
+text "-----"
+text The room is painted red.
+text ~
+bgload IMA_10.jpg
+bgload IMA_07.jpg
+sound SE_01.aac 1
+text ---I don't like watching the sunset.
+text It makes me think of blood, and reminds me of the events in the past few days.
+text "------"
+text Still, I don't particularly feel like going back home.
+text I stare blankly out the window.
+text ~
+text Red.
+text Red, sunset.
+bgload IMA_10.jpg
+bgload IMA_07.jpg
+sound SE_01.aac 1
+text ~
+text "Ah----ow."
+text ~
+text The old wound on my chest hurts.
+bgload IMA_10.jpg
+bgload IMA_07.jpg
+sound SE_01.aac 1
+text The color red.
+text Something.. red.
+text Such as, human blood.
+text Lots of blood.. sticky, with a strong smell.
+bgload IMA_10.jpg
+bgload IMA_07.jpg
+sound SE_01.aac 1
+text "----Gah."
+text ~
+text It hurts.
+text My glasses are on, but, my head hurts.
+text ~
+text Why?
+bgload IMA_10.jpg
+bgload IMA_07.jpg
+text ~
+text ~
+sound SE_01.aac 1
+text Throbbing pain.
+text My head
+text Why?
+text My head.
+text Why?
+text Thro
+text b  w    why----
+bgload IMA_10.jpg
+bgload IMA_07.jpg
+sound SE_10.aac 1
+sound SE_05.aac 1
+bgload BG_06B.jpg
+text ~
+text ~
+text ~
+text I start to pant heavily.
+text ~
+text ~
+text My breathing is ragged.
+text I'm horribly----getting worked up.
+text I'm irritated; There's something I can't stand, and I can't calm down unless I take it out on something----.
+text ".... Is it--Tohno-kun?"
+bgload BG_06B.jpg
+setimg CEL_T07A.png 52 0
+music 03.mp3
+text "Huh----Sen.. pai?"
+text Senpai has a very serious look on her face as she enters the room.
+text "I just heard a sound like someone knocking over desks.... was that you, Tohno-kun?"
+text "----Eh?"
+text I turn around.
+text Indeed, desks are strewn about and chairs overturned everywhere.
+text ".... Ah.... yeah, it seems so.
+text I guess I got a little irritated for no reason, um--"
+text Did I really do this?
+bgload BG_06B.jpg
+setimg CEL_T10A.png 52 0
+text "Geez, you can't do that.
+text I don't know what happened, but you shouldn't take it out on things."
+bgload BG_06B.jpg
+text ~
+text Senpai starts to straighten out the desks and the chairs.
+text I wordlessly do so too.
+text ".... Sorry.
+text I don't.. quite know myself."
+bgload BG_06B.jpg
+setimg CEL_T08.png 52 0
+text "Hmm.
+text Tohno-kun, you're acting weird.
+text You were spaced out in the rain that time, and today you spaced out in the middle of all these jumbled desks."
+text "Yeah--yeah, I'm tired and it's making me act weird."
+text I take a deep breath.
+text .... Is it because I saw Senpai's face?
+text That headache and the irritation I had before vanishes like it was never there.
+text "Sorry, I've caused you trouble again.
+text I'll head out now, so see you tomorrow."
+bgload BG_06B.jpg
+setimg CEL_T01A.png 52 0
+text "Oh, Tohno-kun, are you going back now?"
+text Yeah, I nod.
+text As if nothing had just happened before, she gives me a hearty smile.
+bgload BG_06B.jpg
+setimg CEL_T03.png 52 0
+text "What a coincidence.
+text I was just thinking that I should go back too.
+text Since it happens to work out, can I go back with you?"
+text "No, I really appreciate the offer, but.... isn't your house in the opposite direction?
+text We can't exactly walk back together."
+text "I know, so we'll be together until the gate."
+text ".... Well, in that case, my pleasure."
+bgload BG_06B.jpg
+setimg CEL_T04.png 52 0
+text "Yes.
+text I have to get my things, so please wait a minute."
+bgload BG_06B.jpg
+text With light footsteps, Senpai runs out of the room.
+text ~
+text It really was only a minute till she came back.
+bgload BG_06B.jpg
+setimg CEL_T01A.png 52 0
+text "Thanks for waiting.
+text Now then, let's go!"
+text She really is cheerful.
+text How should I say this?
+text Just seeing her drives away the clouded feelings I had earlier.
+text Having such a great person ask me to come with her, I ought to be punished if I was still gloomy.
+text ".... Okay, let's go.
+text But, it's a pretty short trip to the front gate."
+bgload BG_06B.jpg
+setimg CEL_T02.png 52 0
+text "Ah, that's right.
+text We'll have to go as slow as possible to make it worth it."
+text Senpai starts to walk.
+text Following her, I leave the darkening classroom behind me.
+bgload IMA_10.jpg
+if flgD >= 1
+    jump s230.scr
+fi
+jump s229.scr

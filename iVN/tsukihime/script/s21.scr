@@ -1,0 +1,354 @@
+bgload BG_06A.jpg
+music 03.mp3
+text I arrive in class earlier than usual.
+text "Phew." I walk to my desk next to the window.
+text ~
+text "Good morning, Tohno-kun."
+text An unfamiliar voice greets me.
+text "---Eh?"
+text I turn around, confused.
+bgload BG_06A.jpg
+setimg STK_T01.png 53 0
+text "Tohno-kun, the teacher was looking for you.
+text He said he wanted to talk to you about your house."
+text "Hmm.. My home?
+text Must be about me moving."
+text .... I should have finished the formalities yesterday.
+text Perhaps there's something I forgot to do.
+text "-----"
+text The girl doesn't move, but stands there looking at me.
+text "Uh.. Good morning, Yumizuka."
+text "Yeah.
+text Good morning, Tohno-kun.
+text Looks like you remember my name."
+text ~
+text Sighing with relief, Yumizuka Satsuki gives a faint smile.
+text "I can remember the names of my own classmates, you know?
+text It's just that I haven't spoken to you much."
+bgload BG_06A.jpg
+setimg STK_T03.png 53 0
+text "Yeah.
+text I was a little nervous about talking to you."
+text Yumizuka smiles again.
+text She seems happy about something.
+bgload BG_06A.jpg
+text "...."
+text Yumizuka continues to stare at me as if she wants to say something else.
+text .... To be honest, I don't know her that well.
+text Although we're in the same class, I can count the times we've spoken.
+text But Yumizuka Satsuki is the center of attention.
+text She's often the topic of conversation among the boys, and there aren't any bad rumors about her among the girls.
+text In short, she's your typical class idol.
+text ~
+text Naturally, she's always surrounded by a crowd.
+text She's the complete opposite of a loner like me.
+text While I might be able to remember the name 'Yumizuka Satsuki', there's no reason for her to remember the name 'Tohno Shiki'.
+text It seems like some bothersome coincidences are at work today.
+bgload BG_06A.jpg
+setimg STK_T01.png 53 0
+text "Tohno-kun.
+text Um.. Can I ask you a question?"
+text "If I can answer, you can ask as many as you want."
+text "Um.. um.. Sorry if it's something personal, but.. you said you're moving.. Are you going to move somewhere far away?"
+text Her voice trails off, as if it's hard for her to ask.
+text She clasps her hands to stop fidgeting.
+text "I know it's sudden, but.. will you be transferring somewhere?"
+text "Ah, no, no.
+text I'm changing my residence, but not my school.
+text My new house is still in this town anyway, so it's no big deal."
+text "Oh.. that's good."
+text Yumizuka sighs with relief.
+text "..?"
+text How odd.
+text Why would something like me moving cause that kind of reaction?
+text "But.. are you going to leave the Arimas?"
+text "Yeah.
+text I enjoyed living with them, but I can't leech off them forever."
+text ~
+text .... Huh?
+text How does Yumizuka know that?
+text No one at this school should know I was living with the Arimas, except for a certain guy..
+text "Wassup, Tohno!"
+text A carefree loud voice rings out from the classroom doorway.
+text As if on cue, the guy who's been my friend since middle school appears.
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Hey, if it isn't Yumizuka!
+text It's not often I see you talkin' to Tohno."
+text ".... Morning, Inui-kun." Yumizuka looks away with an unenthusiastic reply.
+text .... I guess she isn't the type who'd respond well to a guy like him.
+text "Tohno's picking up chicks?
+text What the hell is going on?
+text I thought you weren't interested in 'em?"
+text Arihiko exclaims his joke loudly.
+text "You moron, stop spreading lies.
+text I'm a normal guy!
+text Of course I'm interested in girls."
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "Is that right?
+text Good for you man!
+text Still, these days, girls find it more amusing if you have a weird sex drive instead.
+text But they'll only find it amusing and it won't go any farther!"
+text His bottomless, cheerful laughter echoes throughout the morning classroom.
+text .... I let out another sigh.
+text I once again wonder, like I have many times before, how I ended up knowing this person.
+text ~
+text His hair dyed orange, ears pierced.
+text His vicious glare that shouts he will pick a fight with anyone, any time, and his wearing of rebellious clothes.
+text Inui Arihiko is the only free-spirited outlaw in our university-oriented high school.
+text "Do you have to be so loud this early in the morning?
+text I'm depressed about all sorts of stuff, so stay away from me today, okay?"
+text I aace my hands to shoo him away.
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "Depressed?
+text What's wrong, man?
+text Is it 'that' time of the month?"
+text ".... Wait, I take that back.
+text Rather than just for today, stay away from me for the rest of my life.
+text My depression will only get worse with you around."
+bgload BG_06A.jpg
+text Ignoring Arihiko, I head back to my own desk.
+text Dropping my bag and taking a seat, I stretch my back.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Hey, you can't just ignore other people like that, Tohno.
+text You're gonna hurt people with that careless attitude of yours."
+text "Oh, that's news to me.
+text Isn't there some way I can kill them instead?
+text If you can tell me how, I'll repay you by trying it out on you."
+bgload BG_06A.jpg
+setimg ARI_T03.png 40 0
+text ".... That's cold, man.
+text Aren't you just a little nastier than usual this morning?"
+text "Didn't I tell you I'm depressed?
+text Other people aside, I'm certainly not showing any kindness to you."
+text Arihiko sighs.
+text ".... Why are you only mean to me, Tohno?
+text You're like a saint to everyone else.
+text It's not fair."
+text "What, you just figured that out?
+text The world's unfair."
+text ".... You really are only mean to me."
+text ~
+text Arihiko gives another exaggerated sigh.
+text I didn't try particularly hard to be cold to Arihiko.
+text That's just the kind of relationship we have.
+text "So, Arihiko, what's a chronically-late night owl who never shows up until second period doing here in homeroom?
+text It's a little.. no, it's very odd."
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "Haha.. I was thinking that too.
+text I guess being at school on time isn't just for when I happen to wake up early."
+text ".... Well, I won't comment on your hobbies, but what I'm asking is why you woke up early."
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Why I woke up early?
+text Uhh.. I guess it's because I can't stay out late since all that fuss started, so I actually go to sleep at night now.
+text You've heard the stories about that serial killer, haven't you?"
+text ".... I see.
+text Come to think of it, I did hear something like that."
+text I feel a tinge of regret at needing Arihiko to remind me.
+text For the past two or three days I had been debating whether or not to return to the Tohno household, so I completely lost touch with the news.
+text "What was that again?
+text They've given it some really nasty name, like the 'Freakish Serial Killings' or something."
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "There's more to it.
+text So far, all the victims have been young girls.
+text The eighth victim was only two days ago!
+text And to top it all off, they were all.. wait, what happened to them again?"
+bgload BG_06A.jpg
+text Arihiko tilts his head in contemplation.
+text "...."
+text I'm an idiot for asking him.
+bgload BG_06A.jpg
+setimg ARI_T01.png -24 0
+text "Yeah, I remember now!
+text All the victims were cut up into pieces and arranged in a pattern or something!"
+bgload BG_06A.jpg
+setimg ARI_T01.png -24 0
+setimg STK_T01.png 117 0
+text ".... No, Inui-kun.
+text Everyone who was killed lost a lot of blood."
+text "Oh yeah, that was it.
+text They said it's some kind of modern day vampire or something."
+text "Hmph.
+text You sure know a lot about this, Yumizuka-san."
+text "Not really.
+text It's happening in this town, so it's in the news.
+text You'd remember it even if you didn't want to."
+text .... I see.
+text I thought it was happening in a neighboring town.. but I guess it moved down here.
+text "Well, anyway, that's what happened.
+text Even I wouldn't be going on the streets at night with a killer walkin' around.
+text That's why I've been waking up at seven lately."
+text ".... What, that's it?
+text Having a good reason doesn't make a good story.
+text Where's the fun in that?"
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+setimg STK_T01.png 117 0
+text "Man, you're cold.
+text What, did you collapse from anemia already this morning?"
+text "I'm alright, thanks for asking.
+text If I was anemic twenty-four hours a day, I'd be dead by now."
+text "Yeah, you're right.
+text If you say you're okay, then I guess you're okay."
+sound SE_03.aac 1
+text ---And..
+text ~
+text The bell rings, interrupting our conversation.
+text ~
+text "Hey, class is about to begin.
+text Hurry up and get back to your seat."
+text With a "Yeah", Arihiko goes back to his seat.
+bgload BG_06A.jpg
+setimg STK_T01.png 117 0
+text "See you later, Tohno-kun."
+text "Ah.. Yeah.
+text Sorry for keeping you, Yumizuka-san."
+bgload BG_06A.jpg
+text Her light footsteps tap across the floor as she returns to her desk.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+text Second period is over.
+text Our homeroom teacher, who's also our math teacher, calls out to me as he leaves.
+text "Tohno, your documents are missing some details.
+text Please go visit the office."
+text It shouldn't take long, so I'll head to the office before the third period starts.
+text The office is on the first floor.
+text The second-year classroom is on the third floor, but I could make it back before third period starts if I run.
+bgload IMA_10.jpg
+bgload BG_11A.jpg
+text -----I run.
+bgload IMA_10.jpg
+bgload BG_07A.jpg
+text -----And run.
+bgload IMA_10.jpg
+bgload BG_10A.jpg
+text -----And ru..
+sound SE_10.aac 1
+bgload IMA_10.jpg
+text ..!?
+text The impact floors me with a thud!
+text My head hits something, and the world swims before my eyes.
+text "Ooow.. Owowow.."
+text I hear a voice nearby.
+text It's a woman's voice I've never heard before.
+text It looks like I ran into someone.
+text "I'm sorry, are you alright?" I still can't see my surroundings too well, but I apologize to the person I hit.
+text "Yes, I'm alright.. How about you?
+text Are you okay?"
+text There's no trace of accusation in that gentle voice.
+text I don't know who she is, but it seems like she's worried about me.
+text "Ah.. Yeah, I'm also okay."
+text I shake my head and stand up.
+text Finally, I can see clearly.
+bgload BG_10A.jpg
+music 02.mp3
+bgload BG_10A.jpg
+setimg CEL_T01A.png 52 0
+text "Are you really alright?
+text Your forehead is swelling up."
+text "Eh..?"
+text I feel a prickle of pain when I try to touch it with my hand.
+text .... Just like she said, I'm developing a magnificent lump.
+bgload BG_10A.jpg
+setimg CEL_T09.png 52 0
+text "I am so sorry.
+text I was not paying attention to where I was going.
+text Your forehead must really hurt, right?" The female student gazes apologetically at my face.
+text From the formal way she spoke, I assumed she was a first-year, but from the color of her ribbon, I can see she's a third-year.. in other words, my senpai.
+text "No, it's fine, really.
+text I'm the one at fault.
+text I'm sorry for bumping into you, Senpai."
+text I lower my head in a bow.
+bgload BG_10A.jpg
+setimg CEL_T12.png 52 0
+text "Ah, come to think of it, you're right.
+text You shouldn't be running down the hallways, you know.
+text There are people like me spaced out while looking down at the courtyard."
+text "Yes, I'll be more careful.. Are you alright, Senpai?"
+bgload BG_10A.jpg
+setimg CEL_T03.png 52 0
+text "Yes, I only fell.
+text It's because you ran into the wall while trying to avoid hitting me, Tohno-kun."
+text "Really?
+text No wonder I'm seeing stars."
+text I'm lucky to get off with just a bump after running into a wall at that speed.
+text "Sorry about that, but spacing out in the hallway is also dangerous, Senpai."
+bgload BG_10A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes, I'll be more careful."
+text Senpai smiles and nods.
+text ~
+text "...."
+text It's an honest smile.
+text "Uh.. excuse me, I'd best be going."
+text Beating the dust off my pants, I begin walking towards the office.
+bgload BG_10A.jpg
+setimg CEL_T07A.png 52 0
+text But the older student continues to watch me through her glasses.
+text "...."
+text Wait, just who is she?
+text I was distracted because I ran into her, but come to think of it, she's beautiful.
+text If she's this beautiful, the male students would be talking about a "third-year beauty wearing glasses".
+text "Um.. I'm going now.
+text You should go back to your classroom too, Senpai.
+text Ah, if you're in any pain, please come to my classroom.
+text I'm Tohno from Second Year, Third Class.
+text I'll take responsibility."
+text She nods.
+text .... Even though she's older than me, it's like dealing with someone younger.
+bgload BG_10A.jpg
+setimg CEL_T01A.png 52 0
+text "Alright.
+text If anything happens, I'll come to your classroom at lunchtime.
+text Remember, Shiki-kun, you mustn't run in the hallways."
+text "Okay, but you shouldn't space out in hallways either, Senpai."
+text With that, I aace my hand and leave.
+text ~
+text ~
+text ~
+text ----Wait.
+text ~
+text Shiki-kun?
+text I haven't told her my first name.
+text Come to think of it.. did she use my name earlier too..?
+text ".... Huh?
+text Have I met you before, Senpai?"
+text "Eeeh!?"
+text Senpai cries out in surprise, and mischievously puts on a depressed face.
+bgload BG_10A.jpg
+setimg CEL_T10A.png 52 0
+text "You're terrible, Tohno-kun!
+text You've forgotten about me?"
+text "----?"
+text Forgotten?
+text No, I didn't think so.
+text If I ever got myself involved with a beautiful woman like her, there'd be no way I'd forget..
+text ".... Um.."
+text She looks up at me reproachfully.
+text Those eyes.. I'm sure I.. remember from somewhere.. don't I?
+bgload IMA_11.jpg
+bgload BG_10A.jpg
+text .... Come to think of it, we exchanged greetings once or twice before.. didn't we?
+text "Ciel-senpai.. right?"
+text I say her name apprehensively.
+bgload BG_10A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, and I'm glad you remember.
+text You seem the type to space out and forget, Tohno-kun."
+text .... I don't think I space out, but there's nothing I can do about the fact that I forgot
+text "Well then, goodbye.
+text Let's meet again at lunchtime."
+text Ciel-senpai bows again.
+text I watch her walk down the hallway.
+bgload IMA_10.jpg
+music ~
+setvar akiha_regard + 1
+jump s24.scr

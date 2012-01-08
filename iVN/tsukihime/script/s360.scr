@@ -1,0 +1,305 @@
+bgload BG_04.jpg
+text .... No, there's no reason to.
+text What can Ciel-senpai do if I talk to her about my dreams?
+text That dream.
+text If I'm the person who dreams about killing people, then I'm the only one who should be able to solve that problem.
+bgload BG_04.jpg
+setimg ARI_T03.png 40 0
+text "Yo, Tohno, we don't have much time."
+text "------I know, we won't make it unless we run, right?"
+text Saying so, I start running toward our classroom.
+bgload IMA_10.jpg
+music 01.mp3
+bgload BG_06B.jpg
+text ----------School is over now.
+text ~
+text I was confused about myself and Akiha, but today is about to end.
+text "------Should I go back?"
+text I should go get Akiha and go back to our mansion.
+bgload IMA_10.jpg
+bgload BG_24B.jpg
+text I walk home together with Akiha.
+text .... Just like lunchtime, we grow quiet as soon as there are only the two of us.
+text ~
+text ---While I want to talk to Akiha, I also feel embarrassed looking at Akiha.
+text ~
+text ".... Man, it's not like I'm some middle schooler."
+bgload BG_24B.jpg
+setimg AKI_T12A.png 40 0
+text "..?
+text Did you say something, Nii-san?"
+text "Oh---no, it's nothing, just talking to myself."
+bgload BG_24B.jpg
+text .... *sigh*
+text Really, what the hell am I doing?
+bgload BG_22B.jpg
+text We reach the long hill.
+text Once we go up it, our mansion will be right there.
+bgload BG_22B.jpg
+setimg AKI_T01A.png 40 0
+text "Nii-san.
+text I would like to ask you one thing before we get home."
+text Akiha's feet stop and she looks straight at me.
+text "-----"
+text The kind of silence that was there before is gone.
+text Akiha looks at me seriously.
+text "Go ahead, what do you wanna ask about?"
+bgload BG_22B.jpg
+setimg AKI_T12A.png 40 0
+text "If you don't want to answer, that's fine but-----do you have something you are hiding from me, Nii-san?"
+text "Huh-------?"
+text The question is so abrupt, I stop in my tracks.
+text "Um.... What are you talking about?"
+text I decide to act like I don't know what she's talking about.
+bgload BG_22B.jpg
+setimg AKI_T02.png 40 0
+text "What?
+text That's what I am asking.
+text You have been acting very strange these past few days.
+text I can easily tell since we live together."
+text Akiha looks at me as if she can read my mind.
+text "--------Uhh."
+text .... No, there's no way I can lie to her without her finding out.
+text ".... So you are hiding something.
+text Is that the reason you have not been feeling well recently, like this morning?
+text I do not know what is troubling you but is it so bad you have to hide it?"
+text "--------"
+text .... I'm surprised.
+text Akiha knew that I was worrying about the problem by myself.
+text "Akiha.... you noticed?"
+bgload BG_22B.jpg
+setimg AKI_T21.png 40 0
+text "Of course.
+text We are brother and sister.
+text I can tell when you are depressed, Nii-san.
+text Yet you keep the problem to yourself and don't even ask us for help."
+text "!!
+text -------I can't ask you for help-----"
+text I can never do that.
+text ~
+text How I dream about murder every night.
+text And that I can't tell if it's real or just a dream, and the victims in real life are just like the ones in my dream.
+text I can't tell her that I, Tohno Shiki, might be a killer, so be careful at night.
+bgload BG_22B.jpg
+setimg AKI_T12A.png 40 0
+text "Nii-san.
+text We're brother and sister, right?
+text Then please rely on me a bit.
+text Not just me, but both Kohaku and Hisui are also worried about you.
+text If it's a problem you can't solve by yourself, we will gladly help you, so please tell us about it."
+text "Akiha----------"
+bgload BG_22B.jpg
+text Akiha just stares at me.
+text .... Her eyes are filled only with worry.
+text Akiha is not complaining to me for hiding something from her, but she is trying to help me solve my problem.
+text "........ D-"
+text ~
+text That's why I can't tell her.
+text I---Tohno Akiha's brother might be a killer---those words would never come out of my mouth.
+text ~
+text "Don't say stupid things.
+text I'm not hiding anything and I don't have any problems.
+text I wasn't feeling well recently because I wasn't used to the life in the mansion-----"
+bgload BG_22B.jpg
+setimg AKI_T03A.png 40 0
+text ".........."
+text Akiha looks at me angrily.
+text "A----Akiha?"
+text "I understand.
+text You won't listen to me even after all that I've said.
+text If you can't trust me or Kohaku or Hisui, then there's nothing more I want to say."
+bgload BG_22B.jpg
+setimg AKI_T05A.png 40 0
+text Akiha breathes out and looks away.
+text "No, that's wrong, Akiha.
+text It's not that I don't trust you guys, but-----"
+bgload BG_22B.jpg
+setimg AKI_T07.png 40 0
+text "I don't want to hear your excuses!
+text If you like secrets so much, then do what you want!!"
+bgload BG_22B.jpg
+text Akiha screams at me and runs up the hill.
+text ------I could not chase after her.
+text ~
+text Even if I chased her, I would not be able to tell her anything.
+text .... Then that means,
+text it doesn't matter what goes on; I do not trust them well enough.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text Dinner has ended and it's time to go to bed.
+text Akiha ignored me during dinner and during the tea afterwards.
+text She must be still mad about that conversation we had at the hill.
+text .... This time, it doesn't seem like her anger will fade in a matter of days.
+text ~
+text "No, that's better for me."
+text ------Yes, I can't be afraid of my own dreams anymore.
+text I didn't ask Ciel-senpai for help and I rejected Akiha's offer for help, because I've decided I will solve this on my own.
+text "To prove that I, Tohno Shiki, am not the killer-----"
+text I can only think of one way to do that.
+music ~
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text I turn off the lights in my room and put the knife in my pocket.
+text "...... Let's go."
+text I leave the room, trying not to make any noise.
+text ~
+bgload IMA_10.jpg
+text To prove if I am a killer or not.
+text .... I don't even have to think about it.
+text I just have to look around the town at night and find the killer which isn't me------
+sound SE_01.aac 1
+bgload BG_25B.jpg
+text I let out a long breath.
+text ~
+text ----------I walk around the night-shrouded town.
+text ~
+text I put my hands in my pocket, feeling the knife in there on my fingertips as I walk around town.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+music 06.mp3
+text *pant*-----*pant*
+text ~
+text -------I breathe quietly as I walk around.
+text Trying not to draw attention.
+text I look at the people passing by as I conceal my presence.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text ~
+text *pant*------*pant*, *pant*.
+text ~
+text --------I am searching for the killer.
+text Someone will get attacked tonight.
+text He is looking for a new victim.
+text Say, a girl with long, black hair.
+text A girl around my age would be best.
+text No need to mention the beauty of her hands and feet, but the beauty of her neck should be considered.
+text In the end, everything counts on that one spot.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_30B.jpg
+text *p-pant*, *pant*, *pant*.
+text ~
+text --------I look for the killer.
+text ~
+text .... I know I won't find him easily.
+text I knew from my dreams that the perfect prey is hard to find.
+sound SE_01.aac 1
+text *pant*.... *pant*.... *pant*
+text ~
+text B.. u.. t
+text Tonight, this town bores me.
+text I cannot find my PREY.
+text I'm getting angry.
+text My objective was to find someone, or to kill someone, or something like that.
+text "------------Ha.."
+text ~
+text I'll hold my breath.
+text I'll hold on to my knife.
+text I should concentrate, so I will be able to return death at any time.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+text I pant more and more.
+text ~
+text ---I look for the KILLER.
+text ~
+sound SE_01.aac 1
+text But I can't find him.
+text Only time passes.
+text *pant*, *pant*.
+sound SE_01.aac 1
+text It overflows, sharpens, is used, is used up, and over time stands up, and changes form and-------
+sound SE_01.aac 1
+bgload IMA_11.jpg
+bgload BG_31B.jpg
+sound SE_02.aac -1
+text In front of me lies tonight's prey.
+text ~
+text My panting fills the air.
+text ~
+text It is a dead woman's corpse.
+text In my hand is a knife.
+text The red blood on my knife drips to the ground.
+text ~
+text --------Why?
+text I was looking for the killer, but all of a sudden, there's the dead body of a woman right in front of me.
+bgload IMA_11.jpg
+bgload BG_31B.jpg
+text *pant*, *pant*, *pant*, *pant*.
+text My breathing gets out of control.
+text A dead body in front of me.
+text A bloody knife in my hand.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text --------------I don't understand.
+text When, at what time, what I did.
+text Did something happen to my mind?
+text Yes, like..
+text it overflows, sharpens, is used, is used up, and over time stands up, and changes form, changes its meaning, becomes free, explodes, and lightens up.
+text On that path.
+text The theory of evolving consciousness and meaning.
+text But an important path is missing.
+text ~
+text ~
+text Since when.
+text ~
+text ~
+text Did I.
+text ~
+text ~
+text Turn into.
+text ~
+text ~
+text The other "me"?
+text ---------I see.
+text There was no need for me to give you a push, Shiki.
+text From behind me,
+text comes a voice.
+text ~
+text Heavy breathing.
+text ~
+text I turn around.
+text There.
+bgload BG_31B.jpg
+setimg HAL_T01.png 33 0
+bgload BG_31B.jpg
+text ~
+text Someone I have never seen before, yet someone who looks like me, stands there.
+text ------It can't be helped if you're already broken.
+text Bye, Shiki.
+text I wanted to play around with you for a bit longer.
+sound SE_06.aac 1
+bgload IMA_12B.jpg
+text Slash.
+text I'm cut with a knife.
+text ~
+text It hurts.
+text It's funny.
+text It's deep.
+text It's great!
+text "Ha------haha, ha."
+text I start to pass out.
+text Like that, in that ambiguous state, I was killed.
+text .... I'm happy, in a way.
+text Tohno Shiki was killed by the killer.
+text That's proof that I wasn't the killer.
+music ~
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s534.scr
+fi
+if selected == 2
+    jump main.scr
+fi

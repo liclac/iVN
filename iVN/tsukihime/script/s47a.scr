@@ -1,0 +1,168 @@
+text Even Akiha and the others wouldn't be able to sleep with a racket like this.
+text Since I'm the only man in the house, I guess I've got no choice but to go investigate.
+text ".... I think it's coming from the right side of the mansion."
+text I open the curtains and check what's happening outside.
+text ~
+text ---And,
+text ~
+text outside my room is a large tree.
+text On one of the branches is perched a blue crow.
+sound ~
+bgload IMA_10.jpg
+bgload CMO_16.jpg
+text In the dark night,
+text I can see nothing but black, and yet it's quite clear to me that the crow is blue.
+text "........"
+text I've never seen or even heard of a blue crow before.
+text ~
+text It glares at me.
+text ~
+text It feels like the eyes of the crow are staring at me, like soulless, mechanical lenses.
+text ~
+text Kwaaw!
+text ~
+text After a yawn-like cry, it noiselessly flies off.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ".... What was that?"
+text .... I can feel a faint chill on my back.
+text The howling of the dogs grows louder.
+text Awoooooooo.
+text Awoooooooo.
+text Awoooooooo.
+text ~
+text "........"
+text It's really starting to get on my nerves.
+text Not only is it noisy, but hearing it causes my heart to start pounding.
+text I have an almost instinctual distaste for it.
+text ~
+text "Shut---up!"
+text I change out of my pajamas into my uniform, and leave the room.
+bgload IMA_10.jpg
+music 06.mp3
+bgload BG_32D.jpg
+text ~
+text Awoooooooo.
+text ~
+text The howling echoes through the night.
+text That sound is definitely coming from the right-hand side of the mansion.
+text "........"
+text For some reason, my throat feels dry.
+text The high walls stretch their way around the mansion.
+text Clearing my throat, I head towards where the dogs must be gathered.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text I arrive at where the howling originates.
+text ".... Huh?"
+text ~
+text Awoooooooo.
+text ~
+text The howling doesn't stop.
+text But there are no signs of any dogs.
+text All there is---is a person.
+text Under the light from the streetlight that carves apart the darkness stands a man in a dark coat.
+text ~
+text The howling is coming from right beside him.
+text ------But there are no dogs to be seen anywhere.
+bgload IMA_11B.jpg
+bgload BG_47.jpg
+text The man in the coat is pretty tall.
+text He has a strongly built body, and his back is facing me.
+text "---------"
+text ~
+text My throat.. so dry.
+text Awoooooooo.
+text The voice of the dog resounds in my ears.
+text The night air coils itself around my skin.
+text ~
+text For no apparent reason, I have difficulty breathing and moving, as if I'm at the bottom of the sea---
+text Kwaah!
+text ~
+text A cry overhead.
+text With a loud flapping of its wings, the blue crow lands onto the man's shoulder.
+text ~
+text ---Then,
+text ~
+text suddenly, the crow vanishes.
+text ".... Eh?"
+text Can it be an illusion?
+text It looked like the crow disappeared into his black coat.
+text ~
+text "------"
+text ~
+text The man in the black coat turns around.
+bgload BG_47.jpg
+setimg NERO_T03.png 13 0
+text Under the white streetlight, he is just like a shadow.
+text A black lump.
+text In the middle of that lump, only the weapon-like eyes shine out, burning with a fiery intelligence.
+text ~
+text ".... Ah."
+text ~
+text I can't breathe.
+text But fortunately, those eyes seem like they're not even looking at me.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "Not here after all."
+text ~
+bgload BG_47.jpg
+text The man in the black coat leaves.
+text When I can no longer see him, I am finally able to breathe properly again.
+text "Hhahh---haah, ah."
+text I manage to take a few breaths.
+text ~
+text I realize the dogs' howling has ceased.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text I return to my room.
+text There is no sign of Akiha or the others being awake.
+text I guess I'm the only one who couldn't stand the dogs' howling.
+text ~
+text "------Guh!"
+text ~
+text What's happening?
+text My head still hurts.
+text "Huh.. ?
+text Why am I trembling?"
+text Looking down, my fingers are trembling.
+text My entire body is shaking, and my back feels very cold.
+text ~
+text It's almost like.. yes.
+text ~
+text It's like someone ripped out my spine and replaced it with ice.
+bgload IMA_11B.jpg
+bgload BG_40C.jpg
+text "------"
+text I feel dizzy.
+text .... Is it just the usual anemia?
+text I get the feeling of falling towards the floor.
+text ~
+text On the way, I see something unpleasant.
+bgload BG_40F.jpg
+text "Wha---!?"
+text Even though I'm wearing my glasses, I can still see the "lines".
+text "Uuh....!"
+text I hadn't seen them at all for a long time, so my reaction is magnified.
+text I feel sick.
+text With the dizziness from my anemia, I feel like I'm about to throw up the contents of my stomach.
+text ".... What's, going on?"
+text I don't understand.
+text Only that as long as my eyes are open, scribbles fly everywhere across my vision.
+text ~
+text ---It's a bad.. dream.
+text ~
+text Somehow, I manage to collapse into bed.
+text .... Yes.
+text I should sleep.
+text That's the easiest way to deny what I'm seeing.
+text My body doesn't move as I want it to.
+text All I should do is lie here and fall fast asleep, like a corpse---
+music ~
+bgload IMA_10.jpg
+setvar ark_regard + 3
+jump s51.scr

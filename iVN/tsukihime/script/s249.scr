@@ -1,0 +1,16 @@
+music ~
+bgload BG_06B.jpg
+text Classes end again with plenty of time to spare.
+text ~
+text Well---
+text ~
+choice Go back to the mansion.|Go to the tea ceremony room.|Go out into the city.
+if selected == 1
+    jump s250.scr
+fi
+if selected == 2
+    jump s251.scr
+fi
+if selected == 3
+    jump s252.scr
+fi

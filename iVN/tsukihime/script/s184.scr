@@ -1,0 +1,16 @@
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text It's now eleven o'clock.
+text .... The park is completely still, as if entirely frozen.
+text There's no fresh flow of air, nor the presence of anyone approaching.
+text There's no sign of Arcueid coming.
+text Time passes by meaninglessly.
+text I--
+text ~
+choice Still wait.|Return to the mansion.
+if selected == 1
+    jump s185.scr
+fi
+if selected == 2
+    jump s186.scr
+fi

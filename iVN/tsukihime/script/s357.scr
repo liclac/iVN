@@ -1,0 +1,83 @@
+bgload BG_06A.jpg
+text .... But I might be overreacting if I go apologize to her.
+text Kohaku-san told me to keep that conversation a secret.
+text Besides, considering Akiha, if I apologize to her like "I'm sorry for everything", I can see her getting mad at me.
+text ~
+text ".... Yeah, I guess I'll wait until lunchtime."
+text I stay in the classroom and get ready for the next period, still feeling a bit unsettled.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_06A.jpg
+text It's lunchtime.
+text It's like an unspoken agreement, but if I go out to the courtyard, I will end up having lunch with Akiha.
+text .... *sigh*
+text But it's a bit depressing today.
+text I want to apologize about this morning, but I don't have any idea how I can apologize.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Yo, Tohno.
+text Let's hurry up and go to the courtyard.
+text Akiha-chan is waiting."
+text .... Says one guy.
+text Besides, I can't leave her by herself.
+text .......... *sigh*
+text I let out a big sigh and leave the classroom with Arihiko.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text Akiha isn't here yet.
+text Since Ciel-senpai will be coming too, I guess we'll eat on the grass instead of on the bench.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg CEL_T01A.png -12 0
+text "I'm here.
+text Hey, Akiha-san isn't here yet?"
+bgload BG_04.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "Yeah, she should be here any minute now----Oh, there she is.
+text Akiha-chan, over here!!"
+text Arihiko aaces his hands around hard.
+text Looking a bit puzzled, Akiha comes onto the grass.
+bgload BG_04.jpg
+setimg ARI_T01.png 104 0
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T01.png 104 0
+text "I'm sorry I'm late.
+text I received an invitation to have lunch with my classmates, and it took me some time to decline their invitations."
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T02.png 104 0
+text "Don't worry, we just got here too.
+text Here, sit here."
+text Arihiko pats the grass.
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg ARI_T02.png 104 0
+text "Is it alright?
+text I do not see anyone else eating their lunch on the grass."
+text "It's okay.
+text It's not prohibited or anything.
+text There's no problem.
+text You don't have to worry about it."
+text Arihiko pats the grass once again.
+text "-----Okay, then excuse me."
+text Akiha bows faintly and sits next to me.
+bgload BG_04.jpg
+text "Ug........"
+text .... I still haven't gotten over the incident from this morning.
+text I feel a bit nervous if she sits this close to me.
+bgload BG_04.jpg
+setimg AKI_T01A.png 40 0
+text "----What's wrong, Nii-san?
+text You don't look too well.
+text Are you not hungry....?"
+text Akiha gives me a quiet glance as if to find out my condition.
+text "What-----no, I don't feel bad at all."
+text .... I don't, but it does feel a bit awkward being here.
+text It seems that Akiha doesn't care about what happened this morning, but it really bugs me as Kohaku-san's words keep flickering in my head.
+bgload BG_04.jpg
+text "........"
+text As a result, I can't think of anything to say as I fall silent.
+jump s358.scr

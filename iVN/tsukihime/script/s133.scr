@@ -1,0 +1,25 @@
+if flg5 >= 1 
+    jump s134.scr
+fi
+bgload BG_11A.jpg
+bgload BG_11A.jpg
+setimg CEL_T03.png 52 0
+text "Tohno-kun, did you sleep well last night?"
+text "Eh?"
+text She looks directly into my eyes as she asks.
+bgload BG_11A.jpg
+text .... Sleep well?
+text That goes without saying.
+text I couldn't get to sleep easily last night, and also--
+text "Uh...."
+text I blush as the memories resurface.
+text With a piercing gaze, Senpai looks up at me.
+text "Senpai, um--"
+bgload BG_11A.jpg
+setimg CEL_T08.png 52 0
+text "Tohno-kun, you pervert."
+text "Huh?"
+bgload BG_11A.jpg
+text With a look indicating she wants to say more, Senpai quickly walks away.
+bgload IMA_10.jpg
+jump s135.scr

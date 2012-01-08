@@ -1,0 +1,52 @@
+bgload BG_15C.jpg
+text ~
+text ----I refuse.
+text I can't stand up to that monster.
+text She told me to be her shield and watch over her while she sleeps, but I couldn't even do that well.
+text Even if I were to fight with her, I would probably just get in the way.
+text "Arcueid.
+text Sorry, but I can't.
+text He's too different.
+text Even if I fought him, I wouldn't even be able to scratch him."
+bgload BG_15C.jpg
+setimg ARK_T11.png 36 0
+text "What?
+text Really..?"
+text .... I'm not sure where she gets that from, but she tilts her head as if doubting me.
+text ".... I'm glad you think so highly of me, but I can't do it.
+text Our promise was just for me to watch over you for one night.
+text I don't want to have anything more to do with that monster."
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "Hmm, it may be too late.
+text Nrvnqsr met you.
+text Even if you were no longer with me, I don't think he would leave you alone."
+text She speaks lightly as if discussing some third party.
+text "Wha------"
+text I blurt out, and then I understand.
+text That vampire Nrvnqsr is the one killing people in this town.
+text There's no reason for him to leave me alone once I saw his face.
+bgload BG_15C.jpg
+setimg ARK_T03.png 36 0
+text "But I am faster than Nrvnqsr.
+text He cannot move during the day, and you're right in front of me, so it's overwhelmingly in my favor."
+text ".... What do you mean?"
+bgload BG_15C.jpg
+setimg ARK_T09.png 36 0
+text "Oh, nothing.
+text I was just thinking if you are going to run away, I would just kill you here."
+text Arcueid smiles as she jokes around, but she also seems serious.
+text "U........, gh."
+text Her smile doesn't fade.
+text .... She really seems intent on coercing me.
+bgload BG_15C.jpg
+text "........ You devil."
+text .... I'm trapped.
+text If I'm going to be attacked either way, then there's no other choice but to help Arcueid.
+text I look up at the ceiling and take a deep breath.
+text Fortunately, that prepares me just a bit for what is to come.
+text "Okay, I'm ready.
+text .... Come to think of it, there was no running away from the time I met you.
+text Coming this far, I guess I have no choice but go all the way."
+bgload IMA_10.jpg
+jump s97.scr

@@ -1,0 +1,135 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Bonjour!
+text And now the hint corner for the sake of the precocious Tohno-kun who easily meets another Dead End,
+text It is time for "Teach me, Ciel-sensei!"
+text ~
+text Now, the first period lesson of the third day.
+text The only remaining lessons are about Akiha-san's route.
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text "Nnya?
+text Sensei, why would Hisui's lessons be done before Akiha's?"
+text ~
+text Question denied.
+text Now, Tohno-kun.
+text I understand how you feel, but Yumizuka-san is in big trouble.
+text ~
+text "????
+text Isn't Shiki the one in trouble?"
+text Enough, it is big trouble.
+text A girl your own age is in trouble, so this is no time to be shying away from danger.
+text Please go back a little earlier and be sure to investigate the back alley.
+text Well then, see you in the next lesson!
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ARK_T31A.png 61 0
+text ".... I don't get it.
+text Why would Hisui be done before Akiha?"
+text ~
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+text "I just don't get it.
+text I'm the main heroine and I don't get much screen time, and Shiki ignores me!"
+text ~
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31B.png 125 0
+text "Yeah, I don't get it!
+text It's just me, and even Ciel has an appearance!
+text But you only get to see me from behind.
+text What's more, Sacchin is acting more like a vampire than I am!
+text What the heck is this, Kinoko!?"
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png -3 0
+setimg ARK_T31B.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31B.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31B.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png -3 0
+setimg ARK_T31B.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31B.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31B.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png -3 0
+setimg ARK_T31B.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31B.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31A.png 125 0
+bgload IMA_10.jpg
+setimg ARK_T31B.png -3 0
+setimg ARK_T31A.png 61 0
+setimg ARK_T31B.png 125 0
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "I just don't get it.
+text Don't get it, don't get it!!!"
+bgload IMA_10.jpg
+music ~
+jump title.scr

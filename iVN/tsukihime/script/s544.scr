@@ -1,0 +1,41 @@
+sound SE_03.aac 1
+bgload BG_06B.jpg
+music 03.mp3
+bgload BG_06B.jpg
+setimg OSIETE.png 0 0
+bgload BG_06B.jpg
+bgload BG_06B.jpg
+setimg CEL_T20.png 103 0
+text Thanks for waiting!
+text Time for Ciel-sensei's What & Why corner.
+text Due to popular demand, here is a supplementary lesson (number two)!
+text .... Oh my, Akiha-san is like a monster.
+text Maybe she had something pent up all this time against Tohno-kun, but she has gone pretty crazy.
+bgload BG_06B.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text ~
+text "I don't think so.
+text That's nothing."
+text Yeah, yeah, I don't recall ever asking a nonhuman like you anything.
+text Heroines that don't even appear should just be quiet.
+text ~
+bgload BG_06B.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text ".... Unyaa!
+text I was treated like this until the very end.
+text Do you want to eat Ramen?"
+bgload BG_06B.jpg
+setimg CEL_T20.png 103 0
+text ----Well then.
+text This time, the cause was your carelessness, Tohno-kun.
+text SHIKI-kun showed you that method was not going to work, but you repeated it anyway, right?
+text I'll make this a re-submit, so please go back and try again.
+text ----After this, it will finally be the end.
+text ~
+text This will be the final lesson.
+text Thank you so much for listening up to now!
+bgload IMA_10.jpg
+music ~
+jump main.scr

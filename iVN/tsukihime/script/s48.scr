@@ -1,0 +1,68 @@
+bgload BG_40D.jpg
+text The howling continues.
+text There's no way I can sleep like this.
+text .... I can't sleep, but that's just normal.
+text ".... I'm sleepy, so I'll pass."
+text Pulling the sheets over me, I stretch out on the bed.
+text I can just think of the howling as the sound of something mundane as cars driving by on the street.
+text *sigh*
+text Today's been a very long day.
+text I'm mentally tired from eating dinner in this unfamiliar mansion and my conversations with Akiha and everyone else.
+text After all that, the howling is just background noise.
+text I close my eyes and gently fall asleep.
+bgload IMA_10.jpg
+sound SE_09.aac 1
+bgload BG_40D.jpg
+text "---Nng."
+text I think I just heard something.
+text Half-awake, I look at the clock.
+text It's just past two.
+text .... It's been about two hours since I heard the dogs howling.
+text The dogs' howling has already stopped.
+text The mansion is so quiet, I can hear the clock ticking in the silence.
+sound SE_08.aac 1
+text "------?"
+text I hear it again.
+text .... Inside the mansion.. from the lobby?
+text "-----Could it be a burglar?"
+text It's not impossible.
+text The mansion's contents are outrageously valuable.
+text On top of that, with no one here now except Kohaku-san, Hisui, Akiha and myself, it's very insecure.
+text "...."
+text Getting out of bed, I slip out of the room quietly.
+bgload IMA_10.jpg
+music 06.mp3
+bgload BG_46C.jpg
+text If it's a burglar, Akiha and everyone will be in danger, so I can't let this one go.
+text I'll just look down from the second floor into the lobby; that should be safe enough.
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text There's nothing wrong there.
+sound SE_08.aac 1
+text ".... !"
+text No, someone's there.
+text The figure that enters from the entrance and crosses the lobby with wobbling, uncertain steps, is---
+text ~
+bgload BG_33D.jpg
+setimg AKI_T19B.png 40 0
+bgload BG_33D.jpg
+text "Aki.. ha?"
+text She's not going to her own room on the second floor, but to the first floor of the west wing.
+text The only things there are Kohaku-san's room and my old man's room.
+text ".... What's she doing at this time of night?"
+text I can murmur all I want, but I won't be getting any answers.
+text After gazing at the lobby for a while, I decide to return to my room.
+bgload IMA_10.jpg
+music ~
+bgload BG_40D.jpg
+text .... Well, she probably had something to do, or went to see Kohaku-san.
+text I feel bad about sneaking around and watching her, and I don't want to just ask her about everything she does.
+text ".... Sleep, sleep.
+text There's school tomorrow."
+text I bury myself in bed and close my eyes.
+text ~
+bgload IMA_10.jpg
+text ---As I fall asleep,
+text ~
+text my thoughts keep returning over and over to Akiha's hollow-eyed figure in the lobby.. and how something seemed wrong.
+jump s204.scr

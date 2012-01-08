@@ -1,0 +1,399 @@
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "-----"
+text I have a headache.
+text .... I don't quite understand how, but what I did with Hisui helped me regain some of my strength.
+text But in exchange, my headaches have gotten much worse.
+sound SE_04.aac 1
+text .... I hear a knock at the door.
+text It's probably.... Kohaku-san, I suppose.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+music 09.mp3
+text "Please excuse me, Shiki-sama."
+text "---------Eh?"
+text The one who came was Hisui.
+bgload BG_40A.jpg
+text "-------"
+text Hisui wordlessly performs her usual check-up.
+text Because I haven't slept today, I'm not bleeding.
+text I'm not using an IV, so after taking a few measurements and changing the sheets, she gives me some water and medicine.
+text "-------"
+text The whole time, there is nothing but silence between us.
+text .... After doing what I did, I can't look at her in the face.
+text I think Hisui is like that too, but Hisui probably still dutifully and methodically carries out all her normal tasks because of her role as a servant.
+text And all of a sudden.
+bgload BG_40A.jpg
+setimg HIS_T02.png 62 0
+text "Shiki-sama, how is your body's condition?"
+text She talks to me.
+text "Um, I, uh-----"
+text As far as my condition goes, I can move a little more than before because of what happened earlier, but---
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama, is there something the matter?
+text Your face appears very red."
+text "My, my face is red.. because---Hisui, you.."
+text "Yes?
+text What did I do?"
+text Hisui tilts her head to the side questioningly.
+text "Uh-----"
+text Damn it, I can't just say it.
+text And I still haven't been able to apologize for before.
+text "That is, I.... I'm sorry about before.
+text You must have been embarrassed to do it, but I treated you a bit rough."
+bgload BG_40A.jpg
+setimg HIS_T20.png 62 0
+text "Ah........"
+text Hisui lowers her gaze as if embarrassed.
+text I suppose she remembers now.
+text ~
+text ----I guess that's not the reason.
+bgload BG_40A.jpg
+setimg HIS_T02.png 62 0
+text ".... Do not worry, Shiki-sama.
+text I must apologize as well, for doing that to your body without asking.
+text It is only natural if you end up hating me."
+text "Wha---hate you?
+text I have no reason to hate you....!
+text No matter what happens, I won't hate you.
+text .... Besides, it is only natural if you end up hating me."
+bgload BG_40A.jpg
+text My whole body becomes heavy as I say this.
+text Even though I'm the one who said it, it should be about time Hisui is getting tired of hearing me.
+text I bet she's remembering what happened before and hating me even as I speak.... Huh?
+bgload BG_40A.jpg
+setimg HIS_T14.png 62 0
+text .... That's odd.
+text Why is Hisui smiling so happily?
+text ".... Hisui.
+text Why, are you smiling?"
+text "Shiki-sama, your words and mine were the same.
+text I thought it was amusing."
+text Hisui giggles, as if it is really funny.
+text .... My head starts spinning.
+text Hisui's rare smile is so cute, I'm about to go crazy.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg HIS_T29.png 62 0
+bgload BG_40A.jpg
+text That might be why.
+text Her smile looks incredibly scary to me.
+text ".... Anyway, I haven't said thanks yet.
+text Thank you for before, Hisui.
+text .... The, method was a little problematic, but thanks to you my body is better.
+text I may even be able to walk a little."
+bgload BG_40A.jpg
+setimg HIS_T03.png 62 0
+text "Eh---ah, yes.
+text Even though what I did is a small thing, I am happy that I could be of some use."
+text Hisui looks at me directly.
+text .... Seeing her like that makes me remember what happened, and I start to get a little uncomfortable.
+text ".... But, about before, I don't think it was really appropriate.
+text I'm happy, but it's not quite right."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text ".... Not quite, right?"
+text "Yes.
+text That's, something that both parties should agree to.. and even though you're a servant, you don't have to go that far.."
+bgload BG_40A.jpg
+setimg HIS_T08.png 62 0
+text "I understand.
+text As you say, I will ask for your permission before I touch you next time."
+text .... No, you're missing my point..
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Please excuse me.
+text If anything happens, please call for me, Shiki-sama."
+bgload BG_40A.jpg
+text Hisui walks out of the room.
+text ".... She's really calm...."
+text I'm a bit taken aback.
+text Just seeing Hisui's face makes me blush, but Hisui acted just like she always does.
+text "........"
+text I don't get it.
+text Something doesn't feel quite right and lingers in the back of my mind.
+bgload IMA_10.jpg
+music ~
+sound SE_02.aac -1
+bgload BG_40B.jpg
+text "A------"
+text When I open my eyes, the day has already passed.
+text .... It seems I fell asleep, but I don't remember when.
+text *pant* *pant* *pant* *pant*
+text ~
+text My breathing is ragged.
+text My body is burning.
+text My body.
+text My body feels like it's roasting, erupting into flames.
+text ".... Wa.... ter...."
+text My throat is thirsty.
+text It's so hot, I can't even speak.
+text I can't even call for Hisui or Kohaku-san.
+text "......"
+text My empty room.
+text I start to feel down staying in this for so long.
+text This restless room.
+text This room I don't remember.
+text .... This room, it feels, like it isn't my room.
+text ".... Wa.... ter...."
+text I'm thirsty.
+text Water.
+text I should go back to my house, and quickly, get some water to drink.
+bgload IMA_10.jpg
+bgload BG_46B.jpg
+text I gasp for air.
+text ~
+text Placing my hand on the wall and feeling like I'll collapse any second, I manage to drag myself out of my room.
+text ~
+text I have trouble breathing.
+text ~
+text .... What is this?
+text I haven't even walked thirty feet and already my heart feels like it will explode.
+text I need more air.
+text ~
+text Still, I have to go.
+text I might die if I walk anymore.
+text But if I don't get any water to drink, I'll probably die anyway.
+text Then, I'll walk and go get some water.
+text I can't just stay and lounge on my bed forever.
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+text *pant*.... *pant*.... *pant*....
+text ~
+text I go out into the courtyard.
+text Water----this, isn't, the kitchen though.
+text ~
+bgload IMA_10.jpg
+bgload BG_54B.jpg
+text ...... *pant*...... *pant*
+text ~
+text I enter the woods.
+text .... Soon.
+text Soon, I will be able to be at a place with water, a familiar place.
+bgload IMA_10.jpg
+bgload BG_44A.jpg
+text *pant* ........ *pant*
+text ~
+text With the fever getting to me, I arrive at the place.
+text White, sunshine.
+text Even though the day is already ending, the entire world is white.
+text This place is burning hot like a desert, and I squint my eyes since the world is so white.
+text ~
+text ~
+text .... Thud.
+text I hear a noise.
+text .... It comes from the detached house.
+text .... Someone.
+text .... Someone's inside?
+bgload IMA_11.jpg
+bgload BG_45B.jpg
+text Opening the sliding door very slightly, I peer in from the porch.
+text Inside, I see the figures of Akiha and Kohaku.
+text They look a little strange.
+text I hear the swishing of an obi being removed.
+text ~
+text -----What..?
+text ~
+text Without a word, Kohaku pulls down her kimono and bares her breasts.
+bgload event/AKI_H13.jpg
+text Kohaku stands there with a blushing face, but does not move.
+text Akiha presses her lips against the bared white chest.
+text ~
+text Tension.
+text ~
+text Kohaku looks down at her bare chest, and Akiha crouches so that she is burying her face in Kohaku's breasts.
+text A thin red drop makes a line down her breast.
+text Akiha's throat starts to move, swallowing something.
+text What---what is she drinking?
+text There's no need to ask; I already understand.
+text ~
+text Akiha, she's drinking, Kohaku's blood----
+bgload IMA_11.jpg
+bgload event/AKI_H13.jpg
+text .... I feel dizzy.
+text My mind goes blank.
+text All I can do is stare at the strange event happening before my eyes, like in a daydream.
+text Suddenly, Akiha opens her mouth with her arms still around Kohaku.
+text "About the killer.... what do you think, Kohaku?"
+text "Let's see.
+text I think there can be no mistake that it's the work of SHIKI-sama."
+text ~
+text ----What.
+text ~
+text "I---I suppose so.
+text I have no idea how he can walk around with that body, but we can't leave him alone.
+text The impurity of the Tohno blood that has awakened must be cleansed by those of the Tohno blood."
+text ~
+text ----Just, what are they saying?
+text "Then, Akiha-sama."
+text "Yes.
+text As the head of the Tohno family, I will kill my brother."
+text ~
+text ----Those words send chills down my spine.
+text ~
+text Akiha isn't playing around.
+text Even Kohaku-san nods seriously.
+text "Then, Akiha-sama.
+text We should let Hisui-chan know about this too."
+text "You're right.
+text .... But we shouldn't need her help.
+text My brother can't move around as he likes, so we should be enough to kill him."
+text ~
+text ----*pant* *pant* *pant*
+text My breathing gets out of control.
+text ~
+text "You understand, Kohaku?
+text Don't let Nii-san pick up on any of this.
+text It will all be over in a few days, so let's not trouble him."
+text "Yes, I understand.
+text He can't even move from his bed by himself, so he will never find out."
+text -----*pant* *pant* *pant*
+text ~
+text My fingers shake uncontrollably.
+text Nausea permeates my being and I almost pass out.
+bgload IMA_10.jpg
+text ~
+text But, I can't pass out here.
+text ~
+text -----I have to get away.
+text ~
+text If I pass out here, I'll surely be killed.
+text If they find out I was watching them, they'll kill me right here.
+text I struggle for breath.
+text .... I don't understand.
+text I don't understand why they would want to kill me.
+text Even my brain trying to understand doesn't work because of the fever.
+text .... I don't understand.
+text This, has to be a bad dream.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----------Dream
+text Dream----------?
+text Yes, this is a dream.
+text Like always, this has to be just another one of my nightmares.
+text Then, I have to wake up quickly.
+text Before this horrible vision consumes me, I have to wake up and return to my normal life----
+sound ~
+bgload BG_40B.jpg
+music 01.mp3
+text "Ah-----"
+text .... Somehow, I make it to my room.
+text Now---yes, now I, should lock the door--
+text ~
+bgload BG_40B.jpg
+setimg HIS_T12.png 62 0
+text "Shiki-sama."
+text "-------"
+text .... I don't know how long she has been there, but Hisui is standing in my room.
+bgload BG_40B.jpg
+setimg HIS_T13.png 62 0
+text "What are you doing?
+text In your condition, walking is very dangerous."
+text "Hi.... sui."
+text "Please, lay down.
+text If you push yourself, Akiha-sama will scold me."
+text "Akiha.... will scold....?"
+text ~
+text Why would she get in trouble if I went outside?
+text .... No, I understand perfectly.
+text Akiha realizes that I'm the killer.
+text So she plans to lock me in my room, and when night comes, kill me.
+text "----Please leave, Hisui."
+text "Shiki-sama....?"
+text "I won't let anyone in this room.
+text Even you, no one will ever come in again....!"
+bgload BG_40B.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama---kyaa!"
+bgload BG_40B.jpg
+text I don't know where I got the strength, but I push her out into the hallway.
+text Then, I shut the door and lock it.
+text "Shiki-sama---!?
+text Shiki, sama, please open the door, Shiki-sama....!"
+text She knocks on the door.
+text Ignoring it all, I crumble to the floor.
+bgload IMA_10.jpg
+sound SE_01.aac 1
+text ~
+text ----Pai, n.
+text ~
+text It sticks inside my brain.
+text The poison permeates every pore in my body.
+text Every time I take a breath, the mold invades my whole body.
+sound SE_01.aac 1
+text ~
+text ----I can't move freely.
+text ~
+text Something other than my organs or my functions, but something more from the core, like my very own energy, seems to be flowing out of my body.
+sound SE_01.aac 1
+text My heart has an invisible pipe sticking out of it.
+text My "life" is flowing along this pipe to him.
+sound SE_01.aac 1
+text ~
+text -----It, hurts.
+text ~
+text So I can't make it.
+text No matter how hard my body tries to recover, he takes away everything.
+text So unless I take in something from the outside world, I can't live.
+sound SE_01.aac 1
+text Intravenous drip.
+text Nutrient supplement.
+text Injection.
+text Sedative.
+text Moisture.
+text Blood.
+text Reason.
+text Intelligence.
+text Feelings.
+text Memory.
+text Sight.
+text Sound.
+text Taste.
+text Touch.
+text Smell.
+text Bodily fluids.
+text Love.
+text Impulse.
+text ------Ha.... a
+text ~
+text These drugs, all they can do is barely keep me alive.
+text This isn't healing me.
+text If there's something that will help me move, it's----
+sound SE_01.aac 1
+bgload event/HIS_H14.jpg
+bgload IMA_10.jpg
+bgload IMA_11.jpg
+bgload BG_40C.jpg
+text Knock.
+text Knock.
+text The sound wakes me up.
+text ~
+text Knock Knock.
+text Knock Knock.
+text Knock Knock.
+text ".... Sh.... ut, up!"
+text Placing my hand on the wall, I manage to stand up.
+text My own wheezing fills my ears.
+text ~
+text Knock Knock.
+text Knock Knock.
+text Knock Knock.
+text ~
+text "Nii-san!
+text Please open the door, Nii-san."
+text Akiha is banging on the door.
+text .... That's right.
+text I locked it, so no one can get in.
+text ~
+choice Unlock the door.|Why did I lock the door in the first place?
+if selected == 1
+    jump s407.scr
+fi
+if selected == 2
+    jump s406.scr
+fi

@@ -1,0 +1,17 @@
+bgload BG_08B.jpg
+text ----I should find this vampire Roa.
+text ~
+text Arcueid isn't going to come see me, and it's almost impossible for me to find her.
+text So I'll take the opposite route.
+text Arcueid said she would defeat Roa no matter what.
+text If her purpose is Roa, then I'll look for him too.
+text Arcueid will come to Roa, so if I could find him before then, that'll be good.
+text ~
+text And with that option,
+text I can help Arcueid at the last moment.
+text "----Alright."
+text My mind is set.
+text So I can't waste any more time here.
+text I have to go into town this very minute, and even if it means looking for a needle in a haystack, I have to find this vampire----
+bgload IMA_10.jpg
+jump s198.scr

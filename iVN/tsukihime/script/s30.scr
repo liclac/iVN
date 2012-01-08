@@ -1,0 +1,374 @@
+music 03.mp3
+bgload BG_06A.jpg
+text It's lunchtime and the classroom starts to liven up.
+text Some guys are dashing off towards the cafeteria, a group of girls are rearranging desks to form a table, and some students are calmly leaving the classroom, boxed lunches in hand.
+text I watch them while I set down the milk and bread I bought.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Sheesh, not much of an appetite as usual, huh, Tohno?"
+text This guy in front of me being here is already a part of my daily routine, and I'm not about to start complaining now.
+text "But man, what's up with us, just the two of us eating lunch together?
+text What kind of meal goes unaccompanied by a beautiful blossom?"
+text "If you don't have any 'blossoms', why don't you join that group over there?
+text I'm not going to stop you."
+text "Idiot!
+text When I say 'blossom', I mean a single, beautiful blossom.
+text Those girls making a group aren't good.
+text They're poisonous, rather than being beautiful."
+text .... Arihiko's comment would've probably earned him some rocks thrown in his direction if the group of girls had heard him.
+text Luckily, the girls in our class didn't hear his poisonous words.
+text ".... That's pretty harsh, Arihiko.
+text I know you were a bad guy before, but haven't you been getting worse lately?
+text You're surpassing merely 'bad' and getting into 'deviant'."
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "I can't help it, can I?
+text When there's a truly beautiful blossom at our school, my discerning eye grows more critical."
+text "Hah.... So, who is this beautiful 'blossom'?"
+text "That's a secret.
+text I don't want more competition, now do I?"
+bgload BG_06A.jpg
+text Arihiko laughs with an ambitious smile spilling over his face.
+text As it is something I don't have, I'm a little impressed by his ability to express himself so frankly.
+text ~
+text ----And then.
+text ~
+text The person I just met comes in from the classroom door.
+text ".... Ah."
+text With a boxed lunch in one hand, there is no way I could mistake her---
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "Hello, Tohno-kun.
+text Mind if I interrupt?"
+text "Eh---Ah, it's fine, of course---"
+text Smiling, Ciel-senpai brings over a chair and sits down naturally.
+text "Um.... Senpai, are you hurt?"
+text "No, I'm not hurt at all."
+text Even her smiling reply troubles me.
+text "You said to come here at lunchtime, so I thought it would be rude if I did not."
+text "Uh.... It's true that I said that, but...."
+bgload BG_06A.jpg
+text What I intended to say was that she could come and I would take responsibility if she ended up being hurt.
+bgload BG_06A.jpg
+setimg ARI_T04.png 104 0
+text "S-s-senpaiiii!"
+text Arihiko slams the table with a bang as he stands up.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T04.png 104 0
+text "Ah, Inui-kun.
+text Could it be that you and Tohno-kun are acquainted?"
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T05.png 104 0
+text "Yeah, we're more than casual acquaintances!
+text Tohno and I have been friends since we were kids!
+text Right, Tohno?
+text You could even say we were best friends!"
+text "--------"
+text Arihiko makes a tight fist for emphasis.
+text There's no room for agreement or disagreement.
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T05.png 104 0
+text "Oh, really?
+text It is such a coincidence that you two are friends!"
+text "It sure is!
+text This bastard has such a calm face, I'm wondering just when did he start to get along with Senpai!"
+text 'Hahaha!' Arihiko glares at me while laughing towards Senpai.
+text Absent-mindedly, I wonder if that's what you'd call being well-rounded.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text In the end, Arihiko forcibly convinces Senpai to stay for lunch.
+text Well.... since she brought her lunch, perhaps that's what she had in mind in the first place.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+text "Oh, Inui-kun, do you live by yourself?"
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "Nah, I live with my sister.
+text Our parents left us in charge of the house, so we naturally learned how to cook, that's all."
+text Arihiko seems familiar with Senpai.
+text He's able to talk to her more casually than I can.
+text I've only met her a few times.
+text "By the way, Senpai, you said that you were called here by Tohno.
+text Did something happen?"
+text "Yes, I ran into Tohno-kun during the break.
+text I wasn't hurt, but Tohno-kun hit his head."
+text "Hmm.... And you came to see him because you became worried?"
+text "Yes, that's about right."
+bgload BG_06A.jpg
+text Senpai's voice is brisk and pleasant to listen to.
+text Since listening is more interesting than talking, I keep silent.
+text That's when Arihiko directs the conversation towards me.
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "What's wrong, Tohno?
+text Running into someone.... Don't tell me your anemia was acting up again?"
+text Arihiko's voice betrays his deep concern about my health.
+text ".... No, it's not that.
+text I was running to the office to deal with some details for me moving.
+text That's when I ran into Senpai."
+text "---Really?
+text Well, I guess your carelessness was at fault."
+text Arihiko folds his arms and nods in agreement to himself.
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T10A.png 52 0
+text "Tohno-kun, are you changing schools!?"
+text Senpai suddenly outbursts almost hysterically.
+text .... Really, why does she think I'm changing schools just because of that?
+text "I'm not changing schools, Senpai.
+text I'm just changing my place of residence, so I filed the paperwork for a change of address."
+bgload BG_06A.jpg
+setimg CEL_T08.png 52 0
+text "Um.... so that means you're going to be living alone?"
+text "No, I'm just going back to my real home.
+text It's that fancy place on top of the hill.
+text I still can't quite believe it yet."
+text "Ohh.... Could that possibly be the Tohno-san mansion?"
+text Senpai asks with some hesitation.
+text The western-style house on top of the hill is probably seen as something special to the residents of the town.
+text I haven't been there for eight years, but even in my memories, the Tohno mansion was ridiculously large.
+text "Yeah, that's right.
+text I don't think it's the right place for me either, but it's too late now that I'm done moving."
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "Hmm.... You don't seem too happy about it."
+text "It's not a particularly good or bad thing.
+text I don't really understand it myself."
+text "Well, even if it is your house, it's been eight years, right?
+text I can understand if you're feeling restless.
+text It'll probably feel like someone else's house for a while."
+text "I wonder if that's so.... I haven't gone back yet, so I don't know.
+text Well, I'm a bit relaxed, since I've always got a refuge at your place."
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg ARI_T03.png 104 0
+text "Hmph.
+text Listen, you, I'm not impressed with how you come to stay at my house every time something bad happens.
+text I like your personality trait of not standing out, but I've hated how you're always too reserved for a long time now!"
+text Arihiko strikes the table with a bang again.
+text "........"
+text Well, everything Arihiko said is true, so there's no way to fight back.
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T03.png 104 0
+text "Inui-kun, does Tohno-kun really stay at your house that often?"
+text "Yeah, he does.
+text That damn Tohno is too reserved toward his parents and he would come to my place every long vacation.
+text He's reserved toward them cause they're taking care of him."
+text "That's why he comes over to my place, where we conveniently have an empty room.
+text Since he looks pretty decent, my sister took a liking to him, and he shamelessly comes to stay with us without paying a cent!"
+text Arihiko's fist trembles, as if to say 'unforgivable!'
+bgload BG_06A.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T03.png 104 0
+text ".... Taking care of Tohno-kun?"
+bgload BG_06A.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T04.png 104 0
+text "Ah----"
+text Arihiko clamps a hand over his mouth.
+bgload BG_06A.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T03.png 104 0
+text ".... Sorry.
+text I should have thought before I spoke."
+text "It's okay.
+text You didn't say anything wrong."
+text I continue to eat my bread without looking at Arihiko.
+bgload BG_06A.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T02.png 104 0
+text "Really?
+text Yeah, you're right.
+text If you complain about that, you'll be in for some punishment."
+text Arihiko nods to himself in agreement.
+text His overwhelming optimism is something I am truly envious of.
+bgload BG_06A.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T02.png 104 0
+text "Tohno-kun, Um.... did you not get along with your previous family?"
+bgload BG_06A.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T01.png 104 0
+text "No, that's not it.
+text This guy had no problem with the Arimas.
+text Oh, the Arimas were the family who took care of him.
+text They're really nice people, and from what I could see, they're a happy family.
+text Even so, he refused to be their adopted child, and he escaped to my place every vacation.
+text Sheesh.... just what were you not satisfied with, anyway?"
+text "There's nothing I wasn't satisfied with.
+text It's just that I've received so much from them already, I didn't want to be a further burden on them."
+bgload BG_06A.jpg
+text ~
+text I turn away.
+text And.... all of a sudden, I realize Yumizuka is close by.
+bgload BG_06A.jpg
+setimg STK_T13.png 53 0
+text "........"
+bgload BG_06A.jpg
+text Her eyes look like she wants to say something, but it seems like she can't bring herself to intrude.
+text "What's wrong, Yumizuka-san?"
+text I leave Arihiko and Senpai and call out to Yumizuka.
+bgload BG_06A.jpg
+setimg STK_T01.png 53 0
+text "Ah.... uh, I have something to talk to you about.
+text Is now a good time?"
+text "Sure.
+text Can we talk here?"
+text ".... Um...."
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text Yumizuka's eyes flicker towards Arihiko.
+text .... It seems Yumizuka isn't good at dealing with Arihiko.
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg STK_T01.png 53 0
+text "Is it alright if we discuss this in the hallway?"
+text "I don't mind.
+text I'm leaving for a while, Arihiko."
+text aacing to Arihiko and Senpai, I exit with Yumizuka into the hallway.
+bgload BG_11A.jpg
+text "So, what did you want to ask me?"
+bgload BG_11A.jpg
+setimg STK_T01.png 53 0
+text "Um, I'm sorry if I'm wrong about this, but have you been walking around at night in the business district lately?"
+text "Huh---?"
+text Business district....?
+text I rarely go there even in the daytime, let alone at night.
+text Her question is so entirely off that I become interested instead.
+text "Hmmm.... At night, you say?
+text Around what time?"
+text "From what I've heard, past midnight."
+text Midnight.... then that rules it out completely.
+text I occasionally go out to the business district at night to buy something, but I've never been out into the city that late before.
+text "That's definitely not me.
+text My household is old-fashioned, so they've got a curfew at seven.
+text You can't get in after that even if you cry.
+text Since I don't want to have to camp outside, I try to my death to get home before seven."
+text I'm upfront in denying Yumizuka's question.
+text She smiles happily.
+bgload BG_11A.jpg
+setimg STK_T03.png 53 0
+text "Yeah, I know.
+text The Arima family is also the head of a style of tea ceremony.
+text That's right, it must be really strict for you, Tohno-kun."
+text "Not so much strict as they like to tease me.... eh?
+text Yumizuka-san, you seem to know quite a bit?
+text Are you a student of it?"
+text "No.
+text I don't really know that much about tea ceremony.
+text I have a friend who goes there and she told me it was really strict."
+text "Oh, but Yumizuka-san, how did you know I lived with the Arimas?
+text I haven't even told anyone here at our high school."
+bgload BG_11A.jpg
+setimg STK_T01.png 53 0
+text "You've forgotten that we went to the same middle school together, haven't you?"
+text Yumizuka giggles as she speaks.
+text "Eh----?"
+text .... We went to the same middle school....?
+text I can't remember, so I can't say anything, but if that's true,
+text then it wouldn't be odd if she knew I was entrusted to the Arimas.
+text "Yumizuka-san, maybe, um...."
+bgload BG_11A.jpg
+text "It's okay as long as it's not you, Tohno-kun.
+text Sorry for interrupting your lunch."
+text Interrupting my words, Yumizuka Satsuki goes back into the classroom after saying this.
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Yo.
+text Is your conversation over?"
+text "Yeah.... it seems like she just got the wrong person.... Hey, Arihiko."
+text "Yeah.
+text Yumizuka went to our middle school.
+text To say more, she was our classmate during our second and third year, and now in the second year of high school, making for three years in total."
+text "----Huh?"
+text As if he knew my question, he answers.
+text "H-how did you know what I was going to ask?"
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "Because of that look on your face.
+text But damn.
+text I thought you were just ignoring her, but you actually didn't even notice her.
+text She's really persistent.... or maybe she's just eccentric.
+text She's had to suffer a lot."
+text Arihiko makes a difficult face and shrugs.
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T05.png 52 0
+text "Ah, I knew it.
+text She is Tohno-kun's girlfriend, right?"
+text "W-what are you saying, Senpai!?
+text There's no way that could be!
+text I've never even had a proper conversation with her!"
+bgload BG_06A.jpg
+setimg CEL_T02.png 52 0
+text "No, no, there's no use hiding it.
+text You two look like you get along very well.
+text I'm a little jealous."
+text What's making her so happy?
+text Senpai looks at me with an excited expression.
+text "S-senpai!
+text Arihiko, you say something to this confused person here, too!"
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T02.png -12 0
+bgload BG_06A.jpg
+setimg CEL_T02.png -12 0
+setimg ARI_T01.png 104 0
+text "About what?
+text I don't know what you and Yumizuka are up to.
+text All I know is that you two were having a merry conversation this morning."
+bgload BG_06A.jpg
+setimg CEL_T11.png -12 0
+setimg ARI_T01.png 104 0
+text "Kyaah!
+text A secret meeting at school in the morning!
+text How bold of you, Tohno-kun!"
+text Senpai is getting more and more worked up in an incomprehensible way....
+text "........"
+text .... Well, whatever.
+text After all, it doesn't matter to me if Senpai misunderstands.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "But you mustn't be so blunt to her, Tohno-kun.
+text Yumizuka-san looks kind of sad, doesn't she?
+text You've got to give her more of your attention."
+text "Senpai, lunch is going to end soon...."
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T01.png 104 0
+text "Yes.
+text See you later, Tohno-kun, Inui-kun!"
+bgload BG_06A.jpg
+setimg ARI_T01.png 104 0
+text Smiling, Senpai leaves our classroom.
+text *sigh*
+text I feel a little exhausted.
+bgload BG_06A.jpg
+setimg ARI_T04.png 104 0
+text "Tohno.
+text Don't go after Yumizuka."
+text Arihiko mumbles this with a stern face.
+text "Don't go after....?
+text Why?"
+text "Listen, about Yumizuka.... despite her appearance, she's really shy and single-minded.
+text She's not compatible at all with someone absent-minded like you.
+text That kind of girl is dangerous to get really involved with."
+text Arihiko goes back to his own seat.
+bgload BG_06A.jpg
+text ".... What is he talking about?
+text It's not like I'm thinking of doing something with Yumizuka-san."
+text I mutter to no one in particular, and sit down in my own seat.
+bgload IMA_10.jpg
+music ~
+setvar akiha_regard + 1
+setvar flgM + 1
+jump s31.scr

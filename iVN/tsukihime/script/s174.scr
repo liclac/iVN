@@ -1,0 +1,72 @@
+bgload BG_56.jpg
+music 01.mp3
+text .... That's right.
+text I've been helping Arcueid look for this "enemy", but I don't even know what kind of guy he is yet.
+text ~
+text "Then I'll ask.
+text Arcueid, your 'enemy', what kind of vampire is he?
+text You've been chasing him this long, so you know what he looks like, right?"
+bgload BG_56.jpg
+setimg ARK_T10.png 36 0
+text "Well----I----"
+text Arcueid looks away.
+text "What is it?
+text Didn't you just say you wouldn't hide anything from me?"
+bgload BG_56.jpg
+setimg ARK_T14.png 36 0
+text "Yes, but please listen without getting angry.
+text I only knew just recently that the vampire in this city was here.
+text I came here as soon as I knew the 'enemy' was in this city in this country, but I have never met him.
+text So to be honest, I don't know anything about the 'enemy' this time."
+text "You don't know?----Didn't you recognize Nrvnqsr on sight?"
+text "Nrvnqsr was famous, and he never changed his appearance.
+text While the "enemy" I'm pursuing isn't as strong of a vampire, his traits fall within a broad range and I have no idea of his specialties or features this time.
+text I'm really sorry Shiki---but I really can only tell you this much."
+text ~
+text .... I know she's not lying.
+text I know, but still, I feel like she's hiding something.
+text Like----
+text "That's okay.
+text You can't help it if you don't know.
+text But----at least you know the name of this 'enemy', right?"
+bgload BG_56.jpg
+text "N----name?"
+text "Yeah, his name."
+text She gets downcast, descending into silence.
+text She cannot tell me his name for some reason, and she is troubled.
+text ~
+text Well, that's what I thought, anyway.
+bgload BG_56.jpg
+setimg ARK_T05C.png 36 0
+text "----His name."
+text Coldness.
+text Rapidly, I feel a chill so great it seems like it could freeze the entire room.
+text ~
+text "Shiki, his name is...."
+text Arcueid isn't having any trouble saying it.
+text ~
+text ".... His name is Michael.
+text Michael Roa Valdamjong.
+text Called Uroboros, a Dead Apostle who used to be human."
+text She speaks while still looking down.
+text Pure enmity, as if she was spitting forth blood.
+bgload BG_56.jpg
+text "Arcueid, you----"
+text "------"
+text Her shoulders are shaking.
+text It looks like she's trying to hold herself back from going on a rampage.
+text ".... Sorry.
+text I shouldn't have asked.
+text It's okay, just forget about it."
+text Arcueid shakes her head slightly.
+text As if trying to say she could never forget.
+text ~
+text A period of silence ensues between us.
+text "------I'm sorry."
+text Arcueid says this, still looking down.
+text "----Mm."
+text I give a noncommittal response.
+text Both of us rise automatically from our seats and leave the restaurant.
+bgload IMA_10.jpg
+music ~
+jump s176.scr

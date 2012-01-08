@@ -1,0 +1,14 @@
+bgload BG_06A.jpg
+text It's lunchtime.
+text Now then, where should I eat lunch?
+text ~
+choice Go out into the hallway to think about it.|Go eat in the cafeteria.|Eat lunch in class.
+if selected == 1
+    jump s28.scr
+fi
+if selected == 2
+    jump s29.scr
+fi
+if selected == 3
+    jump s30.scr
+fi

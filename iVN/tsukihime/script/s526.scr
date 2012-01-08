@@ -1,0 +1,64 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text Congratulations!
+text It's Ciel-san's Good Ending!
+text ~
+text .... Eh?
+text ........ Huh?
+text ........ Huh?
+text Huh???
+text Wait just a minute!
+text What is this?
+text What is this ending!?
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text "........................ Sneak, sneak."
+text ~
+text Hey you!
+text Stop, you thief cat----!
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+sound SE_10.aac 1
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+text ~
+text "Owieeee!
+text Don't be so violent!
+text Ciel-sensei, you shouldn't resort to corporal punishment!"
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+sound SE_10.aac 1
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ----Dismissed.
+text .... Oh, geez, okay!
+text Each heroine has two different kinds of endings.
+text This is Ciel-san's Good End.
+text Please return to a previous choice and choose a different story!
+text That will be the True End!
+text Oh, and one more thing.
+text Ciel-san's and Arcueid's routes are the Near Side of the Moon routes.
+text But there is also a completely different story: the Far Side of the Moon route.
+text It is the "Tohno Family" route, associating with people like Akiha-san.
+text It seems difficult to know what requirement is needed to be able to choose that route, so I will give you a little hint.
+text On the first day, you should not go meet Ciel-san.
+text ~
+text It might be better to stay in your classroom during lunch.
+text ~
+text And most importantly.
+text I think that if you don't meet the vampire called Nrvnqsr, this current storyline will never happen.
+text So first, how to cause the new storyline.
+text During that specific time, if you do not try to perform that one action, a completely different event should be waiting for you.
+text ~
+text Well then, let's meet again once more in the main story!
+bgload IMA_10.jpg
+music ~
+jump main.scr

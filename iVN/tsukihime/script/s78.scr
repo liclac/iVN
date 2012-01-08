@@ -1,0 +1,168 @@
+bgload BG_31A.jpg
+text ".... Kuhh!"
+text It's impossible.
+text I was almost killed by just one black dog.
+text If I become her lookout, who knows what'll happen next.
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+text "Hey, hurry up and answer.
+text I don't think I'm being unreasonable here."
+text "...."
+text She doesn't understand.
+text It's evident she can't see that she's recklessness incarnate.
+text .... If I get involved further with her, she'll drag me past the point of no return.
+text I've got to find a chance to escape.
+music ~
+text ".... Alright.
+text I'll listen to what you've got to say."
+text Putting my hand on the wall, I somehow manage to stand up on my own.
+text .... I've got to pass through that small road if I'm to get to the main street from here.
+text Fortunately, it's further away for her than it is for me.
+text If I set off while pretending to talk, I can probably make it to the main street.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Oh yeah.
+text We still don't even know each other's names yet.
+text I guess it is a bit too fast to ask you to cooperate with me."
+text She nods in agreement.
+text "Isn't it?
+text If you tell me more details, I might agree to help."
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+text "Really?
+text Then what should I talk about first?
+text ---How about the vampire incident that's got this town in an uproar?
+text Or maybe I should explain what we'll be doing from now on?"
+bgload BG_31A.jpg
+text She makes a serious face while she thinks.
+text ~
+text ----This is my only chance.
+bgload IMA_10.jpg
+text ---I run as fast as I can.
+text I run to the road that leads to the main road in one breath.
+text ~
+text "---Huh?"
+text ~
+text I can hear her voice from behind me.
+text But it's too late.
+text Now I'll definitely be able to escape---!
+bgload BG_31A.jpg
+sound SE_05.aac 1
+text "---Huh?"
+text That's strange.
+text As I take a few steps forward, I fall down hard on the ground.
+music 03.mp3
+bgload BG_31A.jpg
+setimg ARK_T11.png 36 0
+text "Hey.
+text What are you doing?"
+text She comes over, giving me a look more filled with amazement than concern.
+text ".... Nothing.
+text I just wanted to run for a bit."
+text .... It seems she hasn't realized I was trying to escape.
+text I get up.
+text But.
+sound SE_05.aac 1
+text "....!"
+text Ow..!
+text I feel an incredible pain in the joints of my foot, I can't get up---!
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+text "Ah, I guess I was a bit too hard on you back there, sorry.
+text If I had softened the blow a bit when I pushed you, you might not have sprained your foot like that."
+text "Might not---!?
+text Listen, you----"
+text I wanted to complain about her pushing me, but if she hadn't, the black dog would be chewing on my neck by now and that would have been the end of me.
+text ".... It's okay.
+text I'm grateful."
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Thank you.
+text But, why did you want to start running?
+text Weren't we having a conversation?"
+text "No, um, that's---"
+text I can't exactly say it was a matter of convenience.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "........ Hmmmn?"
+text She stares at me.
+text .... This is bad.
+text You'd have to be a real idiot not to understand what I was doing.
+bgload BG_31A.jpg
+setimg ARK_T04.png 36 0
+text "Hey, that was an indication you wanted to cooperate with me back then, right?"
+text "......"
+text I can't answer.
+text I said I would listen to her, but not cooperate.
+text ~
+text ---I don't want to lie.
+text ~
+text Answering her question requires a definite "no".
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "Just so you know, I know what sort of person you are.
+text Don't give me a half-hearted response.
+text If you run away now, I'll just be going to your house next."
+text "Wh---!?"
+text That means that she's going to come to the mansion even if I escaped from here!
+text "...."
+text She's got me.
+text If that were to happen, it wouldn't just be my problem.
+text Akiha, Hisui, and Kohaku-san might be attacked by this crazy person too.
+text ~
+text "Cr..!"
+text What a mess.
+text It's like I never had a choice in the first place----
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+text "Well, I don't mind either way.
+text The vampire's familiar has already seen you, so you'll be surely attacked.
+text If you go around by yourself, you might act as a decoy, too."
+text "Wh.. hey, don't tell me that.."
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, that familiar recognized you as being on my side."
+text "--------"
+text Then that means I'll be attacked by things like that even if I don't help her.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "So, what's it gonna be?
+text Are you going to keep watch while I sleep, or are you going to drive off those familiars by yourself?"
+text .... If the results are going to be the same, I can't do anything but nod.
+text ~
+text "----You swindler."
+text Sighing, I nod to indicate that I will help her.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Okay, our contract is established."
+text Where did all that anger from just a moment ago disappear to?
+text Speaking in a cheerful tone, she extends her hand to me.
+text "I guess I can finally introduce myself now.
+text I'm Arcueid---hmm.. my last name is really long, so just Arcueid is fine for now.
+text I'm a True Ancestor type vampire.
+text How about you?"
+text ~
+text I heave a heavy sigh at her unprecedented introduction.
+text .... It's a sigh of resignation, evidence I've decided to accept this nonsensical situation.
+text "I'm Tohno Shiki.
+text Sadly, I'm just your everyday student.
+text .... I've said it before, but I'm really not going to be much use."
+text Grasping her---Arcueid's hand, I stand up.
+text She takes a long hard look at me, and then offers me her hand again.
+bgload BG_31A.jpg
+setimg ARK_T09.png 36 0
+text ~
+text "Nice to meet you, Shiki.
+text I'll have you take responsibility for killing me."
+text Arcueid grins as she extends her left hand.
+text .... There are all sorts of responsibilities in this world, but this is probably the first and last time someone takes responsibility by helping someone they've killed.
+text ".... Damn it!
+text Do whatever you want."
+text But there's nothing else I can do.
+text I grudgingly extend my left hand and shake hands with the woman in white claiming to be a vampire.
+bgload IMA_10.jpg
+music ~
+if flg2 >= 1
+    jump s79.scr
+fi
+jump s80.scr

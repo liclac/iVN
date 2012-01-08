@@ -1,0 +1,56 @@
+bgload BG_32B.jpg
+text I head up the road and draw near the mansion.
+text After a little more walking I see Hisui standing by herself at the front gate.
+text ~
+text "....?
+text I wonder what Hisui is doing?"
+text Tilting my head to the side, I head for the front gate.
+text Hisui realizes I'm here and bows her head.
+bgload BG_32B.jpg
+setimg HIS_T01.png 62 0
+text "Welcome back, Shiki-sama."
+text "---Ah, yeah---thanks, Hisui."
+text I can barely reply since I'm bewildered by the respectfulness of it all.
+text "Um---were you waiting for me to come home?"
+text "Yes.
+text Greeting the master is a servant's duty."
+text Answering very matter-of-factly, she doesn't even bat an eyelash.
+text "Um, Hisui, I'm truly happy you waited to greet me, but there's really no need to wait outside.
+text I'll come back on my own, so you can just greet me whenever you realize I'm back."
+bgload BG_32B.jpg
+setimg HIS_T05.png 62 0
+text "-----"
+text Hisui's face clouds slightly.
+text .... Oh, maybe..
+text Maybe she was waiting for me to return like this on Saturday and Sunday.
+text "--Hisui, um--"
+bgload BG_32B.jpg
+setimg HIS_T01.png 62 0
+text "I understand.
+text Starting from tomorrow, I will await your return in the lobby."
+text Hisui gives a quick bow and opens the mansion gate.
+text Hisui turns around as she does so.
+text ........ *sigh*
+text For some reason, the atmosphere isn't exactly conducive to conversation.
+text Hisui closes the gate after I pass through, then she silently walks to the entrance to open the door and leads me into the lobby.
+bgload IMA_10.jpg
+bgload BG_40B.jpg
+text I get to my room.
+text Akiha isn't back yet from her lessons, Kohaku-san is preparing dinner, and Hisui is cleaning the mansion.
+text ~
+text "---Geez, there's nothing to do."
+text Well, there's quite a mountain of studying, reviewing, and memorizing a student like me has to do.
+text But, I just don't feel like doing anything.
+text Suddenly, Arcueid's face flashes in my mind.
+text Whether good or bad, it's probably just a reaction to the crazy two days I just had.
+text Perhaps spacing out here in my room will be good, giving my mind and heart a break.
+bgload IMA_10.jpg
+music ~
+bgload BG_40C.jpg
+text After eating dinner by myself in the large dining room, Kohaku-san treats my wounds and I go back to my room.
+text Akiha didn't make it back in time for dinner.
+text Her lesson was apparently going to last a while, so she was going to eat away from home.
+text It's past ten at night now.
+text It's a bit too early, but since I'm exhausted, I should sleep early tonight--
+setvar flgE + 1
+jump s116a.scr

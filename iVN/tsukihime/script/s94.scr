@@ -1,0 +1,691 @@
+bgload BG_15A.jpg
+text Arcueid's room isn't what you would expect for a vampire.
+text .... Back then, I was only worried about Arcueid so I didn't really notice it, but looking at it now, her room is completely ordinary.
+text ".... She even has a newspaper subscription.
+text What's that all about?"
+text I grumble as I put the sleeping Arcueid on her bed.
+text "Hwaa----ahhhhh."
+text I take a deep breath as I sit on the floor.
+text It's almost six o'clock in the morning.
+text The sky outside the window is brightening but heavily laden with clouds.
+text ".... Right.
+text I should close the curtains."
+text I spur my tired body to stand up.
+text I close the curtains and sit back down again.
+text Thud.
+text As I lower myself the strength drains from my knees and I collapse on the floor.
+text "----Man, it seems like I'm exhausted too."
+text It's pitiful but I can't even stand.
+text Come to think of it, I spent all last night talking with Arcueid and I didn't eat for more than a day.
+text In addition----even though I put my glasses on, I still have a headache.
+text My brain is ringing with this headache.
+text ".... Arcueid.... I wonder if her wound is alright...."
+text Her bleeding has stopped, and she is someone who regenerates after being sliced apart.. so maybe I don't have to worry.
+text ".... I wonder why."
+text Right now I'm so exhausted I could collapse.
+text Yet I'm more worried about Arcueid than myself----
+bgload IMA_11.jpg
+bgload BG_15C.jpg
+music 09.mp3
+text ~
+text "Investigators believe the cause of Takada Youichi's motorcycle accident was a malfunction in the brake pedal which occurred while he was descending a steep hill.
+text Fortunately, no one was killed in the accident."
+text ~
+text .... I wake up to a man's generic, uninflected voice.
+text "Nng----Did I fall asleep?"
+text When I come to, I find myself lying on the floor under a sheet.
+text It's about past noon.
+text Arcueid is no longer on the bed and uninteresting news fills the room from the television.
+text ".... Where did Arcueid go?"
+text And, I sense someone in the kitchen.
+text "That idiot, moving around with such a wound."
+text I get out from under the sheet and stand up.
+text I have to go to the kitchen and check up on her wound.
+text ~
+text "Next on the news.
+text A massive number of people went missing in the early morning hours at a hotel in southern Minamiyashirogi city."
+text "------"
+text I stop dead in my tracks.
+text My eyes become glued to the newscaster on the television set.
+text ~
+text "One hundred and three people staying at the hotel are still unaccounted for.
+text Furthermore, bloodstains can be seen within the hotel and the police are beginning to suspect that they were involved in some kind of a crime."
+text "What----are you saying?
+text Bloodstains?
+text It wasn't----something that small and cute."
+text ~
+text The newscaster reads off the script with a disinterested tone.
+text The screen switches to the scene of the hotel I stayed at earlier and then lists the names of the 103 missing people.
+text ~
+text ----Of course neither my nor Arcueid's name are on the list.
+text "Furthermore, a large amount of wild animal hair was found within the hotel.
+text It is presumed that the hair is connected with the suspect in some way.
+text Some of the confirmed hair samples appear to be from a large breed of dog, wolves, and there was also evidence of a bear.
+text There were numerous different hair samples found on the scene.
+text Ridiculously, what appeared to be shark bites were also reported from the scene----"
+text ~
+text Click.
+text I switch off the television set.
+text "----"
+text A hundred people.
+text About a hundred people back then.
+text In just half an hour, they were all brutally killed.
+text Blood stains----?
+text Unaccounted for----?
+text How can you say that when you have that much information.
+text I understand completely.
+text Everyone staying in the hotel was killed by those incomprehensible beasts and devoured without a trace.
+text "Ugh----"
+text I resist the urge to throw up.
+text I can't allow myself to vomit when I recall each and every event which occurred last night.
+text Such a petty sympathy would set me lower than a filthy pig.
+text For me, the only one who escaped death in that hotel, I won't allow anything else other than hatred for the one behind it all.
+text A hundred people.
+text A hundred people.. killed without even leaving their bodies behind, only blood.
+text The face of the man in the black coat surfaces in my memory.
+text I don't know who he is.
+text But it is no mistake to think he's behind everything that happened.
+text ~
+text ----Is my heart still numb?
+text Right now, hatred wins out over fear and disgust.
+text Or maybe----even the feelings whirling inside my chest are just another kind of fear.
+text "That's just----ridiculous."
+text I grit my teeth.
+text I don't know if it is regret or fear, or maybe an unpleasant revulsion.
+text But just recalling the face of the man in the black coat makes me want to break something, and irritates me----
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "You're awake Shiki?"
+text Arcueid pokes her head out of the kitchen.
+text "----Oh."
+text "What is it?
+text Making such a scary face, did something happen?"
+text Arcueid speaks lightly as if nothing happened at all.
+text ".........."
+text The feelings which were welling forth inside me until just now disappear.
+text "Arcueid----is.. your wound okay?"
+text "Yes, for now."
+text She laughs confidently.
+text She seems exactly like before, probably better than I am.
+text ".... Oh.
+text Then.. that's good----"
+text At least.
+text At least the person near me is safe.
+text ".... Hm?"
+text Hey, wait a minute.
+text Arcueid isn't human.
+text Forgetting such an important thing.. I'm really spaced out.
+text ".... Anyway, I'm happy your wound wasn't serious."
+text "Oh?
+text What's wrong, Shiki?
+text And just a little earlier you were calling me a monster."
+text "Idiot, I still think you are.
+text But, that's something else.
+text I just wanted to thank you for helping me."
+bgload BG_15C.jpg
+setimg ARK_T12.png 36 0
+text "Eh?
+text I helped you, Shiki?"
+text Arcueid's eyes widen in surprise.
+text It seems she wasn't even aware of it.
+text "Yeah, you helped me.
+text So it's a little late, but thanks for protecting me.
+text If you hadn't pulled me out of the way, I would've joined that list of 103 names."
+bgload BG_15C.jpg
+setimg ARK_T11.png 36 0
+text "Thanks----It wasn't really anything.
+text I'm the reason you met Nrvnqsr, so you don't have to feel like you owe me."
+text "Maybe, but the truth is that you saved me.
+text Since you did, I want to thank you."
+text "----But if I didn't make you watch over me, you never would have been involved in all that.
+text I'm the one messing up your everyday life.
+text So wouldn't it be more appropriate for you to hate me rather than be indebted to me?"
+text ".... Well, certainly I do think you're a big bother.
+text But you know, in the end I think I have to take responsibility for my actions.
+text .... A long, long time ago someone taught me this.
+text She said whatever happens around me, I have to stick with things I started to the very end.
+text While it seems quite natural, I am a supporter of that idea."
+text Which is why I don't hate Arcueid.
+text I just feel like I'm involved in something pretty bothersome.
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "----Oh.
+text Now that you mention it, I did say I needed a shield because you killed me.
+text So I guess I don't have to apologize for involving you in such things."
+text "Right.
+text The situation I'm in is my own fault."
+bgload BG_15C.jpg
+setimg ARK_T08.png 36 0
+text "Your fault, huh.
+text Hm, I think you have bad luck, Shiki.
+text If only you killed some other girl than me, things never would have ended up like this."
+bgload BG_15C.jpg
+text ".... Hey."
+text In the first place, you can't just assume I would kill someone other than you, Arcueid.
+text I've only felt like that, stalked and killed only once, only Arcueid.
+text ~
+text .... Or I want to think she would be the only one.
+text "----Ah."
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "Hm?
+text Did you remember something you forgot?"
+text "No, that's not it.
+text .... I never really thought about it before, but I just wondered why I wanted to kill you."
+bgload BG_15C.jpg
+setimg ARK_T06.png 36 0
+text Arcueid frowns as she looks at me.
+text .... Well, it's a natural reaction.
+text I, the one who killed Arcueid, is saying that he doesn't know why he killed her.
+music ~
+bgload BG_15C.jpg
+setimg ARK_T03.png 36 0
+text "There's no reason at all, right?
+text Because you're just a born killer Shiki."
+text "------Eh?"
+text ~
+text Hold on.
+text What, did, this, woman, just say about me----?
+text ~
+text "You seemed really used to it when you attacked me.
+text You rang the doorbell, put your hand through the door as it opened, and entered.
+bgload BG_15C.jpg
+setimg ARK_T04.png 36 0
+text "While I was still off guard with surprise, you killed me with your first strike, and just finished off by slicing me into pieces----Yeah, your surprise attack was perfect.
+text How perfect was it?
+text A painting of you from that time would have been an unparalleled masterpiece, that's how perfect it was."
+text "Th----"
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "But no matter how superb a killer, no matter how excellent your technique, the victim this time was a poor choice.
+text I don't know how many people you killed until now, but I think it was time for you to be caught when you chose me as your prey."
+text "Th, th-"
+bgload BG_15C.jpg
+setimg ARK_T04.png 36 0
+text "'Th-th-th'?
+text What's with that scary face all of a sudden.
+text If you want to say something it's better just to say it.
+text We've never held anything back between us, right?"
+text ~
+text ----That may be true.
+text I nod and motion her to come near me with my hand.
+bgload BG_15C.jpg
+setimg ARK_T08.png 36 0
+text "Hm?
+text A secret?"
+bgload BG_15C.jpg
+text Arcueid approaches excitedly.
+text I bring my mouth close to her ear and clearly state what I want to say.
+text ".... You know, Arcueid.."
+text "Yeah, what?"
+text ~
+text Okay, ready..
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "THAT'S NOT IT AT ALL, YOU IDIOT----!!"
+text Idiot, diot, iot, ot......
+text ~
+text My shout echoes through the room.
+text I strike her eardrums with full power, not holding back one bit.
+text "Ow.... owie......"
+text Arcueid exaggeratingly covers her ears.
+bgload BG_15C.jpg
+setimg ARK_T16.png 36 0
+text "I'm ticked off now!
+text What are you doing all of a sudden Shiki!?"
+text "I'm the one who should be angry!
+text I was wondering why you were asking me all those impossible things, but now I understand!"
+bgload BG_15C.jpg
+setimg ARK_T11.png 36 0
+text "Eh----?
+text Understand what....?"
+text "About you asking me to be a shield against a monster and watching over you because you think I'm some crazed killer!
+text .... Geez, you're unbelievably mistaken.
+text You thought so highly of me because of that.
+text Look, I'll tell you right now.
+text I'm not a killer or a homicidal maniac.
+text You----you were the first person I killed."
+bgload BG_15C.jpg
+setimg ARK_T12.png 36 0
+text Arcueid's mouth hangs open.
+text .... Damn it, she really does seem totally surprised.
+text "----No way.
+text It was your first time yet you were that skilled....!?"
+text ".... Yeah.
+text Certainly I do have the strange eyes but I still lived an honest life.
+text I never even thought once of using these "lines" to kill people."
+text "But--then why did you kill me?
+text You never even saw me before."
+text "I don't know why either.
+text I just became so fixated when I saw you on the street--when I came to, I had already, sliced you into pieces----"
+bgload BG_15C.jpg
+music 08.mp3
+text ~
+text In this room.
+text Without reason, without purpose.
+text "------I see."
+text ~
+text .... Yeah, I see.
+text I don't have any right to be angry at Arcueid.
+text Even if she's alive right now and isn't human.
+text The truth is, I killed her with my own hands.
+bgload BG_15C.jpg
+setimg ARK_T06.png 36 0
+text "Why are you all quiet again?
+text What do you mean Shiki?"
+text ".......... I, I'm sorry.... I have to.. apologize...."
+text ~
+text Why----did I conveniently forget such an important thing?
+bgload BG_15C.jpg
+text "--Sorry.
+text I'm sorry, Arcueid.
+text I, Tohno Shiki killed you.
+text More than anything else.. I should have apologized for that from the very beginning----"
+text .... There really is something wrong with me.
+text It's only natural she mistook me for a killer.
+text Because, I don't even understand that impulse myself.
+text So, maybe..
+text ~
+text Tohno Shiki
+text might be a real killer------.
+text "----The reality is, I killed you.
+text So----I have to accept my sin and punishment.
+text A killer like me, can't mix in with the rest of society."
+text ~
+text ----Not realizing such an important thing until now is just too cowardly.
+text No matter what Arcueid is--I am someone who kills for no reason.
+bgload BG_15C.jpg
+setimg ARK_T01B.png 36 0
+text "----I see.
+text Then you really don't understand why yourself, Shiki."
+text ~
+text .... I nod silently.
+text ~
+text "Then you didn't feel any enjoyment either?
+text .... Yes, certainly there are those killers for whom killing is like breathing, but you are really normal Shiki."
+text ".... That's right.
+text At least I try to be."
+text "No, you are incredibly normal.
+text Then I was the only one you wanted to kill?"
+text ".... Yeah.
+text Other than you, I never felt like that before."
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "I see, then there's no problem.
+text You're not a killer, Shiki."
+text She says this lightly, almost dismissingly.
+text "I don't think you have to receive any punishment.
+text By chance, I was the one you wanted to kill and worse, you were equipped with this unparalleled killing technique.
+text But luckily I am a vampire so no one died, right?
+text So you don't need to be troubled so much.
+text I don't think you have to worry about those morals of human society."
+text ".... I know.
+text But still, I killed someone.
+text A dangerous person like me can't be allowed loose."
+bgload BG_15C.jpg
+setimg ARK_T02.png 36 0
+text "That doesn't matter.
+text Right now, the only ones who can condemn you are me, the victim, and you, yourself."
+text "----That may be so, but it doesn't change the fact I killed you."
+text ~
+text Right.
+text Even if there is no punishment, the sin will never disappear.
+bgload BG_15C.jpg
+setimg ARK_T04.png 36 0
+text "Of course.
+text Even now I still resent it, so it would be troubling if you just forgot.
+text But you know, Shiki.
+text If you feel that way and will always regret it, then I don't think there will be a problem."
+text ~
+text ----But, that's just sugar-coating it.
+text ~
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "Shiki.
+text There really are people who will not sell their souls to the devil even if they hated the world.
+text Like.. someone so honest they could apologize to a vampire.
+bgload BG_15C.jpg
+setimg ARK_T08.png 36 0
+text So I think it's alright.
+text No matter what people say and no matter how much you say you're not----you can still stay in the world you want to live in."
+text "Wha----"
+text .... I'm speechless.
+text How can you----how can you smile and say that to the person who killed you?
+music ~
+text "Ar.... cueid----"
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "Come on, we have a much more troublesome problem to worry about.
+text Now that you are up Shiki, I want to talk about now on--"
+text As she speaks, Arcueid collapses on the floor.
+bgload BG_15C.jpg
+text "Arcueid----!?"
+text I rush over to her.
+text Sweat glistens on her forehead and she is breathing painfully.
+text ".... Aw man, it seems I still can't do much."
+text I look down.
+text Her white top is soaked red near her stomach.
+text "You, that wound----"
+text "Ah, this?
+text The effects of your attack are still lingering and I can't even heal my wounds.
+text I closed off the wound at least but it seems it didn't work too well."
+text Her tone is very cheerful.
+text But I notice it has a hint of pain.
+text "Close off the wound?
+text With what, Arcueid....!?"
+text "Ummmm, that."
+text Arcueid points to something on the floor.
+text It's brown.
+text At first glance, it looks like a doughnut or a baumkuchen, but it just turns out to be a roll of packing tape.
+text "----Y, you idiot!
+text Who the hell uses packing tape to close off a wound....!"
+text ".... Hey, you shouldn't call people idiots all the time.
+text I really might start thinking I am one after a while."
+text "Shut up and let me see your wound..!"
+text I reach out for her cloth.
+text But she runs away by rolling across the floor.
+text "Don't be ridiculous, what're you going to do if it opens up again!?"
+text "It's fine, just leave it alone.
+text You should stop acting stupid too.
+text Trying to rip off a girl's clothes like this, you're worse than Nrvnqsr."
+text "----Look.
+text I don't see you as a human, so guy or girl it doesn't matter.
+text Calm down okay?
+text If you die from an injury you got protecting me, I'll be feeling guilty about it forever....!"
+text Arcueid looks at me in displeasure, and this time, rolls towards me.
+bgload BG_15C.jpg
+setimg ARK_T06.png 36 0
+text "............"
+text Arcueid closes her mouth tightly.
+text .... It seems she's a bit sulky, but I guess it's okay to look at the wound.
+bgload BG_15C.jpg
+setimg ARK_T21.png 36 0
+text I lift up her shirt and expose her stomach.
+text Packing tape is wrapped all around her.
+text It really is badly done and taking a good look, I can see blood seeping through.
+text "----"
+text I'm disgusted.
+text More than that, I'm pissed off.
+text I lower her shirt back and pick Arcueid up.
+bgload BG_15C.jpg
+text "Hey--what are you doing, Shiki!?"
+text "I'm putting you to bed.
+text I'd take you to the hospital but it's not like I can do that."
+text As carefully as possible, I place her on the bed.
+text "Look.
+text Until I come back, don't move around.
+text If you walk around like before, I'll just forget all about you, so be prepared for the consequences."
+text ~
+text I look around the room.
+text As I thought, there's nothing like a first aid kit around at all.
+text "Arcueid, you said you were rich."
+bgload BG_15C.jpg
+setimg ARK_T21.png 36 0
+text "Eh--?
+text Y, yeah.. Money's not a concern for me, but what about it?"
+text "Hand it over.
+text I'm going to buy some things I'll need to treat you.
+text .... I don't know if it will work on you, but I have to treat you the same way I would treat an injured person."
+text "Fine, but it might be useless."
+text "----Even if it's useless I'll do it.
+text I can't leave it alone like that."
+text ".... I see.
+text My body is made the same way as yours, so it might have some meaning."
+text "Hurry up and give me the money.
+text Just be quiet and stay there.
+text Oh, but don't sleep.
+text You can lie around, but stay up."
+bgload BG_15C.jpg
+setimg ARK_T14.png 36 0
+text "Wha.... Shiki, that's a really absurd order."
+text "It's absurd but do it.
+text I've heard your bodily functions weaken when you sleep.
+text I think if you sleep with open wounds, your immune system will get weak and your wound will get even worse.
+text Sleeping will only help your tiredness, not heal your wound.
+text So for now, at least don't sleep until I get back."
+bgload BG_15C.jpg
+setimg ARK_T08.png 36 0
+text "----Really?
+text Okay, I'll do that Shiki."
+text ~
+text Arcueid smiles happily.
+text .... As expected, Arcueid's thought process is completely a mystery.
+text ".... Um, why are you smiling?"
+text "Because you're reliable, Shiki."
+text "------"
+text I say nothing and hold out my hand.
+text Arcueid pulls her wallet out of her skirt and hands it to me.
+text "----I'll be right back."
+text I turn away from Arcueid and head out of the room.
+bgload BG_14A.jpg
+text As I go outside I notice something in the kitchen.
+text "----Food."
+text On the table is something less than a meal and more like food.. something less like food and more like ingredients, you might say it's something "which appears edible".
+text ~
+text .... I guess this is why she was in the kitchen.
+text "............ Idiot."
+text Arcueid said she doesn't eat regular food.
+text So I don't even have to think who this food was for.
+text ~
+text "Damn it----what's with her?"
+text I'm getting very irritated.
+text I'm getting so irritated, so I decide to hurry up and get something to treat her as fast as possible.
+bgload IMA_10.jpg
+text Although I say first-aid, the only things which come to mind are things like restraining bandages or painkillers.
+text But it's still better than nothing.
+text Even if it's a small thing, if it's something, then it's not zero.
+text Believing that, I buy whatever I can think of.
+bgload BG_15C.jpg
+music 03.mp3
+text "Hey, that tickles."
+text "............"
+text I ignore Arcueid's voice and fasten the gauze as carefully as I can.
+text ~
+text The wound on her stomach wasn't really large.
+text Arcueid said herself most of it is healed on the outside.
+text But there are still four golf ball-sized black holes from the fangs of the crocodile.
+text It might actually be bad for a wound this big, but considering the possible infection, I apply some disinfectant.
+text I put gauze over the wound after that and carefully wrap it around in bandages.
+text "Ahahaha, quit it.
+text You're too good."
+text Arcueid is laughing cheerfully.
+text "........"
+text I ignore her and pin off her bandages.
+text In order to stop the blood flow, I press a little to tighten the bandages around the wound.
+text "----Ow.
+text Sheesh, I'm taking points off for that one Shiki."
+text "........"
+text Whew.
+text For now, I've done all I can.
+text "----Well then.
+text I at least made it look good, but how is it?
+text Can you move alright Arcueid?"
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah, it doesn't seem like it will get in the way.
+text My insides are still pretty messed up, so I can't move fully anyway."
+text "I see.
+text Well, the rest is up to you.
+text My specialty is slicing apart, not healing."
+text I step away from Arcueid and sit against the wall.
+text "You can sleep now.
+text Sleep will bring your strength back and you'll heal soon right?
+text I'll keep watch so just relax and sleep."
+text "No, sleeping won't really help me regain my strength.
+text You said yourself sleeping only gets rid of tiredness.
+text For me, regaining strength is only a matter of time.
+text By tomorrow I'm sure I will be able to move normally."
+text "----Just go to sleep already.
+text You look like you're having trouble even talking."
+text "Yes, but since you're up Shiki, it seems like a waste if I sleep now."
+bgload BG_15C.jpg
+text Arcueid sits up in bed and talks cheerfully.
+text ~
+text "----Geez."
+text Oh well.
+text There are some things I want to ask as well, so I guess it's alright to keep Arcueid company.
+music ~
+text "Arcueid.
+text Can I ask about the hotel from yesterday?"
+bgload BG_15C.jpg
+setimg ARK_T03.png 36 0
+text ".... That's right.
+text I guess that's going to be our topic, considering us."
+text "Yeah.
+text I just have one question.
+text The guy last night----the one you called Nrvnqsr.. just what the hell is he?
+text I'm being serious here, so please don't say something like he's a magician who can make crocodiles appear from his body."
+bgload BG_15C.jpg
+setimg ARK_T02.png 36 0
+music 04.mp3
+text "I won't say that.
+text I think you know this already but he is also a vampire.
+text We call him Nrvnqsr and he is quite an exception.
+text .... To tell the truth, he isn't someone you could talk to so casually like this."
+text "............"
+text So he was a vampire after all.
+text But, for some reason----like Arcueid sitting in front of me, he doesn't match my image of a vampire either.
+text "So, this Nrvnqsr.. what kind of guy is he?
+text You seem to know him or something."
+bgload BG_15C.jpg
+setimg ARK_T04.png 36 0
+text "Of course not.
+text I don't have any vampire acquaintances.
+text Knowing them means I'm going to kill them the next instant.
+text This is the first time I ever met a vampire without killing it."
+text "But you guys were talking about a lot of things."
+text "It would be hasty to call him an acquaintance because of that.
+text Nrvnqsr is a famous vampire so no introductions were necessary when we met, that's all.
+text Isn't it natural to know the name of vampires with unusual power and a long history?
+text Among those, Nrvnqsr stands out even more.
+text Despite being one of the oldest vampires, he has neither a castle nor territory and is an eccentric wanderer.
+text The Church has given him a second name, Chaos."
+text ".... Chaos?
+text What's that?"
+text "Literally squirming, squelching chaos.
+text Like various things mixed together in a primordial earth with no one knowing what will fly out.... a meaning I'm guessing from last night."
+text "Not knowing what will fly out....?"
+bgload BG_15C.jpg
+setimg ARK_T02.png 36 0
+text "Geez.
+text You saw his body too, Shiki.
+text We spoke of it earlier but aged vampires cannot easily regenerate damage to their bodies.
+text To restore the body after centuries of existence, the weak life of a human isn't enough.
+text So using the simply more superior life forms, wild animals and magic beasts, as raw material, they compose their body.
+text .... As one of the oldest vampires, Nrvnqsr probably is in a league of his own regarding the sheer amount of beasts he has caught and used for his body."
+text "A league of his own----Things like those black dogs are a part of his body then?"
+bgload BG_15C.jpg
+setimg ARK_T01B.png 36 0
+text "Exactly.
+text But there is a limit to a human's capacity.
+text Probably only about thirty beasts can be controlled at once.
+text Having more than one illusionary beast such as a magical or phantom beast would overload one's capacity.
+text Putting that into consideration, all of Nrvnqsr's familiars are probably real animals.
+text .... Yeah, that may be fortunate."
+text ~
+text .... I don't quite get the last part but that means there's thirty of those black dogs.
+text ".... No, that can't be right.
+text Black dogs weren't the only things rampaging in the hotel.
+text I think there were things like lions and leopards too."
+bgload BG_15C.jpg
+setimg ARK_T02.png 36 0
+text "Right.
+text .... To be able to bring together thirty animals of the same type is one thing, but for Nrvnqsr to have different beasts in his body truly places the strength of his willpower apart from others.
+bgload BG_15C.jpg
+setimg ARK_T03.png 36 0
+text .... Well, it does seem odd that if he has that sort of power he would only use wild animals.
+text I would have thought he would employ more magical beasts with his sort of willpower----"
+text Hmmm.
+text Arcueid descends deep into thought.
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "Whatever.
+text Anyway, we at least know his weapons are twenty or thirty familiars.
+text .... So now we can understand why he's called Chaos."
+text "Eh....?
+text His name really isn't Chaos?"
+text "Yeah, most long-lived Dead Apostles don't use their names from their human lives.
+text But they don't make up a new name themselves, the Church assigns them one.
+text They add on names as they find new, special characteristics of the vampire so some of them have names as long as spells."
+text ".... And, I guess the Church must really have hated him to name him Chaos.
+text It would have been enough for one lion to hunt the entire hotel, right?
+text But he let loose all of his beasts to feed, meaning he seems to enjoy such excesses."
+bgload BG_15C.jpg
+text "............"
+text .... Thirty beasts inside the vampire Nrvnqsr.
+text Just with that, he killed and ate without trace a hundred people at the hotel in thirty minutes.
+text "----I can't believe it.
+text He's a complete monster."
+bgload BG_15C.jpg
+setimg ARK_T05B.png 36 0
+text "Yes.
+text He really is the worst opponent I could have at the moment.
+text He's one of those you never want to meet.
+text But what's worse is that such a guy knows where we are.
+text Even now I'm sure his familiars are watching us."
+text "Wha----"
+text "Isn't it obvious?
+text We were saved earlier because the sun rose, but we can't count on that tonight.
+text He knows of this place so he will certainly come to kill us at the height of his power at midnight."
+text "Come to kill us, tonight....?"
+bgload BG_15C.jpg
+setimg ARK_T02.png 36 0
+text "Yes, he said so himself."
+bgload BG_15C.jpg
+text ~
+text ----What is this?
+text He----that man in the black coat is coming tonight?
+text "------"
+text I.. don't know what I should say.
+text I should escape.
+text I know that's the wisest decision.
+text But Arcueid is in this condition.
+text Even if she ran away, I don't think she can get away from that monster.
+text No, less about her and more about me.
+text If I stay here----if I stay involved with Arcueid, there's no mistaking the fact I'll face him.
+text ~
+text He is.. dangerous.
+text Clearly put, he isn't sane.
+text More than his body which houses those animals, his eyes are like a machine's.
+text ~
+text Devoid of even a single emotion.
+text The true eyes of a killer which does whatever it is assigned to do.
+text As one who has experienced his attack, I am sure that without a doubt, he is to be avoided.
+text "------"
+text But, does that mean I should just leave Arcueid here and run away?
+text No matter who she is, she can't move because she protected me.
+text And I can tell her good luck and go home------?
+text ~
+text "Arcueid, I----"
+music ~
+bgload BG_15C.jpg
+setimg ARK_T01A.png 36 0
+text "But it's alright.
+text Even Nrvnqsr isn't a problem for you.
+text No matter who it is, you can kill anyone with a single blow."
+text "------Huh?"
+text ~
+text Arcueid says.. something outrageous,
+text as if it was completely ordinary.
+text "Hey---what in the world are you saying?"
+bgload BG_15C.jpg
+setimg ARK_T01B.png 36 0
+text "What am I saying?
+text You're going to fight with me, right?"
+text Arcueid looks directly at me.
+text Her eyes place all trust in me.
+text But this isn't a joke.
+text I------
+text ~
+choice I'd like to refuse, but---|No, there's no way I could take on a monster like that.
+if selected == 1
+    jump s95.scr
+fi
+if selected == 2
+    jump s96.scr
+fi

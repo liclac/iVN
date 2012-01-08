@@ -1,0 +1,428 @@
+bgload BG_34A.jpg
+text In the sitting room, Akiha is on the sofa, Kohaku-san is keeping her company, and Hisui is standing by the wall.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Good morning, Shiki-san."
+text "Morning, Kohaku-san.
+text Sorry to be a bother, but could you fix me something to eat?
+text I'm a little hungry from all that sleeping."
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Yes, right away.
+text I will get it ready, so please wait a little bit."
+bgload BG_34A.jpg
+text Kohaku-san quickly patters away towards the dining room.
+text That leaves Akiha and Hisui, who is standing wordlessly like a statue.
+text ".... Yo, Akiha.
+text G'morning."
+bgload BG_34A.jpg
+setimg AKI_T02B.png 40 0
+text "................"
+text Akiha just looks at me with a dissatisfied look on her face and doesn't return my greeting.
+text ".......... Uh."
+text Like Hisui warned me, she seems angry about last night.
+text Telling me in the morning that leaving late at night is forbidden only to find me leaving late at night.
+text It's only natural for her to be angry.
+text "Akiha.
+text Last night, was---"
+bgload BG_34A.jpg
+setimg AKI_T03B.png 40 0
+text "Nii-san.
+text Sleeping in this late.. just what were you thinking?"
+text "Eh---um, well, I.. Sorry."
+bgload BG_34A.jpg
+setimg AKI_T21B.png 40 0
+text ".... Geez, I'm not mad about that.
+text It's your day off, and you've chosen to sleep in until now.
+text It's your laziness that angers me!"
+bgload BG_34A.jpg
+text With a "hmph", Akiha angrily turns her face away.
+text .... Well, it may just be my imagination, but "peevishly" is a better word than "angrily".
+text "Well, I couldn't help it.
+text I got in late last night, and my body was just tired."
+bgload BG_34A.jpg
+setimg AKI_T06B.png 40 0
+text "That is entirely your fault.
+text Staying out until way past midnight.. Just what kind of lifestyle did you have when you lived with the Arimas, Nii-san!?"
+text "Uh.... I had a strict curfew there, too.
+text I wasn't allowed to leave at night, and...."
+bgload BG_34A.jpg
+setimg AKI_T18B.png 40 0
+text "Oh, so that's it.
+text At the Arimas' house, you followed the rules, but you come here and break them?
+text .... In other words, you won't even follow my simplest request?
+text In that case, I may have to resort to corporal punishment."
+text The fury of her intent also flows through her eyes.
+text .... How do I say this?
+text She has to be joking, only she doesn't sound like she's kidding, and it's pretty frightening.
+text ".... Corporal punishment, Akiha?
+text You're starting to frighten me."
+bgload BG_34A.jpg
+setimg AKI_T21B.png 40 0
+text "That was just an example.
+text Staying up real late like that and just sleeping until you feel like getting up?
+text Of course I should be very strict."
+text Akiha gives an audible groan.
+text .... I hate to admit it, but she is right.
+bgload BG_34A.jpg
+setimg AKI_T02B.png 40 0
+text "Besides, Nii-san.
+text Shouldn't you let Hisui wake you up in the morning?
+text It is a good thing today is Sunday, but you always, always laze around in bed too long, Nii-san."
+text ".... Um, Akiha.
+text Maybe it's not my place to say, but it's not like I'm sleeping in because I want to."
+bgload BG_34A.jpg
+setimg AKI_T03B.png 40 0
+text "What?
+text So how come you always sleep in until the last minute every morning?
+text You don't know how I feel when I wait for you until the last minute, and----"
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+text "Akiha-sama."
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T16B.png 104 0
+text "Ah----"
+text "......?"
+text Where did the dire, threatening atmosphere go?
+text All of a sudden, Akiha descends into silence.
+text "Hey, Akiha.
+text I said so before, but waking up past seven o'clock in the morning isn't intentional.
+text Even I would like to get up earlier, but my body doesn't listen to what I tell it.
+text If you want to help me wake up earlier, please buy me a really powerful alarm clock.
+text I'm sure that'd get me up."
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T12B.png 104 0
+text ".... Uh, Nii-san?
+text This may be a stupid question, but did you ever tell Hisui what time you wanted her to wake you up?"
+text "----Ah."
+text That's right, I forgot such a simple thing as that.
+text "Oh yeah.
+text Hisui comes every morning to wake me, so it's alright for her to do that.
+text So.. Hisui, could you please wake me up at six-thirty each morning?
+text It would really help me out...."
+text I swing around to face Hisui.
+text She stares right back at me.
+bgload BG_34A.jpg
+setimg HIS_T01B.png -2 0
+setimg AKI_T12B.png 104 0
+text "I refuse."
+text "Eh?"
+bgload BG_34A.jpg
+setimg HIS_T01B.png -2 0
+setimg AKI_T15B.png 104 0
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T15B.png 104 0
+text "Forgive me, but I refuse to wake you up, Shiki-sama."
+text "Well, um--"
+text I don't know what to say.
+text The shock put my brain on hold.
+text Looking at the situation, Akiha is also gaping at Hisui in surprise.
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T01B.png 104 0
+text "Hisui, why can't you wake up Nii-san?"
+bgload BG_34A.jpg
+setimg HIS_T17.png -2 0
+setimg AKI_T01B.png 104 0
+text "I am unable to undertake things I cannot do.
+text I do not think I am able to wake up Shiki-sama with my own power."
+text "----Unable?
+text Why not?"
+text I unthinkingly enter their conversation.
+text Hisui continues staring at me.
+bgload BG_34A.jpg
+setimg HIS_T08.png -2 0
+setimg AKI_T01B.png 104 0
+text "These past three days, all my efforts were fruitless.
+text Shiki-sama, do you remember how many times I called your name this morning?"
+text "No, I don't remember----I woke up from your voice?
+text I thought I woke up by myself...."
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T01B.png 104 0
+text "That means there is no memory of me even calling out.
+text ----Akiha-sama, that is the situation."
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T18B.png 104 0
+text "Oh, I see," Akiha says and looks over at me teasingly.
+text .... How do I say this.... it would seem my standing here has just been lowered quite a bit.
+text "In short, you have tried repeatedly to wake up Nii-san, but there isn't even the slightest reaction on his part---that's how it is, Hisui?"
+text Hisui nods silently.
+text "............"
+text I nod silently as well.
+text .... I see.
+text The truth is, Hisui has already been trying to wake me up early in the morning.
+text I don't want to say it myself, but I must be really good at sleeping in.
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T02B.png 104 0
+text "...... Nii-san.
+text Why are you looking so proud of yourself?"
+text "Nothing.
+text I was just surprised by how daunting it is to wake me."
+text ".... Hmm.
+text I understand.
+text Hisui, just like before, please try and wake up Nii-san as much as you can."
+text Hisui nods in assent.
+text ~
+text It seems like the conversation is finished.
+text In the end, it may be just me waking up whenever I feel like it again.
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T01B.png 104 0
+text "Hey, by the way, Hisui?"
+text "Yes, what is it?"
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T12B.png 104 0
+text "Um.
+text Does Nii-san really not wake up?
+text Even if you call his name, he doesn't respond?"
+bgload BG_34A.jpg
+setimg HIS_T02.png -2 0
+setimg AKI_T12B.png 104 0
+text "---Yes.
+text Shiki-sama's sleep is very quiet, and he sleeps like a statue."
+text "..........?"
+text .... Like a statue?
+text What?
+bgload BG_34A.jpg
+setimg HIS_T02.png -2 0
+setimg AKI_T08B.png 104 0
+text "Oh?
+text Nii-san has a great sleeping posture, huh?"
+bgload BG_34A.jpg
+setimg HIS_T21.png -2 0
+setimg AKI_T08B.png 104 0
+text "No, that is not it---how do I say it.. um, Shiki-sama is like a completely different person when he sleeps.
+text I have never seen such a peaceful sleeping face, so when I first saw him, I thought that he had passed away, I---"
+bgload BG_34A.jpg
+setimg HIS_T20.png -2 0
+setimg AKI_T08B.png 104 0
+text "So it is not quite that he is hard to awaken, but that it seems very rude to do so, so I can not help but be very gentle.
+text Once Shiki-sama is about to wake up by himself, warmth returns to his white face, and I know he will wake up soon, but---"
+text Looking down, Hisui talks about how I look when I sleep.
+text ".........."
+text .... I can't help but feel embarrassed.
+text Come to think of it, a sleeping person is completely defenseless, and after listening to that explanation, I flush as red as if she said she saw me naked.
+text Hisui descends into silence, and Akiha is obviously trying not to look in my direction.
+bgload BG_34A.jpg
+setimg HIS_T20.png -2 0
+setimg AKI_T16B.png 104 0
+text "........"
+text The air has become a little, heavy.
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Thanks for waiting!
+text Shiki-san, breakfast is reaaadyyyy!"
+text A bright voice saves the situation.
+text "Th, thanks.
+text Well, I'll eat up!"
+text "Yes, please take your time eating."
+text Turning my back to Kohaku-san's smile, I head to the dining room alone.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text After I eat lunch, Akiha and Hisui are still in the sitting room.
+text It wouldn't be good to ignore them and go back to my room, so I sit on the sofa across from Akiha.
+bgload BG_34A.jpg
+setimg KOHA_T02B.png -12 0
+text "Here, Shiki-san.
+text You prefer green tea, right?"
+text Kohaku-san places an after meal cup of tea on the table beside me.
+text "Yeah, thanks.
+text If you don't mind, then."
+text "No, not at all.
+text This is your home, so please relax a little more."
+text Kohaku-san must be trying to make me feel more comfortable here because she takes good care of me.
+text ".... Geez.
+text I'm thinking I'm already used to this place.
+text Do I still look a little strained?"
+text "Yes, just a little bit.
+text Your shoulders seem a little tense.
+text I wouldn't say you should be like back then, but you certainly can relax a bit more."
+bgload BG_34A.jpg
+setimg KOHA_T02B.png -12 0
+setimg AKI_T03B.png 104 0
+text "Kohaku, you shouldn't spoil Nii-san.
+text He's been living like a sloth at the Arimas' house so long, it's probably good for him to be a little tense just at first."
+bgload BG_34A.jpg
+setimg KOHA_T05B.png -12 0
+setimg AKI_T03B.png 104 0
+text "Heehee.
+text Akiha-sama, you are really strict with Shiki-san, are you not?"
+bgload BG_34A.jpg
+setimg KOHA_T05B.png -12 0
+setimg AKI_T05B.png 104 0
+text "I don't want to be strict.
+text It's just that he is always so spaced out, I have to watch out for him."
+bgload BG_34A.jpg
+text "...... Huh?"
+text I'm a little surprised.
+text When Akiha talks to Kohaku-san, there isn't any hint of her usual coldness.
+text Maybe it's because they're so close in age, but they seem to be really good friends.
+text "......"
+bgload BG_34A.jpg
+setimg HIS_T01.png 62 0
+text I glance over at Hisui.
+bgload BG_34A.jpg
+text Since Akiha dismissed all of the other servants except for Hisui and Kohaku-san, I think Hisui must be trusted by Akiha as well.
+text But, since Kohaku-san is her complete opposite in personality, I have a feeling that there isn't much talk between Hisui and Akiha.
+bgload BG_34A.jpg
+setimg HIS_T01.png 62 0
+text "May I be of service, Shiki-sama?"
+text Hisui realizes I was looking at her and asks me if there is anything she can do.
+text "No, it's nothing.
+text I was just thinking that you're really calm."
+text "---Yes.
+text It is something that Makihisa-sama taught to me."
+bgload BG_34A.jpg
+text She answers very distinctly.
+text .... The answer is so distinct, I can't continue the conversation.
+text "............"
+text An uncomfortable silence ensues.
+text As if sensing this, Kohaku-san starts up a conversation.
+bgload BG_34A.jpg
+setimg KOHA_T02B.png -12 0
+text "Shiki-san.
+text Is it okay if I ask a question?"
+text "Eh---ah, yeah.
+text What is it?"
+text "It seems like you left last night again, so I was wondering if you had some usual, scheduled routine to take care of every night."
+text "Ah---no, I don't have anything like that.
+text The past two days were just something special."
+text I look over at Hisui.
+bgload BG_34A.jpg
+setimg KOHA_T02B.png -12 0
+setimg HIS_T01.png 126 0
+text She just quietly watches the two of us.
+bgload BG_34A.jpg
+setimg KOHA_T02B.png -12 0
+text "It's alright, Kohaku-san.
+text I won't go out late at night anymore.
+text Besides, I'm not a kid anymore, so it's not like there's any danger or anything."
+bgload BG_34A.jpg
+setimg KOHA_T04B.png -12 0
+text "Oh!
+text Are you still saying that sort of thing, Shiki-san!?
+text Hisui-chan, don't you feel the same way?"
+bgload BG_34A.jpg
+setimg KOHA_T04B.png -12 0
+setimg HIS_T01.png 126 0
+text "It is as Nee-san says.
+text Shiki-sama, you are the eldest son of the Tohno family, so please refrain from doing anything careless."
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg HIS_T01.png 126 0
+text "See, even Hisui-chan is angry.
+text You are anemic, so you shouldn't strain yourself, you know?
+text I was told this by your personal physician too, Shiki-san."
+text ".... Well, that's true, but it has nothing to do with going out late at night.
+text If I can't walk by myself, I shouldn't go to school either, right?"
+bgload BG_34A.jpg
+setimg KOHA_T02B.png -12 0
+setimg HIS_T01.png 126 0
+text "It does have something to do with it.
+text During the day it is bright outside and someone could help you, right?
+text But at night it's different.
+text There's been all these vampire murders recently, so if you go outside and collapse, what do you think will happen?"
+text "Ah........"
+bgload BG_34A.jpg
+text Without thinking, my body shudders.
+text Just hearing someone else use the word "vampire" like this really reminds me that it was Yumizuka killing those people.
+text ".... No, it's okay, Kohaku-san.
+text There isn't a vampire out there anymore.
+text .... Those incidents, they won't happen ever again."
+text Because Yumizuka Satsuki.. is no longer in this world.
+bgload BG_34A.jpg
+setimg KOHA_T09B.png -12 0
+text "Oh?
+text Is that true, Akiha-sama?"
+bgload BG_34A.jpg
+setimg KOHA_T09B.png -12 0
+setimg AKI_T01B.png 104 0
+text "I haven't heard anything about it.
+text The one to ask is Nii-san, since he seems to know something about it.
+text Oh yeah, there was a victim from your high school, Nii-san.
+text Year 2 Class 3 is your class, right?"
+text "Eh....?
+text There wasn't a victim from my class."
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T01B.png 104 0
+text "Ah, Shiki-san, you didn't see the news this morning.
+text Last night, they found a large quantity of blood from someone named Yumizuka Satsuki in an alley off the main street.
+text The blood seems to have been there for a while, but from the amount of blood there, they say she is more than likely dead."
+sound SE_01.aac 1
+text "-------"
+text .... My heart starts to throb violently.
+text The fact that Yumizuka Satsuki is dead, I know that better than anyone else.
+text But when they say that she's dead, it sounds like, "you killed her, didn't you?" to me----
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T12B.png 104 0
+text "---Nii-san?
+text What's wrong, you're really pale."
+text "---No, it's, nothing---"
+text My mood starts to sink.
+text Thanks to Hisui, my heart was able to be calm, but with just this conversation, I almost collapse.
+text Is my heart really this weak?
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T12B.png 104 0
+text "Everyone, let's have a welcome party tonight!"
+text Just like that,
+text Kohaku-san makes an announcement in a loud voice.
+text ~
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T01B.png 104 0
+text ----Huh?
+text Akiha and I say the same thing aloud, and even Hisui tilts her head.
+bgload BG_34A.jpg
+setimg KOHA_T15.png -12 0
+setimg AKI_T01B.png 104 0
+text "A welcome party for Shiki-san!
+text Everyone is here, and we haven't even celebrated Shiki-san's arrival yet.
+text So, tonight should be Shiki-san's welcome party."
+text "Right?" Kohaku-san looks at me and smiles.
+text "............"
+text .... Crap.
+text Why are Hisui and Kohaku-san so able to read my feelings?
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T01B.png 104 0
+text "Akiha-sama, is that acceptable?
+text If you allow it, we can start the preparations right away."
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T09B.png 104 0
+text "Yes, Nii-san has finally come back and we haven't even done anything.
+text I think it's a good idea but.. Hisui?
+text You agree, right?"
+bgload BG_34A.jpg
+setimg AKI_T09B.png 104 0
+bgload BG_34A.jpg
+setimg HIS_T23.png -2 0
+setimg AKI_T09B.png 104 0
+text "Ah---yes, if it is acceptable to Shiki-sama, I do not think it will be a bad thing."
+bgload BG_34A.jpg
+text The three of them turn to stare at me.
+text I---
+text ~
+if kohaku_regard >= 3
+    jump s317.scr
+fi
+choice No, I really don't feel like it.|Of course I agree.
+if selected == 1
+    jump s414.scr
+fi
+if selected == 2
+    jump s317.scr
+fi
+

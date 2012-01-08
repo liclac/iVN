@@ -1,0 +1,686 @@
+bgload BG_34B.jpg
+music 03.mp3
+text ---Dinner is over, and it is now nighttime.
+text A rare event, Akiha, Kohaku-san, and Hisui are all in the sitting room, so I join them for some after-meal tea.
+bgload BG_34B.jpg
+setimg KOHA_T03.png -12 0
+text "Is that so?
+text I like the second one rather than the first one.
+text I think the taste is more refined."
+bgload BG_34B.jpg
+setimg KOHA_T03.png -12 0
+setimg AKI_T04B.png 104 0
+text "It's a difficult choice.
+text The difference in taste is great, but everyone handles the different concentrations in varied ways.
+text But, Kohaku, you like Japanese tea better, right?
+text I think Hisui prefers english tea."
+bgload BG_34B.jpg
+setimg KOHA_T01A.png -12 0
+setimg AKI_T04B.png 104 0
+text "Hisui-chan does not mind blands that much.
+text She may look sensitive, but Hisui-chan is---"
+bgload BG_34B.jpg
+setimg KOHA_T01A.png -12 0
+bgload BG_34B.jpg
+setimg KOHA_T01A.png -12 0
+setimg HIS_T01.png 126 0
+text "Nee-san."
+bgload BG_34B.jpg
+setimg KOHA_T02.png -12 0
+setimg HIS_T01.png 126 0
+text "---sensitive like she looks.
+text See, there isn't anything she can't do like cleaning or sewing, Shiki-san."
+text Kohaku-san suddenly engages me in conversation.
+bgload BG_34B.jpg
+setimg KOHA_T02.png -12 0
+setimg HIS_T08.png 126 0
+text Hisui's glance seems.. somewhat scary too.
+bgload BG_34B.jpg
+setimg KOHA_T02.png -12 0
+text ".... Why are you suddenly telling me that, Kohaku-san?"
+bgload BG_34B.jpg
+setimg KOHA_T05.png -12 0
+text "Because Hisui-chan is your servant.
+text You surely know about her sensitiveness, right?"
+text "Um, well---"
+text I quickly look over at Hisui.
+bgload BG_34B.jpg
+setimg KOHA_T05.png -12 0
+setimg HIS_T08.png 126 0
+text "................"
+text .... Hisui stands there quietly with something like an air of attack around her.
+text "---No, I don't think she's that sensitive.
+text She takes care of things quickly even when I mess something up, and she doesn't get angry like someone else when I come home late."
+bgload BG_34B.jpg
+setimg KOHA_T05.png -12 0
+setimg HIS_T04.png 126 0
+bgload BG_34B.jpg
+setimg HIS_T04.png 126 0
+bgload BG_34B.jpg
+setimg AKI_T18B.png -24 0
+setimg HIS_T04.png 126 0
+text "Nii-san, don't you know it is perfectly natural for someone who breaks curfew to be scolded?"
+text ".... I know, but isn't eight o'clock a bit too early?
+text I'm not a little kid, so let's make it like ten o'clock from now on."
+bgload BG_34B.jpg
+setimg AKI_T02B.png -24 0
+setimg HIS_T04.png 126 0
+text "I refuse.
+text You don't have any reason to stay out that late anyway.
+text It's not like you have a cram school or a club to attend."
+bgload BG_34B.jpg
+text "............ Hmph."
+text I can't really rebut her when she brings that up.
+text Someone free like me coming home late means that I'm out playing around.
+bgload BG_34B.jpg
+setimg KOHA_T02.png 52 0
+text "Shiki-san, it is as Akiha-sama says.
+text It's dangerous out there recently, so please don't go out at night, okay?"
+text "---Dangerous, you mean those serial killings?"
+text "Yes," Kohaku-san nods.
+text .... It almost makes me laugh.
+text The one doing that, Nrvnqsr, is no more.
+text But the only ones who know that are me and Arcueid, and other people are still frightened about the shadows of the dead killer.
+text "This morning they found another victim in the shopping district.
+text That's the eleventh victim you know, the eleventh victim."
+text ".... Wow, eleventh?
+text That's amazing, that's a baseball te----"
+text ~
+text -----Wait a minute.
+text ~
+text "Kohaku-san!"
+bgload BG_34B.jpg
+setimg KOHA_T01A.png 52 0
+text "Yes?"
+text "What you just said, is that true!?"
+bgload BG_34B.jpg
+setimg KOHA_T03.png 52 0
+text "Yeah, it's true.
+text It was in this morning's news.
+text It seems like it happened last night, but just like all the others, all the blood was drained completely."
+bgload BG_34B.jpg
+text ~
+text "Wha------"
+text ~
+text That's, weird.
+text Because Nrvnqsr is dead.
+text How can someone who died two days ago kill someone the day after?
+text "No way---"
+text Did he not die?
+text .... No, that's definitely not it.
+text He definitely died.
+text So, how come---
+bgload event/ARK_E01.jpg
+bgload BG_34B.jpg
+text "-----"
+text Then maybe.
+text If the vampire roaming the streets disappeared, but these incidents are still happening..
+text Then, the only vampire left in this city is her---
+music ~
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Good night, Shiki-sama."
+text ".... Yeah, good night, Hisui."
+bgload BG_40C.jpg
+text The door shuts softly and I'm left in the room alone.
+text "............"
+text Another victim appeared.
+text Another victim, killed by a vampire.
+text "It can't be.... Arcueid, right?"
+text She said she doesn't suck blood, and more than that---I don't think anyone who acts that human could do that.
+text I only spent two days with her, but I can't believe she would do anything bad.
+text With her prettiness, her great smiling face, she couldn't have sucked someone's blood and discard them on the street.
+text "------But.."
+text But, there's been another dead body found.
+bgload event/ARK_E01.jpg
+bgload BG_40C.jpg
+text ".... I should just meet her once more and ask her about it."
+bgload IMA_10.jpg
+text Saying that aloud, I quickly act on it.
+text I take the knife I used to fight Nrvnqsr and sneak quietly out of the mansion.
+text Going out into the street, I start to search for Arcueid.
+bgload BG_27B.jpg
+text My lungs feel like they're going to burst.
+text I stop running and catch my breath.
+text My body which was running non-stop until now wheezes to try to suck in more oxygen.
+text My panting fills the air.
+text .... This is no good, I can't find her.
+text I ran down the street and to her place, but I still couldn't find her.
+text ".... That Arcueid.... She's always around when you don't need her, but when you try to find her....!"
+text I speak those words selfishly.
+text It's been four hours.
+text It's almost midnight, but I still don't see Arcueid anywhere.
+text ~
+text .... For some reason.
+text For some reason, I thought optimistically that I'd find her easily once I started looking for her.
+text I want to see her, and when we last parted, she said "See you later."
+text "Shit.... Where did you go, Arcueid....!"
+text For some reason, I'm getting very annoyed.
+text I keep thinking I'll see her soon but I don't.
+text This is killing me.
+text ".... I.... thought.... we'd see each other again......"
+text ---?
+text What is that?
+text It's like.... I'm in love with her.
+text "---But that---"
+bgload event/ARK_E06B.jpg
+bgload BG_27B.jpg
+text "---That's stupid."
+text Forcing a grim smile, I shake that thought from my mind.
+text ".... I'll check out the park, and if I don't see her there, I'll go back."
+text Taking a deep breath, I walk to the park.
+text ~
+text Two nights ago.
+text That park where so much happened, the park where I parted with Arcueid.
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+music 06.mp3
+text "---Hm?"
+text There's something different about the park.
+text "...... The lamp posts are off."
+text The lamp posts throughout the park are all turned off.
+text The moonlit park seems more solitary than usual.
+text "Hmm.... is it a power outage?"
+text I look around me.
+text .... Outside the park, the lights are all working.
+text The only lamps not working are within the park itself.
+text ~
+text ~
+sound SE_12.aac 1
+text -----Clang-----
+text ~
+text ~
+text "Eh----What was that just now?"
+text I can hear something.
+text The clamor sounds like it's coming from a fight.
+text "-----"
+text I'm curious.
+text There's no basis for this, but this late at night, if there's any sort of trouble going on, I think it has to involve her.
+text "...... Alright."
+text Trying as hard as I can to be silent, I head towards the source of the sound.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text "----!"
+text I can see two figures facing off.
+text Someone is wearing dark black garments and I can't tell who it is.
+text But I can easily tell the other one.
+text White garments, and golden hair that can be easily spotted even in just the moonlight.
+text ".... Arcueid....!"
+text Arcueid is being attacked by this black human shape.
+text ~
+text That black human shadow is carrying something like a sword, and it isn't something like a simple fight.
+text ~
+text Sword in hand, it jumps towards Arcueid.
+text Arcueid deflects the blade coming in towards her chest with her hand and lightly contacts the chest of that black shape.
+text ~
+text In the next instant,
+text that sword wielding shape flies through the air like a soccer ball.
+text ~
+text Th-thump, roll, roll, roll.
+text ~
+text Falling down on the brick pathway in the park, it keeps rolling as if easing the fall.
+text No, to be more accurate,
+text it rolls right toward me.
+text "....?"
+text It's dark and I can't tell, but in front of me the shape stops rolling and regains its feet.
+text "Ku-----!"
+text A sharp, cut-off voice.
+text "Haa.... ah."
+text Fascinated by this display, I let out a breath of admiration.
+text Suddenly,
+text the sword-carrying figure ceases all movement.
+text "I'm seen----!?"
+text The figure finally seems to realize I'm here.
+text And then---it leaps towards me with sword in hand.
+text "----Eh?"
+text The cutting blade of the sword rapidly arcs towards my throat.
+text This speed.
+text This flying speed, this accuracy, surpasses that of Nrvnqsr's beasts.
+text The shadow's movement is as fast as Arcueid's when she was tearing apart Nrvnqsr's beasts.
+text ~
+text The sword pokes lightly at my neck.
+bgload IMA_11B.jpg
+text ~
+text ~
+text ----Thump.
+text ~
+text My heart accelerates to a feverish pitch.
+text I don't even have time to think of the danger or to evade; my thoughts are filled only with death.
+text ~
+text The sword doesn't pierce my throat, but stops suddenly.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Tohno.... kun---?"
+text "------Sen, pai."
+text Our voices overlap.
+text Both of our voices are drowned in disbelief---Ciel-senpai and I stare at each other in amazed shock.
+text "Shiki, get away from her!"
+text Arcueid's voice calls from far away.
+bgload BG_29B.jpg
+setimg CEL_T06B.png 52 0
+text "-------"
+text Arcueid dashes towards us.
+text Senpai glares at me with eyes that seem to belong to another person---
+bgload BG_29B.jpg
+music ~
+text ~
+text ---Like that, she turns around and runs off.
+text "Wh.... why?"
+text Senpai is completely gone.
+text That black figure, Senpai wearing those dark clothes.
+text .... That person who saved me two days ago when I was nearly killed by Nrvnqsr's crows.
+text But---Senpai, she said that wasn't her, so why---
+text ~
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Shiki---!"
+text .... I suddenly realize Arcueid is in front of me.
+text "A--Ar, cueid--"
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+text "Are you alright!?
+text Did she do anything to you?"
+text Just like Senpai before, she looks at me intensely.
+text But that doesn't matter.
+text ~
+text "Did she do anything to me....?"
+text I touch my neck that had a sword on it until now.
+text There's a light, sharp pain.
+text The finger that touched my neck is faintly painted red.
+text Senpai's sword has cut my throat only a few millimeters deep.
+text ".... What is, going on?
+text Why would, Senpai attack me?"
+text Why---really, why would she glare at me like that?
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Isn't it obvious?
+text You saw us trying to kill each other.
+text She is someone who operates in complete secrecy, so she hates for an ordinary person like you to see what was happening."
+text Arcueid says that unbelievable statement.
+text "---Kill each other.... why?
+text How come---why would you and Senpai do something like that?"
+text Lost in pure shock, I can only manage those words.
+bgload BG_29B.jpg
+text In the first place, I didn't come here to ask that.
+text I wanted to ask her---Arcueid about something, which is why I was out here in the first place.
+text ".... I don't know.
+text I only came to see you, so why---why are you and Senpai trying to kill each other?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Eh?
+text Shiki, you came to see me?"
+text "---Yes.
+text I had something I wanted to talk about, so I was just looking for you---so why did it end up this way?
+text .... I don't know.
+text My head is just spinning.
+text Please---could you tell me what's going on, Arcueid?"
+text "Well, I was just simply fighting with that person from the Church.
+text It isn't something that concerns you, so just forget about it Shiki."
+text "----It does concern me.
+text But first, what do you mean by 'the Church'?
+text Explain it so I can understand."
+bgload BG_29B.jpg
+text Arcueid doesn't answer.
+text She mulls it over until she nods.
+text "Sure, why not?"
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Since you're that worried, I'll tell you.
+text It really doesn't concern you though, do you really want to hear it?"
+text "Yeah.
+text No matter what it is, I won't mind."
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Oh?
+text How enthusiastic.
+text I'm actually a little curious about why you came to see me though."
+text ".... Come on, please hurry.
+text I want to hear about that person."
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "Hmph," Arcueid looks a little angry.
+text I don't even think about why she would look like that all of a sudden.
+text ~
+text .... My throat still hurts.
+text Senpai---Ciel-senpai pointed a sword at me.
+text All I can think about is why Ciel-senpai would do that.
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+music 01.mp3
+text ".... Fine, then I'll tell you.
+text The Dead Apostles are vampires that try the utmost to conceal their existence.
+text In order to live, they must suck the blood of humans, so victims will always appear as long as they exist.
+text But there's not too many stories of people being killed by vampires, right?
+text Do you know why that is?"
+text ".... Arcueid.
+text I didn't ask about vampires."
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Sheesh, I'm trying to explain it to you in order Shiki, so please answer, okay?
+text Look, even when the vampires kill people, they try to hide it from the surrounding--society that people like you live in.
+text They seek to hide themselves and try as much as possible using magic and other things to camouflage their victims and make it appear natural.
+text Do you know why?"
+text ".... Well, it's because humans aren't stupid.
+text If they find out monsters like that exist where they live, they'd attack them.
+text Even though humans are weak, they do have things like police.
+text If there are such thing as vampires, an effort would be made to protect people from them.
+text .... Then people would stop walking around at night like what's going on right now.
+text I think they try to hide themselves because that's inconvenient for them."
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "---Well, I guess that's true, but police are only a law-enforcing group against humans.
+text We don't consider them at all.
+text But, it's correct to say that vampires hide their presence for the sake of self-preservation."
+text "Shiki, there is a natural enemy of the vampires.
+text A group of something like professional killers that now have the power balance in their favor.
+text .... It's true for other transcendent species, but especially for vampires, it is fatal for them to reveal themselves.
+text Even if a vampire made a secret kingdom in a village somewhere in the mountains away from all civilization, this natural enemy would definitely notice if victims keep increasing.
+text Vampires exploit the humans in secret, for no reason other than self-preservation.
+text The vampires hide their dead victim's bodies, not out of fear of human society finding out, but in fear of these natural enemies discovering them."
+text ".... Their.... natural enemy?"
+text She means someone that fights against vampires.
+text .... Like Senpai, who was wielding a sword against Arcueid.
+text ".... So, they aren't human either?"
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "What are you saying?
+text Their natural enemy is without a doubt you humans."
+text "-----?
+text Natural enemies, us?"
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "Yeah.
+text Starting from a long time ago, humans used many kinds of magic, the occult, magical ceremonies to create an organization and started to eliminate primates other than humans.
+text The greatest of these is Christianity---the pride of the Vatican, the Exorcists.
+text The Catholic Church always viewed "nonhumans" as impurities, but vampires are considered the most dangerous."
+text "There are many religious groups in the world, but the Catholic Church looks at vampires with more hostility than the rest.
+text You know, it's almost an obsession.
+text They are so insane, I don't even want to mess with them."
+text Arcueid lets out a sigh.
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "You should know what I'm getting at by now.
+text The one who tried to kill you was a member of an elite organization that hunts heretics.
+text This group, the Burial Agency, is part of the Church.
+text They use their own strength rather than law to deal with contradictions to Christianity.
+text These hidden exorcists are more like professional killers.
+text Being the ones which crush contradictions, their existence is a shadow, and so they do not come out in front of people.
+text They are a section that should not exist within the organization called Christianity, so they kill all those that discover their existence indiscriminately."
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "That woman---it seems she is now called Ciel, probably came here to hunt down the vampire in this city.
+text Her sense for the 'enemy' is far better than mine."
+text She says this in an irritated manner.
+bgload BG_29B.jpg
+text "......"
+text I don't have any words to say.
+text Senpai---is some sort of an exorcist who's hunting vampires---I just can't believe that at all.
+bgload IMA_10.jpg
+bgload event/CEL_E01.jpg
+text ~
+text Because Senpai has such a gentle, good nature,
+text ~
+bgload IMA_10.jpg
+bgload event/CEL_E02A.jpg
+text she can't kill---she's not someone that can handle such things, unlike me.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text "---That's a lie.
+text That's a lie, Arcueid.
+text Because Senpai's an upperclassman at my school.
+text So why would you say she's some member of the Church....!?"
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Hey now.
+text Shiki, you know her?"
+text Arcueid draws near as if telling me she won't allow that.
+bgload BG_29B.jpg
+text "Of course!
+text She's a third year at my school, I've known her since I was a first year--"
+text ~
+text ----Since I was, a first year?
+bgload IMA_10.jpg
+text "---Hu--h?"
+text .... Something's wrong.
+text Come to think of it, how long have I known her?
+text I don't even know which class she is in.
+text I try and remember---but I don't have any memories of her before that day when I found her mending those splints.
+bgload event/CEL_E01.jpg
+text ~
+text ---Thank you very much, Tohno-kun.
+text ~
+text Because she smiled as she said it.
+text For some reason, I felt like I had always known her.
+text "---This can't----be true."
+bgload IMA_10.jpg
+text First of all, the strangest thing is that..
+text Senpai was called "Ciel" like it was natural to be called so, but no one calls her with a different name.
+text She was only called Ciel,
+text how come no one doubted such a name---?
+bgload BG_29B.jpg
+text "Arcueid---about Senpai.... about that person, who is she...."
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "Didn't I tell you?
+text She's a member of the Burial Agency.
+text She is a newcomer who entered only eight years ago, but maybe she has great abilities.
+text She's an agent already having a seat in the perfect number, the Seventh."
+bgload BG_29B.jpg
+text "----"
+text I don't quite get what Arcueid is saying.
+text ~
+text But, the number seven certainly is a perfect number.
+bgload CMO_09.jpg
+text A number isolated from the others.
+text In its solitude, it has nowhere to go.
+text Isolation, isolation.
+text Since it is perfect, the Apocrypha named with that number refuses reincarnation.
+text ~
+text .... I don't quite get it, but,
+text for some reason, those words repeat inside my head.
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text ".... That's right, the members of the Burial Agency are highly skilled, so I guess it's easy for them to use suggestion against someone who can't even resist.
+text That woman probably was deceiving you all in order to stay in your high school."
+text ".... Suggestion.... like hypnosis?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Yes, it can't be a very complex order.
+text She probably used something simple like 'Don't doubt Ciel'."
+text .... Yeah, that's it.
+text I always felt something was wrong from the beginning, but as soon as I would see her again, those doubts would disappear.
+text Feeling it is natural for her to be there,
+text wasn't that one of Senpai's characteristics?
+text ".... I understand, but there's still something else.
+text You said Senpai is a member of that Burial Agency, so why is she fighting you?
+text They only fight bad vampires, right?
+text So---there isn't any need for you two to fight, right?"
+text ~
+text ---They only fight.. bad.. vampires.
+text ~
+text Such as, those that suck the blood of humans and cast their bodies away.
+text ".... Arcueid, you---"
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Hm?
+text What, did I do something?"
+text Arcueid looks directly at me.
+text .... I can't think it.
+text I don't want to think that this person, would ever suck human blood.
+text But the truth is, the incidents are still occurring.
+text Furthermore, Senpai, an exorcist from the Church, is trying to kill Arcueid.
+text "---Arcueid.
+text Don't tell me the killing yesterday was your doing?
+text That's why you and Senpai were fighting---"
+text I grit my teeth.
+text I speak those heavy, painful words as if confessing love toward a girl I like.
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Shiki, are you serious?"
+text "Even I don't want to believe it.
+text But then, who did it?
+text Nrvnqsr is dead already.
+text So.... that leaves, um, only.... you, right?"
+bgload BG_29B.jpg
+text .... I'm filled with regret as soon as I say those words.
+text I still like her.
+text She saved my life, and those two days were still a lot of fun.
+text So---I don't want to separate with her like this.
+text But, if she is the killer vampire, I----
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ------And then,
+text ~
+text Smack.
+text My head is hit with a fist.
+bgload BG_29B.jpg
+setimg ARK_T09.png 36 0
+text "Shiki, you idiot."
+text "Eh.... Arcueid....?"
+text "I wouldn't normally let it be settled with just this, but since you look so pitiful, I'll let that be enough."
+text Smiling, Arcueid hops back.
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Shiki, you're a great person."
+text "Wha----"
+text Having her say that so suddenly makes my cheeks flush.
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "And in addition, you're so honest.
+text I like those things about you."
+text Arcueid smiles happily.
+text Seeing her like that---I can't imagine her sucking on someone's blood.
+text "Arcueid, so---"
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Yes.
+text I'm not the killer.
+text It's the work of some other vampire and not me."
+text "--------"
+text The knot in my chest disappears.
+text I see---I knew it, Arcueid didn't do those things.
+text ~
+text "I see---it's the work of another vampire.
+text ~
+text That's a relief.... Wait, that's weird.
+text "Hold on Arcueid.
+text You said it's another vampire, but isn't it odd for vampires to come out one after another?"
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "What are you saying?
+text There aren't any new vampires."
+text "---Wha.. But Nrvnqsr isn't alive anymore.
+text There isn't anyone else that does something like that."
+text ".... Oh, I see.
+text Shiki, you really made a big mistake."
+text Arcueid gives an amazed sigh.
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "You see?
+text The serial killings you're talking about was always the work of just one vampire from the very beginning.
+text So no new will come, and Nrvnqsr is unrelated to those incidents."
+text ~
+text ----Eh?
+text Nrvnqsr is unrelated....?
+text ~
+text "Wha---what do you mean?"
+text "It's just like I said.
+text .... You're normally pretty sharp, but you're lost at some points.
+text Think back, Shiki.
+text Nrvnqsr was a vampire, but did he ever suck human blood?"
+text "Suck blood?
+text He ate humans and---oh."
+text I see.
+text Why didn't I notice such a simple mistake?
+text The victims of the serial killings are found with their bodies drained of blood.
+text But Nrvnqsr was different.
+text He didn't leave any dead bodies behind.
+text He not only drank the blood, but also ate the meat, leaving no trace.
+text To prove it, the people eaten by him in the hotel were treated as missing people, not killed people.
+text So---that means, it is something completely different.
+text "Wait.
+text Then what is the serial killing going on right now?
+text Just who is doing it?"
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "That's a different vampire than Nrvnqsr.
+text To be more specific, that vampire is why I came here, and Nrvnqsr came here following me.
+text It's that sort of correlation."
+text "---Wha.. So the one you're after wasn't Nrvnqsr after all....!?"
+text "Yes, I didn't ever say he was my initial target.
+text I was his target, but he was never my target; my target is the one called the 'serial killer' in this city."
+text "Wha-----"
+text I gasp in shock.
+text But---it really is just as she says.
+text She said her purpose is to kill vampires, so I just thought it was Nrvnqsr she was after----
+text ".... So what is it?
+text Killing Nrvnqsr that night, was pointless......!?"
+text "It wasn't pointless, you fought in my place.
+text Well, if you didn't kill me, you probably wouldn't have had to in the first place."
+text "------"
+text I feel a little dizzy.
+text ".... In other words, those vampire killings had nothing at all to do with Nrvnqsr and it was the work of another vampire....?"
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah, that's right.
+text But, that's my problem so you don't have to worry about it.
+text But more than that, hey."
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+music ~
+text With an extremely happy smile, Arcueid looks up at me as I still stand there in surprise.
+music 03.mp3
+text "How was last night?
+text Who came?"
+text "Huh?"
+text What does she mean by last night?
+text I don't understand what she's talking about.
+text After all, I'm the idiot who mistook Arcueid's words and made such a stupid mistake, so of course I don't understand what she is saying, and---huh?
+text ~
+text Did Arcueid ask me who came last night---?
+text ".... Arcueid.
+text What do you mean by 'last night'?"
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "Hm?
+text That's strange, I know I sent you a dream familiar."
+text "Wait, what's that dream familiar thing?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Um, it's like a familiar that lets you see a dream about what you desire the most.
+text You're a male, so I sent you a succubus.
+text Wasn't it a good dream?"
+text ~
+text "I-----"
+text ~
+text A good dream?
+text That was..
+text I remember the realistic dream I had and my face turns red.
+text ~
+text "You, that was your doing---!"
+bgload BG_29B.jpg
+setimg ARK_T09.png 36 0
+text Arcueid grins even more.
+text ---Crap.
+text If I stayed quiet this conversation would have been over, but since I reacted so strongly---
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "Ah, so you did get it.
+text So, what kind of dream was it?
+text The dream familiar was supposed to take the shape of your greatest desire, so it felt really good, right?"
+bgload BG_29B.jpg
+text "What kind of dream?
+text That's---"
+if flg4 >= 1 
+    jump s254.scr
+fi
+jump s255.scr

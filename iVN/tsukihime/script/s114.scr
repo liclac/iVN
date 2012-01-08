@@ -1,0 +1,48 @@
+bgload BG_06B.jpg
+text .......... *sigh*
+text I don't feel like going back to the mansion, so I kill time spacing out in the classroom.
+text Outside, the sun is setting.
+text I can hear the voices of those practicing in athletic clubs; I'm quite comfortable with sitting at my desk peacefully.
+text It's probably because yesterday and the day before were out of some extraordinary world.
+text ~
+text ----And then,
+text ~
+bgload BG_06B.jpg
+setimg CEL_T01A.png 52 0
+text "Good.
+text I see you're still here, Tohno-kun."
+text Senpai's face suddenly comes into view.
+text "Hm?
+text Senpai....?
+text What makes you come down to a second year classroom?
+text Is there something special you had in mind?"
+bgload BG_06B.jpg
+setimg CEL_T02.png 52 0
+text "Yes, I was wondering if you were still here, so I came to take a look."
+text Senpai says something that makes me happy.
+text "Yes, I'm here.. What is it?"
+text "There is something I forgot to say during lunch.
+text I was thinking of waiting until tomorrow, but I thought I should just say it as soon as possible."
+text ".... Hm.
+text Something you forgot to say?"
+bgload BG_06B.jpg
+setimg CEL_T03.png 52 0
+text "Yes.
+text Tohno-kun, you seem to be going out at night lately, so I wanted to warn you.
+text There have been a lot of dangerous things going on, so you shouldn't stay out too late."
+text "Ah----um, well...."
+text ....?
+text How does Senpai know that?
+text Do I look pale from a lack of sleep?
+text Or, maybe she saw me walking around at night....?
+text "Well Tohno-kun, I let you know.
+text You shouldn't involve yourself in dangerous things."
+bgload BG_06B.jpg
+text As quickly as she arrived, Senpai disappears like a gust of wind.
+bgload IMA_10.jpg
+bgload BG_01B.jpg
+text After spending an hour doing nothing in the classroom, I decide to go home.
+text It's past five o'clock.
+text If I'm too late, Hisui will worry, so I should head back soon----
+bgload IMA_10.jpg
+jump s116.scr

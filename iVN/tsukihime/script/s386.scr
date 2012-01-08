@@ -1,0 +1,62 @@
+bgload BG_06A.jpg
+text I get to the classroom, and the class starts uneventfully, as always.
+text ~
+text .... There's no one at Yumizuka's desk.
+text Even though a classmate is gone forever, class life remains unchanged.
+text ~
+text "......"
+text I become a little uneasy.
+text Because of Hisui, I had forgotten all about that.
+text Perhaps because of that incident?
+text With that uneasiness, my thoughts drift towards the sky.
+bgload IMA_10.jpg
+bgload BG_06B.jpg
+text Before I realized it, the school day was over.
+text I let out a sigh.
+text I don't really feel like seeing Arihiko or Senpai.
+text Right now, it seems I'm just more at ease in the Tohno mansion than in school.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+bgload BG_33B.jpg
+music 01.mp3
+text I enter the lobby and immediately encounter Hisui.
+bgload BG_33B.jpg
+setimg HIS_T16.png 62 0
+text "Welcome back, Shiki-sama."
+text "I'm home, Hisui.
+text Are Kohaku-san and Akiha here?"
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Akiha-sama has not returned yet.
+text Nee-san will most likely be in the rear courtyard sweeping."
+text "As usual.
+text Well, I'll be in my room; please continue whatever you were doing."
+text "Yes.
+text Please excuse me."
+bgload BG_33B.jpg
+text I head up the stairs to the second floor.
+text "Ah, Shiki-sama?"
+text "Hm?"
+bgload BG_33B.jpg
+setimg HIS_T23.png 62 0
+text "I will be in Makihisa-sama's room sorting things out.
+text If you need me, please call for me."
+bgload BG_33B.jpg
+text Hisui disappears towards the east end of the mansion.
+bgload IMA_10.jpg
+bgload BG_40B.jpg
+music ~
+text Putting down my bag, I take off my jacket.
+text ".... Well, then."
+text There's still time until evening, so what should I do?
+text ~
+choice Go see Hisui.|Go help Kohaku-san.|Go to Akiha's room.
+if selected == 1
+    jump s387.scr
+fi
+if selected == 2
+    jump s388.scr
+fi
+if selected == 3
+    jump s389.scr
+fi

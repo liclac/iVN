@@ -1,0 +1,26 @@
+bgload BG_04.jpg
+text "He's a friend of mine from middle school--Akiha?"
+text "Yes?
+text What is it, Nii-san?"
+text "You seem to have calmed down a whole lot.
+text All your confusion earlier in the cafeteria seems like it never happened."
+bgload BG_04.jpg
+setimg AKI_T01A.png 40 0
+text "----What are you trying to say, Nii-san?"
+text "No, I was just thinking.. maybe you were pretending to be naive earlier?"
+text There is a strong possibility that is the case.
+text Come to think of it, there was no reason for Akiha to just stand there stupidly in the middle of the crowd like that.
+bgload BG_04.jpg
+setimg AKI_T18A.png 40 0
+text "Oh?
+text Nii-san, is that what you think of me?"
+text Akiha looks me over from head to toe.
+text .... I knew it.
+text She was just putting on an act to fool me.
+bgload BG_04.jpg
+setimg AKI_T21.png 40 0
+text "Yes, please go ahead and imagine what you like.
+text It isn't like I wanted you to be worried."
+text She puffs out her chest and pouts.
+bgload BG_04.jpg
+jump s329.scr

@@ -1,0 +1,50 @@
+bgload BG_04.jpg
+text "What is he to me?----Arihiko is just a classmate.
+text What else does he look like?"
+bgload BG_04.jpg
+setimg AKI_T03A.png 40 0
+text "Oh, so you refer to 'just' your friend by his first name, Nii-san?"
+text Akiha looks at me unhappily.
+text "Look, does it matter if I refer to him by his last name or his first name?
+text Why are you hung up on that all of a sudden?"
+bgload BG_04.jpg
+setimg AKI_T18A.png 40 0
+text "My, you have no awareness, Nii-san.
+text Maybe for women, but it is not normal for two boys to refer to each other like that.
+text Unless they were brothers or relatives.."
+text "Eh----well, maybe you're right."
+text .... Even I tilt my head to the side as I think about it.
+text But since the very beginning, I've always called him "Arihiko".
+text Besides, we've known each other so long it isn't that odd.
+text "Well, there is another case.
+text Don't tell me you have that sort of relationship with him, Nii-san?"
+text "....?
+text That sort of relationship?
+text What do you mean?"
+bgload BG_04.jpg
+text I respond seriously, not understanding, but Akiha shifts her gaze.
+bgload BG_04.jpg
+setimg AKI_T13A.png 40 0
+text ".... It's nothing.
+text I was being sarcastic but you don't seem to get it, Nii-san."
+text Akiha slumps her shoulders.
+text .... I start to get more and more confused.
+text "----Akiha.
+text I've known him since middle school and he has always helped me out.
+text .... He might not look like it, but he is a good person.
+text I don't know what you don't like about him, but don't think bad of him."
+bgload BG_04.jpg
+setimg AKI_T21.png 40 0
+text "........"
+text Is she not satisfied about something?
+text Akiha starts to sulk.
+text "Akiha, are you listening?"
+text "Yes, I hear you!
+text This is the first time I have ever heard you defend someone so eagerly.
+text He really must be special to you, this school friend of yours!"
+bgload BG_04.jpg
+text She puffs out her chest and turns her head away.
+text .... Geez.
+text I don't know why she decided to transfer here all of a sudden.
+text Now I don't even know what's with her.
+jump s329.scr

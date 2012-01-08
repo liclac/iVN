@@ -1,0 +1,21 @@
+bgload BG_06B.jpg
+music 03.mp3
+bgload BG_06B.jpg
+bgload BG_06B.jpg
+setimg CEL_T20.png 39 0
+text You have reached Arcueid's Good Ending.
+text Well done.
+text ~
+text Each heroine (with one exception) has two different kinds of endings,
+text a True Ending and a Good Ending.
+text After reaching one of the endings, please go back a little and readvance through the story.
+text A different event should await you.
+text Oh, and another thing.
+text If you have save data where you cleared at least one heroine, it may be a good idea to restart from the first day.
+text You may have more choices than before.
+text ~
+text Well then, thank you very much for playing up to this point.
+text Let's meet again somewhere in Tsukihime.
+bgload IMA_10.jpg
+music ~
+jump main.scr

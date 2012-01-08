@@ -1,0 +1,539 @@
+bgload IMA_11.jpg
+music 02.mp3
+bgload BG_18A.jpg
+text "------Nn."
+text The sunlight streaming through the window wakes me.
+text .... Maybe the rain stopped; I can't hear it anymore.
+text It seems the sky outside is cloudy.
+text The sunlight isn't what you could call bright.
+text ~
+text ".... Eh?"
+text ~
+text I look around.
+text .... This is obviously not my room.
+bgload BG_18A.jpg
+setimg CEL_T01A.png 52 0
+text "Ah, good morning.
+text Did you sleep well last night, Tohno-kun?"
+text "Ah--------!"
+text ~
+text I remember now.
+text This is Senpai's room.
+text I had borrowed her bed for the night----
+text ~
+text "Ah---yeah, good morning, Senpai."
+text Becoming extremely embarrassed, I hop off the bed.
+text "Uh.. sorry about yesterday.
+text I caused you all sorts of trouble, and---"
+bgload BG_18A.jpg
+setimg CEL_T03.png 52 0
+text "Yes, you owe me one."
+text Senpai replies with a smile.
+text .... How do I put this.. She seems very mature.
+text "A-anyhow, thanks.
+text I'll be going home now."
+bgload BG_18A.jpg
+setimg CEL_T12.png 52 0
+text "Oh, really?
+text It's barely six o'clock, Tohno-kun."
+text "Yes, but I didn't get permission to stay the night away from home yesterday, so if I don't hurry back to the mansion, there's no telling what Akiha will say."
+bgload BG_18A.jpg
+setimg CEL_T01A.png 52 0
+text "Ah, your little sister.
+text Well, I've already called her, so it should be okay."
+text Senpai delivers her earth-shattering statement with a casual air.
+text "Wh---you called my house, Senpai?"
+bgload BG_18A.jpg
+setimg CEL_T02.png 52 0
+text "Yes.
+text I thought it wouldn't be right if I didn't contact them about you staying over.
+text Is that a problem?"
+text "Wh------!"
+text I'm at a loss for words.
+text Ciel-senpai calling my house means a girl has called my house saying, "Tohno-kun is staying over at my place."
+text That's.. well---
+text "---Yes, it's a problem.
+text A big problem."
+text If Akiha had been the one who picked up the phone, she's going to think I'm some kind of playboy.
+text Given the severity of the Tohno household, I don't even want to imagine what would happen if she found out about that sort of thing.
+bgload BG_18A.jpg
+setimg CEL_T09.png 52 0
+text ".... Tohno-kun.. did you really hate staying at my house that much?"
+text "Ah, no, that's not it.
+text It's just that.. my house is really strict.
+text It's definitely not because I don't like you, Senpai---"
+text Flustered, I try to explain the misunderstanding.
+bgload BG_18A.jpg
+text Senpai closes her eyes sadly.
+text .... Is it because I caused her so much trouble last night?
+text I feel so bad when I see her make an expression like that.
+text "I'm telling you, that's not it.
+text I'm really grateful to you, Senpai.
+text I'm feeling much better now, and if you hadn't been there for me last night, I don't know what would've happened to me..!"
+bgload BG_18A.jpg
+setimg CEL_T04.png 52 0
+text "---Yes, you're right.
+text You look like you're back to normal now.
+text I don't know what happened last night, but I'm glad you're feeling better."
+text ~
+text Suddenly, Senpai gives the biggest smile anyone could possibly give.
+text "----Eh?"
+bgload BG_18A.jpg
+setimg CEL_T01A.png 52 0
+text "I was just joking.
+text Even I wouldn't directly call your house.
+text I asked Inui-kun to call your house and tell them that you were staying with him last night.
+text There should be no problem with that, right?"
+text ".... Yeah, that should be no problem.. but that was kind of a mean joke, Senpai.
+text I thought my heart was going to stop."
+bgload BG_18A.jpg
+setimg CEL_T03.png 52 0
+text "Yes, I'm actually pretty mean.
+text Pick on the ones you like, right?"
+text ".... Eh?"
+text ---Ones you like?
+text Then that means---
+bgload BG_18A.jpg
+setimg CEL_T01A.png 52 0
+text "But, it's true you should go home early.
+text Please hold on for a second."
+bgload BG_18A.jpg
+text Senpai rummages around in her drawers for something.
+bgload BG_18A.jpg
+setimg CEL_T04.png 52 0
+text "Here you go, Tohno-kun.
+text It's a little gift for you."
+text Saying that, Senpai hands me an old-looking ring.
+text ".... A little gift.. what is it, Senpai?"
+bgload BG_18A.jpg
+setimg CEL_T01A.png 52 0
+text "It's a protective charm.
+text You seem to be dangerously spaced out a lot, so please hold on to it."
+text "Ah.. yeah---I'll take anything that's given to me, but.. alright.
+text I'll take good care of it."
+text Accepting the ring, I put it in my pocket.
+bgload BG_18A.jpg
+setimg CEL_T04.png 52 0
+text "Alright.
+text I'll see you at school."
+bgload IMA_10.jpg
+music ~
+text ~
+text ---Senpai sees me off with a smile.
+text ~
+text But that smile is one I might never see again.
+text The woman I killed might be found already, and police might already be at the mansion.
+text .... But I can't run away from it.
+text All I can do is thank Senpai and return to the Tohno mansion.
+bgload BG_33A.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text To say the results first, the mansion is as it always was.
+bgload BG_33A.jpg
+setimg KOHA_T02.png 52 0
+music 02.mp3
+text "Ah, welcome home, Shiki-san."
+text As I enter the lobby, Kohaku-san greets me with a smile.
+text "Ah.. yeah, I'm home.
+text Um, Kohaku-san?"
+text "Ah, do you want breakfast?
+text I'll have it ready soon, so please wait in the sitting room.
+text Akiha-sama has just finished hers."
+bgload BG_33A.jpg
+text Kohaku-san patters off towards the sitting room.
+text .... It's too peaceful.
+text Maybe they haven't found the body yet.
+text "........"
+text For now, I head towards my own room to change.
+bgload BG_40A.jpg
+text Hisui is in my room when I return.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "---Good morning, Shiki-sama.
+text It seems you have returned."
+text "Yeah, just now.
+text .... Listen, Hisui, do I have a spare uniform?
+text The one I'm wearing now is soaked from yesterday's rain."
+text ".... I understand.
+text I will have one prepared immediately."
+bgload BG_40A.jpg
+text Hisui bows, and silently leaves the room.
+text After changing into the uniform Hisui brings me, I head towards the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text A disappointed-looking Akiha is sitting on the sofa in the sitting room.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "---Oh, good morning, Nii-san.
+text It seems you have returned."
+text Akiha's voice contains thorns filled with blame.
+text ".... Yeah, good morning.
+text You look kind of grumpy this morning, Akiha."
+bgload BG_34A.jpg
+setimg AKI_T18A.png 40 0
+text "Yes, I was unaware you spend the night elsewhere quite often.
+text I am more astounded than angry."
+text Akiha glares at me.
+text ".... Uhhh."
+text It's true I spent the night somewhere, so I can't argue.
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "Well, I suppose there was no helping it if you weren't feeling well.
+text The one called Inui-san is your friend from middle school, isn't he?"
+text "Yeah.. I see, so he was the one who called you."
+text .... Suddenly, I feel uneasy.
+text Just what did he say when he called my house....?
+bgload BG_34A.jpg
+setimg AKI_T21.png 40 0
+text "Besides, even if you had to leave school early, you could have just called me and I would have sent a car to pick you up.
+text I don't know why you are so reserved, but you are the eldest son of the Tohno household, Nii-san.
+text Please use everything at your disposal.... Besides, your body is weaker than that of a normal person."
+text "----Ah."
+text Oh yeah, I left school early yesterday.
+text "To collapse from anemia just by getting soaked from the rain.. are you not feeling well, Nii-san?
+text Shall I have the family doctor examine you and send you to and from school in a car from now on?"
+text "......"
+text I see.
+text So that was the reason I was supposedly staying at Arihiko's house.
+text "It's nothing for you to worry about, Akiha.
+text I go to the hospital once a month like I'm supposed to.
+text Taking me to school by car is just going to dull my body even further.
+text There's no need for you to be that sensitive about my body, though I'm glad you're worried about me."
+bgload BG_34A.jpg
+setimg AKI_T16A.png 40 0
+text ".... That's not true.
+text I'm not worried about you at all, Nii-san."
+text Akiha subtly avoids looking at me.
+text "Shiki-san, it's ready!"
+text I can hear Kohaku-san's voice from the dining room.
+text "Right, so I'm gonna get some grub."
+bgload BG_34A.jpg
+setimg AKI_T21.png 40 0
+text "Oh, Nii-san!
+text Please refrain from talking in such an unrefined manner!"
+text Akiha shoots me a sharp glare.
+text ".... Ah, you're acting normally again.
+text That's how you should be, Akiha.
+text You don't have to worry about me, so just relax."
+bgload BG_34A.jpg
+setimg AKI_T05A.png 40 0
+text "---You are so persistent!
+text I am not worried about you, Nii-san!"
+text Akiha quickly looks away.
+text Looking at her with a faint smile, I go to the dining room.
+bgload IMA_10.jpg
+bgload BG_48A.jpg
+bgload BG_48A.jpg
+setimg HIS_T01.png 62 0
+text "Please take care."
+text Saying the same thing as she always does, she continues to stare at me.
+text "Shiki-sama, what happened to you last night?"
+text ".... Nothing in particular.
+text I collapsed from anemia when it started to rain on me.
+text I'll be careful from now on."
+text "I am not placing any blame on you, Shiki-sama, but you look like you are pushing yourself this morning.
+text Please take care along the way."
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+text Hisui makes a deep bow and sees me off.
+text ~
+text .... Oh man.
+text I tried to act as normally as I could, and although I didn't give myself away to Akiha and Kohaku-san, it didn't seem to have worked on Hisui.
+text ".... I wonder if Hisui is worried about me."
+text It's hard to tell when she looks so disinterested all the time.
+text Today might be my last day of school anyway.
+text I'll try to spend it as I always do, so I won't have any regrets----
+bgload IMA_10.jpg
+music ~
+bgload BG_24A.jpg
+text No matter how I feel, the morning is always the same.
+text As I approach the school, I begin to catch sight of more and more students in uniform.
+text It's Saturday, right before the day off.
+text My footsteps falter as I think about how this may be my last school day ever.
+text ~
+text But still, as calmly as I can, I walk along the road that has become so familiar to me over the last two years.
+text It's only a little way to the school once I pass this intersection.
+text The light turns red, and I stop in front of the crosswalk.
+text ~
+text The school fence is on the other side of it.
+text Since it's a school path, the footpath is protected by a guardrail.
+text Even now, the students in front of me are heading towards the school gate.
+text There's no one but students from our school on the other side at this time of day.
+text .... There should be no one but the students.
+text But between the cars rushing by, I feel like I catch a glimpse of someone in white.
+bgload event/ARK_E02.jpg
+text "-----Wha...."
+text ~
+text She is there.
+text ~
+text Dressed in white, with golden hair down to her shoulders.
+text Long, slender brows and red eyes.
+text I've seen her only once before, but there's no way I could mistake her for someone else.
+text "------"
+text But that's impossible.
+text I killed her myself yesterday, cutting her into pieces.
+text The light turns green.
+text The students around me walk towards the other side.
+text I'm the only one amongst them who stands there, stunned.
+text She sits on the guardrail, her legs swinging idly.
+text As if she is waiting for someone.
+text I can't tell how long she's been waiting, but her expression isn't a grim one.
+text ~
+text ---Who is she waiting for?
+text ~
+text She fidgets restlessly, as if she were waiting for her lover.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I have a bad feeling about this.
+text "Ah-----"
+text The girl in white looks over in my direction.
+text It's probably nothing more than a coincidence.
+text ~
+text She's just a stranger who looks like her.
+text She must be waiting for someone else.
+text If not, then this moment must surely be a bad dream, too.
+text After all, I have completely and utterly killed her with my own hands----
+text But she's looking this way and smiling.
+text Looking very satisfied at having found the person who killed her, her smile seems to say, "you've finally come----"
+bgload BG_24A.jpg
+text Giving a familiar aace and a smile, she hops off the guardrail.
+text Fluttering her hair, she heads towards me.
+text "-------Don't come."
+text This.. is a bad dream.
+text The light turns red.
+text "-------Don't come near me."
+text She doesn't even look like she cares, walking straight across the street while the cars pass by.
+text ~
+text There's only a few meters between us.
+text ".... I'm telling you not to come----!!!"
+text The reality before my eyes does not change even when I scream out.
+text Screaming in a voice even I don't understand, I run from the girl in white.
+bgload BG_23A.jpg
+sound SE_02.aac -1
+text I run.
+text I run with all my strength.
+text With no regard to embarrassment or shame, I blast through the passersby, running full speed across the asphalt.
+bgload IMA_11.jpg
+text ~
+text *huff* *huff* *huff* *huff*
+text ~
+text My breathing is wild, and my heart screams out.
+text But still, I run.
+text I feel like I'm going to go crazy if I don't.
+text I look behind me.
+text The girl in white is walking towards me.
+text She's definitely following me.
+text The girl I've killed is chasing me.
+text That's more than enough reason for me to run.
+bgload BG_25A.jpg
+text *huff* *huff* *huff* *huff*
+text ~
+text My heart feels like it's about to explode, but I ignore it and keep running.
+text When I look back, the girl is still there.
+text With those light footsteps, she follows me as I run away.
+text ~
+text *huff* *huff* *huff* *huff*
+text ~
+text My head droops down.
+text My arms feel heavy.
+text My legs feel like they're going to tear off.
+text But despite that,
+text I'm running with all my strength, and yet, I can't get away from someone just walking after me--!
+bgload IMA_10.jpg
+bgload BG_30A.jpg
+text *huff* *huff* *huff* *huff*
+text ~
+text My breathing is out of control.
+text I think I've already run several kilometers.
+text But even so, when I look back, she's always there, walking towards me.
+text Naturally, like she's taking a stroll, she follows right behind me.
+text *huff* *huff* ".... Haha, hahaha!"
+text ~
+text It's not funny, but I begin to laugh.
+text ~
+text "Haha, hahaha, ahahahahahaha!"
+text ~
+text I can't stop laughing.
+text But even so, I run.
+text My body complains that I'll die if I run any more, but I keep running.
+text The reason is simple.
+text If she catches me, she'll kill me for sure.
+text I ask myself what I base that on, trying to shake it off as mere imagination.
+text But even as I try to console myself, I am the one who knows best it's true.
+text ~
+text There's no reason, no basis, no evidence.
+text I already know that if she catches up to me, I will be killed-----
+bgload BG_31A.jpg
+sound SE_05.aac 1
+text "Ah!
+text ---"
+text Pathetically, I collapse to the ground.
+text I fall forwards, not because I tripped, but because I simply can't move my body a single step further.
+text "Guh---ha, aah."
+text Lying there, collapsed, I somehow manage to crawl my way to the wall.
+text "----"
+text I try to pull myself up against the wall, but it's no good.
+text My knees lose their strength as I try to rise, and I collapse back down.
+text My body won't move anymore.
+text ~
+text *pant* *pant* *pant*
+text ~
+text I look up as I breathe.
+text ----It hurts.
+text I don't have enough oxygen.
+text I can't think properly because of it.
+text I can't even tell what I'm doing anymore.
+text I don't know why I'm doing this.
+text Why?
+text Why?
+text I don't even know why the girl I've killed is alive.
+text Unmistakably, I've utterly and completely killed her in the most final way imaginable.
+text So why?
+text How can she be waiting for me in front of my school, smiling---?
+text ".... I'm sure I killed her."
+text ~
+text ---That's right.
+text I'm sure I killed her.
+text I'm sure I killed her.
+text I'm sure I killed her.
+text I'M SURE I KILLED HER, SO
+text ~
+text Why why why why why why why why why why why why why why why why why why why why why why why why why why why why------!?
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+sound ~
+text "Oh?
+text Is the chase over already?"
+text With light footsteps, she comes into the alley, shrugging her shoulders in disappointment.
+text "Hello.
+text You really gave me some trouble yesterday."
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+music 09.mp3
+text With a warm smile, she comes into the alley.
+text ----I've got to run away.
+text ~
+text So thinking, I retreat, only to hit my head against a concrete wall.
+text ~
+text "The chase is already over, right?
+text This is a dead end, after all.
+text There's no need to worry about anyone coming along or interfering."
+text She smiles, looking very happy.
+bgload BG_31A.jpg
+text Panicking, I look around at my surroundings.
+text A desolate alley.
+text I'm disgusted at how stupid I am.
+text To run away here is like asking her to kill me.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "It's been a long time.
+text Eighteen hours since then, I finally found you."
+text She takes another step into the alley.
+text ~
+text "Y-you----!"
+text "What?"
+text "I definitely----"
+text "Yes.
+text I'm the girl you killed yesterday.
+text I'm glad you remember."
+text "Th---"
+text That's got to be a lie.
+text There's no way that can happen..!
+text "Don't be ridiculous!
+text Dead people can't be alive!"
+text "That's true, but there's no need for you to be so surprised.
+text I just revived, that's all."
+text With that curt response, she makes another footstep, the sound reaching my ears.
+text ~
+text The distance between us is gradually decreasing.
+text ".... Re.. vived?"
+text Stunned, I repeat her phrase back to her.
+text Revived.. you mean some doctor saved her with some surgery..?
+text "---Don't be stupid!
+text There's no way any human could revive from being cut apart like that---!"
+text "Yeah.
+text Then again, I'm not human."
+text "-----Huh?"
+text Her words are so simple there's no way I could have misinterpreted them.
+text ~
+text I'm not human.
+text ~
+text That's what the girl in front of me said.
+text ".... You're not human..?"
+bgload BG_31A.jpg
+setimg ARK_T02.png 36 0
+text "Geez, isn't that obvious?
+text Do you think there's a human being out there who can revive after being cut up into pieces?"
+bgload BG_31A.jpg
+text "-------"
+text There's no way a human like that could exist.
+text Something like that is just a monster who looks human.
+text ~
+text Something that revives even when killed.
+text Something that death is irrelevant to.
+text Something that quickly returns to normal and starts moving even after being cut to pieces isn't something you can call human.
+text "No.. way."
+text That seems to be the girl right before my eyes.
+text I try to laugh, but my throat is so dry, I can't.
+text ".... What the hell is that?"
+text It's not exactly a funny story.
+text Besides, there's too many things in this story that aren't funny.
+text Because definitely..
+text If she's not human, it explains why she's alive even after I've killed her.
+text ~
+text ---I start to calm down.
+text ~
+text This is a situation where I've got to observe everything and think it over.
+text ".... You said you're not human.
+text So what are you?"
+text "Me?
+text I'm called a vampire.
+text To put it in your terms, I'm a monster who lives off human blood."
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text .... That's good.
+text "Vampire" is at least something I can easily understand.
+text "I see.
+text You're a vampire---"
+text She smiles in satisfaction to indicate her assent.
+text .... What a crazy reply.
+text I've heard that vampires can't walk around during daytime, but I guess that's a trivial matter right now.
+text ".... So, what does this monster want from me?"
+text For some reason, she recoils as if surprised.
+bgload BG_31A.jpg
+setimg ARK_T12.png 36 0
+text After a moment, she puts her hands on her hips and looks at me, irritated.
+bgload BG_31A.jpg
+setimg ARK_T16.png 36 0
+text "Have you forgotten what you did to me yesterday?
+text Even though you didn't know me, you cut me apart the moment we met.
+text You've got to be pretty used to this to ask me what I want with you now."
+text She looks more disgusted than angry.
+text But right now, that's how I feel, too.
+text Because someone I've killed is coming to complain to me why I killed her.
+bgload BG_31A.jpg
+setimg ARK_T04.png 36 0
+text "Hey!
+text Are you listening, murderer?"
+text ".... Yeah, I'm listening.
+text Sorry, could you shut up for just a minute?
+text I'm reflecting on how unlucky this is, even for me."
+bgload BG_31A.jpg
+text ~
+text ---Sheesh.
+text I have the worst luck.
+text There was a girl I wanted to kill for no reason, and I killed her on pure impulse.
+text ~
+text I agonized over it in deep despair.. and even though I firmly decided to atone for my sins, the one I killed appears out of nowhere and says she isn't even human.
+setvar flg2 + 1
+jump s75.scr

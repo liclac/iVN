@@ -1,0 +1,21 @@
+bgload BG_32A.jpg
+text "How the heck am I supposed to know?
+text You're a vampire, so I bet you think a lot differently than we do."
+bgload BG_32A.jpg
+setimg ARK_T16.png 36 0
+text "Hey....!
+text What do you mean!?
+text My thought processes are basically the same as a human's, so there's only a little difference!"
+text "But still different, right?
+text Well, leaving that aside, it's impossible to understand another's feelings.
+text I'm not too sure about my own emotions, so it's impossible for me to understand a vampire's train of thought.
+bgload BG_32A.jpg
+setimg ARK_T04.png 36 0
+text "Yeah!
+text I don't understand you either; there's no need to understand!
+text Yeah, yeah, I'm just an idiot for asking you!"
+bgload BG_32A.jpg
+text Arcueid turns away with a "hmph!"
+text .... She's gotten a little angry, but at least she seems convinced.
+setvar ark_regard - 1
+jump s168.scr

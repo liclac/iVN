@@ -1,0 +1,97 @@
+bgload BG_31A.jpg
+music 09.mp3
+text "I---"
+text ~
+text .... For some reason, I can't decline.
+text I did kill her, after all.
+text It's my fault she's weak and has to ask others for help.
+text ~
+text ---It is my responsibility.
+text Besides, although I've only known her for a little while, she doesn't seem like a bad person.
+bgload BG_31A.jpg
+setimg ARK_T01B.png 36 0
+text "So how about it?
+text Can't a human like you cooperate with a vampire like me?"
+text "---Well, that would be the obvious answer, but.."
+bgload BG_31A.jpg
+setimg ARK_T17.png 36 0
+text "----"
+text Argh, don't look at me with those eyes!
+text .... Why is it?
+text It's making me overcome with guilt and be unable to refuse.
+text "But now that I've gotten myself into this mess, I won't be able to sleep at night if I just deny all responsibility."
+text ~
+text ---Man, I just know I'm going to regret this.
+text ".... So, yeah.
+text I think I could probably do it.
+text The enemy's the serial killer, right?
+text As a resident of this town, I'd probably be struck with some kind of divine punishment if I refused to help you."
+bgload BG_31A.jpg
+setimg ARK_T01B.png 36 0
+text "Eh--?
+text You mean---"
+text "I'm not going to be your shield, but if it's just being your lookout, I'll do it."
+text I feel disgusted at how stupid I am as soon as those words are out of my mouth.
+text ~
+text I feel disgusted, but----
+bgload BG_31A.jpg
+setimg ARK_T12.png 36 0
+text "------"
+text There is something about her deeply shocked expression that's----
+text ~
+text "Wow!
+text Are you serious!?
+text I'm really a vampire, you know!"
+text ".... Hey, listen.
+text Why are you saying all this now, after you've threatened me so much?"
+bgload BG_31A.jpg
+setimg ARK_T14.png 36 0
+text "Ah.. Hm.
+text That's true, but---"
+bgload BG_31A.jpg
+setimg ARK_T08.png 36 0
+text "---Well, whatever!
+text If you're going to cooperate with me, then I should be grateful!"
+text .... With a very happy expression on her face, she approaches me as I lie there on my rear, up against the wall.
+bgload BG_31A.jpg
+setimg ARK_T09.png 36 0
+text "Our contract is established."
+text She extends her hand towards me.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "I guess I can finally introduce myself now.
+text I'm Arcueid---hmm.. my last name is really long, so just Arcueid is fine for now.
+text I'm a True Ancestor type vampire.
+text How about you?"
+bgload BG_31A.jpg
+text ~
+text I heave a heavy sigh at her unprecedented introduction.
+text .... It's a sigh of resignation, evidence I've decided to accept this nonsensical situation.
+text "I'm Tohno Shiki.
+text Sadly, I'm just your everyday student.
+text .... I've said it before, but I'm really not going to be much use."
+text ~
+text Grasping her---Arcueid's hand, I stand up.
+text ~
+text She takes a long hard look at me, and then offers me her hand again.
+bgload BG_31A.jpg
+setimg ARK_T09.png 36 0
+text "Nice to meet you, Shiki.
+text I'll have you take responsibility for killing me."
+text Arcueid grins as she extends her left hand.
+bgload BG_31A.jpg
+text *sigh*
+text ~
+text .... There are all sorts of responsibilities in this world, but this is probably the first and last time someone takes responsibility by helping someone they've killed.
+text ~
+text ".... Damn it.. this is seriously messed up."
+text But there's nothing else I can do.
+text ~
+text I grudgingly extend my left hand and shake hands with the woman in white claiming to be a vampire.
+bgload IMA_10.jpg
+music ~
+setvar ark_regard + 1
+if flg2 >= 1
+    jump s79.scr
+fi
+jump s80.scr

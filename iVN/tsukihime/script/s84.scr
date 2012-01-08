@@ -1,0 +1,81 @@
+bgload BG_19B.jpg
+text "------"
+text ~
+text I still want to continue living in the proper, respectable world.
+text .... I do feel responsible for killing Arcueid.
+text But, I think there's something wrong about being forced to do something I can't do.
+text .... But again, Arcueid is asleep.
+text She's trusting me, someone who's killed her once already, and sleeping peacefully.
+text "...... Damn it......!"
+text But even so.. I can't do it.
+text I quietly start to walk.
+text .... Turning my back to Arcueid, sleeping with complete faith in me, I leave the hotel room.
+bgload IMA_10.jpg
+bgload BG_20A.jpg
+text .... The corridor is silent.
+text We're on the eleventh floor, the top floor in the hotel.
+text Since she rented out the whole floor, there are no other guests here.
+text ~
+text "-------"
+text I still feel a tinge of indecisiveness.
+text But, I shake it off and press the elevator button.
+bgload IMA_10.jpg
+music 01.mp3
+bgload BG_25A.jpg
+text Taking the train from the hotel, I return to town.
+text ~
+text .... It's just past noon.
+text School is about to finish, so I think it's probably okay for me to head back to the mansion.
+text "........"
+text All the same, I don't feel like going back to the mansion.
+text ~
+text I decide to head to the park to cool my head for a bit.
+bgload IMA_10.jpg
+bgload BG_28A.jpg
+text *sigh*
+text Sitting down on the bench, I vacantly stare up into the sky.
+text The sky is still cloudy, much like the scenery within my own heart.
+bgload IMA_06.jpg
+text .... I wonder if she's still sleeping, believing in me?
+text I've killed her once, and yet she said she would forgive me.
+text She had forgiven me---and yet.. what am I doing here?
+text Last night.
+text After I killed Arcueid, I swore to myself that I would atone for it no matter what.
+text Was that an oath I could break when my life is in danger?
+text Was that all it was?
+text "...... Kuh!"
+text But I do want to live.
+text That is a problem that I can't ignore as long as I'm alive.
+text And it's not something I can easily dismiss as a moment of passion and forget about it.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---That power is yours.
+text But that is the very reason why you must never forget.
+text "---"
+text I recall those precious words from long, long ago.
+text She.. Sensei.. what did she say to me?
+text "......"
+text There's still time.
+text The sun hasn't set yet.
+text If I can return to the hotel before the sun sets, I'll probably still make it in time.
+text "Damn it."
+text I can't throw away my doubts.
+text In the end, I----
+music ~
+text ~
+setvar ark_regard - 1
+if flg3 >= 1
+    jump s86.scr
+fi
+choice I think I'll go back to the mansion.|I think I'll go back to the hotel.
+if selected == 1
+    jump s86.scr
+fi
+if selected == 2
+    jump s87.scr
+fi
+

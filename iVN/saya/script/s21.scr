@@ -1,0 +1,47 @@
+bgload bo07ni0.jpg
+
+text ~
+text A broken down gatepost suddenly appears in the Accord's headlights like a ghost rising from the darkness. 
+text It looks like this is the final stop.
+sound 101_1.aac 1
+
+text ~
+text Kouji rolls up to the gate and turns off the engine, giving himself to the silence of the forest.
+
+sound kouji03.aac 1
+
+text ~
+text His cell phone starts ringing almost immediately. He doesn't need to check who it's from, of course.
+
+sound 57.aac 1
+
+sound voice/40/000102.aac 1
+text "......I'm here."
+sound voice/40/000200.aac 1
+text "Yeah, I heard you. Welcome to my new home."
+text ~
+text Fuminori is nearby, close enough to hear the sound of the Accord's engine. A shiver of excitement shoots up Kouji's spine.
+text ~
+sound voice/40/000300.aac 1
+text "Come inside. Yoh is waiting."
+
+sound 62.aac 1
+
+text ~
+text Fuminori hangs up without another word.
+
+if badend == 1
+	text ~
+	sound 99.aac 1
+	text After grabbing his new maglite from the glove compartment and checking that his revolver is still in his pocket, Kouji opens the door and gets out of the car.
+	jump s21a.scr
+fi
+
+text ~
+sound 99.aac 1
+text After grabbing his new maglite from the glove compartment and checking that the revolver is still in his pocket, Kouji opens the door--making sure to pop the trunk at exactly the same time. 
+text Ryouko shouldn't need any more explanation than that.
+text ~
+sound 99.aac 1
+text Realizing that the interior roof light will stay on and broadcast that the door and trunk aren't closed, Kouji quickly unscrews the bulb, then gets out of the car and deliberately slams the driver's side door hard.
+jump s21a.scr

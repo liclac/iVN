@@ -1,0 +1,312 @@
+bgload IMA_11.jpg
+text I feel the morning sunlight.
+text I keep my eyes closed as I try to fall asleep again, but the gentle sunlight keeps urging me to open my eyes.
+text ~
+text ---Slowly, I start to awaken.
+text A quiet atmosphere.
+text The air is comfortably cold, and yet it feels gentle.
+text I guess the weather will be great today.
+text ~
+text ---Then, I should get up and go to school.
+text ~
+text That's right, I have to go to school.
+text The past three days, my life was in chaos and it made me forget I was a student.
+bgload BG_40E.jpg
+music 02.mp3
+text "...."
+text I wake up.
+text I'm lying on my bed, and my glasses are on the bedside.
+text I put on my glasses and look around.
+bgload BG_40A.jpg
+text The sunlight streams so strongly through the window, I almost expect to hear it pouring through.
+text "----"
+text I take a quiet breath.
+text I fill my lungs with fresh air, and it feels like my chest is purified.
+text I hear the clock ticking.
+text Small birds chirp in the woods outside.
+text I stay on my warm bed, aimlessly feeling the relaxed passage of time.
+text ~
+text -----Ahh, I'm back.
+text ~
+text Even though there's nothing special about this morning,
+text Right now----I feel like there's something almost holy about it.
+text "----Thank goodness."
+text It really is good.
+text Not the fact that I'm alive, nor that I was able to do something about that black vampire.
+text But that even though I was in such a world, I was able to return to my normal days and feel happy about this morning.
+text ~
+text ----And then.
+text ~
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text "Uwaaaa!"
+text I jump up in my bed.
+text Now that I look, Hisui is standing quietly at the side of my bed.
+text "Hi-HiHi-Hisui---"
+text ".... Please excuse me, Shiki-sama, but since you did not notice, I spoke."
+text "Ah---well, I mean, I'm sorry, too."
+text Hisui respectfully bows to me.
+text ~
+text ---Sh-she surprised me.
+text My heart is still pounding rapidly.
+text "---Huh?
+text But it's still before seven o'clock, Hisui."
+text "Yes.
+text It is a bit earlier than your usual waking time, Shiki-sama."
+text "Well, yes---then why are you here, Hisui?"
+text "I came to wake you up.
+text Akiha-sama wants to know what have you been doing these last two days so she wanted me to bring you no matter what."
+text "----Ah."
+text .... I forgot.
+text Come to think of it, I skipped school last Saturday and was with Arcueid through all of Sunday.
+text ".... Don't tell me, Akiha's angry..?"
+text "I do not know.
+text Please confirm for yourself, Shiki-sama."
+text ~
+text ---Hisui's voice sounds very cold.
+text ~
+text ".... Wait a minute.
+text Before that, why am I sleeping in my room....?"
+text "Shiki-sama, you returned around two o'clock in the morning.
+text Nee-san found you sleeping in the doorway and carried you up to your room."
+bgload BG_40A.jpg
+text "Wha------"
+text .... My mouth hangs open.
+text That's bad----Not contacting anyone for two days, returning in the middle of the night, and sleeping by the doorway.
+text I'm acting like a drunk!
+text ~
+text "----That woman----treating me like some sort of cat----"
+text Arcueid's face flashes in my mind.
+text .... But, maybe I do have to be thankful for her carrying me as far as the entrance.
+text "---Alright.
+text I'll head down immediately.
+text Umm.. and, if possible, I'd be happy if you tried to calm her down as much as possible."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "----I refuse."
+text She answers.
+text .... Maybe Hisui might be also angry at me.
+bgload BG_40A.jpg
+text "---"
+text Ugh, one problem after another?
+text The owner of this mansion is Akiha, so does this mean that if Akiha's angry, no one is there to defend me?
+text ~
+text Well, time to get up.
+text I can't do anything staying in bed.
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+text "Ts......!"
+text O----ow.
+text As soon as I stand, pain shoots throughout my entire body.
+text ~
+text "----Last night's--wounds?"
+text .... Oh yeah.
+text If there's anything to be surprised about, it's the fact I'm still alive.
+text Even though I was that wounded and bloody, I still managed to wake up normally.
+text It just isn't natural.
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama, those are----"
+text .... That's rare.
+text Hisui widens her eyes and looks at me.
+text "What, is there something wro----"
+text I look down at my body.
+text And----
+text ~
+text "Wha, what is this....!?"
+text A pattern of red spots covers my pajamas everywhere.
+text Of course this design wasn't ever here; it's my blood soaking through everywhere.
+text "------"
+text Hisui suppresses her words.
+text --I'm thankful.
+text It lets me calm down.
+text .... The reason for the bleeding is clear.
+text But since I can't tell her why, I have to lie to make her not worry.
+text "Shiki-sama, your body----"
+text ".... I'm fine, nothing hurts.
+text See, didn't I come back late at night?
+text Truth is, I was in a fight, and that's why I came home late.
+text These wounds are from that fight, and they're just scratches, so don't worry about them."
+text "------"
+text Hisui's eyes implore me, saying, "Please do not tell lies."
+text But from her standpoint, she probably can't ask me any further.
+text .... I feel sorry, but I'll have to stick with my lie.
+text "Um, so could you please not tell Akiha about this?
+text She would get really mad if she heard about me getting in fights."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "----Yes, I understand.
+text Definitely, Akiha-sama will not find out."
+text Hisui nods.
+text "Thanks.
+text Ah, I have another request.
+text Do you have any disinfectant?
+text I have a lot of scrapes all over my body so I want to take care of them."
+bgload BG_40A.jpg
+setimg HIS_T05.png 62 0
+text "Ah----Yes, I will bring some right away."
+bgload BG_40A.jpg
+text "....?"
+text What is it?
+text She looks really uncomfortable all of a sudden.
+text In any case, I'm glad she went to get me some disinfectant.
+text Once she brings it here, I can take care of it by myself.
+text It's only slight pain, so anything that hides the blood is good.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+bgload BG_40A.jpg
+setimg KOHA_T02.png 52 0
+text "Thanks for waiting~"
+text The one who opens the door and walks in isn't Hisui, but Kohaku-san.
+text In her hand, she carries a box with a red cross on it.
+text "Huh, Kohaku-san----?"
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "Yes, I heard the situation from Hisui-chan.
+text Shiki-san, you went out and got in a fight?"
+text "Ah.... no, not really, I----"
+text I can't come up with any other explanation.
+bgload BG_40A.jpg
+setimg KOHA_T04.png 52 0
+text "Geez, you shouldn't be doing those things.
+text It's okay to be naughty, but you shouldn't be violent.
+text It's just painful for the one doing it and the one receiving it."
+text Painful for the one hitting and the one getting hit, huh.
+text Kohaku-san's words hit me pretty heavily.
+text ~
+text ".... Yeah.
+text That's.. right.
+text Hitting.. is only painful."
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "Isn't it?
+text I am disappointed you have those wounds.
+text No matter what the situation was.. I will be disappointed in you if you keep on doing these kinds of things, Shiki-san."
+text Her words penetrate sharply into my chest.
+text ~
+text ----Deep inside my heart, I want to apologize.
+text ~
+text Sorry, Kohaku-san.
+text I probably----did numerous things to make her disappointed in me.
+text "----Yeah, I'm an idiot and I regret it.
+text I won't ever do it again."
+text "As long as you understand, then that is fine.
+text I'm going to examine your wounds, so please take off your clothes."
+bgload BG_40A.jpg
+text "----Eh?"
+text Kohaku-san pads over and grabs my shirt.
+text She's telling me to get naked here.
+text "W-Wait!
+text You don't have to go that far.
+text I just wanted to put a little disinfectant on a few scrapes, that's all!"
+bgload BG_40A.jpg
+setimg KOHA_T04.png 52 0
+text "What are you saying?
+text Even if you say you only have a few scratches, they don't look that minor."
+text "No, I'm fine.
+text I can do it by myself."
+text "That won't do.
+text The ones on your back----"
+text Seeing the wounds on my back, Kohaku-san gasps.
+bgload BG_40A.jpg
+setimg KOHA_T02.png 52 0
+text "----How terrible.
+text Did you get into a fight with a Doberman, Shiki-san?"
+text ".... Yeah.
+text Well, something like that."
+text "--------"
+text Kohaku-san sighs in amazement.
+text ~
+text "Geez, now I really can't let you handle it, Shiki-san.
+text Come on, please hurry up and take off your clothes.
+text With your clothing on, I can't take care of you!"
+text "No, I said I can do it myself!
+text They aren't a big deal, I don't need to be naked....!"
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "----I see.
+text You must be embarrassed, Shiki-san."
+text With a smile, she goes ahead and tries to remove my pajamas anyway.
+text ~
+text "I am already used to seeing your body, Shiki-san.
+text Please just take off your clothing."
+text ".... 'Used to', Kohaku-san?"
+text "I have already changed your clothing once so I know every detail of your body."
+text "W-W-Wha?"
+text "Let's go, we haven't much time.
+text If you take too long, Akiha-sama will notice."
+text ----Ugh.
+text I can't argue with that.
+text But, to get naked in front of Kohaku-san, it's....
+text ~
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text ".... I guess it can't be helped.
+text Then, I will only examine your upper body.
+text This way, there isn't anything to be embarrassed about, right?"
+text Even that's embarrassing, but I guess that's the best compromise.
+bgload BG_40A.jpg
+text "........ I guess so.
+text Then, please do."
+text I sit down on my bed and take off my shirt.
+text Kohaku-san expertly tends to my wounds.
+text She carefully tends the wounds on my arms, shoulders and back.
+text The disinfectant sinks into the wounds.
+text They sink in, but compared to my occasional dizziness or the pain from my old scar, it's nothing.
+text While applying the disinfectant,
+bgload BG_40A.jpg
+setimg KOHA_T05.png 52 0
+text "Wow, you really are a boy."
+bgload BG_40A.jpg
+text Kohaku-san says happily, so it probably helped me to put up with all the pain.
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "Now we have to stick on this compress patch.
+text It may rub off, so let's bandage it."
+text She puts a compress over my bruised chest and wraps a bandage around it.
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "All finished.
+text Are you sure you don't want me to do your legs?"
+text "Yeah, I can do the rest.
+text .... Thanks, Kohaku-san.
+text I know you're busy and all."
+text "No, no.
+text Please do not worry about it.
+text Then I'll be going back to the kitchen.
+text When you are finished, please come to the dining room, okay?"
+bgload BG_40A.jpg
+text Kohaku-san walks to the door.
+text "Ah, Kohaku-san."
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "Yes?"
+text "Um----sorry.
+text Like you said, fighting is just stupid.
+text It's just a big bother, and nothing good ever comes from it."
+text "------"
+text Kohaku-san looks at me in amazement and then suddenly starts to laugh happily.
+bgload BG_40A.jpg
+setimg KOHA_T05.png 52 0
+text "I understand.
+text I will let it go this time, okay?"
+bgload BG_40A.jpg
+text She happily says that and exits the room quietly.
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+text ---Alright, I'm here.
+text Now only a door separates me from the sitting room where Akiha awaits.
+text No matter what the circumstance was, there's no excuse for skipping school and not coming home for two days.
+text Now--
+text ~
+choice I can't explain the circumstances, so I'll at least apologize.|I can't explain the circumstances, so I'll somehow lie about it.|No, I should tell the truth.
+if selected == 1
+    jump s109.scr
+fi
+if selected == 2
+    jump s110.scr
+fi
+if selected == 3
+    jump s111.scr
+fi

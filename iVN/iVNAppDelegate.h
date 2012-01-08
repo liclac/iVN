@@ -7,9 +7,18 @@
 //
 
 #import <UIKit/UIKit.h>
+@class MainMenuViewController;
 
 @interface iVNAppDelegate : NSObject <UIApplicationDelegate>
+{
+	UIWindow *window;
+	UINavigationController *navigationController;
+	MainMenuViewController *mainMenuViewController;
+}
+
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
+@property (nonatomic, retain) IBOutlet UINavigationController *navigationController;
+@property (nonatomic, retain) IBOutlet MainMenuViewController *mainMenuViewController;
 
 @end

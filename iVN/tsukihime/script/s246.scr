@@ -1,0 +1,32 @@
+bgload BG_06A.jpg
+text "---I'll pass.
+text I'm going to buy some bread and eat by myself."
+text "Really?
+text Then I'll go ahead."
+bgload BG_06A.jpg
+text Arihiko goes off to the cafeteria.
+text ".... Well then."
+text I also get out of my chair and head over to the tea club room, where Senpai may be.
+bgload IMA_10.jpg
+music ~
+bgload BG_11A.jpg
+text .... I stand before the tea ceremony room.
+text Of course, I bought some food for myself before I came.
+text ~
+text Knock-knock.
+text ~
+text I tap on the door.
+text I hear some scuffling inside and sense a person on the other side.
+text "Yes, who is it?"
+text I can hear Senpai's voice through the door.
+text "It's me.
+text Senpai, would you like to eat lunch with me?"
+text .... There's no answer.
+text "Senpai, I said lunch."
+text ".... I'm not eating with you, Tohno-kun."
+text That voice doesn't sound happy at all.
+text I'm not sure what to do,
+if flg1 >= 1
+    jump s248.scr
+fi
+jump s247.scr

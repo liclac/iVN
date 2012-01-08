@@ -1,0 +1,51 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg HIS_T16.png 62 0
+text "I am deeply sorry.
+text Ciel-sensei is now on her lunch break.
+text Please wait until she returns."
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg HIS_T16.png 62 0
+text ~
+text "She's neglecting her duties and snacking on curry bread!"
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg HIS_T16.png 62 0
+setimg ARK_T31B.png 125 0
+text "Get over here, stupid Ciel!"
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg HIS_T01.png 62 0
+setimg ARK_T31B.png 125 0
+text "I feel the same way, but if she is not here, it cannot be helped.
+text You cannot do anything about someone not here, and it is just too miserable to just complain about how much Nee-san cannot clean or tidy things up.
+text Now then, we shall begin the customary correction corner."
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg HIS_T17.png 62 0
+setimg ARK_T31B.png 125 0
+text ".... Shiki-sama,
+text hiding things does not give good results.
+text If you learned from this experience, please trust Hisui next time.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg HIS_T01B.png 62 0
+setimg ARK_T31B.png 125 0
+text .... That is all.
+text I will now return to the mansion.
+text Please continue enjoying the main storyline."
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ARK_T30.png 61 0
+text "Nyaaa.... That woman, I smell another cat-like character...."
+bgload IMA_10.jpg
+music ~
+jump main.scr

@@ -1,0 +1,263 @@
+music ~
+bgload 000000.jpg
+delay 120
+music music/s04.mp3
+bgload bj01me0.jpg
+
+text ~
+text Driving was such a dangerous proposition for me that I hadn't gotten behind the wheel of a car since my accident last summer.
+text I can't see the roads as roads or the cars as cars, after all. 
+text Until it became necessary this morning, I'd completely given up on the idea of driving on public roads.
+text Now that I've had three months to get used to my condition, however, I can tell what the things I see are, such as which are cars and which are pedestrians.
+text Even though I can't see the red and green of the traffic lights, I can figure out what they mean, and I've learned how to tell when someone's turn signals or brake lights are flashing.
+text ~
+text I still can't read the street signs, of course. 
+text Nevertheless, I managed to make it safely to our destination with Saya and Yoh in the back seat.
+text After we decided to abandon our home, Saya was the one who came up with the idea for our new hideout. 
+text When she'd been living in Professor Ougai's house, she'd discovered an abandoned building on one of her late-night strolls.
+text ~
+
+bgload 000000.jpg
+delay 80
+bgload bg01me0.jpg
+
+text ~
+text In these hilly suburban residential areas that are still under development, it's not unusual to find thick, nearly untouched forests just off the beaten path. 
+text Saya's old "playground" is located in one such secluded area, unaffected by the flow of everyday life.
+text It used to be a privately operated sanatorium hidden among the silent trees. 
+text After the owners went bankrupt, it remained unsold and was eventually forgotten.
+text ~
+text After I left Saya and Yoh at the hideout, I returned to town to make some preparations. Now I'm finally back at our new refuge.
+
+bgload bg02me0.jpg
+
+text ~
+text I liked this ruin from the moment I first laid eyes on it. 
+text Mountains of construction materials and other large trash litter the modest front yard, forming a serviceable barricade. 
+text This place looks even less likely to receive unwanted attention than our house.
+text Since all humans appear as revolting monsters to me, places they've been tend to stink or seem covered in filthy slime. 
+text Empty ruins like these, utterly devoid of traces of human life, are the places I find the most restful..
+
+bgload bg03me0.jpg
+
+sound voice/37/000100.aac 1
+text "I'm back," I call out, letting them know that I'm not a stranger, then I go down into the basement where they're hiding.
+text ~
+
+bgload bg04me0.jpg
+setimg saya24.png 80 0
+
+sound voice/37/000201.aac 1
+text "Welcome back. Were you okay with the car?"
+text ~
+sound voice/37/000300.aac 1
+text "It was no problem at all. I've figured out how to tell which roads are one way. As long as I keep my speed down, there's nothing to worry about. So, how are things here?"
+
+bgload bg04me0.jpg
+setimg saya12.png 80 0
+
+sound voice/37/000401.aac 1
+text "I took a look around. As I thought, there's no sign that anyone's been here since then. This place is safe."
+sound voice/37/000500.aac 1
+text "I see. I hope it stays that way."
+text ~
+text I'm a little worried that this abandoned building could become a hangout for biker gangs or homeless people.
+
+bgload bg04me0.jpg
+setimg saya16.png 80 0
+
+sound voice/37/000601.aac 1
+text "It's probably because of all the trash piled in front. Most people won't get anywhere near that, don't you think?"
+sound voice/37/000700.aac 1
+text "Hmm......"
+text ~
+text It doesn't bother me at all - I rather like it, in fact. Well, I suppose that normal people wouldn't.
+
+bgload bg04me0.jpg
+setimg saya21.png 80 0
+
+sound voice/37/000801.aac 1
+text "So, how was your shopping? Did you find something good?"
+sound voice/37/000900.aac 1
+text "I sure did."
+
+sound 34.aac 1
+bgload cg/41.jpg
+
+text ~
+text I proudly unwrap the weapon I just bought from a camping goods store - a one meter long wood-chopping axe. 
+text I chose the biggest, sturdiest one I could find.
+text ~
+sound voice/37/001000.aac 1
+text "Knives with blades longer than fifteen centimeters are illegal, the sign said, but they were selling these right next to it. Pretty silly."
+text ~
+text I grip the axe with both hands, feeling its dependable weight, and swing it like a baseball bat.
+sound 66_1.aac 1
+text With deadly force, the steel blade sweeps through the air right where a person's neck would be.
+text Yoh, lying huddled on the floor, flinches in terror at the howl of the axe as it slices the air.
+text ~
+
+bgload bg04me0.jpg
+setimg saya06_1.png 80 0
+
+sound voice/37/001101.aac 1
+text "How sharp is it? Want to test it on Yoh?"
+sound voice/37/001200.aac 1
+text "No, that'd be a little......"
+text ~
+text I definitely wasn't expecting Saya to say anything so brutal.
+
+bgload bg04me0.jpg
+setimg saya12.png 80 0
+
+sound voice/37/001301.aac 1
+text "You don't need to worry. Yoh's new body can heal pretty easily from cuts and such."
+sound voice/37/001400.aac 1
+text "Even so, I'm sure it'll hurt."
+text ~
+
+bgload bg04me0.jpg
+setimg saya20_2.png 80 0
+
+sound voice/37/001501.aac 1
+text "Oh....... Yeah, I guess you're right," Saya replies, as though it had completely slipped her mind.
+
+bgload bg04me0.jpg
+setimg saya23.png 80 0
+
+sound voice/37/001601.aac 1
+text "But......" she continues, smiling bashfully at the oblivious Yoh. "Her voice when she's in pain is pretty adorable, you know?"
+sound voice/37/001700.aac 1
+text "Well...... I just wouldn't feel right cutting a human with an axe."
+
+bgload bg04me0.jpg
+setimg saya01.png 80 0
+
+sound voice/37/001801.aac 1
+text "Really? Then, what about Kouji-san?"
+sound voice/37/001900.aac 1
+text "That's simple--"
+text ~
+text It should be obvious, but I guess that Saya still doesn't understand.
+text ~
+sound voice/37/002000.aac 1
+text "--I don't see him as human, so I'll have no trouble chopping him up or crushing him to a pulp."
+text ~
+
+bgload bg04me0.jpg
+setimg saya17.png 80 0
+
+sound voice/37/002101.aac 1
+text "Hmm, that really makes a difference?"
+sound voice/37/002200.aac 1
+text "Yeah. Humans have a conscience, after all.
+sound voice/37/002200_2.aac 1
+text No matter how much you hate someone, you can't help but think twice about killing them. And that's how I'll win."
+
+bgload bg04me0.jpg
+setimg saya07.png 80 0
+
+sound voice/37/002301.aac 1
+text "......Really?"
+text ~
+text Saya seems awfully subdued. I guess she's concerned about what'll happen when I have it out with Kouji.
+text ~
+sound voice/37/002400.aac 1
+text "He's bigger and stronger, so I might not have much chance of beating him in a straight-up fight.
+sound voice/37/002400_2.aac 1
+text But, what's just 'slaying a monster' to me is 'murder' to him. This is big. He'll definitely hesitate at the last moment."
+
+bgload bg04me0.jpg
+setimg saya19.png 80 0
+
+sound voice/37/002501.aac 1
+text "I'm....... a little worried, you know," Saya says softly, staring at the floor with unusual gravity. "With that kind of psychological warfare, nothing is certain......."
+ 
+bgload bg04me0.jpg
+setimg saya25.png 80 0
+
+text ~
+text She raises her head and looks straight at me.
+text ~
+sound voice/37/002601.aac 1
+text "Hey, don't you think it'd be better if I hunt him?"
+text ~
+text I appreciate Saya's consideration. 
+text Even though it could be interpreted as her having no faith in me, she's still putting my safety above hers.
+text Nevertheless, I can't accept her heartfelt suggestion.
+text ~
+sound voice/37/002700.aac 1
+text "With your strength, you might be able to overpower a girl like Yoh, but I think it'd be hard for you to take down a guy."
+
+bgload bg04me0.jpg
+setimg saya14.png 80 0
+
+text ~
+text The bitter memory of Saya being raped by Suzumi is still fresh in my mind. 
+text Saya falls silent for a moment, seeming to understand what I'm thinking, but then comes right back to stubbornly press her case.
+ 
+bgload bg04me0.jpg
+setimg saya22.png 80 0
+
+sound voice/37/002801.aac 1
+text "My first surprise attack against that man went fine, though. Most humans go limp as soon as they see me, you know.
+sound voice/37/002801_2.aac 1
+text It was the same in the hospital. You were the only one who was able to talk to me."
+
+bgload bg04me0.jpg
+
+sound voice/37/002900.aac 1
+text "Hmm....... Well, I guess you have a point."
+text ~
+text I can't imagine it, personally, but I suppose it's possible that Saya's appearance is shocking enough to make someone lose their morale.
+text Suzumi was able to gain the advantage because he had the same condition as me, which let him see Saya as a cute girl.
+text ~
+text Fear doesn't necessarily make people weaker, however. 
+text Depending on the situation, it can even send someone into a berserk rage and make them harder to put down.
+text In other words, such a tactic would be the same "uncertain psychological warfare" that Saya's worried about.
+ 
+sound voice/37/003000.aac 1
+text "Alright, Saya, how about this--"
+text ~
+text When I tell Saya the new plan that just popped into my head, her gloomy expression instantly becomes a bright smile.
+
+setimg saya03.png 80 0
+
+sound voice/37/003101.aac 1
+text "That's perfect! You're so smart, Fuminori!"
+sound voice/37/003200.aac 1
+text "Not really......"
+text ~
+text It's not really a great plan, but I guess the fact that it lessens the risk for me is enough to excite her. 
+text She's so easy to please - but that's cute too.
+
+bgload bg04me0.jpg
+setimg saya21.png 80 0
+
+sound voice/37/003301.aac 1
+text "So, when's Kouji-san coming?"
+
+if badend == 1
+	sound voice/37/003500.aac 1
+	text "I got a call from him this morning. For now, I've sent him to an unrelated place. I'm thinking I should shake him up a little."
+
+	bgload bg04me0.jpg
+	setimg saya12.png 80 0
+
+	sound voice/37/003601.aac 1
+	text "It'd be best to take care of him after it's dark, don't you think?"
+	sound voice/37/003700.aac 1
+	text "Yeah. When the time is right, I'll lure him here and finish him. No one will notice anything if we do it here."
+	text ~
+	jump s19.scr
+fi
+
+sound voice/37/003400.aac 1
+text "I don't know. He'll call sooner or later, and then I'll lure him here and finish him."
+text ~
+text Kouji will definitely come. I know that he won't leave Saya and me alone.
+text ~
+text We could just keep running, now that we've started, but I want to eliminate Kouji as soon as possible.
+text Therefore, when he contacts me, I intend to meet with him unless it's an obvious trap.
+
+jump s19.scr

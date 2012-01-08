@@ -1,0 +1,228 @@
+text ~
+text The twenty years of memories that he has built up as Tonoh Kouji -- if they were precious and dear to him, he should never have come to this place.
+text The black flames of despair rise within him, consuming all other emotions. 
+text Unsatisfied, they keep burning, until their uncontrollable heat sets his blood to boiling.
+text Kouji recognizes that heat as anger. 
+text Right now, he is undeniably filled with hate and rage towards the person who poisoned him with the truth and tore his innocence out by the roots.
+text ~
+text And then Kouji, slave to hate, hears the breathing of someone sneaking up behind him.
+
+sound kouji04_3.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~
+text Kouji spins around, swinging his steel pipe with all the killing force he can muster.
+text His enemy hastily leaps back to avoid the strike, apparently not having expected his surprise attack to be foiled by Kouji's counter. 
+text Twisted shadows dance in the light of the maglite on the floor.
+
+sound 112.aac 1
+
+text ~
+text Readying his pipe for the next blow, Kouji faces off against his second attacker.
+text ~
+sound voice/40/002102.aac 1
+text "Sakisaka Fuminori......"
+text ~
+text Kouji never imagined that he would ever say his old friend's name with such hatred.
+
+setimg fumi04.png 50 0
+
+sound voice/40/002200.aac 1
+text "Hey, that swing just now....... You trying to kill me or something?"
+text ~
+text Even now, Fuminori is smiling, as though the huge axe in his hands is just some kind of joke.
+text ~
+sound voice/40/002300.aac 1
+text "Damn...... To be honest, I thought you'd hesitate a little more."
+
+bgload bg04ni0.jpg
+setimg kouji08_2.png 10 0
+
+text ~
+sound voice/40/002402.aac 1
+text "You thought I'd hesitate? Against you?"
+text ~
+text Kouji sneers too, unable to contain his contempt for Fuminori's ridiculous notion.
+
+sound voice/40/002502.aac 1
+
+text "How did you kill Oumi, you bastard? What did you do to Tsukuba? With all that you've done, you expect me to think twice about killing you?"
+text ~
+
+bgload bg04ni0.jpg
+setimg fumi03.png 50 0
+
+sound voice/40/002600.aac 1
+text "......That's my line, Kouji," Fuminori says in a low voice, looking sadly at the pile of meat that Kouji just beat to death.
+text ~
+sound voice/40/002700.aac 1
+text "How dare the likes of you do such a horrible thing to my Yoh...... You'll taste ten times her pain before I kill you. Prepare yourself."
+
+music ~
+sound 66_1.aac 1
+music music/s10.mp3
+bgload cg/49.jpg
+
+text ~
+text The blade of Fuminori's axe carves a murderous arc through the darkness, glittering menacingly in the faint light coming from the floor.
+
+sound 48_4.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/49.jpg
+
+text ~
+text Kouji raises his pipe to block Fuminori's brute force swing.
+text The shock of the heavy impact shoots down his arms, but his large frame allows him to push the axe back without losing any ground.
+
+sound 48_1.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/49.jpg
+
+text ~
+text The axe comes howling down on Kouji a second time, and then a third. 
+text Fuminori's weapon, designed for practical purposes, is significantly stronger and easier to use than the piece of pipe that Kouji just happened to find on the floor.
+
+sound 48_1.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/49.jpg
+
+text ~
+text With his hands full protecting himself from Fuminori's axe, Kouji is unable to find an opportunity to counterattack. 
+text Each strike he blocks sends chunks of rust flying from his pipe.
+text ~
+sound voice/40/002802.aac 1
+text "Son of a bitch!"
+
+sound 48_2.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/49.jpg
+
+text ~
+text Kouji blocks a crushing downward swing, then pushes back before Fuminori can pull his axe away, throwing him off balance.
+text Stumbling backward, Fuminori plants his feet to regain his balance.
+
+sound kouji01.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/49.jpg
+
+text ~
+text Taking advantage of his opponent's temporary immobility, Kouji delivers a punishing low kick to Fuminori's outer thigh.
+
+bgload bg04ni0.jpg
+
+sound voice/40/002900.aac 1
+text "Guh!"
+
+sound 66_2.aac 1
+
+text ~
+text Fuminori grunts and retreats, swinging his axe wildly to prevent Kouji from following up with another attack.
+text Kouji, however, does not press his advantage. He just stands where he is, calmly spearing Fuminori with his stare.
+
+setimg kouji10.png 10 0
+
+sound voice/40/003002.aac 1
+text "You haven't been in many fights, have you?"
+
+bgload cg/49.jpg
+
+sound voice/40/003100.aac 1
+text "Ohhh!"
+
+sound 48_3.aac 1
+
+text ~
+text Fuminori roars and comes in for another attack, but the damage to his right leg seems to be slowing his swing.
+text Easily blocking the axe with his pipe, Kouji waits for Fuminori to exhaust himself.
+text ~
+sound voice/40/003200.aac 1
+text "Die! Die!!"
+text ~
+text Howling crazily, Fuminori delivers blow after heavy blow. 
+text However, the battle has already become one where composure, not brute force, decides the victor.
+
+sound 66_1.aac 1
+bgload bg04ni0.jpg
+
+text ~
+text When Fuminori raises his axe high for yet another attack, Kouji sees that his movements have grown dull enough. 
+
+sound 48_5.aac 1
+
+text Seizing the opportunity, Kouji charges into Fuminori's range and grabs the haft of the axe with his left hand.
+
+sound voice/40/003300.aac 1
+text "!?"
+text ~
+text As Fuminori recoils in fear, Kouji brings his pipe crashing into his enemy's unprotected side.
+
+sound 113.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text He feels the crunch of ribs breaking.
+sound voice/40/003400.aac 1
+text "Gah......"
+
+setimg kouji07.png 10 0
+
+text ~
+text The pain drives Fuminori to his knees. 
+text Staring down at Fuminori's defenseless head, Kouji, surprised by his own lack of emotion, raises his pipe high to deliver the finishing blow.
+
+sound 95_6.aac 1
+
+text ~
+text --Which is when something wraps itself around his left ankle.
+
+bgload bg04ni0.jpg
+setimg kouji09.png 10 0
+
+text ~
+sound voice/40/003502.aac 1
+text "Wha......!?"
+
+sound 95_1.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~
+text The instant Kouji panics at the unexpected sensation, something soft, yet strong, winds itself around his right leg and drags him to the floor before he can resist.
+text He twists his body and tries to swing the steel pipe at the unseen enemy behind him, but his right hand, too, is seized by the same flexible force.
+text He wasn't able to feel it through his pants, but now his blood turns to ice at the cold, slimy sensation of the thing wrapped around his uncovered wrist.
+text That monster is still......
+text ~
+sound voice/40/003600.aac 1
+text "......That's it...... Saya," Fuminori says encouragingly. 
+text Even while kneeling on the floor, his face twisted with pain, he manages a terrible, victorious grin.
+text ~
+text Saya--
+text This thing is--
+text ~
+text Kouji struggles desperately, trying to free his limbs from the creature's horrifying grip.
+
+sound 05_6.aac 1
+
+text ~
+text But more and more tentacles swarm over his body like snakes, stealing his freedom of movement.
+text ~
+sound voice/40/003702.aac 1
+text "Uwah--uwahhhhh!"
+text ~
+text The horror has already driven Kouji half mad. Just imagining the appearance of the creature attacking him is enough to threaten his sanity.
+text His scream is suddenly cut off as a slimy appendage seizes his throat. 
+text This most deadly tentacle isn't just cutting off his breathing and circulation - it's trying to snap his neck, and it's squeezing tighter and tighter......
+
+if badend == 1
+	jump s22.scr
+fi
+jump s23.scr

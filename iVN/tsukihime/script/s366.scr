@@ -1,0 +1,20 @@
+bgload BG_33D.jpg
+text ----The east wing of the first floor, I think.
+bgload IMA_10.jpg
+bgload BG_34B.jpg
+text "............ Huh?"
+text ----What am I thinking?
+text All that's in the east wing of the first floor is the sitting room and the kitchen, not anyone's room.
+text "----East is east, but her room is on the second floor....!"
+text Cursing at myself, I dash upstairs.
+bgload IMA_10.jpg
+text .... I run up the stairs.
+text The heated air and sense of foreboding seem to stretch over the dark of night like glass.
+text ~
+text ----*pant*, *pant*, *pant*.
+text ~
+text Breathing heavily, I reach the top of the stairs and walk down the hallway.
+text .... My back hurts.
+text This terrible feeling in the air gets heavier as I draw near Akiha's room.
+setvar akiha_regard - 1
+jump s370.scr

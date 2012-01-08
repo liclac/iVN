@@ -1,0 +1,337 @@
+bgload IMA_10.jpg
+bgload BG_46C.jpg
+music 03.mp3
+text .... Let's see.. Kohaku-san's room is.. here, isn't it?
+text ~
+text Knock knock.
+text I knock on her door.
+text "Kohaku-san, are you there?"
+text "Yes, please hold on for a minute."
+text I can hear her cheerful voice from inside the room.
+text ~
+text I wait for about three minutes.
+text Kohaku-san opens the door and pokes her head out.
+bgload BG_46C.jpg
+setimg KOHA_T03B.png 52 0
+text "Oh, it's you, Shiki-sama.
+text What are you doing here at this time?"
+text "Uh.. well---I was wondering if you'd let me watch your TV.."
+text "Eh?"
+text Kohaku-san gives me a bewildered look.
+text "Ah.. well, there's no TV in this house, is there?
+text I've been living in a normal house up until now, so it's become a daily routine for me to watch TV after dinner.
+text I guess I can't calm down without watching it or something like that, so.."
+text .... The more I say it, the more I realize I'm doing something stupid.
+text There is something not right about barging into a lady's room demanding to watch her TV.
+text ~
+text Look, even Kohaku-san is just standing there, looking bewilder---wait, no she's not.
+text ~
+text "Ahaha, I guess you're right.
+text You've been living at the Arima household up until yesterday, after all.
+text You must think this mansion to be kind of depressing after moving here all of a sudden."
+text Kohaku-san gives a cheerful laugh.
+text "Eh, let's see.. Have you talked to Akiha-sama and Hisui-chan about this yet?"
+text "You mean about coming to your room, Kohaku-san?"
+text Kohaku-san nods.
+text "No, I haven't talked to anyone about it yet.
+text What about it?"
+text "No, no, it's nothing.
+text It's just that I would have to turn you away if you had already talked to them about it."
+text Smiling while she speaks, Kohaku-san looks up and down the hallway.
+text "Luckily for us, there isn't anyone else around.
+text Please hurry up and come in.
+text It'll be troublesome if we're caught."
+bgload IMA_10.jpg
+bgload BG_39.jpg
+text "Please, just sit anywhere.
+text I'll go make some tea."
+text "...."
+text Coughing to clear my throat, I take a seat.
+text There are all sorts of little things in Kohaku-san's room.
+text It might be thought of as a bit messy for a girl's room.
+text There aren't really many things you could call cute, and what she does have is a lot of things that don't look very useful.
+text .... Rather, it has an atmosphere of a room belonging to an orderly, scholarly person.
+text Buried in the miscellaneous objects, I find the TV.
+text On top of the table is the remote.. maybe Kohaku-san has been watching the TV until just now.
+bgload BG_39.jpg
+setimg KOHA_T02B.png 52 0
+text "Thanks for waiting.
+text Tea is fine for you, isn't it, Shiki-sama?"
+text "Ah, thank you.
+text Please don't mind me too much."
+text "Oh no, not at all.
+text I'm sorry I can't do much to treat you."
+text Kohaku-san says so, smiling warmly.
+bgload BG_39.jpg
+setimg KOHA_T03B.png 52 0
+text "So, the TV.
+text What do you watch at around this time, Shiki-sama?"
+text "I don't have any set programs in particular, but the news is a pretty basic one.
+text I like to hear new trends, and I like snob stories."
+text "Is that so?
+text You seem like a very laid-back person, so I thought you'd be reading after dinner or something."
+text "Ahaha, no, I don't have such refined interests.
+text I don't consider myself laid-back either, but maybe that's the impression I give with my glasses."
+bgload BG_39.jpg
+setimg KOHA_T12.png 52 0
+text "---Ah!
+text You wear glasses, Shiki-sama.
+text Akiha-sama didn't say anything about that at all, so I was quite surprised when I saw you at the door."
+text .... I see.
+text I haven't met Akiha since I started wearing these glasses.
+text "These glasses are just for show.
+text I guess you could say my eyes are bad, but I think my vision is better than that of most people.
+text It's not because I studied too much and went near-sighted or anything.. Ah, crap.
+text I had an intellectual image, but did I disappoint you?"
+bgload BG_39.jpg
+setimg KOHA_T15.png 52 0
+text "Not at all.
+text I enjoy watching TV more than reading, too.
+text I'm glad that you're an energetic person, just like I thought you were."
+text "Ah.. yeah, thanks."
+text I'm a little embarrassed.
+text Faced directly with Kohaku-san's carefree smile, I can't help but feel a little nervous.
+bgload BG_39.jpg
+setimg KOHA_T03B.png 52 0
+text "Ah, I'm sorry.
+text You came to watch the news, didn't you?"
+text Kohaku-san switches the TV on.
+text It's already nine o'clock.
+text The news, as it usually does, reports the day's events with a little exaggeration.
+text "Oh dear.
+text Looks like there's been another one of those serial murders."
+text Kohaku-san says to herself while sitting next to me, sounding not the least bit concerned.
+text ~
+text The news is running a special feature on the serial killings.
+text The serial murders, which began in the neighboring town, are now beginning to be concentrated within this town.
+text It's a pretty simple story.
+text Late at night, he attacks young girls indiscriminately, and in the end, he drains their blood.
+text It seems like last night's victim is the ninth one so far.
+text "I wonder what the police are doing about it?"
+text "Who knows?
+text It would seem pretty easy to catch a murderer who comes out at night, but maybe he's really careful so they can't trace him."
+text "You could be right.
+text The clues about murderers build up as they kill more people, so if they haven't caught him even after nine murders, he must be really carefully prepared for the killings."
+text "A careful killer, huh?
+text But aren't these killings spontaneous crimes?
+text It's quite strange to think of them as being carefully prepared."
+bgload BG_39.jpg
+setimg KOHA_T02B.png 52 0
+text "You're right.
+text If there's no evidence left at all, then maybe he's not a random killer at all.
+text I can only think that he's got it all planned out from the start for execution."
+text "Ah, I see.
+text But then what would be the point of killing those nine girls?
+text Are they friends of his?
+text Acquaintances?"
+text "Hmm.. probably not.
+text If there were connections like that, then I think the police would have realized it by now.
+text In the end, I suppose it's an incomprehensible case without motive or connections."
+text .... Kohaku-san says all of this disturbing stuff with a smile.
+text ~
+text It seems like she's not really worried about this case.
+text "These murders are happening right here in this town, Kohaku-san.
+text You're a young girl and all, so aren't you even a little scared?"
+text "I'll be fine, since the killer only appears late at night.
+text If I don't go out at night, I won't run into him."
+text Kohaku-san really is a clear thinker.
+text .... It is perhaps a bit of a raw explanation, but I suppose that's how a mere news story should be treated.
+bgload IMA_10.jpg
+bgload BG_46C.jpg
+text "Sorry for intruding on you.
+text I'll be counting on you again the next time I feel like watching TV."
+bgload BG_46C.jpg
+setimg KOHA_T15.png 52 0
+text "Sure, I'll be waiting."
+text Kohaku-san looks up and down the hallway.
+bgload BG_46C.jpg
+setimg KOHA_T12.png 52 0
+text "I'd like to escort you back to your room, but Hisui-chan is waiting there, so I'll have to say goodbye here."
+text "Okay.
+text Good night."
+bgload BG_46C.jpg
+text "...."
+text .... I had no idea bedtime at the mansion was at ten.
+text Apparently, there's some kind of unwritten rule here that one is not to be out of their room after ten.
+text "It's still so formal here, even with the old man gone."
+text Well, I guess it's only natural.
+text I'm also getting tired from my unfamiliarity with this mansion, so I obediently return to my room.
+bgload IMA_10.jpg
+music ~
+bgload BG_40C.jpg
+text "Ah---"
+text When I return to my room, my bed has been made.. Did Hisui do it while I was away?
+text "I'm glad she did, but it's really more than I deserve."
+text I scratch my cheek.
+text ~
+text ------Then.
+sound SE_04.aac 1
+text "Are you there, Shiki-sama?"
+text I can hear Hisui's voice along with a knock at the door.
+text "Yeah, I'm here.
+text Come in."
+bgload BG_40C.jpg
+setimg HIS_T16.png 62 0
+text "Excuse me."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+music 01.mp3
+text "Good evening.
+text Thanks for making my bed, Hisui."
+text Hisui quietly nods in acceptance.
+text ".... Urgh."
+text Just as I thought, I'm not used to this.
+text ".... Uh.. is there anything else you want to tell me?"
+text "No, nothing from me, but Akiha-sama has instructed me to answer any questions you may have."
+text ".... I see.
+text There are many things I want to ask, but I'll probably get to know them as I continue to live here...."
+text Yeah.
+text What I want to know right now before I sleep is---
+text "Is it true that the curfew here is seven?"
+text "Yes.
+text The main gate is locked at seven, and all the entrances to the mansion are to be locked at eight.
+text It is also a rule that one must try not to go walking around in the mansion after ten."
+text "Not even walking around in the mansion?
+text .... Well, I've got no complaint with that, but isn't that kind of harsh?
+text Akiha and I aren't children, so I don't think you have to go that far."
+text ".... Indeed.
+text It is a rule, however, so please abide by it.
+text You are aware of the recent disturbances at night, are you not, Shiki-sama?"
+text ~
+text .... Yeah, that vampire thing Arihiko was talking about.
+text Well, as long as something like that is happening, I guess it's better to be safe than sorry.
+text "What else.. Oh, do you mind if I ask an off-topic question?"
+text "Yes, what is it?"
+text "I'd like to know what kind of work you and Kohaku-san do around here."
+text "I am here to serve Shiki-sama's needs, and my sister Kohaku to serve Lady Akiha-sama.
+text In our spare time, we do the maintenance chores around the mansion.
+text Is there anything more you would like to know?"
+text ".... To serve.. So that's what it is after all."
+text My shoulders suddenly feel heavier.
+text It seemed completely natural to Akiha when she said it, but I'm nothing more than a normal high school student.
+text I have no interest in having a girl around my age serving me, at least not for now.
+text ".... By serving me, you mean you're a personal servant?"
+text "Yes.
+text Please do not hesitate to ask anything of me."
+text ".... Well, I get it.
+text Going by how Akiha was talking about you, it doesn't seem like I can dismiss you, so I'll just obediently let you serve me.."
+text "Is there anything in particular you would like?"
+text "Nothing in particular, but could you stop calling me 'Shiki-sama'?
+text To be honest, I get chills down my back when I hear it."
+text "But Shiki-sama, you are my master."
+text "That's what I'm saying I hate.
+text I've been living a normal life up until yesterday.
+text I have no desire to start living a life where a girl my age addresses me with '-sama'."
+text "I see." Hisui's response was less than enthusiastic.
+text "Just call me Shiki, and in exchange, I'll call you Hisui.
+text Let's do away with the formalities and be more casual with each other."
+text Still expressionless, Hisui lowers her eyebrows as if she's being troubled.
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text "But, you are my employer."
+text "It's not like I'm hiring you.
+text You're the one doing the things I can't, so you're the great one."
+text "I see." Hisui gives another unenthusiastic reply.
+text .... It looks like I won't be able to talk her into it in just one day.
+text "---Anyhow, that's how it is.
+text Don't be so formal towards me.
+text I'll be grateful if you'd tell that to your sister Kohaku-san, too."
+bgload BG_40C.jpg
+setimg HIS_T16.png 62 0
+text "Very well, as you say, Shiki-sama."
+text Expressionless, Hisui bows her head.
+text ~
+text She completely failed to understand.
+text ~
+text "I will be leaving now.
+text Please rest now for tonight."
+bgload BG_40C.jpg
+text Bowing, Hisui puts her hand on the doorknob.
+text ~
+text ---Oh, I forgot to ask something.
+text ~
+text "Ah, hold on for a second."
+text Running towards the door, I put my hand on Hisui's shoulder before she leaves.
+bgload IMA_11.jpg
+bgload BG_40C.jpg
+text In an instant---Hisui's arm pushes away my arm with incredible momentum.
+text With a 'whack!', she slaps my hand away and leaps back.
+bgload BG_40C.jpg
+setimg HIS_T10.png 62 0
+text "Eh---?"
+text It's so sudden, that's the only thing I can say.
+text Hisui is expressionless, but she glares at me fiercely.
+text "Eh.. Did I just do something wrong?"
+bgload BG_40C.jpg
+setimg HIS_T28.png 62 0
+text "Ah.."
+bgload BG_40C.jpg
+setimg HIS_T26.png 62 0
+text ".... I am very sorry.."
+text She sounds very nervous.
+text ".... I am not used to being touched.
+text Please forgive me."
+text Hisui's shoulders are faintly trembling.
+text I feel like I just did something really terrible.
+text "Ah.. Yeah, I'm sorry."
+text I apologize without thinking.
+text I don't understand why myself.
+text I just feel sorry for Hisui and I lower my head.
+bgload BG_40C.jpg
+setimg HIS_T04.png 62 0
+text "------"
+text Hisui says nothing.
+text I get the feeling her stare is calm again.
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text "---You have nothing to apologize for, Shiki-sama.
+text I am the one to blame."
+text "No, well, maybe, but I just.."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text I scratch my head.
+text Hisui stares at me, pausing only to blink for a second.
+text "Um.. What was it you wanted to ask me, Shiki-sama?"
+text That's right.
+text I stopped her because I wanted to ask her something.
+text "Oh, I wanted to ask about Akiha.
+text Doesn't she go to a boarding school?"
+text "That was only during middle school, Shiki-sama.
+text From this year onwards, Akiha-sama has special permission to attend school from home."
+text "Eh.. You mean she goes to school from here?"
+text "Yes, but it is uncommon for her to come home before dusk like today.
+text Akiha-sama has practice up until dinner, so she is always home before seven.
+text "Practice?---Practice what?"
+text "Today is Thursday, so she would have had violin practice."
+text "----Eh?"
+text "Usually, she is able to return before dinner on weekdays, so if you have anything to say to Akiha-sama, please let Nee-san know after dinner."
+bgload BG_40C.jpg
+text Hisui bows to say goodbye, and leaves the room.
+text "Violin practice.."
+text What on earth is that?
+text She's not some upper-class lady or anything, so why should she have to do something as bothersome as---
+text ~
+text ".... Oh wait, she is an upper-class lady."
+text ~
+text Yes.
+text Come to think of it, my sister, Tohno Akiha, is a natural born upper-class lady.
+text In my memories, she was always the obedient, ever-uneasy sister who'd always follow me around.
+text As a child, Akiha was always quiet, never having even the courage to express her own desires.
+text She was a frail girl who would always live in fear of a scolding from our father.
+text "---Yeah, people really do change after eight years."
+text ~
+text After eight years, I've become the me I am now.
+text Akiha has become the Akiha right now, too.
+text ---Eight years is a long time.
+text It's half of our lives up until now.
+text I was absent from this mansion during that vital period where a child becomes an adult.
+text ~
+text ".... I'm sorry, Akiha."
+text I think things would have been better if I had been with her during those eight years.
+text I unconsciously mumble an apology.
+bgload IMA_10.jpg
+music ~
+if flg6 >= 1
+    jump s46.scr
+fi
+jump s47.scr

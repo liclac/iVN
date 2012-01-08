@@ -1,0 +1,27 @@
+bgload BG_34A.jpg
+text "Oh, that's right.
+text What's happening with our mansion now, Akiha?"
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "What do you mean?
+text If you are talking about ownership of the mansion, I am inheriting it."
+text "No, not that.
+text The only people in the mansion right now are you, me, Kohaku-san, and Hisui, right?
+text I was wondering what the rooms are being used for, and so on."
+bgload BG_34A.jpg
+setimg AKI_T04A.png 40 0
+text "Nothing.
+text As a general rule, all the rooms except the ones we are using are locked.
+text Your room is at the back of the second floor of the west wing, and mine is in the east wing.
+text Hisui's room is right before the stairs on the west wing, second floor, and Kohaku's room is just before the west wing, first floor.
+text Father's room is next to Kohaku's room.
+text That's open for now, too."
+text Incidentally, the sitting room is the first right turn in from the lobby.
+text In Akiha's words, it would be something like "right before the lobby on the first floor of the east wing".
+text "The gaming room and the guest rooms next to the sitting room are closed, but I will open them if you decide to bring friends here.
+text The archives are.. well, there are some bad rumors going around about them, so currently they are off limits."
+bgload BG_34A.jpg
+text "I see.
+text Okay, got it."
+text I get a strange suspicious feeling about those "off limits archives", but for now, they have absolutely nothing to do with me.
+jump s73.scr

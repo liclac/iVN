@@ -1,0 +1,637 @@
+bgload BG_19D.jpg
+if ciel_regard > ark_regard
+    jump s91.scr
+fi
+text "------Alright."
+text ~
+text I've decided what to do from the very beginning.
+text Taking the knife out of my pocket, I walk up to the door.
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text "----Shiki?"
+text "I'm going to go check things out.
+text Don't leave this room until I come back."
+text I step out into the hallway, shaking off Arcueid's look that she wants to say something.
+bgload IMA_10.jpg
+bgload BG_20A.jpg
+text No one is in the hallway.
+text .... I couldn't hear from inside, but the hallway is noisy.
+text It's not that this floor is noisy.
+text Rather, the noise is coming from beneath my feet.
+text There is some kind of ruckus on the floor below, I can hear the noise of many people talking.
+text ~
+text I suppose the impact just woke the guests, and they are complaining to the hotel.
+text "...... Doesn't look strange so far."
+text I walk down the hallway.
+text ~
+text The noise from downstairs is like the sound of ocean aaces.
+text ~
+text Noisy--and yet so very solitary and inactive.
+text "------!"
+text My fingers gripping the knife feel numb.
+text A chill runs over the back of my neck.
+text There's something near my temple.
+text Pain emerges from the back of my eyes.
+text ~
+text Enduring it, I walk down the hallway.
+bgload IMA_10.jpg
+music ~
+bgload BG_20A.jpg
+sound SE_02.aac -1
+text "------"
+text It.. hurts.
+text My eyes.. hurt.
+text My head grows heavy, and I feel a drifting sensation, like I'm about to collapse right here.
+text Yeah, I know what this is.
+text Without a doubt, this is the feeling I get right before I collapse from anemia.
+text ~
+text "Ha--aahh."
+text ~
+text It hurts.
+text It hurts.
+text Unable to withstand it any longer, I remove my glasses.
+bgload BG_20B.jpg
+text I can see the elevator.
+text A long hallway.
+text It must be more than ten meters from here to the elevator.
+text ~
+text ----And then,
+text ~
+text With a "ding dong", the elevator comes up to the eleventh floor.
+bgload IMA_10.jpg
+text "------"
+text I can see the "lines" on the elevator door.
+text No, they are..
+text They're too dense--they look almost pitch black.
+text The door opens.
+text The small, steel box opens.
+text ~
+text Inside that box--
+text Crammed to the point of overflowing, is human flesh.
+bgload IMA_13B.jpg
+text Inside that steel box called an elevator.
+text The red meat of humans is ground and pushed in.
+text Inside, two black dogs are voraciously feasting away on something.
+text ~
+text "Wha------"
+text ~
+text I stop breathing.
+text Like my brain which just froze, my lungs stop as well.
+text I can't breathe.
+text But that isn't important.
+bgload IMA_13.jpg
+text My vision turns crimson.
+text With a bubbling sound, blood pours out of the elevator.
+text Amidst the ocean of blood, people, arms, feet, bones, brains, fingers, organs, and other parts.
+text ~
+text The two black dogs are the only form of life.
+bgload IMA_10.jpg
+text "------"
+text My very instincts refuse to take in this scene.
+text Down the hallway, two black dogs are picking at the human corpses.
+text If I listen carefully, I can still hear sounds coming from downstairs.
+text ~
+text If I listen carefully,
+text They are the sounds of gorging, the chewing of meat, cries for help, and the death screams of people which can't even be called words anymore.
+text .... What is this?
+text Though there is no way I can see it, before my eyes is the image of dozens of beasts eating the people in the hotel alive.
+text A man running down the hallway, trying to escape.
+text But the panther-like claws descending from the ceiling slice him open from his nose to the back of his head.
+text ~
+text ~
+text ~
+text A girl locking herself up in a room and crying.
+text But to the lions, a door is no stronger than paper, and within seconds, they demolish it into an unrecognizable shape.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Striving madly to be the first ones there, people dashing for the elevator.
+text But within it, the black dogs waiting inside decapitate them the instant the doors open.
+text At any rate, there is no exception.
+text Beneath my feet, within this huge box called the hotel..
+text is a scene from Hell I can feel down to my very bones.
+bgload BG_20B.jpg
+text "Guuuuh!"
+text I feel like throwing up.
+text But I can't do that.
+text If I just stand around and do that--I'll become a part of that red sea.
+text "Haah--ah.
+text Ha.
+text Ah.
+text Ha."
+text ~
+text I resume my breathing.
+text I grit my teeth hard.
+text ~
+text The dogs inside the elevator notice me.
+text All sounds from below have ceased.
+text ~
+text "...... Ha."
+text In other words,
+text there is no longer anyone alive.
+text Grrrrr....
+text ~
+text The two black dogs begin to run.
+text Of course, towards me, the last prey.
+text ~
+text "Ha----aahh."
+text ~
+text The black dog is coming for me.
+text On their bodies, I can see an infinite number of lines, and on their foreheads, the point of death.
+text ~
+text ----But even so.
+text ~
+text My paralyzed mind does not order my body to fight or run.
+bgload IMA_10.jpg
+text The first black dog leaps.
+text Its speed belies all human comparison.
+text It doesn't even take two seconds to cover the ten meters down the hallway.
+bgload IMA_10.jpg
+setimg KEMO_T02.png 0 0
+text They open their mouths.
+text Mouths filled with fangs so many times sharper than the knife I have, and they are aimed straight at my throat.
+text Accurate, and fast.
+text The instant I realize they are drawing upon me,
+text the fangs bite into my throat with a crunch.
+text ~
+text I die.
+bgload IMA_11.jpg
+text But that's not right.
+text I can't be killed by something like this and I refuse to die.
+text The deaths of others would not cause me to hesitate.
+text ~
+text ----A hot summer's day.
+text ~
+text It happened long ago, eight years ago.
+text I've seen something even more terrible----
+bgload BG_20B.jpg
+text Thrust.
+text ~
+text I thrust my knife into the forehead of the black dog biting into my neck.
+text My arm moved just before the black dog ripped through my throat.
+text It was done so perfectly, even for myself.
+text Like a machine whose sole function is to cut, I plunged the knife into the dog's forehead without any useless and wasted movement.
+text Because that is where the first dog's "point" was.
+text Normally, even if the brain is destroyed, the muscles try to execute the commands they have received from the brain.
+text The black dog would have probably ripped through my throat even if I had simply pierced its head.
+text ~
+text Well--normally, that would happen.
+text But the black dog is "dead".
+text Death is a complete stoppage.
+text At the point when I killed it, it lost every form of validity.
+text The first dog falls onto the ground.
+text In its place--The second dog is flying straight at my face.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg KEMO_T02.png 0 0
+text "------"
+text I thrust the knife right into its open mouth.
+text But, that was a mistake.
+text This dog's "point" is not on its face, but on its chest.
+text Stabbing him through the mouth will kill him immediately.
+text The knife pierces through the dog's mouth and into the back of his head.
+text Naturally, the hand holding the knife still remains in the dog's mouth.
+text ~
+text "------Ah."
+text ~
+text The black dog is still alive.
+text Its jaw shuts.
+text The joint between my arm and the hand holding the knife is bitten on, about to be ripped apart.
+text ~
+text Proper thought returns with the pain.
+bgload IMA_12.jpg
+text "A--ah--!"
+text ~
+text ---You have to be kidding me!
+text It--it's as if I'm just letting him chew through my arm by stabbing him in the mouth!
+text ~
+text "Why--you....!"
+text ~
+text I try to pull my arm out.
+text The dog's teeth are deep in my arm, it doesn't seem like I can pull it off.
+text More importantly--this black dog, despite having been pierced in the head, is still filled with life.
+text Even though I lift it after piercing its head, it shakes and lands on top of me.
+text "Guh..!"
+text I fall onto the floor.
+text I still can't pull my arm out.
+text The black dog, still pierced in the head, applies more power to its bite.
+text "------!"
+text M.. My arm is surely going to be torn off--!
+text I can't believe this.
+text No dog ought to be able to bite anything in that state..!
+text ".... Y-you..!"
+text I feel something wet.
+text I can see blood spilling from the black dog's mouth.
+text Is it the black dog's blood, leaking from its knife wound to the head?
+text Or is the blood coming from my arm, about to be torn off?
+text ~
+text ---To be honest..
+text My head is too messed up to be feeling the pain,
+text so it isn't a big deal which one it is.
+text "Let--go!"
+text I try to wrestle away from the black dog, but it is firmly attached to my arm.
+text I can't escape.
+text I can't run away.
+text If I want to escape--I have no choice but to "kill" it.
+text "----..!"
+text But how?
+text The hand it's biting off is the one holding the knife.
+text I'm on the ground, so even supposing I did pull my hand out, the very next instant the black dog's mouth will be free to bite through my throat----
+text "Ha----aaahhh."
+text ~
+text ----It's okay.
+text Calm down, Shiki.
+text First, you've got to examine the situation well, and then think calmly about it.
+text That's the kind of thinking you've always kept.
+text ~
+text In that case--I can do something..
+text For example, there's plenty of 'lines' on the back of its head.
+text And I can see the black 'point' on its chest.
+text The way to survive is awfully simple.
+text .... But I have my doubts about executing this plan.
+text No matter how savage and evil a creature it is..
+text To do something like kill a panting and gasping creature that's so alive, this close to me--it's something I'm hesitant to do.
+text ~
+text "Guh--!"
+text ~
+text The pressure on my arm increases.
+text My entire arm is shortly going to be ripped off at this rate.
+text But even so, I just can't seem to do something so cruel--
+bgload IMA_11B.jpg
+bgload IMA_12B.jpg
+text The red blood drips down onto my face.
+text Going down my forehead, it drips into my eyes.
+text ~
+text ---Crimson darkness soaks into the back of my eyes.
+text ~
+text "Re----d."
+text My consciousness sways, and then is gone.
+bgload IMA_11B.jpg
+bgload CMO_05.jpg
+text .... But even so, I can't bring myself to kill a living creature.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---What hypocrisy.
+text You've killed something much bigger than a mere dog.
+text .... Yes, that's right.
+text But that time was different.
+text I wasn't sane when it was Arcueid.
+text Even when I killed the other black dog, just a moment ago--that was unrelated to my will.
+text But right now, this is very much my own will.
+text .... Didn't Sensei say, Shiki?
+text Use this power according to your own will, and no one else's.
+text ~
+text That's why..
+text As myself, right now, I could never take a life for granted.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---That, too, is hypocrisy.
+text Because long ago, you..
+bgload CMO_06.jpg
+bgload CMO_05.jpg
+text "Ah------"
+text ~
+text .... That is a nightmare from my childhood.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---See, what are you waiting for?
+text ~
+text ~
+text ~
+text .... It was a hot summer's day.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Kill or be killed.
+text ~
+text ~
+text ~
+text ~
+text .... Before my eyes, the blood-soaked shadow of a boy.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---You've already..
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... Hot, hot, red blood on my hands.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Haven't you killed someone once before---!
+bgload CMO_06.jpg
+bgload IMA_13.jpg
+bgload CMO_05.jpg
+bgload CMO_06.jpg
+bgload IMA_13.jpg
+bgload IMA_11.jpg
+bgload BG_20B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "Aaaaaaaaaaaaah!!!!!"
+text I thrust.
+text I don't pull, but rather thrust deeper into the black dog's head.
+text I can hear its yelping right in front of me.
+text I think the black dog is crying out.
+text With my arm in its mouth, it could not properly cry, but it's crying anyway.
+text ~
+text I'm sure that's how much it must hurt.
+text I don't care.
+text I plunge the knife in deeper, along with my arm.
+text Without a sound, the blade of the knife punctures out the back of the black dog's head.
+text It's as if the dog has grown a horn.
+text ~
+text Having split the skull, I easily slash through its skin.
+text ~
+text Blood and brains spray out as the knife completely emerges from the back of the head.
+text ~
+text Also, the hand gripping the knife travels completely through.
+text *gasp* *pant* *pant*
+text But even so, the black dog is still alive.
+text Then there's only one thing I have to do.
+text I reach around with my other hand.
+text Peeling the knife from my blood-drenched fingers, I grip the knife with my free hand.
+text And just like that, I thrust the 'point' on the black dog's chest.
+sound SE_06.aac 1
+bgload IMA_12.jpg
+bgload BG_20B.jpg
+text *gasp* *pant*
+text And with that, the black dog dies.
+text The strength drains from its jaws, and I easily pull my arm back out.
+text ~
+text "Oh--it wasn't torn off at all."
+text I look at my blood-covered arm.
+text There are many teeth marks, but the flesh is almost free of wounds.
+text The blood must have been from the black dog when I impaled it through the head.
+text The pain from when I was being bitten was really quite trivial, but my fear must have amplified it many times over.
+text *gasp* *pant*
+text Lying there on the ground, I look up at the ceiling.
+bgload IMA_11B.jpg
+sound ~
+bgload BG_20B.jpg
+text My head hurts.
+text The world becomes a patchwork, and here and there, I can see the black points of death.
+text My body is freezing, but my mind is burning feverishly.
+text "--Kuh!"
+text Right beside me lay the corpses of the two black dogs.
+text One of my arms is covered in blood, the other clutches a red knife.
+text .... Also, there are a quite uncountable number of dead bodies downstairs.
+text ~
+text "----Ha, haha, hahaha."
+text ~
+text All I can do is laugh.
+text Because this isn't real.
+text There's no way this can be real.
+text At what point did I, with my eyes wide open, start seeing a nightmare----?
+text Ding dong.
+text ~
+text "Eh--?"
+text A terribly out-of-place cheerful sound rings out.
+text "Damn it, what's with this headache--?"
+text I stand up, enduring the razor-like pain in my head.
+text "Ele.. vator..?"
+text It seems the sound is the other elevator coming up.
+text The door opens.
+text Inside stands a man wearing a black coat.
+bgload BG_20B.jpg
+bgload BG_20B.jpg
+setimg NERO_T01A.png 13 0
+bgload BG_20B.jpg
+text The headache worsens.
+text "He's--"
+text Yes, I've seen him before.
+text I'm sure I've seen that man before.
+bgload BG_20B.jpg
+bgload BG_20B.jpg
+setimg NERO_T01A.png 13 0
+bgload BG_20B.jpg
+text "-------"
+text Silently, he walks towards me.
+text "You--!"
+text I ready my knife as I glare at him.
+text "-------"
+text But he doesn't react at all as he walks towards me.
+text It's as if he doesn't notice me at all.
+text The distance between us shrinks.
+text Just a little more---when there is barely one meter between us, and the man finally seems to notice me.
+bgload BG_20B.jpg
+setimg NERO_T03.png 13 0
+text Those bloodshot eyes.
+text The instant I see those eyes which no human should possess, I lose all freedom to move my body.
+text "I thought I killed everyone, but it seems like there's still someone left."
+text The man turns and looks at the corpses of the two black dogs.
+bgload BG_20B.jpg
+setimg NERO_T02A.png 13 0
+text "--You pieces of filth.
+text If you can't even take care of a scrap of meat, you're unworthy to be a part of my body."
+bgload BG_20B.jpg
+text The man voices his displeasure as he raises his hand.
+text His coat lifts like a mantle.
+text ~
+text ---Broken.
+text ~
+text With a splash, the black dogs' remains liquify and disappear into the man's coat.
+text "Ah----"
+text I can't even scream.
+text Below the man's coat is pure darkness, without even the traces of an outline.
+text All that exists there is a mud-like darkness.
+text ~
+text "Th----"
+text This is dangerous.
+text This guy is just too dangerous----
+text My instincts sound the alarm wildly in my head, but I can't even lift a finger.
+text The man in the black coat approaches me.
+text "------!"
+text It's not good if I just stay here.
+text The unstopping headache grows to an unbearable level, telling me this place is dangerous.
+text Whatever the means, if I don't get out of here soon, I am going to lose my life.
+text ~
+text -----But it's too late.
+text ~
+text The man is right before me.
+text Those eyes aren't looking at me at all.
+text "Feed."
+text He raises one of his arms.
+text Below it lies a chaotic darkness.
+text From there, something huge appears.
+bgload IMA_10.jpg
+text ~
+text Whomp.
+text The sound of wind.
+text That which has appeared from below the man's coat is a crocodile's mouth, easily large enough to swallow a man whole.
+text ~
+text "Ah------"
+text ~
+text I'm going to die.
+text Right here, in an instant, crunched up like a ball of paper.
+text Just as I was convinced of this, someone pulls me back.
+bgload IMA_12.jpg
+text Clomp.
+text ~
+text "Wha--!?"
+text I.. can't believe it.
+text Instead of me, the jaws of the crocodile clamp onto the stomach of Arcueid, who just pulled me out of the way.
+bgload BG_20B.jpg
+bgload BG_20B.jpg
+setimg ARK_T18.png 36 0
+text "Ssstt--!"
+text Arcueid's face contorts in agony.
+text She draws back before she is completely devoured by the crocodile's maw.
+bgload BG_20B.jpg
+bgload BG_20B.jpg
+setimg NERO_T02A.png 13 0
+text "........"
+text The man silently watches Arcueid.
+text Arcueid glares back at him with a pained expression, her mid-section stained in red.
+bgload BG_20B.jpg
+setimg ARK_T18.png 36 0
+text "---I can't believe a vampire named Chaos would play such trivial games.
+text It's like a poorly-scripted nightmare, Nrvnqsr Chaos."
+bgload BG_20B.jpg
+bgload BG_20B.jpg
+setimg NERO_T02A.png 13 0
+text "I feel the same way.
+text To catch one of the surviving True Ancestors.. I never dreamed I would be a part of such foolish festival.
+text This is a nightmare for me, too."
+text The man called Nrvnqsr quietly lowers his arm.
+text The coat returns to its former position, and the crocodile's mouth disappears underneath.
+text The man looks only at Arcueid.
+text It's as if he's not concerned at all about me, standing behind her with my knife raised.
+bgload BG_20B.jpg
+setimg NERO_T03.png 13 0
+text "But what is going on?
+text I have heard that the previous executor could not even scratch you.
+text What kind of a mistake is this?
+text Right now, your presence is exceedingly weak.
+text Even weaker than a mere member of The Dead--were you attacked by the church before I arrived, Arcueid Brunestud?"
+text ".........."
+text Arcueid says nothing.
+text The man fixes his emotionless stare on her.
+text ".... I don't understand.
+text There are only a limited number of conceptual weapons capable of harming you.
+text The only people in possession of those are the Church's assassins, and I don't think the Burial Agency would dispatch anyone this far east."
+text The man narrows his eyes slightly as he turns around.
+bgload BG_20B.jpg
+text "Either way, this is most fortunate for me.
+text I shall not ask why you have been weakened.
+text All I am going to do is claim your head while I have a chance of winning."
+text "Ts....!"
+text I hold up my knife, preparing for his attack.
+text ~
+text ---But.
+text ~
+text Having openly stated he was going to take her head, the man now disappears towards the elevator.
+text It seems despite this claim, the man in the black coat is now leaving the hallway for the elevator.
+text ~
+text ~
+text "------Huh?"
+text ~
+text Now I've got absolutely no idea what's going on!
+text About that man, the two dogs who attacked me, the nightmare-like reality of the attack on this hotel--none of it!
+bgload BG_20B.jpg
+setimg ARK_T18.png 36 0
+text "Shi--ki."
+text Arcueid leans on me.
+text "Ah----"
+text It's a terrible wound.
+text Though her stomach stopped bleeding, her face is scrunched up in pain.
+text ~
+text ---It happened mere seconds ago.
+text The wound she got from protecting me from that man.
+text "Why--did you..?"
+text ".... Yes.
+text I, underestimated him slightly.
+text I thought I could help you and then dodge him, but--you did really well, Shiki.
+text I guess the wound I got from you wasn't so trifling after all."
+text Arcueid's face, twisted in pain, turns into a small, joking smile.
+text "You id--"
+text ---I can't watch her any longer.
+text The wound she got was from protecting me, and the reason she got it was because of me too--there is no place for that stupid smile of hers.
+text Arcueid leans onto me and lightly closes her eyes.
+bgload BG_20B.jpg
+text ".... Hold on, don't close your eyes, you idiot!
+text Get ahold of yourself!
+text You're a vampire who can't die at night, right..!?"
+text ".... Well, that's true, but it seems like I'm at my limit."
+text "Wha--!?"
+text "Sorry, but could you take me back to my room?"
+text Arcueid's weight falls on me.
+text "--Hold on!
+text That's--!"
+text If she dies, I'll--
+text "Hey--!"
+text I call out to Arcueid, who has quietly closed her eyes.
+text ~
+text And then,
+text ~
+text ".... Zzz."
+text I can hear her happily breathing in her sleep.
+text "........"
+text .... *sigh*
+text I shouldn't have bothered worrying.
+text Arcueid is only sleeping.
+text ".... Telling me to take her back to her room like that.
+text How selfish of her--"
+text It really was selfish of her, but there's no helping it in this situation.
+text Besides.
+text If we stay here in this hotel any longer, I have the feeling we'll be in a lot of trouble.
+bgload IMA_11B.jpg
+bgload BG_20B.jpg
+text "........ Guh!"
+text The headache won't stop.
+text I guess I have to rest too or I'll faint.
+text ".... Arcueid's room?
+text --Oh, that place."
+text I've only been there once, but I definitely remember it.
+text ~
+text ---In that case, there's no point staying here any longer.
+text Carrying Arcueid, I decide to quickly leave the hotel.
+bgload IMA_10.jpg
+bgload BG_27A.jpg
+text The city is slightly lit up.
+text Fortunately, it's too early in the morning for anyone to be awake, so I get to Arcueid's room without being seen.
+text ".... I see, that's how it is."
+text Then, I finally realize why that man left.
+text The streets are beginning to become covered with a faint orange light.
+text ~
+text I guess dawn is breaking already-----
+bgload IMA_10.jpg
+jump s94.scr

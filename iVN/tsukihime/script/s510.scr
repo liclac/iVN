@@ -1,0 +1,525 @@
+bgload IMA_10.jpg
+bgload IMA_01.jpg
+music 09.mp3
+text In my dream, I'm staring at the moon.
+text I can't remember where I am or why I'm looking up at it.
+text Maybe I looked up into the night sky not wanting to see anything, and the moon happened to be there.
+text My back creaks.
+text Coursing through my veins is an image of coldness.
+text A solitary darkness that makes me dizzy.
+text A radiant moon that sickens my heart.
+text .... Strangely.
+text The overwhelming coldness feels more like a sense of nostalgia.
+music ~
+bgload IMA_11.jpg
+text "---Shiki-sama."
+text .... I can hear Hisui's voice mingling with the morning light.
+text ~
+text "---Shiki-sama, it is time.
+text Please wake up."
+text Her inflectionless voice awakens me.
+bgload BG_40E.jpg
+text "------"
+text ~
+text As soon as I wake up, terrible things enter my vision.
+text I get a headache like I was just shot in the head.
+text "Ah----"
+text I almost lose my just awakened consciousness.
+text Before I fade away completely, I quickly grab my glasses.
+bgload BG_40A.jpg
+music 02.mp3
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama....?
+text Are you not feeling well?"
+text ".... No, I'm just a little tired from yesterday.
+text I'll be alright, so don't worry."
+text Lightly shaking my head, I clear my head of what I was seeing.
+text .... It seems that not being able to find Arcueid last night has cast a dark shadow in my heart.
+text "Good morning, Hisui.
+text Thanks for coming to wake me up, as always."
+text Sitting up in bed, I do my best to smile naturally.
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "No, this is my duty.
+text There is no need for you to thank me, Shiki-sama."
+text "Really, but I am grateful.
+text You are infinitely better than an alarm clock."
+text ~
+text I stand up.
+text It's not yet seven o'clock---about ten minutes earlier than I usually get up.
+text ".... Hmm, breakfast?
+text I'll be there soon, so please go ahead of me."
+text "Yes, I will wait for you in the sitting room."
+bgload BG_40A.jpg
+text Giving a bow, Hisui exits the room.
+text ----Well then.
+text I'm still feeling a little sluggish, but it's not so bad that I have to skip school.
+text I'm sure after I eat the breakfast Kohaku-san prepared, I'll feel a lot better.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text As usual, Akiha is sitting on the sofa and Hisui is waiting by the wall.
+text ~
+bgload BG_34A.jpg
+setimg AKI_T04A.png 40 0
+text "Good morning, Nii-san.
+text Did you sleep well last night?"
+text ".... Good morning, Akiha.
+text You're up early today, too."
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "No, I'm like always.... Nii-san?"
+text She looks uneasy for some reason.
+text "Hm---Is there something on my face, Akiha?"
+bgload BG_34A.jpg
+setimg AKI_T17A.png 40 0
+text "No, that isn't it.... Nii-san, are you really alright?
+text You still do not look well, so if you are still sick, maybe it is better if you just rest today---"
+text "No, I'm really okay.
+text I'll be better sooner or later, so please don't look so worried."
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text ".... Okay.
+text If you say so, Nii-san, then I will not say anything."
+bgload BG_34A.jpg
+text She goes quiet, still looking worried.
+text "Hm, it's quite rare for you to be convinced this quickly.
+text It's not like you."
+bgload BG_34A.jpg
+setimg AKI_T21.png -24 0
+text "Hey, I'm always sensible.
+text I only warn you because you're the one with the problems.
+text So please do not blame me for your imperfections."
+text She glares at me.
+text "Oh, that's more like it.
+text Hey Hisui, doesn't it not feel like morning unless Akiha gets harsh?"
+bgload BG_34A.jpg
+setimg AKI_T21.png -24 0
+setimg HIS_T01.png 126 0
+text "............"
+text Is it because I suddenly called out to her or because she doesn't know what to say?
+text Hisui neither confirms nor denies my statement.
+text "See?
+text Look, Akiha, Hisui thinks so, too."
+text "Don't be foolish.
+text Hisui doesn't say anything because she is surprised."
+text Wrinkling her forehead in a frown, Akiha glares again.
+bgload BG_34A.jpg
+setimg AKI_T03A.png -24 0
+setimg HIS_T01.png 126 0
+text "Also, I've always wanted to say this, but you rely on Hisui too much.
+text You don't take lessons or anything, so you can go to sleep early, right?
+text But you always wake up late.
+text Are you slacking off because Hisui does not say anything?"
+text "Wh----You make it sound like I'm causing her trouble!"
+bgload BG_34A.jpg
+setimg AKI_T18A.png -24 0
+setimg HIS_T01.png 126 0
+text "Not 'like', you are causing her trouble.
+text Hey, don't you think so, Hisui?"
+text "............"
+text Hisui still doesn't say anything and stands there quietly.
+bgload BG_34A.jpg
+setimg AKI_T03A.png -24 0
+setimg HIS_T01.png 126 0
+text "See?
+text Hisui says she thinks so too."
+text "No way!
+text She didn't say anything!"
+bgload BG_34A.jpg
+setimg AKI_T03A.png -24 0
+setimg HIS_T04.png 126 0
+text ".............."
+text Hisui is silent.
+text But her silence feels like she is agreeing more with Akiha.
+text "........ Oogh."
+text I feel like it's now two against one.
+text "Shiki-san.
+text Breakfast is ready~."
+text With great timing, Kohaku-san's voice echoes through the room.
+text "Um, I'm gonna go eat."
+text I quickly head towards the dining room.
+bgload BG_34A.jpg
+setimg AKI_T02.png -24 0
+setimg HIS_T04.png 126 0
+bgload BG_34A.jpg
+setimg AKI_T02.png -24 0
+setimg HIS_T08.png 126 0
+text ".............."
+text I feel the silent pressure of the two behind me drilling into my back.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text After breakfast, I head back to the sitting room.
+text Akiha isn't there, and Hisui is the only one standing.
+text "Huh?
+text Akiha left for school already?"
+bgload BG_34A.jpg
+setimg HIS_T01.png 62 0
+text "Yes.
+text It is time for you to go to school as well, Shiki-sama."
+text "Ah, it's already twenty after?
+text I guess I should get going soon."
+text .... To be honest, I still don't feel good, but I'm sure I'll return to normal soon.
+text "Sorry, Hisui, but can you get my bag from my room?
+text I'm going to wash my face."
+text "As you wish."
+bgload BG_34A.jpg
+bgload IMA_10.jpg
+bgload BG_48A.jpg
+text After getting all my preparations done, I leave the mansion.
+text Holding my bag, Hisui sees me off at the entrance.
+text "I'll be going.
+text I'm not sure when I'll be back, but probably by dinner."
+bgload BG_48A.jpg
+setimg HIS_T05.png 62 0
+text "Yes, I will be waiting."
+text She gives a silent bow.
+text .... There's a trace of uneasiness in her face.
+text "Hisui?
+text Are you feeling sick?"
+text "No---it is not me, but you do not appear well.
+text I am unsure if it is a good idea to let you go."
+text She speaks hesitantly.
+text "I'm alright.
+text I don't feel great, but just a little heavy.
+text Geez, both you and Akiha like to worry a lot."
+text ".... Is that so?
+text If it is just us, then that will be fine, but.."
+text ".... Geez.
+text I'll come back early today and rest, so that should be good, right?
+text I won't overdo anything, so don't look like that."
+text "...... Yes.
+text Forgive me, Shiki-sama."
+text She still looks very worried.
+text "I'm off.
+text I'll be better by the time I get back, so please relax."
+bgload BG_48A.jpg
+setimg HIS_T07.png 62 0
+text "Ah---Shiki-sama----"
+bgload IMA_03.jpg
+text I ignore her and leave the mansion.
+text The image of Hisui watching me uneasily remains in my head.
+music ~
+bgload BG_22A.jpg
+music 03.mp3
+text I head towards school.
+text My feet are heavy and it feels like I'm in another person's body as I head down the hill.
+text .... It's probably just the weariness from last night.
+text Even though I thought I would recover right away, the sluggishness doesn't fade.
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text It's ten minutes until eight.
+text The school gate is flooded with arriving students.
+text "----Ah."
+text By the gate, I see a familiar figure.
+text ".... Ciel, senpai."
+text It's a completely normal, morning scene.
+text But, what I saw that time---
+bgload IMA_10.jpg
+bgload event/CEL_E04.jpg
+bgload BG_01A.jpg
+text If it wasn't for that, it would be a normal morning.
+text "-----"
+text Not even knowing what I plan on doing, I chase after Senpai.
+bgload BG_03A.jpg
+text "Senpai!"
+text I call after her.
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Oh, good morning, Tohno-kun.
+text It's unusual to meet you out here."
+text ".... Yeah, I saw your figure from behind so I ran after you, Senpai.
+text Um.... there was something I wanted to ask."
+text I sneak a look at her face.
+text "Yes, what is it?"
+text She faces me with her usual, gentle smile.
+text ".... Uh, Senpai.
+text Three nights ago, were you near my house?
+text In a black coat and a skirt flowing in the wind?"
+bgload BG_03A.jpg
+setimg CEL_T12.png 52 0
+text "....?
+text What is that?"
+text "Um....!
+text well--yeah, the high-laced boots suited you.
+text I was kind of fascinated, you looked, really cool."
+bgload BG_03A.jpg
+setimg CEL_T05.png 52 0
+text .... "Huh?" Senpai tilts her head.
+text She frowns like she doesn't understand my words completely, and then denies it.
+bgload BG_03A.jpg
+setimg CEL_T08.png 52 0
+text "Um, I don't quite understand, but you're saying that I was near your house three nights ago, looking like that?"
+text "Yeah, that was you, Senpai, right?"
+bgload BG_03A.jpg
+setimg CEL_T10A.png 52 0
+text "No way.
+text Tohno-kun, are you saying I look like I really have that much free time?"
+text ~
+text ---Senpai is really angry.
+text She can't be playing dumb or lying.
+text "Ah---no, that's not it, but I just.... saw someone that looked like you in the park last night, so---"
+text Senpai gives a sigh.
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Tohno-kun, that wasn't me.
+text I don't have that kind of hobby."
+text "Ah---yeah, I know.
+text I just wanted to ask."
+text .... Certainly after having her say that, she is right.
+text Ciel-senpai and the person that night aren't related at all.
+text In the first place, Senpai's just a normal person, and if she was actually there---she had to have seen me fight that bandage guy with my knife.
+text If she saw such a gruesome scene, there'd be no way she could talk with me normally like this.
+text ".... Sorry, please forget about it.
+text I guess it was just someone else."
+bgload BG_03A.jpg
+setimg CEL_T09.png 52 0
+text "That's fine, but.... did that person really look like me?
+text That weird person?"
+text "Well, I'm not too sure.
+text It was dark, and far away...... huh?"
+text Yeah, it was far and I couldn't make out her face.
+text So why did I think it looked like Senpai....?
+text ".... Hmm.. Maybe there is something wrong with me."
+text I cross my arms and think.
+text ~
+sound SE_03.aac 1
+text Then, the ten minute bell rings.
+text "---Crap, we'll be late.
+text Bye, Senpai, see you later!"
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text I dash into my classroom.
+text It's still five minutes before class, so it's very noisy inside.
+text "Arihiko, isn't here."
+text Knowing him, he'll probably come in around second period.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text Lunch time.
+text It looks like Arihiko's not coming.
+text .... Inui Arihiko and Yumizuka Satsuki are the two people absent today.
+text Yumizuka Satsuki has caught a cold or something and she will be absent for a while.
+text ".... Senpai doesn't seem to be coming either, so I guess I'll eat by myself."
+text I say that, but I'm not hungry.
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+text .... What is it?
+text I didn't feel so good to begin with, but after coming to school, I feel a lot worse.
+text It's not just my body feeling heavy.
+text The scar on my chest is irritating; it's an annoying sensation.
+text ".... Maybe I shouldn't have come to school."
+text .... For a brief moment, I see the worrying faces of Hisui and Akiha in my mind.
+text Maybe the fact that I ignored Akiha's wishes for me to rest last night and instead went to see Arcueid might've caused this.
+text Being worn out by just sitting, I start to feel a strange uneasiness.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text .... Class has started already.
+text Which class was it?
+text I can't remember today's fifth period lesson.
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text ~
+text Even though I look at the blackboard and stare at the marks left behind by the teacher's chalk, I still don't know what class this is.
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text ~
+text I can't read it.
+text The letters start to flow like water and mix together like some sort of hallucination.
+text ~
+sound SE_01.aac 1
+text "Ugh........"
+text I feel like I'm going to throw up.
+text Dizziness.
+text My mind starts to slide away.
+bgload IMA_10.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text Click, click.
+text Tremble, tremble.
+text Creak, creak.
+text Wobble, wobble.
+bgload IMA_10.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text Those noises stick out.
+text Incompatibility.
+text Where is that inconsistency coming from?
+sound SE_01.aac 1
+text I can't settle this feeling of something being out of place throughout my body.
+text It fills me to the brim.
+text As if my bones are sliding out of place in their joints.
+sound SE_01.aac 1
+text Yes, since my joints are out of place, it causes this unnatural feeling.
+text My corpse is burning unseen smoke and crumbling away.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Click, click.
+text Tremble, tremble.
+text Creak, creak.
+text Wobble, wobble.
+bgload IMA_11B.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+bgload IMA_10.jpg
+text I fall from my chair.
+text A girl screams.
+text I hear the footsteps of the teacher running to me.
+text I.
+text Even though I've completely passed out, I calmly watch myself from far away.
+text .... What follows is like always.
+text Collapsed from my anemia, I was carried to the clinic where I slept until I recovered.
+text Since I had a fever of over 38 degrees Celsius past seven o'clock, the school's closing time, the nurse called my house for someone to pick me up and went home.
+text ~
+text And this resulted in..
+music 01.mp3
+bgload BG_10C.jpg
+bgload BG_10C.jpg
+setimg KOHA_T01B.png 52 0
+text "Are you okay Shiki-san?
+text You still have a fever, so please do not hesitate to lean on my shoulder."
+text ~
+text ---Yeah, that's how it is.
+text ".... No, I'm alright.
+text I can at least walk, so please don't worry."
+text Stepping away from Kohaku-san, I attempt to bluff my way out of it.
+text .... Geez.
+text It's embarrassing enough for Kohaku-san to come pick me up.
+text The day I lean on her shoulders, I'll die.
+text "Oh that's not good, forcing yourself like that.
+text It isn't your fault that your body is weak, Shiki-san.
+text So you can ask for help a little.
+text I won't tell Akiha-sama or Hisui-chan, so it's okay to depend on me for now."
+text With a gentle smile, she takes my hand.
+text "Ah.... yes, sorry."
+text Blushing furiously, I meekly do as she says.
+text .... Certainly I might collapse if I continue to be stubborn.
+text "There is a car waiting outside, so please hold on until then."
+bgload BG_10C.jpg
+text Pulling my hand, Kohaku-san starts to walk.
+bgload IMA_10.jpg
+bgload BG_10C.jpg
+text "Ah----"
+text .... This isn't good.
+text Just walking makes me incredibly dizzy.
+text I depend upon Kohaku-san to lead me to the stairwell as I hold onto my consciousness.
+bgload IMA_10.jpg
+music ~
+bgload BG_07B.jpg
+bgload BG_11C.jpg
+text Hu----h?
+text Why---am I going up, to, the second, floor?
+text "Um.... Kohaku-san, this, isn't, the right way."
+text I call out to her.
+text There's no response.
+text No, not only that---I don't feel her hand, or even see her.
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+music 06.mp3
+text "Kohaku.... san?"
+text I use all of my .aacy consciousness to look around me.
+text There's no one in the hallway.
+text Only the moonlight streaming from the window is vivid.
+sound SE_01.aac 1
+text "-------"
+text It comes suddenly.
+sound SE_01.aac 1
+text "Ah------"
+text The sound of my heartbeat.
+text And a chill that races up my spine.
+sound SE_02.aac -1
+sound SE_08.aac 1
+text Thump.
+text Tap.
+text ~
+sound SE_08.aac 1
+text Thump.
+text Tap.
+text ~
+sound SE_08.aac 1
+text Thump.
+text Tap.
+text ~
+text Thump.
+text Tap.
+text Thump.
+text Tap.
+text Thump.
+text Tap.
+text Tap.
+text Tap.
+text Tap.
+text Tap.
+text In the darkness, the footsteps draw closer.
+text ~
+text ---This is..
+text ~
+text This is similar to the fear I felt that one time.
+text "Kohaku, san....!"
+text I call her name.
+text Not to call for help, but to tell her to escape, I frantically call her name.
+text "Kohaku-san, Kohaku-san, Kohaku-san....!"
+text Where is she?
+text I don't see her anywhere.
+text The footsteps are near me now.
+text ~
+text So, at least.
+text I want Kohaku-san to escape here unharmed.
+text "It's useless, Shiki.
+text She's already finished."
+text .... I hear a voice.
+text In the darkness in front of me,
+bgload BG_11C.jpg
+setimg ROA_T07B.png 14 0
+text the bandaged man who tried to kill me that night.
+text "-----Ah."
+text .... Why is it?
+text I feel like I know this person's face.
+text "You sure aren't lucky.
+text If I knew it was like this, I wouldn't have waited for you in front of the mansion."
+text ~
+text .... The footsteps draw closer.
+text ~
+text "Ka........ aah."
+text I try to move.
+text But I can only totter along.
+text I guess I pushed my body too hard every day.
+text It seems like my body, at the very last moment, broke down.
+text "This is the end, so I'll tell you.
+text This is my lair now."
+bgload IMA_11B.jpg
+text I hear a stabbing sound.
+text In his hands, a knife.
+text The silver blade pierces directly into my heart.
+sound ~
+bgload IMA_10.jpg
+bgload IMA_18.jpg
+music ~
+text ---I collapse to the ground.
+text I feel death working its way from my very fingertips.
+text My mind fades away, drop by drop.
+text In that process.
+text With my fading mind, I look up at the sky.
+text I have nowhere else to look, so I just look there.
+text ~
+text The blue moon is in the night sky.
+text .... How stupid.
+text I'm about to die, but I..
+text I am charmed by such an ordinary thing.
+bgload IMA_10.jpg
+text When is this memory from?
+text In a forest like a black veil.
+text On that terrible night.
+text Just like this, I was staring only at the moon---
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+jump main.scr

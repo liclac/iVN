@@ -1,0 +1,125 @@
+bgload IMA_11.jpg
+text "---Good morning."
+text ~
+text .... I hear an unfamiliar voice.
+text The dream quickly fades away as a voice calls me back to reality.
+text "It is morning.
+text Time to wake up, Shiki-sama."
+text ~
+text An unfamiliar voice greets me.
+text .... Stop calling me Shiki-sama already.
+text I told you yesterday, it sends chills down my back----
+bgload BG_40A.jpg
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+music 02.mp3
+text ---I wake up.
+text Hisui stands far from the bed, like a statue.
+text "Mm...."
+text I sleepily look around.
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Good morning, Shiki-sama."
+text A girl in a maid uniform bows.
+text For a moment, I doubt my eyes.
+text Finally, I recall my current condition.
+text "Yeah, I came home, right.."
+text I push myself up, and look around the room.
+bgload BG_40A.jpg
+text Outside the window, the weather is great.
+text A blue sky like the one I saw in my dream.
+text "Good morning, Hisui.
+text Thanks for coming to wake me."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "There is no need to thank me.
+text It is my duty to come and wake you, Shiki-sama."
+text Hisui answers indifferently, completely expressionless.
+text *sigh*
+text ".... Why do you have to be so formal, Hisui?"
+text It's really a shame.
+text If Hisui only had half of Kohaku's brightness, she would be really cute.
+text "---Do you need something?"
+text Realizing I am looking at her, Hisui stares straight back at me.
+text "Ah, no, nothing at all.
+text Waking up and seeing your face, I just felt like I'm really at the Tohno mansion.."
+text Hisui's eyes are like cold ice.
+text Seeing that all of a sudden, something reminiscent of a dream flashes through my mind---
+text "-----I, see."
+text I remember it completely.
+text That day, that girl who gave me the ribbon right before I left was the one who always watched us from that window.
+text That is, in other words---
+text "It was.... Hisui."
+text "Yes?
+text Did you say something, Shiki-sama?"
+text "Ah.... Hisui, do you remember?
+text About when I left here eight years ago?"
+text "Yes, I remember it.
+text But, was there anything special that happened?"
+text "Eh---anything special?
+text Hisui?"
+text "Please forgive me.
+text Eight years has passed since you departed this mansion.
+text So even if you speak of those times, I cannot answer with any specific details."
+text "Wha-----"
+text Does she not remember the promise we made back then?
+text "Hisui---you don't remember about the ribbon?"
+bgload BG_40A.jpg
+setimg HIS_T23.png 62 0
+text ".... Ribbon....?"
+text She looks downcast as she admits with difficulty that she does not remember.
+text ".... I see.
+text That's right, it was eight years ago.... Sorry, it's nothing.
+text Just forget about what I said."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "................"
+text .... She doesn't remember the promise.
+text But, it isn't anything I can hold against her.
+text Even though it was maybe just a childish promise, it really did help me to face forward into the future back then.
+text "Well, time to get up.
+text Hisui, do you know what time it is?"
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Yes, it is now past seven o'clock in the morning."
+text "Okay, that leaves me just a little time then."
+text Stretching my back, I get up out of bed.
+bgload BG_40A.jpg
+setimg HIS_T23.png 62 0
+text "You say that, but you do not have much time.
+text It takes about thirty minutes to go from the mansion to your school.
+text You only have twenty minutes to eat breakfast and get ready."
+text "Eh----that's right, this isn't Arimas' house!"
+text I'm filled with horror.
+text I was so used to the Arima house being only twenty minutes away from school, but from here, I don't even know a shortcut.
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Your uniform is folded and awaits you over there.
+text Please come to the sitting room after you have changed."
+bgload BG_40A.jpg
+text "Damn it, if you're going to wake, me, wake me up earlier.."
+text Muttering selfishly to myself, I reach for the uniform.
+text It's folded neatly, and the shirt has even been ironed.
+text Passing my wrists through the sleeves feels good.
+text It's that fresh, brand-new feeling.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg AKI_T01A.png -24 0
+bgload BG_34A.jpg
+setimg AKI_T01A.png -24 0
+setimg KOHA_T01A.png 116 0
+text Akiha and Kohaku-san are relaxing in the sitting room.
+text Akiha is wearing the uniform of the Asagami Ladies' Academy, a famous school for young girls.
+text They are drinking tea together gracefully, as if breakfast ended a long time ago.
+bgload BG_34A.jpg
+choice Greet Akiha.|Greet Kohaku-san.|Greet both of them.
+if selected == 1
+    jump s304.scr
+fi
+if selected == 2
+    jump s123.scr
+fi
+if selected == 3
+    jump s124.scr
+fi

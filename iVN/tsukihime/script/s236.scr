@@ -1,0 +1,559 @@
+bgload IMA_11.jpg
+text "Shiki-sama....!"
+text ~
+text ----There's a voice calling me.
+text ~
+text "Please remain strong.
+text I shall bring you something to drink."
+text ~
+text ----I sense the presence receding.
+text ~
+text Footsteps.
+text It makes me realize that it is morning now.
+bgload BG_40A.jpg
+sound SE_11.aac -1
+text "-----"
+text I open my eyes.
+text There isn't anyone else in my room.
+text I hear something ragged.
+text ".... What is.... that noise?"
+text Speaking, I realize that it was my own breathing.
+text "Hu.... h?"
+text My body is drenched in sweat.
+text A tiredness suffocates me, as if I had just ran a long marathon.
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "Kgggh...."
+text My head hurts.
+text .... Because I saw that hideous dream.
+text Yumizuka painted with blood, and I, staring at her in envy.
+text A complete nightmare.
+text ".... There's something wrong...."
+text I manage to say this much, still breathing hard.
+text Last night's dream still lingers in my head.
+text It really was a horrific nightmare.
+text I was just blanked out in my dream, as if I couldn't rouse myself from the nightmare if I tried.
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+sound ~
+music 02.mp3
+text "Shiki-sama....!"
+text And then,
+text Hisui rushes into my room.
+text "Hisui....?
+text Did something happen?
+text You didn't even knock."
+text "Um.... Are you awake, Shiki-sama....?"
+text "Yeah, I just got up.
+text Good morning, Hisui.
+text Thanks for coming to wake me."
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text "Um--yes.
+text Good morning."
+text Returning my greeting apologetically, Hisui approaches the bed.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "I have brought you something to drink.
+text You do not appear well, so please drink it."
+text Looking at it, it seems like she brought a drink on a silver tray like she did yesterday.
+text "....?
+text I don't really feel bad or anything.
+text I slept soundly and I feel refreshed."
+text "But---"
+text Hisui stares at me.
+text "You seemed to be in a very poor state earlier.
+text Shiki-sama, does the scar on your chest not hurt?"
+text "No, not really.... Well, it may be because of that terrible dream.
+text I was really having quite a nightmare."
+text ~
+text .... I feel dizzy just remembering it.
+text Hisui looks intently at my face.
+text ~
+text ".... I see.
+text Hisui, you woke me up."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes, I am deeply sorry."
+text "What are you saying?
+text Thanks, Hisui.
+text You really helped me a lot."
+bgload BG_40A.jpg
+setimg HIS_T03.png 62 0
+text I really do mean that from my heart.
+text If she hadn't woken me, I might still be trapped inside that awful nightmare.
+text "I'll change and go to the dining room.
+text Thanks for everything--and for giving me this drink.
+text Sorry about that."
+text "No, you do not need to apologize.
+text I will wait for you in the sitting room."
+bgload BG_40A.jpg
+text Hisui silently leaves the room.
+text To be honest, I really am quite moved.
+text I thought she was truly without emotions, but she may just be poor at expressing them.
+text She was so distressed over me having a nightmare, it makes me smile imagining her in such a hurry.
+text Maybe it isn't that hard to see Hisui's smile.
+text "----Well, time to get up!"
+text I throw off the sheets and get up.
+text ~
+text ---In that instant.
+text ~
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+sound SE_02.aac -1
+text Pain explodes through my body.
+text "Gaaah......!"
+text It's from a much deeper place, aching with my heartbeat.
+text "Ah---ggghh---"
+text Clenching the sheets, I somehow weather the pain.
+sound ~
+text "Ahhh--"
+text It fades away.
+text There's nothing lingering.
+text Perhaps just a sudden fit?
+text ".... Chest.. wound."
+text I bring my hand over my chest.
+text There is a great scar there, and even though that it has healed, at times it still hurts like it did just now.
+text The doctor said the physical wound is healed, but that the mind must be replaying the pain over and over again.
+text Usually, the scar begins throbbing after I see a traffic accident or a dead body.
+text The image of blood or death must make me recall the accident eight years ago.
+text ".... Because of last night, I guess."
+text The red back alley.
+text And the normal, smiling face of Yumizuka.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "Guh--!"
+text My chest--hurts.
+text The image of Yumizuka doesn't leave my mind.
+text But I don't know what I should do, what I can do.
+text I can only live my everyday life.
+text ".... Shi.. t.."
+text Swearing at myself, I roll out of bed.
+text After changing out of my pajamas and into my school uniform, I head to the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text Akiha and Hisui are in the sitting room.
+text Kohaku-san is probably in the kitchen cooking my breakfast.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Good morning, Nii-san."
+text Sitting on the sofa, Akiha greets me and looks at my expression.
+text ".... Ah, good morning Akiha."
+text Returning her greeting, I head to the dining room.
+text There really isn't that much time for me to stay and chat with Akiha---and I don't really feel like talking to anyone at all.
+text "Nii-san, I would like to speak with you a little---is that alright?"
+text "That's fine, but please make it short since I don't have much time."
+text I sit on the sofa across from her.
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text "Then I will get straight to the point.
+text Nii-san, where did you go last night?"
+text Akiha looks directly at me as she asks.
+text .... Kohaku-san probably did keep it a secret, but I guess it wasn't possible to hide being gone for two hours.
+text "Nothing.
+text Just went for a walk in town.
+text I'm sorry for getting back late, but it's no big deal."
+text Since I don't want to lie to Akiha, I answer as evasively as possible.
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "Just walking the streets IS something.
+text You are still a minor, so please do not wander out late at night.
+text Even if you weren't, there have been a lot of disturbances going on."
+sound SE_01.aac 1
+text "------Ah."
+bgload BG_34A.jpg
+text Disturbances--the killer skulking around town at night.
+text Why?
+text Why didn't I realize it?
+text The killer that murders people and drinks their blood.
+text That phrase perfectly matches Yumizuka's behavior yesterday----
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text ".... I shouldn't have to say this, but you shouldn't strain your body.
+text If you come back with an exhausted face like last night's again, I'll get worried.
+text If you're in trouble, please tell me.
+text I may not be able to do much, but if you could.."
+text ~
+text ---I don't want to think about it, but..
+text ~
+text Yumizuka.
+text Yumizuka could be the killer terrorizing the town.
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text ".... Nii-san?
+text Are you listening to me?"
+text "Eh----uh, yeah.
+text I'm listening."
+text I hear Akiha's voice.
+text But, the only thing in my mind is the image of Yumizuka from yesterday.
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text Akiha glares at me.
+text "So.
+text You can't talk about your situation, Nii-san?"
+text "Yeah.
+text It has nothing to do with you, Akiha."
+text Right now, I can think only of Yumizuka.
+text I want to be alone--and so I said that.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "You're going to keep going your own way, is that what you're saying, Nii-san?"
+text ".........."
+text "I understand.
+text Well, please, feel free.
+text If that's what you want, Nii-san, I'll do the same."
+bgload BG_34A.jpg
+text Akiha stands, and walks out to the lobby.
+bgload BG_34A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama?
+text Is this acceptable?"
+text ".... Acceptable?
+text Is what acceptable?"
+text "I believe Akiha-sama is deeply concerned about you, Shiki-sama.
+text But I think it is difficult for her since she does not often talk about her feelings----"
+text "I know.
+text But right now, my head's full, and I can't.. I do feel sorry."
+text "........"
+bgload BG_34A.jpg
+text Hisui falls silent.
+text ~
+text "Shiki-saaaan, breakfast!"
+text Kohaku-san's voice can be heard from the dining room.
+text I stand up and head towards it.
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, around what time will you be returning today?"
+text "Ahh.. since today's Saturday.. --No.
+text It'll probably be in the evening.
+text There's something I want to look for."
+bgload BG_32A.jpg
+setimg HIS_T16.png 62 0
+text "I understand.
+text Please, take care until then."
+text She bows deeply.
+bgload BG_32A.jpg
+text After Hisui sees me off, I leave the mansion.
+bgload IMA_10.jpg
+music ~
+music 01.mp3
+bgload BG_06A.jpg
+text ---There was no point coming to school.
+text ~
+text Yumizuka Satsuki was treated as an absentee, and no one seemed to be the slightest bit concerned about her.
+text Time passed without my realizing it.
+text Perhaps Arihiko or Ciel-senpai came by sometime, but I don't really remember.
+text Noon comes, and school ends.
+text I have no idea.
+text I have no idea, but I still have to look for Yumizuka.
+bgload IMA_10.jpg
+bgload BG_24A.jpg
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+bgload IMA_10.jpg
+bgload BG_27A.jpg
+bgload IMA_10.jpg
+bgload BG_29A.jpg
+bgload IMA_10.jpg
+bgload BG_23B.jpg
+text The sun sets.
+text Even after running everywhere in town, there's no sign of Yumizuka Satsuki anywhere.
+text ~
+text "........ Gah."
+text I bite my lip angrily.
+text .... But it's not anger over not finding her.
+text Two days ago.
+text I'm mad at myself for promising such a thing in the first place.
+text ~
+text ---Help me when I'm in a pinch, okay?
+text ~
+text Yumizuka said that, and I answered lightheartedly.
+text I would help, as much as I could.
+text .... Such an irresponsible answer.
+text There's really nothing I can do.
+text She said it hurt.
+text I can't even find Yumizuka, painfully suffering in the cold darkness.
+text "---"
+text The sun is setting.
+text .... I don't want to admit it, but maybe I can only find Yumizuka after nightfall.
+text ".... I told Hisui I'd be back in the evening."
+text Perhaps it's too early.
+text I'll go back to the mansion and calmly think this through.
+bgload IMA_10.jpg
+bgload BG_33B.jpg
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Welcome home, Shiki-sama."
+text Hisui was waiting in the lobby.
+text "I'm back.... Hisui, where's Akiha?"
+text "Akiha-sama has not returned yet.
+text Since she shall be late, we are to have supper first."
+text "I see.... I'll be resting in my room until dinner, so I'll head to the dining room when it's time."
+text "Yes.
+text Please rest until I call you."
+bgload BG_33B.jpg
+setimg HIS_T16.png 62 0
+bgload BG_33B.jpg
+text I turn my back to the bowing Hisui and walk towards my room.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text ~
+text ---After supper, I sit down on my bed.
+text ~
+text The clock's hands show nine o'clock.
+text Since leaving the mansion after eight is forbidden, I cannot go outside any longer.
+text "........"
+text But, that's merely a rule.
+text If I feel like it, I can easily go outside.
+bgload IMA_11.jpg
+bgload BG_22B.jpg
+bgload BG_22B.jpg
+setimg STK_T03.png 53 0
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Bye-bye.
+text See you at school tomorrow, Tohno-kun.
+bgload IMA_11.jpg
+bgload BG_40C.jpg
+text .... What.... am I thinking?
+text It's just foolish.
+text I just can't comprehend what's happening to Yumizuka.
+text I do realize she is the vampire serial killer causing all these incidents in town.
+text ~
+text But still.
+text I can not forget her last words she said in the sunset on our way home----
+bgload IMA_10.jpg
+music ~
+bgload BG_40D.jpg
+text .... Before I realize it, it's almost midnight.
+text Lost in thinking about what I should do, I've passed some of the night wide awake.
+text ~
+sound SE_04.aac 1
+text ".... Shiki-sama, are you awake....?"
+text .... Hisui's voice.
+text Why is she up this late at night?
+bgload BG_46C.jpg
+text "I'm up, but why, Hisui?"
+bgload BG_46C.jpg
+setimg HIS_T23.png 62 0
+text "---Yes, I was unsure, but if you were awake, I thought that I should tell you."
+text "Tell me what?"
+text "Just a while ago, a call came for you, Shiki-sama.
+text The message was that 'I'll be waiting in the park.'"
+text "Phone call.... This late at night?"
+text "Yes, the call ended before I could ask for a name, so I was unsure if I should tell you, Shiki-sama--"
+text "No--that is...."
+text ~
+text .... This doesn't require any thought.
+text That phone call had to have been from Yumizuka.
+text ~
+text ".... Thanks.
+text But, it's a little late, so I'll wait until tomorrow.
+text She's one of my classmates, so I'll see her tomorrow."
+bgload BG_46C.jpg
+setimg HIS_T04.png 62 0
+text "That is not true.
+text There is something wrong with smiling like that with such a strained face."
+text "Stupid, I'm not lying at all.
+text I'm fine, I won't go out this late at night.
+text Akiha would get mad, and you would get in trouble, so there's no reason for me to do that."
+text ".............."
+text Hisui descends into silence.
+text The conversation between us dies.
+bgload BG_46C.jpg
+setimg HIS_T23.png 62 0
+text ".... Shiki-sama.
+text Please do not push yourself too hard."
+text ".... Nah, I'm not pushing anything.
+text I'll go to sleep, so please go back to your room."
+text ".............."
+bgload BG_46C.jpg
+setimg HIS_T07.png 62 0
+text Hisui just looks at me.
+text "---Well, good night."
+text Not being able to endure her stare, I slam the door.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ".... Sheesh.
+text I can't hide anything from Hisui."
+text I take my knife out of the drawer.
+text .... I don't intend to necessarily use it, but I just feel better with it by my side.
+text ~
+text "---The park?
+text Why would she call me out at this hour---"
+text ~
+text Muttering, I think back to those foolish tales.
+text Vampires can only move about during night time.
+text So supposing that's true, then Yumizuka didn't call me out at this hour.
+text It's more like if it wasn't this hour, then she couldn't call me at all.
+text ".... Sorry, Hisui.
+text Even I think I'm stupid.
+text You told me not to strain myself, but I can't just sleep like this."
+text Apologizing to the empty room, I quietly leave the mansion.
+bgload IMA_10.jpg
+music 01.mp3
+bgload BG_27B.jpg
+text *pant*--*pant*--*pant*
+text I rest my body, burning from all the running.
+text It's almost midnight.
+text The park located off of the main road.
+text Because of the serial killings these past several days, there's not a soul to be seen around here.
+text "......"
+text Thump.
+text My heart beats loudly.
+text My throat dries up from the tension.
+text If the phone call that Hisui received was from Yumizuka,
+text then she has to be waiting there for me.
+bgload BG_28B.jpg
+text The park is empty at night.
+text There isn't a sound under the the moonlight.
+text I don't know why, but a chill runs through me.
+text ~
+text "----------Sst."
+text ~
+text The back of my head numbs.
+text A horrible chill, as if my body freezes to my fingertips.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+text I try to catch my breath.
+text In contrast to my cold body, my throat is scorching.
+text It's dry with thirst.
+text I put my hand in my pocket.
+text I just---wanted a blade in my hand.
+text "Why..?"
+text Just..
+text A faint headache.
+text A low temperature.
+text My mind is cool like ice.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+text Something is strange.
+text This park, it feels like something bad is around here.
+text ".... Just what am I afraid of?"
+text I shake the headache off, and walk deeper in.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text There's no one around.
+text A terribly dark and lonely place to meet someone.
+text ~
+text There--someone is crouched.
+text ~
+text Breathing raggedly.
+text Her face, pale white, as she scratches her throat in pain.
+text Without a doubt, it is Yumizuka Satsuki.
+music 09.mp3
+text "Yumi.. zuka?"
+text Her figure is tormented.
+text Without a thought for what happened last night, I run towards her.
+bgload BG_29B.jpg
+setimg STK_T04.png 53 0
+text "Wait.. !"
+text Yumizuka stops me with just a word.
+text ".... Wait, Shiki-kun.
+text I'm glad you came, but I don't want you any nearer right now.
+text Please, don't come any closer."
+text Her breathing looks painful.
+text Her body convulses as she speaks, as if she's about to collapse any second now.
+text "Don't be stupid!
+text I'm not going to leave someone looking as painful as you alone..!"
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg STK_T03.png 53 0
+text "No, I'm okay.. You came, so I'm fine now."
+text Forcing herself up, Yumizuka smiles at me.
+text ".... What's going on, Yumizuka?
+text Why haven't you been home?
+text What was that about, yesterday?
+text Why, that----"
+text "Hm?
+text That what?"
+text "That---you know what I'm talking about!"
+bgload BG_29B.jpg
+setimg STK_T01.png 53 0
+text "If you mean yesterday---well, you saw what happened.
+text I told you, 'I killed those people,' didn't I?"
+text She answers frankly.
+text .... It's almost as if she's laughing at my feelings of denial.
+text "Then.. the recent killings in town were all your doing, Yumizuka..!"
+text "I don't like to say it, but.. that's the way it is, yeah."
+text "What the hell do you mean, 'That's the way it is' ..!?"
+text "It's just the way it is.
+text I killed those people, and I'll keep on doing the same thing.
+text I can't just lie about it, can I?"
+text "Yumi.. zuka, you--"
+text "Please.
+text Stop calling me that.
+text I'm calling you Shiki-kun, so it's only fair for you to call me by my first name too."
+text "Wha.."
+text I take a deep breath.
+text Yumizuka is still like before.
+text Even though she acts like she used to----she says some pretty scary things.
+bgload BG_29B.jpg
+setimg STK_T03.png 53 0
+text "When I think about it, I look foolish.
+text I could never talk to you like this, for all the years I watched you from afar."
+text "Eh--Yumi.. zuka....?"
+text "I was always watching you, Shiki-kun.
+text Even before I was saved in that warehouse, I was always watching you.
+text I'm.. really a coward.
+text I always just agreed with the people around me, and smiled when it seemed right.
+text Before I knew it, everyone was treating me like an idol."
+text "So school wasn't fun for me.
+text But that changed, after you talked to me in the second year of junior high, Shiki-kun."
+text "Eh--?"
+text "Nah.
+text It's not something you'd remember.
+text How can I put it.. You were always natural, never showing off.
+text Probably you didn't even think about what you said back then."
+text "------"
+text What can I say.
+text Just as Yumizuka says, I remember nothing.
+text I don't know what I said to her, or even if I had talked to her back then.
+bgload BG_29B.jpg
+setimg STK_T01.png 53 0
+text "It's okay.
+text Don't make a face like that.
+text You were only hanging out with Inui-kun, so it was normal for you to ignore other classmates."
+text "But that was okay.
+text I was happy just being in the same class as you, Shiki-kun.
+text It was my goal to talk to you and let you call me Yumizuka-san.
+text Now that I think about it, it was too small of a wish."
+text ~
+text She recalls nostalgically.
+text Those ancient days.
+text .... Like she is remembering something that happened a long time ago.
+text "I.. was always watching you.
+text I knew you'd never notice me, but I watched you anyway."
+text "------"
+text ~
+text Well--to be honest, I'm happy, but..
+text ~
+bgload BG_29B.jpg
+setimg STK_T07.png 53 0
+text "Do you like me, Shiki-kun?"
+text How can I answer her right now---?
+text ~
+music ~
+bgload BG_29B.jpg
+choice I like her.|I hate her.|I can't answer.
+if selected == 1
+    jump s243.scr
+fi
+if selected == 2
+    jump s290.scr
+fi
+if selected == 3
+    jump s291.scr
+fi

@@ -1,0 +1,21 @@
+bgload BG_01A.jpg
+text "......"
+text No, I have a feeling that I won't see Senpai if I wait here.
+text If Senpai doesn't feel like seeing me, she'll leave as soon as she sees me.
+text .... If that's the case, she won't come to school through the front gate.
+text ~
+text ".... If she even comes, it'll be through the back gate."
+text I rush to the back of the school with this thought in mind.
+bgload IMA_10.jpg
+bgload BG_05A.jpg
+text ----*sigh*
+text No one is here.
+text Not even students coming to school through the back gate.
+text .... But, I still wait for Senpai who for sure isn't coming.
+bgload IMA_10.jpg
+bgload BG_05A.jpg
+text The chime sounds once, telling me that the gate closes.
+text .... Senpai didn't come.
+text I should go back before homeroom starts.
+bgload IMA_10.jpg
+jump s277.scr

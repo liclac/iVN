@@ -1,0 +1,56 @@
+bgload BG_06A.jpg
+text .... Senpai is glancing all around the hallway.
+text I don't know if she's looking for something or someone, but she looks really suspicious.
+text ~
+text "........ He--hehe, he."
+text I get this sudden irresistible urge.
+text Senpai's always taking everything at her own pace; I think I can respond sometimes to balance things out.
+bgload IMA_10.jpg
+bgload BG_11A.jpg
+text Senpai is seriously searching for something.
+text I sneak up behind her.
+text .... Luckily, Senpai doesn't sense me at all.
+text Here goes,
+text ~
+text "Boo!"
+text "----!"
+text I grab her from behind, but----
+sound SE_05.aac 1
+bgload BG_11A.jpg
+setimg CEL_T06A.png 52 0
+text .... before I know it, I'm lying on the ground.
+bgload BG_11A.jpg
+text "Oh----Tohno.. kun?"
+text Senpai sounds worried.
+text "Yeah--it's me, Senpai."
+bgload BG_11A.jpg
+setimg CEL_T08.png 52 0
+text "Geez, don't surprise me like that!
+text I reflexively got away, but are you alright?"
+text "Eh?
+text I'm fine.
+text I just tripped."
+text I stand up.
+text .... I guess the strange looks from all the other students in the hallway are to be expected.
+text "Ooowowow.... Man, I think I hit my hip.
+text Guess I shouldn't pull pranks like that."
+text Regret.
+text "Exactly.
+text I think I overdid it, but since it was your fault I will not apologize."
+text "Ah, I know, I know.
+text Sorry Senpai, I interrupted your search.
+text Well, this mischievous boy will now go back to his classroom."
+text Rubbing my butt, I start to head to class.
+bgload BG_11A.jpg
+setimg CEL_T01A.png 52 0
+text "Oh, wait Tohno-kun.
+text Can you stand there as a punishment?"
+text "?"
+text Stand here as a punishment?
+text As usual, she says something strange.
+text "Sure.... What is it?"
+text "Just don't move, please."
+bgload BG_11A.jpg
+text Like yesterday, she starts sniffing me again.
+text ".... Um, Senpai....?"
+jump s133.scr

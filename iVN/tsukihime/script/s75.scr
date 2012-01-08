@@ -1,0 +1,394 @@
+bgload BG_31A.jpg
+text "------Ha.. haha.."
+text I can't help but laugh.
+text .... But it's not all bad.
+text If the person I killed has come back to life, then that means I haven't actually killed anyone, right?
+text Well, I suppose the fact remains that I "killed" someone, but she's still alive.
+text ~
+text ---And that's something I should honestly be happy about---
+text Yeah.
+text With this, I should be able to get back to living my normal life.
+text A normal school life, just like I did up until now.
+text .... Well, in exchange, I seem to have been cornered by this strange person, but you might argue that it's a heck of a lot better than becoming a murderer.
+text ".... Okay, I've calmed down.
+text If you've got something to say, I'll listen: complaints, grudges, whatever.
+text Talk all you want."
+text "Yeah, I've got a whole lot of things to say to you.. but you're weird."
+bgload BG_31A.jpg
+setimg ARK_T11.png 36 0
+text "I'm just taking everything in right now.
+text You could say I've built up a resistance to weird stuff like this."
+text I don't think it's of much help in this case, though.
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+text "Hmph...."
+text She stares at me.
+text It isn't malicious.
+text ~
+text .... It's strange.
+text I'd thought that to get someone back when they got you was one of the common laws of the world.
+text Then she should be trying to kill me, but---
+text "--What are you staring at?
+text You're here to get revenge, right?
+text Then--"
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah, I guess I'm supposed to kill you back, in theory.
+text I'll kill you if you really want me to, but otherwise I'll pass for now.
+text It's not very efficient that way."
+text She stares at me head on.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "So!
+text Are you sorry?"
+text "----Eh?"
+text I'm stunned for a moment.
+text The things she says are so.. out of place.
+text "I'm asking you if you're sorry for killing me.
+text I'm thinking about forgiving you if you are, you see.
+text Besides, I get the feeling you're a pretty bad liar for a human."
+text "Sorry---me?"
+text "Yep.
+text If you apologize to me, then I'm fine with that."
+text ~
+text ---This is unbelievable.
+text ~
+text What's so unbelievable?
+text Not that the person I killed is forgiving me, but.. her voice sounds so kind.
+bgload BG_31A.jpg
+setimg ARK_T16.png 36 0
+text "Hey!
+text You have to give an answer when people ask you seriously, you know.
+text Come on, hurry up and answer.
+text We can't get on with things until we make it clear whether or not you're sorry."
+text She is angry.
+bgload BG_31A.jpg
+text ---Am I sorry, she asks?
+text That goes without saying---
+text ~
+text ".... Yeah, I regret it.
+text No matter what the reason is, I did kill someone."
+text ~
+text Without mercy or reason.
+text I killed just for myself.
+text ~
+text ".... I do regret the fact that I killed someone.
+text But more importantly, the person I killed was you, and so---"
+text .... It's a lie that it's alright if she's alive.
+text It's a fact that I killed her.
+text It's the ultimate violation; the greatest violence possible.
+text ~
+text "So---you can get your revenge on me--I thought it was only natural you'd be here to get revenge."
+text ~
+text .... I hang my head, mumbling, like I'm confessing to someone.
+bgload BG_31A.jpg
+setimg ARK_T09.png 36 0
+text "---I see.
+text Hmm.
+text You're not a bad person."
+text She smiles.
+text Despite calling herself a vampire, she has a very honest face.
+text ~
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "I've decided.
+text I'm going to make you help me."
+text "Eh-----?"
+text Help her?
+text What is she talking about?
+text ".... Hey.
+text What do you mean by helping you?"
+text "It's simple.
+text I'm going to get you to help me deal with the vampire which took root in this town."
+text ~
+text "----?"
+text .... Hold on, I'm getting more and more confused.
+text ~
+text "Dealing with vampires?
+text But you're a---"
+text "Oh, no, no.
+text I am a vampire, but the vampire in this town is a different kind altogether.
+text You live here, don't you?
+text Then you should know about the murders that have been occurring lately, right?"
+text "Yeah, quite a few people have been killed already.. hey, wait."
+text .... I remember now.
+text Come to think of it, all of the killer's victims had their blood extracted or something, didn't they?
+text ~
+text "Don't tell me that----"
+text "Exactly.
+text Even the news is saying stuff like 'the work of a vampire', right?
+text It's a funny thing; they obviously know what kind of creature is doing it, but no one is going around trying to vanquish it.
+text That's why I've got no choice but to do it for them."
+text "Wait, but---vampires don't exist."
+bgload BG_31A.jpg
+setimg ARK_T04.png 36 0
+text "Hmph!"
+text She lowers her brows in annoyance.
+text .... Oh, that's right.
+text There's an unidentified person standing in front of me claiming to be a vampire herself.
+text "---I don't really understand, but what you're trying to say is that you're here in this town to exterminate vampires, right..?"
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "That's right, but before I could, I was attacked and killed by some unknown killer.
+text Yeah, that really got me.
+text It was a perfect surprise attack and I was cut into seventeen pieces without a chance to do anything."
+text "Ugh----"
+text I see.
+text She must mean me.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "That's right.
+text Until I was fully recovered like this, I was really planning to kill you, you know.
+text That's the first time anyone's embarrassed me like that.
+text And, it took about eighty percent of my power to fully recover."
+bgload BG_31A.jpg
+setimg ARK_T07.png 36 0
+text "But more importantly, it really, really hurt.
+text It was so painful I thought I was going to go crazy.
+text However, the pain was so great, it restored my sanity.
+text Do you know what it's like experiencing that over and over for a whole night?"
+text ~
+text "........"
+text I don't know.
+text Actually, I don't want to know.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "So, full of hatred, I went out to look for you.
+text I was so worked up that I didn't even care about the vampire, the very reason why I'm here.
+text I knew you were a student, so that's why I waited over there for you."
+text ".... I don't get it.
+text If you hated me so much, why are you forgiving me?"
+text "---Let's see.. to put it simply, I calmed down after a while.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text I already used up a lot of power, and I thought that it would be more efficient to use you as a shield than to kill you."
+text ".... Hold on.
+text You just said something really bad for me."
+text "Eh?
+text Did I say something like that?"
+text "You said you were going to use me as a shield."
+bgload BG_31A.jpg
+setimg ARK_T04.png 36 0
+text "Of course.
+text I already did forgive you, but that's just my personal feelings.
+text You've got to atone for your murder through action, not just emotion, right?"
+text "---Well, even if you ask me.."
+bgload BG_31A.jpg
+setimg ARK_T16.png 36 0
+text "What's with you?
+text I can't tell when you're being sincere and when you're not.
+text Let me repeat it again: you killed me.
+text You probably can't imagine it, but it takes a lot of energy to regenerate once you've been killed.
+text Well, actually, it wouldn't be a big deal if you had just killed me, but the way you killed me was something I've never seen before.
+text I couldn't heal the wounds, so I had no choice but to remake my body parts.
+text That's why it took so much energy to revive---"
+text She looks angry.
+text .... It seems like she's recalling her forgotten anger while she talks.
+text "Anyhow, I'm weak right now!
+text I think I'll be able to recover after two nights, but if the enemy attacks before then, I'll be in danger.
+text That's why for now, I'll have you be my shield."
+text "You'll have me do it---?
+text What are you doing, deciding everything by yourself?"
+text "What?
+text This is all your fault to begin with, so isn't that much to be expected?"
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "Or are you not sorry after all?"
+bgload BG_31A.jpg
+text She looks straight at me with honest eyes.
+text "...... Uhh."
+text This is unfair.
+text Sorry or not, using those eyes is unfair.
+text .... It's unfair she has such pure eyes like that when she claims she's a vampire---
+text ~
+text "I'm.. um---"
+text Stuck for an answer, I lift my gaze.
+music ~
+text ".... Huh?"
+text ~
+text .... What is it?
+text Something odd is there, in the gap between the buildings.
+text ~
+text "Hold on.
+text What's that?"
+text I get up and walk.
+text I walk to the middle of the alley, and I finally realize what it is.
+music 06.mp3
+text A blue-colored bird.
+text A crow, to be precise.
+text ~
+text .... A blue.. crow.
+text That inauspicious thing I saw two nights ago---
+bgload BG_31A.jpg
+setimg ARK_T07.png 36 0
+text "---Oh, man.."
+text The girl murmurs.
+text ~
+text The crow just stares at us.
+text ~
+text "Geez, thanks to your slowness, he found us."
+text The girl looks at the entrance to the alley.
+text "Found us?
+text Who?"
+bgload BG_31A.jpg
+text I cast my gaze towards the alley entrance.
+text ~
+text -----Then.
+text "-----!"
+text I take a step back in shock.
+text Before I knew it, a dog had appeared in the narrow path running into the alley.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg KEMO_T01.png 0 0
+text It has four tough legs and a tense neck like steel frame.
+text That form, far removed from that of a human, is one made solely for hunting.
+text .... It doesn't need to resort to verbal intimidation.
+text Most humans would become nervous just by looking at that kind of "hunting" beast.
+text As a fellow life form, it inspires awe by its dishearteningly superior athletic ability.
+bgload BG_31A.jpg
+text ".... A black.. dog?"
+text ~
+text ---I start to shake.
+text ~
+text .... The black dog looking in our direction isn't small like a stray.
+text As big as a German Shepherd or a Doberman, it just stands there, menacing us.
+bgload BG_31A.jpg
+setimg ARK_T05C.png 36 0
+text "......"
+text The girl says nothing, but looks at the dog with disinterested eyes.
+bgload BG_31A.jpg
+text Then..
+text Suddenly, the black dog jumps.
+text No, it's running, but with a speed that makes it seem like it's jumping.
+text ~
+text "------Eh?"
+text ~
+text I can't do anything.
+text The black dog jumps straight for my throat.
+text I can see it.
+text I can see its black body moving towards me, but I don't even have time to think about dodging it.
+bgload IMA_10.jpg
+text Thud!
+text ~
+text I feel a shock on my body.
+text "Guh-----!"
+text I was hit hard from the side.
+text It's not the black dog.
+text ~
+text It seems the girl pushed me before it could crush my throat.
+text With an easy movement, like someone throwing a ball, she hurls me into the wall using just one hand.
+sound SE_05.aac 1
+text "-----!"
+text With a terrific "wham!", I fall on my rear.
+bgload BG_31A.jpg
+text "Why.. you!
+text What in the world are you doing!?"
+text "Never mind that, keep your eyes in front!"
+text The girl yells.
+text I look---Having lost sight of me, its target, the black dog bounds towards the wall.
+text Sticking to the wall like a lizard, it jumps again.
+text It bounces from the wall towards me.
+text The dog's path is like black lightning.
+bgload BG_31A.jpg
+setimg KEMO_T02.png 0 0
+text "---!"
+text It's too fast; I can't react.
+text The black dog opens its mouth, filled with teeth and saliva.
+text This time, it clamps down towards my windpipe----
+text "Kuh....!"
+bgload IMA_10.jpg
+text I close my eyes.
+text The dog's teeth sink into my throat.
+text But in that instant,
+text the dog lets out a yelp and releases me.
+bgload BG_31A.jpg
+text "Eh---?"
+text ~
+text ---That's.. impossible.
+text ~
+text The black dog lets out a scream and leaps straight up.
+text There is nothing there, but nonetheless it flies high into the sky by itself.
+text Just like that---the black dog, after going several meters into the sky, makes a scream and falls back down onto the concrete.
+text ~
+text No, perhaps more accurately, it was hit into the concrete.
+music ~
+text "----What was that?"
+bgload BG_31A.jpg
+setimg ARK_T07.png 36 0
+text "Geez, you just made me waste more of my energy."
+bgload BG_31A.jpg
+text The girl quietly approaches the black dog.
+text It is crushed against the concrete like a pressed flower.
+text "---That's quite a mongrel of a familiar.
+text .... I suppose it was some kind of scout."
+text The black dog liquifies into some kind of tar-like substance, and is absorbed into the concrete.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text ".... It melted.. no, maybe it's just dissolving.
+text ----It can't be, can it?
+text There's no way Chaos would be in a place like this."
+text Heaving a long sigh, she approaches me.
+music 01.mp3
+bgload BG_31A.jpg
+setimg ARK_T03.png 36 0
+text "Oh?
+text You don't seem to be hurt, so there's no problem."
+text .... She's mumbling something.
+text My throat---I can still feel the dog's teeth sinking into it.
+text "Hey---what was that thing?"
+text "A familiar of an enemy vampire.
+text We were discovered because you weren't being clear."
+text "Discovered---you mean.. by that enemy vampire you mentioned?"
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah, this isn't good.
+text It looks like I really will need you as a shield now."
+text She says it so casually, and with a smile.
+text "S---stop saying such crazy things, you idiot!
+text You saw me!
+text What do you think I can do!?
+text You're a lot better off by yourself..!"
+text "Not really.
+text With the power I just used to protect you, I really am empty now."
+text "Wha---!?"
+text What in the world?
+text I'm grateful she helped me just then, but still---
+text ".... I can't do it.
+text I can't.
+text I don't have the power to drive away something like that.
+text Sorry, but I can't even be a shield."
+bgload BG_31A.jpg
+setimg ARK_T02.png 36 0
+text "----Liar.
+text You killed me.
+text Why would you lie after doing something like that?"
+text "That was---"
+text ~
+text That was something I don't even understand myself.
+text ~
+text "---No.
+text Look, I can't do it.
+text I'm just a normal human.
+text I can't help you."
+bgload BG_31A.jpg
+setimg ARK_T04.png 36 0
+text ".... Not true.
+text All you have to do is keep watch while I sleep, that's it.
+text You can do that much without any problems, right?"
+text "That's---"
+bgload BG_31A.jpg
+text ~
+text She looks straight at me.
+text .... Somehow, those eyes are making me weaker.
+text I---
+text ~
+choice I'll cooperate.|No, I won't cooperate.|Escape somehow.
+if selected == 1
+    jump s76.scr
+fi
+if selected == 2
+    jump s77.scr
+fi
+if selected == 3
+    jump s78.scr
+fi

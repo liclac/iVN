@@ -1,0 +1,297 @@
+music ~
+bgload ima_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text  ------Suddenly, I wake up.
+bgload ima_21.jpg
+text  A vast night.
+text  In the midst of a grassy field that extends as far as the eye can see, I stare blankly at the moon.
+text  There is no one else here.
+text  No signs of human presence; no sounds from any animals.
+text  Maybe it's because I've pushed myself too hard these past couple of days.
+text  I just wanted to lie down quietly and be alone, but it seems I fell asleep.
+text  It was a bright darkness.
+text  Probably because the moon is hanging so low.
+text  The grassy field that looked like a black sea last night is bright, like some sort of a stage.
+text  A clearing illuminated by sharp, sharp moonlight.
+text ~
+text  I thought it was like a theater somewhere.
+text ~
+text  Only, there are no curtains around.
+text  This field that sweeps far and wide is devoid of any curtains of trees, nor is there an audience or stage crew.
+text  There's nothing here.
+text  The only things here are the moonlight and the white darkness.
+text  The wind does not blow and the grass does not even sway.
+text ~
+text  ----How quiet.
+text ~
+text  I laugh quietly as it feels like all the commotion until yesterday was just a joke.
+text  No, if you talk about jokes,
+text  then my life until now was so happy that, looking back at it, it seems like it was just an illusion.
+text  A lot of things have happened.
+text  There were a lot of amazing things that occurred, and my life changed pace quite often.
+text  The expected, and the unexpected.
+text ~
+text  Everything was illusory.
+text  Looking back, it seems that no matter how trivial things seemed, all those coincidences built on each other.
+text  The days were only a repetition of each other, but no two days were quite the same.
+text  Then, that means
+text  Perhaps each and every one of them was an irreplaceable moment I can never return to.
+text  I recall many things that happened.
+text  The memories are so nostalgic, it makes me smile.
+text  Just the thought of the new experiences awaiting me in the future, different from those of my past, makes me dizzy.
+text ~
+text  Truly a mix of emotions. Happiness, excitement, and enough worries to give me a headache.
+text ~
+bgload ima_10.jpg
+text  ------Thump.
+text ~
+text  My heart beats loudly once.
+text  What comes after is my usual anemia.
+text  The dizziness continues for a while, but eventually disappears.
+text  Even though the wound on my chest healed, my anemia didn't go away.
+text  It seems like my fragile health wasn't caused by the wound on my chest alone.
+text ~
+text   Well, of course.
+text  Being able to perceive the shape of death means I stand much closer to death than others.
+text  To be honest, I never thought about living a long life, like ordinary people.
+text  Thump. The sound of my heart beating.
+text  It's not like me to think of this, but I wonder just how long I can keep running through time.
+text  The conclusion is rather uninteresting.
+text ~
+text  Because, even if it stops tomorrow, or in a few decades, still----
+text "Hey you. It's dangerous just lying around like that."
+text ~
+text  ----And.
+text ~
+text  I hear a familiar voice.
+music 08.mp3
+bgload event/ao_01.jpg
+text "Eh?"
+text "What do you mean, 'eh'? You have an awful lot of free time on your hands if you can just sleep around here in the middle of the night. I was this close to kicking you, so you better watch out."
+text  She says this grumpily while carrying a trunk in one hand.
+text "Oh? Kicked? And by who?"
+text  I lift myself up.
+text "Isn't it obvious, stupid? You and I are the only ones here, so who else could it be but me?"
+text  She declares this confidently as she folds her arms.
+text "Ha-------"
+text  Stifling the laughter spilling out of me, I gaze up at her and the moon.
+text "I can't believe it I somehow felt that I'd meet you, but I didn't think that day would be today."
+text "What a coincidence. I didn't expect to see you here, either.
+text  I heard you were here, but we never did meet up, did we? So I was thinking that it was our fate this time not to meet. Although"
+text "If we did see each other, it would have caused trouble, right?"
+text "Right. I am a member of the Association, after all. We're not quite on good terms with the Church."
+text  She laughs without any hint of guilt.
+text  It really is hard holding back my laughter.
+text  It makes me happy that this person hasn't changed one bit since that day we met.
+text "And, since I ran out of things to do, I was going to leave here tomorrow.
+text  See, this incident was partially my fault, you know? So, I stopped by here for a final check, and I almost ended up kicking some ordinary person."
+text "Then we were fated to meet. To be honest, I felt we would meet up again."
+text  I smile.
+text "You're right. I welcome this sort of fate."
+text  She flashes me an identical smile in return.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "Long time no see. You've grown up, Shiki."
+text "Yes. You seem to be doing well too, Sensei."
+text ~
+text  Returning her plain greeting, I look back at Sensei with serious eyes.
+bgload ima_10.jpg
+text ~
+bgload ima_21.jpg
+text  We sit in the field of grass and talk.
+text  We talk about senseless things, just like the old days.
+text  It was only briefly that we talked about what had happened and what we were going to do in the future.
+text "It's about time. I don't plan on staying here long. I'm leaving before dawn, so we'll have to part here."
+text  Saying that, Sensei stands up.
+text  I try to stand up with her but I collapse.
+text " Shiki?"
+text  I can hear her voice.
+text  I take a few deep breaths and stand back up.
+text " Dang. It seems like no sleep or rest until last night just hit me."
+text "Looks like it. That dizziness is your biggest weakness.
+text  You don't look like you have any injuries. Is your body alright?"
+text "Yeah, thanks. Unlike you, I have a normal body."
+text "Hmm If you say so."
+text  She glances at me meaningfully, then looks directly into my eyes.
+text "----Shiki You know you're not going to last much longer?"
+text ~
+text  Her clear words.
+text "---------"
+text  I'm surprised.
+text  It's not that I'm surprised by her words, but rather, I never thought she would say them.
+text "----Well, yeah I kind of know about it already."
+text "Is that so? But you seem pretty calm.
+text  Even now, you strain your body over something that has nothing to do with you.
+text  I would have a hard time believing it, but are you really not afraid of dying?"
+text  She stares at me, somewhat peeved.
+text "No way. I think I'm more afraid of death than most people."
+text ~
+text  But that's something in the future.
+text  It may be tomorrow or next year, but I can't think about the future too much.
+text ~
+text "I can't think about the future too much. I prioritize what I want to be doing now."
+text "I see, so you can see your own death as well. That's why you're more afraid of death than others.
+text  That makes sense Even for me, I'd be shivering if I could see the thirteen steps to the gallows."
+text "No, it's not like that. It's not like I can clearly sense when I'll die."
+text "It's almost the same thing. Let's see can I ask you something, for reference?
+text  You ended up with a body weaker than those of others. It would only be natural to curse it and fear your life.
+text  Hey, Shiki. Don't you find it difficult living life with such a body?"
+text  Sensei looks at me openly, yet with unreadable eyes.
+text  Those are the eyes of a magus, her side of which I'm not familiar with.
+text "---Isn't that right? You can no longer have 'normal' happiness like everyone else. As long as you have that body of yours, all that awaits is suffering."
+text "-----That may be so but"
+text  I think it's not that bad.
+text "But, I'm probably happy.
+text  Because up until now was a lot of fun. So, it'll probably be fun in the future, too."
+text "-------------"
+text  The sound of her gasping.
+text  With a large sigh, she changes back to her usual self.
+text "Shiki."
+text  She seems sad as she calls my name.
+text "To be honest, I do feel some regret.
+text  I feel like I said something to you that I shouldn't have back then."
+text  I look straight into her eyes.
+text  It's different from before Back then I had to look up to see her eyes, but now she is looking up into mine.
+text "God doesn't give excessive power without reason. And I told you that if you have that power, there has to be some meaning to it.
+text  But, you know, it's up to the individual to decide what that meaning may be. There's no room for anyone else, especially something as ambiguous as a god, to interfere.
+text  So it would have been alright if you did nothing.
+text  Even if you denied those eyes of yours and did nothing, it still would have been alright.
+text  I'm regretting my words, because you could have lead a normal life more suitable for you, as Shiki."
+text " Sensei."
+text "Didn't I tell you earlier that you should live your life with an honest heart? You really did, Shiki.
+text  But, that's something difficult to do.
+text  It would have been easier for you to stray from your path a little, because your eyes draw you to disaster.
+text   Isn't it ironic that a killer more skilled than anyone else also hates killing more than anyone else?
+text  If you lived a normal life, or had your heart deviated from the true path, you wouldn't have had to go through so much pain."
+text "Yeah that may be true, now that you mention it. If I gave up, it may have been a little easier.
+text  But, that has no meaning. It would have only made things a little easier, and to start out with, I never thought of it as particularly painful.
+text  You have the wrong idea, Sensei. Everything I did, I did because I wanted to. It's not like I'm a saint or anything.
+text  I like myself just the way I am.
+text  That's why I was glad that you told me back then to become an adult by living just the way I was.
+text  Sensei. I don't regret anything, so there's no reason for you to regret anything either."
+text  I really feel that from the bottom of my heart, and I smile at her.
+text  As if dazzled by a radiant light, she narrows her eyes, then closes them briefly.
+text "-----I see
+text  Man, it seems you really have become a wonderful young fellow."
+text  Her hand reaches for her trunk.
+text "Yeah, you're fine just the way you are, Shiki.
+text   My world is full of devious individuals, so associating with someone like you balances things out. It might be hard on you, but if you don't mind, then I guess it's alright."
+text ~
+text  With a "see you," Sensei turns her back to me.
+text "-------------"
+text  I can't stop her, and there's no reason to.
+text  I can feel that this really is the last time.
+text   All I can remember is the one thing I forgot to say.
+text ~
+text  That day.
+text  In an ocean of grass, an important friend who had spoken with me, who was about to disappear.
+text "-------------"
+text  There's no wind.
+text  The grass does not sway and the only thing that changes is her figure, which gets farther away.
+text  She didn't turn around suddenly back then, and she won't now.
+text "------Sensei."
+text ~
+text  I call out to stop her.
+text  She halts in her tracks.
+text "What?"
+text  She doesn't turn around. Only her voice drifts to me.
+text "-------------"
+text  I know what I must say.
+text  The words I've always wanted to say.
+text  It's just that if I say these words, I really won't be able to see her ever again.
+text  But still---I have to say them.
+text  She told me, "All I'm saying is live true to yourself, and become a man in the manner that you think is right."
+text  She also taught me that it is important to accept my mistakes, and to be able to apologize for them.
+text  That's why.
+text  That's why I have to say it.
+text ~
+text ~
+text ~
+text ~
+text "----Thank you. I'm glad I met you, Sensei."
+text   That's what I felt as a child.
+text  Those words were the ones from the bottom of my heart that I once could not say, because I was filled with the sadness of parting.
+text  From behind, it seems Sensei is surprised.
+text  She stands there, lowers her head, and turns toward me with her usual expression.
+bgload ima_10.jpg
+bgload event/ao_02.jpg
+text "----Take care, Shiki Let's meet again if we are fated to do so."
+text  She says this as if it was nothing, and the wind suddenly gusts.
+text  Swooosh.
+text  It rustles through the swaying grass, and the moon's light disappears.
+bgload ima_10.jpg
+text  After that,
+text  as if abducted by the wind, she disappears.
+music ~
+bgload ima_21.jpg
+music 07.mp3
+text "--------------"
+text  For some strange reason, I'm not shedding any tears.
+text  I feel sad, and I don't want to part.
+text  But not shedding tears also means that I've grown up since then.
+text  The grassy field becomes silent once more.
+text  Gazing up, it looks like the moon is about to vanish from the sky.
+text  All things pass by, just like the moon disappearing.
+text  And yet, after a long time, there may be the chance to meet again.
+text ~
+text  And so, tonight's moon disappears.
+text "----Well then"
+text  I close my eyes just once, as if lowering the curtains.
+text  In the sky, dawn is drawing closer.
+text  Just like the moon that has just fallen,
+text  for the time being, the curtains are lowered on the long story for Tohno Shiki----
+bgload ima_10.jpg
+text ~
+bgload ima_01.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text  The heavens soar high above.
+text  I look up, while embraced by the clear, brisk night air.
+text ~
+text ~
+text ~
+text ~
+text  All things are uncertain, just like a waking dream.
+text  The past is all an illusion.
+text  It doesn't leave behind a tangible form, and even the most vivid of memories are really just transient.
+text  Yet, I believe that the moon's image will never fade away.
+bgload ima_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text  Even that is fragile.
+text ~
+text  Even though I know it will end one day, I don't care.
+text ~
+text ~
+text ~
+text ~
+text  The memories continue on.
+text  I'm sure that even the end will be a happy one.
+text ~
+text  ----The lunar eclipse is far away.
+text ~
+text  Everyone races through their remaining time, and passes on.
+music ~
+bgload fin.jpg
+text Fin.
+jump main.scr

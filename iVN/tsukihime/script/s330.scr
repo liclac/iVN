@@ -1,0 +1,116 @@
+bgload BG_06B.jpg
+text .... The events which happened during lunch break still weigh on my mind.
+text I'm sure she can walk home alone, but I feel I ought to go and check on Akiha.
+bgload BG_11B.jpg
+text I walk along the corridor lit by the fading sun.
+text I think Akiha's class is first grade, class one.
+text ~
+bgload IMA_10.jpg
+bgload BG_06B.jpg
+text The classroom is silent.
+text A girl stands alone in the empty, red classroom.
+music ~
+bgload BG_06B.jpg
+setimg AKI_T01A.png 40 0
+text "...."
+text .... I feel.. a little dizzy.
+text The classroom dyed by the evening glow.
+text Alone, a girl with long, faintly red hair is preparing to leave.
+text ~
+text No matter how I look at her, she's Akiha.
+text So why?
+text Why do I feel as if I am seeing a stranger for the first time?
+bgload BG_06B.jpg
+music 03.mp3
+bgload BG_06B.jpg
+setimg AKI_T01A.png 40 0
+text "Nii-san?"
+text "------"
+text As she calls out to me, the dizziness subsides.
+text "You're---Akiha, right?"
+bgload BG_06B.jpg
+setimg AKI_T04A.png 40 0
+text "..?
+text Nii-san, are you feeling poorly again?"
+text Akiha addresses me in her usual tone.
+text .... Looking at Akiha's black hair, I feel that without a doubt, this is my own little sister, Tohno Akiha.
+text ".... Nah, it's nothing.
+text Come on, Akiha, it's time to go back.
+text If you're not doing anything, do you want to walk home together?"
+bgload BG_06B.jpg
+setimg AKI_T09.png 40 0
+text "Yes.. if you don't mind, let's walk home together."
+text For some reason, Akiha smiles tenderly.
+text .... My heart thumps.
+text Perhaps it's the dizziness from earlier, or perhaps the strangeness of seeing Akiha in my own school.
+text For some reason, my heart beats far harder than it needs to.
+bgload IMA_10.jpg
+bgload BG_01B.jpg
+text I leave the school building with Akiha.
+text As we reach the school gates, I catch sight of Senpai aacing at me.
+bgload BG_01B.jpg
+setimg CEL_T03.png 52 0
+text "Ah, you came at last, Tohno-kun."
+text "Huh, Senpai?
+text What are you doing, standing here like this?"
+bgload BG_01B.jpg
+setimg CEL_T08.png 52 0
+text "Geez, I wasn't just standing here, I was waiting for you, Tohno-kun, but---"
+bgload BG_01B.jpg
+text Senpai glances at Akiha next to me.
+text Somehow, at a glance she realizes that Akiha and I are walking home together.
+bgload BG_01B.jpg
+setimg CEL_T03.png -12 0
+text "Tohno-kun, is this your little sister?"
+text Senpai throws a sidelong glance at Akiha.
+bgload BG_01B.jpg
+setimg CEL_T03.png -12 0
+setimg AKI_T01A.png 104 0
+text ".................."
+text Akiha says nothing.
+text Nothing is said, but both Senpai and Akiha tell me with their eyes to "Introduce me to this person".
+text ~
+text ----Ahh.
+text It seems like this is going be a really tiresome job.
+text "Senpai, this is my younger sister, Akiha.
+text She transferred to our school just today."
+text Akiha bows to Senpai.
+bgload BG_01B.jpg
+setimg CEL_T01A.png -12 0
+setimg AKI_T01A.png 104 0
+text "I see.
+text Hello.
+text My name is Ciel and I'm a friend of Tohno-kun."
+bgload BG_01B.jpg
+setimg CEL_T07A.png -12 0
+setimg AKI_T01A.png 104 0
+bgload BG_01B.jpg
+setimg CEL_T07A.png -12 0
+setimg AKI_T11A.png 104 0
+text .... What is it?
+text Senpai and Akiha just stare at each other, saying nothing.
+bgload BG_01B.jpg
+text "Senpai, you sounded like you were waiting for me.. What's going on?"
+bgload BG_01B.jpg
+setimg CEL_T03.png 52 0
+text "Well, it just happened that I wanted to spend a little time with you, but---
+bgload BG_01B.jpg
+setimg CEL_T01A.png 52 0
+text ---Since it's already late today, I'll leave it for another time.
+text Bye, Tohno-kun.
+text See you tomorrow as well, Akiha-san."
+text "Bye" says Senpai, and she walks away from us.
+bgload BG_01B.jpg
+text "----Ah."
+text Senpai leaves without giving me a chance to stop her.
+bgload BG_01B.jpg
+setimg AKI_T01A.png 40 0
+text "Let's go home, Nii-san.
+text It will get dark soon."
+text Akiha says this as if nothing happened.
+bgload IMA_10.jpg
+setvar akiha_regard + 1
+if flgL >= 1
+    jump s333.scr
+fi
+jump s332.scr

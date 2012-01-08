@@ -1,0 +1,147 @@
+bgload IMA_10.jpg
+bgload BG_27A.jpg
+music 03.mp3
+text The weather's great so I decide to go to the park.
+text We can relax there and then go somewhere else more appropriate later.
+bgload BG_28A.jpg
+text We enter the park.
+text It's still midmorning but there's a bunch of people my age here.
+bgload BG_28A.jpg
+setimg ARK_T01A.png 36 0
+text "Hm, there's a lot of people here during the day.
+text I've met you here a lot, but it seems like a totally different place."
+text Arcueid seems to be in a good mood.
+text I just planned to walk around the park, but she doesn't seem discontent at all.
+text "Oh, there's a store in a place like this.
+text Shiki, what does that sell?"
+text Arcueid points excitedly at a vendor's stand.
+text The path from the fountain leads to a wheeled ice cream stand.
+text "That's an ice cream seller out of season.
+text Cold things aren't good for the body, so we should just pass it up for now." I stop Arcueid's question before she asks.
+bgload BG_28A.jpg
+setimg ARK_T11.png 36 0
+text No matter how unhappy a face she makes, I don't think eating ice cream in the fall would be good at all.
+text ----But, what is this strange feeling?
+text I feel weird just walking, I feel everyone's watching us....
+bgload BG_28A.jpg
+setimg ARK_T03.png 36 0
+text "Hey Shiki, do you know all these people?"
+text "No, there's only one person I know who'd skip school to hang around like that.
+text Why?"
+text "Hm, a lot of people seem to be looking at us, so I thought maybe you knew them."
+text ".... I see.
+text So that's what felt strange."
+text I get it now.
+text I was just walking around to find a good spot on the grass to sit down on, but everyone is stealing glances at us.
+text It doesn't need to be said, but they're looking at Arcueid, not me.
+text I've been doing my best not to be conscious of it, but Arcueid is just unbelievably beautiful.
+text And walking in the park is just asking for stares.
+text ~
+text The guys killing time in the park all start to look at her.
+text .... For some reason, I feel angry.
+text "Arcueid, let's go somewhere else."
+text Grabbing her hand, I pull her as I walk towards the back of the park.
+bgload BG_29A.jpg
+text The place we usually meet has much less people than right in front of the fountain.
+text .... This should be little better than before, at least.
+text "We'll kill time here a little bit.
+text I'm going to get something to drink, you have any requests?"
+text I let go of her hand and turn towards her.
+bgload BG_29A.jpg
+setimg ARK_T14.png 36 0
+text "U.... um, is water okay?"
+text "Sure.
+text Go ahead and sit on that bench.... if some guy starts to talk to you, just don't listen to him."
+text Saying that, I run to a nearby vending machine.
+bgload IMA_10.jpg
+bgload BG_29A.jpg
+text Even though it's now past noon, we don't leave the park.
+text .... I'm not sure why, but Arcueid's been quiet since we came here.
+text She hasn't even drank the water I got for her, and she just looks around the park doing nothing.
+text We watch the flocks of pigeons around the park and the happily running figures of children accompanied by their mothers.
+bgload BG_29A.jpg
+setimg ARK_T14.png 36 0
+text "Hey, Shiki."
+text "Hm?
+text Are you bored just spacing out?
+text We can go somewhere and get something to eat if you want."
+text "No, that isn't it.... I was just wondering about what happened before."
+text "....?"
+text Before?
+text .... What is she talking about?
+text "I don't get it.
+text What do you mean?"
+text "I'm talking about when you grabbed my hand earlier.
+text We've come into contact before, but there was always a reason.
+text But just now, there wasn't a reason, so I was wondering just what it was."
+text "What it was?----There really wasn't a reason or anything."
+text Saying that, I also get confused.
+text .... Come to think of it, I pulled her along naturally for no reason.
+text That being said, I don't even understand why.
+text "It doesn't really matter.
+text It's not that big of a deal.
+text Something sudden like that, is just human."
+bgload BG_29A.jpg
+setimg ARK_T03.png 36 0
+text "I see.
+text Having lots of things done for no reason.. you've done a lot of useless things."
+text Arcueid replies, amazed.
+bgload BG_29A.jpg
+setimg ARK_T01B.png 36 0
+text "Hey Shiki.
+text It's kind of off topic, but did you ever have a time like that?"
+text She really is asking about random things.
+text She's looking at the playing children, so she's probably asking about that.
+text ".... Hmm, Maybe.
+text I played around a lot as a kid, but that was only inside the mansion.
+text I rarely ever played in a park like this."
+text ~
+text .... That's right.
+text My only playmates were Akiha and the others.
+text I never played with people I didn't know like these kids.
+text ~
+text I might have been more like..
+text A kid who led an insulated life.
+text "What about you, Arcueid?
+text .... Um, you don't have to talk about it if you don't want to."
+text .... Um, if vampires didn't have a childhood, asking her would be rude.
+bgload BG_29A.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah.
+text Like you're thinking, I never had a childhood.
+text While I was weak as an individual, I slept through it, and I was active only when my existence was at its peak.
+text That's why I thought it was strange.
+text Infancy and old age are such useless times, why do people manage to live through it?"
+text She seems to be almost asking herself, not me.
+text ".... Arcueid?"
+text "It's nothing.
+text This is the first time I ever spent time doing nothing, so my thoughts seem to be malfunctioning."
+bgload BG_29A.jpg
+text Saying that, Arcueid stands up from the bench.
+text I stand up with her.
+text .... Well, we've already been in the sun for about two hours, so we should probably head into the city.
+text "----Oh, if it was dull you should've told me so."
+bgload BG_29A.jpg
+setimg ARK_T03.png 36 0
+text "Hm, maybe it is dull, but it wasn't boring.
+text I was even thinking I'd like to spend more time if it's this kind of dull, but you didn't like it?"
+text "Eh....?"
+text .... That's right, even if it was uneventful, it wasn't boring.
+text Come to think of it, spending time sunbathing with Arcueid is something pretty rare.
+text "----That's right, it wasn't bad at all.
+text But, let's get something to eat.
+text I haven't had anything since this morning, so I'm pretty hungry."
+text Saying that, we start to walk from the park.
+text "Hm------"
+text For a brief moment, I think about holding her hand but I stop right away.
+text There wasn't any reason for it before, so it felt natural to do so.
+text But now that I have a reason to do so, to hold her hand seems very senseless.
+text .... To be senseless means that taking notice is the result of less-than-pure thoughts.
+text ~
+text "I'm full of theories today."
+text ~
+text Geez.
+text Just like Arcueid says, I guess I do a lot of useless things.
+bgload IMA_10.jpg
+music ~
+jump s172.scr

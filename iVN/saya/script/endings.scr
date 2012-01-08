@@ -1,0 +1,113 @@
+if ending <= 0
+	jump main.scr
+fi
+if asylum >= 1
+	if badending >= 1
+		if madending >= 1
+			choice Asylum end|Bad end|Mad end|Exit
+			if selected == 1
+				music music/s05_psycho.mp3
+				jump s10a.scr
+			fi
+			if selected == 2
+				bgload bg04ni0.jpg
+				jump s22.scr
+			fi
+			if selected == 3
+				music music/s10.mp3
+				bgload bg04ni0.jpg
+				jump s23.scr
+			fi
+			if selected == 4
+				jump main.scr
+			fi
+		fi
+		if madending <= 0
+			choice Asylum end|Bad end|Exit
+			if selected == 1
+				music music/s05_psycho.mp3
+				jump s10a.scr
+			fi
+			if selected == 2
+				bgload bg04ni0.jpg
+				jump s22.scr
+			fi
+			if selected == 3
+				jump main.scr
+			fi
+		fi
+	fi
+	if badending <= 0
+	 	if madending >= 1
+			choice Asylum end|Mad end|Exit
+			if selected == 1
+				music music/s05_psycho.mp3
+				jump s10a.scr
+			fi
+			if selected == 2
+				music music/s10.mp3
+				bgload bg04ni0.jpg
+				jump s23.scr
+			fi
+			if selected == 3
+				jump main.scr
+			fi
+		fi
+	 	if madending <= 0
+			choice Asylum end|Exit
+			if selected == 1
+				music music/s05_psycho.mp3
+				jump s10a.scr
+			fi
+			if selected == 2
+				jump main.scr
+			fi
+		fi
+	fi
+fi
+
+if asylum <= 0
+	if badending >= 1
+		if madending >= 1
+			choice Bad end|Mad end|Exit
+			if selected == 1
+				bgload bg04ni0.jpg
+				jump s22.scr
+			fi
+			if selected == 2
+				music music/s10.mp3
+				bgload bg04ni0.jpg
+				jump s23.scr
+			fi
+			if selected == 3
+				jump main.scr
+			fi
+		fi
+		if madending <= 0
+			fi
+			choice Bad end|Exit
+			if selected == 1
+				bgload bg04ni0.jpg
+				jump s22.scr
+			fi
+			if selected == 2
+				jump main.scr
+			fi
+		fi
+	fi
+	if badending <= 0
+		if madending >= 1
+			choice Mad end|Exit
+			if selected == 1
+				bgload bg04ni0.jpg
+				jump s23.scr
+			fi
+			if selected == 2
+				jump main.scr
+			fi
+		fi
+	fi
+fi
+
+text No endings unlocked!
+jump main.scr

@@ -1,0 +1,255 @@
+bgload BG_40C.jpg
+text ~
+text ----I.. just can't let her be.
+text ~
+text I know that looking for Yumizuka is dangerous.
+text No matter what her reason is, she did kill that many people.
+text But I can't let it go.
+text That way home in the sunset.
+text I cannot forget the last words she said.
+text ".... I'll go.
+text Obsessing over it won't do any good."
+text I change clothes, and slip my knife into my pocket.
+text I tiptoe out the mansion, so as not to wake Akiha or the others.
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text ~
+text .... The lights in the lobby are out.
+text It's a dark, lonely place; perfect for a secret departure.
+text Creak, creak.
+text I go down the stairs which creak only when they shouldn't, and walk quietly to the door.
+text ~
+text --And..
+text ~
+bgload BG_33D.jpg
+setimg AKI_T01B.png 40 0
+text "Nii-san?
+text You're going out, at this hour?"
+text Already in the lobby, Akiha speaks quietly.
+text "Akiha--so, you got back, huh?"
+text "Yes, just a little while ago.
+bgload BG_33D.jpg
+setimg AKI_T12B.png 40 0
+text But anyway--what are you doing, Nii-san?
+text You've changed your clothes, so it appears you are going out."
+text Akiha gazes intently at me.
+text It's not a look of blame.
+text She is merely gazing at me uneasily.
+text "You're going to go out and get hurt again, like last night.
+text Aren't you, Nii-san?"
+text ".... I'm sorry.
+text A friend of mine is in trouble.
+text I can't let it go."
+bgload BG_33D.jpg
+setimg AKI_T23B.png 40 0
+text ".... I see.
+text I'm sure you're going to go even if I stop you, Nii-san."
+text "Yeah, but I won't do anything dangerous.
+text I'm just going to check it out a bit.
+text .... I'm sorry to cause trouble like this, when I've only just come home."
+text Saying so, I begin walking out.
+bgload BG_33D.jpg
+text "Ah--"
+text A soft voice comes from behind me.
+text "Nii.. san."
+text A weak voice, so unlike Akiha's usual tone.
+text .... It's just like her voice from eight years ago--tinged with unease.
+text "Akiha..?"
+bgload BG_33D.jpg
+setimg AKI_T17B.png 40 0
+text "You'll.. come back, won't you?"
+text "----"
+text Akiha's weak, vulnerable face.
+text It has none of its earlier coldness, but like Akiha's childhood face, it's close to tears.
+text ".... What are you talking about?
+text I'm only going out for a moment.
+text You shouldn't make a face like that."
+text "I.. I know, but.."
+text "It's okay.
+text I'll come right back.
+text I'm sorry, Akiha; I've always been causing you trouble."
+text "Ah--Nii-san!"
+bgload IMA_10.jpg
+text Ignoring Akiha's voice behind me, I leave the mansion.
+text .... Outside, a moonlit night.
+text Perhaps because I saw Akiha's unsettled expression.
+text For some reason, I feel I may never return here.
+music ~
+bgload BG_26A.jpg
+text I arrive at the shopping district.
+text If Yumizuka's anywhere, she'll most likely be here.
+text It's because the murder victims are found near this shopping district.
+text ~
+text ".... Damn it, what am I thinking..!"
+text I curse my own logic.
+text .... But, at least I'm more likely to find her here than anywhere else.
+text Putting all thoughts aside, I start to look around for Yumizuka.
+bgload IMA_10.jpg
+music 06.mp3
+bgload BG_26A.jpg
+text .... How long has it been?
+text There's no sign of Yumizuka; not in the back alleys nor in the crowds.
+text ~
+text *pant*---*pant*----*pant*
+text ~
+text I rest my body, burning from all the running.
+text It's almost midnight.
+text .... It might be useless to keep looking around.
+text "Where has she gone..?"
+text I start walking again.
+text There's one place I haven't looked yet.
+text I'll give up after my body really can't move anymore--
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text .... Leaving the brightly-lit main street behind, I arrive at the park.
+text Because of the serial killings recently, there's not a soul to be seen around here.
+text "........"
+text Even though I can't imagine Yumizuka being here, it's the only place left to look.
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+text "-----"
+text The park is empty at night.
+text There isn't a sound under the the moonlight.
+text I don't know why, but a chill runs through me.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+text ~
+text "--Sst."
+text The back of my head numbs.
+text A horrible chill, as if my body freezes to my fingertips.
+sound SE_01.aac 1
+text I try to catch my breath.
+text In contrast to my cold body, my throat is scorching.
+text It's dry with thirst.
+text I put my hand in my pocket.
+text I just---wanted a blade in my hand.
+text "Why..?"
+text Just..
+text A faint headache.
+text A low temperature.
+text My mind is cool like ice.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+text Something is strange.
+text This park, it feels like something bad is around here.
+text ".... A little more till I reach the center of this park."
+text I shake the headache off, and walk deeper in.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text There's no one around.
+text A terribly dark and lonely place to meet someone.
+text There--someone is crouched.
+text Breathing raggedly.
+text Her face, pale white, as she scratches her throat in pain.
+text ~
+text Without a doubt, it is Yumizuka Satsuki.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+music 09.mp3
+text "Yumizuka--!?"
+text I guess there is the joy of finally finding her.
+text Not thinking about last night, I run towards her.
+bgload BG_29B.jpg
+setimg STK_T04.png 53 0
+text "Wait..!"
+text Yumizuka stops me with just a word.
+text ".... Wait, Shiki-kun.
+text I'm glad you came, but I don't want you any nearer right now.
+text Please, don't come any closer."
+text Her breathing looks painful.
+text Her body convulses as she speaks, as if she's about to collapse any second now.
+text "Don't be stupid!
+text I'm not going to leave someone looking as painful as you alone..!"
+bgload BG_29B.jpg
+setimg STK_T03.png 53 0
+text "No, I'm okay.. You came, so I'm fine now."
+text Forcing herself up, Yumizuka smiles at me.
+text It seems like a show of bravado.
+text .... But I can't approach her.
+text I do at least understand that Yumizuka doesn't want me near her.
+text ".... What's going on, Yumizuka?
+text Why haven't you been home?
+text What was that about, yesterday?
+text Why, that----"
+text "Hm?
+text That what?"
+text ".... Damn it, I don't know!
+text I really don't understand anything, Yumizuka..!"
+bgload BG_29B.jpg
+setimg STK_T10.png 53 0
+text "Really?
+text You saw what happened yesterday.
+text I told you 'I killed those people', didn't I?"
+text She answers frankly.
+text .... It's almost as if she's laughing at my feelings of denial.
+text "Then.. the recent killings in town were all your doing, Yumizuka..!"
+text "I don't like to say it, but.. that's the way it is, yeah."
+text "What the hell do you mean, 'That's the way it is' ..!?"
+text "It's just the way it is.
+text I killed those people, and I'll keep on doing the same thing.
+text I can't just lie about it, can I?"
+text "Yumi.. zuka, you--"
+text "Please.
+text Stop calling me that.
+text I'm calling you Shiki-kun, so it's only fair for you to call me by my first name too."
+text "Wha.."
+text I take a deep breath.
+text Yumizuka is still like before.
+text Even though she acts like she used to----she says some pretty scary things.
+text "When I think about it, I look foolish.
+text I could never talk to you like this, for all the years I watched you from afar."
+text "Yumi.. zuka?"
+text "I was always watching you, Shiki-kun.
+text Even before I was saved in that warehouse, I was always watching you.
+text I'm.. really a coward.
+text I always just agreed with the people around me, and smiled when it seemed right.
+text Before I knew it, everyone was treating me like an idol."
+text "So school wasn't fun for me.
+text But that changed, after you talked to me in the second year of junior high, Shiki-kun."
+text "Eh--?"
+text "Nah.
+text It's not something you'd remember.
+text How can I put it.. You were always natural, never showing off.
+text Probably you didn't even think about what you said back then."
+text "------"
+text What can I say.
+text Just as Yumizuka says, I remember nothing.
+text I don't know what I said to her, or even if I had talked to her back then.
+bgload BG_29B.jpg
+setimg STK_T03.png 53 0
+text "It's okay.
+text Don't make a face like that.
+text You were only hanging out with Inui-kun, so it was normal for you to ignore other classmates."
+bgload BG_29B.jpg
+setimg STK_T10.png 53 0
+text "But that was okay.
+text I was happy just being in the same class as you, Shiki-kun.
+text It was my goal to talk to you and let you call me Yumizuka-san.
+text Now that I think about it, it was too small of a wish."
+text ~
+text She recalls nostalgically.
+text Those ancient days.
+text .... Like she is remembering something that happened a long time ago.
+text "I.. was always watching you.
+text I knew you'd never notice me, but I watched you anyway."
+text "----"
+text ~
+text Well--to be honest, I'm happy, but..
+text ~
+text "Do you like me, Shiki-kun?"
+bgload BG_29B.jpg
+text How can I answer her right now---?
+text ~
+music ~
+choice I like her.|I hate her.|I can't answer.
+if selected == 1
+    jump s243.scr
+fi
+if selected == 2
+    jump s290.scr
+fi
+if selected == 3
+    jump s291.scr
+fi

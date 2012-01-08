@@ -1,0 +1,24 @@
+bgload BG_34A.jpg
+text "Good morning, you two."
+bgload BG_34A.jpg
+setimg KOHA_T01A.png 116 0
+text "Good morning, Shiki-san."
+text Wearing a white apron that suits her, Kohaku-san replies with a smile that could not possibly be any larger.
+bgload BG_34A.jpg
+text On the other hand, Akiha just casts a glance at me.
+bgload BG_34A.jpg
+setimg AKI_T01A.png -24 0
+text "Good morning.
+text You certainly took your time this morning, Nii-san."
+text She certainly knows how to put a damper on things.
+text "Took my time?
+text It's barely past seven!
+text It only takes thirty minutes to get to school from here, so I'm actually up early."
+bgload BG_34A.jpg
+setimg AKI_T18A.png -24 0
+text "So you're saying you're going to finish breakfast in just ten minutes?
+text You're not some starving dog, so if you're going to eat breakfast, I'd like you to take your time."
+bgload BG_34A.jpg
+text "------"
+text Akiha's words really do have thorns.
+jump s206.scr

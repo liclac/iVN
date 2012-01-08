@@ -1,0 +1,175 @@
+bgload BG_33A.jpg
+text ---But still, I can't ignore Akiha and go right to school.
+text .... I want to find out about Senpai right away, but first I should explain to Akiha about last night.
+bgload BG_34A.jpg
+text Akiha is the only one in the sitting room.
+text Kohaku-san is in the kitchen, humming away.
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text ".........."
+text Akiha doesn't say anything when she sees me and sips her tea quietly.
+text "Good morning, Akiha."
+text Resisting the urge to go to school, I greet her as naturally as possible.
+text Akiha's eyebrow twitches as she places her teacup down and slowly looks at me.
+bgload BG_34A.jpg
+setimg AKI_T18A.png 40 0
+text "Good morning Nii-san.
+text It was quite late when you came home last night, wasn't it?"
+text ".... No, not really.
+text It was at most a little past one o'clock, quite normal for a healthy young man in high school to be up, right?"
+text "I see.
+text My bedtime is also past midnight so I was up at that time.
+text But I would come home much earlier than that."
+text "Yeah, even I was home earlier, wasn't I?
+text .... I just had something to do, so I was out for a little bit---"
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "Without permission?
+text You acted like you were out doing something you felt guilty over."
+text "Uh...."
+text Her stare is pure ice.
+text .... This is the second time, and I'm sure even though Akiha looks calm, she is quite angry.
+text "--Nii-san.
+text I don't know what went on at the Arima house, but here the curfew is eight o'clock.
+text It is a rule that must not be broken.
+text The gate will be locked after that, so please don't climb in like a robber."
+text "Oh----you knew?"
+text ".... The surveillance camera showed me quite clearly.
+text It is a good thing Kohaku-san realized it was you and turned off the alarm system because otherwise you would probably be detained right now, Tohno Shiki."
+text ".... Oh.
+text I should thank Kohaku-san then.
+text And, um, Akiha, I'm sorry.
+text I shouldn't have kept quiet about it."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text ".... If you understand, then it is fine.
+text Please make sure you observe your curfew from now on.
+text I will overlook it this time."
+text ".... About that, Akiha."
+text "What is it?"
+text ".... This is a little hard to say.
+text I.. have something to do tonight too.
+text I don't know when I will be back, but I'm not going to do anything bad---"
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text "----------"
+text Her gaze sharpens.
+text "Kohaku!"
+text She suddenly stands up.
+bgload BG_34A.jpg
+text Kohaku-san comes in from the kitchen.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 116 0
+text "Yes, what is it, My Lady?"
+bgload BG_34A.jpg
+setimg AKI_T11A.png -24 0
+setimg KOHA_T03.png 116 0
+text "I will be going to school, get the preparations ready."
+text "Huh?
+text But I have not yet made Shiki-san's breakfast."
+bgload BG_34A.jpg
+setimg AKI_T06.png -24 0
+setimg KOHA_T03.png 116 0
+text "You can leave this person alone.
+text It seems he can do everything by himself."
+bgload BG_34A.jpg
+setimg KOHA_T03.png 116 0
+text Akiha strides towards the lobby.
+text Kohaku-san sighs.
+text ".... Shiki-san, you should not make Akiha-sama so upset.
+text You are her big brother, so please treat her better, okay?"
+text Saying that, she walks after Akiha.
+bgload BG_34A.jpg
+text The teacup sits, still steaming.
+text ............ *sigh*
+text I know it's my own fault, but I won't have any breakfast today.
+text But, it is convenient in a way.
+text It is now just seven o'clock.
+text If I run to school now, I should be able to get there around half past seven----
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text I make it to the gate.
+text It's about half past seven.
+text ~
+text "........"
+text I stand and wait for Senpai by the gate.
+text It probably looks a little strange to the other students walking by, but I don't really care.
+text ".........."
+text Senpai doesn't show up.
+text The school gate is flooded with students as they arrive.
+text There's only about five minutes before the gate closes.
+text But Senpai still does not come.
+text "......"
+text She---might not come today.
+text Yesterday, I saw all that happened, so she might not come today, or tomorrow, or the day after---
+text ~
+text ---Thump.
+text ~
+text "...... Ah."
+text Thinking that, I feel a little faint.
+text I shake my head to clear it of terrible thoughts.
+text .... And then,
+text someone pats me on the shoulder from behind.
+text ~
+bgload BG_01A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun, what are you doing here?"
+text "Se, Senpai....!?"
+text "Yes."
+text Senpai nods.
+text "R, really....!?
+text But yesterday, you were---"
+text Mph.
+text Before I can finish, Senpai puts her hand over my mouth.
+bgload BG_01A.jpg
+setimg CEL_T01A.png 52 0
+text "Tohno-kun, not here.
+text Let's go behind the gymnasium."
+text Senpai gives her usual smile as she keeps her hand over my mouth and pulls my arm.
+bgload BG_01A.jpg
+text ".., ..!"
+text I try to tell her to stop, but I can't speak.
+text She forcefully pulls me away.
+bgload IMA_10.jpg
+bgload BG_05A.jpg
+music 03.mp3
+sound SE_03.aac 1
+text ----The school bell rings overhead.
+text .... Homeroom has begun.
+text Furthermore, no one else is around.
+text ~
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Yes, no one can hear us here."
+text Senpai finally releases me.
+text Jumping back, I face Senpai directly.
+text "You want to talk about last night, right?
+text If there's anything you want to say, please go ahead, Tohno-kun."
+text Senpai speaks calmly.
+text As if what happened last night was not a big deal.
+text "..........!"
+text But it was a big deal for me.
+text Her attitude right now makes me mad.
+text "So that really was you last night....!?"
+text "Yes.
+text I did say your name back then too, so it's impossible to hide it any longer."
+bgload BG_05A.jpg
+text "........!"
+text I grit my teeth.
+text .... I didn't expect an apology or anything, but still---
+if flgC == 0
+    if flgI == 0
+        jump s263.scr
+    fi
+    if flgI >= 1
+        jump s265.scr
+    fi
+fi
+if flgC >= 1
+    if flgI >= 1
+        jump s264.scr
+    fi
+    if flgI == 0
+        jump s266.scr
+    fi
+fi

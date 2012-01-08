@@ -1,0 +1,177 @@
+bgload BG_06A.jpg
+text ---That's right.
+text Preventable disasters should be stopped before they happen.
+text Before she can start any "interesting" trouble, I have to take her off the school grounds.
+bgload BG_06A.jpg
+text ~
+text "Sensei, I feel my anemia coming, so I need to leave!"
+text ~
+text I raise my hand, and after getting permission from the teacher, fly out of the classroom.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARK_T08.png 36 0
+text "Ah, you're here.
+text That was a pretty fast sprint!
+text You're looking pretty lively this morning, Shiki."
+text "-----"
+text .... My jaw hangs wide open.
+text As I sprint into the courtyard, Arcueid greets me with her usual radiance.
+text "It's smaller than I expected.
+text I thought a 'school' would be much bigger than this----kyaa!"
+text I grab Arcueid's arm.
+text "----You, come with me."
+text Dragging Arcueid behind me, I dash to a place where people won't see us.
+bgload IMA_10.jpg
+bgload BG_05A.jpg
+bgload BG_05A.jpg
+setimg ARK_T04.png 36 0
+text "Hey!
+text What are you doing, taking me here all of a sudden?
+text This place is no fun at all."
+text Arcueid seems to be disappointed in this place, but it's not like school is a really interesting place to begin with.
+text ~
+text "---'What are you doing?' That's my line, Arcueid."
+text I let go of her arm and thrust my index finger towards her face.
+bgload BG_05A.jpg
+setimg ARK_T12.png 36 0
+text "Eh?
+text What do you mean?"
+text "I'm asking why you're walking around during daytime, and why you came to my school.
+text You haven't even healed yet, so why can't you just settle down and rest....!"
+bgload BG_05A.jpg
+setimg ARK_T14.png 36 0
+text "But, since you said you would help me, I thought I would look for clues during the day.
+text I didn't want to.. make you do any extra work---"
+text "Don't worry about that!
+text Since I said I'd help, any extra work we'll do together, so just forget about it.
+text .... Geez.
+text You're weakest during the middle of the day yet you still leave.
+text Do you just enjoy making me worry?"
+text "Ah---I'm, sorry."
+text "No, as long as you understand, it's okay---uh, Arcueid?"
+bgload BG_05A.jpg
+setimg ARK_T17.png 36 0
+text "I'm sorry, for making you worry."
+text "No.... actually, thanks."
+text ~
+text I think my heart beats loudly.
+text Arcueid apologizing like this--is a bit out of ordinary, or--I think, terribly cute.
+bgload BG_05A.jpg
+setimg ARK_T11.png 36 0
+text "But you're at fault too, Shiki.
+text I was watching for the longest time from the courtyard, but you never noticed me.
+text I didn't know how to get inside, so I was thinking about dashing up to where you were."
+text "Dash up?
+text You mean to my classroom on the third floor?"
+bgload BG_05A.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, footing wouldn't be difficult on the veranda, and it's really easy to jump up there."
+text "------"
+bgload BG_05A.jpg
+text I take it all back.
+text As usual, she completely lacks any common sense.
+text ".... Good.
+text That wouldn't have been pretty if you did that."
+text I breathe a sigh of relief.
+text I don't think many people noticed her.
+text In the first place, there's only a few desks that can look out into the courtyard.
+text "---And?
+text So why the heck did you come to my school?
+text You said you were looking for clues."
+bgload BG_05A.jpg
+setimg ARK_T01A.png 36 0
+text "I just felt something from around here.
+text Then I picked up your scent and realized it was your school."
+text ".... So you weren't thinking and you just came for no reason?"
+text I give a frown.
+text Is she a dog or something?
+bgload BG_05A.jpg
+setimg ARK_T04.png 36 0
+text "Well excuse me!
+text I came here for a reason.
+text There's hardly any traces of The Dead here, so I wanted to see it for myself."
+text "Really?
+text But if there's no traces of The Dead here, then shouldn't this place be unimportant?
+text There's no one at school at night, so if The Dead wanted some prey, they would go downtown, not to a school."
+bgload BG_05A.jpg
+setimg ARK_T10.png 36 0
+text ".... Well, that does make sense."
+text "There's nothing strange here.
+text I can't really sense The Dead, but since my eyes see death, I can tell without taking off my glasses."
+bgload BG_05A.jpg
+setimg ARK_T06.png 36 0
+text "I see.
+text If you say so, Shiki, then there's nothing strange about this place, perhaps."
+text "Not 'perhaps', definitely."
+text Arcueid looks like she doesn't believe me.
+sound SE_03.aac 1
+text ----And then,
+text the chime rings announcing the end of fourth period.
+text ~
+text "---Oh no, is it lunch already?"
+text Even though most people don't stay by this grove, since it's lunchtime, there'll be lots of people walking by.
+text "Anyway, if we stay here any longer, people will see us.
+text I'll keep my promise for sure, so just go home and rest.
+text We may see the 'enemy' tonight."
+bgload BG_05A.jpg
+setimg ARK_T03.png 36 0
+text "Oh?
+text You sound like you want me out of here, Shiki?"
+text She starts to look angry again.
+text "Ah, that's just your imagination, so hurry on back.
+text Otherwise things might get a little hairy."
+text Go, go.
+text I push her from behind.
+text "............"
+bgload BG_05A.jpg
+text Though her eyes indicate she wants to say something, she just leaves silently.
+bgload BG_04.jpg
+text After watching Arcueid leave, I return to the courtyard.
+text "----Hm?"
+text ~
+text What is it?
+text Someone is looking this way.
+text ~
+bgload BG_04.jpg
+setimg CEL_T06A.png 52 0
+text "Sen.... pai?"
+text No mistake, it's Ciel-senpai.
+text But---why is she making that expression?
+text She has a fearsome expression that almost makes me doubt it's actually her.
+bgload BG_04.jpg
+text "---Senpai!"
+text I call out to her as I run.
+text Senpai simply stands there, watching me.
+text "What are you doing here?"
+bgload BG_04.jpg
+setimg CEL_T01A.png 52 0
+text "The same for you, Tohno-kun.
+text What were you doing there?
+text Lunch has just began, so for you to be back here you must have skipped fourth period class."
+text "Of course not.
+text I just flew out of the classroom, that's all."
+text "Oh," Senpai answers without any enthusiasm.
+text It's her normal smile, but it seems like she's glaring at me.
+text "More than that, did you eat lunch yet?
+text If not, would you like to eat with me?"
+text I try and play it all off casually.
+bgload BG_04.jpg
+setimg CEL_T03.png 52 0
+text "I'm sorry, I already have someone else.
+text Please ask me some other time."
+bgload BG_04.jpg
+text For an instant, she looks incredibly down as she says that.
+text ".... Senpai?
+text What's wrong?
+text You don't look too well."
+bgload BG_04.jpg
+setimg CEL_T01A.png 52 0
+text "No, that isn't it.
+text It's just that.. it's true that fun things end rather quickly, Tohno-kun."
+bgload BG_04.jpg
+text She gives a brilliant smile in contrast to before.
+text With that, she walks inside by herself.
+bgload IMA_10.jpg
+setvar ark_regard + 1
+jump s153.scr

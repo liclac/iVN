@@ -1,0 +1,79 @@
+bgload BG_22B.jpg
+music ~
+text .... Akiha isn't the only person I haven't seen since then.
+text I can't remember all the details because it's been eight years, but there were other children at the mansion around the same age as me.
+text I don't remember their names, but there were two girls who were twins.
+text The old man once said that they didn't have any relatives, so he took them to work as servants.
+text ".... That's weird.
+text We played together so often when we were small, but I can't remember their names."
+text I close my eyes and cast my mind back.
+bgload IMA_10.jpg
+music 09.mp3
+bgload event/HIS_E01.jpg
+text I should be able to remember.
+text She was a girl who was always cheerful, so cheerful that you would become cheerful just by looking at her.
+text A girl with a carefree personality who was loved by everyone at the mansion.
+text Because she was close to my age, I got along very well with her, and it seemed like everyday we would run around the garden together.
+text "Let's play together, Shiki-chan."
+text She would say, and I could remember her taking me out of my room after I secluded myself inside.
+text She would often laugh and take shy Akiha's hand, trying to make her play with us.
+text Maybe she was older than the both of us.
+text She would guide me and Akiha to play together, but once we started playing, she would just watch over us.
+text Even Akiha's tutor, the harsh butler, would say "I don't mind, as long as ****** is with you guys", and let Akiha out to play.
+bgload IMA_10.jpg
+text But I'm much more concerned about the other girl.
+bgload event/HIS_E02.jpg
+text .... I don't know what kind of girl she was or why she was always like that.
+text From the second floor,
+text there was always a girl looking down at us every time I turned to look at the mansion while we were playing in the garden.
+text She was the twin of that cheerful girl, but she would always gaze at us expressionlessly.
+text That girl would never try to leave the house.
+text All she would do was watch us with those cold eyes.
+text .... Was it because it bothered me so much that I thought she seemed so lonely?
+text Most of the memories I have about the Tohno mansion are only about her.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Well, in the end, I only ended up talking a little with her.
+bgload IMA_10.jpg
+bgload BG_22B.jpg
+text "I wonder if those girls are still at the mansion...."
+text While I think about that, I take a white ribbon out of my bag.
+text An old white ribbon that the girls gave me at the very end.
+bgload IMA_11.jpg
+bgload CMO_20.jpg
+text ---Eight years ago.
+text After I was involved in the accident.
+text The day I was entrusted to the Arima family.
+text ~
+text Right before I was to leave the mansion, the girl gave me this for some reason.
+text ~
+text .... I'm just lending it to you, so be sure to return it.
+text Saying something along those lines, she ran off.
+text A promise made under a large tree.
+text ~
+text The weather was beautiful that day.
+text Looking up, there was a high, high blue sky I could just lose myself in.
+text It was my last memory of when I left the Tohno mansion, eight years ago.
+bgload IMA_10.jpg
+bgload BG_22B.jpg
+text *sigh*
+text I put the ribbon back in my bag.
+text "But it's been eight years, after all...."
+text Not only do I not know if they are still at the mansion, I can't even remember their names.
+text ".... Even so, this ribbon is precious to me...."
+text The time when my father had disinherited me.
+text Rather than being saddened over having been discarded by him, I felt a warmness inside when I thought she was waiting for me to return the ribbon.
+text That's why I want to keep the promise, as long as I still remember it.
+text I agreed to return to the mansion because Akiha is now there all by herself.
+text I left her there for eight years, pushing all responsibility onto her while I selfishly lived freely.
+text .... But there is something else.
+text I really think I decided to return because of that promise.
+text The white ribbon.
+text .... Because of that promise made to the only one who said she would be waiting for me.
+bgload IMA_10.jpg
+music ~
+setvar kohaku_regard + 3
+jump s41.scr

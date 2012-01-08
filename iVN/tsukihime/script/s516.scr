@@ -1,0 +1,66 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Hello!
+text The hint corner for the poor lost Tohno-kun who ended up in a Dead End without knowing his left from his right,
+text It is time for "Teach me, Ciel-sensei!"
+text ~
+text .... I see.
+text You have come to the fifth period.
+text I think there are lots of Tohno-kuns who fall into this end.
+text Well, it is your divine punishment.
+text Regret your own unluckiness for associating with such a woman.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+text "Why?
+text You're not one to talk, Ciel.
+text After all, your goal from the beginning was always **----"
+bgload IMA_14.jpg
+sound SE_12.aac 1
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ----Now then.
+text ~
+text Normally there would be no chance of salvation, but some of you came here in spite of rejecting that sunny vampire.
+text ~
+text (Sunny even though she's a vampire, I'm picking a fight)
+text ~
+text So I'll throw out a lifeboat.
+text There are about three reasons you came to this Dead End, but to avoid it,
+text ~
+text You have to reassure your sister sometimes,
+text you have to indulge a stupid woman's selfishness sometimes, and to find a dirty vampire, try going to a very dirty place.
+text ~
+text That's about it.
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text "Hey Ciel.
+text I don't get this."
+text ~
+text ---Question denied.
+text .... Or so I'd like to say, but there seemed to be many questions on this, so I will answer it.
+text DNM is..
+text D is for "dizzy", N for "not healthy", M for "moon".
+text It has the same initials as "Dark Night Moon", it's a small play on words.
+text ~
+text "I see, that's weird."
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ~
+text (.... Why, that little....)
+text Well, this ends the lesson this time.
+text Everyone, please remember to use proper Japanese!
+bgload IMA_10.jpg
+music ~
+jump main.scr

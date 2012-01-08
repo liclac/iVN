@@ -1,0 +1,110 @@
+bgload BG_33A.jpg
+text ~
+text ---No, I have to find out about Senpai.
+text I don't have time to eat this morning.
+text ~
+bgload BG_33A.jpg
+setimg HIS_T01.png 62 0
+text "---Shiki-sama?"
+text Hisui comes from the sitting room.
+text She must have come to check on me since I did not show up after a while.
+text ".... Sorry.
+text I'm going to school, please tell Akiha I'm sorry."
+bgload BG_33A.jpg
+setimg HIS_T07.png 62 0
+text ".... Please wait Shiki-sama.
+text You do not look well.
+text Are you sure you are feeling well....?"
+text "---I'm fine, just a little headache.
+text Well, I'm off.... Sorry, I'm being selfish again."
+bgload BG_33A.jpg
+text .... I say something really selfish and open the door before she can respond.
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text I reach the school gate.
+text Since I ran from the mansion, it's not even half past seven yet.
+text ~
+text "........"
+text I stand and wait for Senpai by the gate.
+text It probably looks a little strange to the other students walking by, but I don't really care.
+text ".........."
+text Senpai doesn't show up.
+text It's past seven thirty already.
+text Ten more minutes pass by.
+text The school gate is flooded with students as they arrive.
+text There's only about five minutes before the gate closes.
+text But Senpai still does not come.
+text "......"
+text She---might not come today.
+text Yesterday, I saw all that happened, so she might not come today, or tomorrow, or the day after---
+text ~
+text ---Thump.
+text ~
+text "...... Ah."
+text Thinking that, I feel a little faint.
+text I shake my head to clear it of terrible thoughts.
+text .... And then,
+text someone pats me on the shoulder from behind.
+text ~
+bgload BG_01A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun, what are you doing here?"
+text "Se, Senpai....!?"
+text "Yes."
+text Senpai nods.
+text "R, really....!?
+text But yesterday, you were---"
+text Mph.
+text Before I could finish, Senpai puts her hand over my mouth.
+bgload BG_01A.jpg
+setimg CEL_T01A.png 52 0
+text "Tohno-kun, not here.
+text Let's go behind the gymnasium."
+text Senpai gives her usual smile as she keeps her hand over my mouth and pulls my arm.
+bgload BG_01A.jpg
+text ".., ..!"
+text I try to tell her to stop, but I can't speak.
+text She forcefully pulls me away.
+bgload IMA_10.jpg
+bgload BG_05A.jpg
+music 03.mp3
+sound SE_03.aac 1
+text ----The school bell rings overhead.
+text .... Homeroom has begun.
+text Furthermore, no one else is around.
+text ~
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Yes, no one can hear us here."
+text Senpai finally releases me.
+text Jumping back, I face Senpai directly.
+text "You want to talk about last night, right?
+text If there's anything you want to say, please go ahead, Tohno-kun."
+text Senpai speaks calmly.
+text As if what happened last night was not a big deal.
+text "..........!"
+text But it was a big deal for me.
+text Her attitude right now makes me mad.
+text "So that really was you last night....!?"
+text "Yes.
+text I did say your name back then too, so it's impossible to hide it any longer."
+bgload BG_05A.jpg
+text " ........!"
+text I grit my teeth.
+text .... I didn't expect an apology or anything, but still---
+if flgC == 0
+    if flgI == 0
+        jump s263.scr
+    fi
+    if flgI >= 1
+        jump s265.scr
+    fi
+fi
+if flgC >= 1
+    if flgI >= 1
+        jump s264.scr
+    fi
+    if flgI == 0
+        jump s266.scr
+    fi
+fi

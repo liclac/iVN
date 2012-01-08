@@ -1,0 +1,37 @@
+bgload BG_05A.jpg
+text ".... But.... but, you said that wasn't you!"
+text "?
+text What wasn't?"
+text "Three nights ago!
+text I asked if you were the one that helped me that night in the park, and you said it wasn't you....!"
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "That was a lie."
+text Succinctly.
+text Senpai simply says so.
+text ".... Um.... a lie, Senpai?"
+text "I lied for your sake, Tohno-kun.
+text I have to seal the mouth of any ordinary person who finds out my true identity.
+text Tohno-kun, you don't like pain, right?"
+text Senpai says such an unbelievable thing with a rather bright and cheerful voice.
+text "Seal the mouth, um...."
+text "To put it simply, dead people can't talk.
+text .... Um, I think I put it too simply."
+text "Uh---"
+text I step back without even thinking about it.
+text Senpai sounds like she is only half-joking.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "So, I cannot let you go free depending on what you tell me.
+text Tohno-kun, just what is your connection with that woman?"
+text My heart almost stops as those emotionless eyes stare at me.
+text ---I thought I would be asking the questions, but our positions have been reversed.
+text But I don't know what Senpai will do if I don't answer, and a chill runs through me.
+bgload BG_05A.jpg
+text "Ah---no, that's not it.
+text About last night, I thought Arcueid was the one behind the serial killings, but that couldn't be right, so I went to ask her and---"
+text ~
+text I tell her all about last night.
+text Senpai listens to it all silently.
+text How I met her accidentally, how she explained to me about the vampire in this city, how I teamed up with her to save the city, and everything up until now.
+jump s267.scr

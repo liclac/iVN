@@ -1,0 +1,36 @@
+text "------"
+text .... The main source.
+text If I can do something to Nrvnqsr's main body manipulating the beasts, I might be able to save at least Arcueid--
+text "AAAAAAAAAH!"
+sound SE_07.aac 1
+text I blindly swing my knife.
+text I force my faltering body and run forward.
+text If he hasn't moved as he toys with me,
+text then, he should be standing with his half body ahead of here----
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "----!"
+text Nrvnqsr----!
+text "Stop your noisemaking, it is unpleasant."
+text His coat aacers.
+text ~
+text From there,
+text a white horn comes straight at me.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg KEMO_T05.png 0 0
+text "Eh----?"
+text Something like antlers.. sticks.. into my torso.
+text Thud.
+text It's so sharp, it doesn't really hurt.
+text ~
+text "------"
+text I fall flat on my back.
+bgload IMA_10.jpg
+text "I am quite the fastidious person.
+text Rest assured, there will not even be one of your cells left."
+text ~
+text I hear a voice.
+text At the same time, a black dome arches over me.
+jump s104.scr

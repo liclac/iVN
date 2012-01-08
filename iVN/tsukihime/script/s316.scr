@@ -1,0 +1,355 @@
+bgload BG_33D.jpg
+sound SE_11.aac -1
+text The door opens with a creak.
+text With a heavy body and dulled mind, I make it back to the mansion.
+text My footsteps drag behind me.
+text The moonlight illuminates my figure, making it look like an exhausted ghost.
+text "-----------"
+text .... My left arm hurts where Yumizuka wounded me.
+text The bleeding has stopped, and the gradual lessening of the pain tells me it couldn't have been too deep.
+text "-----------"
+text I reach the stairs.
+text I don't even care about treating my wounds.
+text Right now, I just want to stumble back to my room and sleep like a rock----
+text ~
+text "Eh......?
+text Nii--san........?"
+text ~
+text --And then.
+text From the middle of the stairs, I hear Akiha's voice.
+text "............ Akiha?"
+text I raise my head.
+text In front of me---I see Akiha who has just now made it to the bottom of the stairway.
+bgload BG_33D.jpg
+setimg AKI_T23B.png 40 0
+text "Ah........"
+text .... Akiha is silent.
+text Something about her appearance is a little strange, but I don't even care right now and continue stumbling up the steps.
+text Right now I should just go to my room.
+text So I have to keep going up the stairs.
+text I dazedly make my way past Akiha's still figure.
+text I have to get up the stairs---
+bgload BG_33D.jpg
+setimg AKI_T17B.png 40 0
+text "H.... Hey, please wait, Nii-san!
+text Just where did you go this late in the evening?"
+text "-------"
+text Who knows?
+text Besides, what is Akiha doing standing here at this hour anyway?
+text Trying to glide down the stairs as quietly as possible, it seems like she was going to go outside just now.
+text ".... It doesn't have anything to do with you, Akiha.
+text I'm going to my room, so don't bother me."
+text "Bother, I---"
+text Akiha gasps and cuts off mid-sentence.
+bgload BG_33D.jpg
+setimg AKI_T11B.png 40 0
+text "Nii-san, you look---"
+text Her previously shocked eyes become calm.
+text "Your left arm is injured, right?
+text Your clothes are pretty dirty too."
+text ".... Don't worry about it.
+text It doesn't even hurt anymore."
+bgload BG_33D.jpg
+setimg AKI_T03B.png 40 0
+text "It doesn't hurt?
+text That can't be true.
+text You look like you could collapse at any moment, and there's blood clotted all over your left arm.
+text Goodness, just what in the world were you doing, Nii-san?"
+text ".........."
+text I can't answer, and only avert my gaze.
+bgload BG_33D.jpg
+text I couldn't possibly explain everything that happened tonight, and more than that---I don't ever want to talk about Yumizuka to anyone.
+text ".... Nothing much.
+text I was just walking around and got sucked into a little drunken brawling."
+text Answering simply, I climb past her.
+text But with a pull,
+text Akiha places her hands on my shoulders.
+bgload BG_33D.jpg
+setimg AKI_T12B.png 40 0
+text "Nii-san, I'll get mad."
+text With a weak voice, Akiha looks directly at me.
+text ".........."
+text With her face like that, I become even more unable to tell her what really happened.
+text "-----"
+text ".........."
+text Just like that, time passes without either of us speaking.
+text .... After some minutes pass, Akiha lets out a breath and drops her shoulders in resignation.
+bgload BG_33D.jpg
+setimg AKI_T03B.png 40 0
+text "Fine.
+text I will let it go."
+text Akiha grabs my uninjured right arm and heads towards the sitting room.
+text ".... Hey, Akiha.
+text I wanna go back to my room and sleep."
+text "No.
+text I won't ask you any more about it, so you have to let me treat your injuries, okay?
+text So come this way.
+text I can't help but be worried if you go to sleep looking like that."
+bgload BG_33D.jpg
+text Still holding on to my arm, she drags me with her to the lobby.
+text ".............."
+text Oh well.
+text This is just how it is.
+text I resign myself to doing as Akiha says.
+sound ~
+bgload IMA_10.jpg
+bgload BG_34B.jpg
+music 01.mp3
+text ---The treatment was quite simple.
+text ~
+text I guess it was really not that bad to begin with.
+text After applying some disinfectant and wrapping the wound in gauze, my treatment is over.
+text After finishing that simple care by herself, Akiha takes a towel soaked in warm water and wipes my face.
+bgload BG_34B.jpg
+setimg AKI_T04B.png 40 0
+text "All finished.
+text This uniform is done for, so we will have to get a new one prepared tomorrow."
+text "............"
+text .... My mind is still numb.
+text Akiha really hasn't asked me any questions about what happened and simply took care of my injury.
+text I'm a little surprised.
+text I thought she would let Kohaku-san or Hisui take care of it, but Akiha did it all with a smile.
+text .... Her gentleness is completely different from the way she was these past three days and I think back about Akiha from long ago.
+bgload BG_34B.jpg
+setimg AKI_T21B.png 40 0
+text "Nii-san?
+text Hey, it's all finished, so please go back to your room.
+text Didn't you say you would rather go to sleep than keep me company?"
+text She may still be resenting my words from earlier because she sounds very dissatisfied.
+text ".........."
+text There's still something wrong with my brain, but I do understand how much Akiha worried over me.
+text ".... Yeah.
+text Thanks, Akiha."
+text Is it because I'm still woozy?
+text I let my true feelings show.
+bgload BG_34B.jpg
+setimg AKI_T24.png 40 0
+text "Eh--"
+text Akiha's face turns red and she shrinks away from me.
+bgload BG_34B.jpg
+setimg AKI_T16B.png 40 0
+text "----Oh?
+text I, I don't think it was anything to thank me for.
+text You would help me if I was hurt, right Nii-san?"
+text "That may be true, but it makes me happy."
+text Stuttering, I finally realize it.
+text I am quite emotionally detached right now, but I honestly am happy that---rather than Kohaku-san or Hisui, Akiha was the one that treated my wounds.
+bgload BG_34B.jpg
+setimg AKI_T24.png 40 0
+text "D---don't say such stupid things, please hurry back to your room.
+text Or are you hurt somewhere else?"
+text Akiha says so and shifts her gaze.
+bgload BG_34B.jpg
+text "----?
+text Nii-san, your shoulder.. there's blood."
+text Akiha places her hand on my shoulder.
+text She peels back my shirt.
+text My exposed shoulder, and neck.
+text Yumizuka's bite marks and dried blood are still there.
+text "Nii-san, this--------"
+text In that instant,
+text the air freezes.
+text "............"
+text The fang shaped wounds on my neck.
+text I don't know how to even begin to explain that and descend into silence.
+text "-------"
+text Akiha slowly leans her body towards mine.
+text ".... Nii-san.... there is still.... blood flowing, here."
+text Her voice is terribly taut with strain.
+text The grip of her hand on my shoulder becomes stronger.
+text Her body stops in a position somewhere between touching mine and not.
+text ".... What should I do.... We should, stop the bleeding, right----"
+text Her voice sounds delirious.
+text "----Akiha?"
+text I call her name while assailed by an unspeakable disquiet.
+text "Nnn------"
+text There's no reply.
+text But instead,
+text I feel a warm sensation along my neck.
+text "Wha.............."
+text My voice fades away.
+text Akiha's face is right next to mine.
+text ~
+text .... The sensation of rubbing.
+text .... A contact.
+text Wetness.
+text ~
+text "Aki........ ha.... ?"
+text .... My numbed sense of reason can't grasp what's going on.
+text A hesitatingly touching tongue.
+text The red tongue that fearfully touches my neck.
+text Shaking.
+text The shaking fingers that embrace me, the warmth of Akiha's body.
+text "Aaaa--------,"
+text .... Akiha is licking the blood dribbling down my neck.
+text But, it really isn't anything to be alarmed over.
+text It's just like what you would do as a kid to stop the bleeding.
+text But it feels so sweet, I can't say anything.
+text Akiha must think the same way, as she just---for no reason, brushes her teeth against my wound.
+text ----All of a sudden.
+text ~
+text ~
+text ~
+text ~
+text ~
+text A sound comes from the lobby.
+bgload BG_34B.jpg
+setimg AKI_T24.png 40 0
+text "------!"
+text Akiha pulls back.
+text "I----I'm so sorry, Nii-san----!"
+bgload BG_34B.jpg
+text Her face a pure red, Akiha runs away.
+text "Wha------"
+text Left by myself in the sitting room, I reach my hand up to my neck.
+text Her warmth is still lingering there faintly.
+text ".... She didn't have to run away."
+text I murmur to myself and shake my head.
+text Licking the wound like that, I did a lot of that as a child.
+text I did that to Akiha and Hisui when they got hurt.
+text .... But, that's just an act from child-like purity, only done as a child.
+text Both of us grown up like this now and being the opposite gender.
+text We can't really use that method anymore.
+text ".... What was she doing?
+text .... She was acting pretty strange."
+text .... Well, I guess I'm also strange right now.
+text As if in a dream, I can't recall what exactly happened.
+text Even what Akiha and I just did, I feel like it'll all be a dream tomorrow morning.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text .... And I reach my room.
+text I lurch to my bed and collapse.
+text "------Nnn."
+text Tiredness closes in around my brain.
+text My exhaustion is more in my body than my mind.
+text My body must be trying to halt everything in order to quickly heal its exertions.
+text Before that, I take a deep breath and trace my fingers along my neck once more.
+text ".......... Ah."
+text I'm a little surprised.
+text The two fang marks.
+text The blood really was stopped by Akiha's lips----
+bgload IMA_10.jpg
+music ~
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text I wake from a long sleep.
+text The sunshine from the window looks closer to mid-day than morning.
+text It must be because of how late I got back last night.
+text It seems I've overslept.
+text ".........."
+text Dragging myself up from bed, I look down at my hand.
+text ----The sensation of how I stabbed Yumizuka remains.
+text Two nights ago.
+text When I met Yumizuka and saw that hideous dream.
+text ".... If only yesterday.... was just a dream."
+text But wishing it won't make it so.
+text I've no clue why or how Yumizuka became a vampire, and I couldn't do anything to help her.
+text ---No.
+text Once Yumizuka had become like that, there was probably no way for anyone to help her.
+text She was already dead.
+text All I did was return that corpse somehow moving about as if it were a living thing back to being a dead body.
+text That's the only way I can think of it.
+text ~
+text But, still---
+text ~
+sound SE_04.aac 1
+text "Please excuse me, Shiki-sama."
+text With that voice I have become accustomed to, Hisui enters the room.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama.
+text How are you feeling today?"
+text "Hm.... ah, I slept well, so I don't feel bad at all."
+text "Is that so?
+text Hearing that makes me feel very relieved."
+text .... Even though she says that, I don't see her even relax her shoulders, or give any other indication of it.
+text ".........."
+text But, I feel relieved as well.
+text Because of what happened last night, the long night is over.
+text Because I don't have to enter that unnatural world any longer, my heart can relax.
+text ".... Thanks, Hisui.
+text You've always come to check up on me from early in the morning, right?
+text Your concern means a lot to me."
+bgload BG_40A.jpg
+setimg HIS_T03.png 62 0
+text "----Not at all.
+text It is my duty to be concerned with your welfare."
+text There is a hint of happiness in Hisui's expression.
+text .... Moreover, I feel like I've been somewhat rescued.
+text While I've been sleeping in bed like this, Hisui came as always to wake me up.
+text With just that trivial thing, I honestly feel like I have returned to my normal life.
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "Um.... Shiki-sama, this is somewhat difficult for me to say, but.. can I?"
+text "....?
+text Difficult to say?
+text If it's about me sleeping in till noon, I really can't do anything but apologize."
+bgload BG_40A.jpg
+setimg HIS_T23.png 62 0
+text "No, that is not what I meant, but it is perhaps related to when you went to sleep."
+text Hisui fidgets with her fingers as she struggles to come up with the right words.
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... Um, I did not say anything, but Akiha-sama found out about last night."
+text "Eh.... about last night.... what?"
+text "I mean when you left late last night, Shiki-sama."
+text "----"
+text I unconsciously turn my eyes away from her.
+text I thought I'd managed to slip away undetected, but I should have known Hisui would still find out.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, your return late at night has gained the attention of Akiha-sama, so I believe you will be asked to explain yourself sooner or later.
+text She is in the sitting room and may be angry, so please be prepared."
+text "...... I see.
+text I got it; I'll be prepared."
+text .... But, if it's about last night, then Akiha definitely knows about it already.
+text .... And after that, it was Akiha who took care of me when I was in a complete stupor.
+text "About that, will it be occurring again?
+text I cannot stop you, but if you continue doing such things, I must tell Akiha-sama."
+text "----No, nothing like last night will happen again.
+text Everything.... has ended last night.... There won't be any phone calls anymore."
+text ---Yes.
+text It really has ended.
+text With these words, it truly is over.
+text Yumizuka Satsuki is no more.
+text The vampire skulking the streets has vanished.
+text I, with my own hands, sent away a classmate who said she liked me, for all eternity.
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text "................"
+text Hisui looks at me with a painful expression on her face.
+text .... Geez, if Hisui is making that sort of face, then I must look terrible right now.
+text "---Well, I should get up sooner or later.
+text Hisui, is Akiha still here?
+text She's an awfully busy person, so does she have a routine on her day off?"
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Yes, she does have plans during her day off, but today she is still in the mansion."
+text "......?"
+text She has plans, but she's still here....?
+text "I don't quite get it, but.... well, I'll go and get changed, so please head to the sitting room before me."
+text "Yes.
+text Well then, please excuse me."
+bgload BG_40A.jpg
+text As usual, Hisui walks away without a sound.
+text ~
+text ---But, I forgot something really important.
+text ~
+text "Hisui."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Yes?
+text What is it, Shiki-sama?"
+text "Yeah, I forgot to say something.
+text Thanks for coming to wake me up.
+text It's a little late, but good morning, Hisui."
+bgload BG_40A.jpg
+setimg HIS_T03.png 62 0
+text "---Yes.
+text Please have a nice day, Shiki-sama."
+bgload BG_40A.jpg
+text Well then.
+text I should hurry up and change, and head to the sitting room.
+bgload IMA_10.jpg
+jump s306.scr

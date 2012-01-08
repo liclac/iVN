@@ -1,0 +1,155 @@
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text ---It's lunch time.
+text As usual, Arihiko is skipping school.
+text ~
+text ".... I'll go eat at the cafeteria."
+text If I eat by myself, I'll just end up being depressed.
+text If I go eat in the cafeteria full of people, it should help me get my mind off of things.
+bgload BG_50.jpg
+text As expected, the cafeteria is packed.
+text After waiting in a long line, I buy the tried and true meal set A and walk to a table.
+text The students' voices are pretty loud, so I am able to concentrate on just eating my meal.
+text I use my fork and eat in silence.
+text ~
+text ----And then.
+text ~
+text For a moment, I see a terrible image.
+text "....?
+text Is it the television screen?"
+text I gape at the large television mounted on the wall at the end of the cafeteria.
+text At my school, they record the morning news and replay it at lunch.
+text I just stare dumbfounded at the news broadcast that is several hours late.
+sound SE_02.aac -1
+text "----No way.."
+text I watch the news in amazed horror.
+text Shown in the television is the alley that I saw last night in my dream.
+text The newscaster is talking.
+text On the screen, the words "Vampire Serial Killer's Ninth Victim" appears in bloody lettering.
+bgload IMA_11B.jpg
+bgload BG_50.jpg
+text After that, the face of the victim appears.
+text ~
+text The woman with the long hair, she was definitely the one I killed in my dream.
+bgload IMA_11B.jpg
+bgload BG_50.jpg
+text "------"
+text Suddenly, I start to feel faint.
+sound ~
+text "How.... come?"
+text That was a dream.
+text It had to be a dream.
+text But in reality, the same person as in my dream, in the same place as my dream, is killed in the same way as my dream.
+text "The vampire should be gone already."
+text I killed Yumizuka with my own hands.
+text Those killings, they shouldn't be happening anymore.
+text "I---killed?"
+text Yes, I killed.
+text Just like the time I killed Yumizuka.
+text While breathing hard, last night, that woman I've never met---
+sound SE_01.aac 1
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Didn't I tell you, Shiki-kun?
+text It's useless to resist it.
+bgload BG_50.jpg
+text "Uu---"
+text Quashing the urge to throw up my lunch, I stagger out of my seat.
+text ~
+bgload IMA_10.jpg
+text I can't go back to class.
+text I somehow find myself running into town.
+bgload BG_31A.jpg
+text ---I come to the place I saw in my dream.
+text ~
+text There are several policemen around the area, and tape reading "Police Line Do Not Cross" is stretched across the alley.
+text "---Exactly the same."
+text Without a doubt, this is the place I went to in my dream.
+text ~
+text ---No, that's not a dream.
+text I can't delude myself into thinking it is a dream any longer.
+text "......"
+text Even if I stay here longer, the cops will only stare at me.
+text .... I can't go back to school now.
+text I guess I'll go back to the mansion.
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+sound SE_11.aac -1
+text Since it's not even two o'clock yet, Hisui isn't waiting in the lobby.
+text ".........."
+text I can say I got lucky.
+text I don't feel like seeing anyone right now.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+text *sigh*
+text Giving a deep breath, I collapse onto my bed.
+bgload IMA_10.jpg
+text .... I just don't understand any of this at all.
+text I have dreams where I kill people.
+text In reality, the same killing has happened.
+text I am living today like living a normal life.
+text I was taking delight in killing people in my dreams.
+text ~
+text ~
+text -------Just which one?
+text Which is the real Tohno Shiki?
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Do you really have to ask?
+text .... That voice again.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text C'mon, let's continue, Shiki.
+text .... That voice that echoes inside my head.
+text My voice.
+text ~
+text ~
+text ~
+text ~
+text ~
+text Night comes every day.
+text For sure, we'll find the one we want someday, right..?
+bgload IMA_10.jpg
+setimg AKI_T01C.png 0 0
+bgload BG_40A.jpg
+sound ~
+text "Shut up----!"
+text I leap out of bed.
+text *pant* *pant* *pant*
+text I breathe wildly.
+text ~
+text Just now,
+text I was lusting after Akiha.
+text *pant* *pant*
+text .... I feel like I'm going to vomit.
+text I don't ever think about these things normally, but when I try to sleep, these weird thoughts pop up in my head.
+text It's almost as if there's someone else inside my brain.
+text "...... Ah."
+text Come to think of it, Akiha said something like that earlier.
+text That was about---my old man would have extreme personality shifts.... it sounds almost like me right now.
+text .... Of course, like father, like son.
+text It might even be hereditary.
+text "My old man's room.. I think they still keep it like before.."
+text ~
+choice Go to my old man's room.|Stay in my room.
+if selected == 1
+    jump s395.scr
+fi
+if selected == 2
+    jump s396.scr
+fi

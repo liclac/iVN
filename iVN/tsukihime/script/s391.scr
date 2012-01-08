@@ -1,0 +1,192 @@
+bgload BG_40A.jpg
+sound SE_02.aac -1
+text "Ah-------!"
+text ~
+text Ah-------.
+text ~
+text I gasp for air.
+text It's---morning.. now.
+text This is my room.
+text Up until now, I've been here,
+text just like this,
+text and I should have been sleeping---------
+bgload IMA_11B.jpg
+bgload BG_31B.jpg
+bgload BG_40A.jpg
+text "Ahh...."
+text My forehead is hurting.
+text "Dre.... am."
+text I had a terrible dream.
+text A dream where I killed someone.
+text A dream where I ejaculated over and over as I killed.
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "Ho.... t.."
+text My throat is burning.
+text My body feels like lead, and my hands..
+text The feeling of breaking someone's neck still lingers on my hands.
+text "That.. can't be."
+text That can't be.
+text That was a dream.
+text Unmistakably a dream.
+text But are dreams really that vivid?
+text I remember it so vividly.
+text The street in the dead of night,
+text the feeling of snapping someone's neck,
+text the stickiness of blood gurgling down my throat,
+text the face of the woman so cruelly killed-----
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text But it's merely a dream.
+text Since I'm here, it had to have been a dream.
+text But the problem is..
+text I am dreaming that I am having fun killing people.
+bgload IMA_08.jpg
+text ~
+text ---You and I are the same, Shiki-kun.
+bgload BG_25B.jpg
+text ~
+text Before my eyes, the world starts spinning.
+bgload IMA_13B.jpg
+text ~
+text ---Someone who can't resist the pleasure from killing.
+bgload BG_31B.jpg
+text ~
+text And that crazy speed.
+bgload BG_40A.jpg
+sound ~
+music 02.mp3
+text "Excuse me," Hisui says as she enters the room.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning.
+text It seems that you have already awakened, Shiki-sama."
+text "...... Ah.
+text Morning, Hisui."
+text The world stops spinning.
+text As soon as Hisui spoke, the whirlpool I was trapped in disappeared like an illusion.
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... Shiki-sama?"
+text "Eh-----what is it, Hisui?"
+text "How are you feeling this morning?
+text You are not saying anything."
+text ".... Ah, sorry, I was just staring at you.
+text I understand; I have to go to school.
+text I'll go to the sitting room right away, so wait for me there."
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama.
+text If you are not feeling well, please do not push yourself.
+text Your health is more important than school."
+text "Haha, no way, Hisui.
+text I can't skip school.
+text It's nothing---really.
+text So don't spoil me like that."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "No, please rest.
+text I will tell Akiha-sama so please rest."
+text Hisui is unusually persistent.
+text .... Does my face look that haggard?
+text "Hisui, you worry too much.
+text It really is nothing at all, so don't worry about it.. I'll just wash my face, so please wait for me in the sitting room."
+bgload BG_40A.jpg
+text Getting out of bed, I walk past Hisui, who seems like she wants to say more.
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text Leaving the room,
+text it is a little painful seeing Hisui watch me with such uneasiness in her eyes.
+bgload IMA_10.jpg
+text I look in the mirror in the bathroom.
+text ".... I don't look like I'm sick.
+text Why is Hisui worrying so much?"
+text I splash cold water onto my face.
+text ~
+text ---Just thinking about the dream I had last night makes me want to puke and not go to school.
+text ~
+text But if I stay home from school because of that, that will just be like confirming something, which makes me feel uneasy.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text Akiha and Kohaku-san are in the sitting room, and Hisui is standing nearby.
+text As usual, I'm the last one to enter the room.
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+text "Ah, good morning, Shiki-san."
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+setimg AKI_T15A.png 104 0
+text "No way!?
+text It isn't even six-thirty yet!"
+text Kohaku-san looks towards me with a soft smile while Akiha gets up from the sofa and gapes at me in surprise.
+text "Good morning, Kohaku-san, oh, and Akiha too."
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+setimg AKI_T21.png 104 0
+text "Wha.. What do you mean, 'Akiha too?'"
+text "Well, 'Akiha too' means 'Akiha too'.
+text That should be enough for someone who's so surprised to see me get up early when you tell me to get up early every day."
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+setimg AKI_T03A.png 104 0
+text "----I see.
+text Nii-san, you wake up early for once and now you triumphantly walk around with your head held high."
+text "Head held high, Akiha---"
+text ~
+text ~
+text ~
+text ~
+text Head.
+text Neck.
+text Neck....?
+text I remember the sensations from my dream and feel like vomiting.
+text ".... Sorry, Kohaku-san.
+text I don't mean to be a bother, but could you get me something cold to drink before I eat?"
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+setimg AKI_T03A.png 104 0
+text "Not at all.
+text Would you like soda or fruit juice?"
+text "Ummm, I'll have a soda please."
+text "Coming right up."
+bgload BG_34A.jpg
+setimg AKI_T03A.png 104 0
+text Kohaku-san disappears towards the kitchen.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 104 0
+text ".... Nii-san?
+text You're not arguing back.
+text Are you feeling alright?"
+text ".... Geez.
+text You and even Hisui, what do you think I am?
+text I just woke up early and my throat is dry, there isn't anything wrong with me..!"
+text Trying to resist the urge to vomit, I shout back.
+bgload BG_34A.jpg
+setimg AKI_T12A.png 104 0
+text ".... I'm sorry, Nii-san.
+text But there is obviously something wrong, and I want to help."
+text "Ah---no, that's not it.
+text The fact that you're worried about me makes me really happy.
+text I just had a really bad nightmare last night and my mind is elsewhere, that's all.
+text .... I'm sorry, Akiha.
+text I'm the one who should apologize."
+bgload BG_34A.jpg
+text I sit down on the sofa.
+text I know that something's wrong with me, but I can't do anything about it.
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "Nii-san, is there something bothering you?
+text If it's something to do with this mansion, please tell me, and I'm sure I can be of help.."
+text "No, it isn't that I'm not used to living here---"
+bgload BG_34A.jpg
+text .... That's right.
+text Maybe if I ask her indirectly, it might help me feel better.
+text ~
+text I decide to---
+choice Talk with her about it.|Don't talk with her about it.
+if selected == 1
+    jump s392.scr
+fi
+if selected == 2
+    jump s393.scr
+fi

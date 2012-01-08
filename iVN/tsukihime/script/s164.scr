@@ -1,0 +1,13 @@
+bgload BG_32A.jpg
+text "Aren't you just easily angered?
+text You're a pretty selfish person at heart, after all."
+text I clearly voice my thoughts on the matter.
+bgload BG_32A.jpg
+setimg ARK_T08.png 36 0
+text "Really?
+text Now that you mention it, you could be right.
+text It seems like I've become really emotional since you killed me."
+text Arcueid nods in a satisfied manner.
+bgload BG_32A.jpg
+text .... Well, whether that was the truth or not, the problem is resolved as long as Arcueid is convinced.
+jump s168.scr

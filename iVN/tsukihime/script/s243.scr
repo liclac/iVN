@@ -1,0 +1,26 @@
+bgload BG_29B.jpg
+text "---To be honest, I don't know.
+text But I can't just leave you alone."
+text .... Yes.
+text Since I talked to Yumizuka two days ago, she has never left my mind.
+text So that must mean..
+text ".... Unlike your case, I don't feel like I've known you for years, but---"
+text Even though I knew it was dangerous, I still came here.
+text "I.. think I do.. like you."
+bgload BG_29B.jpg
+setimg STK_T09.png 53 0
+text "----"
+text Yumizuka looks at me, aghast.
+text I stare back at her.
+text "---No.."
+text She shakes her head.
+text She seems about to burst into tears.
+text "---I don't want that.."
+text ".... Yumizuka.. san?"
+text ".... Because that, that just makes me look---stupid.."
+bgload BG_29B.jpg
+text Still aghast, Yumizuka looks down as she murmurs.
+if flgP >= 1 
+    jump s312.scr
+fi
+jump s313.scr

@@ -1,0 +1,23 @@
+bgload BG_29B.jpg
+text "---I'm sorry, but, I can't have any special feelings for you."
+text I answer clearly while looking her straight in the eye.
+bgload BG_29B.jpg
+setimg STK_T09.png 53 0
+text "----I.. see."
+text .... Both Yumizuka's voice and body tremble.
+text "........"
+text .... I can't think of anything else to say.
+text Maybe this makes me a horrible person, but those are my true feelings.
+text I never had any special feelings for my classmate Yumizuka Satsuki.
+text I'm only here because what happened on the way home two days ago left such an impression on me, I couldn't just forget about it---
+bgload BG_29B.jpg
+setimg STK_T08.png 53 0
+text ".... Yeah, I knew that.
+text I guess that's why things turned out this way.
+text .... It's okay.
+text Since you say that, I'll be honest to myself too, Shiki-kun."
+bgload BG_29B.jpg
+if flgP >= 1 
+    jump s312.scr
+fi
+jump s313.scr

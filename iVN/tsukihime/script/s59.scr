@@ -1,0 +1,15 @@
+bgload BG_06A.jpg
+text The morning lessons are over.
+text It's lunch break, and Arihiko has gone on ahead to the cafeteria.
+text Now, where should I have my lunch?
+text ~
+choice In the classroom.|Go to the cafeteria.|Go to the tea ceremony room.
+if selected == 1
+    jump s62.scr
+fi
+if selected == 2
+    jump s63.scr
+fi
+if selected == 3
+    jump s64.scr
+fi

@@ -1,0 +1,90 @@
+bgload BG_06A.jpg
+text Homeroom is about to start, but it is still very rowdy in the classroom.
+text I take my seat by the window and set down my bag.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Hey, mornin'.
+text You're looking pretty bad today."
+text ".... Sheesh.
+text Everyone looks at me and says the same thing.
+text Do I look that sick?"
+text "Eh---?
+text .... Yeah, come to think of it, you look normal.
+text I don't know, but you look really down, Tohno."
+text "........ Down, huh?
+text .."
+text Certainly my spirits are low.
+text Ever since Senpai said farewell, my body has been heavy and both my mind and body are knocked out.
+text "---Arihiko.
+text Did you see Senpai today?"
+bgload BG_06A.jpg
+setimg ARI_T03.png 40 0
+text "Huh?
+text Senpai?
+text Which Senpai?"
+text "Which?
+text .... the only Senpai we both know is Ciel-senpai."
+text "Shiel-Senpai?
+text .... Who's that?
+text Are there any foreign students at our school?"
+text ~
+text ----My mouth hangs open in amazement.
+text ~
+text ".... Arihiko, you...."
+text I manage to stammer this out in my confusion.
+text But, nothing else comes out.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "You okay Tohno?
+text Just spit it out.
+text As long as it's not asking for money, I'll help you out."
+text ~
+text Arihiko is acting like he always does.
+text Just like always, he completely does not remember about Senpai.
+text ~
+text ".... Nah, it's nothing.
+text Sit down, class'll start."
+text "Oh, it's that time.
+text Well, later."
+bgload BG_06A.jpg
+text Arihiko goes back to his own seat and the teacher arrives.
+text Homeroom starts, followed by physics, the first period class.
+text ~
+text ---I watch it like a movie on a screen.
+bgload IMA_10.jpg
+bgload IMA_03.jpg
+text Senpai.. really disappeared.
+text Not just from my sight, but the person known as Ciel-senpai is gone completely without a trace.
+text Arihiko doesn't remember her.
+text .... I'm sure no one else does either.
+text That farewell, this is what it meant.
+text "--------"
+text The movie in front of me continues playing, showing a teacher using white chalk on a blackboard.
+text Nothing seems real anymore.
+text Once classes are over and break time begins, that person will never come again, ever.
+text During lunch, we will never sit in the tea ceremony room and spend the time aimlessly over lunch.
+text .... Somewhere.
+text I had a thread of hope, but that is gone as well.
+text ~
+text I've lost Ciel completely.
+text I still haven't---haven't done anything.
+text Haven't told her anything.
+text We spent time eating lunch together on a nice day such as today.
+text ~
+text That was, a distant, precious dream----
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text I realize the number of my classmates in the room is dwindling.
+text ~
+text ---It seems it's now lunch time.
+text "............"
+text I don't feel like doing anything.
+text I feel sluggish, so I'll just---
+text ~
+choice Space out here in the classroom.|Go eat some lunch.
+if selected == 1
+    jump s278.scr
+fi
+if selected == 2
+    jump s279.scr
+fi

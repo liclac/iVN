@@ -1,0 +1,79 @@
+bgload BG_03A.jpg
+sound SE_03.aac 1
+text The ten minute bell rings.
+text "--Uh-oh, we'll be late.
+text Well, bye Senpai, see you later!"
+bgload BG_03A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, I'll come see you during lunchtime."
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+music 03.mp3
+text I fly into my classroom.
+text It's still five minutes before class, so it's very noisy inside.
+text ~
+text "--Whew."
+text I take a breath and head to my seat.
+text With this much time left, I didn't even need to run at all.
+text "Yo, Duke of Delinquency."
+text "......"
+text From behind, I hear the voice I never look forward to.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "What's going on, Tohno?
+text I never heard you were skipping class.
+text It's a lot of trouble.
+text You have to tell me when you skip school and go play!"
+text Arihiko says those preposterous words with an unbelievably happy expression.
+text ".... Why should I have to tell you when I don't go to school?"
+text "Isn't it obvious?
+text When you don't show, neither does Senpai, so it's bad unless I think of something ahead of time."
+text .... What's bad for this guy?
+text "But seriously--What happened?
+text Since middle school, you've had anemia, but never skipped school.
+text Well, you did a cool trick several times, leaving as soon as you arrived."
+text "It's kind of like that.
+text I made it to the intersection and felt bad, so I went back home."
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "Hmmm.. Both you and Yumizuka seems to be acting like bad students lately."
+text "--Well, I'm guilty as charged, but .... is something wrong with Yumizuka-san?"
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Her?
+text She's been absent lately.
+text She was always such an honor student, so I think she might have been stressed out.
+text But I bet she can't call a raise 'cause she has a bad hand."
+text ".........."
+text Arihiko's words are always.. very unique.
+sound SE_03.aac 1
+text --While we are talking, the homeroom chime rings.
+text ~
+text "Well, I'm off.
+text Since you skipped Saturday, make sure you study hard today."
+bgload BG_06A.jpg
+text Arihiko goes back to his seat.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text Fourth period ends and the class erupts into pandemonium all over again.
+text The guys dash off to the cafeteria, the girls eat their lunches at their desks, and Inui Arihiko's carrying a sandwich and coming over to me.
+text ~
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "Yo Tohno!
+text Lunch, lunch."
+text "---"
+text .... What should I do?
+text Since morning, I haven't really had an appetite.
+text I don't feel hungry, so maybe I don't have to force myself to eat.
+text .... If I eat, I might throw it up again and cause trouble.
+text I should---.
+text ~
+choice Alright, I'll eat.|Alright, I won't eat.
+if selected == 1
+    jump s226.scr
+fi
+if selected == 2
+    jump s227.scr
+fi

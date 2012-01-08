@@ -1,0 +1,118 @@
+bgload IMA_10.jpg
+bgload BG_11B.jpg
+music 03.mp3
+text I hurry to the tea ceremony room.
+text Senpai has her hand on the door as I arrive.
+text "Senpai!"
+bgload BG_11B.jpg
+setimg CEL_T01A.png 52 0
+text "Ah, Tohno-kun.
+text Are you going home now?"
+text "No, I thought I'd talk with you a little bit.
+text You're going to have some tea now, right?
+text I was thinking of joining you."
+bgload BG_11B.jpg
+setimg CEL_T04.png 52 0
+text "No, I'm going home now.
+text I have something to do, and this month club funding is getting a little low."
+text "---Ah.
+text I see, all those tea snacks were bought with club money."
+text .... But, come to think of it, a club that can buy snacks with its own funds has to be wonderful.
+bgload BG_11B.jpg
+setimg CEL_T01A.png 52 0
+text "So I can't keep you company.... Tohno-kun, do you have any plans after this?"
+text "Me?
+text No, not anymore."
+text "Well then, care to walk with me to the front gate?"
+text "Yeah, it would be my pleasure."
+bgload BG_11B.jpg
+setimg CEL_T04.png 52 0
+text Senpai grins and nods, and walks by my side.
+text We decide to walk together for five minutes to the school gate.
+bgload IMA_10.jpg
+bgload BG_01B.jpg
+text Without any serious talk between us, we arrive at the school gate.
+text "Well then, see ya tomorrow, Senpai."
+text Raising one hand, I start off down the road in the opposite direction from her.
+bgload BG_01B.jpg
+setimg CEL_T01A.png 52 0
+text "Oh, please wait.
+text I have something I wanted to ask you, Tohno-kun."
+text "?
+text What is it?"
+text "Yesterday, you said there was someone that looked like me.
+text I kind got curious, so I wanted to hear a bit more about it."
+text Her eyes burn with curiosity.
+text .... But to me, that's not something I really want to recall.
+text ".... Sorry, I don't want to talk about it.
+text It was just a mistake I made, so it's okay."
+text I look away from Senpai as I give a vague excuse.
+text "Is that so?"
+text Senpai quickly ends her questioning.
+bgload BG_01B.jpg
+setimg CEL_T07A.png 52 0
+text "But you saw that person late at night, right?
+text .... Tohno-kun, I think walking around late at night like that is pretty dangerous.
+text Those serial killings have been continuing, you know?
+text If you meet that serial killer, that would be terrible, wouldn't it?"
+text ".... Senpai, you're worried about me walking out late at night?"
+text "---Yes.
+text You're a good person, so you're the type that'll get easily tricked and put in danger."
+text Senpai looks like she is seriously worried.
+text "-----Nn."
+text Yes, her concern makes me extremely happy.
+text "Thanks Senpai.
+text But it's alright, the one behind those incidents is gone."
+bgload BG_01B.jpg
+setimg CEL_T12.png 52 0
+text "Eh?
+text Gone?
+text What do you mean?"
+text .... Crap, Nrvnqsr is a secret between just me and Arcueid.
+text I can't talk to Senpai about it, and besides, it's no use telling her about it.
+text "Um, yeah, that's right.
+text It is dangerous to walk around at night, really."
+bgload BG_01B.jpg
+setimg CEL_T07A.png 52 0
+text ".... Anyway, from now on, please stop walking around at night.
+text You're a good student."
+text "Yeah, I know.
+text I'm not sure about being a good student, but I won't play around at night anymore like you say."
+text ".............."
+text ~
+text Senpai stares at me.
+text ---Does she not believe me?
+text She doesn't seem convinced.
+text ".... I get it.
+text Then, I promise."
+text I stick out a hand.
+text "Senpai, I owe you one for that time, so I'll do as you ask.
+text So it's a promise."
+bgload BG_01B.jpg
+setimg CEL_T08.png 52 0
+text "Um............ you want to, shake hands?"
+text "Yeah.
+text We're a bit too old for pinkie promises, so we'll shake hands."
+text ".............."
+text After standing there a little perplexedly, Senpai takes my outstretched hand.
+bgload BG_01B.jpg
+setimg CEL_T03.png 52 0
+text "I understand.
+text It's a promise, Tohno-kun."
+text She shakes my hand up and down.
+bgload BG_01B.jpg
+setimg CEL_T02.png 52 0
+text "Well then, goodbye.
+text Let's meet again at school tomorrow."
+bgload BG_01B.jpg
+text Wrapped up in the sunset, Senpai disappears.
+text After watching her go, I decide to head home, too.
+bgload IMA_10.jpg
+music ~
+bgload BG_32B.jpg
+text I walk up the road and back to the mansion.
+text It's not quite six o'clock yet.
+text There's still an hour until dinner, so I'll kill some time in my room---
+bgload IMA_10.jpg
+setvar flgI + 1
+jump s253.scr

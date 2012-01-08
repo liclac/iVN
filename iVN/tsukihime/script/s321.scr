@@ -1,0 +1,74 @@
+bgload BG_34A.jpg
+music 03.mp3
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Well then, a toast to Shiki-san's homecoming.
+text Everyone, please take whatever you would like to drink."
+text Kohaku lines up drinks in front of us, with a full smile entirely free of malice.
+bgload BG_34A.jpg
+text Most of the drinks didn't happen to be juice or anything like that, but proper alcoholic beverages.
+text ".... Uh, Akiha?"
+bgload BG_34A.jpg
+setimg AKI_T04B.png 40 0
+text "Hm?
+text What is it, Nii-san?"
+text .... There's a gurgling as Akiha fills her glass with a tawny liquid, then adds a little orange juice.
+text "Tha.. that wouldn't be whiskey, would it?"
+text "It would.
+text Is there something wrong?"
+text "'It would' ..?
+text Akiha.."
+text Um, aren't we all too young to be drinking..?
+bgload BG_34A.jpg
+setimg AKI_T08B.png 40 0
+text "This is your welcoming party.
+text We have to have alcohol, don't we?
+text Or.. Nii-san, you're weak when it comes to alcohol?"
+text Akiha seems.. somehow delighted.
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+text "Ah, Hisui-chan.
+text That's unusual, not juice today?"
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+setimg HIS_T20.png 126 0
+text ".............."
+text Seeming a little shy, Hisui silently pours wine into her glass.
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg AKI_T04B.png 40 0
+text "See, Nii-san?
+text Even Hisui is drinking.
+text Surely you don't intend to be the only one drinking juice?"
+text "........ Geez.
+text You really want to get the most out of this party, don't you, Akiha?"
+bgload BG_34A.jpg
+setimg AKI_T08B.png 40 0
+text "Yes.
+text I don't usually like parties, but today is an exception."
+bgload BG_34A.jpg
+text ~
+text ----Huh.
+text Well, it can't be helped.
+text A lot of alcohol isn't good for my body, but a little bit should be okay.
+text The weakest drink laid out on the table is---the wine, it looks like.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Well then, everyone, raise your glasses, please?
+text Cheers!"
+text ~
+text With a clash, our glasses come together.
+text Kohaku tosses hers down in a single gulp, Akiha takes her time, and Hisui sips hers quietly.
+text ~
+text .... Oh man, I'm not responsible for this.
+bgload IMA_10.jpg
+if flgP != 0
+    jump s322.scr
+fi
+if kohaku_regard > hisui_regard
+    if clear_hisui != 0
+        jump s324.scr
+    fi
+fi
+jump s323.scr

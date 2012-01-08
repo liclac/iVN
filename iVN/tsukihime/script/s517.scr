@@ -1,0 +1,48 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Hello.
+text I am the teacher of this classroom, Ciel.
+text For the sixth period class, let's think about the basics of finding people.
+text ~
+text To be straightforward, Tohno-kun does not know how to find people.
+text Please consider the reason why she ran away; why, where, and to do what.
+text If you piece these together, you will find an answer.
+text ~
+text In other words, she got hungry, so she went into the alley to do some sucking.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+text "Nonsense!
+text Violent Ciel!
+text Glasses!
+text Indian!"
+text ~
+text ............
+text This session is finished.
+text Please continue enjoying the main storyline.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ARK_T30.png 61 0
+text "Nya?
+text What is it, Ciel?
+text Why are you pulling out something like a shotgun, and a machine gun, and a vulcan cannon?"
+text ~
+sound SE_07.aac 1
+text Arc!
+text India has nothing to do with it.
+text Nothing!
+text ~
+text "Oh my, Glasses got pissed off-nyaa!
+text Whoosh (sound effect)"
+bgload IMA_10.jpg
+music ~
+jump main.scr

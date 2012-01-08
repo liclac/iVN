@@ -1,0 +1,35 @@
+bgload BG_19D.jpg
+text .... It's suspicious.
+text There's something very suspicious about how she says "I'm not going to break them".
+text "--Not even just to look at.
+text I know about your ridiculous powers, after seeing you in that alley.
+text What would I do if you crushed them by accident?"
+bgload BG_19D.jpg
+setimg ARK_T16.png 36 0
+text "Hey!
+text What do you mean 'ridiculous powers'?
+text Let me tell you, in terms of non-fighting strength, you're stronger than I am.
+text I won't break things at random."
+text Saying that, Arcueid extends her hands as if she is about to take them by force.
+text ~
+text .... Her attitude is becoming more and more suspicious.
+bgload BG_19D.jpg
+text I bounce up off the bed to get away from her.
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text "Hey, you're running away."
+text "Of course.
+text I'll tell you now: I'm not handing over these glasses.
+text Even if there's only a one in a million chance you'll break them, they're irreplaceable to me.
+text After all, you're the one who said I wouldn't be able to stay sane without these glasses.
+text Do you want me to go crazy?"
+bgload BG_19D.jpg
+setimg ARK_T03.png 36 0
+text "Huh?
+text N.. no, that's not it at all."
+text .... Arcueid is obviously trying not to look at me.
+bgload BG_19D.jpg
+text "--Come on, Arcueid.
+text I don't know what you're planning, but if I lose these glasses, I won't be in any position to help you.
+text If I were to see the lines 24 hours a day, I think I'd die from the headache before I'd go mad."
+jump s88.scr

@@ -1,0 +1,130 @@
+bgload BG_06A.jpg
+text ---Nothing's going to get done if I just rot here.
+text ~
+text Besides, I'm not in the best health right now, so if I don't eat I'll really collapse.
+text "Guess I'll go to the cafeteria."
+text Thinking aloud, I get up from my desk.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text The big rush must be over because there isn't a line.
+text The tables are mostly full of students already eating.
+text I glance around the room to see if there are any seats left.
+text ~
+text ---And then,
+bgload BG_50.jpg
+setimg CEL_T01A.png 52 0
+bgload BG_50.jpg
+text ~
+text .... I see someone who looks like Senpai.
+text "----Haha."
+text I laugh loudly.
+text Mistaking someone for Ciel-senpai because there's a small resemblance.. I truly am beat.
+text I know I'm beat, but I can't take my eyes away from this person that looks like her.
+text This person that looks like her sits at the table slurping up udon.
+text It's curry udon too.
+text Even her food resembles what Senpai would eat.
+text ~
+text "------Ah."
+text ~
+text Actually, it is Senpai.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+music 03.mp3
+bgload BG_50.jpg
+setimg CEL_T07A.png 52 0
+text "----Senpai!"
+text I dash with all my strength towards Senpai.
+text "-------"
+bgload BG_50.jpg
+text Senpai looks up at me, then glances away quickly.
+text She's clearly avoiding me.
+text But, that doesn't matter.
+text "Senpai, why are you here....!"
+text I blurt that out because I can't even think of anything else to say.
+bgload BG_50.jpg
+setimg CEL_T12.png 52 0
+text "Why am I here?
+text I'm a student here, you know.
+text If I don't eat during lunchtime, I'll collapse."
+text "No, that's not what I mean, but---"
+bgload BG_50.jpg
+text I don't know what to say.
+text My brain just stopped functioning.
+text She looks away from me as if she wants to complain.
+text "I thought it was strange for you to be here.
+text Just yesterday, you said farewell, so I thought I would never see you again---"
+bgload BG_50.jpg
+setimg CEL_T12.png 52 0
+text "Yes, because it was getting late.
+text Students should go back home at that time, yes?"
+text Simply.
+text With a straight face, she says this outrageous punch line.
+text "Wha---"
+bgload BG_50.jpg
+setimg CEL_T07A.png 52 0
+text "Or, Tohno-kun, are you saying people like me shouldn't come to school?"
+text Her eyes, that were so devoid of emotion yesterday, look directly into mine.
+text ~
+text .... A student like me?
+text That's what she said.
+text I don't know if she's really a vampire or not.
+text But she healed from that fatal wound quickly, so she has to be something more than human, like Arcueid.
+text You just can't say that's human.
+text But still.
+text To me, she is a very dear person.
+text I still don't know exactly what kind of feelings I have for her.
+text But with just half a day.
+text It was only half a day, but just thinking she wasn't in my world anymore made me feel like reality was nothing I should care for.
+text So---for me, she is someone I can't lose.
+text ".... Senpai, I---"
+text I'd be lying if I said all of it, but I don't care.
+text Even if she is the same as Arcueid, Senpai is still Senpai.
+text That is an absolute truth I believe in.
+text Yes, I should say those words I couldn't say last night.
+text ~
+text However, before that..
+bgload BG_50.jpg
+setimg CEL_T01A.png 52 0
+text "Fine.
+text I cannot help it if you hate me, Tohno-kun.
+text But this is my daily life, so no matter what you say, I decided to do as I please."
+text ~
+text She speaks directly.
+text "You don't have any complaints, right?" Senpai says and stares at me.
+text "........ Huh?"
+text Of course, no complaints here.
+text I feel like such an idiot worrying about it so much.
+text The strength drains from my body.
+text But more than that, I can't help but feel really happy.
+text ".... Yeah, of course I don't have any complaints.
+text Because up until now, I was ignoring all your warnings and doing as I pleased too, Senpai."
+bgload BG_50.jpg
+setimg CEL_T12.png 52 0
+text "That is acceptable.
+text Then, let's shake hands."
+text She sticks out her hand.
+text I don't know what she's thinking, but I take her outstretched hand.
+text ~
+text Senpai shakes it up and down.
+bgload BG_50.jpg
+setimg CEL_T04.png 52 0
+text "Yes, then this is a sign that we have made peace.
+text Let's stay this way, okay Tohno-kun?"
+text She flashes a full, truly happy smile.
+bgload BG_50.jpg
+text With that, she stands up, taking her tray as she walks away.
+text ~
+text .... I don't know where, but she seems to be heading somewhere.
+text "Ah----"
+text After putting her dishes in their place, she exits the cafeteria.
+text .... That's fine.
+text I'm happy that she is still here at school, and that we've made up but---can I let things go about Arcueid, and that vampire we're hunting?
+text ~
+music ~
+choice I guess so.|No, it does matter.
+if selected == 1
+    jump s280.scr
+fi
+if selected == 2
+    jump s281.scr
+fi

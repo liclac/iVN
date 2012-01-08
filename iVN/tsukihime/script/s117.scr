@@ -1,0 +1,16 @@
+choice It might be Arcueid.|It might be Ciel-Senpai.|It might be Akiha.|It might be Hisui.|It might be Kohaku-san.
+if selected == 1
+    jump s118.scr
+fi
+if selected == 2
+    jump s119.scr
+fi
+if selected == 3
+    jump s120.scr
+fi
+if selected == 4
+    jump s121.scr
+fi
+if selected == 5
+    jump s122.scr
+fi

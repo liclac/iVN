@@ -1,0 +1,116 @@
+bgload BG_23B.jpg
+music 08.mp3
+text I walk with Akiha towards the mansion.
+text "...."
+text Frankly, it's difficult.
+text If I look beside me, I can see Akiha walking with her long hair fluttering.
+text Akiha is silent and graceful, the perfect daughter of a respected family.
+text "......"
+text Why can't I think of anything to say?
+text Even though I see Akiha at home every day, I somehow feel some tension walking home toward the mansion.
+text ~
+text --But I still haven't had an explanation.
+text ~
+text "Akiha."
+bgload BG_23B.jpg
+setimg AKI_T01A.png 40 0
+text "Yes?
+text What is it, Nii-san?"
+text "What is it!?
+text Why have you transferred to this school?
+text What possible reason could you have for transferring to a second-rate elevator school!?"
+bgload BG_23B.jpg
+setimg AKI_T21.png 40 0
+text "So you say, Nii-san.
+text But I can go to school wherever I choose; I do not need to explain myself to you."
+text ".... Don't be stupid.
+text I'm your brother!
+text I can't just overlook things that are against your best interests.
+text Frankly, I can't see any benefit in you transferring to this school.
+text Since our old man isn't around anymore, it's my responsibility to look out for you..!"
+bgload BG_23B.jpg
+setimg AKI_T16A.png 40 0
+text ".... What?
+text It's not fair to say things like that at times like these."
+text "'Not fair' is my line.
+text What were you thinking, transferring without even telling me?
+text I won't accept this transfer until I hear a good reason!"
+bgload BG_23B.jpg
+setimg AKI_T19.png 40 0
+text "Ah----"
+text "If I'm not satisfied with the reason, I'll send you right back to your own school.
+text So, tell me, Akiha.
+text Why did you change schools?"
+bgload BG_23B.jpg
+text Akiha falls silent and looks down.
+text A very brief moment later, she raises a brave face.
+bgload BG_23B.jpg
+setimg AKI_T01A.png 40 0
+text ".... I was worried about you, Nii-san.
+text Is that not a sufficient reason?"
+text ~
+text -------Eh?
+text ~
+text ".... Ha, hang on.
+text What do you mean, worried about me..?"
+text What sort of reason is that for transferring?
+bgload BG_23B.jpg
+setimg AKI_T03A.png 40 0
+text "Well, looking at your unruly behavior recently, I decided that in order to prevent you from disgracing the Tohno name, I would have to keep a close eye on you."
+text Akiha explains clearly.
+text "Erk----"
+text When she says "unruly behavior", I can't help but nod.
+text It's true, my everyday life since coming here has surely been an annoyance to Akiha and the others.
+text "Bu, but, transferring is still a bit much, isn't it?
+text What about your friends?"
+bgload BG_23B.jpg
+setimg AKI_T05A.png 40 0
+text "That's none of your concern, Nii-san.
+text If you feel even a little bad for me, then all you have to do is change your way of thinking from now on."
+text Akiha turns sharply away.
+text ~
+text .... Well, this is just the way she is.
+text ".... Alright, do as you please.
+text But one day, you'll regret it."
+bgload BG_23B.jpg
+setimg AKI_T21.png 40 0
+text "That's fine.
+text I wasn't thinking of having you worry over me, Nii-san."
+text With a sound of exasperation, Akiha starts to sulk.
+text We fall silent, and continue up towards the mansion.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+music 01.mp3
+text We arrive at the mansion.
+text Akiha steps forward to open the gate, but as if remembering something, turns to me.
+bgload BG_32B.jpg
+setimg AKI_T01A.png 40 0
+text ".... I have one question.
+text How close are you to that person called Ciel, Nii-san?"
+text Abruptly, she asks an extremely forward question.
+text "Not especially close.
+text We're just friends from school.
+text She.. feels like someone I can talk to."
+bgload BG_32B.jpg
+text "Really?" Akiha says, turning away and going through the gates.
+bgload BG_48B.jpg
+text We cross the courtyard and arrive at the door.
+text As Hisui is not waiting at the gates and Kohaku is not sweeping the garden, there is no sign of either of them today.
+text "Ah."
+bgload BG_48B.jpg
+setimg AKI_T01A.png 40 0
+text "Yes?
+text Did you say something, Nii-san?"
+text "Well, nothing much but.. I'd like to go and take a look at the Japanese-style building you were talking about, if that's okay."
+text "----The detached building?"
+text Murmuring, Akiha's brow creases with concern.
+bgload BG_48B.jpg
+setimg AKI_T11A.png 40 0
+text "Please, do not.
+text It was sealed up many years ago.
+text Nii-san, even you are not permitted to go there."
+bgload BG_48B.jpg
+text Having stated this, Akiha goes into the mansion.
+bgload IMA_10.jpg
+music ~
+jump s334.scr

@@ -1,0 +1,171 @@
+sound ~
+bgload IMA_11.jpg
+music 09.mp3
+text ~
+text Tweet, Tweet, Tweet
+text ~
+text .... Is the window open?
+text I can hear the soft singing of birds from the garden.
+text A cool breeze blows across my face.
+text I feel the sunlight hitting my eyelids.
+text A quiet, gentle atmosphere.
+text ~
+text A gentle morning.
+text Morning?
+text I guess I fell asleep last night as Akiha cared for me, and slept till now.
+text Lying down, my body feels heavy.
+text But I feel much better than I did yesterday.
+text I decide to open my eyes and sit up.
+text ~
+text And----
+bgload IMA_11.jpg
+bgload event/ARK_E04.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "Ah.
+text The little rascal finally woke up."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... I see Arcueid's face right in front of mine.
+text "......!?"
+text My brain goes blank and stops working due to this unexpected event.
+text My mouth opens and closes, but my voice seems to be missing.
+text ~
+text ---Seriously, what's going on?
+text Arcueid is in front of me.
+text This is my room.
+text It's past nine o'clock in the morning,
+text She's come inside, still wearing her shoes; that's all I know for now.
+text "Y-Y-Y-You!"
+text "Liar.
+text We promised to meet again yesterday."
+text She must be in a pretty bad mood as her red eyes have lost their usual beauty.
+text ~
+text ---No, not lost at all.
+text Being this close, her beauty is more vivid than usual.
+text Arcueid glares at me as I lay in bed.
+text ~
+text ".... W-Wait, Arcueid.
+text W-Why are you in my room this morning....!?"
+text I start to shout, but I stop myself.
+text If I shouted now, Hisui would come here and it would all be over.
+text ~
+text ---Everything is still chaotic, but my brain can grasp that much.
+text "A-Anyway, move....!
+text Just going into someone's room, threatening a sleeping person, don't you know how awful that is....!?"
+text "What's with that attitude?
+text I came here because you broke your promise.
+text Sleeping while making someone wait, just what in the world were you planning?"
+text She stares at me ill-temperedly.
+text .... I calm down.
+text ~
+text That's right.
+text I really did break my promise to meet Arcueid last night.
+text ".... Mmmm."
+text I finally understand the situation.
+text I understand why Arcueid's angry.
+text I understand, but to do this.. to come into someone's room still wearing shoes like that, what does she intend to do?
+text Seeing that the window is open, she probably came in through there.
+text ".... I see, since I broke my promise, I'm at fault here.
+text But sneaking in here is going a little far, you know."
+text "This isn't your house, Shiki."
+text She gives a quick retort.
+text "You know, I really was angry before.
+text I waited for many hours, and as soon as I realized you weren't coming, I got so incredibly angry.
+text I was thinking I would never let this happen again and I'd rip your throat out."
+text She speaks, still looking ill-tempered.
+text "Do you get it, Shiki?
+text That feeling, I couldn't resist it.
+text Even though I know I should calm down, the more I thought about it, the angrier I got."
+text As if she still felt that way, her red eyes seem to blame me.
+text ~
+text "Yeah.. I guess you can't help yourself."
+text Giving thanks to God my neck is still attached, I keep the conversation going.
+text "Isn't it?
+text And I snuck in here, but since you were sleeping I decided to wait.
+text At least I wanted to hear your excuse.
+text And, since I didn't have anything to do, I watched your sleeping face.
+text .... Yeah, your sleeping face was very quiet, it was almost scary.
+text Sleeping like you were dead, I started feeling uneasy because I thought that maybe you would never wake up."
+text I sigh.
+text "If you were uneasy then you should've woke me.
+text I'm uneasy when you're next to me."
+text "But, I thought it would be a waste.
+text .... I don't know what I look like when I sleep, but I thought it would be real good if I slept like you did.
+text I wondered why you look so peaceful while I watched you sleep.
+text While I was doing that, my anger disappeared, and then you woke up."
+text ".... Then you've been here this whole time?
+text From last night until now?"
+text "Yeah.
+text People from this house came in a few times, but I hid myself so it was okay.
+text A girl also came to wake you up, but I didn't like her so I sent her away."
+text Arcueid laughs brightly.
+text "Wait, you sent her away?
+text How?"
+text "I wasn't rough.
+text Didn't I tell you before that vampires have Mystic Eyes of Enchantment?
+text I merely used suggestion on her, saying that 'Shiki has already gone to school' and didn't leave any memory of her meeting me."
+text "No memory?
+text You...."
+text Really are a troublesome person.
+text .... Well, even if she is troublesome, at least she took care not to be detected.
+text I bring my hands to my head as I sigh.
+text "Alright.
+text Sorry for yesterday, Arcueid.
+text I don't know if this is making up for it, but I won't break any more promises.
+text Yeah, I promise."
+text I look her right in the eye as I declare this.
+text "Are you sure?"
+text "I'm sure.
+text Because I now realize your revenge is scary...."
+text Still lying down, I raise my hands in surrender.
+text ~
+text All of a sudden, her bad mood disappears completely.
+text Arcueid gives a satisfied nod and says 'alright'.
+music ~
+bgload BG_40A.jpg
+music 02.mp3
+text Arcueid finally gets away from the bed.
+text ".... Geez, sneaking onto someone's bed like that.
+text Didn't you think about how hard the sheets would be to clean if you left a mess from your shoes?"
+text Complaining, I get up from bed.
+text Arcueid stands in the center of the room watching me as I slowly rouse myself from bed.
+text ".... Hey, what are you doing?"
+bgload BG_40A.jpg
+setimg ARK_T01A.png 36 0
+text "What am I doing?
+text I'm just waiting for you to change.
+text You're not going to go out in those clothes, right?"
+text "Well, yeah.
+text No one walks around in pajamas.. Wait, Arcueid?"
+text "Yeah, I was thinking we'd spend the day together, Shiki.
+text You said you'd make it up for breaking your promise, didn't you?"
+text Arcueid says this casually, as if it was the most natural thing in the world.
+text "Today, all day.. What are you saying?
+text I have school.."
+bgload BG_40A.jpg
+setimg ARK_T16.png 36 0
+text "Hey, you even said you were sure.
+text Are you choosing school over me, Shiki?"
+text "Uh...."
+text She's got me there.
+text I..
+bgload BG_40A.jpg
+text ~
+choice It can't be helped|It can be helped
+if selected == 1
+    jump s163.scr
+fi
+if selected == 2
+    jump s167.scr
+fi

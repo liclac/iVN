@@ -1,0 +1,313 @@
+bgload BG_33D.jpg
+text ~
+text ---I should check it out.
+bgload IMA_10.jpg
+bgload BG_48D.jpg
+text I go outside.
+text The previously present moon is now obscured by clouds.
+text ~
+text "Hm......?"
+text Someone is opening the front gate.
+text I start to say something,
+text "........ Akiha?"
+text Akiha looks quickly over her shoulder and exits the gate.
+bgload IMA_11B.jpg
+bgload BG_48D.jpg
+sound SE_02.aac -1
+text "Eh-----?"
+text Thump.
+text Out of nowhere, my chest starts to pound.
+text ~
+text Thump.
+text THUMP.
+text Thump.
+text THUMP.
+text ~
+text My heart seems to pulse with new life.
+text I can feel the blood coursing through my body, and the shaking of my fingers.
+text "Ah-----"
+text A chill runs down my back.
+text Despite that, my body feels like it's on fire.
+bgload IMA_11B.jpg
+bgload BG_32D.jpg
+text "Akiha----what is she doing this late?---"
+text I feel dizzy.
+text I try to sort things out rationally, but I stop.
+text Right now, I have to follow Akiha.
+sound ~
+bgload IMA_10.jpg
+bgload BG_24C.jpg
+music 06.mp3
+text "Haa----"
+text Stifling my breath, I follow after her.
+text Thump, Thump.
+text My beating heart.
+text I follow her quietly to avoid being noticed.
+text Thump, thump, thump.
+text I feel regret.
+text I don't have my knife tonight.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text There's no moonlight and it's now midnight.
+text There isn't a sign of anyone else on the streets.
+sound SE_01.aac 1
+text Thump,
+text Thump.
+text Akiha walks unsteadily.
+text I try to silence my breathing and await my chance.
+sound SE_01.aac 1
+text Thump,
+text Thump.
+text It's taking her a while to be alone.
+text Where she's going is trivial.
+sound SE_01.aac 1
+text Thump,
+text Thump.
+text I'm terribly thirsty.
+text I'm incredibly excited.
+sound SE_01.aac 1
+text Thump,
+text Thump, thump.
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+sound SE_01.aac 1
+text ~
+text ---All of a sudden, I lose sight of her.
+text Where'd she go?
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text I return to the main street.
+text I feel instinctively that I'll see her again if I wait here.
+sound SE_01.aac 1
+text I let out a deep breath.
+text My heart is still burning.
+text "-------"
+text That's odd.
+text This isn't a dream.
+text This isn't a dream, then why---is my blood burning as I'm following Akiha?
+sound SE_01.aac 1
+text It's like, I want to kill Akiha.
+sound SE_02.aac -1
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+text Thump
+sound ~
+text Sensing something, I instantly conceal myself.
+text Akiha is coming.
+text She looks around from side to side, as if searching for something.
+text ~
+text "...... There isn't anyone here, I guess."
+text ~
+text I hear her thinking aloud.
+text I must be that close if I can hear her.
+text Peering from the shadows, I look out into the street.
+bgload BG_25B.jpg
+setimg AKI_T27.png 0 0
+text "---"
+text My head aches.
+text The air around me tenses.
+bgload IMA_10.jpg
+text ~
+text ----I collapse to the ground.
+text ~
+text I've never felt such pain before.
+text It's so bad it makes me seriously think my skull just split open and I'm going to die.
+music ~
+bgload BG_25B.jpg
+text "Ah-----ouch........"
+text Shaking my head, I stand up.
+text I don't know how long I was out, but the night is quiet.
+text ~
+text ---Wait a minute.
+text ~
+text "Wh, why am I here!?"
+text I am out on the main street.
+text I saw Akiha by the gate, and after that---that's right, I followed her.
+text ".... What am I doing?"
+text I'm surprised at what I'm doing.
+text "------Huh?"
+text An unpleasant smell pricks at my nose.
+text A smell I've never known until now.
+text The smell that stuck to my mouth during my dreams these past few days.
+text ".... From that alley....?"
+text Getting a bad feeling, I run towards that alley.
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+bgload IMA_13B.jpg
+sound SE_11.aac -1
+text ---It's like a rehash of my dream last night.
+text ~
+text In the alley there is a collapsed stranger.
+text Despite the blood flowing from the neck, the person is still breathing.
+text "---------"
+text Everything before me turns crimson.
+text But this isn't a dream.
+text Maybe it's because I've had all those dreams of murder, but I can think calmly.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text I go out to the street.
+text I go to the nearest public phone and call the nearest hospital.
+text After giving a fake name, I tell the location and condition of the victim, and I hang up the phone.
+text Now, before the ambulance comes, I should head back to the mansion so no one sees me.
+bgload IMA_10.jpg
+bgload BG_48D.jpg
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text *pant* *pant* *pant*------
+text After running without stopping, I can finally relax.
+text I don't have anything to feel bad about, but I felt that getting involved would be dangerous, and I did the best I could.
+text .... The person in the alley was still breathing,
+text and the bleeding wasn't that bad, so I don't think it was life-threatening.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text "Ah-----"
+text .... As expected, running here with all my strength, including up the big hill, was a little much.
+text I'm completely out of breath.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text "Cra--"
+text .... Dizziness assails me.
+text I can feel my consciousness withdrawing.
+text This isn't a normal dizziness.
+text If it's this bad, if I collapse, I won't be able to get back up for a while.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_33D.jpg
+text "Damn...... I have to, get back, to my room, before----"
+text I lean up against the stairs.
+text I manage to take one step up the stairs.
+bgload IMA_10.jpg
+text That's it though.
+text I collapse.
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text Strong rays of sunshine cause me to open my eyes.
+text I'm in my room.
+text I'm now wearing my pajamas and lying in bed.
+sound SE_04.aac 1
+text "Excuse me."
+text With a knock, the door opens.
+text Kohaku-san enters carrying a towel and a bucket.
+bgload BG_40A.jpg
+setimg KOHA_T02.png 52 0
+text "Ah, good morning Shiki-san.
+text How are you feeling?"
+text Kohaku-san draws near with her normal smile.
+text "-------"
+text I think back to last night's conversation with Hisui.
+text Tucking that away into the back of my mind, I try to make my usual smile.
+text "Morning Kohaku-san.
+text Um---did you carry me up here?"
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Huh?
+text Don't you remember Shiki-san?
+text I found you alone on the stairs and you stood up once I called you.
+text You said you had a nice nap and started to walk.
+text I did lend you my shoulder, but you walked here by yourself."
+text ...... *sigh*
+text "I don't remember.
+text I must've been so tired that I forgot what I did."
+text "So you don't remember anything about last night?"
+text ".... Maybe.
+text I don't remember anything after I came back to the mansion."
+bgload BG_40A.jpg
+setimg KOHA_T18.png 52 0
+text "Ahaha.
+text That's unfortunate.
+text Shiki-san, you kept apologizing to me.
+text I inquired why you kept apologizing, and you kept saying that you were an idiot and a blockhead.
+bgload BG_40A.jpg
+setimg KOHA_T02.png 52 0
+text Shiki-san, are you a blockhead?"
+text "No, I don't think so."
+text .... Well, I am really starting to get the idea that they think my brain is made out of wood.
+bgload BG_40A.jpg
+text ".... Anyway, thanks a lot.
+text If I slept on the stairs, I'd have caught a cold, and school---"
+text Huh?
+text Are my eyes playing tricks on me?
+text The clock tells me it is already past ten in the morning.
+text "Ah---!
+text Ko, Kohaku-san, School!"
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Yes.
+text Today is your school's founding holiday, so you don't have school."
+text "--------"
+text That's right.
+text Come to think of it, it was.
+text I completely forgot about it since I have been spacing out at school lately.
+text "Well, I should get up anyway.
+text If I sleep any longer Akiha will---"
+text I sit up on my bed.
+text "Huh-----I can't really."
+text My body won't move.
+text I try to get up with my arms, but they have no strength.
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "It seems your condition is still bad.
+text You have a slight fever and you look a little pale.
+text It may be boring, but please rest in bed today, Shiki-san."
+bgload BG_40A.jpg
+text Kohaku-san wipes my forehead with the cold, wet towel.
+text .... It feels good and cold.
+text "Hmm, it seems your fever is down.
+text You're not sweating as much and your face looks much better.
+text You should be well by the evening."
+text Kohaku-san crisply brings out a thermometer and an ice pillow.
+text .... In the end, she makes me open my mouth and checks the condition of my tongue.
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Well, I'll bring you some rice porridge right away.
+text Shiki-san, you better behave today."
+bgload BG_40A.jpg
+text "Ah---Kohaku-san."
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Yes?
+text What is it, Shiki-san?"
+text .... As expected, she is like always.
+text Her usual cheerful smile doesn't change.
+text I---I can't bring myself to think that her smile is just an act.
+text ".... Nothing.
+text I'm looking forward to the rice porridge."
+bgload BG_40A.jpg
+setimg KOHA_T05.png 52 0
+text "Yes, well then, excuse me."
+bgload BG_40A.jpg
+text Kohaku-san disappears down the hall, her footsteps padding after her.
+text I just stare at that figure silently.
+bgload IMA_10.jpg
+music ~
+bgload BG_40A.jpg
+music 01.mp3
+text Noon arrives.
+text After bringing the food, Kohaku-san went back to her duties.
+text ................ *sigh*
+text Being alone, I let out a sigh as I think of my strange circumstances.
+text .... Myself being adopted.
+text .... Akiha saying that she doesn't care about it.
+text .... Hisui and Kohaku-san.
+text .... And the killer that's still on the loose.
+text I asked Kohaku-san, but it doesn't seem like there was a new victim in the news today.
+text I guess last night's victim was saved, but while SHIKI is on the loose, there will be more victims.
+text ".... If only this body did what I told it to, I---"
+text I could stop SHIKI.
+text I lay my head back down on the pillow as I start to say that.
+text Maybe it's because I've been seeing those dreams, but I'm beginning to have violent thoughts like SHIKI.
+text ".... Whatever I do, I should heal up first."
+text I close my eyes.
+jump s422.scr

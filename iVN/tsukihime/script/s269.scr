@@ -1,0 +1,21 @@
+bgload BG_27B.jpg
+text "---Wait a minute.
+text Senpai, didn't you say I can do as I wish....?"
+bgload BG_27B.jpg
+setimg CEL_T01B.png 52 0
+text "Yes, please do as you wish, Tohno-kun."
+text Senpai nods and smiles.
+text ".... Good, I wasn't just imagining it.
+text Then, this is goodbye.
+text You shouldn't be following me anymore."
+bgload BG_27B.jpg
+setimg CEL_T07B.png 52 0
+text "Huh?
+text I'm not really following you or anything."
+text "---Um, Senpai?"
+bgload BG_27B.jpg
+setimg CEL_T01B.png 52 0
+text "I simply have something to do in the park.
+text I don't know where you are going, Tohno-kun, but if you're not going to the park, then this is where we say goodbye."
+bgload BG_27B.jpg
+jump s270.scr

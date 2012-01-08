@@ -1,0 +1,774 @@
+bgload BG_40C.jpg
+text "--I can't let it remain unanswered."
+text If that dream is real.
+text Am I really a bloodsucking, killer?
+text .... I can't let those questions remain unanswered.
+text ~
+text "I should take it, just in case."
+text The knife has been in my desk ever since what happened with Satsuki; I slip it into my pocket.
+bgload IMA_10.jpg
+bgload BG_33C.jpg
+music 09.mp3
+text I go down to the lobby quietly, so that Hisui and Kohaku-san won't notice.
+text I just need to open the door without making a sound---
+text ~
+text but before I can open it, it opens with a creak.
+bgload BG_33C.jpg
+setimg AKI_T12B.png 40 0
+text "Nii-san?
+text What is it?
+text Why are you standing here, frozen?"
+text "A---Akiha, you.."
+text Why are you here, I ask wordlessly.
+bgload BG_33C.jpg
+setimg AKI_T03B.png 40 0
+text "I was just taking a walk in the garden.
+text What about you, Nii-san?
+text You look like you're going to go out right now."
+text ".... Yeah.
+text I left something at school, so I was going back for it."
+text .... I don't want to lie to Akiha.
+text So, I say as little as possible.
+bgload BG_33C.jpg
+setimg AKI_T18B.png 40 0
+text "Hmm, you forgot something?"
+text Akiha narrows her eyes at me.
+bgload BG_33C.jpg
+setimg AKI_T03B.png 40 0
+text "Well, alright, it's still eight.
+text Make sure you are back by nine, Nii-san."
+text "Right.
+text I'll be back in an hour."
+bgload BG_33C.jpg
+setimg AKI_T09B.png 40 0
+text "Understood.
+text I shall leave the door unlocked; please take care."
+bgload BG_33C.jpg
+text Akiha walks to the sitting room.
+text .... It's strange.
+text Before, I would have been doubted more, but Akiha seems to trust me completely.
+text .... Is it because of what happened in the garden last night?
+text Being trusted by Akiha, feeling that she trusts me, makes me very happy.
+text ~
+text ---Please be careful around her.
+text ~
+text "-----Uh."
+text Senpai's words return like a curse.
+text ".... Anyway.
+text I'll go to school, and come straight back." And I'll meet with Senpai.
+text Alright.
+text I grasp the door handle.
+bgload IMA_10.jpg
+music ~
+bgload BG_01C.jpg
+text ----The school is wrapped in silence.
+text ~
+text Our school closes at half past six, and no teachers or janitors patrol at night.
+text At this time, the buildings are completely empty.
+bgload BG_03C.jpg
+text .... All around, it's quiet.
+text The only sound is the beating of my own heart.
+text ~
+text ".... Is Senpai inside, I wonder..?"
+text Although she said she would wait at school, she never said where.
+text .... No, Senpai probably deliberately didn't tell me.
+text ".... Well, can't be helped.
+text I'll cut the lock of a window and go in."
+text I remove my glasses.
+bgload BG_03C.jpg
+text ".... Kuh."
+text Along with a light headache, the "lines" appear before me.
+text The "lines" along which things easily break.
+text Things which can be cut just by passing through them.
+text ".... With Yumizuka, it was just desperation.."
+text Removing my glasses calmly like this, I really feel how strange my eyes are.
+text ".... Now, where's a window with a line in the lock.."
+text Although anything can be cut, they can only be cut where the "lines" appear.
+text If I cut the wall or the window itself, it'll draw attention tomorrow.
+text The cut has to be as small as possible.
+text "Ah, perfect.
+text Here goes.."
+text With a click, I cut the lock smoothly, and open the corridor window.
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+music 06.mp3
+sound SE_01.aac 1
+text -----Thump.
+text ~
+text My chest aches as soon as I climb in the window.
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text "Uh.."
+text What is it?
+text It's horribly..
+text ~
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text ----Thump.
+text ~
+text There's a horribly sinister atmosphere.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text ".... Senpai.. where are.. you?"
+text It's hard even to murmur.
+text My heart beats.
+text A resounding pumping, like a drum driving my blood backwards.
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text ".... Huh..?"
+text It looks like my fingertips are trembling.
+text I feel sick.
+text Without my glasses, my headache is getting worse by the second.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text "What is this.. it's.. strange.."
+text I don't understand.
+text The atmosphere inside the building is so different from outside.
+text If I have to put it into words, it's without life.
+text Compared to the fresh air outside, the air in the corridor is so weak that it feels sad.
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text ".... But, I know.."
+text Though I'm breathing this air for the first time, I know it.
+text ~
+text Because I've always watched it.
+text Every night, in my dream.
+text When I kill people and drink their blood, the atmosphere is always.. full of this smell of decay.
+sound SE_05.aac 1
+text "Eh----?"
+text A sound.
+text From behind me, the sound of something falling.
+text "Senpai..?"
+text I turn.
+text There,	           there is..
+bgload BG_10F.jpg
+setimg MAN_T03.png 47 0
+text ~
+text A strange man.
+bgload BG_10F.jpg
+text "Uh..!"
+text I clasp my hand over my mouth, about to vomit.
+text The man.. the "lines" run within his body.
+text They run through his whole body like blood vessels.
+text "-----Gih."
+text The man walks toward me, as if in slow motion.
+text "Uh----hello..?"
+text I make up my mind and talk to him.
+text .... It's strange, but my eyes are stranger.
+text It's the first time I've seen "lines" all over a person's body like this, but take them away and you'll have a normal human.
+text "---Gih---gigih.."
+text The man is saying something.
+text But his voice is not even a noise, I can't hear.
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text The man approaches.
+text Why is it?
+text Whenever the man steps closer, a shudder runs through me.
+text It's---
+text ~
+text "Gih----"
+text The man is right in front of me.
+text "W.. wait, who.."
+text .... are you?
+text I don't even have time to finish.
+sound SE_10.aac 1
+bgload IMA_10.jpg
+text "Ah----!"
+text There is a crash.
+text As he approaches, the man throws me aside with a single hand.
+text "Ugh---"
+text My back.
+text Thrown aside, my back smashes against the wall.
+text It's so sudden, the pain makes my eyes dizzy.
+bgload BG_10C.jpg
+text "Ow.. what are you doing, all of a sudden..!"
+text I stand and glare at the man.
+bgload BG_10C.jpg
+setimg MAN_T01.png 49 0
+sound SE_01.aac 1
+text "------"
+text My voice dies.
+text He's.. what is he?
+text What is this thing before me?
+text Was this a man?
+text Is this a living human being?
+text ~
+text No, that's not important right now.
+bgload BG_10F.jpg
+bgload BG_10F.jpg
+setimg MAN_T03.png 47 0
+text I recover my sight, and look again at the man.
+text .... Yes, it's back.
+text Sensei said that my eyes see the "death" within things.
+text That's exactly right.
+text Because---
+text "You're---"
+text ~
+text "Gi---gigi, gigigih."
+text ~
+text The man is saying something.
+text Of course it doesn't speak words.
+text Because half of his throat is missing.
+text It was bitten away by something.
+text So there's no way for him to speak.
+text "Why---you were killed, yesterday.."
+text "Gi---gigigigigih.."
+text His shoulders are shaking; he seems to be laughing.
+text But there's no mistake.
+text The corpse before me is definitely the man I killed in the dream yesterday.
+text "Ah---"
+text The man approaches slowly.
+text "Ah----"
+text There's no thought.
+text The lump of death approaches.
+text "Ah----ah."
+text A shudder of pain.
+text Then, I notice.
+text When the man threw me before, the side of my chest was injured.
+text My body hurts.
+text Not just on the level of muscles; my bones themselves are creaking.
+text Something definitely happened to my ribs.
+text "Gih----gigigigigigih..!"
+text The man flings up an arm.
+text At last, my numb head understands.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Without a doubt,
+text he intends to kill me.
+bgload BG_10F.jpg
+text "Hii----!"
+text I dodge the sweep of the man's arm.
+text There is an unpleasant crunching sound.
+text The man's arm is embedded in the wall.. it's buried right into the concrete wall.
+text He did not hold back an inch.
+text Breaking a concrete wall, and in return, he's breaking his own bones.
+text "Ah---ahah.."
+text It's a funny, hard to believe world.
+text If it's a dream.. if it's a dream, I want it to end now.
+text "Gih---"
+text The man turns towards me.
+text "Aaa, ah---"
+text Another crunch.
+text The man comes toward me, his arm still in the concrete wall.
+text The arm.
+text Stuck in the wall, the arm tears away from his body.
+text "Gih, gigih, gih."
+text It's still laughing.
+text "Ah---aaaahhhh!"
+text My legs move.
+text I can't bear to be here any longer.
+bgload IMA_10.jpg
+bgload BG_07B.jpg
+text "Ahh, ghah, ghah..!"
+text I collapse to my knees with a thump.
+text The man.. that corpse is not following.
+text At that speed, it can't, catch me.
+text "Hagh, ghahh..!"
+text My chest hurts.
+text Whenever I breathe, my ribs feel like they're about to break.
+text "Gah.. hah.. ha.. h."
+text Somehow I catch my breath.
+text Somehow.
+text I have to somehow get back to normal.
+text I MUST calm down.
+text ~
+bgload IMA_11B.jpg
+bgload BG_07B.jpg
+text Think.
+text Look, and then think.
+text I learned that from Sensei.
+text So I have to think hard.
+text Even if that's a dead body.
+text Even if it's someone I killed.
+text "Ha---I can't think about it, that's just..!"
+text ~
+text Ignoring the pain in my ribs, I cry out.
+text I don't understand.
+text I can't understand.
+text The one I killed is about to kill me.
+text The one I have killed has returned to take his revenge.
+text ---That's just a nightmare.
+text It can't be real, just an insane nightmare.
+text ~
+text But what am I saying now?
+text I've been in a nightmare for a long time already----
+text "Damn it!"
+text I have to recover my breath and run away.
+text I have to leave this school, go back to the mansion, tell Akiha I'm home..
+sound SE_09.aac 1
+text "Eh-----?"
+text A sound from behind me.
+text "---It can't be."
+text It caught up?
+text No, that's impossible.
+text It moved so slowly it couldn't just catch up like that.
+text I look down the stairs.
+text .... There is no one coming up.
+text The noise was just my----
+bgload BG_07B.jpg
+setimg MAN_T01.png 49 0
+sound SE_10.aac 1
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text "Ahh-----!"
+text Again, I'm beaten.
+text When I turned around on the stairs, it seems it was already there.
+text "Have to---get away.."
+text I drag my aching body up.
+bgload IMA_11B.jpg
+bgload BG_10F.jpg
+text "Uhh---!?"
+text I fall again with a thump.
+text It seems that when he threw me this time, my leg was damaged.
+text There's no strength in my right leg at all.
+text I can't stand, and I can't escape.
+sound SE_08.aac 1
+music ~
+text "Ah----"
+text Approaching footsteps.
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text ~
+text Clank, clank; a dry, emotionless sound.
+sound SE_01.aac 1
+text ~
+text ---Thump.
+text ~
+text The putrid smell of a corpse hangs in the air.
+sound SE_01.aac 1
+text ---Thump.
+text ~
+text My heart beats loudly.
+text All rational thought has long departed.
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text ~
+text It approaches.
+text That corpse is coming to kill me.
+bgload BG_10F.jpg
+setimg MAN_T03.png 47 0
+text "Ah----ah."
+text I'm just afraid.
+text "Gih.."
+text It's coming.
+text With a body full of holes, it comes to kill me.
+text One more step.
+text Then it'll pierce my chest the way it did the wall, and that'll be the end.
+text "Ah----hah.."
+text At that moment, I wonder.
+text What is it that I fear?
+text Am I afraid because the one I killed has returned?
+text No, that's not it.
+text Am I afraid because I'm about to be killed?
+text No, not that either.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_10F.jpg
+text ~
+text I remember only one thing.
+text In my dreams, how hot it is when I kill people.
+text .... I'm afraid of my own crime.
+text I'm afraid of my own crime trying to kill people.
+text "Kuh-----hah, haha.."
+text Well, if that's so, then there's no problem.
+text This one's already dead, so there's nothing to fear.
+text There's nothing wrong with putting the dead to rest.
+text ~
+text So.
+text There's no need to hesitate about killing again, is there..?
+text "Gih..!"
+text The body flings up an arm.
+text I take the knife from my pocket.
+bgload IMA_10.jpg
+text ~
+text ---What followed was, really, quick.
+text ~
+text Was it because I watched all those crimes in my dreams?
+text Or maybe because those crimes were committed by my own hands like I suspected.
+text My arm moved impossibly fast, and struck down the corpse like a true killer.
+bgload BG_10F.jpg
+music 09.mp3
+text The meat, divided into eight pieces, now just rolls around the corridor.
+text ~
+text "Ah---hah."
+text A shudder.
+text The feeling of slicing meat.
+text The acceptance of taking a life.
+text There is no flowing blood.
+text Only my knife drips with blood; I remain spotless.
+text "-----"
+text Shuddering.
+text A feeling of pain and coldness crawls on my back.
+text There is nothing to earn.
+text Only my knife drips with blood, I haven't gained anything----
+text "----Hah."
+text I just feel ill.
+text Maybe I'm going crazy.
+text Looking at the remains before me, my chest hurts like it was torn open.
+text The school at night.
+text In the moonlight, it's amusing.
+text ~
+text ".... Hah,"
+text ~
+text ".... Hahaha.."
+text ~
+text ".... Ahahahahahahaha!"
+text I laugh without stopping.
+text It's not funny.
+text Only regret is felt.
+text I killed.
+text Whatever the reason, I killed someone again.
+text ~
+text ----Even though he was blameless.
+text This person also had a life to protect.
+text "Haha, hahaha, hahahahahahaha..!"
+text A jarring, laughing voice.
+text I want to kill my ears for listening, and my throat for laughing.
+text But I can only laugh.
+text At least, I have to laugh.
+text Unless I do a single act resembling human actions, I will break.
+text "Haha, ha, haha, ha-----"
+text I'm not laughing because something is funny.
+text I laugh to keep my sanity.
+text If I can't even ridicule myself, I can't keep my sanity.
+text ~
+text "Hah----hahaha, ha.. hah."
+text ~
+text .... Perhaps I should have cried.
+text But I won't allow myself such hypocrisy.
+text What do I mean by.. killing the dead.. isn't a crime.
+text "Hah---hah-----ahh."
+text .... it doesn't change.
+text Whether he was living or dead, it doesn't change the fact that I made the decision to kill him.
+text Even if he was already a corpse, the feeling of stopping his activity does not dull.
+text "----Hah."
+text I can't get mad at myself for my stupidity.
+text Even if they're dead, killing someone is still a sin.
+text As long as I, Tohno Shiki, remain a proper human, the burden of this sin will never leave me.
+text .... I remember Yumizuka.
+text Even if it was the right thing to do, in the end, I know she wanted to live.
+text Saying death is salvation is only the selfish wish of those still living.
+text Death..
+text Is just that, and is so painful.
+sound SE_09.aac 1
+text ----Someone is coming.
+text ~
+text This time, it has to be Senpai.
+text "-----Kuh."
+text Somehow, I stand, holding onto the wall.
+text Thump, Thump.
+text My heart still beats violently.
+text Even if my heart is halfway dead, my body tries to live until the very end.
+text ~
+text .... Such a worthless life.
+text Dying like this is painful.. I realized that already eight years ago, during my time with Yumizuka, and even this very moment.
+text Yet, Tohno Shiki's body is still making a great effort to survive.
+text ".... How.. ugly---"
+text But, which is ugly?
+text The heart that thinks I should die, because I'm a killer?
+text Or the body, trying to live by killing others?
+text .... I think it's the heart.
+text Good or evil, my heart is really fragile after all.
+text "----You're here."
+text Breathing heavily, I grasp the knife.
+text My injured right leg hurts faintly.
+text If I can feel pain, I can still move.
+text Meaning I can still fight.
+text ~
+text And Ciel-senpai appears in the moonlight.
+music ~
+bgload BG_10F.jpg
+setimg CEL_T15.png 52 0
+text ".... I'm surprised.
+text In all the dreams you never were dressed like that."
+text "Yes.
+text Because these are the armaments to kill a vampire."
+text ~
+text ----A jolt.
+text I understand the instant I see her eyes and hear her voice.
+text This person plans to kill me without the slightest hesitation.
+text ".... I see.
+text You called me here to kill me, Senpai."
+text "---------"
+text Senpai doesn't answer.
+text .... Clearly, because there's nothing to say.
+text "That's mean.
+text You said I'm not the killer, but you knew in your heart that I was."
+text "---Yes.
+text I knew from the beginning that the vampire haunting this town was Tohno Shiki."
+text "You knew.. from the beginning..?"
+text "Yes.
+text So, I came to this school.
+text In order to watch you."
+bgload BG_10F.jpg
+setimg CEL_T16.png 52 0
+text So saying, she draws a dagger.
+text Twice the length and width of my knife, it is a weapon intended to kill.
+text "---Senpai, I don't know what you are at all.
+text Even if I knew, I don't think it would concern me."
+text "Yes; this is a situation of no concern to you."
+text ".... Yeah.
+text But, I'm afraid I won't be killed.
+text Thinking about it, I killed Yumizuka because I didn't want to die.
+text So---I can't just die here.
+text If you say you're going to kill me, I'll.."
+text "That's fine.
+text If we agree to kill each other, then there is crime, but no punishment.
+text It would be more helpful if you think of it this way."
+text A noise of movement.
+text Before I realize it, Senpai's body is right in front of me.
+text ~
+text "Well then, Tohno-kun.
+text Let us continue last night's fight."
+music 04.mp3
+bgload BG_10F.jpg
+text A moment.
+text Ciel-senpai moves fast enough to fling up sparks.
+bgload IMA_14.jpg
+sound SE_12.aac 1
+text Her attack is very simple.
+text Leaping from right in front of me, she slashes a horizontal line with her dagger.
+text "....!"
+text I block with my own knife, and am pushed back.
+text "----!"
+text My body staggers.
+text I desperately stop myself from collapsing backwards, and look for..
+bgload BG_10F.jpg
+text "Wha-----"
+text For a moment, my mind freezes.
+text There's no sign of her in the corridor.
+text In an instant,
+text as our weapons clashed, Senpai suddenly disappeared----
+text ~
+text "Eh-----?"
+text ~
+text ---I think it was just by chance.
+text Without reason, just the feel of a breeze beside me, I shift my gaze.
+text In the blue moonlight shining in through the window,
+text I see Senpai's silhouette running up the wall like she was going up a flight of stairs.
+text ~
+text "-----Above!?"
+text Even as I notice, I lower my body.
+bgload IMA_14.jpg
+text "------!"
+text Scrambling on all fours like a dog, I escape forward.
+text Glancing back, I see Senpai fall from the ceiling precisely where I was.
+text .... After swinging at me, she ran up the wall to try to strike my head from the ceiling?
+text Such an absurd, rollercoaster-like movement was charmingly beautiful.
+text Even though it could have skewered the back of my head.
+bgload BG_10F.jpg
+bgload BG_10F.jpg
+setimg CEL_T16.png 52 0
+text "------"
+text As if her previous flash of movement never happened, Senpai stops moving.
+text Is she surprised I avoided that blow?
+text Her blue eyes confirm that Tohno Shiki is still alive.
+text Her eyes devoid of feeling, like a machine.
+text There is a tension, as I wait for her to spring into her next action.
+sound SE_01.aac 1
+text "-------"
+text I forget even to breathe.
+text With those eyes upon me, I can't move.
+text In just a moment more, that dagger will be driven into my chest----
+text "-------Ssst."
+text The only sound is my heart pounding.
+text I stand unable to move, and Senpai only stares at me.
+text .... This is bad.
+text At this rate, I'll break under this tension, and make a movement.
+text When that happens, Senpai will certainly strike me down.
+text "--------"
+text All I can do is grasp my knife tightly.
+text At that moment,
+text Senpai suddenly speaks.
+text "----I'm surprised.
+text You're certainly an excellent killer.
+text You are not good at feeling the other's presence, but you are good at feeling your own death.
+text Even if you don't remember it, perhaps you have been trained for such things."
+text Senpai speaks without even moving her eyebrows.
+text "Against someone that has a superior self-defense mechanism close to seeing the future, assassination is useless.
+text Trying to attack you from a blind spot was pointless, Tohno-kun."
+text Seeming terribly sad, Senpai lets out a sigh.
+text "------?"
+text "It's a pity.
+text If I can't kill your consciousness before you feel pain, all I can do is attack with my full strength.
+text Even if you can see death coming, your reflexes also make it an almost moot point."
+text ~
+sound SE_01.aac 1
+text Creak.
+text ~
+text "----You don't look well, Tohno-kun."
+text ~
+text Thump.
+text "You've been feeling that way for a while, haven't you?
+text Nausea that feels like your heart is being grabbed."
+text ~
+sound SE_01.aac 1
+text Shudder.
+text ~
+text "You're so sensitive.
+text That's.."
+text ~
+sound SE_01.aac 1
+text Shudder.
+text ~
+text ".... Because of the impulse all living things have that says 'I'm about to be killed'."
+music ~
+bgload BG_10F.jpg
+sound SE_01.aac 1
+text ~
+text Saying that,
+text she strikes from right in front of me.
+bgload IMA_14.jpg
+text "Kuh..!!"
+text I block her dagger with mine.
+text A shock.
+text Senpai's simple attack feels like she used a giant hammer.
+text My knife screeches.
+text "Tttch..!"
+text My fingertips go numb.
+text But I don't have time to think about that.
+text Her foot audibly strikes the ground.
+sound SE_10.aac 1
+text "Ha, guh......!?"
+text The air is knocked out of me.
+text Senpai has stepped into the gap between my legs.
+text So close that our bodies collide, and with that momentum, Senpai slams her shoulder into my chest.
+text ~
+text I stagger.
+text The strength in my knife weakens.
+text Without a single pause, her second attack begins.
+sound SE_12.aac 1
+text Her dagger swings upwards from below.
+text Somehow, I block it with my knife, but I can't kill its momentum.
+text ~
+text Slash.
+text There's a horrible sound.
+bgload IMA_13B.jpg
+text "Ah------"
+text It's hot.
+text Somewhere, I'm cut.
+text Falling meat, the heat of blood.
+text There's no time to feel any of that.
+text ~
+sound SE_12.aac 1
+bgload IMA_14.jpg
+text The third blow comes.
+bgload IMA_12B.jpg
+text It was probably aimed at my heart.
+text Since I immediately twisted my body to avoid it, the knife rips out my rib along with the flesh around it.
+text ~
+bgload IMA_11.jpg
+text "Gah, aaahhhh..!!!!"
+text I scream.
+text The coldness of death does not cause me to shudder.
+text But fear from the pain races through me.
+text ~
+text There.
+text Follows the fourth unforgiving blow.
+bgload IMA_14.jpg
+text ----My ribs are damaged.
+text ~
+text I can only use the power of my arm to wield my knife.
+text But with that, it's impossible to block Senpai's dagger.
+text "Kuh-----!"
+text Somehow, I jump back on my staggering leg.
+text I get enough distance.
+text Senpai turns, showing me her back----
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+text ~
+text Crash.
+text She drives a roundhouse kick like a spear into my belly.
+bgload BG_10F.jpg
+text "Ha----ahh..!!!!!"
+text I collapse backwards onto the hallway floor.
+text I don't have time to feel pain.
+text If I don't stand up immediately, I'll be killed.
+text But it's too late.
+text The moment I get up, Senpai is right in front of me.
+bgload IMA_14.jpg
+text The dagger strikes down at my heart.
+text "------!"
+text I was just, desperate.
+text In desperation, I try to match her blow by placing my knife next to Senpai's neck.
+text ~
+text ---Then.
+text Senpai's dagger stops short.
+bgload event/AKI_E05A.jpg
+sound SE_02.aac -1
+text "Haghh---"
+text Breathing.
+text My breathing is, hard.
+text *pant*, *pant*, *pant*, *pant*..
+text Her dagger is aimed at my throat.
+text If Senpai moves her hand even slightly, I'll die instantly.
+text "Ha.. ah.."
+text That fact.
+text Just that causes me to go insane.
+text "---It's over.
+text Even if you stab that knife through my neck, I won't die."
+text "Wha---what are.."
+text "You said before that you saw it.
+text Even though my body was pierced by an iron pipe, my body heals the wound instantly.
+text .... Certainly if you stab me through the neck I'll be dead for a while, but I'll kill you before that."
+text "-----Wha."
+text What she says is true.
+text .... There's no sense in lying in a situation like this.
+text ~
+text In other words.
+text This situation where both of us hold each other's life in each other's hands is meaningless.
+text "Won't---die..?"
+text .... Ah, but it could be true.
+text Even injured like that, Senpai came to school like normal.
+text ~
+text "---Kuh."
+text But, screw all that.
+text I can see "death" on her body.
+text Although it's very different from other people's, I can still see her death.
+text So, killing her is easy.
+text The "lines" have no exceptions.
+text "If you don't believe me, please, use your knife.. In any case, you can't save yourself unless you kill me.
+text Shall we test it out?"
+text "------"
+text ....She's provoking me.
+text If I can be killed, kill me, she's saying.
+text But Senpai, provocation like that is fatal.
+text I'm not like the others----I can really kill you.
+text ----My heart beats.
+text ~
+text If I look down, her dagger is at my chest.
+text .... I have to kill.
+text Because I don't want to die.
+text I found out I shouldn't die that easily, so I can't let myself be killed.
+text ~
+text No, it's simpler than that.
+text I just, don't want to die.
+text ----My heart beats.
+text ~
+text So there's only one answer.
+text Kill.
+text Drive this knife into the "line" I see in Ciel's neck, and kill her.
+text Kill if you want to live.
+text Kill.
+text Kill.
+text Kill.
+text Kill.
+text Kill.
+text Kill---
+text ~
+choice I have to live.|I can't do it.
+if selected == 1
+    jump s501.scr
+fi
+if selected == 2
+    jump s363.scr
+fi

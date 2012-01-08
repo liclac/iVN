@@ -1,0 +1,91 @@
+bgload BG_33A.jpg
+text ".... That's right.
+text I think that's the best choice."
+text I don't think Akiha will understand about non-humans like Arcueid and Nrvnqsr, and since I can't tell the truth, I should at least sincerely apologize.
+text ~
+text "--Alright, let's go."
+text Taking a deep breath, I open the sitting room door.
+bgload BG_34A.jpg
+text In the sitting room, Akiha is on the sofa and Hisui is standing by the wall.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "--Good morning, Nii-san."
+text Her gaze is telling me, "I am angry."
+text "Um, uh.... Morning, Akiha."
+text "Let's dispense with greetings.
+text Please sit there.
+text I wish to speak with you, Nii-san."
+bgload BG_34A.jpg
+text "------"
+text Her words are so forceful, I can't say no.
+text I solemnly and calmly sit down on the sofa across from her.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Nii-san.
+text This is very abrupt, but may I ask about these past two days?"
+text "----Ugh."
+text Despite her polite language, Akiha's words are unmistakably a threat.
+text But, her Onii-chan cannot tell her such a story.
+text ~
+text "About that, Akiha."
+text "Yes, what is it?"
+text "I'm sorry, but I can't tell you."
+bgload BG_34A.jpg
+text Crash.
+text The teacup that Akiha was holding falls to the table.
+text Rather, I think she dropped it intentionally.
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+text "Akiha-sama---"
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg AKI_T04A.png 104 0
+text "Oh, I'm sorry, Hisui.
+text Would you please clean it up?"
+bgload BG_34A.jpg
+text Hisui silently cleans up the spilled tea and the shards of the (very expensive-looking) teacup.
+text ~
+text I uneasily watch her do so while Akiha is glaring at me.
+text Once done cleaning, Hisui goes to the kitchen.
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "---Then, Nii-san."
+text ".... Yes?"
+text "Could I ask you again?"
+text Akiha doesn't give up.
+text I can feel her drive to get the story out of me no matter what.
+text But still, I don't think I can tell her about it.
+text Of course not just for my sake, but hers as well.
+text ".... No.
+text No matter how many times you ask me, I can't tell you.
+text I feel sorry that I made you worry, but I can't tell you about it."
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text "--Even though you are sorry, you can't tell me, Nii-san."
+text "That's right.
+text I'm sorry I haven't contacted you and for not being able to talk about it.
+text But I haven't done anything wrong the past two days.
+text .... I don't even want to think that was a wrong thing to do."
+bgload BG_34A.jpg
+text ---That's right.
+text Even these past two days were simply kill or be killed--I want to believe it was the right thing to do.
+text ~
+text I did it to help Arcueid, but most of all.. I do not regret killing that cannibalistic monster.
+text ~
+text At least, there will be no more victims killed by having their blood drained.
+text "---I'm sorry, Akiha.
+text I'm sorry to make you worry, but please don't ask me anymore."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "------"
+text Akiha stares at my eyes.
+text For a while, she stays like that.
+text ".... I understand.
+text Thinking about it, you must have your reasons, so I won't press you on this anymore, Nii-san."
+text ".... I'm sorry.
+text Thanks for understanding."
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "-----"
+bgload BG_34A.jpg
+jump s112.scr

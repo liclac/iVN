@@ -1,0 +1,36 @@
+text .... I will bear it for now....!
+text Even if I recklessly attacked Nrvnqsr, these beasts would get in the way.
+text For now I have to bear them and wait for an opening to----
+bgload IMA_12B.jpg
+sound SE_10.aac 1
+bgload IMA_10.jpg
+text "Gah------!"
+text I get struck in the back from behind.
+text Did one of the black dogs just ram me with its head?
+text Anyhow, my spine creaks----and I can't.. breathe.
+bgload IMA_12B.jpg
+sound SE_10.aac 1
+bgload IMA_10.jpg
+text "Ah------"
+text Both of my thighs are punctured by canine teeth.
+text "Ha----ahhh....!"
+text I pierce their foreheads audibly with my knife.
+text The two dogs dissolve like mud, leaving only burning pain behind in my legs.
+text ~
+text ----The beasts are not uncontrolled.
+text Even though they could pick me apart in a single instant if they wanted to, they circle themselves around me and come to "feed" one at a time.
+text ~
+text There,
+text is no opening at all.
+bgload IMA_13B.jpg
+bgload IMA_10.jpg
+text "Ah.......... h."
+text My body collapses.
+text Not even being able to breathe properly, not even being able to stand from the pain in my legs,
+text I fall flat on my back.
+text "I am quite the fastidious person.
+text Rest assured, there will not even be one of your cells left."
+text ~
+text I hear a voice.
+text At the same time, a black dome arches over me.
+jump s104.scr

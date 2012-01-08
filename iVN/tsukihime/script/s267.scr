@@ -1,0 +1,749 @@
+bgload BG_05A.jpg
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+music 03.mp3
+text "---I understand.
+text So you teamed up with her to defeat the vampire in this city.
+text Right, Tohno-kun?"
+text "Well, yeah, that's how it is."
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text ".... I can't believe it.
+text Tohno-kun, do you really believe in vampires?"
+text "Wha.... what are you saying Senpai?
+text Even you, you're one of the Church's exor---"
+text ~
+text Senpai puts a finger on my lips.
+text ~
+text "Don't worry about me.
+text Isn't the problem more about you, Tohno-kun?"
+text "Me?
+text I don't have any problems."
+bgload BG_05A.jpg
+setimg CEL_T08.png 52 0
+text ".... You have no self-awareness, it seems."
+text Senpai gives a troubled sigh.
+text "I have a question.. just how much did she tell you about?"
+text "How much.... well, only that a vampire is in this city sucking people's blood."
+text "So in other words, you don't know about her or this 'enemy' she is after."
+text ".... Well, I haven't heard about it.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "I see.
+text Then, I will tell you about it."
+text ".... Wow, that's amazing.
+text You know about that, Senpai?"
+bgload BG_05A.jpg
+setimg CEL_T10A.png 52 0
+text "Well, you know, I am a member of the Church, so of course I know that much!"
+text "Oh, that's right.
+text .... Sorry, I kind of forgot.
+text Ahahaha."
+text I attempt to laugh it off.
+bgload BG_05A.jpg
+setimg CEL_T08.png 52 0
+text "Geez.
+text I'm trying to be serious here, so please pay attention!"
+text I nod in assent.
+text ".... Huh?
+text But, isn't that a secret?
+text Arcueid, um.... she said you were all incredibly secretive."
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Yes, it really isn't something to talk about, but today is special.
+text There isn't anyone watching over us or anything, so as long as you don't tell anyone, then it will be okay."
+text ".... Um.
+text What will happen if I tell someone else about you, Senpai?"
+bgload BG_05A.jpg
+setimg CEL_T04.png 52 0
+text "Yes.
+text I'll just do exactly what you are thinking of, Tohno-kun."
+text Senpai gives that frightening response with a smile.
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Well then, I'll keep it very simple.
+text Tohno-kun, how much was explained to you about vampires?"
+text "---Just about how there are two types, and how Dead Apostles are the vampires that suck human blood.
+text But I think I know what kind of monsters they are."
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "That's true.
+text Tohno-kun, you did actually defeat a vampire."
+text "Haha, but you did help me at the very end-----S, Senpai!"
+bgload BG_05A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes.
+text I watched you annihilate "Chaos".
+text When I came, "Chaos" was already dying though."
+text "-------"
+text ~
+text I'm surprised.
+text Then Senpai knows about my eyes---?
+text ~
+bgload BG_05A.jpg
+setimg CEL_T08.png 52 0
+text "It was terrible.
+text That woman made you do such a thing.
+text If she had a conceptual weapon to defeat 'Chaos', she should have used it herself.
+text After seeing your bloody body, I thought I should punish her then and there."
+bgload BG_05A.jpg
+setimg CEL_T10A.png 52 0
+text "You too, Tohno-kun.
+text Even if you were given a weapon that can kill vampires, what were you thinking fighting that thing?
+text Does she have a hold over your weakness or something?"
+text Still looking surprised, Senpai complains aloud.
+text ".... Um, Senpai?
+text What's this weapon that can kill vampires?"
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "What do you mean?
+text I'm talking about that knife you have, Tohno-kun.
+text .... Oh, I guess she wouldn't tell you about it.
+text It's not good for her either."
+bgload BG_05A.jpg
+setimg CEL_T01A.png 52 0
+text "Let's see, vampires have the ability to recover from most injuries they receive.
+text With ordinary outside force.... I mean normal weapons.
+text With such things, you cannot cause wounds greater than the speed of their recovery.
+text To kill a vampire, you need an outside force greater than their speed of recovery, or something that nullifies their ability to recover.
+text This ability of theirs, the curse of restoration---actually isn't treating the wounds.
+text Instead, it is a reversing of time to restore the damaged body part back to its original state.
+text An occult artifact which nullifies this effect is called a conceptual weapon."
+text ".............."
+text Senpai cheerfully says all these things I can't understand too well.
+text "In short, a magical weapon.
+text We usually lift their curse looking into their human past, so we do not usually use them.
+text But for those that were not originally human, we use them, kind of like a secret weapon.
+text Your knife, is it not an anti-vampire weapon she brought?"
+text "Ah----eh?"
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Or is it a family treasure?
+text .... Hmmm, but it would be strange for the Tohno family to possess an anti-demon weapon."
+text Senpai ponders aloud.
+text .... I don't know what she's thinking, but it seems she has no idea about my eyes.
+text "---Um, Senpai?
+text Where did our conversation about vampires go?"
+text "------------"
+text With a start, Senpai stops mumbling to herself.
+bgload BG_05A.jpg
+setimg CEL_T05.png 52 0
+text She smiles as if to hide her embarrassment.
+text ~
+text .... As usual, her personality is hard to understand.
+music ~
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+music 01.mp3
+text "Let's get back to the main subject.
+text Please listen carefully, Tohno-kun."
+text "Yes, please keep it short."
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "It seems you already know about how there are the True Ancestors and the Dead Apostles.
+text So it is very simple.
+text The 'enemy' she is after is a Dead Apostle, nicknamed 'The Serpent'.
+text Among the Dead Apostles, he is considered a heretic, a special vampire."
+text ".... This vampire is not as strong as 'Chaos', whom you defeated.
+text But, he is more difficult an opponent to eliminate than this 'Chaos' in a way.
+text Since he comes back to life even after he dies."
+text ".... Um, Senpai.
+text Vampires are immortal, so isn't it natural for them to come back to life after dying?"
+text "You eliminated 'Chaos', right?
+text Even if they are vampires, if you destroy their body and soul, they will be vanquished.
+text If you kill a vampire, they will die.
+text But 'The Serpent' is a vampire who has conquered even this."
+text "Tohno-kun, are you familiar with the cycle of reincarnation?
+text It is part of Buddhist doctrine, so I would think a Japanese would be quite familiar with it."
+text ".... Yeah.
+text It's that thing where when someone dies, they are reborn again as another human."
+bgload BG_05A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, exactly."
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "In other words,
+text The vampire named 'The Serpent' has made this cycle of reincarnation his own.
+text That's what I mean when I say he comes back to life even after he is killed."
+text "Reincarnation---you mean if he dies he will start over again as a baby....?"
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Yes.
+text While 'The Serpent' is alive, he chooses his next host and when it is born, he transmits all of the information of his 'self'.
+text 'The Serpent's' information stays deep within the baby until it matures, or until it gains sufficient intelligence.
+text As soon as that baby has the intelligence to succeed 'his self', the baby becomes a new vampire that is the 'Serpent'."
+text "---Wait a minute.
+text What's that?
+text Don't tell me that he does surgery on it while it's in the mother or something like that."
+text "No, it's not anything medical.
+text Because the instant his body is destroyed, he reincarnates into the body he chose as his next host.
+text "I said all of his information earlier, but to say it simpler, think of it as his 'soul'.
+text It wouldn't be quite correct to say his soul propagates through the air and takes over someone's body, but it's similar to an electro-magnetic aace.
+text In this case, the human brain is what does the transmitting and the receiving.
+text His exceptional point is that he took this soul, which is incalculable and something that disperses as soon as it leaves the envelope of the body, and processed it as something that could be transmitted."
+text "............"
+text Her words don't seem quite real.
+text I do understand what she is saying.
+text This serpent guy is reborn as a baby when he dies and this baby turns into this Serpent vampire when it becomes an adult, but....
+text ".... If I believe your story, it means that he will never die.
+text It's not immortality, but it's worse than that.
+text Being killed and reborn as someone else, that's like living forever."
+text "Yes, exactly.
+text It was eight hundred years ago when 'The Serpent' first became a Dead Apostle.
+text Since then, 'The Serpent' has been reborn seventeen times.
+text Every time, Arcueid Brunestud has killed him."
+text "Arcueid did....?"
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text "Yes.
+text To her, 'The Serpent' is a special vampire.
+text .... Well, 'The Serpent' has a special meaning to me as well."
+text ".... But, even if he dies he will just be reborn, right?
+text So---killing him over and over is pointless, isn't it?"
+text "----Yes.
+text He is killed by her, reincarnates, and killed by her again.
+text That cycle has repeated itself over and over.
+text .... If Arcueid had the power to kill not the 'body' but the 'meaning', then this probably would not be happening."
+text Senpai looks down a little and she seems to be gritting her teeth.
+text ~
+text .... I don't know why.
+text However, it seems that Senpai also has some grudge against the "enemy" like Arcueid does.
+text ".... A vampire that is reborn every time it is killed...."
+text That's Arcueid's and Senpai's "enemy".
+text ".... Senpai.
+text This Serpent guy, what kind of a guy is he."
+text "He was originally a man, but that can change depending on the body he reincarnates into.
+text The troublesome part of this Dead Apostle is that they are all hard to find.
+text Because he is properly born as a human baby, and has parents.
+text "The Serpent transforms into a vampire only when he reaches the age where he can do everything at a satisfactory level.
+text Until then, that human shows no hint of being a vampire.
+text But once 'The Serpent' awakens, he uses the relationships he gained until that time to blend perfectly into society.
+text I heard that the Church detects the 'Serpent's' presence usually after a whole town is turned into The Dead."
+text .... I see.
+text For example, if this serpent guy were reincarnated in me, he would live as Tohno Shiki even after he becomes the serpent.
+text Unless he makes a big mistake, he would be free to suck blood without people realizing it.
+text ~
+text ----That is.
+text ".... Scary.
+text Of course those around him are in danger too.
+text But that human whom he reincarnated into, he would just disappear after maturing, right?
+text One moment that person is living normally and the next moment he suddenly turns into 'The Serpent'.
+text That's very frightening."
+text ".... Yes, but it isn't like two people sharing one body.
+text The human baby is still 'The Serpent'.
+text Depending on its environment, it's either a good or a bad person.
+text .... But even that disappears the instant 'The Serpent' awakens.
+text To sum it up, once 'The Serpent' dies, he is reborn into the next body, and once that body gains intelligence, it gains the previous life's self and becomes a vampire."
+text ".... That's, strange.
+text Even if he did reincarnate, that baby is still human.
+text So, even if it does gain the self of a previous life, the body shouldn't turn into a vampire, right?"
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Reincarnation isn't the transmitting of personality, it is the transmission of a soul.
+text So the personality differs every time depending on their families and upbringings.
+text But the soul itself does not change.
+text Once bitten by a True Ancestor, not only is the body forever soiled, but the soul as well.
+text What changes the body is the soul.
+text 'The Serpent' transmits all his information called his soul, so when 'The Serpent' awakens, the body becomes one of a vampire but----"
+text "Yeah, but.."
+text "As you said, just that is too weak.
+text So he selects his next host while he is alive.
+text The family he is born into must meet two conditions, the first being one of wealth.
+text Being born into a family of high social standing, property and money makes it easier to make the whole town into vampires later on.
+text "And there is another, this is the important one, but amongst normal people like us, there are also people that carry special powers.
+text Not like magic, which is a mystic power that can be learned, but rather special abilities from birth.
+text ---Such people are normally called Demonic Children or psychics.
+text "These special abilities are genetic, so they are inherited---passed on by blood.
+text He chooses those families that have 'something not human' in their lineages.
+text A family with wealth and influence, and inhuman power.
+text Those are the requirements for his host."
+text "............ This serpent vampire, he seems to be quite prepared."
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Yes, since he is a serpent, he has a very slithering intellect."
+text ".........."
+text There's something..
+text Something about this story I don't like.
+music ~
+bgload BG_05A.jpg
+setimg CEL_T08.png 52 0
+text "Tohno-kun?
+text That was just a joke, but are you listening?"
+text "Eh---?
+text Ah, yeah, it wasn't very funny."
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text Senpai goes quiet.
+text But---I really don't feel like laughing right now.
+text Why do I suddenly feel so down......?
+text ".... But, I understand now.
+text That's our enemy, right Senpai?"
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+music 09.mp3
+text "---No.
+text Arcueid Brunestud's and my enemy.
+text There is no need for you to worry about 'The Serpent', Tohno-kun.
+text So please don't go with Arcueid any longer.
+text Either I or that woman will destroy him.
+text There is no need for you to face any danger."
+text "Danger---look, isn't just living in this city dangerous enough?
+text Even you, even Arcueid are fighting to protect this city!
+text So I can't overlook this either."
+text "---No.
+text She isn't thinking about this city.
+text She is only after 'The Serpent' for her own reasons."
+text "Tohno-kun.
+text The Dead Apostles were once human.
+text There are two ways for them to become vampires.
+text Either they would have their blood sucked by the True Ancestors, who were originally born as vampires,
+text or they change their own bodies through their magical research in their quest for immortality.
+text 'The Serpent' had his blood sucked by a True Ancestor to become a Dead Apostle.
+text Do you understand?
+text 'The Serpent' was a victim of the True Ancestors, a race beyond ours."
+text ~
+text Senpai stares at me.
+text Those emotionless eyes tell me what she is going to say next.
+text ".... Don't tell me, that True Ancestor was...."
+text "Arcueid Brunestud.
+text The royalty of the True Ancestors who made her only mistake eight hundred years ago.
+text She is the one who made 'The Serpent'."
+sound SE_01.aac 1
+text "Eh-----"
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text ".... From the very beginning, the True Ancestors were an existence far separated from ours.
+text The Dead Apostles certainly are vampires that wield immense ability, but that ability is only an extension of human capacity.
+text Because they have managed to attain a long life, they are able to develop their abilities, and manage to refine it to those 'super' abilities as a result.
+text In other words, anyone can develop abilities equal to the vampires if they have a long time."
+bgload BG_05A.jpg
+sound SE_01.aac 1
+text .... Yeah, I think I've read that somewhere.
+text They say immortality, but being a vampire isn't something that great.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "But the True Ancestors are different.
+text From the moment they are born, they possess power beyond human comprehension.
+text From the beginning, these True Ancestors are an existence closer to the world than humans.
+text "We humans have flourished this much by isolating ourselves from nature.
+text While we receive blessings from nature, we steal from it, and even if nature is destroyed, we will not be destroyed.
+text We became the most superior race on this planet probably because of this one sin only we humans carry."
+text "We can no longer be a part of nature.
+text In its place, we have gained ways to even destroy nature, this whole planet.
+text However, from the nature's perspective, this is evil.
+text The world itself is a form of life, so it has the will to protect itself from us.
+text But it does not have senses.
+text So---it creates a presence, separated from nature like us, to remonstrate us."
+bgload BG_05A.jpg
+sound SE_01.aac 1
+text .... Senpai is weird.
+text Nature doesn't have a will of its own.
+bgload BG_05A.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Yeah, it can't---but, can it be that we just can't feel it?
+text ~
+text ~
+text ~
+text Nature, the earth, possesses a will.
+text That is why it still exists and tries to stay beautiful.
+text The problem isn't that we can't feel it.
+text ~
+text It's that the standard of what nature thinks is beautiful and the standard of what humans believe is beautiful are the same.
+bgload BG_05A.jpg
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "An existence which the world created to sense for it.
+text These are what we usually call spirits.
+text They are a transcendental species existing on another plane different from the remaining spirits of animals in the present world.
+text The True Ancestors are one type of these spirits.
+text They are born with the purpose to punish humans, so they only see humans as evil.
+text Much as we think vampires who prey upon humans are evil, they view humans who prey upon nature as evil."
+bgload BG_05A.jpg
+bgload BG_05A.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text But that's funny.
+text Then why can't they exist unless they feed on us humans, the evil existence?
+bgload BG_05A.jpg
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "---Humans are only enemies to the True Ancestors.
+text As part of nature, no, as those whose power is linked to nature itself, their power has no limits.
+text .... In the long history of the Church, there are only a few records of fighting against the True Ancestors.
+text They get their powers from the world itself.
+text Therefore in order to kill them, a conceptual weapon with the power to kill the world is needed.
+text .... Of course, such a weapon does not exist.
+text So that means their 'death' cannot be caused by external factors."
+bgload BG_05A.jpg
+sound SE_01.aac 1
+text That night.
+text She said in that hotel.
+text That if I had tried to kill her during nighttime, these eyes would not even have been able to see her death.
+text ~
+text In other words.
+text It means she cannot die.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Do you understand, Tohno-kun?
+text Arcueid Brunestud is pursuing 'The Serpent' in order to recover her power he took away from her.
+text It's not for the sake of any humans.
+text I don't know why she is weakened now, but if she regains her power---she will not need your help, Tohno-kun.
+text When that happens, do you think she will let you leave safely?"
+text "............ Of course she would.
+text Because---she doesn't have any reason to hurt me."
+text "She is a vampire.
+text She isn't like the Dead Apostles who suck blood in order to prolong their own life.
+text Look, Tohno-kun.
+text If the True Ancestors didn't suck human blood, vampires would never exist in the first place.
+text They---can survive without sucking human blood, but they still do suck blood because they have the urge to do so, and make humans into an existence outside of human nature.
+text I can't let some ordinary person like you be with her."
+bgload BG_05A.jpg
+text ~
+text ---Senpai's talk ends like that.
+text ~
+text I---it might be because of my dizziness, but it seems like everything she's talking about is totally unrelated to me.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun.
+text Does that show you how dangerous she is?"
+text "Yeah, well, I get the gist."
+text "So please don't cooperate with her anymore, okay?"
+text "I---"
+text ~
+text I can't do that.
+text I can't consent to what Senpai is saying.
+text Because Senpai doesn't know Arcueid.
+text She doesn't know how good of a person she is.
+bgload BG_05A.jpg
+setimg CEL_T10A.png 52 0
+text "---Tohno-kun."
+text Senpai groans.
+text But, even if she makes that face, I can't lie to myself.
+text ".... Sorry, Senpai.
+text I also have my reasons, so I want to help her.
+text It's true that I don't know what she'll do if I turn against her.
+text But it's also true that I just can't leave her alone."
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text ".... Please don't say stupid things.
+text Tohno-kun, you're just a normal boy.
+text So---you shouldn't do such dangerous things."
+text ".... Yeah, I'm grateful for your concern.
+text But, there are some things that I want to protect if I can.
+text Such as this city, and my peaceful time with you at school, Senpai.
+text .... Well, even though you ended up protecting me."
+text ".... But, it is just too dangerous.
+text You were nearly dead when you fought with 'Chaos'....!"
+text "Isn't that alright?
+text Besides, if Arcueid is really that strong, shouldn't defeating this serpent vampire be simple?"
+bgload BG_05A.jpg
+setimg CEL_T10A.png 52 0
+text "I'm telling you that she is the dangerous one!
+text Please open your eyes already!
+text She isn't human.
+text You don't know when she'll suck blood, she is more of a monster than the Dead Apostles....!"
+text "Wha-----"
+text ~
+text .... I know.
+text I know that Senpai is really worried about me.
+text But----I can't allow those words.
+text "---Just stop Senpai.
+text She isn't a monster.
+text You shouldn't say those things when you haven't even talked to her."
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text ".... That is true.
+text But she is a vampire.
+text Please understand that....!"
+text "No, that's wrong....!
+text Look Senpai, Arcueid doesn't suck blood.
+text She told me herself, and I don't think she is lying.
+text I don't know how these other True Ancestors are, but Arcueid is different.
+text Just her, she is definitely---"
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Definitely, what?
+text Look, even if she isn't dangerous, it's dangerous enough for you to fight.
+text You can't recover from injuries like she can.
+text If you get wounded, you will die....!
+text What I can't forgive is she knows this and still lets you fight.
+text It's like she's just seeing you as a tool, Tohno-kun!"
+text ~
+text Senpai screams this last part.
+text .... I know.
+text I understand she is right.
+text But, because I understand---her voice annoys me.
+text ".... Shut, up."
+text "Tohno.... kun?"
+text "---Just shut up Senpai!
+text Arcueid doesn't see me as a tool at all....!
+text You don't know---you don't know anything about her, you just think she's some sort of monster, so you have no right to say any of that....!"
+text "Please calm down.
+text I know I don't know very much about her.
+text But there is a possibility that she could be deceiving you---"
+text "Shut up!
+text Weren't you the one deceiving me!?"
+text "............ Ah."
+bgload BG_05A.jpg
+text Oh---crap.
+text Why, did I?
+text Why did I---say that, terrible, thing?
+text "...... Senpai, I......"
+text Said too much.
+text But I can't say it.
+text Her expression looks very fragile.
+text And it looks like it's going to break down the moment I say something.
+bgload BG_05A.jpg
+setimg CEL_T04.png 52 0
+text "You're right, you know.
+text You're right now that you mention it."
+text "Sen...... pai?"
+text "Yes, that's right.
+text I have been deceiving you Tohno-kun.
+text So there's no reason for you to believe me."
+text She suddenly smiles as if her previous expression never existed.
+text There's no trace of it being faked.
+text Even though it has to be fake.
+text I can't see anything but a true smile.
+text "I apologize for taking your time.
+text Um, Then---I'll just disappear now."
+text "----Eh?"
+bgload BG_05A.jpg
+text ~
+text The wind rushes by.
+text In that very instant,
+text Ciel-senpai disappears from right before my eyes.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text It's now lunchtime.
+text The room gets loud, and my louder friend appears.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Tohno, where are you eating today?"
+text "...... Wherever.
+text I don't care if it's here or the cafeteria."
+text "Alrighty, then lets have some bread.
+text If we're here, Senpai might come.
+text I'll go buy some, any requests?"
+text ".... As long as it's not curry bread, then anything's fine.
+text Oh, and some milk."
+text "Roger."
+bgload BG_06A.jpg
+text Arihiko walks out of the classroom happily.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "Here you go, two curry breads and some milk.
+text Thanks for waitin'."
+text "............"
+text ~
+text I told him anything but curry bread, but I guess that had the opposite effect.
+text I thank him and toss him some money.
+text I start to chew on my curry bread.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Hey Tohno, did Senpai come?"
+text I shake my head no.
+text "Damn.
+text Maybe she's in the cafeteria today."
+text "Arihiko, she won't come anymore."
+bgload BG_06A.jpg
+setimg ARI_T03.png 40 0
+text "Whaaat!?
+text Did you get in a fight with her!?"
+text "That's not it, but she doesn't like me anymore.
+text I'm sorry Arihiko.
+text If you see her, tell her I'm sorry."
+text ~
+text .... I really do feel it now that I mention it.
+text I hurt her badly.
+text She won't come see me ever again.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "What's this Tohno?
+text Are you telling me sorry for asking her out without asking me?"
+text "---If that was the case, it'd be much better."
+bgload BG_06A.jpg
+text ~
+text Yeah, if it was sorry or goodbye, there would be some hope left.
+text Certainly, I think that was a pretty bad thing to say.
+text ".... But, 'I'll just disappear'?
+text That's too much, right Arihiko?"
+text ~
+bgload IMA_10.jpg
+text I say this and put my head down on my desk.
+bgload BG_06B.jpg
+text Classes are over.
+text It's a Wednesday so the rest of my classmates run out of the room as soon as classes end.
+text ~
+text It's a Wednesday like any other, but I don't feel like doing anything.
+text Even if I went to the tea ceremony room, Ciel-senpai probably wouldn't be there.
+text "-----"
+text As lifeless as The Dead, I go back to the mansion.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+bgload BG_32B.jpg
+setimg HIS_T01.png 62 0
+text "Welcome back, Shiki-sama."
+text Hisui greets me as soon as I get back to the mansion.
+text Even though Hisui was waiting for me this whole time, I can't even bring myself to greet her and I make my way to my room.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text After dinner, I return to my room.
+text There's still a little time before I'm supposed to meet Arcueid.
+text ~
+text ---Please don't say stupid things.
+text Tohno-kun, you're just a normal boy.
+text So you shouldn't do such dangerous things.
+text ".............."
+text Senpai was just worrying about me.
+text In the end, is it just that I chose Arcueid over Senpai?
+text ".... Why don't you understand your own feelings, Shiki?"
+text I ask my reflection in the window glass.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40C.jpg
+text "----Tch."
+text My light headache returns.
+text Recently, I've been having more headaches.
+text Up until now, the effects of my anemia have only been dizziness.
+text It probably changed to these headaches because I've started taking off my glasses and seeing "death".
+text ~
+text ".... It's time."
+text It's the time I promised to meet Arcueid.
+text No matter what Senpai said, I have to keep a promise I made.
+text Putting my knife in my pocket, I exit my room.
+bgload IMA_10.jpg
+bgload BG_32C.jpg
+music 09.mp3
+text I go outside.
+text There were never many people around the mansion to begin with, but because of all these serial killings, it is unnaturally quiet.
+text It's not even ten o'clock yet, but the emptiness makes it feel more like past one o'clock.
+text ----*sigh*
+text It is well into October and the wind is starting to blow colder.
+text Fall is nearly over as well.
+text I walk down the empty street holding these sentimental thoughts.
+bgload BG_47.jpg
+text I make my way around the mansion wall.
+text Past here and down the hill is the park where Arcueid is waiting.
+text ~
+text ---And then,
+text I see a black figure leaning on the mansion wall.
+text A woman clothed in black stands not to block my way, but just to watch me go by.
+bgload BG_47.jpg
+setimg CEL_T07B.png 52 0
+text "Where are you going this late at night?"
+text Senpai doesn't even look at my face as she says this without the slightest inflection in her voice.
+text "Sen, pai----"
+text I freeze dead in my tracks.
+text I can't look at her face either.
+text ~
+text I feel uneasy about what happened this morning, so I can't bring myself to directly look at her.
+text "Even after I said all that, you're still going to see her, Tohno-kun?"
+text ".... It can't be helped.
+text I can't leave her alone, and I can't ignore the vampire in this city either."
+text "---I see, you've got a point there."
+bgload BG_47.jpg
+text She closes her mouth.
+text I pass her figure on the wall.
+text "Sorry, Senpai.... about a lot of things.."
+text "Please don't worry.
+text You weren't mistaken."
+text .... I hear her voice behind me.
+text It doesn't seem like she intends to stop me from seeing Arcueid at all.
+text ~
+text I guess Senpai has completely given up on me.
+text "Well then, I'll be going."
+text "Yes, please do as you like, Tohno-kun."
+text I can still only hear her voice.
+text Yet, I walk away from the mansion without even turning around.
+bgload IMA_10.jpg
+bgload BG_22C.jpg
+text Tap, tap, tap, tap.
+text The footsteps echo in the night along the residential street.
+bgload BG_24C.jpg
+text Tap, tap, tap, tap.
+text The footsteps echo in the night along the residential street.
+text They aren't the footsteps of a heavy man, but of a much lighter body.
+text In addition, I'm wearing sneakers so they don't make such sounds.
+text Only shoes with a hard bottom can make this sound.
+text For example, shoes like high-laced boots.
+text ~
+text .... Actually, I don't even need to give an example.
+text Without a doubt, those footsteps belong to high-laced boots.
+text ~
+text I stop.
+text The footsteps cease at the same time.
+text ~
+text "........"
+text This isn't any good.
+text If I just ignore her like this, we'll reach the park soon.
+text I should just go out and say it.
+text I turn around.
+text "---Hey, Senpai."
+bgload BG_24C.jpg
+setimg CEL_T07B.png 52 0
+text "Yes?"
+text ".... Um, is your house this way?"
+text "No, it's in the completely opposite direction.
+text You went there once, Tohno-kun, did you forget already?"
+text "No, I remember.
+text I just didn't have that much confidence in my memory."
+text "You should, because my house is that way."
+text "Oh, that's right," I say with a smile.
+text "Yes, it is," she says, returning my smile.
+text "Well then, I'm going this way."
+bgload BG_24C.jpg
+setimg CEL_T01B.png 52 0
+text "Yes, please do as you wish, Tohno-kun."
+text Still smiling, she seems to be seeing me off.
+text .... But, for some reason.... I have an incredibly bad feeling about this.
+text "------"
+text I suck in a deep breath.
+bgload BG_24C.jpg
+setimg CEL_T07B.png 52 0
+text "What's wrong, aren't you going?"
+text Senpai asks.
+text In that instant, I dash down the street.
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text ~
+text I start to pant heavily.
+text ~
+text This far.
+text Running full strength this far, she couldn't have followed me---
+text ~
+bgload BG_27B.jpg
+setimg CEL_T07B.png 52 0
+text "Tohno-kun, going wild like that is dangerous you know."
+text A hand pats my shoulder from behind.
+text "Uwaaaa!"
+text I instinctively jump back.
+text Senpai stands behind me as if it was perfectly natural to do so.
+text "Wh, why are you following me, Senpai!?"
+text "Well, I feel uneasy leaving you by yourself."
+text She speaks very matter-of-factly.
+text "Ah, uh."
+text I don't even know how to respond.
+text I don't know, but I should---
+text ~
+bgload BG_27B.jpg
+choice Say it bluntly.|Say it calmly.
+if selected == 1
+    jump s268.scr
+fi
+if selected == 2
+    jump s269.scr
+fi

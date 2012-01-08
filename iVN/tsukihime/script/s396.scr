@@ -1,0 +1,198 @@
+bgload BG_40A.jpg
+text I start to breathe heavily.
+text .... I won't move.
+text Right now, if anything..
+text If anything moves right now---I'd be admitting I'm insane, and it's scaring me.
+text My brain might have gone numb.
+text If I stay like this---I am thinking stupidly that the storm will be over----
+sound SE_01.aac 1
+bgload IMA_10.jpg
+text My whole world starts to flicker.
+bgload IMA_11B.jpg
+text Just like a police car's siren, everything revolves, red and black.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+text "Ah-------"
+text My    head    hurts.
+bgload IMA_11B.jpg
+text "I'm tired---I'm just tired, that's all."
+text I say    so    to myself.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+text I collapse    onto the bed.
+bgload BG_40C.jpg
+sound SE_04.aac 1
+text "Shiki-sama, have you returned?"
+text .... A voice like Hisui's wakes me up.
+text "Shiki-sama, please excuse me."
+text .... Someone enters my room.
+text But, it hurts so much.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text I can't make out who it is.
+text "Please forgive me.
+text I did not realize that you had returned, so I was unable to greet you at the door."
+text ".... No, that's, fine---leave me alone, please."
+text "Shiki-sama, are you feeling sick?"
+text "---Ah.
+text I don't really.."
+text .... know.
+text I can't finish my sentence.
+text ".... Sorry.
+text I feel----bad.
+text I want, to, sleep, is there, any, medicine?"
+text "Yes, I will go get some."
+bgload BG_40C.jpg
+setimg HIS_T18.png 62 0
+text "Thank you for waiting.
+text Please drink this."
+text "Thank you, as always, and sorry."
+text With eyes that can't quite see too well, I take the water and the powdered medicine Hisui brought me.
+text For some reason, there are two kinds of medicine.
+text .... I don't care, so I put both of them in my mouth and drink the water.
+bgload BG_40C.jpg
+setimg HIS_T29.png 62 0
+text Apparently, it works fast; I start to feel sleepy already.
+text ".... I'm going to sleep.
+text Until tomorrow----"
+text "Don't worry, no one's going to bother you, Shiki-sama."
+text Hisui giggles and I sense her walking away.
+bgload IMA_10.jpg
+text My consciousness starts to swim.
+text ~
+text ---I'll go to sleep.
+text My head hurts so much right now---I don't even care if I see those bad dreams or not.
+bgload BG_25B.jpg
+music 06.mp3
+text ---I am in the night-shrouded town.
+text ~
+text I got here somehow.
+text Is this a dream?
+text If so, why am I here?
+text "-------"
+text No, the reason is clear.
+text I'm out on the streets in the middle of the night because of the killer---in order to look for the killer and find the killer.
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text I wander around aimlessly.
+text I wonder how late it is?
+text ~
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text .... I don't see anyone suspicious.
+text ~
+bgload BG_12B.jpg
+text .... There's no point in coming here.
+text ~
+bgload BG_24C.jpg
+text .... I don't see any sign of the killer.
+bgload BG_25B.jpg
+text "---------"
+text .... My legs become heavy.
+text Somehow, everything feels unreal.
+text The atmosphere is getting weaker.
+text Time is degrading.
+text My sense of people around me becomes dreadfully surreal.
+text ~
+bgload BG_30B.jpg
+text .... But the sense of smell feels real.
+text The odor that tugs at my nostrils.
+text It's floating from over there.
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+text ~
+text ----That was the final stop.
+text ~
+text Just like my dream from last night, a dead body of someone I don't know is there in the back alley.
+text It's a woman.
+text Her face is scraped from her chin to her nose, and I can't tell now if she is beautiful or not.
+text The flowing blood is incredibly sticky, and it reminds me more of red jelly than liquid.
+text From her body, her internal organs bloom out like the legs of an octopus.
+text The pink mass of dead organs shines and looks warm.
+text ~
+text In front of that corpse,
+text a black, truly black figure is crouched and seems to be crying.
+text ""-------Who are you!?""
+text Our voices overlap each other.
+text I ask him who he is, and he asks me who I am and turns.
+text ""I am----""
+text "A killer." .... But which one of us said that?
+text ~
+bgload IMA_10.jpg
+text Well, after all, this is a dream.
+text So I play around a bit, and with a small amount of hope, I say that I am the killer.
+music ~
+bgload BG_31B.jpg
+sound SE_02.aac -1
+text "Eh---------?"
+text The dark figure tilts his head, puzzled.
+text The man crouching in front of the dead body looks at me, as if trying to compare the two of us.
+text During that moment,
+text in that emptiness, I get certain.
+text "--------Heh."
+text A laugh escapes my throat.
+text This man is a fake.
+text The puzzled figure in front of the corpse, and myself not feeling anything.
+text If you ask which one of us is more like a killer, the answer is simple.
+text ".... Is it you?"
+text The man says with trembling voice.
+text I stifle my laugh and naturally, as if I'm shaking his hand, stick my knife into his chest.
+text ~
+text ---------Eh?
+text ~
+text A voice shows his surprise.
+text Even though he's about to get killed, he is sluggish enough not to move.
+text It makes me sick that this guy was calling himself a killer like that.
+bgload IMA_12.jpg
+text I vomit as I slice him.
+text Like a paper doll, he crumbles to pieces.
+text Like a pouring bucket full of water, his blood paints my body crimson from head to toe.
+text ~
+text Drip drip, drip drip.
+text ~
+text His blood drips from my hair.
+bgload BG_31B.jpg
+text I let out a deep breath.
+text ~
+text Before my eyes is yet another dead body.
+text In my hands is my steaming knife.
+text The killer is dead, and the town is now safe like before.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---But that still leaves me.
+text Even if the town returns to normal, I still remain affected.
+text ~
+text The killer still exists.
+text ~
+text "........ Let's go home."
+text Yes, I should go home.
+text Affected as I am, I should go back to the mansion.
+text Nothing has changed.
+text I'll live normally as Tohno Shiki, and continue the nightmare at night.
+text ~
+text ---Really, nothing at all.
+text ~
+text It's just a matter that instead of dream becoming a reality, it's just that I won't wake up from my dream anymore.
+bgload IMA_18.jpg
+text ~
+text I think I heard the faint chuckle of a small girl.
+text That's just a trivial matter, though.
+text I have to go to sleep, and wait for my dream to continue again tomorrow night----
+bgload IMA_10.jpg
+sound ~
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s528.scr
+fi
+if selected == 2
+    jump main.scr
+fi

@@ -1,0 +1,108 @@
+bgload IMA_11.jpg
+sound SE_11.aac -1
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+text .... Knock, knock knock, knock.
+bgload BG_40A.jpg
+text .... Knock, knock knock, knock.
+text ~
+text ----The night is over.
+text ~
+text A terrible silence.
+text I can't even hear the wheezing of my breathing.
+text .... Knock, knock knock, knock.
+text ~
+text "--------"
+text My body doesn't even twitch or move at all.
+text My mind has completely stopped as well.
+text I bet if I look at myself in the mirror, I would look like a puppet with its strings cut.
+text .... Kn.
+text kno kno, ck.
+text kno, ck.
+text ~
+text "-------Gohu."
+text I cough.
+text ~
+text .... I screw up the rhythm again.
+text ~
+text "Go--ha, ah, ah----"
+text ~
+text .... Knock.
+text Kno, knock.
+text .... Knock.
+text Kno kno, ck knock.
+text .... Knock.
+text Knock knock.
+text Knock.
+text .... Knock, knock knock, knock.
+text ~
+text ", ......, ......"
+text I get back my rhythm, and I can continue breathing.
+text "---------"
+text Being by myself all night caused my body to become really weak.
+text My vision is really blurry.
+text The air touching my skin is painful.
+text My organs are so screwed up now that I can't breathe unless I concentrate.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+sound SE_04.aac 1
+text "Shiki-sama, are you awake....?"
+text Hisui's voice.
+text .... How many times is this?
+text Hisui really doesn't grow tired of this at all.
+text "You are awake, are you not?
+text If that is the case, then please at least eat."
+text ".... No.
+text I won't eat what any of you give me."
+text I won't eat anything.
+text I can't trust anything that comes from this house.
+text Food.
+text Water.
+text Medicine.
+text It seems like everything is a poison to kill me.
+text ".... Shiki-sama, I will place your food here.
+text After I leave, please open the door and eat it."
+sound SE_08.aac 1
+sound SE_11.aac -1
+text .... Hisui's presence recedes.
+text "......"
+text I bang my head against the wall.
+text .... How many times have I ignored Hisui like this?
+text .... Hisui.
+text Hisui is different from Akiha and Kohaku-san.
+text Maybe Hisui is not trying to kill me.
+text "......"
+text But, that is just a fantasy.
+text Hisui tried to lock me in this room.
+text Like right now, she came to my room to look after me, keeping me trapped in this room.
+text "----Ha, ah."
+text .... This is no good.
+text I know my thoughts are just paranoia.
+text But my mind won't return to normal.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text .... Knock,  Knock Knock, Knock.
+text ~
+text My mind is .aacy and my body pulses with pain.
+text My throat is so dry that it feels like I will die if I don't drink water.
+text .... In spite of all that, I still keep the door locked.
+bgload IMA_10.jpg
+if hisui_regard < 5 
+    jump s410.scr
+fi
+jump s409.scr
+
+

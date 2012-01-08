@@ -1,0 +1,39 @@
+bgload IMA_10.jpg
+text ........ My body is exhausted.
+text But, I can't fall into a deep sleep.
+text The wounds all around my body sting and wake up my mind as it tries to sleep.
+text ~
+text I look at the clock as I lie in bed.
+text It's past three o'clock in the morning----already five hours of unsatisfactory rest.
+text "...... Damn it, I can't sleep."
+text Not being able to sleep when I want to.. it's like torture.
+text Tick, tick, tick.
+text The sound of the clock's second hand gets on my nerves.
+text ~
+text Tick, tick, tick, tick, tick, creak, tick, tick, tick, tick----
+text ~
+text "Eh--?"
+text I think I heard something mixed in with the ticking.
+text It sounded like the door opening, but who would be coming at this hour?
+text Tap, tap, tap.
+text ~
+text No, there's no mistake.
+text Someone came into the room and is coming near me.
+text "----"
+text Who is it?
+text .... If someone was to come this late at night, it would be---
+text ~
+if cleared != 0 
+    jump s117.scr
+fi
+choice It might be Arcueid.|It might be Ciel-Senpai.|It might be Akiha.
+if selected == 1
+    jump s118.scr
+fi
+if selected == 2
+    jump s119.scr
+fi
+if selected == 3
+    jump s120.scr
+fi
+

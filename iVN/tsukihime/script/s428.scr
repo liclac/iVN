@@ -1,0 +1,118 @@
+bgload BG_06G.jpg
+text "----------"
+text The footsteps pass by.
+text ----I only have one chance.
+text The instance she passes by the classroom, I'll jump out into the hallway and attack her.
+text If the distance is too great, I'll be killed just like SHIKI.
+text "----------"
+text The footsteps keep moving.
+text .... About a distance of two meters.
+text At her stride, that should be about eight steps.
+text "............ Okay."
+text I sneak silently over and place my hand on the door.
+text Tap, tap.
+text The hard sound of her footsteps come closer.
+text One.
+text Two.
+text Three.
+text Four.
+text Five.
+text Six.
+text Seven.
+text Eight....!
+text The footsteps stop there.
+text She hasn't passed the classroom yet.
+text She just stands on the other side of the door.
+sound SE_01.aac 1
+text ~
+text "Wha-------"
+text Time stops.
+text Thump.
+text The inside of my head torques painfully.
+text ~
+sound SE_01.aac 1
+text "----------"
+text Does she know?
+text Does she know?
+sound SE_01.aac 1
+text Then what should I do?
+text She cannot come in the classroom unless she opens the door.
+text She needs to come in the classroom in order to see me.
+sound SE_01.aac 1
+text ~
+text So---as long as this door is closed, she can't kill me.
+sound SE_02.aac -1
+text "---------"
+text .... Then I don't care.
+text If she tries to open the door, then that's fine.
+text It'll just be a battle between what is faster: my "slicing" or her "looking".
+text Calm.
+text I take a deep breath.
+text But it still doesn't change the fact that I'm at a disadvantage.
+text All Akiha needs to do is look.
+text But I have to see the "lines" on her body and then slice them with my knife.
+text Since I have to make an extra movement, even though this is my range, I can't say it's my advanta----
+sound SE_08.aac 1
+text "-------Eh?"
+text All of a sudden,
+text A crash comes from the window.
+sound SE_10.aac 1
+bgload IMA_11B.jpg
+text "Wha-----"
+text My brain freezes.
+text I instantly lose all feeling in my arms and legs.
+text My heavy body rises up and is slammed against the wall.
+bgload IMA_10.jpg
+text "Ha----ah----!"
+text My field of view cuts off.
+text The water in my eyes evaporates instantly and I can't see anything.
+text I don't know anything about what is going on in the outside world.
+text All I can understand is what I'm doing.
+text I'm suspended in mid-air, and just like Kohaku-san earlier, I'm crucified to the wall by Akiha's hair.
+music 04.mp3
+text "How careless.
+text It's nothing compared to a natural-born assassin like you, Nii-san, but I can still hide my presence.
+text Well, that's what I did and while you were paying so much attention to the hallway, I came by from the next classroom.
+text Next time, you should learn from experience and pay attention to the balcony, too."
+text She giggles.
+text "Ah--------gg!"
+text My neck is being constricted.
+text My limbs have no feeling, as if they were cut off.
+text My body is being saturated with Akiha's hair.
+text "Ah, that was rude.
+text There is no 'next time' for you, Nii-san.
+text Besides, I'm sorry, Nii-san.
+text I rudely ate you instantly.
+text Even though I consumed most of you in the heat of the moment, you are still conscious, right?
+text Please forgive my lack of manners since I'll do this right this time."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Well then, I will have you.
+text Farewell, Nii-san.
+bgload IMA_11.jpg
+text "----------"
+text My body burns.
+text The Red Lock of Hair sears both my body and my very soul.
+text ~
+text Thump.
+text I can hear my last heartbeat.
+text ~
+text .... How, stupid.
+text Even though I knew so much, Nanaya Shiki has still ended up the same as Tohno SHIKI.
+bgload IMA_10.jpg
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s544.scr
+fi
+if selected == 2
+    jump main.scr
+fi

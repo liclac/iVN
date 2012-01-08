@@ -1,0 +1,111 @@
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+music 01.mp3
+text "What did you want to talk about, Shiki?"
+text "About vampires.
+text You said it before.
+text That the recent serial killings were the work of a vampire."
+text Arcueid nods.
+text "Then do you know the morning news said another victim was found?
+text She was killed last night and drained of blood."
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "-----"
+text .... Arcueid's eyes narrow.
+text Something..
+text Something like a freezing tension races down my spine.
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+text "Oh?
+text And?"
+text "And?---you...."
+text I swallow hard.
+text She stares right at me.
+text Almost---a stare which says she will attack me immediately if I move even the slightest bit.
+text "Is---isn't it strange, Arcueid?
+text Nrvnqsr is dead.
+text So why are these incidents still happening?
+text Don't tell me, that, you---"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "That's not it at all.
+text That's not me, but another vampire."
+text Arcueid responds immediately, loosening the tension.
+text But I'm not satisfied.
+text "What do you mean?
+text The work of another vampire?
+text So they just keep coming?"
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "Of course not.
+text The serial killings were always the work of just one vampire from the very beginning.
+text So no new vampires will come, and Nrvnqsr was unrelated to those incidents."
+text ~
+text ----Eh?
+text Nrvnqsr was, unrelated....?
+text ~
+text "Wha---what do you mean?"
+text "It's just like I said.
+text .... You're normally pretty sharp, but you're lost at some points.
+text Think back, Shiki.
+text Nrvnqsr was a vampire, but did he ever suck human blood?"
+bgload BG_29B.jpg
+text "Suck blood?
+text He ate humans and---oh."
+text ~
+text I see.
+text Why didn't I notice such a simple mistake?
+text The victims of the serial killings are found with their bodies drained of blood.
+text But Nrvnqsr was different.
+text He didn't leave any dead bodies behind.
+text He not only drank the blood, but also ate the meat, leaving no trace.
+text To prove it, the people eaten by him in the hotel were treated as missing people, not killed people.
+text ~
+text So---that means, it is something completely different.
+text "Wait.
+text Then what is the serial killing going on right now?
+text Just who is doing it?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "That's a different vampire than Nrvnqsr.
+text To be more specific, that vampire is why I came here, and Nrvnqsr came here following me.
+text It's that sort of correlation."
+text "---Wha.. So the one you're after wasn't Nrvnqsr after all....!?"
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, I didn't ever say he was my initial target.
+text I was his target, but he was never my target; my target is the one called the 'serial killer' in this city."
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text ".... Shiki.
+text I don't quite believe it, but don't tell me you made such a simple mistake?"
+bgload BG_29B.jpg
+text "Wha-----"
+text I gasp in shock.
+text But---it really is just as she says.
+text She said her purpose is to kill vampires, so I just thought it was Nrvnqsr she was after----
+text ~
+text ".... So what is it?
+text Killing Nrvnqsr that night, was pointless......!?"
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "It wasn't pointless, you fought in my place.
+text Well, if you didn't kill me, you probably wouldn't have had to in the first place."
+text ~
+text "------"
+text I feel a little dizzy.
+text ".... In other words, those vampire killings had nothing at all to do with Nrvnqsr and it was the work of another vampire....?"
+text "Yeah, that's right.
+text But, that's my problem so you don't have to worry about it.
+text But more than that, hey."
+music ~
+bgload BG_29B.jpg
+text With an extremely happy smile, Arcueid looks up at me as I still stand there in surprise.
+text ~
+text "How was last night?
+text Who came?"
+if flg4 >= 1
+    jump s140.scr
+fi
+jump s141.scr

@@ -1,0 +1,72 @@
+bgload BG_33B.jpg
+text --That's right.
+text No matter how hard I try, I can't hide it from Hisui and Kohaku-san who are in charge of maintaining the mansion.
+text So, the least I can do is let them know when I'll be gone every night in the following days.
+text ".... Yeah, to tell the truth, I'll probably leave for a number of nights starting now.
+text I swear I'm not just playing around or doing anything bad.
+text Akiha will probably end up hating me, but I can't stop now."
+text ~
+text Yeah.
+text The vampire is still somewhere in town preying on victims.
+text As a person who lives here, I just can't pretend like I didn't see it.
+text "---I know it's a burden to you, Hisui, but please overlook it.
+text I don't know what time I'll be back, so please just leave the gate unlocked."
+text "Shiki-sama, are you saying you will not tell us why?"
+text ".... Yeah, sorry Hisui.
+text You can think I'm totally irresponsible, but please don't ask.
+text I, don't want to have to lie."
+text ".... No.
+text You are my master.
+text A servant does not despise her master like that."
+text She speaks plainly and without any expression.
+text The conversation ends and I go up to return to my room.
+bgload BG_46B.jpg
+text "Please wait."
+bgload BG_46B.jpg
+setimg HIS_T04.png 62 0
+text ".... Forgive, my impertinence, but.."
+text After cutting off, she tightens both of her hands as she looks over at me.
+bgload BG_46B.jpg
+setimg HIS_T01.png 62 0
+text "If you would like me to, Shiki-sama, I can keep your leaving a secret from Akiha-sama."
+text "Eh?
+text You mean, you're not---going to tell?"
+text "---Yes.
+text After dinner, it is extremely rare for Akiha-sama to leave her room.
+text Nee-san and I are responsible for conducting a patrol right before she sleeps, so if I do not tell the truth, she will not know."
+text "Yeah, that helps.
+text It helps, but.... is that okay?
+text Isn't she your employer?"
+bgload BG_46B.jpg
+setimg HIS_T04.png 62 0
+text "I told you you are my master, Shiki-sama."
+text ~
+text ---uh.... I'm, kind of happy.
+text I always have to tell her to stop adding "sama", but at times like this, I think I'm incredibly lucky.
+text How can I help but be happy?
+text "Yeah----that helps, so if you can, please do so."
+bgload BG_46B.jpg
+setimg HIS_T01.png 62 0
+text "Then please use the rear entrance tonight.
+text The front entrance will be locked, but if you have the key and use the servant's entrance, you can come and leave undetected."
+text "Oh?
+text There's a servant's entrance?
+text No wonder I never saw you leave through the gate."
+text "No, the only one who uses that is Nee-san.
+text She has the key, so I will get it to you later."
+bgload BG_46B.jpg
+text "Well then", she says, after which she bows and disappears.
+text "-----Alright!"
+text Help just came from an unexpected source.
+text With this, it seems I can keep my promise with Arcueid without worrying Akiha.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+music ~
+text After dinner, I go back to my room.
+text It's almost ten o'clock.
+text While I was eating, Hisui placed the key on my desk.
+text ~
+text "Now then---shall I go?"
+text Placing my knife in my pocket, I leave my room as quietly as I can.
+bgload IMA_10.jpg
+jump s156.scr

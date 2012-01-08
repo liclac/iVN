@@ -1,0 +1,153 @@
+bgload BG_06A.jpg
+text .... I guess I'll go take a look in the tea ceremony room.
+text I'm sure Senpai said something yesterday after class about having lunch there.
+text If Senpai is there, maybe I can talk with her while having lunch.
+text ~
+text ---Most importantly,
+text I enjoy having lunch with Senpai, and I'm also worried about the news story from this morning.
+text ~
+text "---Alright."
+text Gotta strike while the iron's hot and all.
+text I head off to the tea ceremony room before Arihiko notices my plan.
+bgload BG_11A.jpg
+music 03.mp3
+text I knock on the tea ceremony room door.
+text After a brief wait, the door creaks open and Senpai pokes out her head.
+bgload BG_11A.jpg
+setimg CEL_T12.png 52 0
+text "Huh?
+text Tohno-kun?"
+text Puzzled, Senpai tilts her head.
+text She doesn't seem annoyed, but it seems like she really doesn't understand why I came here.
+text "Would you like to have lunch together, Senpai?"
+text Holding out the bread I purchased at the cafeteria, I tell her why I am here.
+bgload BG_11A.jpg
+setimg CEL_T08.png 52 0
+text "Lunch?
+text I'm happy to hear you ask me, but---"
+text Senpai thinks over it looking troubled.
+text .... Things don't look good.
+text It seems Senpai isn't very interested.
+text I guess I've got no choice.
+text I decide to employ a little strategy.
+text "I have curry bread."
+bgload BG_11A.jpg
+setimg CEL_T05.png 52 0
+text "Eh---?"
+text Senpai's face becomes bright and cheerful.
+text .... I had a feeling about this from yesterday's lunch, but I am amused at her reaction.
+text "I'll give you this in thanks for yesterday's lunch, so why don't we eat together?"
+bgload BG_11A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, please!
+text I've just put the tea on!"
+bgload BG_11A.jpg
+text ~
+text Senpai hastily vanishes inside.
+text Following her, I enter the tea ceremony room.
+bgload BG_09A.jpg
+text "Ah...."
+text As I enter, it becomes obvious why Senpai was hesitating back then.
+text On top of the tatami mat is an already empty lunchbox.
+text It seems like Senpai has long finished eating her lunch.
+bgload BG_09A.jpg
+setimg CEL_T03.png 52 0
+text "Tohno-kun, would you like green or English tea?"
+text "Eh?
+text .... Ah, green tea, please.
+text More importantly, have you already finished lunch, Senpai?"
+bgload BG_09A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, just a little while ago.
+text I slept in this morning, so I didn't have any breakfast and I was hungry all morning.
+text It was terrible!"
+text ".... I see.
+text Well, you don't have to force yourself to accompany me.
+text Sorry for intruding on you.
+text I'll eat in the classroom, so please take your time relaxing."
+bgload BG_09A.jpg
+setimg CEL_T09.png 52 0
+text "Eh---?
+text You mean you're not going to give me any bread?"
+text Senpai's sorrow seems to resound from the bottom of her heart.
+text "No, I mean---you must be full, right, Senpai?"
+bgload BG_09A.jpg
+setimg CEL_T12.png 52 0
+text "Not at all.
+text I'm hungry."
+text .... It doesn't appear she's just saying this to make me feel better.
+text "Really?
+text Well, I'll be intruding then.. Is this really okay with you, Senpai?
+text The bread from our cafeteria really has volume, you know."
+bgload BG_09A.jpg
+setimg CEL_T02.png 52 0
+text "No need to worry!
+text If it's food I like, then I can eat limitless amounts of it."
+text That bashful smile is most probably not from shyness, but from anticipation of the curry bread.
+text "......"
+text .... She is a woman of many mysteries.
+text Someone who could be so happy over one curry bread in this day and age could be quite precious..
+bgload IMA_10.jpg
+bgload event/CEL_E02A.jpg
+text Senpai eats one while I have two, and we have tea afterwards.
+text Kneeling on top of the mat, Senpai and I casually sip our tea.
+text It would have been great if it wasn't during lunchtime at school, but that's life.
+text "How is your new house, Tohno-kun?
+text It seems something terrible happened this morning."
+text "Hmm.. yeah.
+text Well, the inside of the house is really fancy, but there are these really noisy stray dogs at night.
+text I guess it's also bad that there's no TV and no Japanese-style rooms, so there's nowhere to drink tea like this."
+text "What, a stray dog?
+text You mean what happened at your house wasn't related to those serial killings?"
+text "I don't really know.
+text There's this really high wall all the way around our mansion, and they say they found bloodstains there.
+text But listen, that's where---"
+text ~
+text ---I saw the stray dog last night.
+text I couldn't say it.
+text ~
+text ".... Hmm.
+text Well, anyhow, it's got nothing to do with us.
+text Let's stop talking about unpleasant topics, now that we've finally got an opportunity to relax."
+text "Not at all!
+text We're residents of this town, so I think the killings do have something to do with us."
+text Holding her cup in one hand, Senpai casts a serious gaze towards me.
+text "Yeah, I guess that's true, but you'll be okay if you don't go walking in the streets late at night, won't you?
+text There's been eight people killed so far already, right?
+text With that many victims, the police ought to catch the guy any day now."
+text "---Geez, Shiki-kun!
+text You don't have any sense of danger, do you?
+text The newscasters have been saying the same thing since the third victim was found, but they haven't caught him yet, have they!?"
+text "Hmm.. Well, that's true.
+text It's just that I can't really relate to it when they give it such a stupid caption like 'The Modern-Day Vampire'.
+text I'm sorry, I really did take it too lightly.
+text We live in this town, so we've got to be careful, right?"
+text "Yes.
+text I'm glad you understand."
+text Senpai smiles in a satisfied manner.
+text "But Senpai, why are they calling him a vampire anyway?"
+text "Well, the blood was drained from all the bodies, right?
+text Isn't that kind of like a vampire?"
+text ".... You really think so?
+text Isn't it said that you become a vampire yourself once a vampire sucks your blood?
+text These victims are all dead, with the corpses to prove it, so they don't really have to go calling him a vampire."
+text Senpai laughs and nods.
+text "Do you really believe in things like vampires, Tohno-kun?"
+text ".... Hey now, I'm just saying that's how the news is presenting it.
+text If there really were vampires, there wouldn't be any dead bodies left, just like I said earlier."
+text "Yes, you're right.
+text But can't you think of it like this?
+text The people who were found dead died because they couldn't become vampires.
+text There are actually people who can and can't become vampires, and those who can become vampires wouldn't show up as dead bodies after being attacked by one.
+text Because they're still alive somewhere."
+text "Haha, that's what you'd call a horror story, Senpai."
+text "Yes, exactly.
+text I'm sorry to say there's no punch line."
+text Laughing, Senpai sips from her cup.
+text ~
+text While we are having our rambling conversation, lunchtime ends.
+music ~
+bgload IMA_10.jpg
+setvar ciel_regard + 1
+setvar flg1 + 1
+jump s65.scr

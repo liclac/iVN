@@ -1,0 +1,437 @@
+bgload BG_06A.jpg
+text Fifth period.
+text Feeling sleepy at the classics lecture, my gaze drifts outside the window.
+text ~
+text ----And,
+text ~
+text a crow is perched on the classroom veranda.
+text "-----"
+text Not the blue crow from last night, but just an ordinary black one.
+text With its black eyes, the crow stares inside the classroom through the glass window.
+text It's true that it's unusual for a bird to perch there, but it's not like it's some major event.
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+sound SE_01.aac 1
+text "Ah----"
+text Suddenly, it comes at me.
+text My vision gradually goes white as my sense of balance goes crazy.
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+text "---"
+text My field of vision sways.
+text It feels like something is building up in the back of my head, and my brain feels heavy.
+text ".... Crap."
+text I know this feeling.
+text It's the precursor to an anemia attack.
+text The blood that's been building up inside the blood vessels in my brain forms black clots and slushes around inside my head, causing my vision to go black.
+text ~
+text If I had to describe it, I would say it feels like darkness is pushing from my brain outwards towards my eyes.
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+bgload IMA_10.jpg
+text ---This is bad.. I don't usually collapse in the middle of class, but..
+text ~
+text Fumbling in a world of darkness, I blindly use my desk for support.
+text ~
+text Even that becomes useless..
+text I can't put any strength into my fingers.
+text All I can do now is fall towards the floor---
+bgload BG_06A.jpg
+music 03.mp3
+text "Excuse me, Sensei."
+text ~
+text ---And,
+text ~
+text something hits me roughly on the back.
+bgload BG_06A.jpg
+setimg ARI_T04.png 104 0
+text "Tohno's looking pretty bad, so I'd like to take him to the infirmary."
+text "----Arihiko."
+text ~
+text At some point, Arihiko had come up to me.
+text ~
+text "Are you really feeling bad, Tohno?"
+text I can hear the teacher's voice from his lectern.
+text "No, I think I'll be fi---"
+bgload BG_06A.jpg
+setimg ARI_T01.png 104 0
+text "Man, he's totally out of it.
+text Wouldn't it be better for him to leave early?"
+text ~
+text .... Arihiko makes this outrageous proclamation loudly.
+text "I see.
+text If you say so, Inui, then there's no mistake about it.
+text I've already heard about Tohno's health from Kunifuji-sensei.
+text Tohno, if you're not well, you may go rest in the infirmary or leave early."
+text .... Sheesh.
+text I don't know what's with him.
+text ~
+text It seems the classics teacher has complete trust in what Arihiko says.
+bgload BG_06A.jpg
+setimg ARI_T04.png 104 0
+text "C'mon, you can go now.
+text Your face is pale and all, but no one's going to know you're feeling bad until you tell them, you know."
+text Arihiko hits me in the back grumpily.
+text ".... I'll be leaving early then, Sensei."
+text The classics teacher nods solemnly.
+text ".... Sorry about making you worry needlessly, Arihiko."
+bgload BG_06A.jpg
+setimg ARI_T01.png 104 0
+text "Don't worry about it.
+text We've been inseparable since middle school; I can tell when you're about to collapse from anemia."
+bgload BG_06A.jpg
+text Arihiko heads back towards his own seat.
+text Expressing my thanks with a look, I drag my leaden body out of class.
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text ---I leave school.
+text It would have been better to go lie down in the infirmary, but at this hour, it'd be after school by the time I wake up.
+text That being the case, I decide that I'd better go lie down back at the mansion, even if it means pushing myself.
+text ".... Phew.
+text I think I'm feeling a little better."
+text I breathe in the outside air and feel a little rejuvenated.
+text ~
+text .... Sheesh.
+text I'm surprised at my own body.
+text Eight years ago.
+text The price of recovering from that near-fatal injury was becoming prone to sudden anemia.
+text ~
+text When I first left the hospital, it would happen at least once a day.
+text Collapsing from dizziness became a daily routine for me.
+text After some time, probably because my body had grown, the spontaneous dizziness and anemia became rarer.
+text But from time to time, things still trigger dizzy fits, and I still lose consciousness.
+text Today I was lucky that Arihiko caught me.
+text Usually, I wind up passed out on the floor.
+text *sigh*
+text Taking a slow and deep breath, I draw fresh air into my lungs.
+text I can feel the blood pooled around the center of my head begin to swirl around again, so I head away from the school.
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+text I veer onto the main street.
+text Once I get through here and leave the residential district, it's a direct path to the Tohno mansion.
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+text ~
+text "--Agh."
+text .... Crap.
+text It looks like I haven't fully recovered yet.
+text Putting my hand to my forehead, I realize it's hotter than usual.
+text "...."
+text I'm not going to do myself any good by pushing myself here until I collapse along the side of the road.
+text "---I guess there's no helping it."
+text Disgusted with myself, I lean on the guardrail.
+text I'll rest for a bit until I manage to calm down.
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+music ~
+text .... I don't have much to do, so I just stare idly around the street.
+text ~
+text It's just past noon on a weekday, but the street is filled with passers-by.
+text Crowds of walking people.
+text Nameless people without personalities walk straight ahead, without even casting a glance at the people walking beside them.
+text Even though there are so many people here together in this crowd, in this same space, they see only one thing.
+text Everyone is their own main character, so they only live the day from that perspective.
+text And so, without really interacting with anyone else, they each end the day by themselves.
+text ~
+text ---In a way, you could say it's a very lonely thing.
+text "...."
+text ~
+text I begin to think melancholy thoughts, perhaps a result of my fever.
+text "---Guess I'll go home now."
+text I feel calmer, and all I'm doing here is wasting my time with pointless thoughts.
+text Getting up from the guardrail, I resume heading home to the mansion so I can rest.
+text ~
+text ~
+text ~
+text ---That is, until I see her.
+bgload IMA_10.jpg
+bgload event/ARK_E01.jpg
+sound SE_01.aac 1
+text Casually.
+text All I did was casually cast my gaze into the crowd, but my vision freezes.
+text ~
+text ---Thump.
+text ~
+text Golden hair and red eyes.
+text Her clothes are white, as if they are a symbol of herself.
+sound SE_01.aac 1
+text ~
+text ---Thump.
+text ~
+text My pulse races.
+text My veins and arteries spring into action.
+text My nerves split, one after the other.
+text My spinal cord goes berserk, as if it is about to leap out of my back.
+sound SE_01.aac 1
+text ~
+text ---Thump.
+text ~
+text The girl walking in the crowd is just.. beautiful.
+text "------"
+text The distant dizziness comes back to me.
+text My consciousness swims, falling.
+sound SE_01.aac 1
+text ~
+text ----Thump.
+text ~
+text I-I can't breathe.
+text My fingertips tremble.
+text The blood isn't reaching them.
+text My whole body feels cold, like I'm freezing to death.
+sound SE_01.aac 1
+text ~
+text ----THUMP.
+text ~
+text My heart beats in a rush, urging me to hurry up.
+text "Ah--ah!"
+text I can stand it no longer and unintelligible words escape my mouth.
+sound SE_01.aac 1
+text -----I can't think.
+text My brain tells me only one word.
+text ~
+text ----TH-U-MP.
+text ~
+text Just one word repeating in my brain.
+text Her.
+text That girl.
+text I'm going to----
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+text *wheeze* *wheeze* *wheeze*
+text ~
+text I feel sick.
+text I can't breathe.
+text It hurts to breathe.
+text For some reason, I can't remember how to breathe properly.
+sound SE_01.aac 1
+text *wheeze* *wheeze* *wheeze*
+text ~
+text My throat is burning.
+text My eyes are about to burst.
+text My palms are soaked.
+text I feel so cold--but I'm drenched in sweat.
+sound SE_01.aac 1
+text *pant* *pant* *pant*
+text .... I have to follow her.
+text I have to follow that girl.
+text Chase her, chase after her, and talk to her.
+text My frozen feet begin to move.
+text ~
+text My breathing is ragged, like that of a beast.
+text ~
+text I chase after the girl in white.
+sound SE_01.aac 1
+bgload BG_27A.jpg
+bgload BG_27A.jpg
+setimg ARK_T22.png 36 0
+text *pant* *pant* *pant*
+text ~
+text The girl walks slowly.
+text She doesn't realize I'm following her.
+text ~
+text "Ha----ah."
+text ~
+text If I run after her now, I can talk to her.
+text Talk to her, and ask her name..
+text "Ha----ahah, ha."
+text ~
+text ---Ask her name?
+text Who am I kidding?
+text I know very well that that's not what I want to do.
+text .... I know, but I don't know.
+text It looks like I want to do something else.
+text But I can't precisely put "what I want to do" in words.
+text ~
+text The inside of my head is misted over, like a rain cloud.
+bgload BG_23A.jpg
+bgload BG_23A.jpg
+setimg ARK_T22.png 36 0
+text "-------"
+text ~
+text My throat is.. hot.
+text I can't breathe.
+text But so what?
+text It's only natural, right?
+text I've just seen that great woman.. it would be impolite not to get excited, wouldn't it?
+text Stop her and ask her name?
+text Hah!
+text Give me a break.
+text I'm not a kid, after all.
+text I don't fully understand it, but there is only one thing I must do.
+text I walk with my hands in my pocket.
+text My fingers feel steel.
+text ~
+text "Ku----huhh.
+text Hehe."
+text How fortunate.
+text The tools are all here.
+text .... She walks.
+text I leave plenty of room between us.
+text So she won't notice.
+text So the other people around us won't suspect.
+text She and I are complete strangers.
+text That's why I have to do my best to make following her look natural.
+bgload IMA_10.jpg
+bgload BG_12A.jpg
+text .... She walks into an apartment building.
+text I don't go in yet, but instead watch from outside.
+text She takes the elevator up.
+text The elevator stops at the sixth floor.
+text ~
+text I check the common mailbox on the first floor.
+text There are five mailboxes for the sixth floor.
+text I touch one of them and feel a sharp sensation.
+text I smell it.
+text There's no mistake.
+text Her room is the third one on the sixth floor.
+text ~
+text ~
+text I enter the elevator and press six.
+bgload IMA_10.jpg
+text I'm excited.
+text I grip the knife in my pocket tightly while in the small elevator.
+text She's very close by.
+text Just a little more, and I can      her.
+text Ah, just thinking about it makes me feel ecstatic--
+text My whole body feels like a sexual organ just before climax.
+text I get off the elevator.
+text The sixth floor corridor is empty.
+text This is good.
+text Quickly----quickly!
+text I want to do it.
+bgload BG_13A.jpg
+text ~
+text ~
+text ----I arrive in front of Room Three.
+text I am about to press the doorbell when I stop.
+text These glasses are in my way.
+text I can't do what I've come to do with them on.
+text ~
+text ---It's a promise, Shiki.
+text You should never cut those lines thoughtlessly---
+text ~
+text "...."
+text Long ago, a woman once told me such a thing.
+text But right now, neither her name nor her face comes to mind.
+text Slowly, I remove my glasses.
+bgload IMA_10.jpg
+sound SE_02.aac -1
+text ~
+text I can see the black lines.
+text And not just them.
+text Has something happened to my eyes?
+text Apart from those abominable lines, I can see 'points', like black holes.
+text Countless numbers of them.
+text ~
+text I don't know myself.
+text What I'm trying to do.
+text Why I'm trying to this.
+text ~
+text What does Tohno Shiki-----want to do with that girl?
+text ~
+text I don't know.
+text Still not knowing, I push the doorbell.
+bgload BG_14D.jpg
+text "Yes---?"
+text I hear the voice behind the door, and the door opens a crack.
+text In that instant------I slip through it.
+text "Eh----"
+text The girl says.
+text No, she tries to say.
+text She will never get to finish what she tried to say.
+text Because I cut her apart before she could.
+bgload IMA_10.jpg
+bgload IMA_14.jpg
+text In that instant, I slip through the door.
+text Not taking even a second, I draw the knife across the lines running throughout the girl's body.
+text Stabbing.
+text Slashing.
+text Piercing.
+text Driving.
+text Splitting into pieces.
+text ~
+text Completely and utterly, I 'kill' her.
+text The black lines that divide her into seventeen pieces.
+text Through the neck, back of the head, from the right eye to the lips, upper right arm, lower right arm, right ring finger, left elbow, left thumb, left middle finger, left breast, from the rib to the heart, from the stomach to the abdomen in two places, left groin, left thigh, left leg, left toe, all of them.
+text As I pass by her,
+text not even taking a second.
+text ~
+text Truly, in an instant, entirely.
+text ~
+text I "dismantle" her into seventeen pieces of meat.
+bgload IMA_10.jpg
+sound ~
+bgload IMA_13.jpg
+music 04.mp3
+text "---Eh?"
+text I can hear an incredibly dumb-sounding voice.
+text It doesn't feel like the voice is coming from my own throat.
+text ~
+text Dizziness.
+text ~
+text The minced pieces of the girl lie before my eyes.
+text The red blood is all over the wooden floor, like a overturned bucket of water.
+text ~
+text There is the choking scent of blood.
+text The cuts are very clean, so her insides don't spill out.
+text Only the color of red goes across the ground.
+text Strange.
+text There is nothing in the room.
+text Nothing but the girl's scattered limbs and me, standing there dumbfounded.
+text "---What---"
+text ~
+text A sea of red blood is spreading over the floor.
+text In my hands, I grip my knife, the murder weapon.
+text ~
+text "She's----dead."
+text ~
+text Of course she is.
+text She wouldn't be human if she was alive.
+text "Wh----y?"
+text ~
+text There's nothing to ask.
+text I just did it with my own hands.
+text With my own hands, cleanly and instantly, I cut apart this girl I don't even know.
+text ~
+text "I----killed her?"
+text ~
+text Yes, there's no mistaking it.
+text Or am I mistaken?
+text ~
+text There's no reason for me to do such a thing.
+text That's why it's a mistake.
+text It has to be a mistake.
+text But I had no reason from the start.
+text That's why it's a mistake.
+text It has to be a mistake.
+bgload IMA_10.jpg
+bgload IMA_13.jpg
+text ~
+text ---The red blood flows all over the floor.
+text ~
+text Slowly, the dark red stain creeps around my feet.
+text "...... Ah!"
+text Surprised, I lift my shoe, but I'm too late.
+text ~
+text Like coal tar, her blood makes a thread connecting the pool on the floor and my foot.
+text "---------"
+text It's.. red.. blood..
+text The color I hate, still flowing even now.
+text All because I cut her apart.
+text "---It wasn't me."
+text Yes.
+text It has to be a mistake.
+text ~
+text A mistake.
+text A mistake.
+text Probably a mistake, definitely a mistake.
+text This is.
+text This is, This is, This is, This is, This is This is This is This is This is This is----
+text ~
+choice This is just a bad dream.|This is, without a doubt, reality wrought by my own hands.
+if selected == 1
+    jump s66.scr
+fi
+if selected == 2
+    jump s67.scr
+fi

@@ -1,0 +1,99 @@
+bgload BG_25B.jpg
+text ----The night has just begun.
+text No, to be more exact, if Arcueid would be walking around, it would most likely be during the night rather than during the day.
+text ~
+text ".... I guess it would be more efficient to search around town."
+text .... I don't want to think about it, but most of the victims are usually found in alleys.
+text If I want to find Arcueid----if I want to find the vampire killer who's continuing to murder, then I have to stick to searching the streets.
+text "----Damn it.
+text What am I doing!?"
+text Not understanding my own feelings, I curse and start to run around aimlessly.
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text ------*sigh*
+text I sit down on the guard rail.
+text It's been several hours already.
+text I looked around aimlessly, and I didn't even catch a single glimpse of Arcueid.
+text "........ Damn it."
+text It's so, frustrating.
+text Of course, I knew it isn't easy to just randomly find someone in town, but I still felt optimistic I would find her.
+text ~
+text "Where did she go....?"
+text .... Why?
+text I just wanted to ask her about the serial killings, but once I find out I can't see her, I----
+text "Ah, stop.
+text Stop.
+text I should just stop."
+text I stand up from the guardrail and start walking.
+text It'll be midnight soon.
+text Searching for Arcueid any longer really is just useless.
+text "........"
+text But, if I've gone this far, I can do just a little more.
+text There's one last place I need to check.
+text If she's not there, then I'll go back to the mansion.
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text .... The deserted park.
+text I arrive at the place where I cooperated with Arcueid and defeated Nrvnqsr.
+text Having only looked in town, I've yet to search here.
+text ".... Well, not that I'll find anything...."
+text Grumbling to myself, I enter the park.
+bgload BG_28B.jpg
+text Midnight.
+text As expected, there's no one here this late at night.
+text With this much silence, it rather feels refreshing.
+text ".... That's right.
+text It's not like I can conveniently find her."
+text I breath out a sigh and slump my shoulders.
+text ".... How stupid.
+text Why am I so disappointed?"
+text I don't understand it myself.
+text Just, once more----I think maybe I wanted to see her smile.
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "Ah, there you are.
+text Good evening, Shiki."
+text ~
+text .... Yeah, just like this.
+text Her face that's so cheerful and carefree you can't believe it belongs to a vampire----
+text ~
+text "A,      Arcueid----!?"
+text Without even thinking, I grab both of her shoulders.
+bgload BG_28B.jpg
+setimg ARK_T12.png 36 0
+text "Eh----?"
+text Arcueid flinches in surprise.
+text Arcueid's shoulders are indeed real, and I quickly pull my arms back.
+bgload BG_28B.jpg
+text "Y, you, why----"
+text Even though the one I've been searching for so long is right before me, I can't do anything but stumble over my words.
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "Why?
+text That's odd.
+text I was looking for you, so I don't think it's coincidence we met here."
+text "Eh----You, were looking for me?
+text Why?"
+bgload BG_28B.jpg
+setimg ARK_T06.png 36 0
+text "Why?
+text ----Oh, no reason."
+text She says straight out that she has no reason to be looking for me.
+text "............"
+text .... I forgot.
+text She really is kind of like a cat this way.
+text ".... Well, I guess it works out.
+text To be honest, I wanted to see you too.
+text So meeting here, um----"
+text I was about to say it makes me really happy, but I frantically choke those words off.
+text "----Anyway, I want to have a serious talk.
+text I want to talk about it somewhere else since I feel uneasy here, so is that okay?"
+text "Sure----but talk about what?"
+text "You'll see.
+text .... Let's go more to the back of the park."
+text Telling her to come on, I start walking.
+bgload BG_28B.jpg
+text Tilting her head in curiosity, she follows me obediently.
+bgload IMA_10.jpg
+setvar flg7 + 1
+jump s139.scr

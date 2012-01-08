@@ -1,0 +1,219 @@
+bgload BG_40B.jpg
+text .... Although I think she'll refuse, I wonder what will happen if I ask Hisui.
+text ".... Hisui's in the sitting room."
+text I'm a little excited.
+text I should hurry over and go ask Hisui.
+bgload IMA_10.jpg
+bgload BG_34C.jpg
+music ~
+bgload BG_34C.jpg
+setimg HIS_T08.png 62 0
+text "I refuse."
+text ~
+text Not even a second after I ask..
+text With an incredible counterpunch, she totally knocks out my plan.
+music 03.mp3
+bgload BG_34C.jpg
+text "I.... I see.
+text You are a little busy."
+text Defeated, I slump like a captured soldier.
+text "Sorry.
+text Please continue what you were doing."
+text I slowly start to shuffle my way to the lobby.
+text "Ah.... Please wait, Shiki-sama.
+text Um.. it is not that I would not like to make you something, but...."
+text "Eh......?"
+text I turn around without even thinking.
+text Then---
+bgload BG_34C.jpg
+setimg HIS_T26.png 62 0
+text Hisui looks incredibly cute for some reason.
+text "I, I just thought that since you are used to Nee-san's cooking, my cooking would not even come close.."
+text Fidgeting, Hisui continues speaking uneasily.
+text "So I want for you to eat my food when my skill has improved.."
+text "-------"
+text Wh.... what an amazing thing she says!
+text That "I refuse" back then was a big shock, but compared to what she just said, it's merely a light jab.
+text "What are you saying, Hisui?
+text I'll eat anything you make, so please don't fret about that sort of thing."
+bgload BG_34C.jpg
+setimg HIS_T23.png 62 0
+text "........ No, I cannot do that.
+text Shiki-sama, please ask Nee-san about food."
+text ".... No, what I really want is something from you.
+text If I wanted Kohaku-san's cooking, I'd have gone to her first.
+text I came here to ask you---cause I wanted your cooking."
+bgload BG_34C.jpg
+setimg HIS_T04.png 62 0
+text Hisui just looks at me, not responding.
+text "........ Hm."
+text If that's how she's going to be, then I'll just stay right here in the sitting room until she says she'll make me something.
+text "...."
+bgload BG_34C.jpg
+setimg HIS_T08.png 62 0
+text "......"
+text "........"
+text ".........."
+text "............"
+text ".............."
+text "................"
+text ".................."
+text "...................."
+text "......................"
+text We continue staring at each other without saying anything.
+text .... That's odd.
+text How did we end up like this?
+text ".... I understand.
+text If you do not mind, then I will make something."
+text "---!
+text Yes!
+text For real, Hisui!?"
+bgload BG_34C.jpg
+setimg HIS_T09.png 62 0
+text "Yes.
+text But since you insisted, you are bringing this on yourself."
+bgload BG_34C.jpg
+text "Eh......?"
+text Saying something incredibly ominous, Hisui heads towards the kitchen.
+bgload IMA_10.jpg
+bgload BG_34C.jpg
+text "------He.
+text Hehe, hehehehehe."
+text I start chuckling uncontrollably.
+text In the kitchen behind that wall, Hisui is making food for my sake.
+text Thinking about it, I can't help but smile.
+text Even though Kohaku-san prepares food everyday, she does so too professionally; it feels like some other cook is making the food.
+text ~
+text On the other hand, I have never seen Hisui's cooking, so I'm pretty excited.
+text ".... Kohaku-san did say that Hisui was poor at cooking though...."
+text Well, even so, I don't think anything inedible will be the result.
+text If you have a normal sense of taste, it's impossible to make something that is completely inedible.
+text ....
+text ......
+text ........
+text ..........
+text ............
+text .............. But still.
+text Doesn't she seem to be taking a little too long?
+music ~
+text "Kya--!?"
+text ~
+text ---And then,
+text I hear a gigantic crash coming from the kitchen.
+text ~
+text "Hisui!?"
+bgload BG_35.jpg
+text "What happened, Hisui!?"
+text I run into the kitchen.
+text "----Ah."
+text After entering, I'm a little taken aback.
+text Hisui might have been planning on cooking a feast as ingredients are stacked all about the kitchen.
+text ~
+text A kitchen knife is thrust into the cutting board like a gravestone or like that holy sword from somewhere.
+text And on the stove, black smoke billows from a frying pan.
+text "Um.... Hisui?"
+bgload BG_35.jpg
+setimg HIS_T05.png 62 0
+text "................"
+text Hisui embarrassedly hangs her head.
+text "Um, Hisui.
+text I would have been happy with something light.
+text Something simple, like a pancake."
+bgload BG_35.jpg
+setimg HIS_T08.png 62 0
+text ".... Shiki-sama, you may say that, but a pancake is not very simple."
+text Hisui says so from the bottom of her heart.
+text .... Geez.
+text Hisui really IS pretty poor at cooking---
+text "Hisui, let me see your hand."
+bgload BG_35.jpg
+setimg HIS_T28.png 62 0
+text "Eh.... My hand?"
+text Hisui reluctantly shows me her hand.
+text "Just as I thought.
+text You cut yourself, didn't you?"
+text ".... Yes.
+text Forgive me, I was not even able to fix you anything properly, and now I have shown you this pathetic sight."
+text "Don't be stupid, that's not what I'm trying to say.
+text If you cut yourself, you shouldn't force---"
+text ~
+text She shouldn't force herself, she should treat her wounds.
+text ".... Shiki-sama?"
+text Hisui's white finger is painted a deep red.
+text Her fingertip, wet with the color red.
+text "---This is bad.
+text That's pretty deep."
+text Saying that, I take her arm.
+bgload BG_35.jpg
+setimg HIS_T15.png 62 0
+text "----!"
+text Hisui's body flinches noticeably.
+text I don't even notice.
+text The only thing I care about right now is treating her cut.
+music 08.mp3
+bgload event/HIS_E05.jpg
+text "Ah----"
+text Hisui's voice.
+text ~
+text ---I don't even hear it.
+text Just like back when I was a kid, I place the finger in my mouth and lick the blood.
+text "...... Shiki--sama."
+text ~
+text ---Her slender finger.
+text Red blood does not suit her white finger at all.
+text So I only thought to make her finger clean again.
+text ".... Please stop, Shiki.. sama...."
+text ~
+text ---Why is it?
+text Hisui's blood is extremely---
+text "........ Ah."
+text ~
+text -----sweet.
+text Her blood is sweet, and just from doing this, my body starts to feel hot and---
+text ".............."
+text ~
+text ---I can't hear her voice.
+text Looking up, I see Hisui's face.
+text Blushing cheeks.
+text Deep blue eyes.
+text .... Years ago, the red hair that was so close to me.
+bgload IMA_11.jpg
+music ~
+bgload BG_35.jpg
+text "-----!"
+text I pull back from Hisui.
+text What.. what was I doing just now---
+bgload BG_35.jpg
+setimg HIS_T21.png 62 0
+text Hisui just hangs her head, not moving.
+text "........ Ah."
+text I---even though Hisui hates to be in contact with men, I licked her finger----and I sucked her blood for a long time.
+text ".... I'm sorry.
+text I shouldn't have done that---"
+text I really shouldn't have done that.
+text It's not just in a dream anymore, is it?
+text Enjoying sucking someone's blood, it's not just in my dreams---
+bgload BG_35.jpg
+setimg HIS_T26.png 62 0
+text ".... All you were doing was taking care of my wound.
+text There is no need to apologize."
+text "---No, I---"
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_35.jpg
+text ~
+text ---I can't do it.
+text I can't look at her face.
+text The taste of her blood still lingers in my mouth.
+text I can't forget the feeling of her finger.
+text ~
+text "---I'm sorry.
+text I know I asked for it myself, but I'll be just fine without any food.
+text I'm going back to my room---let me be by myself."
+bgload BG_35.jpg
+setimg HIS_T20.png 62 0
+text Hisui doesn't say anything.
+text Escaping from her wordless stare, I flee to my room.
+bgload IMA_10.jpg
+setvar hisui_regard + 1
+jump s402.scr

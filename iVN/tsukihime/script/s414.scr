@@ -1,0 +1,313 @@
+bgload BG_34A.jpg
+text .... No, I don't feel like it at all.
+text I know Kohaku-san just wants me to feel good, but I can't forget about Yumizuka right now.
+text ~
+bgload IMA_13.jpg
+text These past two days.
+text After I've seen so much of other people's blood, I can't be welcomed by them.
+bgload BG_34A.jpg
+music ~
+text "Sorry.
+text I'm really happy that you asked, but I just don't feel like it right now----"
+text ~
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text ---Thump.
+text Thump.
+text ~
+text "Hu----h?"
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text ~
+text ------My head is pounding.
+text Suddenly.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text ~
+text ---Pound.
+text Pound.
+text ~
+text I feel, very dizzy.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+bgload IMA_10.jpg
+text "Shiki-sama---?"
+text Hisui hesitantly calls my name.
+text .... Hisui seems to have noticed my sudden dizziness which neither Akiha nor Kohaku-san realized, and which I barely realized myself.
+text But that doesn't stop it from getting worse.
+text ~
+text Thud.
+text Just like a puppet without any strings, I collapse to the floor.
+text "Shiki-sama, get a hold of yourself, Shiki-sama....!"
+text Hisui's voice grows distant.
+text .... Ah, I really am pretty pathetic.
+text Just thinking about Yumizuka and what happened, I lose consciousness like this----
+bgload BG_40C.jpg
+music 01.mp3
+text "Ah-----"
+text When I come to, I'm lying in my room.
+text While I was sleeping, Akiha must have been watching me because she is there in front of me.
+text ~
+text "Aki, ha?"
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "Nii-san?
+text You finally got up."
+text Akiha visibly relaxes.
+text "I.... that's right, I must have passed out from my anemia again."
+bgload BG_40C.jpg
+setimg AKI_T04B.png 40 0
+text "Yes.
+text You slept for about seven hours, Nii-san."
+text "---Really.
+text I haven't been sleeping enough recently, that might be why.
+text .... Sorry.
+text I've caused you trouble again."
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "What are you saying?
+text Your condition isn't your fault, right?
+text It is only natural for me to take care of my own brother, Nii-san.
+text You saying that you are a trouble to me is actually more troublesome than me watching over you."
+text ".... I see.
+text Well, I won't say thanks than.
+text It's only natural, since we are brother and sister."
+text "Well, if you can say all that, then I suppose you must be alright."
+text saying that, she takes my temperature.
+text Thirty seven degrees Celsius.
+text That's just one more degree than normal.
+bgload BG_40C.jpg
+setimg AKI_T16B.png 40 0
+text ".... I still feel a little uneasy, but you look fine, so I guess it is okay for me to leave you by yourself.
+text I'll be in my room then."
+text "....?
+text What, Akiha?"
+bgload BG_40C.jpg
+setimg AKI_T04B.png 40 0
+text "Please give your thanks to Hisui.
+text She is the one that cared for you all this time."
+bgload BG_40C.jpg
+text After wishing me well, she leaves the room.
+text ".... Hisui.... was the one who cared for me?"
+text Come to think of it, I heard her voice before I passed out.
+text Even though I'm sure Akiha and Kohaku-san must have said something, Hisui's was the only voice that I heard coming towards me.
+text ~
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text I start to get dizzy.
+text "...... I guess I'm not fully well yet."
+text I take a deep breath.
+text My day off ended before I knew it.
+text .... Well, if Hisui was watching over me all day, then I suppose it wasn't a bad thing----
+bgload IMA_10.jpg
+music ~
+bgload IMA_11.jpg
+bgload BG_45C.jpg
+music 07.mp3
+text ~
+text ~
+text ~
+text ~
+text ---Something seems.. very familiar.
+text An old Japanese-style room.
+text A dark room.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---That is,
+text that's an extremely old memory.
+text When I was very young, I wasn't used to the new people that took me in, so I locked myself up in my room.
+text ~
+text I didn't care for anything; I didn't want to talk to anyone.
+text Always, always alone, and I wanted to be swaddled in a cradle of my happy memories.
+text Even if I knew there would be nothing like that for me ever again, I still wanted to do so.
+text Knock knock, came a sound.
+text ".... Who is it?"
+text "It's me."
+text Ah, she came again.
+text That girl around my age was knocking on the door again.
+text "SHIKI-chan, let's play.
+text You'll get moldy if you stay in a place like that."
+text "I don't wanna.
+text I don't like going outside."
+text Hugging my knees, I huddled in a corner of the dark room.
+bgload IMA_06.jpg
+text .... That girl came every day.
+text She would always knock, never getting tired of it.
+text She would never force me out, so she would not open the door, but just continued to call my name.
+text "Why won't you come outside?"
+text ~
+text Because there's no one that I know outside.
+text Everyone hates me outside.
+text ~
+text "That's not true.
+text Everyone wants to like you, SHIKI-kun."
+text ~
+text Yes.
+text I knew that, but I couldn't believe it.
+text Because my father went outside, and---
+text ~
+text ~
+text ~
+text ~
+text ~
+text And.
+text He was torn to pieces.
+text ".... I see.
+text No wonder you can't trust anyone."
+text ~
+text Yeah, that's why I will always stay here.
+text I don't want any more scary things happening.
+text ~
+text "But, you will just be by yourself all the time.
+text Being by yourself is no fun."
+text ~
+text Even if it's no fun, it is better than being scared.
+text "That's, that's not fun at all.
+text Then, SHIKI-chan, you can believe in me."
+text ~
+text .... You say I can believe in you.
+text That's a little backwards.
+text Don't people normally say, "I believe you?"
+text ~
+text "It's okay!
+text SHIKI-chan, you can trust me and come out!
+text ~
+text .... Fine, but, believe, what should I believe in?
+text "Simple.
+text Even if everyone hates you, I will still like you, SHIKI-chan.
+text Because I like you, I always come and ask you to play."
+text ~
+text ...... Is outside, fun?
+text ~
+text "Yeah!
+text It's much, much more fun than being by yourself-----!"
+bgload IMA_11.jpg
+music ~
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text ---A bright light floods my consciousness.
+text As I open my eyes, the morning light shines through the window.
+text "...... Nnn."
+text I wake from my dream.
+text .... I don't quite remember it, but I remember vaguely watching a dream.
+text It was very nostalgic.
+text The smell of tatami---is that what it was?
+text "Shiki-sama, are you awake?"
+text Knock knock.
+text I hear Hisui's voice.
+text "Yeah, I'm up, so you can come in."
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Yes.
+text Please excuse me."
+text With a bow, Hisui enters the room.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, how are you feeling?
+text If you feel bad, please do not hesitate to tell me."
+text Hisui stares over at me as I lay in bed.
+text .... It seems she is still really worried about me collapsing so suddenly yesterday.
+text "I'm fine, there's nothing wrong with me.
+text I collapsed yesterday because I've been pushing myself recently, but that won't happen again."
+text Yumizuka---the vampire does not exist anymore.
+text Therefore, I won't have to walk the streets late at night anymore, like I did these past few days.
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text "If you say that is the case, then---"
+text I don't know what else she is worried about, but she looks at me uneasily.
+text "----Well, thank you for worrying about me."
+text I jump out of bed.
+text "As you can see, I'm just fine.
+text I'll change real quick, so please go ahead of me to the sitting room."
+text Hisui still stares at me with an expression that looks like she wants to say something more.
+text But, that look passes.
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... As you wish.
+text Well then, please excuse me."
+bgload BG_40A.jpg
+text Hisui places my fresh clothes down and exits the room.
+text ".... What was that all about?
+text Do I look that pale?"
+text My reflection on the window glass looks pretty normal to me.
+text Anyways, I should hurry up and change, then head to the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text I go to the sitting room and see Hisui standing there.
+text Akiha has already eaten breakfast and is now drinking tea.
+text Kohaku-san seems to be in the kitchen.
+bgload BG_34A.jpg
+setimg AKI_T04A.png 40 0
+text "Good morning, Nii-san.
+text You seem like you've recovered."
+text In contrast to me, she seems very calm and collected.
+text "Yeah, good morning Akiha.
+text Sorry for being such a burden last night."
+text ".... Nii-san, don't make me repeat myself.
+text I didn't consider that a burden, and if you are to thank someone, thank Hisui."
+text She closes her eyes in displeasure.
+bgload BG_34A.jpg
+text "----I see."
+text Those words remind me that I haven't thanked Hisui yet.
+text ".... Hisui.
+text This is a little late, but thanks for what you did yesterday.
+text Since my body's this way, I'm sorry I caused you a lot of trouble."
+bgload BG_34A.jpg
+setimg HIS_T04.png 62 0
+text "No, I am the one who should apologize.
+text I was not attentive to your condition."
+text Hisui bows.
+text "No, it's really my fault.
+text You don't need to apologize."
+bgload BG_34A.jpg
+setimg HIS_T17.png 62 0
+text "But protecting your health is my duty.
+text It is my fault for suggesting things without thinking about your health."
+text "........ Uh."
+text That suggestion, she must mean last night's welcome party.
+text Actually, it was Kohaku-san's suggestion, and Hisui only agreed with it.
+text "That has nothing to do with it, so---"
+bgload BG_34A.jpg
+setimg AKI_T04A.png 40 0
+text "Nii-san, this is starting to get a little pointless.
+text If Hisui says that is the case, then let it be."
+text Akiha stands up from the sofa.
+text "Well, it is now time, so I'll excuse myself.
+text Nii-san, can you hurry to the dining room and eat your breakfast?"
+text "Wh.... Of course I will eat breakfast."
+text "Breakfast is already prepared.
+text It's almost seven-thirty, so you should hurry up or you'll be late."
+bgload BG_34A.jpg
+text Akiha elegantly strolls out of the sitting room.
+bgload BG_34A.jpg
+setimg HIS_T04.png 62 0
+text "Shiki-sama, please eat.
+text As Akiha-sama stated, you do not have much time."
+text ".... Right.
+text I'll go to the dining room."
+bgload IMA_10.jpg
+bgload BG_48A.jpg
+text I eat breakfast and go to the entrance of the mansion.
+text Hisui already went to get my bag and has it when I get there.
+text "I'll come back right after school, so I should be home around four o'clock.
+text Oh, and you don't have to wait for me here."
+bgload BG_48A.jpg
+setimg HIS_T04.png 62 0
+text "I understand.
+text Shiki-sama, please be careful on your way."
+text "Thanks.
+text I'll get going, Hisui."
+bgload BG_48A.jpg
+setimg HIS_T16.png 62 0
+text aacing a hand to the bowing Hisui, I dash down the street.
+bgload IMA_10.jpg
+music ~
+jump s386.scr

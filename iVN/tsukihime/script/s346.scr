@@ -1,0 +1,53 @@
+bgload BG_40A.jpg
+text ----That's true.
+text Thanks to my nightmare, I'm still a little unsettled.
+text I have a little time, so I should rest.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+text At some point, I realize that I've slept in.
+text I shake my g.aacy head and look around.
+text ~
+text And then,
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama."
+text "Uwaa!"
+text Hisui is standing right by my bed looking into my face.
+text "Wha, wha----"
+text "Shiki-sama, is the time acceptable?
+text It is past eight o'clock."
+text "----Eh?"
+bgload BG_40A.jpg
+text I look at the clock.
+text Certainly, the arm is pointing towards eight.
+text "Crap, I overslept....!"
+text I jump up from bed.
+text Flustered, I start to change and then realize Hisui is still here.
+text "Hisui.
+text Um, sorry, but.."
+bgload BG_40A.jpg
+setimg HIS_T09.png 62 0
+text "I understand.
+text Please go to the sitting room this time."
+bgload BG_40A.jpg
+text Hisui exits my room.... Her eyes were obviously showing she was upset.
+text ".... Well, of course.
+text She already came to wake me up, so for me to fall asleep again like that...."
+text Ruminating to myself, I quickly change.
+bgload IMA_10.jpg
+music ~
+bgload BG_01A.jpg
+text .... I manage to make it to school.
+text First period has started a while ago and no one is at the gate.
+text I give a sigh as I enter the school building.
+bgload IMA_10.jpg
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+text ----Fourth period ends.
+text ~
+text Lunch break comes, and the school fills with noise.
+text "----Right."
+text Akiha should be waiting in the courtyard.
+text .... Since it's Akiha, I think she probably got Kohaku-san to make her lunch, but I should go buy something just in case.
+jump s347.scr

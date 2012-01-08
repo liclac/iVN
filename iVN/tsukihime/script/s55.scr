@@ -1,0 +1,79 @@
+bgload BG_34A.jpg
+text "Morning, Kohaku-san.
+text Today is a lovely day."
+bgload BG_34A.jpg
+setimg KOHA_T05.png 52 0
+text "Yes.
+text Good morning, Shiki-san."
+text Kohaku-san delivers her ordinary morning greeting with a smile on her face.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Did you sleep well last night?
+text I was worried that you might be inconvenienced, staying in an unfamiliar mansion and all."
+text "Ah, no, there were no problems.
+text I used to live here, after all, and now I've got you to watch over me, Kohaku-san."
+bgload BG_34A.jpg
+setimg KOHA_T05.png 52 0
+text "Oh, you're quite good at this, Shiki-san."
+text "Eh?
+text No, I'm just saying what I think.. what is it I'm good at?"
+text Kohaku-san just looks at me, smiling.
+bgload BG_34A.jpg
+text .... Somehow, I feel embarrassed when she looks directly at me, so I shift my gaze to the side.
+text ~
+text ---And then,
+text ~
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text I realize another stare, one which has been on me silently for a while now.
+bgload BG_34A.jpg
+text "Ah.. hey there."
+text I give a light aace to greet her.
+text Akiha continues to stare at me.. or perhaps, glare would be a better word.
+text "Well.. um.. good morning, Akiha."
+bgload BG_34A.jpg
+setimg AKI_T18A.png -24 0
+text "Oh?
+text You don't have to force yourself to greet me.
+text Please, go right ahead and ignore me.
+text After all, it seems you'd prefer to enjoy the morning with Kohaku."
+text "Uuh.."
+text Akiha's words sting.
+text .... It's not like I had intended to ignore her.
+text I just said hello to Kohaku-san..
+bgload BG_34A.jpg
+setimg AKI_T18A.png -24 0
+setimg KOHA_T02.png 116 0
+text "Please don't tease Shiki-san too much, Akiha-sama.
+text We don't have much time, and Shiki-san hasn't finished his breakfast yet."
+bgload BG_34A.jpg
+setimg AKI_T03A.png -24 0
+setimg KOHA_T02.png 116 0
+text "Well, that's Nii-san's fault for waking up late, isn't it?
+text He's just getting what he deserves for leaving everything to do in a rush in the morning."
+text "Hmph!" Akiha sniffs.
+text .... It seems like my failure to greet her was another point she was unimpressed with, in addition to her objection to my late arrival.
+text "Um.. Kohaku-san.
+text Is my breakfast ready?"
+bgload BG_34A.jpg
+setimg AKI_T03A.png -24 0
+setimg KOHA_T03.png 116 0
+text "Yes, I've laid it out in the dining hall.
+text Please, eat up at your leisure."
+bgload BG_34A.jpg
+setimg AKI_T18A.png -24 0
+setimg KOHA_T03.png 116 0
+text "That won't do, Kohaku.
+text Nii-san has no time to eat breakfast at this time."
+text "Hey, listen, Akiha.
+text It's only seven, so I've got at least that much.
+text It's an easy thirty minute walk from here to school, so I can take it easy for at least ten minutes, can't I?"
+text "Are you saying you're going to finish breakfast in just ten minutes?
+text You're not some starving dog, so if you're going to eat breakfast, I'd like you to take your time."
+text "------"
+text Akiha's words really do have thorns in them.
+bgload BG_34A.jpg
+text "I'm not a dog, Akiha--"
+text Then I remember.
+text Speaking of dogs, there is what happened last night.
+jump s57.scr

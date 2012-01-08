@@ -1,0 +1,14 @@
+bgload BG_29B.jpg
+text "Yumizuka----I.."
+text I.. can't answer.
+text Maybe this makes me a horrible person, but those are my true feelings.
+text I never had any special feelings for my classmate Yumizuka Satsuki.
+text I'm only here because what happened on the way home two days ago left such an impression on me, I couldn't just forget about it---
+bgload BG_29B.jpg
+setimg STK_T10.png 53 0
+text "I thought so.
+text You never even knew I existed, so you couldn't have fallen in love with me."
+if flgP >= 1 
+    jump s312.scr
+fi
+jump s313.scr

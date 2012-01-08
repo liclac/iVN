@@ -1,0 +1,44 @@
+bgload BG_34A.jpg
+text .... Yeah.
+text I've decided not to have any regrets, and I don't want Kohaku-san to worry about me.
+text "I'm in favor.
+text I'm not about to turn down my own welcome party, am I?"
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+text "It's decided!
+text Well, then, I'll prepare the food.
+text Hisui-chan---can you take care of my work for today?"
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg HIS_T02.png 126 0
+text "That will be fine.
+text Sweeping the lobby and the east building?"
+bgload BG_34A.jpg
+setimg KOHA_T03B.png -12 0
+setimg AKI_T04B.png 104 0
+text "Well then, I shall.. what should I do, Kohaku?"
+bgload BG_34A.jpg
+setimg KOHA_T05B.png -12 0
+setimg AKI_T04B.png 104 0
+text "Akiha-sama and Shiki-san should rest in their rooms.
+text I'll prepare dinner early to make time for the party, so if you have anything you need to do, please try and be done by then, okay?"
+bgload BG_34A.jpg
+text Kohaku-san goes into the kitchen, Hisui out to the courtyard.
+bgload BG_34A.jpg
+setimg AKI_T08B.png 40 0
+text "Well then, I'll go to my room."
+bgload BG_34A.jpg
+music ~
+text ~
+text So.
+text What should I do?
+if flgP >= 1 
+    jump s320.scr
+fi
+choice Go and help Kohaku-san.|Go and help Hisui.
+if selected == 1
+    jump s318.scr
+fi
+if selected == 2
+    jump s319.scr
+fi

@@ -1,0 +1,2691 @@
+bgload BG_40A.jpg
+sound SE_04.aac 1
+text .... The knocking begins once again.
+text Knock knock, knock knock, repeating.
+text ~
+text "Shiki-sama, your food has gotten cold."
+text Her voice sounds sad.
+text ".... Akiha-sama and Nee-san have gone out and will not return today.
+text We are the only ones in the mansion right now."
+text Does she want to tell me to come out?
+text "Shut up....!
+text I told you to leave me alone.
+text Why can't you understand that, Hisui.... !?"
+text "--------"
+text I hear a gasp.
+sound SE_09.aac 1
+text Her presence recedes.
+sound SE_04.aac 1
+text .... Yet again, the knocking continues.
+text ~
+sound SE_09.aac 1
+text Her presence recedes.
+text ~
+text .... We repeat this cycle countless times.
+text "Ha--ah, g--"
+text .... Pain.
+text The hunger is nothing.
+text But thirst is killing my burning body.
+text "------------"
+text .... Just what am I doing?
+text Lying crumbled against the wall, hugging my broken body.
+text The closed window, the locked door.
+text "----------"
+text .... Come to think of it, a long time ago..
+text It feels like something like this happened before too.
+text ~
+text ----That was..
+text How long ago was that?
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+music 07.mp3
+text When I was just a small kid, taken to new surroundings and not being used to the new people, I locked myself up in my room.
+text I hated everything and I didn't want to talk to anyone.
+text ~
+text During that time, there was a girl that always knocked on the door.
+text ~
+text Knock, knock, was the sound.
+text Every time I would ask who it was, the voice would always respond "It's me."
+text "SHIKI-chan, let's play.
+text You'll get moldy if you stay in one place like that."
+text I tell her it's none of her business and make her go away day after day.
+bgload IMA_10.jpg
+music ~
+bgload BG_40B.jpg
+sound SE_04.aac 1
+text The knocking sound again.
+text ~
+sound SE_09.aac 1
+text Her presence draws away.
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+music 07.mp3
+text .... That girl came every day.
+text She would always knock, not getting tired of doing so.
+text She would never force me out, but continue to call my name without opening the door.
+text "Why won't you come outside?"
+text I can't go outside.
+text Everyone in the mansion, they all see me as the enemy.
+text "That's not true.
+text Everyone wants to like you, SHIKI-chan."
+text But I can't believe her.
+text My own father believed that, and was killed by Tohno Makihisa.
+text ".... I see.
+text No wonder you can't trust anyone."
+text That's right.
+text So it's easier for me to be alone.
+text "But, you will just be yourself all the time.
+text Being by yourself is no fun."
+text I don't care.
+text This is better than getting killed.
+text Better than being tricked.
+text It's better to be alone and trick myself instead of dying.
+text "Geez.
+text I understand, so you can ***** me.
+text Then you can come outside, right?"
+text Her words then.
+text I.. can't remember exactly what they were.
+text With her voice, that girl said I could do what----?
+bgload IMA_10.jpg
+music ~
+bgload BG_40B.jpg
+sound SE_04.aac 1
+text Knock knock.
+text Hisui really doesn't tire of this.
+text Her surprising endurance reminds me of that childhood memory.
+text "..........?"
+text I don't hear her footsteps.
+text She doesn't seem to have walked away.
+text "........ Hisui?"
+text There is nothing but silence on the other side of the door.
+text Hisui is just standing quietly on the other side.
+text ~
+text Time passes.
+text Hisui's presence doesn't move.
+text All she does is wait by the door.
+text ".... Why will you not come outside, Shiki-sama?"
+text .... That's obvious.
+text Since I can't trust anyone anymore, I'm being by myself.
+text Neither Akiha nor Kohaku, not even I can be trusted, so I can't do anything but lock myself away.
+text .... Yeah, I finally realize it.
+text The thing with Akiha might really be a trivial thing.
+text I am trying to be alone so that I can lock myself up, as I might be the killer.
+text ".... No one?
+text Are you saying you can believe in no one, Shiki-sama?"
+text .... That's right.
+text Therefore, there is no reason for her to worry about me.
+text It's wrong for her to worry that much about me, the one wanting human blood, the one who violated her body so roughly.
+text ".... Hisui.
+text Just go away.
+text It's easier for me to be by myself.
+text This way I won't be a burden to anyone."
+text "That is a lie.
+text That.. that is not fun at all.
+text Shiki-sama, you are telling a lie....!"
+text .... Her voice actually sounds a little angry.
+text "Shiki-sama.
+text If you say you cannot believe in anyone, please believe in me!
+text So please, listen to me for just now....!"
+text .... Her voice.. she sounds like she is crying.
+text She must be really angry as she's not making any sense.
+text "You can believe in me"?
+text That's backwards.
+text Normally, I have to say "I believe in you."
+text "...... Geez......"
+text That's just absurd.
+text I thought the only one who'd make that kind of ridiculous argument was that one girl.
+text ".... Believe in what?"
+text "I do not know....!
+text I just know that.. I like you, Shiki-sama, which is why I am calling to you like this....!"
+text Thud.
+text She knocks louder than ever before.
+text ".... Shiki-sama, please.
+text Open the door.
+text I know I am powerless, but I do know that it will be better than being by yourself....!"
+bgload event/HIS_E01.jpg
+bgload BG_40B.jpg
+music 07.mp3
+text She sounds like she's crying.
+text The tone is different, but it feels similar to what that girl told me back then.
+text "Will you resist again....!?
+text Shiki-sama, you are really in danger like this....!
+text Why--why are you acting like back then....!
+text You promised that when you came back, you would play with everyone, so why....!"
+bgload event/HIS_E01.jpg
+bgload BG_40B.jpg
+text The crying voice of a young girl.
+text "Ah........"
+text I start to remember a little.
+text That's right.
+text Back then, before I was taken to the hospital, I made that small promise.
+text I thought that I would go back to the mansion when I healed, so I just said it without thinking too much.
+text "Shiki-sama---I do not want to lose you right before my eyes, just like before....!
+text So please.... please, open the door.... Shi, ki--"
+text The pounding against the door stops.
+text It seems Hisui has crumbled to the ground in tears.
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text That girl, who would call to me day after day.
+bgload event/HIS_E01B.jpg
+text That energetic, worrying girl that was always by my side.
+text ~
+text ---Just who?
+text Really, who was she--?
+music 08.mp3
+bgload BG_40B.jpg
+text "Hisui....!"
+text Even though I shouldn't have any strength left, I somehow manage to stand.
+text Every time I move, I feel like fainting.
+text But the pain is of no concern right now.
+text ~
+text ----Hisui.
+text Hisui.
+text Hisui, Hisui, Hisui, Hisui----!
+text I drag myself to the door and place my hand on the lock.
+text ".... Yo.... u"
+text My numb fingers don't move as I tell them to, and the lock is difficult to turn.
+text ~
+text The lock finally clinks loose.
+text The door opens.
+text In front of me, I see the figure of Hisui.
+bgload event/HIS_E09.jpg
+text "Shiki-sama---you look.. terrible."
+text With tears still streaming down her face, Hisui stares at me.
+text But I don't care about my body right now.
+text More than that, I---
+text "---Hisui.
+text Are you that girl?"
+text "............"
+text Hisui doesn't answer.
+text Her silence isn't disagreement, but agreement.
+text "Why?
+text ----I thought she was Kohaku-san.
+text You even told me yesterday that you were the child in the mansion."
+text ".... Shiki-sama.
+text That was not me.
+text I think Nee-san was helping you out since you were so weak."
+text "Eh----"
+text ~
+text ----In other words.... The Hisui that I saw yesterday.. was really--Kohaku-san....?
+text ".... Then Hisui?
+text You're the one who played with us when we were kids, and Kohaku-san is---the one who was always in the mansion?"
+text "........"
+text "Why....?
+text I don't understand.
+text Just why are the two of you acting like you traded places?"
+text ".... We never intended to deceive you.
+text I think I became calmer after you were adopted by the Arima family.
+text Nee-san tried to cheer me up by acting very happy, and then, we gradually traded our roles."
+text "But why.... why did it happen....?
+text Hisui.... you were always so energetic."
+text ".... That is not true.
+text I am naturally not active.
+text But when you were there, I tried to follow you as hard as I could."
+text ".... But, I never should have done that.
+text Since I took you out into the garden, you had the accident."
+text I---all I could do was watch in fear as you were killed before my eyes.
+text All I could do was stare at your blood-soaked body.
+text I couldn't even cry, or call for help.
+text .... Since that time, I was unable to understand myself.
+text No matter how I tried, I could not remember how I acted, or how I smiled."
+text ".... When you were dying, I could not do anything.
+text I could only watch.
+text It was as if I was just a doll.
+text So---I thought.. that maybe it would be better if I was just a doll.
+text Maybe I put a curse on myself.
+text Before I knew it, I became silent just like Nee-san.
+text .... Nee-san took my place, doing the work I could not do, smiling because I could not."
+text ".... Wait, Hisui.
+text What you're saying, I don't really---"
+text Understand, is what I wanted to say.
+text "What do you mean I almost died?
+text You know about that accident eight years ago?"
+text ".... Yes.
+text You were not injured from a traffic accident.
+text .... In the courtyard of the mansion, you were killed."
+text "Wha----"
+bgload CMO_06.jpg
+text That's.
+text Not.
+text Right.
+text I'm the one who did the killing.
+text Because I was the one looking down on that blood stained body---
+sound SE_01.aac 1
+text "Ah...."
+text I start feeling light-headed.
+text All the strength drains from my legs and I start to fall---
+text ~
+text "Shiki-sama....!
+text Please, hold on....!"
+text ~
+text .... In that instant,
+text Hisui wraps her arms around me to prevent me from falling.
+bgload IMA_10.jpg
+bgload BG_40B.jpg
+text ""Ah----""
+text .... Her voice and mine overlap.
+text Hisui stands there, desperately holding on to me.
+text We look like we're embracing each other, and Hisui stands there trembling.
+text "........ Hisui."
+text I understand.
+text I understand that she doesn't like to come into contact with men.
+text Even now, her body is trembling all over.
+text "---Hisui."
+text Still, I can't let go.
+text I wrap my arms around her.
+text Her warmth.
+text Her soft body.
+text .... Since we were children, the girl that has always looked after me.
+text ~
+bgload IMA_10.jpg
+bgload event/HIS_E01B.jpg
+text Yeah---there can be no more doubt.
+bgload IMA_10.jpg
+bgload BG_40B.jpg
+text "Hisui.... Finally, we meet again."
+text With my weak body, I embrace her close to me.
+text "Ah.... Shiki.. sama...."
+text Her shaking doesn't stop.
+text But she does not refuse me and wraps her arms around my back.
+text ".... I'm sorry."
+text I don't know what I'm apologizing for.
+text I just feel like there's so many things I have to apologize to her for.
+text ".... Not at all.
+text You do not need to apologize for anything, Shiki-sama."
+text Answering quietly, she takes me to my bed.
+bgload IMA_10.jpg
+music 01.mp3
+bgload BG_40C.jpg
+text I rest in bed.
+text My body relaxes a little bit, the bed being much more comfortable than the floor.
+text Hisui covers me with a clean sheet and brings a glass of water.
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text "Shiki-sama, are you able to drink by yourself?"
+text "Yeah, I think I can manage that."
+text Taking the glass from Hisui, I drink my first glass of water in a day.
+text "Nnnh...."
+text The water quenches my thirst.
+text The water seems to fill me completely, up to my fingertips.
+text I give the glass back to Hisui, and I fall down onto the bed.
+bgload BG_40C.jpg
+setimg HIS_T24.png 62 0
+text "Shiki-sama!?"
+text "---No, no no, that's not it.
+text I actually feel good, I was just relaxing.
+text My health actually seems better."
+bgload BG_40C.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama, do not scare me like that.
+text It would not be very surprising if you really did collapse, in your condition."
+text Hisui looks at me with uneasiness in her eyes.
+text .... That look makes me want to thank her, and also makes me feel regret.
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text ".... Shiki-sama?
+text Does it hurt anywhere?
+text If you are in pain, please do not hesitate to tell me."
+text "No, nothing really hurts right now."
+text .... Well, my heart hurts.
+text Hisui is worrying about me right now, just like always.
+text All I've done in return to her is to act stupidly.
+text Not even realizing her absolute devotion, all I've done is bring pain to her heart.
+bgload IMA_10.jpg
+bgload event/HIS_H02.jpg
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text And that time, when I did those terrible things to Hisui.
+text .... Even though it turned out to actually be Kohaku-san, I still did them to Hisui.
+text ~
+bgload IMA_10.jpg
+bgload event/HIS_H14.jpg
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text And that's not all.
+text I dreamt about killing people, and in accordance with that, I dreamt about violating Hisui.
+text .... I,
+text I do not deserve to be cared for by Hisui.
+bgload BG_40C.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama, was the water not pleasing to you....?"
+text I shake my head no.
+text "That's not it.
+text .... Um.. thanks for everything, Hisui.
+text I never even thought that drinking water could help me this much.
+bgload BG_40C.jpg
+setimg HIS_T03.png 62 0
+text But, that's enough.
+text I don't deserve to be treated this well by you."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "---Shiki-sama, are you still saying that?
+text I just want to help you, it doesn't matter if you deserve it or not."
+text "No, Hisui.
+text It's not you."
+text .... Yeah, I'm the one at fault here.
+text Hisui gives me nothing but devotion, but I repay her with cruelty.
+text ".... If you are here with me, I'll probably do something horrible again.
+text So before I do anything, please, leave.
+text .... I beg you.
+text I--I don't want to hurt you anymore, Hisui."
+bgload BG_40C.jpg
+setimg HIS_T17.png 62 0
+text Hisui doesn't say anything.
+text But she has to understand what I am saying.
+text After several seconds of silence, it appears she understands as she raises her head and nods.
+bgload BG_40C.jpg
+setimg HIS_T12.png 62 0
+text "I refuse."
+text ".... Yeah, I'm sorry it had to be this way, but.... W, wait a minute.
+text Hisui, what did you just say....?"
+bgload BG_40C.jpg
+setimg HIS_T08.png 62 0
+text "I said that I refuse.
+text Those words are not enough, and I cannot leave you alone.
+text Until you can give me a valid reason, I will not follow your command."
+text Hisui responds clearly.
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Please tell me the reason, Shiki-sama.
+text Unless you do, I will not move one step."
+text "Wha--"
+text Her eyes are dead serious.
+text I bet she could tell if I'm telling a lie or an excuse, and more than anything---I don't want to lie to her.
+text ".... I get it.
+text So if I tell you the reason, you'll go?"
+text "Yes.
+text If it is something that can convince me, then I will fulfill your command."
+text ...... *sigh*
+text I take a deep breath.
+text .... Mentally prepared, I open my mouth.
+text "Hisui, I see dreams where I kill people.
+text Every night, I dream that I kill someone I don't know and drink their blood."
+bgload BG_40C.jpg
+setimg HIS_T08.png 62 0
+text ".... You see dreams.... Is that supposed to be your reason, Shiki-sama?"
+text ".... No, the thing is, I can't tell if they are dreams or not.
+text Maybe it's that I don't notice, but I might be killing people in reality.
+text .... Just like the old man.
+text There might be another self in me I don't know about, walking the streets killing people."
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text "Shiki-sama, that--that is impossible.
+text You are acting like the normal Shiki-sama right now."
+text ".... Right now I am.
+text But sometimes, I get these strange thoughts.
+text The dreams I see.. they may simply be my memories."
+text .... And truthfully, I did kill someone eight years ago.
+text I actually have the memory of looking down on that blood-stained kid.
+bgload BG_40C.jpg
+setimg HIS_T08.png 62 0
+text "Shiki-sama, please get a hold of yourself.
+text Thinking that you are a blood sucking monster is surely too strange."
+text ".... Yeah, it's strange, but I can't laugh it off.
+text .... Hisui, you don't know it, but I guess those of the Tohno family are different from normal people.
+text The old man had split personalities, and even Akiha--"
+text ~
+text ---was sucking Kohaku-san's blood.
+text "Anyway, the people of the Tohno family are not normal.
+text So I'm not normal either.
+text I can't stop myself from lusting after you and Kohaku-san.
+text It's alright now, but if I get that headache again, for sure---I will do something terrible to you, Hisui....!"
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "---Shiki-sama, Nee-san and I have known all of that from the very beginning."
+text "Huh....?
+text You knew?
+text Knew what?"
+text "That the people of the Tohno are not normal.
+text No, in other words, you were the only one that did not know.
+text Nee-san and I have known that since we were first brought to this mansion."
+text "------Wha.."
+text "But do not think that is anything strange.
+text Nee-san and I, we also carry a power that is not normal.
+text It was because of that power that Makihisa-sama brought us here.
+text Regarding the Tohno family, we know much more than you, Shiki-sama."
+text "Certainly, you can call the Tohno blood abnormal.
+text But, Shiki-sama, that has nothing to do with you.
+text You do not have a split personality like Makihisa-sama nor are you a vampire that sucks human blood.
+text Shiki-sama, you are rather someone closer to Nee-san and I."
+text ".... I'm, closer to you....?"
+text "Yes.
+text You are definitely not a killer.
+text .... Please, just trust me for now and let me take care of you."
+text ".... No.
+text It still doesn't make a difference to the fact that, um.... I still want you.
+text If you remain here, I'll do something I can't take back."
+bgload BG_40C.jpg
+setimg HIS_T26.png 62 0
+text "U---um, about this problem, will you allow me to ask a question....?"
+text "Eh..?
+text Yeah, I don't mind...."
+bgload BG_40C.jpg
+setimg HIS_T28.png 62 0
+text "Um, Shiki-sama, um.... Do you not like Nee-san and I....?"
+text "------Huh?"
+text Hisui asks something totally absurd and she starts fidgeting with her fingers.
+text Do I not like Hisui and Kohaku-san?
+text Nothing could be further from the truth.
+text ".... Now look.
+text There's no way I could ever not like either of you.
+text I'm always thankful to Kohaku-san, and to you too.... um, I'm always thinking about how thankful I am to you."
+bgload BG_40C.jpg
+setimg HIS_T22.png 62 0
+text She lets out the breath she was holding.
+text Hisui visibly relaxes for some reason.
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text "Then there is no problem.
+text Your condition has put you under a lot of stress.
+text This caused things in your mind to come up into your dreams.
+text That means your thoughts are your true feelings.
+text So it is not odd to feel that way if you have any liking toward us."
+text "Ah.... That's true, but.... !
+text Even still, it's strange to lust after the both of you like this."
+bgload BG_40C.jpg
+setimg HIS_T03.png 62 0
+text "Yes, it is a bit dangerous.
+text But Shiki-sama, you have always endured it, right?
+text Then it will not be a problem.
+text You say that you are dangerous, but you are a stronger person than that.
+text If you have held out for this long, then you can still do so, right?
+text Besides, it is your own will, so in no way do you have a split personality."
+text "Well.... That theory may be right, but...."
+bgload BG_40C.jpg
+text .... It isn't that simple.
+text But just seeing that trusting smile, I feel like I have to hold on no matter what.
+text ".... Alright.
+text If you say so, then you can be close by me.
+text I will try to hold myself in check as much as possible."
+bgload BG_40C.jpg
+setimg HIS_T20.png 62 0
+text "Eh----no.
+text That.. that is not exactly what I meant.."
+text Hisui blushes and looks down.
+text "Hm....?"
+text I don't get it.
+text Hisui just looks up at me from time to time with a difficult expression.
+text "Hisui?
+text Did I say something weird?"
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text "................"
+text Hisui just stares at me.
+text "--------?"
+text I start to feel very uncomfortable.
+text My heart beats faster under tension.
+text I feel uneasy, like I got caught with something and am about to get yelled at for it.
+text ~
+text ------Thump.
+text ~
+text ------Thump.
+text ~
+text ------Thump.
+text ~
+text ------Thump.
+text ~
+text ------Thump.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text "Cr--"
+text .... Crap.
+text I start to feel a little dizzy, probably because I'm nervous.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text "Uu.... "
+text My consciousness starts to flutter.
+text .... I forgot all about it, but my body isn't in the condition to keep talking.
+text "Ah........, ------"
+text I feel like throwing up every time my heart pounds.
+text Hisui---I hate to do this to her, but maybe it's better if I just sleep right now----
+bgload BG_40C.jpg
+setimg HIS_T17.png 62 0
+text "Shiki-sama?
+text Are you suffering?"
+text "Eh.... Ah.
+text Just.. a little bit.
+text But it's not serious, you don't have to worry about it."
+text ".... No.
+text At this rate, you will surely die.
+text Nee-san said that you may not last until evening."
+sound SE_01.aac 1
+text "Wha----"
+text I feel a chill as I hear that.
+text .... It's not like I haven't thought about it.
+text When this body did not heal.
+text I've imagined many times that my weakening body will only end in death.
+text ~
+text But still,..
+text .... to hear it from someone else like that sends a chill up my spine.
+text ".............."
+text I.. don't know what to say.
+text Should I just accept it?
+text Should I deny it?
+text ".............."
+text I can't do either.
+text I have felt that my body would die pretty soon.. but it just doesn't feel real.
+text It's like I'm just watching the life of some sick person on some sort of television show.
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text ".... Akiha-sama and Nee-san left in order to save you.
+text .... But they may not make it in time.
+text Even if they are successful, if your body runs out of energy before that, there is no point."
+text ".......... Well, I guess you're right."
+text I don't know what the two of them are doing.
+text She says they are going to save me, but are they searching for something that can cure my condition?
+text But, all that work....
+text it'll be useless if I die before they get home.
+bgload BG_40C.jpg
+setimg HIS_T04.png 62 0
+text ".... But, you know?
+text There is a way to give you energy so you will be able to last until they come back."
+text ".... ?"
+bgload BG_40C.jpg
+setimg HIS_T20.png 62 0
+text ".... Please excuse me, but if you would allow it--then I can perform that method."
+text Hisui hesitantly looks at my face.
+text Hisui says there is a method to save me at least for tonight.
+text If that is true, then I have no reason to refuse it.
+text ".... It isn't a matter of allowing, or not.
+text If it can help me even a little bit, then we don't have a choice.
+text I'd like to ask for it myself."
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text "---Yes.
+text Then Shiki-sama, could you please close your eyes for just a bit?"
+text "Close my eyes?
+text Well, sure.... Is this good?"
+music ~
+bgload IMA_10.jpg
+text ".... That is fine.
+text Please do not move."
+text I hear her footsteps.
+text The rustling of her clothes tells me she is coming closer.
+text And then..
+text Something shifts onto the bed and I feel something touch my lips.
+music 08.mp3
+text "-------"
+text A tender sensation.
+text I feel the warmth of a human body, and it must be Hisui's lips.
+text ~
+text ----My body heats up.
+text ~
+text Her lips hesitantly pressing up against mine.
+text This sensation, and the feeling of her breathing, seems to fill my body like a drug.
+text "Ah----"
+text Thump, Thump.
+text With just a kiss, my mind goes totally white.
+text I am pleasantly floating away.
+text All my pain, all my tiredness melts away like ice on a summer day.
+text "Nn...., .... ah."
+text .... Hisui exhales.
+text That small contact between us starts to get heavier.
+text "Nn----Hisu, i"
+text .... I don't know what I'm doing.
+text It's just that her lips feel so good, so I press back with mine.
+text ".... Shiki.... sa--ma...."
+text Hisui hesitantly starts to pull back.
+text I don't want that and I pull her closer to me.
+text "Nn.... ah."
+text Pulling her in, I seek out her lips.
+text "Ha.... n, n....!"
+text Hisui resists slightly as she might be having a hard time breathing.
+text "------Ha--ah."
+text But I can't stop.
+text Her breath.
+text Her lips.
+text Her warmth.
+text It all feels so good.
+text With my eyes still closed, I slip my tongue in between her lips.
+text "N--n!"
+text Unlike before, now she really tries to pull back.
+text I embrace her body to hold on to her, and I continue to seek out her tongue.
+text "A.... n, n....!"
+text If I open my eyes, I bet I'll see her distressed face.
+text If I saw that, I'd let her go right away.
+text And so, instead,
+text I continue blindly twirling my tongue against hers.
+text "N.... a, a...."
+text Our wet tongues intertwine.
+text Just the sensation of my tongue against another's drives me wild.
+text Just the fact that my sensitive tongue is feeling someone else's tongue makes my rational thought about to explode.
+text ~
+text And because it is Hisui's tongue, it crumbles completely away.
+text "A.... n, n.... ah...."
+text The red, tangled tongues continue their dance.
+text Even though our lips separate, our tongues have become one.
+text .... This isn't just some sort of metaphor.
+text Our tongues are stuck together with all our saliva.
+text ~
+text ---I wonder how long that lasted?
+text ~
+text Before I know it, my body is burning, and Hisui is at the side of the bed adjusting her clothes.
+bgload BG_40C.jpg
+text Thump.
+text ~
+text "Ah----"
+text ~
+text Thump.
+text Thump.
+text ~
+text I'm out of breath.
+text ~
+text Thump, Thump, Thump.
+text ~
+text "My.... body.. it feels incredibly.... warm."
+text ~
+text My heart races uncontrollably.
+bgload BG_40C.jpg
+setimg HIS_T22.png 62 0
+text .... Hisui stands by the side of the bed, averting her gaze in embarrassment.
+text I----don't exactly know why she did that.
+text ".... Hisui.... just now, why--"
+text Why did she kiss me?
+text Why did nothing more than a kiss heal me better than any medicine?
+text I don't understand any of it.
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text ".... That is the way I can help you, Shiki-sama."
+text "Help me---but, how?"
+text "I really don't know how.
+text It is just that Nee-san and I can transmit some of our energy to those that we press our bodies against.
+text .... Um, if we exchange bodily fluids, we are able to recognize that person as someone like us, and it lets us share our energy and amplify their powers."
+text "Wha--what are you talking about?"
+text "Ever since we were born, we have had special bodies.
+text We are not like the Tohno family, but we are special people born from normal people.
+text Makihisa-sama called us 'Synchronizers'."
+text ~
+text ----Ah.
+text I think that word was in the old man's journal.
+text "Makihisa-sama brought us here to suppress his increasing 'Tohno self'.
+text We are more suited for amplifying one's power rather than sharing our power.
+text .... Makihisa-sama synchronized with Nee-san with his human side, and barely stayed sane."
+text ".........."
+text No, she doesn't have to tell me all this.... but by "The exchange of bodily fluids", it must mean---
+text " .... I don't understand completely, but your body.. it's sort of like a medicine or something....?"
+text "Yes.
+text Normally, it would not have much of an effect, but now your energy is very low.
+text I believe you will be able to at least return to your normal state even with my powers."
+text "----I see.
+text That's why I feel so good right now."
+text I squeeze my hands.
+text ".... Moving.
+text Yeah, I can move....!"
+text My joints are a little stiff, but I can move my body with my own will.
+text Being able to do such a simple thing makes me so happy right now.
+text "Th, thank you Hisui!
+text It looks like my body is back to normal, thanks to you!"
+bgload BG_40C.jpg
+setimg HIS_T20.png 62 0
+text I throw my arms up in the air.
+text But, Hisui still looks uneasy.
+text .... As I think back.
+text Her breath felt so good, I forced Hisui to continue kissing me.
+text "Ah.... I'm, sorry.
+text Your breath, it.. felt so good, so I--"
+text "No, what happened before was a good thing.... Um, I don't think I would have been able to transfer any fluids by myself."
+text Hisui looks at me, embarrassed.
+bgload BG_40C.jpg
+setimg HIS_T28.png 62 0
+text "But, Shiki-sama, this is a temporary treatment.
+text You will return to your original state soon."
+text "Wha----for real?
+text My previous state---you mean back to the way I was?"
+text No.
+text Anything but that.
+text Being able to move like this again, I finally understand.
+text These past few days, my body has been terribly wrong.
+text So now, since I can move again, thinking about my body going back to the way it was sends shivers down my spine.
+text ".... What should I do?
+text I don't ever want to go through that again.
+text Being like a puppet with its strings cut, my head feeling like it's being split open.. This time---"
+text Before my body would stop, I think my mind would break first.
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text "Shiki-sama.
+text I do not want you to have to return to the way you were before either.
+text Therefore.... can you.. share your body with me a little deeper this time?"
+text With her fingers trembling, she says this while looking directly at me.
+text ~
+text ----My heart skips a beat.
+text ~
+text Sharing our bodies deeper means..
+text Um, it means exchanging our bodily fluids, so that would mean----
+text "----That's, um--"
+text Hisui remains silent.
+text .... Should I be the one to say it?
+text "---In other words, I have to make love to you?"
+bgload BG_40C.jpg
+setimg HIS_T21.png 62 0
+text Hisui nods wordlessly.
+text "----------"
+text My face instantly flushes crimson.
+text The very thought makes me happy, but---
+text "---No, that's bad.
+text I can't go back to the way I was, but that's bad.
+text Using you like that to make me better, that's just wrong..!"
+text I emphatically refuse her offer.
+bgload BG_40C.jpg
+setimg HIS_T05.png 62 0
+text ".........."
+text Hisui is still silent.
+text It seems more like she's hurt by my words instead of being relieved by my refusal.
+text "No, it's not that I don't want you....!
+text It's just strange.
+text It might help me, but to use your body like that, it's wrong."
+bgload BG_40C.jpg
+setimg HIS_T13.png 62 0
+text ".... There is only something wrong with you, Shiki-sama.
+text I understand that you do not want me.
+text But if I do not do this, you will die tonight.
+text So how can you say such things like that?"
+text "Ah---no, that is--"
+text .... Right.
+text That's why Hisui is suggesting this preposterous "plan".
+text .... Hisui, who can't even stand contact with the opposite gender, is suggesting this because my life is at stake.
+text So---she says all that for my sake.
+text She's saying I can sleep with her, with like or dislike having nothing to do with it---
+text "Da----"
+text Isn't it okay?
+text I don't want to die either.
+text I mean, all I have to do is sleep with her, and if I don't like that, then there really is something wrong with me.
+text "------"
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text Hisui watches me quietly.
+text Her fingers are still shaking.
+text As uneasy as I am---she is still far more uneasy.
+text But she hides it, and tries to act normally.
+text She is doing so much for me, so why---
+text "Hisui----is this.. alright with you?"
+bgload BG_40C.jpg
+setimg HIS_T16B.png 62 0
+text ".... Yes.
+text If I can be useful to you, then I will be satisfied."
+text "---No!
+text That's not what I meant, um---"
+text Is she really okay with giving her body to someone she does not love?
+text I.. don't like it.
+bgload BG_40C.jpg
+text I want to sleep with her.
+text I think I love her, and I want to do things for her sake.
+text But those are two different things.
+text Simply put, I don't want to sleep with her because I don't know if Hisui loves me or not.
+text "---Is it okay, Hisui?
+text Giving out your body like that, won't you regret it later?"
+bgload BG_40C.jpg
+setimg HIS_T26.png 62 0
+text ".... I do not know.
+text But I just have one request to ask of you."
+text "Request....?"
+bgload BG_40C.jpg
+setimg HIS_T02.png 62 0
+text "Yes.
+text Shiki-sama, if you were to like me even just a little bit, just for now---please, think only of that.
+text If you are to love me just for now---I would never regret this."
+text .... Hisui speaks, still trembling.
+text "-----"
+text .... I'm stupid.
+text I've never felt more stupid than I do right now.
+text "--Hisui.
+text I"
+text .... What do I mean by "I don't want to if Hisui doesn't love me"?
+text Really---I don't deserve to say that.
+text "---Come here.
+text Right now, I really need you."
+bgload BG_40C.jpg
+text .... Hisui draws closer.
+text Reaching out my arms, I draw her towards me.
+text "---But don't get me wrong.
+text Even without my condition, I've always---wanted you the most for all this time."
+text ~
+text Then.
+text Bringing her down to the bed, I run my fingers across her body.
+music ~
+bgload IMA_10.jpg
+text I untie her ribbon and it swishes downwards.
+text "Ah...."
+text Hisui's voice quivers.
+text I pretend I didn't hear her, and I untie the belt of her apron behind her back.
+text "Shiki-sama?
+text Um...."
+text Hisui looks at me with unknowing, uneasy eyes.
+text "Hisui, is this your first time....?"
+text "Ah.... yes.
+text Please, forgive me."
+text Her voice fades to a whisper and her cheeks blush bright red.
+text Quivering, she clenches the sheets as if to fight back her fear.
+text "But Shiki-sama, I.... I was thinking that it might not be necessary to take my apron off.."
+text It doesn't look like she wants to take off her clothes and bare herself.
+text She looks uneasily at me, like a scared rabbit.
+text .... But that just makes my heart go on fire.
+text "Nope.
+text If you don't take off your clothes, then I won't be able to do anything.
+text .... Hmm, I wonder how this comes off."
+text Holding onto Hisui from behind, I search for something like a zipper.
+text But I can't seem to find it.
+text "Hey.
+text Hisui, how did you put this on?
+text This.. doesn't really look like it can be taken off."
+text "Um.... This is a one piece, so it is difficult to take off in this position."
+text ".... I see.
+text I guess that can't be helped."
+text "Yes.
+text So just like this, um.... I want you to...."
+text "------"
+text Not a chance.
+text If I get this far and still don't get to see her body, I'll kill myself.
+text "No.
+text Hisui, stand up and take it off.
+text If you don't, it'll be a little difficult."
+text "Eh---ah, eh, but, if I do that, I'll be naked."
+text "Yeah.
+text I want to see your body.
+text I can't make love to you with your clothes on, I'll be missing out too much."
+text "Missing out too much..?
+text Shiki-sama...."
+text She looks troubled.
+text Hisui herself is embarrassed, but it seems she is still trying to follow my orders.
+text "Ah...... Y, yes."
+text After some consideration, she quietly stands up.
+text ".... Shiki-sama, can we turn off the lights?"
+text "----Hm."
+text That's a big minus.
+text I hadn't realized it, but it's quite dark outside.
+text If I turn off the lights, there's only the moonlight to light up the room.
+text ".... I do not want to otherwise.
+text But if you insist, I will follow your orders.
+text .... But I might hate you for that, though."
+text "Ah----"
+text .... She's good.
+text She never asks anything for herself normally, but her words strike me where I'm weak.
+text ".... I understand.
+text I'll turn off the lights, so take off your clothes."
+text I flick the switch off.
+text At the same time, I hear her clothes coming off.
+text She must be used to them, as she takes off her maid uniform rather easily.
+bgload BG_40D.jpg
+music 05.mp3
+bgload event/HIS_H12.jpg
+text Moonlight provides the only illumination.
+text I can't see her naked body clearly, and I can only see her outline.
+text ~
+text ---No.
+text Even still, it is more than enough.
+text The curves of her body that were always hidden by her maid uniform can be seen clearly now.
+text Her breasts are not large, but they're not small either.
+text Her perfectly shaped mounds do not look that soft, but are balanced somewhere between those of a girl and those of a woman.
+text Her exquisite breasts are both beautiful and erotic.
+text Her body is slender yet not skinny.
+text Her fragile, delicate, soft looking body.
+text Her femininity, normally hidden, now embraces my senses.
+text ".... Shiki-sama....?"
+text "Ah--sorry.
+text I was just mesmerized by your beauty.
+text Now, come on over, Hisui."
+text I hold out my hand from the bed.
+text After briefly hesitating, she comes toward the bed, looking down.
+text I sit cross-legged on the bed.
+text Hisui does not get on the bed, but stands by the bedside.
+text "......"
+text Hisui mumbles that she doesn't quite know what to do.
+text "-----"
+text My heart pounds furiously.
+text I have the uneasy feeling like I'm about to do this to a pure innocent girl.
+text I let my mind go numb, and I slowly let my fingers touch her arms.
+text "--!"
+text Hisui reacts with a jerk.
+text But she tries not to react too much and endures it.
+text ".... Hisui.
+text I'm going to do it now.... are you absolutely sure that you're okay with this?"
+text ".... Yes.
+text Please.. do as you wish.
+text Please, love me."
+text "---------"
+text As soon as I hear that, something flies away.
+text My worries over Hisui completely vanish.
+bgload IMA_10.jpg
+text "......!"
+text I grab her arms.
+text "Aah....!"
+text Her delicate body quivers nervously.
+text I ignore it all and caress her neck with my tongue.
+bgload event/HIS_H13.jpg
+text "Ha--a, n--!"
+text Hisui rolls her head back.
+text Her body tenses up.
+text ".... Just relax.
+text I won't go that fast, so don't worry."
+text I move my face from her neck down to her collarbone.
+text My tongue makes a sticky path as it travels.
+text "Ah.... Ye.... yes, relaxed...."
+text Hisui stands still, as if she is some sort of a doll.
+text I bet she won't move from that position unless I force her onto the bed.
+text But for now, this is better.
+text ".... Mm.... Hisui, your skin tastes good."
+text "Ah......!"
+text Her body trembles.
+text My words seem to affect her even more than my tongue going down to her breasts.
+text But that's over.
+text Holding her gently by the arms, I take my tongue onto her breasts.
+text ".... Aah.... nn.... ah."
+text I move my wet tongue.
+text I lick her perfectly shaped breast from the crevice outward.
+text "Mmm.... Hisui, you don't seem to be feeling good here."
+text Saying so, I lick her nipple.
+text "....!"
+text Her body jerks.
+text But I already have her by her arms.
+text If there's anything she can do, it's..
+text "Ah.... ah, n, no...."
+text Kill her voice and look away.
+text I roll around her nipples with the tip of my tongue.
+text "N--ah, naah....!"
+text I lick around.
+text Her pink nipples start to harden.
+text "What's this already?
+text You look so calm, but you're pretty erotic, Hisui."
+text ".... Ah.... n, no, I'm, not, ....!"
+text ---Before she even has a chance to finish, I suck her breasts along with her nipples.
+text "Haah----ah, mm----"
+text Maybe she is really embarrassed by being called erotic, she desperately tries to hold her voice in.
+text ~
+text .... But, it's not that she is sensitive.
+text ~
+text The nipples harden after only light stimulation.
+text The sensitive part that hardens when felt by someone, no matter how much the woman does not want it.
+text That's the nipple, so actually, Hisui herself has nothing to do with this.
+text "Mmm.... Already this hard.
+text In that case.... maybe it'll be okay if I use my teeth."
+text I bite down.
+text "Aah------!"
+text Her jaw rises.
+text "Shi, Shiki-sama, th, that----ah--!"
+text I caress her with my tongue after biting down.
+text "Haa--ah, mm.... nnna.."
+text She feels some pain, then some pleasure, and her body goes powerless.
+text "How cute.
+text Your body reacts honestly, Hisui."
+text "Eh...."
+text It feels like she got warmer.
+text Maybe it's not my imagination, but it really did get warmer.
+text Her white skin has turned a shade of light pink.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ".... Alright, now let's...."
+text Releasing her arms, I hug her closer to me.
+text "Ah...."
+text Hisui falls onto the bed.
+text I lie down too, on top of her.
+text "Shiki-sama.... Um."
+text "Hold on.
+text I still haven't, gotten a good look at your most important part."
+text "Eh--!
+text Shi, Shiki-sama, that is not necessary, so....!"
+text Hisui backs away bit by bit.
+text But the more she does so, the more she gets in a position where I can take a good look at her.
+text ".... Nn,...."
+text I bury my face in her soft looking stomach.
+text Since Hisui runs away, I am unable to lick her below her bellybutton, but I don't care.
+text "Ah, ooh....!"
+text Her body arches upwards.
+text With both hands, I grab her breasts from below.
+text "Aha, ah, n--!"
+text Her voice jumps up to meet my rhythm.
+text "Nn, n, n....!"
+text Her sweet, moaning voice.
+text The breasts I grabbed from below feel small indeed.
+text I could cover them with my hand if I opened them up.
+text They don't even bulge out past my fingers.
+text "Ah.... mm.... n.. ah, n.... n."
+text Pinching her nipples with my fingers, I continue massaging her breasts softly.
+text While Hisui immerses herself in that light pleasure, I arrive between her legs.
+text .... Her thin pubic hair.
+text Her red flower bud.
+text Below her swelling lips, her pink, throbbing entrance.
+text ~
+text .... And her dripping, clear honey.
+text I didn't think she was, since she stifled her voice so much, but it looks like she is pretty turned on already.
+text ".... Mmn."
+text As if I'm tasting her,
+text I lightly glide my tongue around her entrance.
+text "Nn, ahh......!"
+text Hisui arches her back in pleasure.
+text "Ah.... Shiki-sama.... please.
+text Don't.... look there."
+text Hisui blushes furiously.
+text "But if I can't see, I won't know.
+text Here, I can't do it like this so you move too."
+text "Eh.... move?
+text What should I move....?"
+text She has such a serious expression on her face, I'm the one who gets embarrassed.
+text "Your legs.
+text If you don't open them, I can't go in between them.
+text Here, open them like this."
+text Grabbing her thighs, I pry them open.
+text "Ah----no....!
+text No, stop, Shiki-sama....!"
+text Hisui desperately pulls back again.
+text But I'm not about to stop here.
+text ~
+text With her legs spread far apart, I can see everything clearly.
+text It really does look a little grotesque, but at the same time, unbelievably cute.
+text "Mn...."
+text I use the tip of my tongue to separate her folds.
+text "N, ah--!"
+text Hisui reacts strongly to my slight touch.
+text It is wet with her love juice.
+text .... I'm worried how much longer my body will actually last, so even though her responses are so cute, I can't take up too much time.
+text "---Hisui.
+text I'm going to go, so relax.
+text If it hurts, just tell me and I'll stop."
+text "Y.... yes.... please, Shiki-sama...."
+text Nodding at Hisui's aacering voice, I unzip my pants.
+text My manhood urgently sticks out of my pants.
+text "Ah...."
+text Hisui sounds like she's seeing some kind of ghost.
+text ---Just like that.
+text I hold my hardened self and place my tip by her entrance.
+bgload event/HIS_H05.jpg
+text "N----"
+text She doesn't even resist.
+text Hisui is so wet, there's no problem putting it in her.
+text But that's just only the tip.
+text "Ah........, n------"
+text Her eyes wide in surprise, Hisui stares at where the two of us are joined.
+text The ripping of flesh.
+text As soon as my tip enters, her body jerks back.
+text "Haa.... ah.... aa...."
+text Holding back her tears, she just stares at me.
+text --She can't be feeling any pleasure right now.
+text Hisui is just gaping at where our flesh meets, trying to bear the pain.
+text ".... Ah.... ha, Ah....!"
+text Her breathing is wild.
+text Hisui is enduring her pain.
+text But, she does not admit her pain.
+text "Nn.... n, nnN, Ah----!"
+text Hisui takes in everything I do.
+text And I---entranced by her warmness, I'm about to melt.
+text *pant*--*pant*----*pant*----
+text Hisui isn't the only one breathing hard.
+text She's so tight.
+text Her insides are like a wall of flesh.
+text It's probably because she has never experienced it, but it is really hard to push in, and her walls just wrap around me.
+text "Nn--ah, ha, ah----"
+text But what is this feeling?
+text As I enter her, my whole body comes alive.
+text My breathing gets wild.
+text My heart starts pumping harder.
+text I burn with passion.
+text "H--ah."
+text My breath is hot.
+text I feel as if I'm breathing fire.
+text "--Hisu--i--"
+text Now I--I can't breathe.
+text "Ah.... Are you, alright, Shiki, sama?"
+text Pain wreathes her voice.
+text But still, she's worrying about me.
+text ~
+text -----Thump.
+text ~
+text So cute.
+text I push in harder, not caring if either one of us breaks.
+text "Ah--ha, ah----!"
+text She tightens around all around me.
+text My tip is completely inserted.
+text My penis rips through her insides uncaringly.
+text They grip me tightly.
+text Her hips try to run away from the pain while still holding on to me.
+text "Hisui.... does it hurt....?"
+text "Ha.... ah.... N, No----"
+text Hisui weakly shakes her head.
+text All she does is earnestly try to catch her breath.
+text Looking down,
+text I can already see blood pouring from her.
+text Her virginity is already taken.
+text Even still, she didn't even say one word---she never said it hurt.
+text ".... I'm sorry, I should have been.... more gentle."
+text I push in my hips.
+text As if to betray my words, I push even more forcefully.
+text The sound of our breathing fills the room.
+text My hips pound back and forth.
+text I take my inserted shaft, pull out a bit, and insert it once more.
+text "Mm......!"
+text Not being able to resist the force, Hisui tightens even harder.
+text .... Pull.
+text ~
+text "Ah.... ha, ah."
+text ~
+text .... Thrust.
+text ~
+text "Hwaa--!
+text Ah, oh,n--ah."
+text ~
+text Pull,
+text ~
+text "Ha--ah, ah......"
+text ~
+text Thrust.
+text "N, ah.... !
+text Ha, ooh, ha, n....!"
+text ~
+text Pull,
+text ~
+text "Ah--Shi, Shiki, sa--"
+text ~
+text Thrust....!
+text ~
+text "Ha----ah, Shiki.. sama--!"
+bgload BG_40D.jpg
+text .... Her voice echoes in the air.
+text But, I won't stop.
+text ~
+text Sliding, sliding, sliding.
+text ~
+text As I continue the cycle, it gets better inside of Hisui.
+text Her tenseness eases, and she starts to accept me in her as her walls tighten around me and contract.
+text "Ha.... ah, aha.... nn----!"
+text But she still sounds like she is in pain.
+text Her breathing is wilder than mine and her body is shaking.
+text "Hisui--this.."
+text If it hurts, I should make her feel better quickly.
+text "Ah----aah, aah, aah, aah....!"
+text But I can't stop.
+text Exchanging body fluids had already been done once I was inside her.
+text But I want to continue.
+text "N--ah, ha, ha, n----!"
+text Her voice rises and falls in harmony with my thrusts.
+text "Ha, ah, ah, Shiki, sama----"
+text It's gotta hurt, but she endures it quietly.
+text ---Her figure.
+text She looks so lovely, my body does not stop.
+text Back and forth.
+text With erotic sounds, I bury myself in a body that knows no pleasure.
+text But---It'll all be over soon.
+text "Hisui--here I come."
+text I take a big breath.
+text Even now, I still haven't brought myself fully inside of her.
+text Just bringing half of myself in her brought tears to her eyes.
+text If I put it all in, she might just pass out.
+text Up until now, I haven't done that.
+text "Hisui, with this----"
+text "Ah--ha, nn--!"
+text But that was until now.
+text My heart feels like it's exploding.
+text So before that happens,
+text I wanted to bury myself completely in her.
+text "Hisui--!"
+text I push harder.
+text Hisui doesn't realize what I'm going to do.
+text Without any further warning, I thrust my entire self into her.
+bgload event/HIS_H06.jpg
+text "Nn------!"
+text Her back arches.
+text Her perfect breasts shake and sweat peals down her body.
+text "Ah--it, it hurts, Shiki-sama....!"
+text For the first time, those words leave her mouth.
+text "Nn--ha, ah----!"
+text But I can't stop.
+text Pulling out, I thrust once more.
+text "----!
+text Ah, aa, ha, oh......!"
+text Her trembling body.
+text She desperately tries to hold back the pain.
+text But this time, she feels pleasure.
+text So---I keep going.
+text "Ah, ha--Shiki, sama----!
+text Pl, please, stop, it....!"
+text Raising her hips from the bed, she tries to escape from as much pain as she can.
+text ~
+text ---But that makes her tighten up even more.
+text "S--Hisu, i--!"
+text Everything overflows.
+text The sensation starts to well within me.
+text "Ha--ah, ah, ah......!"
+text Hisui's hips rock back and forth.
+text That movement finishes me off.
+text "Ah, k--!"
+text I push in hard.
+text "Ah--hwa-ah-AaAaa----!"
+text "Tss----!"
+text The feeling of explosive release.
+text "Hisu.. i----!"
+text That instant, I hold back and manage to pull out.
+bgload IMA_11.jpg
+bgload event/HIS_H06B.jpg
+text I release.
+text My hot, white fluid sprays over her belly.
+text "Ah.... Shiki, sama...."
+text Hisui just stares at it.
+text Drip, drip.
+text It looks like keloid on her otherwise perfect skin.
+text But in contrast, she looks more appealing and at that second,
+text ~
+text I feel dizzy.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text "Ha----ah."
+text Taking a deep breath, I collapse on the bed.
+text Hisui is laid out nearby in the same state.
+text ~
+text *pant* *pant* *pant* *pant*
+text ~
+text Hisui's pained gasps echo through the room.
+text Hisui seems to have reached her limit with one time.
+text ".... This will not do, Shiki-sama...."
+text But Hisui lifts her body up.
+text Her shoulders heave as she breathes hard, staring blankly at me.
+text "Eh--what's wrong?"
+text ".... You did it outside of me.
+text You have to, um.... do it inside, or I.. cannot accept you."
+text "----Inside?
+text .... That means.."
+text I thought there'd be a lot of problems if I released inside of her, so I just---
+text "........"
+text Hisui looks at me apologetically.
+text .... Seeing that kind of face makes me feel sorry.
+text After making her go through all that pain only to make it useless, it's completely my fault.
+text ".... But, What should we do?
+text Um.... do we have to give it one more try?"
+text "...... Yes.
+text If it is, what you wish."
+text Hisui's voice almost disappears.
+text ~
+text ---If I wish so?
+text Of course I wish so.
+text ~
+text Even though I just came, my penis is still fully erect.
+text In all honesty, that was not enough.
+text "I'm okay with it.
+text But are you?
+text If it still hurts, we can wait a little bit---"
+text ".... No, I am fine.
+text But please, before your body reaches its limit, please pour yourself into me."
+text .... Hisui.. Even though she seems to be so tired she can't even talk steadily, she still insists on doing this.
+text Hisui is really pushing herself.
+text She is probably still hurting, and she must be tired.
+text .... I can't forcefully make love to her like that.
+text ".... I understand.
+text Then, come a little closer."
+text "Eh---ah......"
+text Holding her arms, I sweep her on top of me.
+text "Ah.... Shiki.... sama."
+text She must be incredibly tired, because she just rests herself completely on me.
+text "Yes.... please, do as you wish, Shiki-sama."
+text Taking a deep breath, she puts her body right on mine.
+text ".... Hisui.
+text This is fine, please raise your hips a bit.
+text You don't even have to move.
+text I'll go slow."
+text Hisui wordlessly agrees.
+text Her hips inch upwards.
+text Still wet from last time, I place my erect manhood against her.
+bgload event/HIS_H07.jpg
+text .... A sliding touch.
+text I don't enter, but just rub her gently.
+text "Nnn......"
+text Hisui breathes sweetly.
+text Her body is tense.
+text She readies herself for it to enter her again.
+text Sliding, sliding.
+text Slowly, I rub against her teasingly.
+text "A.... n, .... Na........ Ah."
+text She moans.
+text Her breathing swirls down my chest.
+text .... Slide, .... Slide, .... Slide.
+text "Ha........ Nnngu.... n, Ha----"
+text As I rub her with my shaft, her breathing heightens.
+text Calmly, our bodies meet like puppies licking and greeting each other.
+text The sound of our wet flesh meeting becomes louder and more frequent.
+text "A.... Ha.... Ahh, a...... nn."
+text I feel like I'm rubbing against the sweetest jam in existence.
+text "N.... Shiki.... sama, I, I...."
+text Her voice sounds even more passionate than before.
+text Back and forth, up and down.
+text Her love juices flow between us, coating us with sticky passion.
+text ".... Nnnn...... ha--ah.......... Ha."
+text When I notice, I realize my hips aren't the only ones moving.
+text It really is a small movement.
+text As if trying to relieve an itch, Hisui rubs herself against me.
+text "Nnn----Hisu, Hisui--"
+text The rubbing causes a thrill of pleasure to shoot through me.
+text "Hisui, m.... more."
+text I can't resist, and I grab her hips.
+text "N--"
+text Hisui stops suddenly.
+text I revel in the feeling.
+text I grip just a little stronger and feel her firmness.
+text "Ah--Shiki-sama, right---there---"
+text ".... I see.
+text That was just a little break."
+text I let my power out.
+text Her hips start to move again and she breathes out in short, sweet sighs again.
+text The sweet sliding friction.
+text I continue sliding in between her cheeks.
+text ".... Hisui.
+text Could you use more of your body....?"
+text "Eh.... yes.
+text Like, this....?"
+text Slide, slide-slide.
+text She slides all the way down, meeting my hips.
+text "Mmm--yeah, that feels--great."
+text Hisui slowly and sensuously raises her hips.
+text "Ah.... stuck, feels...."
+text Did I catch on something?
+text The movement stops for an instant.
+text But, no big deal.
+text Hisui smoothly moves up again.
+text "Haa.... This, is great."
+text This really gets me excited.
+text It isn't even doing much, so why---why does it feel so good, and why does it make Hisui look so adorable?
+text "N.... ha, Ah----Ah."
+text Hisui can't stop herself from voicing her passion.
+text Moving her hips up and down, she leans the rest of her body on mine.
+text ".... Hisui.... does it feel good....?"
+text "Y.... s.
+text Yes.... Shiki-sama, your chest.... is broad, I feel.... so relaxed---"
+text Exhaling, she presses herself even more against me.
+text I continue to revel in the rubbing her sliding cheeks give me.
+text "----Tss."
+text My heart rate increases even more.
+text .... This gentle foreplay starts to overwhelm me.
+text Hisui isn't the only one feeling the pleasure.
+text "Ha----"
+text I tense the muscles below my groin.
+text It's to stop the urge rising from my very core.
+text Even though I'm just rubbing against her, it's as close to the real thing as it'll be.
+text No, knowing that I'm rubbing her outside numbs my mind and brings me more pleasure than the real thing.
+text ~
+text Our bodies are clenched together.
+text The sensation of her breasts pushing up against my chest is so wonderfully soft.
+text No, the feeling of her small, delicate body just resting on mine is even better.
+text Our voices rise in harmony with the pistoning of our bodies.
+text Hisui relaxes completely, moving only her hips.
+text Her beautiful back, the sensuous curves of her bottom, all of it---I love all of it.
+text "Hisui---can I?"
+text "Eh.... are you, stopping already....?"
+text Hisui must've really enjoyed it because she regretfully plays her fingers on my chest.
+text "We don't have a choice.
+text I have to do it inside of you, so we have to do it right."
+text "Ah.... yes, that is right.."
+text Hisui slowly moves her body.
+text As she moves to pull back, she gets down on all fours, like a cat.
+text "----"
+text Her posture jumps out at me.
+text "Hisui, don't move."
+text "Eh....?
+text But Shiki-sama, we cannot.... do it, like this, right?"
+text "It's okay, just lift your hips a little.
+text No, not with your hands---get on your knees and elbows."
+text "....?"
+text Confused, Hisui tilts her head to the side, but complies.
+text ----All set.
+text Since Hisui's well rested, I won't hold back.
+text To let out all that's been welled up inside me, I get behind her and---
+bgload event/HIS_H08.jpg
+text ---I enter her from behind.
+text ~
+text "Nku----!?"
+text The bed rocks.
+text "Ah---n, nku----"
+text Hisui drops her back.
+text Her toes curl up as if resisting the shock.
+text Seeing her completely from this angle, her body seems entirely different.
+text Her long, white, graceful legs.
+text The single curve of her unblemished back is like a field of virgin snow.
+text It's so white and pure, I get the urge to bury my face in it.
+text ".... Wow.
+text I can even see your asshole and.. right here.. completely."
+text "Shi, Shiki-sama--please, don't say things like that....!"
+text Hisui blushes and shakes her head.
+text But Hisui can't turn her body because I am in her now.
+text "If I do exactly the same old thing, it'll be boring.
+text I think you're already used to it too, so we'll do it this way this time."
+text "Ha.... Shiki-sama, why is it that you are only mean, now....!?"
+text "........ Tch."
+text I punish her by entering a little deeply.
+text "A--n, ku....!"
+text I slide inside her, making churning noises.
+text Looks like my foreplay really helped.
+text Her smoothness now feels completely different from earlier.
+text "N--this, --"
+text N, Ah....!
+text Ha.... Ah--"
+text "It doesn't hurt as much, does it, Hisui--!"
+text "Nn----!"
+text I thrust my hips into her.
+text Her white hips shake as I thrust.
+text With every thrust, her love juices flow out and trickle down her legs.
+text "Ah--ha, ah, Shiki, sama..........!"
+text Her arms dig desperately into the bed.
+text "Ha, oh, oh, n.... Ah, n---!"
+text Her body shakes every time I thrust into her.
+text ".... Nn, nah, ha--Ah!"
+text She squeezes all around me.
+text Her insides are more intense, more sensational than before.
+text Her contractions pull me in deeper towards her center.
+text "Ah--, n--!"
+text ~
+text Slide.
+text ~
+text "Ha--ah.. Shiki-sa--ma, n, oh--!"
+text ~
+text Slide, slide.
+text ~
+text ".... Ah, haa, haa, haa----n...."
+text ~
+text Slide, slide, slide, slide.
+text ~
+text "---Hwaa, ah, ah, ah--!"
+text ~
+text Slide, Slide, Slide, Slide....!
+text "N--oh, Shiki-sama--please, not so--wild....!"
+text "Haa--ah, Haa, ahh, ah....!"
+text I can't hear her well.
+text All I can hear is my own heartbeat.
+text ~
+text Even that---starts to disappear.
+text "Ah--ah, please, stop, I, I am going--!"
+text Her voice reaches a scream.
+text Squeeze.
+text She grips me way harder than before.
+text "Aah--Hi.. sui....!"
+text "Shiki, sa, ma------!"
+bgload IMA_11.jpg
+bgload BG_40D.jpg
+text I come.
+text Our sensations climax together at the same time at an ever-rising crescendo, and then stop.
+text "Ha--ah."
+text I explode inside of her.
+text I continue to release in her in desperate spurts.
+text The lingering sensation.
+text I quiver inside of her as Hisui's hips jerk.
+text "Nn.... It's--finished."
+text I pull myself out of her.
+text "Ha.... ah."
+text .... I'm spent.
+text I'm so tired I feel like sleeping right now.
+text "Hisui.... did it hurt....?"
+text ".... Ah.... no, it hurt less than the first time."
+text In other words, it still hurt.
+text .... I regret it again.
+text Why is that during all of this, all I end up doing is being mean to her like this....?
+text "Then, it's over, right....?
+text I'm sorry, hurting you twice like this."
+text ".... Not at all.
+text If I could help you, then I am satisfied."
+text Hisui says this as she lies there, staring blankly.
+text Her eyes aren't even focusing on anything.
+text .... Is that what they call absence of mind?
+text It seems Hisui simply lies there without any rational thought.
+text But her eyes still holds tears, and I feel a stabbing pain in my heart.
+text ".... I'm sorry, Hisui.
+text I've made you cry so much."
+text I brush off her tears with my finger.
+text ~
+text ---And then.
+text ~
+text All of a sudden, Hisui grabs my palm.
+bgload event/HIS_H09.jpg
+text ".... Hisui?"
+text "Shiki........ sama."
+text She takes my finger and sticks it in her mouth.
+text "Um...."
+text I don't even know what to say.
+text Hisui just lies there, as if all she wanted to feel was the pressure of my finger.
+text ".........."
+text Hisui looks like she isn't even thinking about anything.
+text I think I was just a little too rough earlier and she's doing this since her head is still blanked out.
+text "........ N........ a........"
+text Hisui distantly sucks on my finger.
+text .... For some reason, I'm really enjoying this.
+text I don't pull away, but rather go with her movement.
+text ~
+text Squish, squish.
+text I start to feel her tongue with my finger.
+text "........ Mmm.."
+text Hisui just continues.
+text .... Those eyes, still flowing with tears, seem to be in a trance.
+text She isn't even licking me, she's just holding it in her mouth.
+text "N........ nn.."
+text As if it was something precious to her, she just holds it.
+text Hisui just unconsciously caresses me.
+text She grips my hand as if it were a treasure.
+text "N.... Shiki, sama...."
+text A slight squeeze.
+text Hisui bites down gently on my finger.
+text "----Hisui."
+text I feel the blood start to circulate within me once more.
+text No, this isn't right.
+text What am I thinking---about Hisui who's already this tired?
+text "Hisui--"
+text ".... Yes.
+text What is it, Shiki-sama?"
+text "Hisui, I want to make love to you, one more time."
+text I just blurt out my selfish thoughts to her.
+text Hisui---she just stares at me.
+text ".... How, come?
+text There is no longer any need for you to do so."
+text ".... No, that's not it.
+text I haven't really made love to you yet."  .... That's right.
+text Before, it was just to help me recover--that's all it was from the beginning.
+text ~
+text But I don't want it to be like that.
+text I really love her, and---for no other reason, I want to make love to her.
+text "It isn't enough, Hisui.
+text I don't want to do it for healing.
+text I like you, Hisui---I love you.
+text That's why I want you now, Hisui."
+text ".........."
+text "So for that reason, I ask you for one more time.
+text Not for anything like just exchanging fluids.
+text I just---really want to make love to you."
+text "........ Shiki, sama."
+text Consciousness returns to her eyes.
+text Still biting down on my finger, she looks at me.
+text ".... Is it okay, Shiki-sama.
+text I, I am.."
+text "Don't be stupid.
+text I only want you, Hisui."
+text "-------"
+text The sound of a sigh.
+text But right after that,
+text she gives me her tender smile.
+text ".... Yes.
+text I want to be loved by you too, Shiki-sama."
+text That is her answer.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text "Well then.
+text This time, you ride on top of me, Hisui."
+text "Eh.... on.. top....?"
+text She doesn't understand what I mean and looks at me, confused and a little embarrassed.
+text "What's this?
+text You still can't be embarrassed.
+text There isn't a part of you I haven't seen."
+text "Ah........"
+text As soon as I say that, her face blushes a bright red.
+text .... Even though we've done it so roughly, Hisui still hesitates like it's her first time.
+text "It's okay, so just get on top!"
+text Grabbing her arms, I raise her on top of me.
+text "Kyaa--ah, eh....?"
+text I feel her butt on my stomach.
+text With her back to me, she lowers her hips.
+text "Ah...."
+text I hear her sudden intake of breath.
+text I bet she's looking at my erect manhood in front of her.
+text "Shi, Shiki-sama, um...."
+text Not knowing what to do and unable to escape, she blushes furiously and asks me for help.
+text ...... This is bad.
+text She is so cute I just might die.
+text "What should I do now--hyaa!?"
+text She looks up quickly.
+text Her body reacts as I lick her defenseless back.
+text "Ha---Shi, Shiki, sama---"
+text "Mmm---your ass, it's so tiny, so cute."
+text Licking the center of her back, I use a hand to hold onto her cheeks.
+text "N........!"
+text Her back arches in response.
+text "Ha.... n, nnn...."
+text Hisui tries to resist the sensation of my tongue playing along her back.
+text "Ah.... Shiki-sama, that.... tickles."
+text She twists around while increasing her body heat.
+text Sweat glistens in rivulets down her body.
+text ".... Um.... Shiki-sama.
+text What---should.... I--do now?"
+text Her last words are barely even said.
+text I get this feeling that she will always act like this, no matter how many times we do this.
+text "Simple.
+text You don't have to move."
+text "Eh---ah......!"
+text I wrap both my hands around her stomach.
+text Gathering up my strength, I pick her up.
+text "Ah--!
+text U, um, Shiki-sama, are you going to...."
+text "------"
+text Not answering her question, I set about to do what she is thinking.
+bgload event/HIS_H10.jpg
+text "Hwa..............!!!"
+text Thrust.
+text I penetrate her from underneath.
+text "Ah--ah, Hwa----!"
+text Her body jumps up.
+text Trying to get away from what is coming at her from below,
+text she tries to prevent her body weight from finishing it.
+text Between these two forces, her nerves don't stand a chance.
+text ".... I'm moving, Hisui....!"
+text "Ah.... N, no, please stop....!"
+text Ignoring her, I lift her up and bring her down.
+text "N, ha....!
+text Ah, Aah, HaAaAAA....!"
+text Her fingers clench as her senses are overwhelmed.
+text I guess I'm hitting her in a different spot as she is reacting more now.
+text "Ah, Shi---Shiki-sama, inside of, me---!"
+text Her voice is almost a scream.
+text I keep lifting her, and lowering her.
+text "Ha--ah, ,nwa----!"
+text I can feel her tightening her butt.
+text And at the same time, her insides tighten up.
+text "N---Hisui, not so---relax a bit---"
+text "Ah---ha, ah----"
+text My voice doesn't seem to reach her.
+text As if in a dream, she continues to contract and wrap her walls around my manhood.
+text "Haa----ku........!"
+text Trying to fight back, I lift her up again.
+text The sound of our flesh sliding past.
+text "HA.... ah, ha......"
+text The crushing feeling subsides and Hisui tries to catch her breath.
+text At that same time, I lower her once more.
+text "Nwaa----!"
+text The pressure tightens around me again.
+text Her heat transmits itself all the way through me.
+text Her warmth causes my mind to blank out completely.
+text ".... Yo.... u...."
+text I don't know what got me mad.
+text But I just slide Hisui's body with all my might.
+text "----!
+text Ah, ha--naa------!"
+text The sticky sound of juices and flesh meeting and parting.
+text "N------ah, Shiki-sa----ma----!"
+text My shaft gets drenched.
+text Her love juices mix with mine and soak me.
+text "N----this, this is--"
+text And suddenly,
+text I'm not only moving Hisui's body, but I am also moving my hips up into her.
+text ---*pant* *pant* *pant*
+text ~
+text Holding Hisui's body and moving my hips is a big load.
+text Naturally, my breathing starts to become rapid.
+text But---
+text "Ah.... it.... h, hurts, Shiki-sama....!"
+text ~
+text ---*pant* *pant* *pant*
+text ~
+text I don't care.
+text Hisui.
+text If I could make Hisui mine, then such a thing---!
+text "Nhaa--!
+text Ah, hwa, Shiki--sa----please, more----slower....!"
+text ~
+text ---*pant* *pant* *pant*
+text ~
+text I thrust up.
+text I thrust up to fill her insides.
+text ".... Ah!
+text .... No, if this continues---I, I will....!"
+text ~
+text ---*pant* *pant* *pant*
+text ~
+text Her convulsing body.
+text Her arching back.
+text Her fluttering hair.
+text Is it pain, or is it pleasure?
+text The drool leaking from her mouth tells me that she's lost all her reason.
+text "Ha, n, nn, ah---!
+text Haa, it, hwa, it hurts---Shiki-sama, please........!!!!"
+text Her body is on fire.
+text It feels like I am inside an oven.
+text Or, is it.
+text Is it my own column of flesh, swollen with blood that is on fire?
+text ---*pant* *pant* *pant* *pant*
+text ~
+text "Ah, ha--Shiki-sama, I--!"
+text Even though her eyes are flooding with tears, she still brings down her body onto me once more.
+text Her feeling.
+text Her warmth.
+text Her voice.
+text Tears.
+text All of it.
+text All of it is precious.
+text "Hisui---my, Hisui--!"
+text I penetrate again with all my strength.
+text My heart pounds wildly.
+text "I love you---more than anyone, more than anything, I love only you, Hisui....!"
+text Not thinking, I let loose these words.
+text Baring all of my feelings, I thrust into her passionately.
+text "Ha--ah, ah----!"
+text Her spasming body.
+text I feel the climax of all these emotions, all these sensations coming.
+text "Me, me too....!"
+text ~
+text *pant* *pant* *pant* *pant*
+text ~
+text "Ah---Shiki-sama, I love you too---Shiki-sama, always....!"
+text Her body tenses.
+text All the love within me gathers up.
+text *pant* *pant* *pant* *pant*....!
+text ~
+text "Hisui----!"
+text "Ah---yes, Shiki, sama......!"
+text Our emotions fuse together.
+text We climax together.
+bgload event/HIS_H11.jpg
+text "---Hisu, i----!"
+text I release inside of her.
+text "Ah.... ha, n----!"
+text I embrace her shaking body close to mine.
+text "Ah------ah."
+text Hisui endures the heat flowing into her.
+text "Nn----ah."
+text Her voice lowers.
+text Probably because my finger is in her mouth.
+text Our heartbeats harmonize and pulse together.
+text She still shakes from the lingering sensations inside of her.
+text I want to ease that, and hold on to her.
+text ".... Shiki, sama...."
+text Why is she crying?
+text From her eyes the tears keep falling.
+text "I.... this.."
+text It seems her aacering voice contains some regret.
+text ".... What, Hisui?
+text .... Did it hurt....?"
+text ".... No.... I am scared, of this happiness."
+text Taking a deep breath, her shaking stops.
+text "Ah...."
+text The strength drains from her body.
+text Exhausted, she leans her whole onto me.
+text ".... I'm so sorry.... Nee-san."
+text With that last remark, she collapses and closes her eyes.
+bgload IMA_10.jpg
+music ~
+text The sound of gentle breathing reaches my ears.
+text ~
+text ".... Are you sleeping, Hisui?"
+text Placing her on the bed, I pull the sheets over her.
+text Unlike Hisui, who's exhausted, I still have a lot of energy.
+text .... No, even though I am tired, the condition I had before is totally gone.
+text ~
+text So, it seems for tonight, I can move like a normal person once again.
+bgload BG_40C.jpg
+text .... Hisui sleeps in my bed.
+text It might be because she helped me regain my strength, but Hisui is absolutely exhausted.
+text ".... Or maybe, I pushed her too hard."
+text I feel a tinge of regret.
+text .... All of this was her first time, so that was really too much for her.
+text ".... But she is just so cute, I couldn't help it."
+text I make up an excuse, but it can't be helped.
+text Hisui sleeps, taking relaxed breaths.
+text .... If I'm going to take action, it has to be now.
+text ".... Sorry.
+text Sleep just a little longer, Hisui."
+text After running my hand through her hair one last time, I change my clothes and leave the room.
+bgload IMA_10.jpg
+bgload BG_46C.jpg
+text ~
+text ---That's right.
+text Akiha and Kohaku-san aren't here.
+text ~
+text This is a good opportunity.
+text I can do some investigating into what happened eight years ago.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+music 01.mp3
+text I enter the old man's room.
+text .... This place should definitely have something to answer my questions.
+text ~
+text ".... The desk drawer.... it's empty now."
+text There might be something that belongs to the old man in one of the locked drawers.
+text But I don't think he'll keep something that important there.
+text ".... It'd be great if he had a safe or something."
+text I search the room.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text "........ Here it is."
+text I find something like a safe pretty easily.
+text There's no external lock and I don't know the dial combination.
+text So I take off my glasses, and I cut its "line".
+text ".... Hmm...."
+text There seems to be an old diary and some envelope.
+text The diary looks like that of a child's and the other looks like some old letters.
+text ".... Old letters?
+text Why?"
+text The handwriting is definitely my old man's.
+text It's fragmented and I can't understand it at first glance.
+text ~
+text ---The date starts in the summer of eight years ago and seems to continue on a past that.
+text "........"
+text I don't understand it yet, but I continue leafing through it.
+music ~
+bgload IMA_10.jpg
+bgload BG_41.jpg
+music 09.mp3
+text ~ Month ~ Day
+text My son SHIKI succumbed to his Tohno blood.
+text SHIKI, he killed my adopted son who happened to be there.
+text (The adopted son is the heir of the house Nanaya. I guess it is a blessing in all the unfortunate events that he isn't in the same family as the Synchronizers, like Kohaku and Hisui.)
+text ~
+text SHIKI's inversion impulse is terrible.
+text So it was determined that he must be eliminated.
+text I have my duty as the head of the Tohno household, but killing my own son is so difficult.
+text The Tohno blood, more in SHIKI than in AKIHA.
+text Talking about potential, I feel an older origin in Akiha's blood, but SHIKI's Tohno blood runs much stronger.
+text I assume that is why SHIKI inverted before he became an adult.
+text SHIKI's powers are "immortality" and "fusion".
+text SHIKI could not manage the awakened powers and as a result, killed the adopted Nanaya child, taking his life.
+text I have to say it was a superb job for using his powers for the first time.
+text ~ Month x Day
+text Both SHIKI and the adopted son managed to escape death.
+text Before I killed SHIKI, he killed the adopted son and stole his "life", regenerating himself with it.
+text I don't know if it is because he was so close to death, but SHIKI has regained some of his sanity.
+text Even though it is dangerous, I will not kill him but simply separate him from the mansion for a while.
+text On the other hand, the adopted child of Nanaya will not live long even if he does survive.
+text Even if he does heal, his life has been taken by SHIKI.
+text His body can die any day.
+text As long as the adopted child lives, there is a possibility that his mind will be attuned with SHIKI's.
+text It seems it is a side effect of their two lives being linked.
+text But if that happens, the adopted son will die eventually, so there is no problem there.
+text ~ Month ~ Day
+text The problem of maintaining appearances to normal society still remains.
+text SHIKI has killed the adopted Nanaya child.
+text I have covered up the incident, but SHIKI cannot be shown to the public.
+text The wound I gave him hasn't healed and his figure has transformed.
+text He is not in a condition to be brought in front of others as Tohno SHIKI.... he cannot be called a human either.
+text ~
+text The Nanaya child still lives.
+text As long as he lives, I've decided to use him.
+text If there are any disagreements, I would like to hear them.
+text Complementarity.
+text The Nanayas are a family that produces killers.
+text If that adopted son happens to stay alive, the link between him and SHIKI may corrupt SHIKI's mind.
+text Even if SHIKI regains his sanity, I cannot deny the possibility of the Nanaya child's influence turning him into a killer.
+text ~
+text To not let this happen, we must have him somewhere where we can keep an eye on him.
+text But we cannot allow him near the Tohno mansion either.
+text I should have him raised by an appropriate branch of the family.
+text ~ Month x Day
+text .... The Tohno blood that has awakened within SHIKI.
+text Maybe it is because he was so close to death, but he has regained his sanity like before.
+text But I don't know if something will cause him to invert again.
+text Even though it tears me apart, I cannot allow SHIKI near the Tohno mansion either.
+text I place him in the care of a trusted servant.
+text ~ Month x Day
+text I still haven't received word that his sanity has completely been restored.
+text .... A year has passed with him under the care of another house.
+text My heart is in anguish.
+text It is so hard for me when I think of the way my own son has to live.
+text As soon as SHIKI heals, I will be able to bring him back to the mansion.
+bgload IMA_10.jpg
+music ~
+bgload BG_41.jpg
+text "------What is.. this?"
+text Adopted son.
+text I knew about the adoption ten years ago.
+text Even though I don't exactly remember the details, I know about it.
+text .... He killed me?
+text Eight years ago, in that courtyard?
+text ~
+text ".... Our minds are linked...."
+text The words say that my mind and his are possibly linked.
+text Normally, this story would just be something to laugh off.
+text But, right now, it explains too much.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_41.jpg
+text "----No."
+text No, that's not it.
+text This isn't anything like that.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_41.jpg
+text "------Kk."
+text .... I know.
+text Even though I already know about it, I try not to notice.
+text ---I want to deny it again.
+text The adopted child was..
+text The one who was killed was..
+text I know which is which, but I don't want to admit it----.
+text ~
+text "Tch--this is useless."
+text Cursing myself, I toss the letters to the side.
+text ".... All that's left is this."
+text I pick up the diary in the safe.
+text It looks like a child's diary; certainly nothing Tohno Makihisa would have had.
+text I flip the pages.
+text There are only two words.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text HELP ME
+text ~
+text Like that.
+text On a white page, it is written really small.
+text "........ Huh?"
+text I flip through the pages.
+sound SE_01.aac 1
+text HELP ME.
+text I turn the page.
+sound SE_01.aac 1
+text HELP ME.
+text I turn the page.
+sound SE_01.aac 1
+text HELP ME.
+text I turn the page.
+text ~
+text "Wha----"
+text It's like a curse that brings the reader to the depths of darkness.
+sound SE_02.aac -1
+text HELP ME
+text HELP ME
+text HELP ME
+text HELP ME
+text HELP ME
+text HELP ME
+text HELP ME   HELP ME   HELP ME   HELP ME  HELP ME  HELP ME  HELP ME  HELP ME  HELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPMEHELPME--------
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text "----"
+text .... I feel sick.
+text I've seen many nightmares up until now, but this is far worse.
+text Those words, "HELP ME".
+text It isn't that whoever wrote this diary knew only those words.
+text Only these words.
+text That is all this person could feel.
+text None of the dark litany was scribbled out.
+text One letter after another, like the spewed feelings of this person.
+text This is the only way the author could escape.
+text This person knew no other way to let out this curse.
+text ".... Ah."
+text There is still more than half the diary to look at.
+text I,
+text I can't bring myself to read the rest of it.
+text "----"
+text I flip through the pages trying not to look at its contents.
+text As I flip through the pages, my hand stops on the very last page.
+text ".... Regular sentences....?"
+text On the last page, there is a short paragraph.
+text Silver lettering adorns the otherwise perfectly white sheet.
+sound ~
+bgload IMA_10.jpg
+bgload IMA_08.jpg
+music 07.mp3
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text So it's better to just become a doll
+text ~
+text Gradually, my body stopped generating a pulse
+text ~
+text Blood vessels turned into tubes one by one
+text ~
+text Blood vanished like vapor
+text ~
+text My heart, everything, just crafted parts
+text ~
+text ~
+text See, that's why    there will be no more
+text ~
+text pain
+bgload IMA_10.jpg
+music ~
+bgload BG_41.jpg
+text "------"
+text .... Closing the diary, I put it back in the safe.
+text I don't know why Tohno Makihisa kept such a thing.
+text But I do know one thing.
+text Fearing the child's malice, it was something meant to be sealed away in the safe.
+bgload IMA_10.jpg
+bgload BG_42C.jpg
+text .... The day draws to a close.
+text The dark garden.
+text The dark trees spread out before me like a black vale.
+text I remember the dream I saw before coming to this mansion.
+text ~
+text "........ Alright."
+text It isn't that there is something there.
+text I just need to confirm something in my heart, so I enter the black vale.
+bgload IMA_10.jpg
+bgload BG_53B.jpg
+text There isn't anything here.
+text It's not like the body of the one killed eight years ago is here.
+text It's not like the blood of the one killed eight years ago is here.
+bgload CMO_06.jpg
+bgload BG_53B.jpg
+text "........"
+text For an instant, the scene flashes in my mind.
+text That hot summer day.
+text I was looking down at my blood-stained self as if I was another person.
+text ".... So.
+text Someone must have been killed here."
+text Whether it was me or him, I don't know.
+text ~
+text Which one was adopted?
+text Which one is the monster SHIKI?
+text ".... If I think about it logically, I had to have been the one to kill him here."
+text "That is incorrect.
+text The one who was killed, was you, Shiki-sama."
+text "----!?"
+text I turn around.
+text I don't know when she arrived, but Hisui is there.
+music 08.mp3
+bgload BG_53B.jpg
+setimg HIS_T01.png 62 0
+text "Hisui.
+text You woke up already?
+text .... Don't push yourself.
+text Aren't you still tired....?"
+text "Shiki-sama, you are the one who should not push yourself.
+text You are still losing energy at a great pace, much more than you have gained."
+bgload BG_53B.jpg
+text Hisui stands before me.
+text "Ah...."
+text .... My pulse picks up.
+text Hisui standing so close to me really does make me feel more alive.
+text "Wow, my body really is warm.
+text .... I think it is your warmth coming into me."
+bgload BG_53B.jpg
+setimg HIS_T02.png 62 0
+text "But Hisui, what are you saying?
+text You say that I was killed here---do you know what happened here?"
+bgload BG_53B.jpg
+setimg HIS_T17.png 62 0
+text "---Yes.
+text I saw you die here.
+text You were killed, by SHIKI.... not just your body and soul, but everything was killed."
+text Her voice is shaking.
+text It isn't that she is scared.
+text Instead, she sounds incredibly angry at that person who killed me.
+text ".... Wait a sec, Hisui.
+text The one who was killed was the adopted Nanaya kid.
+text So wasn't he the one who died?"
+text "No, you are the one that died, Shiki-sama."
+text Hisui answers directly.
+text ~
+text ----Oh, I see.
+text Then that means--.
+text ~
+text "---I see.
+text So, I'm the adopted child?"
+text ".... Yes, you are a descendant of the Nanaya family.
+text Makihisa-sama adopted you, the only surviving member.
+text .... Your name is Shiki---and because Makihisa-sama found it amusing that his son was also named SHIKI by a strange coincidence, he adopted you."
+text "Our names----are the same?"
+text "Yes.
+text It is natural for you to be confused.
+text And you are different from us; you were really adopted into the Tohno family."
+text "-------"
+text I can't speak.
+text .... Such a thing, isn't a shock or anything.
+text I remember not getting along with my old man from the beginning, and I never felt quite right in the mansion..
+text So such a thing---
+bgload event/AKI_E01B.jpg
+bgload BG_53B.jpg
+text ~
+text Such a---
+text ~
+bgload event/HIS_E01B.jpg
+bgload BG_53B.jpg
+text Such a thing----
+text ~
+bgload event/HIS_E02B.jpg
+bgload BG_53B.jpg
+text Even if it were all lies, I---
+bgload BG_53B.jpg
+setimg HIS_T05.png 62 0
+text ".... I am very sorry.
+text Saying things that cause you sadness."
+text "No, I'm fine.
+text I'm not sad."
+text ~
+text ----I say that, but I know it's a lie.
+text ~
+text I don't know what kind of feeling it is.
+text But it is true that I feel an emptiness in my heart.
+text "---But, that's weird.
+text People of the Tohno bloodline have powers don't they?
+text He.... if SHIKI is a vampire, then what am I?
+text I'm not the same as him, but I have these strange eyes."
+bgload BG_53B.jpg
+setimg HIS_T01.png 62 0
+text ".... I do not know in detail.
+text But Akiha-sama said that you are the same as Nee-san and I, whose families are enemies to those of 'mixed blood'.
+text .... We have the power to synchronize with those we exchange fluids with, and the Nanaya family had the power to fight demons."
+text .... I see.
+text Certainly my eyes are not a power to help people like Hisui's.
+text Rather, it is a power to kill.
+text ".... I see.
+text But then, why was I adopted by the old man?
+text It doesn't make any sense why he would adopt an enemy."
+text ".... Shiki-sama, you are the inheritor of a very special bloodline of demon hunters.
+text Asagami, Fujyou, Ryougi and Nanaya.
+text These four families are the enemies of 'mixed blood'.
+text I think Makihisa-sama brought you here to help fend off something."
+text ".... I mean, how did he even get a chance to adopt me in the first place?"
+bgload BG_53B.jpg
+setimg HIS_T23.png 62 0
+text "I.... I heard that you were the only member of the Nanaya family to survive.."
+text "...... Ah, I see."
+text Ten years ago.
+text The Japanese style house nestled deep within the mountains.
+text Surrounded by a black forest, a rustic world isolated from the flow of history.
+text ~
+text .... I can't, quite, remember it well.
+text All I can remember is that pale, blue glass moon.
+text And in the forest's clearing, a figure that looked like Tohno Makihisa was cutting up lots of people.
+text ------*sigh*
+text But that was then, and this is now.
+text Something done so long ago, it doesn't matter now.
+text ".... Well, I understand that I was killed by SHIKI here.
+text But how is it that I am living as Tohno Shiki right now?"
+bgload BG_53B.jpg
+setimg HIS_T01.png 62 0
+text ".... Yes.
+text Without a doubt, you were stabbed by SHIKI in the chest and on the verge of death.
+text But by some miracle, you were able to recover.
+text You were saved and SHIKI also survived.
+text Since no one died, everything should have ended right then.
+text But SHIKI became something that could not be shown to other people."
+text "I see, so a replacement was needed for Tohno SHIKI.
+text The name of Tohno Makihisa is in the top of the business world; his son can't just suddenly die."
+text ".... Yes.
+text Makihisa-sama pretended that the Nanaya child died, and had you live as Tohno Shiki.... It was all to protect the family name."
+text ".... I get it, it's something the old man would do."
+text Yeah, everything fits in now.
+text Even though I am Tohno Shiki, I'm not technically part of the Tohno family.
+text Besides Akiha, no one else holds that blood.
+text So my old man sent me to live with the Arimas, and contrived a situation where I couldn't be the successor since my health was bad even though I was supposedly the eldest son of the Tohno household.
+bgload BG_53B.jpg
+setimg HIS_T04.png 62 0
+text "Shiki-sama---I.."
+text ".... It's fine.
+text You don't have to apologize for keeping this a secret.
+text Just telling me now is enough.
+text Besides, aren't you like me?"
+bgload BG_53B.jpg
+setimg HIS_T26.png 62 0
+text "No, compared to you or Nee-san, I have not suffered at all....!
+text Even after Makihisa-sama died, Akiha-sama took us under her care.
+text So only I lived peacefully, not knowing anything....!"
+text "Wait, Hisui.
+text Akiha--she knows that I'm not her real brother....?"
+bgload BG_53B.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes.
+text She heard it from Makihisa-sama after you were adopted.
+text But, Akiha-sama would always insist that you were her real brother.
+text .... Every day, Makihisa-sama would tell Akiha-sama to forget about you.
+text But, Akiha-sama would never agree.
+text Even though she would be scolded severely, she still waited for you in her heart.
+text ".... If you knew the truth, you would leave.
+text That is why Akiha-sama told us to never let you know the truth.
+text Akiha-sama always helped Nee-san and myself.
+text Nee-san was Makihisa-sama's servant and was not allowed out of his room.
+text Akiha-sama hated that and freed Nee-san.
+text So---for Akiha-sama's sake, we continued the lie.
+text Akiha-sama, all of us.. we wanted you to come back."
+text "........ Hisui."
+bgload BG_53B.jpg
+setimg HIS_T07.png 62 0
+text "So please, do not hate Akiha-sama.
+text More than anyone else, she thinks importantly of you."
+text ".... Yeah, I know.
+text There's no way I would hate her.
+text It's more appropriate for me to be hated.
+text I was the one living peacefully while you were all suffering."
+text "......"
+text So.
+text I am thankful to Akiha.
+text She welcomed me, nothing more than an outsider, back into the mansion.
+text She even calls me brother.
+text .... So, I'll have to keep it up too.
+text If she is willing to call me Tohno Shiki, as her brother, then I don't care about the name Nanaya Shiki.
+text I have to continue being her brother, continue being Tohno Shiki----
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_53B.jpg
+text "G----!"
+bgload BG_53B.jpg
+setimg HIS_T25.png 62 0
+text "Shiki-sama!?"
+text Hisui rushes to me.
+text I separate myself from Hisui, who was staring with a worried face, and take a deep breath.
+text ".... Geez.
+text I just got helped by you, Hisui, but I'm still having these headaches."
+bgload BG_53B.jpg
+setimg HIS_T23.png 62 0
+text "---Shiki-sama.
+text Your body's weakening is because of that incident eight years ago.
+text At that time, SHIKI stole your life and is using it to prolong his own life.
+text That---that is why you are weakening, and why you are linked with SHIKI."
+text ".... I see.
+text So, that's how it is.
+text In other words, as long as I don't do something about that killer---SHIKI, I won't be able to return to normal."
+bgload BG_53B.jpg
+setimg HIS_T17.png 62 0
+text ".... Yes.
+text I believe he despises you utterly.
+text That is why he is stealing your life gradually, trying to dirty your heart; he is enjoying your pain."
+text Her voice is shaded with anger again.
+text "He hates me?
+text .... I don't get it.
+text He's the one that killed me.
+text I can understand me having a grudge against him, but why would he have a grudge against me?"
+text "No, SHIKI sees you as someone who has killed him.
+text Shiki-sama, you have caused the existence of Tohno SHIKI to disappear."
+text "....?
+text I caused him to disappear....?"
+text "Yes.
+text You were certainly killed by SHIKI.
+text But once your life was saved, you took SHIKI's place as Tohno Shiki.
+text .... After that, the SHIKI who was confined somewhere must have viewed you as a threat.
+text Tohno SHIKI is still alive, but there is now someone else existing as Tohno Shiki.
+text SHIKI is still alive, but you have taken away everything as Tohno Shiki, and he became something that has no name, no existence."
+text ".... I see.
+text So he views himself as the rightful Tohno SHIKI, and sees me as an impostor.
+text No wonder---"
+text ~
+text SHIKI wants to kill me and get everything back.
+text ~
+text "But, that is coming to an end.
+text I will protect you, Shiki-sama.
+text No matter what SHIKI does, I will not let him kill you once again.
+text .... Even if the killer SHIKI walks the streets, he will be disposed of.
+text So please, until then, rest in your room."
+text "............"
+text Rest in my room....?
+text No, that won't help me.
+text She doesn't know it, but our fusion gets worse by day.
+text That means,
+text if he really does go crazy, I don't know if I can stay sane myself.
+text ".... Ha.
+text He's a guy who would hurt even himself to get his revenge."
+text ~
+text .... Revenge?
+text No, that's not it.
+text .... The SHIKI who says he was killed by me.
+text .... The SHIKI who sees me as an impostor.
+sound SE_01.aac 1
+text .... The SHIKI who repeatedly says he will kill me.
+text .... The SHIKI who says any of this would not have happened if I was not here.
+sound SE_01.aac 1
+text .... The SHIKI who has lost his sanity like Tohno Makihisa, killing people in the streets.
+text And, yes.
+text ~
+sound SE_01.aac 1
+text ---The one who died in the distant past,
+text the child called Nanaya Shiki.
+text Unconsciously, I grit my teeth.
+text ~
+text "Don't be ridiculous----I'm the one who has the right to be bitter, SHIKI."
+text Suddenly,
+text the old wound on my chest starts to hurt.
+text There's only one way to stop this pain.
+bgload BG_53B.jpg
+setimg HIS_T23.png 62 0
+text "Shiki-sama, where are....?"
+text "You know.
+text He says he's going to come.
+text But I'm not going to wait for him."
+text I know where his hideout is.
+text I will end this worthless connection of ours.
+bgload BG_53B.jpg
+setimg HIS_T17.png 62 0
+text "Please stop, Shiki-sama....!
+text With your body like that, it will be too dangerous."
+text "Hisui.
+text Sorry, but there's a knife in my room.
+text Would you go get it for me?"
+text "---I refuse.
+text I cannot let you go."
+text ".... Oh well, I'll get it myself.
+text Watch over things when I'm gone."
+text "Shiki-sama....!"
+bgload BG_53B.jpg
+text Turning my back to Hisui, I walk away.
+text "Shiki-sama!
+text If you do that, I will really get upset....!"
+text Silently apologizing to Hisui, I head back inside.
+bgload IMA_10.jpg
+bgload BG_32D.jpg
+text ------I leave the gate.
+text ~
+text In my pocket is the knife engraved with "Nanaya".
+text Thanks to Hisui, I have strength in my body now.
+text If there is a problem, that is---
+text ~
+bgload BG_32D.jpg
+setimg HIS_T08.png 62 0
+text ".............."
+text that Hisui remains by my side.
+text ".... Hisui.
+text Please, go back to the mansion."
+text ".... I refuse.
+text You did not listen to my words, so I will not listen to yours."
+text Hisui peevishly tosses her head to the side.
+text "Now look.
+text I'm not saying you're going to get in the way.
+text .... Um, the place I'm going to is very dangerous, so I want you to stay in the mansion."
+bgload BG_32D.jpg
+setimg HIS_T13.png 62 0
+text "You say that, but should I leave, you will collapse.
+text If you really do want to go, it will be a big problem for you unless I go along."
+text "Eh---your power, is like that?
+text But, we did that.... we joined our bodies together so much, shouldn't I be good for a while?"
+text ".... No.
+text That is just like a ritual to form intimate bonds between us.
+text Even if someone has exchanged fluids with me or Nee-san, they cannot receive energy if we are not nearby."
+text "----That's.."
+text That's a huge problem.
+text If that is true, then I can't even get to the school by myself.
+bgload BG_32D.jpg
+setimg HIS_T12.png 62 0
+text "If you still order me to stay here, I will.
+text Please, decide on what I should do."
+text Hisui looks at me directly.
+text ".... Uuu."
+text .... It seems my answer is already decided.
+text If I can't get to school without her help, then I can only let her come with me.
+bgload IMA_10.jpg
+music ~
+bgload BG_01C.jpg
+text .... For the first time in so many days, I arrive at school.
+text The eerie silence sends a chill down my spine.
+text A space where no living presence can be felt.
+text Even though it holds hundreds of students during the daytime, it looks like an abandoned ruin under the moonlight.
+bgload BG_01C.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, is this really the right place....?"
+text "------"
+text I don't have the words to answer her.
+text I've only seen him being in school in my dreams.
+text ~
+text ".... Let's go, Hisui."
+text We walk through the front gate.
+bgload IMA_10.jpg
+bgload BG_03C.jpg
+sound SE_01.aac 1
+text "----"
+bgload BG_03C.jpg
+setimg HIS_T17.png 62 0
+text "Shiki-sama, this is--"
+text Hisui halts immediately like I did.
+text ~
+text ----Creak.
+text ~
+text Night hangs over the school building.
+text As soon as I pass the gate, I feel something wrong in the air.
+text ----Creak, creak.
+text ~
+text .... The air as a whole is creaking.
+text The tense atmosphere stings our lungs.
+text ----Creak, creak, creak.
+text ~
+text ".... This feeling, it's--"
+text I've felt this ill wind many times in my nightmares.
+text The air is thick with a murderous intent.
+text Hostility.
+text Hatred.
+text Inside the building,
+text the darkness is filled with murderous intent as if a battle to the death is occurring like in my dreams.
+bgload IMA_11B.jpg
+bgload BG_03C.jpg
+text "SHIKI.... he's fighting someone?"
+text .... I don't get it.
+text There couldn't be anyone that would be able to fight an inhuman monster like him.
+text ~
+text "Nee, san--?"
+text A whisper.
+text Hisui speaks this, as if resisting the urge to throw up.
+text ---Nee-san---Kohaku-san.
+text ~
+text Akiha hasn't been in the mansion since morning.
+text She left with Kohaku-san and didn't return all day.
+text .... Last night..
+text When I was locked up in my room,
+text Akiha told me to just wait a little longer.
+text ~
+text "Wha---?
+text .... Don't tell me---Akiha----!?"
+text My legs spring into action.
+text Before I start to think, I dash towards the building.
+bgload IMA_10.jpg
+music 06.mp3
+bgload BG_07B.jpg
+text ----I run into the building.
+text ~
+text Inside, the air is even more tense.
+bgload BG_07B.jpg
+setimg HIS_T08.png 62 0
+text "Shiki-sama---"
+text ".............."
+text Not answering her, I search for any indication of presence.
+bgload BG_07B.jpg
+text ----The hallway.
+text ~
+text ----Is horribly.
+text ~
+text ----Quiet.
+text ~
+bgload BG_07B.jpg
+sound SE_12.aac 1
+bgload BG_07B.jpg
+text "......!"
+text Skreeeeeeeeeeeeeeeeeeeeeeee!
+text A high pitched sound assails my eardrums.
+text It shakes the windows.
+text ~
+text ---The sound, it's coming from the floor above me.
+text ~
+bgload BG_07B.jpg
+setimg HIS_T23.png 62 0
+text "Shiki-sama, that's--"
+text ".... Just stay close.
+text Let's go, Hisui."
+bgload BG_07B.jpg
+text Grabbing Hisui's hand, I bolt to the stairs.
+bgload IMA_10.jpg
+bgload BG_07B.jpg
+text ---Still holding her hand, I go up the stairs.
+text ~
+text "........"
+text I clench my teeth.
+text That day.
+text I remember about the time when I left the room and overheard Akiha and Kohaku-san talking.
+text Akiha said she would kill SHIKI---her brother.
+text I know now that she didn't mean me, but she meant SHIKI.
+text Without a doubt, the ones fighting right now are Akiha and SHIKI.
+bgload BG_07B.jpg
+sound SE_12.aac 1
+bgload BG_07B.jpg
+text Skreeee!
+text The ear-piercing noise screams once again.
+text The sound comes from above--around the fourth floor.
+text "That idiot....!"
+text I fly through the third floor.
+text Damn it---she's being unreasonable.
+text Because of my nightmares, I understand SHIKI's body the best.
+text His power isn't on the same level as a human's.
+text I don't know how "nonhuman" the members of the Tohno family are, but she won't be able to win.
+text It would be like going to get herself killed.
+text "........!"
+text I run up the stairs as fast as I can.
+text ~
+text ---Akiha.
+text ~
+text I turned her away, not trusting her.
+text I haven't done anything to act like her brother, but still she calls me her brother.
+text ~
+text ----And now, she is fighting the killer SHIKI by herself.
+text "Damn---it!"
+text .... I just have this terrible, awful feeling.
+text Akiha---Akiha can't possibly win.
+text Will SHIKI kill her?
+text .... I don't know.
+text I don't think he will kill Akiha since he persistently went after Akiha in the dreams.
+text ~
+text But, on the other hand..
+text I don't think he has the same definition of being 'persistent' about someone.
+text Our definition is obtaining the ones we are persistent about.
+text He's crazy.
+text I can't understand his broken conceptions since I'm not.
+text No, even a lunatic couldn't understand another lunatic's thoughts.
+text Since the lunatic himself can't understand it, no one understands it, and he has to be alone.
+text "Aki.. ha---"
+text ---She is alive.
+text Akiha.. She has to be alive.
+text There's no way she'll be killed by SHIKI.
+text Because I should be the one SHIKI is going to kill.
+text Akiha---I cannot let her die in my place.
+text If such a thing happens, I---
+bgload BG_07B.jpg
+sound SE_12.aac 1
+bgload BG_07B.jpg
+text Skreeeeeee!
+text As I arrive on the fourth floor, that sound screeches once more.
+text It's close.
+text It feels like it is in the hallway past these stairs.
+text "Akiha----!!"
+text The worst mental image still writhing in my brain, I dash into the hallway.
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text ~
+text ----Eh?
+text ~
+text For a moment, I stand, dumbstruck.
+text "-------"
+text From behind me, I hear Hisui gasp.
+text "A----Aki.. ha."
+text That's the only thing that pops into my head.
+text The Moonlit hallway.
+text In the freezing air that cuts into my lungs,
+text Akiha is standing, a few yards down the hall.
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text Like blood, a deep crimson.
+text ~
+text ---At first, it looks like Akiha's blood.
+text ~
+text But that's not right.
+text What is red is just her long, long hair.
+text "------"
+text I'm still not able to grasp what is going on.
+text Down the hallway, there is Akiha, with her red flowing hair and---
+text ~
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg HAL_T04.png 33 0
+text him, crouching with one hand on the floor, coughing up blood.
+text The one kneeling before Akiha is him---SHIKI.
+text Akiha is looking down at him.
+text .... Drawing close behind her is the figure of Kohaku-san.
+bgload BG_11C.jpg
+text SHIKI is seemingly on the verge of death and gasping for air.
+text Akiha is not even breathing wildly.
+text ~
+text ---The situation.
+text Unbelievably, it would seem Akiha is the one overwhelming him.
+text "Gu......!"
+text SHIKI leaps forward.
+text In a flash of speed I can't even follow, a black blur shoots toward Akiha.
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text ~
+text Skreeeeeeeee!
+text ~
+text Akiha simply glances down at SHIKI.
+text With that, his body slams down to the ground, and as if in response to the sound.
+text His torso burns, giving out smoke.
+bgload BG_11C.jpg
+text "Hya--aaAaaaaaAH!"
+text SHIKI's screams echo through the hallway.
+text His evaporating body is covered in smoke.
+text His body under his kimono has mostly bones showing, like a mummy.
+text But he still lives, his gruesome form still staring at Akiha.
+text His eyes filled with fear.
+text On the other hand, Akiha's clothes are undisturbed.
+text .... Even from here, I can understand it all.
+text Her surroundings are distorted like a heat-induced mirage, and it seems more out of this world than the air in the building.
+text "Haa, g, uwaaaaaa......!"
+text SHIKI claws at his evaporating body.
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text Akiha calmly observes without carelessness.
+text ~
+text ----These two's powers..
+text They are fundamentally different.
+bgload BG_11C.jpg
+text "Amazing.... Akiha-sama, that is.... amazing."
+text Behind me, Hisui speaks in surprise.
+text That's exactly what I'm thinking too.
+text .... What is this?
+text You can say she is superior, but that's too much.
+text She is too overwhelming----
+music ~
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+music 09.mp3
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text "This is it, SHIKI."
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg HAL_T05.png 33 0
+text "Aki--ha."
+text With a ragged breath, SHIKI somehow manages to say his real sister's name.
+text Akiha--she just stares at SHIKI, unmoving.
+text "Why--why are you treating me this way?
+text I'm your true Nii-san."
+text "............"
+text Shifting,
+text the distortion around Akiha increases even more.
+text "I love you, Akiha.
+text I only love you.
+text That's why I kept living in that damn basement, trying to kill that impostor and trying to get us back to being brother and sister!
+text .... So why, why are you getting in my way, Akiha?"
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg AKI_T11C.png 0 0
+text ".... I'm not getting in your way.
+text This is nothing more than my duty as the head of the Tohno household---the duty to pass down judgment on all those in the family who stray from being human."
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg HAL_T05.png 33 0
+text "I'm the head of the Tohno household!
+text If he was not here, I would have still been SHIKI.
+text I could have always been your Nii-san.
+text Wake up, Akiha.
+text That impostor is just deceiving you!"
+bgload BG_11C.jpg
+text The distortion around Akiha increases even more.
+text After closing her eyes briefly, she looks at SHIKI as if she is parting with him.
+bgload BG_11C.jpg
+setimg AKI_T29.png 0 0
+text "---I am not being deceived.
+text You are not my Nii-san....!"
+text Skreeeeee!
+text ~
+text "Aaaahhh....!"
+text SHIKI hides his face with his hands.
+text .... But that is pointless.
+text I don't understand what kind of power Akiha possesses.
+text But that---takes away heat from everything in her view, anything she can see.
+text It is an inevitable "plunder".
+text Skreeeeeeeeeee!
+text So in the next instant,
+text SHIKI's face will vaporize.
+text ~
+text Well, it should have.
+text "Shiki-san?"
+text Kohaku-san says this as she realizes our presence.
+music ~
+text "---Eh?"
+text Akiha turns toward us in surprise.
+text ~
+bgload BG_11C.jpg
+text .... In that brief moment,
+text for just a split second, a complete letting down of her guard.
+text ~
+text There's no way he would let that chance slip away.
+if clear_hisui != 0
+    jump s411.scr
+fi
+jump s412.scr

@@ -1,0 +1,52 @@
+bgload IMA_10.jpg
+text ----I'll go to Arcueid's room.
+text ~
+text If Arcueid is as weak as Senpai says, she had to have returned to her room to rest.
+bgload BG_12B.jpg
+text I gasp for air.
+text My legs, which ran as hard as they could, finally stop.
+text Trying to catch my breath, I enter the apartment.
+bgload BG_13B.jpg
+text .... I grab the doorknob.
+text It isn't locked.
+text Without hesitating, I turn it and open the door.
+bgload IMA_10.jpg
+bgload BG_15B.jpg
+text .... Even though it wasn't locked, there's no one here.
+text ~
+text "Arcueid.... are you here?"
+text ~
+text There's no response.
+text Does she never lock her door?
+text There's no sign of her having even returned here.
+text "Damn.... Then she's still in town....!?"
+text I hit the wall.
+text But letting it out on the wall is not going to get Arcueid to come out.
+text ".... Where did you go.... where did you go, Arcueid....!?"
+text ~
+text ------If there really is a God, I want to ask him for help.
+text Arcueid isn't here.
+text But I can't find her just running around aimlessly.
+text At this rate I'll never----never see her again.
+text ~
+text "------"
+text No, I'm not done yet.
+text I still haven't fulfilled my promise with Arcueid.
+text The promise to help her defeat the vampire, and the promise to meet tonight so we can fight together.
+text ".... Pro.... mise...."
+text .... That's right.
+text There's still our promise.
+text Even if it's just one-sided, I----even if it's just me, I'll fulfill our promise.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text I return to the park.
+text Our promise still remains here.
+text Our unfulfilled promise for tonight remains here.
+text ~
+text ----So,
+text If I can't break this promise, and if she thinks it's important too,
+text ~
+text Arcueid will come back here.
+text I can only continue to believe in her and wait here.
+bgload IMA_10.jpg
+jump s193.scr

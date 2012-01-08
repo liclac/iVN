@@ -1,0 +1,86 @@
+bgload BG_56.jpg
+music 03.mp3
+text ----Hmm.
+text ~
+text I probably won't ever get a chance to talk with Arcueid in a fast food restaurant in the middle of the day like this again, so I'll ask not about vampires, but something more ordinary.
+text "Then I'll ask you.
+text Arcueid, could you tell me a little about your interests, your past, and your three sizes?"
+bgload BG_56.jpg
+setimg ARK_T03.png 36 0
+text "You want to know about that?
+text You sure ask strange things, Shiki."
+text "It's not strange.
+text I don't know anything about you, so it's natural to want to know about you."
+bgload BG_56.jpg
+setimg ARK_T01A.png 36 0
+text "Ah, I feel the same way, perhaps----in that case, I don't mind."
+bgload BG_56.jpg
+setimg ARK_T03.png 36 0
+text "But, interests and a past.. I don't have any of those.
+text I've also never measured myself so I can't tell you my three sizes.
+text I never recorded my age or my height like you guys do."
+text "What do you mean?
+text You've never even wondered about yourself?"
+bgload BG_56.jpg
+setimg ARK_T01B.png 36 0
+text "No, it's not like that, but it wasn't anything I ever had as a priority.
+text All I need is the ability to hunt Dead Apostles.... vampires."
+text "But still, there were things that happened before you came to this city, right?
+text I want to hear about those kinds of things."
+bgload BG_56.jpg
+setimg ARK_T03.png 36 0
+text "Before I came here.... hmm, that would probably be about eight years ago then.
+text At that time, I wasn't in this country, but in some other country hunting a vampire.
+text A vampire made its lair in a small, French countryside village that became a ghost town.
+text After two days, I found the 'enemy' and dealt with the female Dead Apostle controlling the town----"
+bgload BG_56.jpg
+text As if remembering something horrible, Arcueid closes her eyes and cuts off.
+text "Eight years ago?
+text Then up until now, what were you doing, Arcueid?"
+bgload BG_56.jpg
+setimg ARK_T01B.png 36 0
+text "What was I doing?
+text I just went back to my castle and slept.
+text My duty is to hunt Dead Apostles.
+text I have no other meaning for existence, so until another Dead Apostle stands out, there's nothing to do but continue sleeping, right?"
+text "Wha------"
+text Continue sleeping?
+text Does she mean literally?
+text No, in the first place----
+text ".... Wait a minute.
+text A castle, you mean that castle?
+text I'd have trouble believing it, but don't tell me your place is like that Cinderella's castle..!?"
+bgload BG_56.jpg
+setimg ARK_T11.png 36 0
+text "Cinderella's castle?"
+text Arcueid tilts her head like she doesn't get it.
+text "Uh----no, that's not a really appropriate expression.
+text Um, I mean, you're a, um.... princess?"
+bgload BG_56.jpg
+setimg ARK_T03.png 36 0
+text "Yes, it seems that way.
+text A long time ago I was told not to cut my hair and scolded to act more like royalty."
+text "--------"
+text .... I'm speechless.
+text Come to think of it, that Nrvnqsr guy always called her "princess."
+text But still----
+text "A royal princess?"
+text I steal a glance at Arcueid.
+text She's beautiful enough to take your breath away, but such a rambunctious person a princess?
+text She's not quite what comes to mind when I think of a princess.
+text ".... Well, at least you are as selfish as a princess."
+text I give a deep sigh.
+bgload BG_56.jpg
+setimg ARK_T16.png 36 0
+text "Hey now!
+text I only said it because you asked, so don't respond like that!"
+text Her Royal Highness glares at me.
+bgload BG_56.jpg
+text .... Arcueid doesn't seem to think of herself as a princess either, so I think it's just best to forget about this.
+bgload IMA_10.jpg
+bgload BG_56.jpg
+text Still angry, Arcueid resumes eating her hamburger.
+text After she's finished and calmed down, we decide to go somewhere else.
+bgload IMA_10.jpg
+music ~
+jump s176.scr

@@ -1,0 +1,23 @@
+bgload BG_33B.jpg
+text ---I feel bad doing this to Hisui, but I can't let her know.
+text I have to keep Arcueid a secret, and it's not like I can let Hisui or Kohaku-san, or Akiha know that I'm looking for the serial killer.
+text "No, I don't have any reason to go out.
+text Akiha scolded me today, so I'll stay put for a while."
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "I understand.
+text Then I will close the gate at the normal time."
+text She speaks plainly, without any expression.
+text The conversation ends and I go up to return to my room.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+music ~
+text After dinner, I go back to my room.
+text It's almost ten o'clock.
+text So as not to be discovered, I should go outside as discreetly as possible.
+text ~
+text "Now then---shall I go?"
+text Placing my knife in my pocket, I leave my room as quietly as I can.
+bgload IMA_10.jpg
+setvar flg9 + 1
+jump s156.scr

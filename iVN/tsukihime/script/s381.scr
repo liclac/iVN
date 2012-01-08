@@ -1,0 +1,87 @@
+text ---I cannot come up with an answer.
+text But I do know that I can't leave Akiha alone.
+text "-------!!"
+text I kill the flood of emotions.
+text Without thinking, I go after Akiha.
+bgload BG_54A.jpg
+music 08.mp3
+text --To my surprise, Akiha has not gone beyond the mansion.
+text ~
+text Under the moonlight.
+text Under the autumn leaved tree we once talked under.
+text Akiha just stands there.
+bgload IMA_10.jpg
+bgload event/AKI_E06.jpg
+text She is standing quietly.
+text Not doing anything.
+text Like a child, she innocently stares at the falling autumn leaves.
+text "--------"
+text What---could I do about it?
+text No reason, no intelligence, a girl that's just there.
+text There's no crime.
+text Akiha is not the one to blame..
+text ~
+text -----Please kill me.
+text ~
+text I recall those words.
+text ---Please kill me with your hands.
+text ~
+text What a cruel wish.
+text She could only ask for that---she couldn't even ask for help.
+text If you asked---I would have been on your side until the very last moment, even if the whole world was against me.
+text ~
+text ---Please keep our promise.
+text ~
+text .... What severe treatment.
+text I did leave her for eight years, but I never thought I'd be retaliated against in such a way.
+text "---------"
+text Akiha said..
+text Not knowing who you are and going around killing people out of instinct is more frightening than death.
+text Senpai said..
+text If you become something that just kills because of instinct, sometimes death is the only salvation.
+text "--------"
+text I grip my knife.
+text Surprisingly, I feel no sadness.
+text It's like my mind has gone empty; I don't want to feel any emotions.
+text "Akiha---"
+text I step on the dead autumn leaves as I walk towards her.
+text Akiha notices me and greets me with a smile.
+text "-----At least."
+text I grip hard onto my knife.
+text Akiha laughs.
+text She laughs happily as she greets the person that will kill her.
+text "-------!!"
+text My mind weakens.
+text But I have started walking.
+text ---Death can be salvation.
+text ~
+text I walk.
+text Akiha does not run away, but waits for me happily.
+text ~
+text ----Please kill me.
+text ~
+text The autumn leaves fall.
+text ~
+text ---That was your last wish.
+text Akiha is laughing.
+text There's no more distance to cross.
+text Now all I have to do is stick out this arm.
+text ~
+text ----No matter how painful it is for me,
+text ~
+text "I have to kill you."
+music ~
+text ~
+text Saying that,
+text my eyes suddenly overflow with tears.
+bgload IMA_10.jpg
+if akiha_regard < 9
+    jump s382.scr
+fi
+choice Keep my promise.|I can't do that.
+if selected == 1
+    jump s382.scr
+fi
+if selected == 2
+    jump s383.scr
+fi

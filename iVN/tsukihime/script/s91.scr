@@ -1,0 +1,300 @@
+bgload BG_19D.jpg
+text "------Alright."
+text I've decided what to do from the very beginning.
+text Taking the knife out of my pocket, I walk up to the door.
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text "----Shiki?"
+text "I'm going to go check things out.
+text Don't leave this room until I come back."
+text I step out into the hallway, shaking off Arcueid's look that she wants to say something.
+bgload IMA_10.jpg
+bgload BG_20A.jpg
+text No one is in the hallway.
+text .... I couldn't hear from inside, but the hallway is noisy.
+text It's not that this floor is noisy.
+text Rather, the noise is coming from beneath my feet.
+text There is some kind of ruckus on the floor below, I can hear the noise of many people talking.
+text ~
+text .... That's odd.
+text It's just past four in the morning.
+text Even under the assumption some people have woken up early, it's not normal for this many people to be up at this hour.
+text "...... Doesn't look strange so far."
+text I walk down the hallway.
+text ~
+text The noise from downstairs is like the sound of ocean aaces.
+text ~
+text Noisy--and yet so very solitary and inactive.
+text "------!"
+text My fingers gripping the knife feel numb.
+text A chill runs over the back of my neck.
+text There's something near my temple.
+text Pain emerges from the back of my eyes.
+text ~
+text Enduring it, I walk down the hallway.
+text "------"
+text It.. hurts.
+text My eyes.. hurt.
+text My head grows heavy, and I feel a drifting sensation, like I'm about to collapse right here.
+text ~
+text Yeah, I know what this is.
+text This is the feeling I get right before I collapse from anemia.
+text "Ah----gu......!"
+text ~
+text It hurts.
+text It hurts.
+text Unable to withstand it any longer, I remove my glasses.
+bgload BG_20B.jpg
+text .... There are two elevators.
+text One is stopped on the first floor, the other on the fifth.
+text "......"
+text There is an unpleasant feeling in the air.
+text A suffocating, tense sensation.
+text I push the button to call the elevator.
+text I just want to know what's going on downstairs for now.
+text The elevator rises.
+text .... Sixth floor.
+text .......... Seventh floor.
+text .................... Eighth floor.
+text .............................. Ninth floor.
+text "--Damn it, what's up with it?"
+text The elevator is awfully slow.
+text Something--a shapeless, shadow-like premonition of something fatally irrevocable clings to me--
+text ~
+text .................... Tenth floor.
+text ~
+text Just one more floor until the elevator reaches this one.
+text "------Hurry up."
+text My breath catches.
+text I realize all the noise I heard from below is now long gone.
+text ~
+bgload IMA_11.jpg
+bgload BG_20B.jpg
+text With a ridiculous electronic 'ding', the elevator arrives.
+text The door opens.
+text There is no one inside.
+text The interior of the narrow steel box is surprisingly clean and tidy.
+bgload IMA_10B.jpg
+text "------"
+text I enter, and press the button for the tenth floor.
+text With a heavy noise, the elevator descends.
+text Just one floor down, but it feels awfully far.
+text The current floor display shifts to show the tenth floor.
+text "Finally--"
+text ~
+text Suddenly---
+bgload IMA_10.jpg
+music ~
+text The world is engulfed in darkness.
+sound SE_02.aac -1
+text "......!?"
+text ~
+text Darkness.
+text Total darkness.
+text Pitch black, utterly without light.
+text ~
+text In that,
+text all I can see is the faint glimmer of the 'lines' of death.
+text "Why--?"
+text My breath freezes in my throat.
+text From all around, something--some kind of rustling sound, like the sound of insects crawling around--can be heard.
+text ~
+text ~
+text *rustle*
+text ~
+text ~
+text *rustle* *rustle*
+text ~
+text ~
+text *rustle* *rustle* *rustle* *rustle* ....!
+text "-----!"
+text I am about to cry out, but I hold back my scream.
+text ".... First, I've got to examine the situation.."
+text Just like Sensei taught me long ago.
+text ".... And then, think carefully.."
+text Taking a huge breath, I manage to calm my thoughts.
+text ".... I see.... A blackout."
+text .... But a hotel like this should have a backup generator for occasions like this.
+text Something must be wrong with the cables, if even that's not working.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text *rustle* *rustle* *rustllllllle*
+text "....!"
+text Gripping the knife, I tense up.
+text The sound of the crawling insects is coming from around the elevator.
+text It's like..
+text It feels like there are hundreds of giant cockroaches clinging to the outside of the elevator.
+text "--There's no point in staying here."
+text The display stopped when the tenth floor was lit.
+text Then it means that if I open the door, I should be at the tenth floor.
+text "----Guess I'll cut it."
+text I whisper to myself.
+text Thrusting the knife into the only 'line' I can see, I cut apart the door of the elevator.
+bgload BG_20B.jpg
+text ".... !?"
+text The instant the door opens--I am enveloped by a suffocating stench.
+text The tenth floor is filled with it.
+text It's so thick just breathing it is enough to clog my airways.
+text "-----"
+text But even so, if I were to take a step outside, I would be on the tenth floor's hallway.
+text In the distance, there is the faint glow of the lamp marking the fire escape.
+text Apart from that, the world is painted over in darkness.
+text I take a step outside.
+text ".... Is anyone.."
+text I'm about to say "there", but I stop.
+text I don't quite know why, but I feel as though it would be a bad idea to raise my voice.
+text I take another step.
+text Slowly, I enter the hallway.
+text The corridor reeks of the terrible smell.
+text A raw smell.
+text The smell of beasts.
+text That, and a grinding sound coming from somewhere.
+text "......"
+text There's been a stinging pain in my neck for a while now.
+text The darkness is frightening.
+text This silence is frightening.
+text .... To find out what happened here is more frightening than anything else.
+text The pain from the back of my neck running to the top of my spine holds back my nervousness.
+text That throbbing pain,
+text it's the price of my desperate attempts to repress the urge to just scream and flee.
+text ~
+text ~
+text *rustle* *rustle* *rustle*
+text ~
+text ~
+text *grind* *grind* *grind*
+text ~
+text ~
+text *scratch* *scratch* *scratch*
+text "Ha..!"
+text My breathing goes wild.
+text My body is drenched in sweat.
+text .... Knife in hand, I am unable to take another step.
+text I have the feeling that if I were to move even a little, I would see something unimaginably horrible.
+text *pant*  *pant*
+text But I'll really be in trouble if I don't get back upstairs.
+text .... To stay on this floor is worse.
+text ~
+text It feels like each second passing is grinding a year off my life.
+text That's how fast I feel 'death' closing in on me.
+text My breath comes quicker and heavier.
+text Fortunately, I can see where the fire escape is, thanks to the lamp.
+text It's down the end of the hallway.
+text If I can reach that green emergency light, I can go back upstairs.
+text ~
+text Gripping the knife, I set off down the dark hallway.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text -----*splash*
+text I can hear something from beneath my feet.
+text "-----"
+text I guess the hallway is soaked in water.
+text In addition, my feet keep bumping into things as I walk.
+text "-----"
+text Even so, I stay silent.
+text Bearing with the terrible stench smothering me, I head for the emergency light.
+text Only a few more meters to go.
+text Then, I see something squirming beneath the emergency light.
+text "...... Eh?"
+text I break my silence.
+text ~
+text A squishing, lukewarm sound.
+text A dry, grinding sound.
+text The wild panting breath of beasts.
+text "Wh--"
+text Under the green light of the fire escape..
+text All sorts of animals are swarming around some human-shaped object.
+text ~
+text I can't tell what sorts of animals are eating it.
+text The hallway is dark, and the emergency light is too weak.
+text That's why all I can gather is this image.
+text ---Numerous cockroaches are devouring the human corpse while emitting a laughing buzzing sound.
+text That's the only way I can make sense of this nightmare.
+text *rustle*
+text There is a noise coming from the direction of the elevator.
+text "Ha----"
+text I turn around.
+text Perhaps it's because my eyes have adjusted to the darkness?
+text Or maybe it's thanks to light from the fire escape, but I now see exactly what sort of condition the hallway I just passed through is in.
+bgload BG_20B.jpg
+text The hallway is a sea of red.
+text Lying around within that sea are human arms and legs.
+text The soaked hallway.
+text Scraggy, hard objects which I felt on my legs.
+text It must have been what I was stepping on.
+text "------"
+text My mind goes blank.
+text The hallway is red only on the floor.
+text Clinging to the ceiling and walls are all sorts of black things.
+text It's not because there are no lights that they look black.
+text They are black to begin with.
+text They don't seem to have any solid shape, sticking to the ceiling and walls like some sort of liquid.
+text But I know they are animals from the eyes.
+text The glinting eyes of the many beast-like forms are trained on me, the only surviving human-----
+text "Hya...."
+text I manage to suppress my scream.
+text The beasts are staring at me intently.
+text They hold their breath, waiting to assault me the moment I scream out.
+text "Ha---hhh."
+text I manage to regulate my ragged breathing.
+text I can feel it, awfully so, that the moment I cry out, they'll all attack me at once.
+text None of the creatures on the wall possess the same eyes.
+text It's almost ridiculous to see even shark-like eyes clinging to the wall.
+text "........"
+text I order my feet to move, but they won't budge an inch.
+text ~
+text ----I can't move.
+text ~
+text My feet will not move, after having seen a world like this.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text *grind* .... *grind* .... *gr* .... *ind* ....
+text The noise from beneath the emergency light grows smaller.
+text Those beasts are probably finishing off the corpse.
+text "......"
+text My breath catches.
+text The rustling draws closer.
+text It seems--the creatures found their next prey called Tohno Shiki.
+text "Ah......"
+text But my legs would not move.
+text This world is too different, my mind doesn't operate properly.
+text ~
+text ---I've made a mistake.
+text I shouldn't have come to this floor----
+bgload IMA_10.jpg
+text ~
+text ---Then.
+text ~
+text I can hear a terribly familiar sound.
+text The very normal sound of human footsteps.
+text A completely normal, common-sense sound from the world I lived in until a moment ago.
+text "Aaaaaaah----!"
+text My numbed mind infuses strength into my paralyzed legs.
+text I run.
+text Kicking up soaked blood in the hallway, I dash towards the emergency light.
+text Run.
+text I have to get away from this place as fast as possible..!
+text But that was a mistake.
+text Reacting to my dash, the black things clinging to the wall and ceilings crash after me like a aace.
+text "----!"
+text I dash towards the stairs with everything I have.
+text But the black aace is so many times faster than I am, and in an instant, my body is--
+sound ~
+if flg2 >= 1
+    jump s93.scr
+fi
+jump s92.scr

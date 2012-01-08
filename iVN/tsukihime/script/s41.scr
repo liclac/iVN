@@ -1,0 +1,462 @@
+bgload BG_32B.jpg
+text "----It's huge."
+text The words escape my mouth when I reach the gate.
+text For someone like me, used to living in a normal house, the Tohno mansion seems well out of reality.
+text ".... I wonder if I rushed into this?"
+text .... No, it's too late to start regretting things now.
+text The gates aren't locked.
+text I push them open, and head towards the mansion doors.
+bgload BG_48B.jpg
+text They tower oppressively, bearing down on any visitors.
+text Beside the iron double doors is an unmatching doorbell.
+text ".... Alright."
+text Shaking off my nervousness, I press it.
+text There isn't any affectionate "ding-dong" chime from the doorbell.
+text The oppressive silence continues for a few seconds.
+text Then, the sound of pattering footsteps behind the door indicates someone's presence.
+music 03.mp3
+text "We have been waiting for you."
+text The door opens with a creak.
+text Inside is the lobby I remembered and a young girl in an apron.
+bgload BG_33B.jpg
+bgload BG_33B.jpg
+setimg KOHA_T03.png 52 0
+text "Thank goodness.
+text You're so late I was beginning to worry that you had gotten lost.
+text I was thinking about going out to meet you if you hadn't arrived by sunset."
+text The girl in the anachronistic apron smiles warmly.
+text "Ah, no--that's.. uh.."
+text I am so taken aback by her outdated mode of dress that I can't even form a proper sentence.
+text Perhaps attributing my hesitance to distrust, the girl tilts her head a little.
+text "You're Shiki-sama, aren't you?"
+text "Eh--Yeah, but you don't have to call me '-sama'."
+text "You are, right?
+text Oh, please don't scare me like that!
+text I was beginning to think I had made another mistake back there."
+text She gives a good-natured laugh.
+bgload IMA_10.jpg
+bgload event/HIS_E01.jpg
+bgload BG_33B.jpg
+text I have no basis for this, but she fits the image perfectly.
+text "Um.. uh.. could it be that you're the girl who played together with us when we were small?"
+text I inquire tentatively.
+text ~
+bgload BG_33B.jpg
+setimg KOHA_T05.png 52 0
+text She gives a full smile, looking truly happy.
+text "Come; you must be tired, right?
+text Please do come in.
+text Akiha-sama is waiting for you in the sitting room."
+bgload BG_33B.jpg
+text The girl quickly crosses the lobby and heads towards the sitting room.
+text ~
+text Turning back as if she just remembered something, she makes a bow, a full smile on her face.
+bgload BG_33B.jpg
+setimg KOHA_T02.png 52 0
+text "Welcome home, Shiki-sama."
+text Her greeting is accompanied by her flower-like smile.
+text I can't think of any reply, so I just follow her hesitantly.
+bgload IMA_10.jpg
+music ~
+bgload BG_34C.jpg
+music 01.mp3
+text Guided by the girl, I head to the sitting room.
+text ~
+text ---It's as if I'm seeing it for the first time.
+text ~
+text I don't know if I've forgotten about it in the last eight years or if they had it refurbished since then.
+text Either way, it feels like someone else's house now, and it's unsettling.
+text As I'm looking around the sitting room, the maid in the apron lowers her head in a quick bow.
+text "I've brought Shiki-sama with me."
+text "Well done.
+text You may return to the kitchen, Kohaku."
+text "Thank you."
+text It seems that maid's name is Kohaku.
+text Kohaku-san gives a small bow, as if to say farewell, and leaves the sitting room.
+text This leaves me, and--two girls I don't recognize.
+bgload BG_34C.jpg
+setimg AKI_T01A.png -24 0
+bgload BG_34C.jpg
+setimg AKI_T01A.png -24 0
+setimg HIS_T01.png 126 0
+bgload BG_34C.jpg
+bgload BG_34C.jpg
+setimg AKI_T01A.png 40 0
+text "It has been a long time, Nii-san,"
+text says the girl with the long black hair and sharp eyes.
+text .... All my thought processes stop at once.
+text My mind goes blank, and I can't think of any words of greeting.
+text All I can do is nod with a "Yeah."
+text ~
+text .... I don't think it can be helped.
+text This Akiha that I had not seen in eight years is not the Akiha I remember.
+text She's completely transformed into a proper young lady of a noble family.
+text "Nii-san?"
+text The black-haired girl tilts her head slightly.
+text "Ah.. um."
+text Pathetically, all I can say are dumb-sounding things.
+text My mind is turning in somersaults as I try to recognize the girl before me as Akiha, but it seems like Akiha already recognizes me as her brother.
+text "You do not look well.
+text Would you like to rest before we talk?"
+text Akiha throws a sharp glance in my direction.
+text .... Is it just my imagination that she looks like she's in a bad mood?
+text ".... No, I'm alright.
+text I was just surprised at how much you've changed, Akiha."
+text "People do change over the course of eight years, Nii-san.
+text We are at an age of change--or did you think we'd remain like back then forever?"
+text ~
+text .... What is this?
+text .... I can feel the thorns in Akiha's words.
+text "No, you've definitely changed, Akiha.
+text You've become more beautiful than before."
+text That isn't flattery.
+text It's how I really feel.
+text ~
+text ---And.
+text "Indeed.
+text But you, on the other hand, have not changed much at all."
+text Akiha answers coldly, her eyes closed.
+text "...."
+text .... Well, I came prepared for something like this.
+text It is as I had thought.
+text It seems Akiha does not think well of me.
+text "If you are feeling well, let us finish our conversation.
+text You have yet to hear the details about why you were called back here, Nii-san?"
+text "I've heard nothing more than a sudden 'Come back to the mansion', though I found out in the papers the old man passed away."
+text .... If the head of a major company dies, it definitely makes it on the financial papers.
+text Word of Tohno Makihisa's death reached his son, Tohno Shiki, via the newspaper after the funeral.
+text Even though his relatives hadn't told him, this disinherited son could pick up news of his father's death merely by buying a one hundred yen newspaper.
+text It might be cynical of me to say so, but the world has certainly become a convenient place.
+bgload BG_34C.jpg
+setimg AKI_T12A.png 40 0
+text ".... I am sorry.
+text It was my fault that you did not get the news about Father."
+text Akiha quietly lowers her head.
+text "It's alright.
+text Either way, it's not like he would come back from the dead if I went.
+text It's not something you should be worried about."
+text ".... I am sorry.
+text It is somewhat comforting to hear you say that."
+text Akiha's face is serious, but this is not a topic I care much about.
+text A funeral is a ceremony for those who cannot not detach their feelings for the deceased to achieve such detachment.
+text For someone like me, who cut off such feelings a long time ago, there is no need.
+bgload BG_34C.jpg
+setimg AKI_T01A.png 40 0
+text "Calling you back here was my idea.
+text It would be odd for the eldest son of the Tohnos to be entrusted to the Arimas forever.
+bgload BG_34C.jpg
+setimg AKI_T04A.png 40 0
+text Now that Father has passed away, the only Tohnos by blood are you and I, Nii-san.
+text I don't know what Father was thinking when he entrusted you to the Arimas, but he's no longer with us, so there's no longer any need for you to live with them.
+text That is why I had you come back here."
+text ".... That's all well and good, but I'm quite surprised you were able to get our relatives to agree to this.
+text Wasn't it they who came up with the idea of leaving me with the Arimas in the first place?"
+text "That may be so, but now I am the head of the Tohno family.
+text I declined every one of the proposals from our relatives.
+bgload BG_34C.jpg
+setimg AKI_T01A.png 40 0
+text I would like you to continue living here, Nii-san, but this is a place with rules.
+text You will avoid living the overly casual lifestyle you've been leading up until now."
+text "Haha.
+text I'm afraid that isn't going to happen, Akiha.
+text There's no way I can go back to being some well-mannered gentleman now.
+text Not that I want to."
+bgload BG_34C.jpg
+setimg AKI_T02.png 40 0
+text "I will not ask more of you, but do try to--or are you saying you are unable to do what I already have?"
+text Akiha shoots me a cold look.
+text It feels like she's hitting me with her grudge against me for leaving her here for the last eight years.
+text ".... Alright.
+text I get it.
+text I'll try my best."
+text Akiha just stares at me, as if she doesn't quite believe me.
+bgload BG_34C.jpg
+setimg AKI_T01A.png 40 0
+text "You do not need to try, as long as you get the results."
+text Her pose is dignified, her words merciless.
+text "Let's get back to the topic.
+text Right now, you and I are the only ones living here.
+text I do not care to have too many people around, so I cleared everyone out."
+text "Eh?
+text Hold on a second, Akiha.
+text You 'cleared everyone out'?"
+text "You wouldn't want to run into one of our relatives in the mansion, would you, Nii-san?
+text I have put off most of the servants, but there are enough for you and I, so there are no problems."
+text "Wait, 'no problems'?
+text You're going to get attacked at our family meeting if you do something like that!"
+bgload BG_34C.jpg
+setimg AKI_T02.png 40 0
+text "Oh, please be quiet.
+text Rather than have the mansion overflowing with people, wouldn't you feel more relaxed with just the two of us here?"
+text .... Urgh.
+text Well, it's true that I would feel relaxed, but..
+text "But you've only just become head of the family, Akiha.
+text If you go around abusing your powers like some kind of dictator, our relatives are not going to keep quiet.
+text Even the old man didn't go against their opinions."
+bgload BG_34C.jpg
+setimg AKI_T01A.png 40 0
+text "Indeed.
+text That's why father entrusted you to the Arimas.
+text I, on the other hand, have despised them ever since I was a child.
+text I am not going to put up with their whining any longer."
+text "'Not going to put up with'.. look, Akiha---"
+bgload BG_34C.jpg
+setimg AKI_T21.png 40 0
+text "Ahh, enough!
+text Just listen!
+text You don't have to worry about me!
+text Please, just worry about your own life from now on, Nii-san.
+text I can see it's going to be difficult for you in many ways."
+text Akiha says sullenly, looking away a little.
+text "Now then, if there's anything you don't understand, ask her--Hisui."
+bgload BG_34C.jpg
+bgload BG_34C.jpg
+setimg HIS_T01.png 126 0
+text She looks at the girl standing by her side.
+text The girl called Hisui bows expressionlessly.
+bgload BG_34C.jpg
+setimg AKI_T04A.png -24 0
+setimg HIS_T01.png 126 0
+text "This is Hisui.
+text She will be your personal maid from now on.
+text Is that acceptable with you?"
+text ~
+text --------Eh?
+text ~
+text "Wa-personal maid?
+text You mean..?"
+text "In other words, she's your servant."
+text Akiha declares, as if it were obvious.
+text .... I can't believe it.
+text Fitting with the western style of the house, the girl in the maid outfit stands there, as if it is natural to do so.
+text "--Hold on.
+text I'm not a kid, you know.
+text I don't need a servant.
+text I can take care of myself."
+text "Would that include the cooking and the laundry?"
+text Urgh.
+text Akiha is pretty sharp at pointing these things out.
+bgload BG_34C.jpg
+setimg AKI_T01A.png -24 0
+setimg HIS_T01.png 126 0
+text "At any rate, now that you've returned to this house, you will obey my directions.
+text I don't know how you lived at the Arima house, but you're living at the Tohno house now.
+text Please accept everything given to you."
+text "Urgh.."
+text I can't say anything and I drift my eyes towards Hisui.
+text As expected, she simply looks back at me expressionlessly like a doll.
+text "Well then, Hisui.
+text Please show Nii-san to his room."
+bgload BG_34C.jpg
+text "Yes, my lady."
+text Hisui approaches me with a shadow-like lack of presence.
+text "I will guide you to your room, Shiki-sama."
+text Hisui heads towards the lobby.
+text Sighing, I head off towards the lobby too.
+bgload IMA_10.jpg
+bgload BG_33C.jpg
+text We enter the lobby.
+text This mansion is split into east and west wings, with the lobby in the middle.
+text The lobby is like the body of a bird whose wings are the halls extending diagonally to the east and west.
+text Each wing is about the size of a small hospital.
+text I remember the house is constructed symmetrically, so both the east and west wings have the same floor plan.
+text "Your room is this way, Shiki-sama."
+text Hisui climbs up a flight of stairs.
+text It seems like my room is on the second floor.
+text ~
+text .... Come to think of it, the servants' rooms should be on the first floor of the west wing, so that's probably where Hisui and Kohaku-san's rooms are.
+bgload BG_46C.jpg
+text Outside, the sun has already set.
+text The girl in the maid uniform walks down the long, dimly lit hallway without a word.
+text ".... It kind of feels like a wonderland."
+text Without thinking, I let my thoughts slip out.
+bgload BG_46C.jpg
+setimg HIS_T01.png 62 0
+text "Did you say something, Shiki-sama?"
+text Hisui stops and looks back at me.
+text "No, I'm just talking to myself.
+text Don't worry about it."
+text "......"
+text After staring at me, Hisui bows and starts walking again.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+bgload BG_40C.jpg
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text ".... Is this my room?"
+text "Yes.
+text If you are displeased with it, I can arrange a different one for you."
+text "No, there's no way I could be displeased with it.
+text It's--"
+text It's just a little--no, really too fancy for me.
+text "Shiki-sama?"
+text "--It's fine.
+text I'll gladly use this room."
+text "Understood.
+text This room has not been touched since eight years ago, so I do not believe you will find anything unsatisfactory with it."
+text "--?"
+text There's something a little odd about the way Hisui said that.
+text It's as if she was implying this was once my room.
+text ".... Hey.
+text Is this by any chance my old room?"
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text "That is what I have been told.
+text Am I mistaken?"
+text Hisui inclines her head to the side slightly.
+text .... I feel relieved.
+text It seems this girl can express emotion after all.
+text ".... Well, it might be, now that you mention it.
+text I do remember it faintly, so it must be so."
+text I can't feel any sense of familiarity about this place at all, but I guess that's what it's like after you leave a place for eight years.
+text "I can't get settled here, though.
+text I was living in a six-and-a-half-mat sized room until this morning.
+text It's like I'm staying in some high class hotel."
+bgload BG_40C.jpg
+setimg HIS_T01B.png 62 0
+text "I understand how you feel, but please try to get used to it.
+text From today onwards, you are the eldest son of the Tohno house, Shiki-sama."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "You're right.
+text I've got to do my best so I at least look like it on the outside."
+text ~
+text With a thump, I drop my bag on the table and stretch my back.
+text ~
+text ---I've been feeling a little stressed out with everything that's happened so far, but I guess I've got no choice but to adjust from today onwards.
+text "Shiki-sama, all of your luggage has been brought here.
+text Is there anything more you require?"
+text "--No, not really.
+text Why do you ask?"
+text ".... There was very little delivered.
+text If there is anything you need, I can have it prepared, so please do not hesitate to ask."
+text ".... I see.
+text No, I don't need anything more for now.
+text I didn't have much luggage to begin with.
+text My luggage is just this bag, these glasses, and.."
+text ~
+text The textbooks in my bag, and that white ribbon with an unidentified owner.
+text That's all----
+text "Ah."
+text That's right.
+text I haven't asked her the important thing yet.
+text "Can I ask you something, Hisui?"
+text "Yes.
+text What is it, Shiki-sama?"
+text "Um.. I'm sorry if I'm mistaken about this, but you and Kohaku-san are sisters, right?"
+bgload BG_40C.jpg
+setimg HIS_T17.png 62 0
+text "-----"
+text For an instant, surprise flashes in Hisui's expressionless eyes.
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text ".... Yes.
+text Kohaku is my older sister."
+text "Really?
+text Great!
+text Then that means you two must be the girls who once lived here!"
+text I am so happy that I inadvertently raise my voice.
+text "......"
+text In direct contrast to my joy, Hisui does not move.
+text "Hisui..?
+text You and Kohaku-san were the children taken in here, aren't you?
+text We used to play together.
+text I wonder if you remember--"
+text I close my mouth as soon as I speak.
+text .... No.
+text The girl I had played together with was the bright and cheerful one.
+text The one who just gazed at us with those cold eyes has to be--
+text " .... Um.. I played together with your sister quite often.
+text Hisui..?"
+text "Yes, I know.
+text Two years before you went to the Arima household, Makihisa-sama took in Nee-san and I."
+text ~
+text Hisui speaks as if disinterested.
+text .... It's good that I know Hisui and Kohaku-san are the twins from my memories, but it seems Hisui doesn't think much of it.
+text ".... I see.
+text I didn't talk to you much, I'm sorry for getting so worked up."
+bgload BG_40C.jpg
+setimg HIS_T16.png 62 0
+text "You have nothing to apologize for, Shiki-sama.
+text I must also apologize for my rudeness to you when I was younger."
+text Hisui lowers her head.
+text "------"
+text I feel really uneasy.
+text I know Hisui doesn't mean to make me feel bad, but I don't know how to respond when a girl the same age as me says that to me.
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Do you have any other requests, Shiki-sama?"
+text "Ah.. no, nothing in particular."
+text "Very well.
+text I shall come to call you in an hour's time.
+text Please relax until then."
+text As I expected, Hisui says everything with an expressionless face.
+text By one hour later, she must mean dinner.
+text .... But even if she tells me to relax.. how would I do that here?
+text The clock says it's around six o'clock.
+text Usually, I'd be watching TV in the sitting room around this time, but I'm having serious doubts as to whether there's any such thing in this mansion.
+text "Hisui.
+text I know it's kind of a trivial thing to ask about, but is there a television in this mansion?"
+text "A television..?"
+text Hisui's eyes narrows slightly.
+text .... I know I'm the one who asked, but it really is a stupid question.
+text I feel there's something wrong with asking about the presence of a TV in a luxurious mansion like this.
+bgload BG_40C.jpg
+setimg HIS_T26.png 62 0
+text Hisui makes a rare troubled face, and stares off into space.
+text ".... There is no television in the sitting room.
+text Some of the visitors did make use of one, but when they departed, they packed it up with their luggage and took it back with them, so I do not believe there are any remaining."
+text "Hold on.
+text Visitors?
+text Like who?
+text For how long?"
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Relatives.
+text The eldest son of Kugamine-sama from a branch of the family, Touzaki-sama's third daughter and her fiancee, and Kishima-sama's eldest son came to stay for close to three years."
+text ".... Three years, huh?
+text Hisui, that's what you'd call freeloaders, not visitors."
+text Hisui does not reply.
+text No matter what kind of people these freeloaders were, it seems that servants can't say anything bad about them.
+text Well, at any rate, it seems like those relatives had brought, and taken back, their own luggage with them.
+text My old man hated the products of modern culture, thinking them all vulgar.
+text There was no way he would ever watch a TV.
+text Akiha, who had been educated by him for the last eight years, would probably be the same.
+text "--Well, it's not like I'll die without one."
+text Hisui is silent.
+text .... Like a perfect example for servants, Hisui says nothing unless she is being asked a direct question.
+text This is, of course, kind of depressing for me.
+text I want to make that expressionless face break into a smile somehow, but that seems impossible with just any old half-hearted effort.
+text "Oh, there was a library on the first floor of the west wing, wasn't there?
+text Maybe I'll go find something to read when I have some free time."
+text Hisui does not reply.
+text She just stands there in the doorway.
+text I can't even tell where she's looking.
+text "--Hisui?"
+text Hisui doesn't say a word.
+text Suddenly, she looks straight at me.
+text ~
+text "I believe there is one in Nee-san's room."
+text ~
+text "Huh?"
+text I have no idea what she's talking about.
+text ".... Uh.. there's one of what?"
+text "A television.
+text I remember seeing one in Nee-san's room."
+text Hisui says, as if remembering something from many years ago.
+text "I see.
+text Kohaku-san does look like the type of person who'd watch those variety shows."
+text But I balk at going to Kohaku-san's room to tell her, "Let me watch your TV."
+text "Sorry, just forget I ever asked.
+text After all, I'll be living here from now on, so I've got to follow the rules of the mansion."
+text God knows what sort of cynical comment I'd be in for from Akiha if I started watching television.
+text It seems I'll be leading a scholarly student life fit for a member of the Tohno family from now on.
+text "Alright.
+text I'll be in my room until dinner, so just come and call me when it's time.
+text You've got other things to do, don't you, Hisui?"
+text Hisui nods in assent, and turns around.
+bgload BG_40C.jpg
+text Silently opening the door, she leaves the room.
+bgload IMA_10.jpg
+music ~
+jump s42.scr

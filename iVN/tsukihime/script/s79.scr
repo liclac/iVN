@@ -1,0 +1,30 @@
+bgload BG_25A.jpg
+bgload BG_25A.jpg
+setimg ARK_T03.png 36 0
+text ".... Hmmm?"
+text As we walk out of the back alley, she--Arcueid--knits her eyebrows and gives me a suspicious look.
+bgload BG_25A.jpg
+setimg ARK_T06.png 36 0
+text "Hey, Shiki.
+text Are you a Christian, by any chance?"
+text ~
+text .... I have no idea what she's talking about.
+text "Chris-chan..?
+text What's with that question, all of a sudden?
+text I don't know any girl who's got a name like that."
+bgload BG_25A.jpg
+setimg ARK_T03.png 36 0
+text "I see.
+text Then I must have misunderstood."
+text After seeming to have made a decision, she turns towards the office district.
+bgload BG_25A.jpg
+setimg ARK_T01A.png 36 0
+text "Okay, let's go.
+text We've got to find a safe place for now."
+text Arcueid begins walking.
+text "----Okay."
+text ~
+text There's no way I can back out now.
+text Sighing, I follow after her.
+bgload IMA_10.jpg
+jump s80.scr

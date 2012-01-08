@@ -1,0 +1,100 @@
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_50.jpg
+text The cafeteria is packed, as usual.
+text A long line of people waiting for their orders has developed.
+text Casting a glance at the students holding their meal tickets, I sit down at Arihiko's table.
+text "So, Arihiko, who is this special guest?"
+text "Uhhh.. that's odd.
+text We arranged to meet here in the cafeteria.
+text Hold on, I'll go check things out."
+text Arihiko runs off, leaving his curry udon.
+text "...."
+text Chikara-udon is my choice.
+text I hope he returns before the noodles go stale.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+bgload BG_50.jpg
+setimg ARI_T03.png 40 0
+text "It's no good.
+text Looks like Senpai went somewhere."
+text "Hmm?
+text Your guest is a senpai?"
+text "Yeah, she's a really cool girl.
+text I've been hitting on her for the last few days, and I finally got her to agree to eat lunch together.
+text Apparently she has someone she wants to thank today, so she's running around school looking for whoever it is."
+text *sigh*
+text ".... It seems like she's a busy person."
+text "Yeah.
+text She's kind of like one of those Penny Racers."
+text With a look of regret, Arihiko splits his chopsticks.
+text "Well, I guess it can't be helped.
+text Anyhow, itadakimasu."
+text "Yes, itadakimasu."
+bgload BG_50.jpg
+text We begin to slurp at our udon.
+text ~
+text .... Just what the heck are Penny Racers anyway?
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text "So, what was the real reason?"
+bgload BG_50.jpg
+setimg ARI_T04.png 40 0
+text "Huh?
+text What do you mean?"
+text "The reason you were early this morning.
+text You aren't the sort of person who comes to school early just because he gets up early, Arihiko-kun."
+text I question Arihiko as I sit next to him, eating my chikara-udon.
+text "Hmmm."
+text Arihiko gives an uncommitted response as he slurps away at his soup.
+text "Are you going back to your real house today, Tohno?"
+text "Yeah, I am.. wait, have I told you about that already?"
+text "Nah.
+text I just heard it from the teacher."
+text Arihiko continues to wolf down his curry udon without glancing in my direction.
+text "I thought, 'Maybe Tohno will get really depressed!' so I decided to check it out."
+text ".... I see.
+text And your verdict?"
+text "Pretty disappointing.
+text It wasn't worth getting up early for."
+bgload BG_50.jpg
+text "You really have too much time on your hands, Arihiko," I conclude, as I bite into the white rice cake in my chikara-udon.
+text .... That's the kind of person Arihiko is.
+text Today is the day I return to the house of my real family, returning from the home of the adopted family who raised me.
+text Arihiko must have heard about it somewhere and came to school early because he was worried about me.
+text ".... Arihiko, I think your appearance does you a disservice.
+text You're really sentimental underneath."
+bgload BG_50.jpg
+setimg ARI_T02.png 40 0
+text "Heh, heh.. If it's the always-melancholy Tohno telling me that, then maybe I'm the real thing."
+text Arihiko slurps noisily at his noodles.
+bgload BG_50.jpg
+setimg ARI_T01.png 40 0
+text "So man, what's really going on?"
+text "What do you mean?"
+text "You've been living with the Arimas since primary school, right?
+text It's been eight years already.
+text Your dad has basically disinherited you.
+text Why is he suddenly calling you back now?"
+text "He didn't 'disinherit' me.
+text He just kicked me out of the house somehow."
+text "Tohno-kun, if there ever was a family that kicked their kid out of their house 'somehow', that's not a tragedy, it's a comedy.
+text But it's so boring, it's not even funny."
+text Arihiko spreads his arms and shrugs.
+text Refusing to be serious, ever, is one of Arihiko's easy-to-understand traits.
+text ".... Yeah, I guess you're right.
+text If you get kicked out of the house, laughing is all you really can do."
+text "And then he said some cliche line like, 'Never step foot in this house again!' or something, right?
+text That's what people would call disinheritance.
+text Come to think of it, I've never heard why you were disinherited."
+text "...."
+text .... Who knows?
+text That's something I'd like to know too.
+text "Well, if you don't want to talk about it, you don't have to."
+bgload BG_50.jpg
+text Grabbing his bowl with both hands, Arihiko drains what is left of his hot curry soup.
+text Lunchtime is short.
+text Following Arihiko, I decide to quickly finish my chikara-udon.
+bgload IMA_10.jpg
+music ~
+jump s31.scr

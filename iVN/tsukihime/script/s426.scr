@@ -1,0 +1,163 @@
+bgload BG_11D.jpg
+text ---Before that footstep even fades, I spring into action.
+text ~
+text "Here---------!"
+text ~
+text Akiha's voice is a mixture of malice and pleasure.
+text Enjoying the tension of battle, she smiles as she looks in my direction.
+text "---------"
+text That carelessness is my only chance and her only reason for loss.
+text "Not good enough, Nii-san.
+text No matter how fast you are, you just get clearer as you get closer to me-----!"
+text Her voice is full of delight.
+bgload IMA_11B.jpg
+bgload BG_11D.jpg
+text Her eyes catch a hold of me.
+text Then, the rest is simple.
+text I won't be able to reach her, as she'll evaporate my arms and legs, and collapse to the floor.
+text ~
+text -----Well,
+text that is, only if she can fix her eyes on me until I am completely burned away.
+bgload IMA_10.jpg
+text My view reverses.
+text "----------Eh?"
+text Her voice is full of surprise.
+text In that same instant, the red hair that was to burn my arms and legs vanishes.
+text It's fortunate that the hallway is just a straight line.
+text Akiha, who thought I would only attack directly, can't see me as I climb up the wall and jump to the ceiling.
+text Proceeding up the wall like a spider, my foot touches the ceiling only once.
+text It's not like I can actually be a spider.
+text Turning my body, I'm just using the ceiling for a foothold.
+text ~
+text The distance is good enough.
+text Before my body falls, I use my legs to thrust off the ceiling.
+bgload BG_11D.jpg
+text "Uh, eh------?"
+text Akiha's gaze shifts upwards and the burning sensation returns to my arms and legs.
+text The feeling stops in an arm and a leg.
+text They probably don't exist anymore.
+text But, I don't need them any longer.
+text My body has the speed it needs.
+text Like this----
+text ~
+text "Kyaa--------!?"
+text ~
+text I collide into Akiha.
+bgload IMA_10.jpg
+text "Why, you--------!"
+text Akiha lifts her head.
+text Being this close to her, she can easily find me and disintegrate my body.
+bgload IMA_14.jpg
+text ~
+text So,
+text before that happens, I cut it apart.
+text ~
+text That delicate neck.
+text I cut it horizontally through her pulsing veins.
+text Making no differentiation between her skin, her muscles, her arteries, her bones,!w1500 without mercy or compassion,!w1500 like plucking a lily,!w1500 without even any resplendent pain.
+bgload BG_11D.jpg
+music 09.mp3
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Thud.
+text On the hard floor, something that's shaped like a bowling ball drops.
+text It's all over.
+text Her eyes are cluelessly looking at the wall of the hallway, and probably will continue to do so for all of eternity.
+text ~
+text "Is that the last thing you saw?"
+text ~
+text Her eyes being lower than that of a dog or a cat's, she fixes her gaze towards the dirty wall.
+text Everywhere is darkness.
+text Dying while watching this scenery, it's like a bad joke.
+text ~
+text ".... Didn't the old man teach you that taking pleasure in killing is shallow, Akiha?"
+text ~
+text .... Well, that would've been useless.
+text Tohno Makihisa was shallow, so her messing up like that was inevitable.
+text ".... What a shame.
+text Even though you were this talented, the fire that formed you was too weak."
+text ~
+text That's why I could kill her so easily.
+text Doing useless things like enjoying killing.
+text You did that, so you died.
+text In this place, all alone.
+text Forever alone, staring at that wall that no one ever watches, not even letting out the final agonies of death.
+text ~
+text "................ Ha."
+text ~
+text Hmph.
+text Even though she is my sister, she looks so pathetic.
+text "-----------Ahh."
+text My stopped breathing resumes.
+text My burnt body feels power flowing into it once more.
+text .... Because Kohaku-san died, my body was losing its power.
+text But since Akiha died, it seems like I am returning to normal.
+text Well, in the first place,
+text this body, this head, this heart, even if I embrace them and live, there is nothing-------
+text *pant*---*pant*----*pant*----
+text My breathing returns.
+text My numb arm and leg still seem to be holding their shape.
+text On the floor, Akiha's blood finally starts to spill outward.
+text "Aah----------ah."
+text Crawling to the wall, I manage to stand up on one leg.
+text I open the window and fresh air streams in.
+text The cold wind blows through the baking hallway.
+text "-------Aha.
+text Hahaha, ha."
+text This wind feels extremely good.
+text It cools my burning body and my headache ceases.
+text "----Haha.... ha.... ah----"
+text So why?
+text Only my thoughts, as if my head is becoming empty.
+text Everything feels the same and my vision does not return to normal from the red world I'm in.
+bgload IMA_01.jpg
+text ------Above my head is the crimson moon.
+text ~
+text I remember that one dream.
+text That moon looking down at that killer.
+text Even at that time, it was a beautiful moon, so why?
+text Why can't it evenly illuminate me tonight?
+text ~
+text -----Like a snake.
+text ~
+text Like an inflamed red eye, it stares at me.
+text Staring.
+text The red eye looks down on me intently.
+text Red.
+text Red, red, red eye.
+text ".... Ha.... haha.... I understand it now----"
+text That made it all clear.
+text What Akiha was looking at in her last moments wasn't the wall.
+text She was looking at Nanaya Shiki as he approached to mechanically slice her neck.
+text ".... I see.
+text Then----it won't go away, will it."
+text Then, the moon will always be red.
+text In her eyes, the killer is still burning.
+text That can't be erased.
+text That's why even though everything is over, I have nowhere to go.
+text I lost Kohaku-san, I even killed Akiha.
+text There really is nowhere I can go.
+text All purpose, even my self, has disappeared.
+text Despite that, my only leg limps down the hallway.
+text ~
+text ----The sky overhead still has that giant eye.
+text ~
+text With Akiha still watching him, Nanaya Shiki walks off to somewhere.
+bgload IMA_10.jpg
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s543.scr
+fi
+if selected == 2
+    jump main.scr
+fi

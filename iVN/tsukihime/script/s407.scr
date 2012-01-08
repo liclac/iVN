@@ -1,0 +1,92 @@
+bgload BG_40C.jpg
+text "Stop pounding on the door, I'm, going--to open.."
+text Hazily, I open the door.
+text "Nii-san--!"
+text Akiha rushes into the room.
+text Kohaku-san follows behind her.
+bgload event/AKI_H13.jpg
+bgload BG_40C.jpg
+bgload BG_40C.jpg
+setimg AKI_T15B.png 40 0
+text "Nii-san, what were you doing....!?
+text You look terrible, you should be in bed---!"
+bgload BG_40C.jpg
+text ~
+sound SE_01.aac 1
+text ----My heart pounds.
+text ~
+bgload BG_40C.jpg
+setimg KOHA_T03.png 52 0
+text "That's right, Shiki-san.
+text You haven't eaten since lunch, and you haven't taken your IV.
+text If you keep this up, you will not heal."
+bgload BG_40C.jpg
+text ~
+sound SE_01.aac 1
+text ----My heart pounds.
+bgload BG_40C.jpg
+setimg AKI_T02B.png 40 0
+text "Geez.
+text I don't know what happened, but please calm down.
+text Sleeping on the floor like that.. do you want to die, Nii-san?"
+bgload BG_40C.jpg
+text ~
+sound SE_01.aac 1
+text ----My heart pounds.
+text ~
+text Akiha comes closer to take my arm as she says this.
+text Like she said in that detached house.
+text She's coming.. to kill me.
+text "----Get out!"
+sound SE_10.aac 1
+bgload BG_40C.jpg
+setimg AKI_T15B.png 40 0
+text "Eh---Ni, Nii-san, what are---"
+text "Get out, I said!
+text I won't let you--kill me....!"
+bgload BG_40C.jpg
+text I push her away.
+text .... But it's not like I can push her out into the hallway with this body.
+text Akiha simply takes a step back and stares at me.
+bgload BG_40C.jpg
+setimg AKI_T11B.png 40 0
+text "Nii-san, just what do you mean?
+text Who told you that I would kill you?"
+text Akiha looks at me directly.
+text My heart skips a beat.
+text Her sharp glance feels like she is reading my mind.
+text ".... Just get out....!
+text I'm not a killer, I'm still sane....!"
+bgload BG_40C.jpg
+setimg AKI_T15B.png 40 0
+text "Killer.. Nii-san--you are already pulled in this much?"
+text Her voice is filled with surprise.
+text Akiha walks towards the door on her own.
+bgload BG_40C.jpg
+setimg AKI_T11B.png 40 0
+text ".... I understand.
+text Nii-san, you are exhausted right now, so I will come back and see you later."
+text "--Shut up!
+text I won't let you or anyone else in this room....!"
+text "............"
+text Akiha raises her eyebrows for a second, then starts to leave the room.
+bgload BG_40C.jpg
+setimg AKI_T10B.png 40 0
+text ".... Nii-san.
+text I will listen to your words today, but tomorrow, I will make you listen to me.
+text Leaving you by yourself for one day is dangerous enough; I simply cannot leave you alone for two days, otherwise you will surely die.
+text Please wait for just one more day, Nii-san."
+bgload BG_40C.jpg
+text The door shuts.
+text *pant*.... *pant*.... *pant*
+text I can hardly breathe.
+text Just like Akiha said, I will surely die at this rate.
+text *pant*.... *pant*.... *pant*
+text But, it's still better than Akiha killing me.
+text ~
+text ----I lock the door.
+text ~
+text I lean against the wall and keep my eyes open so I won't fall asleep.
+bgload IMA_10.jpg
+music ~
+jump s408.scr

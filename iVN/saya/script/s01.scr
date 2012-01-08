@@ -1,0 +1,421 @@
+music music/s01.mp3
+bgload bp01me0.jpg
+sound fumi01_1.aac -1
+
+sound voice/2/000104.aac 1
+text "ネェネェ," the wriggling lump of flesh burbles, "今度ノすﾀｾｾ劔。ｩ撥錐年ハ、ドッカ渙ｨーとモ遊ベﾋ坥ｿ牴ナイ?"
+sound voice/2/000205.aac 1
+text "すﾎｻﾈ祭ォ?ワザワｴｬｴﾋ?ｱ角マデ行ッ閂ﾄ泚麸と?"
+sound voice/2/000302.aac 1
+text "ハハ、勘煕ﾋヤッテクレヨ津久葉。コイツ今ｴﾋ?ｱ角咨まッテンダ。ナンｶｵノ前、コｭナッテ始メテすけーﾑﾜﾕｱ性ﾀ縷ンダカラサ"
+
+text Three such creatures are sitting around the table in front of me, slurping filthy sludge from their cups as they trade whines, growls, and sounds that I can hardly describe.
+
+bgload bp02me0.jpg
+
+sound voice/2/000404.aac 1
+text "ナニﾖｸ。凬ﾕーとシタコトナﾁ蚪ノガソンﾑ麓ﾅ思議?"
+sound voice/2/000502.aac 1
+text "二十ﾅ像ナッテ初ｳッテノハ、今日日ソウソウイ梗繙ャナイカナ?"
+sound voice/2/000604.aac 1
+text "子供ﾉ嫡ハ何トナク怖ｾ駐タノヨ。アﾑ麓、ナン￠觝物ミタイデサ"
+
+bgload ba01me0.jpg
+
+text By listening carefully, I'm able to grasp the gist of their conversation. 
+text This allows me to barely avoid arousing their suspicion.
+text I can stay out of it as long as they're just talking among themselves, but I can't ignore them if they speak to me. 
+text However they may look, they are my "friends," apparently.
+
+bgload cg/03_1.jpg
+
+text I want to deny it, of course--but I gave up on that a long time ago.
+text Each night, I went to sleep wishing that this would turn out to be a nightmare.
+text Yet each morning I awoke to find that the world was just as horribly warped as it was the day before.
+text I have to live while blending in, while acting like one of them. 
+text Just as I've done these past three months, I will continue to do for the rest of my life.
+
+bgload bp03me0.jpg
+
+sound voice/2/000705.aac 1
+text "デモ、イキナ悋ｾッテ滑レ啅昃?青海$ｰャン、悧ﾙナイ?"
+sound voice/2/000802.aac 1
+text "要領ハす羃ﾕｯｮ促ソウ変ワルモ晴ジャナイﾉｵナ。重心ヲ羃ﾕｯｮ促シテ、靴ノ羚ﾖ縁デこん?ーるスル感覚トカ"
+text ~
+text Judging by its tone, this one must be Kouji. And the one next to him, squealing more than the others, is probably Oumi.
+text Which means that the one next to me must be Yoh, though I can no longer see any trace of her once-refined features. 
+text I try my best to ignore the rotten stench of the excrement that issues from her quivering flesh.
+text ~
+
+bgload bp01me0.jpg
+
+sound voice/2/000904.aac 1
+text "耕司ニソウ翼罘｣乕モンダカラサ、騙サレタト鵰!ヤッテミタわ。ソシタ緻ウ、楽シクッテ"
+sound voice/2/001005.aac 1
+text "フゥン......ワタシモ見テミﾆ希ナ。青海チャン拠隘けーとヤルトコロ"
+sound voice/2/001104.aac 1
+text "ダカラサ、ネ?今度ノすき滑篥行。ツイデ塾ｨけーと旅行ニシチャエバﾝ濕ﾁオイシク鬆ﾑイッテわけヨ"
+text ~
+text Everything has changed completely.
+text While everything appears different to me, my relationship to the world alone is the same. 
+text These creatures were part of the same college club as me, and we used to be pretty good friends. 
+text We even went skiing every winter break.
+
+bgload cg/03_1.jpg
+
+text Now these are but fond memories of days that will never return. 
+text If only everyone, including my friends, had forgotten about me, I might have been able to disconnect myself from the world. 
+text It would have been comforting, in comparison, to believe that I had been abducted by aliens and taken to a different planet or something.
+text However, this is definitely Japan on the planet Earth, and this is the city where I was born and raised, the society that I was a part of for twenty-odd years. 
+text But I, and I alone, can no longer see it that way.
+text I no longer recognize the world. I have no place to call home.
+
+bgload ba01me0.jpg
+
+sound voice/2/001205.aac 1
+text "デ翫ァ......すけーとハす烏鵫ﾈんくニ行ケバデ肱ルジャナイ。ワザワザすｻー場ニ行ッテマデ、ヤル?"
+sound voice/2/001304.aac 1
+text "ダカラ、屋内ジャ愧テサ、屋苞ｧけーと。凍ッタ塘デ滑レルトコロ"
+sound voice/2/001405.aac 1
+text "ソンナ都合ノイ冕トコ、アルカナァ......何ダカスッゴク霞デソウ"
+
+text Anyway, I can tell that whatever they're talking about is of no importance to me. 
+text I'll just keep quiet and pretend to listen.
+text But just then--
+
+bgload bp02me0.jpg
+
+sound voice/2/001502.aac 1
+text "Hey Fuminori," one of the flesh-lumps says as it swivels its bloodshot eyes towards me, "what do you think?"
+text ~
+sound voice/3/001700.aac 1
+text "......About what?"
+text ~
+text I desperately try to suppress my loathing and behave normally...... but my hoarse voice ruins the attempt.
+text ~
+sound voice/2/001702.aac 1
+text "Uh, we're talking about this year's skiing trip. You're coming too...... right?"
+
+sound 05_1.aac 1
+
+text A slimy hole near the top of the creature writhes nauseatingly as it vomits some semblance of words. 
+text Ah, so that must be Kouji's head, face, and mouth; or rather, what I would have seen as such three months ago.
+text ~
+sound voice/3/001900.aac 1
+text "I don't know."
+text ~
+text Unable to bring myself to look at it, I avert my eyes and give a neutral answer.
+sound voice/2/001902.aac 1
+text "You have other plans?"
+sound voice/3/002100.aac 1
+text "Not really."
+text ~
+text Kouji was one of my best friends, as was everyone else here. 
+text They were all precious to me, and one of them had even desired to be more than just friends.
+text ~
+text How many nights have I spent crying in loneliness, lamenting the friends who no longer exist?
+
+bgload ba01me0.jpg
+
+text ~
+text In three months I cried myself dry, and now there is only loathing left in me. 
+text Surrounded by fleshy creatures that I can only assume are Kouji, Oumi, and Yoh, I spend each day trying to act like I always have. 
+text If I fail at this, I'll probably be sent back to the hospital.
+text But this time, I'll be locked away forever.
+text No matter what, I mustn't let that happen.
+text ~
+sound voice/2/002102.aac 1
+text "Hey...... It's not like physical activity could affect your injuries, right?"
+sound voice/3/002300.aac 1
+text "I'm not sure. I'll ask the doctor during my check-up."
+text ~
+text I'm at my limit. 
+text I can't look at them or listen to their terrible voices any longer.
+text Losing my patience, I jump to my feet.
+
+bgload bp03me0.jpg
+
+sound voice/2/002302.aac 1
+text "Hey, Fuminori!"
+text ~
+
+sound 88_1.aac 1
+
+text A spray of stringy slime from the cilia wriggling around its voicebox flies towards me. 
+text I try to cover myself, but too late to keep the slime from splattering across my face like the yolk of a rotten egg.
+text ~
+text I'm on the verge of losing it. 
+text I want to grab a chair - a desk - anything within reach - and use it to smash the life out of this creature, ending it all.
+
+bgload ba01me0.jpg
+
+text --I barely supress the impulse.
+text I have to avoid arousing their suspicion. 
+text However they look to me, this is their world. 
+text I'm the outsider here.
+text ~
+sound voice/3/002500.aac 1
+text "Like I said, today's my check-up. I have to go."
+text ~
+text I try to fake a smile, but I'm not sure it works. 
+text Reaching into my wallet, I pull out the first bill I find and put it on the table without looking at it.
+text It's probably enough for the drink I ordered, and I don't care about the change. 
+text I just want to get out of here as fast as possible.
+text ~
+sound voice/3/002600.aac 1
+text "Later."
+
+sound 82_1.aac 1
+
+text I leave, quite literally running for my life.
+text ~
+
+sound 35.aac 1
+music ~
+bgload 000000.jpg
+
+text I'm not crazy.
+
+delay 140
+sound ~
+music music/s02.mp3
+bgload cg/06.jpg
+
+text ~
+sound voice/3/000104.aac 1
+text "Hey," says Takahata Oumi, "why don't we go somewhere with skating for this year's ski trip?"
+text ~
+text Tsukuba Yoh frowns at the suggestion.
+text ~
+sound voice/3/000205.aac 1
+text "Skating? Why go to a ski resort to skate?"
+sound voice/3/000302.aac 1
+text "Haha. Give her a break, Tsukuba. She's been into skating recently."
+text ~
+text Tonoh Kouji supports Oumi with a laugh. 
+text Her sudden statements are nothing new, and it's Kouji's role as her boyfriend to provide backup.
+text To Yoh, they seem like a good match for each other. 
+text Sometimes it makes her jealous.
+text ~
+sound voice/3/000402.aac 1
+text "I mean, she got started pretty late."
+sound voice/3/000504.aac 1
+text "Hey! Is it so strange that I'd never been skating before?"
+sound voice/3/000602.aac 1
+text "I don't think there're many first-time skaters in their twenties these days."
+sound voice/3/000704.aac 1
+text "I was kinda scared when I was little. Those shoes seemed like knives to me."
+
+bgload ba01no0.jpg
+setimg yoh05.png 10 0
+
+sound voice/3/000805.aac 1
+text "But you were able to just start skating? That's pretty amazing, Oumi-chan."
+sound voice/3/000902.aac 1
+text "It's not very different from skiing, after all. You keep your weight forward and use the angle of the shoes to steer."
+sound voice/3/001004.aac 1
+text "That's what he said, so I took his word for it and gave it a try. And it was fun!"
+
+bgload ba01no0.jpg
+setimg yoh03.png 10 0
+
+text Oh, so it was a date -- Yoh feels a stab of envy.
+text Kouji and Oumi enjoy their time together like normal lovers do. 
+text That's certainly not something to be jealous of. 
+text It's just that Yoh's luck has been bad.
+text ~
+
+bgload ba01no0.jpg
+setimg yoh04.png 10 0
+
+sound voice/3/001105.aac 1
+text "Hmm...... I want to see Oumi-chan skating too......"
+text ~
+text Yoh keeps her voice upbeat, trying to cover up her inner conflict.
+
+bgload ba01no0.jpg
+setimg yoh05.png 10 0
+
+text Yoh knows that she mustn't be envious or blame luck. She has a special person too. 
+text It's because of the terrible tragedy that befell him that he doesn't spend any time with her. 
+text His is true misfortune, the sort that makes "unluckiness" pale in comparison.
+text ~
+
+setimg oumi03.png 150 0
+
+sound voice/3/001204.aac 1
+text "So, how about it? If we make the next ski trip a skating trip too, it'll be twice as fun!"
+text ~
+
+bgload ba01no0.jpg
+setimg oumi03.png 150 0
+setimg yoh02.png 10 0
+
+sound voice/3/001305.aac 1
+text "But you can skate at a skating rink, can't you? Why go all the way to a ski resort?"
+sound voice/3/001404.aac 1
+text "I don't want to skate indoors. I want to be outside, where I can skate on a lake or something."
+sound voice/3/001505.aac 1
+text "Will it be that easy? I think it'll be pretty crowded."
+text ~
+text While speaking, Yoh sneaks a sideways glance at him.
+
+music ~
+bgload ba01no0.jpg
+
+text Although the conversation has only involved Kouji and Oumi, with Yoh supporting their lively banter, there are clearly two couples sitting at the cafeteria table.
+text In other words, Yoh's boyfriend - though there's still some doubt over whether he could be called that - is also sitting with them.
+
+setimg kouji11.png 10 0
+
+sound voice/3/001602.aac 1
+text "Hey, Fuminori. What do you think?"
+text ~
+
+music music/s03.mp3
+
+text Maybe Kouji sensed the pain in Yoh's heart, in his usual quiet and considerate way.
+text ~
+
+bgload cg/03_1.jpg
+
+sound voice/3/001700.aac 1
+text "......About what?"
+text ~
+text The cause of Yoh's distress - Sakisaka Fuminori - responds to Kouji's sudden query with a vague, mumbled question of his own.
+text ~
+
+bgload ba01no0.jpg
+setimg kouji12.png 10 0
+
+sound voice/3/001802.aac 1
+text "Um, we're talking about this winter's ski trip. You're coming too...... right?"
+text ~
+text Kouji speaks gingerly, as though probing a tumor. 
+text A few months ago, he wouldn't have hesitated to firmly rebuke Fuminori for his attitude. 
+text Their long acquaintance had forged a friendship that needed no restraint.
+text ~
+sound voice/3/001900.aac 1
+text "I don't know," Fuminori responds bluntly, his downcast eyes and sullen demeanor making it clear that he has no desire to break his silence.
+text ~
+sound voice/3/002002.aac 1
+text "You have other plans?"
+sound voice/3/002100.aac 1
+text "Not in particular."
+text ~
+text Even Kouji, who should be Fuminori's best friend, cannot communicate with him as he could before. 
+text It should go without saying that Yoh can't find a thing to say.
+text The scars left by the events of that late-summer day are still deep months later. 
+text Each one of the four bears them, not only Fuminori.
+text ~
+sound voice/3/002202.aac 1
+text "Hey...... It's not like physical activity could affect your injuries, right?"
+sound voice/3/002300.aac 1
+text "I'm not sure. I'll ask the doctor during my check-up."
+
+sound 41.aac 1
+
+text As though that answer drained the last of his patience, Fuminori bolts out of his chair.
+text ~
+sound voice/3/002402.aac 1
+text "Hey, Fuminori!"
+text ~
+text Even Kouji can't keep his voice from rising a little as he tries to stop Fuminori from leaving.
+text ~
+text Fuminori reacts swiftly, throwing his hand over his face as though trying to shield himself from something terrifying.
+text ~
+text Maybe some spittle flew inadvertently from Kouji's mouth, but that's the sort of thing that happens occasionally during everyday conversation. 
+text At least, there wasn't even enough spit for Yoh to see clearly; certainly nothing you'd need to frantically protect yourself from.
+text Even if he was spit on, Fuminori's reaction was extremely unpleasant.
+
+bgload cg/03_1.jpg
+
+sound voice/3/002500.aac 1
+text "Like I said," Fuminori snaps, making no attempt to relieve the discomfort of his friends, "today's my check-up. I have to go."
+text ~
+text Even as he tosses money onto the table, presumably to pay for his coffee, he acts like he's touching something filthy.
+text ~
+sound voice/3/002600.aac 1
+text "Later."
+
+sound 82_1.aac 1
+bgload ba01no0.jpg
+
+text ~
+text With a hurried stride that makes it seem as though he's running away, Fuminori leaves the cafeteria.
+
+sound 35.aac 1
+
+text ~
+text Still cloaked in heavy silence, the remaining three lower their gaze to the table, where the abandoned ten thousand yen bill sways forlornly.
+text Looking closely, they see that Fuminori's coffee is untouched.
+ 
+setimg oumi04.png 150 0
+
+text ~
+sound voice/3/002704.aac 1
+text Oumi sighs, "I can't take this anymore," but Kouji shakes his head reproachfully.
+
+setimg kouji02.png 10 0
+
+sound voice/3/002802.aac 1
+text "I think Fuminori just...... needs a little more time."
+sound voice/3/002904.aac 1
+text "But it's been three months! What's with his attitude!? I feel like I'm going to go crazy hanging around with him!"
+
+bgload ba01no0.jpg
+setimg oumi04.png 150 0
+setimg kouji01.png 10 0
+
+sound voice/3/003002.aac 1
+text "Hey, I don't get it either, and I don't think there's any way I can.
+sound voice/3/003002_2.aac 1
+text Can you imagine what it'd be like to lose your family in such a horrible way? That'd screw anyone up."
+text ~
+text It was a tragedy that could have happened to anyone.
+text A tractor trailer flipped over, crushing the Sakisaka family car into twisted scrap. 
+text They said it had even been difficult to tell the corpses of Fuminori's mother and father apart.
+text For a while, it had looked as if there was no hope for Fuminori's survival. 
+text That he was able to leave the hospital and return to his life was nothing short of a miracle.
+text ~
+
+bgload ba01no0.jpg
+setimg oumi04.png 150 0
+setimg kouji02.png 10 0
+
+sound voice/3/003102.aac 1
+text "He was worse when we went to see him in the hospital, remember? He was terrified of us, like he didn't know who we were, and freaked out so bad he had to be tied to the bed.
+sound voice/3/003102_2.aac 1
+text I'm just glad he's made it this far."
+sound voice/3/003204.aac 1
+text "There's still something strange about him. What's with the way he looks at us? It's like we're not human."
+
+bgload ba01no0.jpg
+setimg oumi04.png 150 0
+setimg kouji15.png 10 0
+
+text ~
+sound voice/3/003302.aac 1
+text "Cut it out, Oumi," Kouji says forcefully, his words of restraint probably less out of empathy for his friend than out of consideration for Yoh.
+
+bgload cg/13.jpg
+
+text ~
+text While Kouji's kindness makes her happy, Yoh also knows that, as Kouji says, she mustn't depend on it.
+text Fuminori is the victim. 
+text He's the one who most deserves sympathy.
+text ~
+text Yoh's feelings for Fuminori are her problem, and no one else's. 
+text She doesn't blame Fuminori for not responding to her immediately after she finally worked up the courage to confess to him.
+text In fact, she thinks even more fondly of him for his serious consideration of her feelings than she would have had he given a quick, casual answer.
+text ~
+text Assuming that, just because Fuminori didn't turn Yoh down, they were essentially a couple, Kouji and Oumi have had plenty of fun at their expense -- However, he still hasn't given her an answer.
+text After revealing her feelings to him, Yoh didn't see Fuminori again until a week later--and then she could only stare at his severely wounded body through the window of the ICU.
+text ~
+text And when he was finally released, after fifty days that seemed like an eternity, he was somehow different.
+text She's starting to doubt that he even remembers what she confessed to him before the accident.
+text ~
+text Now winter is coming, with her feelings still hanging in the air.
+
+music ~
+jump s02.scr

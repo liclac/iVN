@@ -1,0 +1,143 @@
+bgload BG_31A.jpg
+text "I---"
+text ~
+text There's no way I can help her.
+text I was almost killed by just that black dog.
+text If I go with her, I'll die for sure.
+text ~
+text "---I can't do something like that.
+text It'd be suicide."
+text I manage to glare at her and reply, trembling.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text She looks at me with displeasure.
+text "Suicide?
+text Why?
+text With your killing abilities, I would think you have nothing to fear."
+text "That was different.
+text I'm sorry, but I'm just a normal student, not some kind of monster like a vampire.
+text A normal student can't cooperate with a person like you."
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Oh?
+text Do normal students usually cut up girls they don't even know?"
+text "----Ah."
+text I feel weakened by her comment.
+text ".... But that was special.
+text I've never felt that way before, and I've lived a normal life---"
+music ~
+text "Aahh enough, shut up!"
+bgload BG_31A.jpg
+setimg ARK_T23.png 36 0
+sound SE_01.aac 1
+text "Eh---"
+text The pupils in those red eyes open up.
+text Immediately, the feeling she exudes changes.
+text ~
+text The chilling feeling is unbelievable.
+text I think my heart might stop beating just from her glare alone.
+text "Don't get me wrong.
+text You killed me.
+text I'm saving you and not pulling off your head right now just because you might be useful."
+text ~
+sound SE_01.aac 1
+text My neck feels numb, like someone is slowly sinking a blade into it.
+text "-----"
+sound SE_01.aac 1
+text My throat, which had been so hot a moment ago, is rapidly growing colder.
+text The air I breathe feels heavy.
+text As if the very air around here is freezing.. I feel a cramped sensation that almost makes me collapse.
+sound SE_01.aac 1
+text An oppressive feeling full of despair, like the world itself were glaring at me.
+text ~
+sound SE_01.aac 1
+text All that feeling of weight condenses and hammers into my brain like a bullet.
+bgload IMA_11.jpg
+sound SE_01.aac 1
+text "Ah-----eh?"
+text ~
+text Everything goes white.
+text A disgusting feeling.
+text Pain, like someone opened a hole in my skull and is pouring in alcohol.
+text That is the only way to describe this sensation.
+sound SE_01.aac 1
+text "Gah-------"
+text ~
+text I can't even cry out.
+text The sounds leaking from my mouth are no longer human speech.
+sound SE_01.aac 1
+text "A---guhh."
+text ~
+text My heart is breaking apart.
+text My memories are crumbling.
+text She's only glaring at me, but I feel like she's reaching into my skull and kneading my brain with her bare hands.
+sound SE_01.aac 1
+text If this continues, I'm going to be empty----
+sound SE_01.aac 1
+text "Stop----it."
+text ~
+text That's all I can say before I lose my sanity.
+text Suddenly---the invasive feeling inside my head disappears.
+music 01.mp3
+bgload BG_31A.jpg
+text "Hha---aghh."
+text Released from the oppressive aura, I hug myself.
+text ~
+text ---I'm still alive.
+text ~
+text I'm not dead.
+text I'm still alive and breathing.
+text ~
+text ---I feel like I'm about to cry.
+text To feel such deep emotion at such a simple thing is something I hadn't experienced up until now---
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "How about it?
+text Maybe now you understand your position a little better."
+text "-------"
+text .... You think I can understand that?
+text All I can do is look up, tremble, and grit my teeth.
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "There's only two choices.
+text You cooperate with me, or you don't.
+text Simple, isn't it?
+text All I'm asking you is whether you want to live or die."
+text "H------"
+text My voice doesn't work properly.
+text Only my basic survival instincts help me to avoid death by nodding in reply.
+bgload BG_31A.jpg
+setimg ARK_T01A.png 36 0
+text "Alright.
+text Then our contract is established."
+text Where did all that anger from just a moment ago disappear to?
+text Speaking in a cheerful tone, she extends her hand to me.
+text "I guess I can finally introduce myself now.
+text ~
+text I'm Arcueid---hmm.... my last name is really long, so just Arcueid is fine for now.
+text I'm a True Ancestor type vampire.
+text How about you?"
+text I heave a heavy sigh at her unprecedented introduction.
+text .... It's a sigh of resignation, evidence I've decided to accept this nonsensical situation.
+text "I'm Tohno Shiki.
+text Sadly, I'm just your everyday student.
+text .... I've said it before, but I'm really not going to be much use."
+text Grasping her---Arcueid's hand, I stand up.
+text She takes a long hard look at me, and then offers me her hand again.
+bgload BG_31A.jpg
+setimg ARK_T09.png 36 0
+text ~
+text "Nice to meet you, Shiki.
+text I'll have you take responsibility for killing me."
+text Arcueid grins as she extends her left hand.
+text .... There are all sorts of responsibilities in this world, but this is probably the first and last time someone takes responsibility by helping someone they've killed.
+text ".... Damn it!
+text Do whatever you want."
+text But there's nothing else I can do.
+text I grudgingly extend my left hand and shake hands with the woman in white claiming to be a vampire.
+bgload IMA_10.jpg
+music ~
+if flg2 >= 1
+    jump s79.scr
+fi
+jump s80.scr

@@ -1,0 +1,49 @@
+bgload BG_19D.jpg
+text Arcueid doesn't look like she's going to give up.
+text ".... Fine.
+text Give them back as soon as you're done looking."
+bgload BG_19D.jpg
+text I hand her my glasses.
+text Arcueid stares intently at the glasses, and then looks at me with frightening eyes.
+bgload BG_19D.jpg
+setimg ARK_T07.png 36 0
+text "Shiki, is the person who made these glasses in this city right now?"
+text "I don't think she is.
+text It's been eight years, and it seems like she was only here for a week."
+text "--I see.
+text That's good.
+text I don't have to deal with more.. well, it's probably safer not to deal with Blue in the first place, anyway."
+text Arcueid retreats to her thoughts.
+text "Arcueid, you know Sensei--I mean, the person who made these glasses?"
+text ".... I know her.
+text A Sorceress, she is one of only four of her kind.
+text These glasses are truly a masterpiece.
+text Even I can't break them."
+text Arcueid's face grows even more serious.
+text ".... Wait--you were going to break them?"
+bgload BG_19D.jpg
+setimg ARK_T12.png 36 0
+text "----Eh?
+text D-did I say that part out loud?"
+text ".... I knew it.
+text You were going to break them after all."
+text I retrieve the glasses from Arcueid.
+bgload BG_19D.jpg
+text "Geez.
+text You're the one who just said I couldn't stay sane without these glasses.
+text Or do you want me to go crazy?"
+bgload BG_19D.jpg
+setimg ARK_T11.png 36 0
+text "That's not what I meant.
+text I just didn't like how you treasured them so much."
+text "--Hey, listen, you.."
+bgload BG_19D.jpg
+text ~
+text .... Geez.
+text Somebody, please tell me how a mind like hers works.
+text ~
+text "It's true my memories of Sensei are precious to me.
+text But more importantly, I can't live without them.
+text If I were to see the lines 24 hours a day, I think I'd die from the headache before I went mad."
+setvar ark_regard + 1
+jump s88.scr

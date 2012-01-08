@@ -1,0 +1,92 @@
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+sound SE_02.aac -1
+text "..!"
+text Unable to take it, I leap out of bed.
+text I start to breathe heavily.
+text I press my hand over my mouth and resist the urge to throw up.
+text "Wh-----"
+text What, was that?
+text A dream.
+text It was a dream.
+text But, what was that?
+text Why did I have such a terrible dream, of killing people and drinking their blood?
+text I try and catch my breath.
+text The thirst in my throat.
+text The feeling of biting flesh.
+text The pleasure burning through my brain as I killed.
+text .... These things, why do they seem so real?
+text I can even remember perfectly the feel and sound of the heart as it was ripped out.
+text I continue to gasp hungrily for air.
+text I don't know if it was really "pleasure".
+text It was just excitement condensed like a bullet, fired straight into my head.
+text "Guh.."
+text My breath stops as I remember.
+text Then---perhaps that impact could be something called "pleasure".
+text "Why did I.. that kind of dream.."
+text I look down at my hands.
+text Of course, they are pure white, without a trace of red blood on them.
+text I am sleeping on the bed, and fresh morning sunlight shines in through the window.
+text ~
+text .... That time.
+text That first meeting with the vampire Yumizuka in a back alley.. is it still in my mind?
+text Maybe that's why I had such a ghastly dream.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "Ow----"
+text My neck hurts where Yumizuka bit it.
+text ~
+text ---Those who are bitten by a vampire become vampires as well.
+text Unexpectedly, that common phrase pops into my head.
+text ".... Can't be.
+text I'm overthinking this."
+sound SE_04.aac 1
+text Excusing herself, Hisui enters the room.
+text The same figure, the same voice as always.
+music 02.mp3
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text Hisui speaks politely.
+text Since I arrived here, Hisui has brought a calm tranquility with her every morning.
+text As I think this, the tumult of bad dreams simply fades from my head.
+bgload BG_40A.jpg
+setimg HIS_T07.png 62 0
+text ".... Shiki-sama?
+text Is there something wrong?"
+text "---Ah, no.
+text I was just enraptured for a moment.
+text .... Morning, Hisui.
+text This morning's just like always, huh."
+bgload BG_40A.jpg
+setimg HIS_T05.png 62 0
+text "Ah---yes.
+text I am sorry it is no better than usual."
+text "I don't mean it like that.
+text I just feel, since you are the same as always, today is as peaceful a morning as always."
+text Alright!
+text With vigor, I throw myself out of bed.
+text "I'll change and go to the sitting room.
+text You can go now."
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Very well.
+text Please excuse me."
+bgload BG_40A.jpg
+text Hisui leaves and shuts the door calmly.
+text "Right---stupid thoughts aside, I should go to school.."
+text Taking charge of my thoughts, I breathe deeply.
+text It's ten before seven.
+text Like yesterday, there's no hurry today, so I'll---
+text ~
+choice Calm down a little, then head to the sitting room.|I'm fine, so I'll head to the sitting room.|I should get a little more rest.
+if selected == 1
+    jump s344.scr
+fi
+if selected == 2
+    jump s345.scr
+fi
+if selected == 3
+    jump s346.scr
+fi

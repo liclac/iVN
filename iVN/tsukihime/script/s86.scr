@@ -1,0 +1,84 @@
+bgload IMA_06.jpg
+text ~
+text ----I value my life.
+text I recall the scene yesterday when I killed Arcueid.
+text The stench of death and blood.
+text ---I never want to experience something like that again.
+text If I were to remain with Arcueid, there'd be no question that I would be subjected to that scene again.
+text If I don't want that, I'll have to go back to the mansion.
+text "------"
+text .... I get the feeling that there's some major flaw in my decision.
+text But right now, everything is a mess in my head and my sense of logic refuses to function properly.
+text Anyhow, for now, I'll return to my own room for some rest.
+text I'm sure I'll calm down and think clearer then.
+bgload IMA_10.jpg
+bgload BG_22C.jpg
+text The sun has gone down, and my surroundings have been cast into darkness.
+text It's probably past seven now.
+text The curfew for the mansion is eight, so I'd better hurry back if I don't want to be scolded by Akiha.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text The streets around the mansion are deserted like always.
+text The sun's only just gone down, but the silence is like that of midnight.
+text "Come to think of it, this place is.."
+text Where I've gone to check out that noisy stray dog the night I first returned to the mansion.
+sound SE_01.aac 1
+text "Huh....?"
+text I'm beset by a terrible premonition of misfortune.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Strange.
+text Suddenly, my surroundings became completely black.
+text I hear a dripping sound.
+text .... Where's that sound coming from?
+text It's coming from nearby.
+text My body is starting to cool.
+text It's coming from nearby.
+text Alarms are going off somewhere in my head.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Drip, drip.
+text Drip, drip.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text The sound..
+text I think it's coming from right behind my neck.
+text "Ah----"
+sound SE_05.aac 1
+text I collapse onto the asphalt.
+text My limbs won't move, and my consciousness dims.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg NERO_T01A.png 13 0
+bgload IMA_10.jpg
+text At the bottom of my thinning consciousness..
+text all I find out..
+text is a few black dogs are feeding on my arms and legs.
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s511.scr
+fi
+if selected == 2
+    jump main.scr
+fi

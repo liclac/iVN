@@ -1,0 +1,97 @@
+bgload BG_34A.jpg
+text I decide that it's better to do it than not.
+text Besides, I keep on thinking for the worst since I'm keeping this to myself.
+text ".... Well, then let me ask you a question.
+text If someone does things they know they shouldn't do, would that be a result of stress?"
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Doing something they know they shouldn't do?
+text Is it a recurring problem or just an accident?"
+text ".... Well, it's more like an accident.
+text It seems that the person really isn't that conscious."
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "So you mean they're doing things while unconscious, so they can't stop themselves from doing it?"
+text "---That's right, they can't stop.
+text They can't even get themselves to think about stopping."
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text "In that case, it sounds like a personality inversion."
+text ".... Personality inversion.... you mean their personality gets reversed?"
+text "Yes.
+text For whatever reason, something triggers a change in the person and their entire moral spectrum, their whole attitude gets reversed."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "It may be termed a disease of the mind.
+text Don't you remember, Nii-san?
+text Father was usually a very kind person, but sometimes he would just turn cold as ice."
+text "The old man was---?"
+bgload BG_34A.jpg
+text ~
+text .... Come to think of it.... Tohno Makihisa was extremely kind one day and extremely strict the next.
+text ".... I don't remember that well.
+text Do you remember, Hisui?"
+text I look at Hisui, who is standing by the wall.
+text ~
+text ---And.
+bgload BG_34A.jpg
+setimg HIS_T17.png -2 0
+text It looks like Hisui is trying to contain herself and can't hear my voice.
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+text "Akiha-sama, please don't talk about any of that.
+text Makihisa-sama was just a little manic-depressive, that's all."
+text Kohaku-san says this as she brings a silver tray with a glass on it.
+text "You shouldn't say bad things about those who have departed.
+text And besides, Makihisa-sama is your father, too."
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+setimg AKI_T06.png 104 0
+text "I, I know....!
+text I don't need you to tell me that....!"
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+text Akiha joins Hisui in silence.
+bgload BG_34A.jpg
+setimg KOHA_T03.png -12 0
+text "Here you go, Shiki-san.
+text Thanks for waiting."
+text Kohaku-san puts the glass of Lemon Squash onto the table.
+text "Thanks."
+text Using a straw, I let the cool drink fill my body.
+bgload BG_34A.jpg
+text .... The rest of the time, Akiha and Hisui never open their mouths.
+text The only cheerful one in the sitting room is Kohaku-san.
+text .... I don't understand why everyone became so depressed, but the old man is definitely connected to it.
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Please be careful on your way, Shiki-sama."
+text "Ah, I'll be going.... Hisui?"
+text ".... Yes, what is it, Shiki-sama?"
+text "When we were talking earlier, about my old man.
+text You were deathly quiet.
+text Not just you, but Akiha as well."
+bgload BG_32A.jpg
+setimg HIS_T17.png 62 0
+text "Did something happen to that old man in the eight years I was gone?
+text You and Akiha were both acting strange earlier."
+text "................"
+text Hisui doesn't answer.
+text ".... I see.
+text Well, I won't force you to answer.
+text If you ever feel like it, we can talk about it."
+bgload BG_32A.jpg
+setimg HIS_T08.png 62 0
+text "---No.
+text This is not something that concerns you, Shiki-sama.
+bgload BG_32A.jpg
+setimg HIS_T09.png 62 0
+text "Shiki-sama, if you are going to live in this mansion, please do not ever mention Makihisa-sama again."
+bgload BG_32A.jpg
+text After Hisui's eyes flash for a brief instant, she heads back to the mansion.
+bgload IMA_10.jpg
+music ~
+jump s394.scr

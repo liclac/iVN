@@ -1,0 +1,28 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ........ *sigh*
+text What on Earth were you doing, Tohno-kun?
+text I never thought you would come to the rare third period lesson, the second "Shakes 'n Shivers Animal Land".
+text ~
+text ----Well, Tohno-kun.
+text Unfortunately, I'll have to ask for a make-up.
+text It seems you have just drifted through every day without paying any particular attention to Arcueid, Ciel-san, or Akiha-san.
+text To tell you the truth, this is the most important part of Ciel-san's route.
+text But the fact that you still died means you have not received a charm from a certain person.
+text The moral of this story is you should pay more attention towards your Senpai at school!
+text ~
+text First, go to the tea ceremony room after class.
+text Second, you should honestly recognize the mistakes you have made.
+text ~
+text If you keep the above in mind, you should have no problems with the exam.
+text That's all for the third period lesson.
+text Please try hard so you won't end up here again next time.
+bgload IMA_10.jpg
+music ~
+jump main.scr

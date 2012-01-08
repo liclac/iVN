@@ -1,0 +1,566 @@
+bgload BG_24B.jpg
+text After eating, we do some window shopping on the main street and end up heading towards my school for some reason.
+text The sun starts to set.
+text Actually, it's because Arcueid suddenly exclaims 'Let's go to the school you're attending', and I couldn't tell her no.
+bgload IMA_10.jpg
+bgload BG_01B.jpg
+music 03.mp3
+text "I've told you before, but we can't go inside.
+text I've skipped school today after all, and you're an outsider."
+bgload BG_01B.jpg
+setimg ARK_T01A.png 36 0
+text "I know.
+text I won't cause you any trouble, so just relax."
+text Arcueid peers at the school from the gate.
+bgload BG_01B.jpg
+setimg ARK_T11.png 36 0
+text "Huh......?"
+text Arcueid tilts her head.
+bgload BG_01B.jpg
+text "What's wrong?
+text Did something happen?"
+text I look at the school grounds from behind her.
+text "H.... uh?"
+text This time I'm the one tilting my head.
+text There's no sign of anyone on the school grounds.
+text It's not even quite six o'clock yet.
+text At this time, there should be a lot of athletic clubs still practicing----
+bgload BG_01B.jpg
+setimg ARK_T11.png 36 0
+text "Shiki, it seems there's no one here."
+text Hmm, I'm not sure why, but there really is no one here.
+text I don't see anyone in the building either.
+bgload BG_01B.jpg
+setimg ARK_T01B.png 36 0
+text "Shiki, there's no one inside you know."
+text Arcueid stares upward at me.
+text ~
+text .... Somehow, I'm pretty sure I know what she's trying to say.
+text "No way."
+text I refuse her bluntly.
+text But, she doesn't listen to me.
+bgload BG_01B.jpg
+setimg ARK_T08.png 36 0
+text "If there's no one there, then I can't get in trouble for going in.
+text We came at a great time, didn't we?"
+text "I told you, I don't want to."
+bgload BG_01B.jpg
+text "Wow, it's bigger than I thought inside.
+text The school building is also really huge, it seems well-suited for its task."
+text ~
+text .... That's strange.
+text Arcueid's voice isn't coming from right near me, but from inside the school grounds.
+text "Shiki, this door won't open, so is it okay if I break it down?"
+text What blurring speed!
+text Arcueid is already right next to a glass door with her arm cocked to break it.
+text ~
+text "Y.... you, why won't you listen to what people are saying--!?"
+text With all my strength, I dash towards the glass to prevent it from being broken by a big idiot.
+bgload BG_03B.jpg
+bgload BG_03B.jpg
+setimg ARK_T08.png 36 0
+text "Ah, you came over."
+text She gives a smile as if she was enjoying this.
+text ".... Is going to my high school this much fun?
+text There's a lot of other better places I can take you, so let's just get out of here."
+bgload BG_03B.jpg
+setimg ARK_T01A.png 36 0
+text "I don't think so.
+text The place you always come to, it seems pretty fun."
+text Arcueid gives a mischievous laugh and smiles devilishly.
+text "Shiki, I want to go inside here.
+text Can you kill the lock on this?"
+text "K, kill it?
+text You----"
+text "Wouldn't it be less messy than if I did it?
+text The way you slice something apart doesn't leave any cross-sections that look like the action of a blade.
+text If someone finds it later on, it'll just look like it fell apart on its own.
+text C'mon, c'mon."
+text She points to the glass window by the hallway.
+bgload BG_03B.jpg
+text ".... Sheesh, you're acting like a kid."
+text I half-lower my glasses.
+bgload BG_03B.jpg
+text .... Now then, a window with a "line" at the crescent lock would be..
+text ~
+text ".... Crap, there conveniently is one."
+text Taking my knife out of my pocket, I cut down the lock.
+text .... No, not cut down.
+text More like 'killing' it.
+bgload BG_03B.jpg
+text "All set.
+text Let's go in here."
+text Lifting open the glass window, we enter the school building.
+bgload IMA_10.jpg
+bgload BG_06F.jpg
+text ................ *sigh*
+text ~
+text I knew it.
+text Arcueid declares she wants me to guide her to my classroom first.
+bgload BG_06F.jpg
+setimg ARK_T01A.png 36 0
+text "Hey, Shiki.
+text What do you study here?"
+text "What?----Normal school stuff.
+text History, and a lot of deep studies into the culture of my country.
+text And to know about how things work, we study physics and math.
+text And we might go overseas one day, so we study English too."
+text "Oh really?
+text Taking you into account, I thought you were studying things like the best way to slice up people or how to use various blades."
+text She says something pretty funny.
+text "Arcueid, you're saying that even though you already know what kind of place this is, right?"
+bgload BG_06F.jpg
+setimg ARK_T08.png 36 0
+text "Ahaha, Good Job!"
+text She starts to clap.
+bgload BG_06F.jpg
+music ~
+text .... It's always hard to understand what she's thinking, but today takes the cake.
+text Dragging me here, just what the heck is she planning?
+bgload BG_06F.jpg
+setimg ARK_T01B.png 36 0
+music 07.mp3
+text "Shiki."
+text "What is it?
+text Suddenly looking serious like that.
+text You really did have a reason for bringing me here, didn't you?"
+text "No, there wasn't any reason.
+text I just wanted to hear about this kind of place."
+text ".... This kind of place?
+text About school?"
+text "Yeah, you spend about half your day here, right?
+text Is there a use for all the knowledge and experiences you gain here?
+text Are you just wasting your time learning things unnecessary for you?"
+text "Huh----?"
+text Her question is the least understandable so far.
+bgload BG_06F.jpg
+setimg ARK_T02.png 36 0
+text "For example, there's some skills you learn here that will never be used.
+text Isn't that a waste?"
+text ".... Well, maybe it is a waste.
+text I learn math, but we only use the simplest of math in our daily lives.
+text I learn about this country's history and English, but I don't know if I'll ever use it."
+bgload BG_06F.jpg
+setimg ARK_T06.png 36 0
+text "Oh, so you realize it then.
+text But.... then, why do you do such pointless things?
+text Your time is so short, you don't have time to waste."
+text "No time to waste?
+text Well, we don't have a specific goal, so we live pointlessly like this until we do."
+bgload BG_06F.jpg
+setimg ARK_T10.png 36 0
+text "I can't believe it.
+text Even though you know it's pointless, you make it something you live for.
+text .... Yeah, I really can't believe it."
+text Her voice is terribly hushed.
+text I don't know why, of course.
+text ".... Something to live for, huh?
+text That may be true.
+text But are useless things that bad?"
+bgload BG_06F.jpg
+setimg ARK_T11.png 36 0
+text "----Eh?"
+text "Isn't it alright to do extra things?
+text Even if I use what I learn only here, it still becomes a reminder of my days here.
+text Some years later, there'll be a time when I'll just think.
+text And I'll remember back and say 'yeah, that's how it was back then' and give a bitter smile.
+text So there's meaning in it."
+bgload BG_06F.jpg
+setimg ARK_T10.png 36 0
+text ".... I don't get it.
+text Those memories themselves are pointless, but you're saying there's fun in remembering them, Shiki?"
+text "Yeah, that's okay.
+text People are designed not to remember painful things.
+text But in the first place, the lives of humans are full of pointless things.
+text To think of it, isn't life itself pointless?
+text So I don't think about it too deeply.
+text I think it's best to just fool yourself and live like you don't realize there's no meaning to life."
+bgload BG_06F.jpg
+setimg ARK_T17.png 36 0
+text "You know it's pointless yet you do it.
+text .... I really don't get it.
+text I can't do anything pointless.
+text Even now, I haven't done anything that I didn't need to do."
+text "What are you saying?
+text Wasn't this whole day full of pointlessness?
+text Isn't your purpose hunting vampires?
+text Then there's really no need for you to go walking around with me."
+bgload BG_06F.jpg
+setimg ARK_T10.png 36 0
+text ".... That's true.
+text I don't understand that either.
+text I wanted to ask you because you don't seem to do anything but pointless things, but now I'm totally confused."
+text ~
+text ----Hey.
+text ~
+text "Yes, yes.
+text I'm sorry, I'm only a completely pointless person."
+bgload BG_06F.jpg
+setimg ARK_T13.png 36 0
+text "........ Ah----yeah."
+bgload BG_06F.jpg
+setimg ARK_T17.png 36 0
+text "I'm sorry.
+text I understand what you're trying to say, Shiki.
+text Humans are a collective, so their worth isn't determined by the individual but by the whole group.
+text Even if an individual is mistaken, if the group is correct then it is forgiven.
+text But as for us, we are solitary creatures so we can't allow ourselves to be mistaken.
+text We can't allow our wills to be influenced by anyone else.
+text So----that's why I was always taught never to do extra things."
+text ~
+text .... Quietly.
+text She talks as if she was in a confessional.
+bgload BG_06F.jpg
+setimg ARK_T10.png 36 0
+text "----But now, I don't know anymore.
+text For just a brief time.. really, only seven days.
+text .... I started to wonder if I really was right?
+text Because it was so fun.
+text Doing this, living like this, I never thought until now how happy it could make me."
+text "Ar.... cueid?"
+bgload BG_06F.jpg
+setimg ARK_T17.png 36 0
+text "Maybe I.. broke down.
+text I've never been awake for this long until now----Maybe I'm already fast asleep dreaming about all this."
+text .... With empty eyes, Arcueid whispers these words.
+text "Wha----"
+text I can't speak.
+text Her image flutters like a projected hologram.
+text ".... Broken?
+text What do you mean?
+text You look pretty normal to me."
+text "Maybe on the outside, but I'm different on the inside.
+text .... Happiness and pain, all of these extra feelings are becoming greater.
+text I can't ignore things that I used to be able to in the past.
+text So I'm broken, right?
+bgload BG_06F.jpg
+setimg ARK_T09.png 36 0
+text And also, I'm not normal.
+text I'm different from you, Shiki.
+text I'm a vampire."
+bgload BG_06F.jpg
+text Saying that, she seems to laugh.
+text Really faintly, as if hiding in the red of the setting sun.
+text ~
+text "--------Tha-"
+text That's.. strange.
+text It's just.. weird.
+text ~
+text The dusk classroom.
+text Bathed in the red sun, a vulnerable looking girl.
+text This scene, it's..
+text "That's--not like you at all."
+text ~
+text Yeah, it's not like her at all.
+text You're a vampire----so don't look so vulnerable, like you were some ordinary girl.
+text "Things you can't ignore, having to do pointless things, if it's not causing trouble to anyone----isn't it alright just to let it all go?
+text I said not to think about yourself too seriously.
+text I don't know what you're thinking about, but I don't see a problem.
+text You're not----causing trouble to anyone."
+bgload BG_06F.jpg
+setimg ARK_T03.png 36 0
+text "Really?
+text But you always yell at me, is that different?"
+text "----I'm an exception.
+text I have the sin of killing you, so dealing with you is just karma.
+text It's okay, I'm doing it because I want to.
+text So please don't think about the trouble you're causing me."
+bgload BG_06F.jpg
+setimg ARK_T17.png 36 0
+text "........"
+text Arcueid's expression clouds over.
+text .... If she makes that kind of a face, it's a little troubling.
+text She looks so weak, I want to embrace her.
+text ".... Please Arcueid, get it straight now.
+text It's true that you're selfish, you don't listen to other people, and you're full of problems.
+text But, other than that, you're pretty normal.
+text You're not broken, you're just like a normal girl.
+text ----So smile.
+text If you keep making that expression, it'll make me feel bad."
+bgload BG_06F.jpg
+setimg ARK_T14.png 36 0
+text ".... That's pretty mean.
+text Am I really that selfish?"
+text Arcueid looks at me suddenly as if studying my expression.
+bgload BG_06F.jpg
+text ~
+text I'm taken aback a little.
+text It seems this princess didn't realize she was selfish.
+text "----Hahahahaha!
+text What are you saying?
+text If you take every bit of selfishness out of you, there'd be nothing left but bones!
+text Just bones!"
+text What I'm saying doesn't quite make sense, but it seemed very funny.
+text ~
+text --Because even in my wildest dreams, I never imagined I would see Arcueid embarrassed over herself.
+bgload BG_06F.jpg
+setimg ARK_T16.png 36 0
+text "................!!"
+text ~
+text Oh, she got mad.
+text "Shiki you jerk!
+text I was seriously discussing matters and you act so heartlessly!!"
+text "Like I said, didn't I say I was nice to everyone but you?
+text So being mean to you now isn't anything new."
+text Stifling my laughter, I look back at her.
+text The cloud hanging over her head has dispersed and she has a genuine expression on her face, which is much more like her.
+text "But you know, I guess it's better for you to be lively.
+text I'm a little relieved."
+bgload BG_06F.jpg
+setimg ARK_T13.png 36 0
+text "Eh....?
+text Wh, why are you relieved?
+text Aren't you supposed to be heartless towards me?"
+text "Ah----yeah, that's right."
+text I tilt my head questioningly.
+bgload BG_06F.jpg
+text .... That's strange, I don't even know why myself.
+text .... Before, I just didn't want to see her looking depressed, and I wanted to protect her----
+text ~
+text "........"
+text ~
+text That's ridiculous.
+text Without a doubt, she is pretty, and I know she's a good person.
+text Also, it isn't boring to be with her.
+text .... But no way can such a ridiculous thing be happening.
+text Get a hold of yourself, Shiki.
+text She's a vampire.
+bgload BG_06F.jpg
+setimg ARK_T16.png 36 0
+text "That's pretty vague.
+text Are you saying you don't understand yourself?"
+text ".... Be quiet, it's alright if I don't understand myself.
+text I've always been aware of how strange I am from the beginning.
+text That's why my memories are always vague."
+bgload BG_06F.jpg
+setimg ARK_T03.png 36 0
+text "Oh, I see.
+text That's why you're always spaced out, Shiki."
+text Arcueid nods to herself as if deeply understanding the matter.
+bgload BG_06F.jpg
+text "........"
+text Having her take my excuse so seriously makes me wonder if maybe it really is true.
+text "----Well then."
+text We can't stay in this classroom forever.
+text We should hurry up and leave before we're found by teachers left in school.
+text "Come on, let's head out.
+text There's nothing else to do here, right?"
+bgload BG_06F.jpg
+setimg ARK_T14.png 36 0
+text "Yeah, nothing else, but.... Shiki?"
+text I throw her a questioning glance.
+text She seems to be pondering her words, and then asks me a strange question.
+text "Shiki, do you enjoy things?"
+text ".... Are you sick today or something?"
+bgload BG_06F.jpg
+setimg ARK_T06.png 36 0
+text "Don't make fun of me.
+text I know a little bit about your body.
+text Even you know it, right?
+text That it isn't strange for you to die at any moment."
+text "Wha-------"
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Thump.
+text The scar on my chest almost feels like it's squirming.
+text "You----well, humans die eventually."
+bgload BG_06F.jpg
+setimg ARK_T07.png 36 0
+text "But in your case, death will come quicker than for other people."
+text .... Her eyes are serious.
+text But, everyone has lines of death on them, so there are many places where they can die easily.
+text ~
+text It's not like----I'm the only one who's very close to death.
+bgload BG_06F.jpg
+setimg ARK_T06.png 36 0
+text "Answer me.
+text Do you ever have moments where you enjoy yourself even though you have such an unstable hold on life?"
+text "------You really are stupid.
+text There's no way I can know that."
+bgload BG_06F.jpg
+bgload IMA_08.jpg
+text .... But, there's one thing clear to me.
+text I almost died eight years ago, and for a short while,
+text probably when I was getting surgery at the hospital, I felt like I was in a dark place.
+text ~
+text Maybe it was a dream.
+text Just, at that time, I truly felt like I died, like that place was truly "death".
+text I was extremely happy after my miraculous recovery.
+text Then, I met Sensei and was able to return to a normal life.
+text I never realized it until I died once.
+text But the world is so peaceful and such a fun place to be.
+text They say fun things cannot be found, but I think for humans, just living is fun.
+text ~
+text That's why----I can continue living like this even knowing that it's all pointless.
+text .... That's why.
+text If someone asks me if I'm enjoying life, unless it's something really unforgivable, I can't help but answer that I am.
+text No matter how much despair it is, I'm satisfied with just existing.
+text That's something more certain than the nothingness of death.
+text No one had to teach me that, but I still know that.
+text Just being allowed to be here really is a wonderful thing----
+bgload IMA_11.jpg
+bgload BG_06F.jpg
+text "----It's just.. isn't living enjoyable enough?
+text Everything up until now was fun, so I can feel like living.
+text .... Well, I guess this is how I can answer your question."
+text ~
+text I can't really say anything too profound.
+text I've only been alive for seventeen years.
+bgload BG_06F.jpg
+setimg ARK_T01A.png 36 0
+text "I see, so that is how your heart is.
+text .... Just doing that is fun enough?
+text That's true, even though you know it's something extra, you can't give it up because you enjoy it.
+bgload BG_06F.jpg
+setimg ARK_T08.png 36 0
+text .... I was scared of that and asked, but perhaps that might be a good answer."
+text "----What, are you still thinking about that thing from before?"
+bgload BG_06F.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, but for now the hard feelings have faded.
+text I can't stray off course until this vampire is defeated.
+text Until then, we will fight together."
+bgload BG_06F.jpg
+music ~
+text "Right?" She says, smiling.
+text ~
+text "----"
+text Until this vampire is defeated, huh?
+text ".... That's right.
+text That was the relationship between us."
+text Because today was just so normal,
+text I completely forgot about that most important fundamental fact.
+text "----Hey, Arcueid."
+text ~
+text Just, without thinking..
+text ~
+text "When this is all over----when we're done defeating this vampire.. Before we part, can't we do something like this just once more?"
+text Those words really come out of my mouth naturally.
+bgload BG_06F.jpg
+setimg ARK_T13.png 36 0
+text "Eh----?
+text What do you mean?"
+text "I'm saying after your task is finished, let's do these pointless things one more time.
+text In the end, we're here together because we agreed to help each other.
+text So----I really was wondering, what would happen if we were to meet again without any responsibilities.. if we just met for no particular reason."
+bgload BG_06F.jpg
+text ~
+text ~
+text ~
+text ~
+text ----That's not true.
+text Just as friends, and not thinking about her being a vampire at all.
+text I just thought it would make Arcueid happy if we created some normal memories like that.
+text "----If you're too busy, then it's okay.
+text I only thought of it just now, anyway."
+text But that's really the opposite of how I feel.
+text ~
+text After her eyes widen in surprise, she nods.
+bgload BG_06F.jpg
+setimg ARK_T09.png 36 0
+text "Okay----!
+text When everything's over, let's come here again, Shiki!
+text It won't have any meaning, but I'm sure it will be really, really fun!"
+text In the classroom bathed by the sunset,
+text Arcueid smiles and makes a promise with me.
+bgload IMA_11.jpg
+bgload IMA_10.jpg
+bgload BG_24C.jpg
+text .... In the end, when we go outside, the sun has already set.
+text It's just past seven-thirty.
+text A little early, but since we don't have anything else to do, we should start searching for the vampire.
+text ~
+text "Well then, shall we begin, Arcueid?"
+text I turn around to face Arcueid who was walking behind me.
+bgload BG_24C.jpg
+setimg ARK_T11.png 36 0
+text "What, already?
+text Didn't the sun just set?"
+text "Yeah, but it wouldn't hurt to start earlier.
+text We've played around long enough today, so we should be serious at night, right?
+text Arcueid, let's stick to our decisions."
+bgload BG_24C.jpg
+setimg ARK_T03.png 36 0
+text "Shiki, you're strangely serious.
+text If you're this serious, then why did you break our promise yesterday?"
+text "Hey, I couldn't help that; I couldn't even move.
+text I really did intend to go before."
+text Yeah, if Akiha didn't stop me, I probably would've gone ahead to the park in my condition.
+text "Hmmm, I see.
+text Then, let's do that."
+text With a slightly empty expression, Arcueid says something I don't understand.
+text "Do what?"
+text "You intended to go to the park, right Shiki?
+text We still have time, so if you couldn't get it done yesterday, then isn't it okay if we do it now?"
+bgload BG_24C.jpg
+text She starts to run lightly.
+text She really seems to be serious about going to the park.
+text "--Hey, wait.
+text Hey....!"
+text I run with all my strength so I don't lose sight of her.
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+music 01.mp3
+text "See, even though you were complaining, you still kept up, Shiki.
+text Ahaha~"
+text Arcueid laughs.
+text ".... Idiot.. if I.. left you alone.. you'd.. bother.. someone else.."
+text I desperately try to catch my breath after running the whole way.
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "I knew there would be a lot of people here now.
+text It's a bit unsettling since I can feel their presence everywhere."
+text ".... Like I said, why.. won't you.. ever.. listen.. to what I.. have to say..?"
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "Hm?
+text I hear your voice all the time."
+text ".... Oh.
+text Then.. you hear me.. but you just ignore me, that's.. worse.."
+bgload BG_28B.jpg
+setimg ARK_T11.png 36 0
+text "I don't ignore you.
+text If I answer whenever you scold me, you'd just call me an idiot so I stay quiet."
+text ".... Oh.
+text Then maybe.. I have a problem.. too?"
+text I still try to catch my breath.
+bgload BG_28B.jpg
+text From my school to this park is roughly six kilometers.
+text Even if it was a little jog, going that far is too much for a heart like mine.
+text .... It's not that she was running all that quickly.
+text Actually, she seemed to be running slowly.
+text But probably because of the effects of my anemia, I don't feel too well.
+bgload BG_28B.jpg
+setimg ARK_T01B.png 36 0
+text "Are you okay Shiki?
+text You don't have to force yourself.
+text Shouldn't you rest on that bench?"
+text ".... I'll do that.
+text Once I'm rested up, we'll go to the city again, Arcueid."
+bgload BG_28B.jpg
+setimg ARK_T04.png 36 0
+text "Sheesh.
+text I'm happy you're motivated, but it's still too early.
+text Nrvnqsr was like that too, but vampires don't move around unless it's their time.
+text Since they won't move around until they sense deep night, it's okay to kill a little time here."
+text ~
+text "----"
+text If that's how it was, then she could've told me earlier.
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+text ~
+text ----Sitting on the bench, I stare at the clock aimlessly.
+text ~
+text It's just past nine o'clock.
+text The people all around have gone away and the night deepens quickly.
+text For some reason Arcueid doesn't sit down, but paces back and forth as if she was bored.
+if flgA == 0
+    jump s177.scr
+fi
+jump s178.scr

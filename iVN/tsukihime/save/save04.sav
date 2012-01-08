@@ -1,0 +1,15 @@
+<save>
+  <script><file>script/s51.scr</file><position>121</position></script>
+  <date>22:42 2011/04/29</date>
+  <variables>
+    <var name="ark_regard" type="int" value="3" />
+    <var name="ciel_regard" type="int" value="3" />
+    <var name="selected" type="int" value="3" />
+  </variables>
+  <state>
+    <music>sound/02.mp3</music>
+    <background>background/BG_34A.jpg</background>
+    <sprites>
+    </sprites>
+  </state>
+</save>

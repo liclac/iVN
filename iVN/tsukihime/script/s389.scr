@@ -1,0 +1,81 @@
+bgload BG_40B.jpg
+text ----I'll go to Akiha's room.
+text ~
+text .... I heard that Akiha hasn't returned yet.
+text Which means that if I go to her room, no one will be there.
+bgload IMA_10.jpg
+bgload BG_46B.jpg
+music 03.mp3
+text .... I arrive at her room.
+text Akiha's room is in the middle of the east wing.
+text My room is about forty meters away, so this a rare opportunity.
+text "-----"
+text I gulp anxiously.
+text .... If I think about it calmly, I'm doing something extremely dangerous.
+text "--I can't go back now!"
+text Making up my mind, I open the door to Akiha's room.
+bgload IMA_10.jpg
+bgload BG_36C.jpg
+text "-----"
+text .... I expected this.. but still, I'm at a loss for words.
+text I am fascinated by the room that looks nothing like any high schooler's room.
+text ".... There's no bed.... it must be in a separate room."
+text I almost forget myself looking at all the luxury.
+text I thought I'd explore Akiha's room while she isn't here, but this isn't a place where you can come in like that.
+text ".... I better go before Akiha finds me."
+text With a sigh, I turn to leave the room.
+text ~
+text ----And.
+text ~
+bgload BG_36C.jpg
+setimg AKI_T03A.png 40 0
+text "Oh no, please, take your time, Nii-san."
+text ~
+text ---Akiha is standing in front of the door with her arms crossed.
+text "Ah, Akiha----You've come back already....!?"
+text "Yes, I just got back.
+text More importantly, Nii-san, is there something you want to talk to me about?
+text There has to be, otherwise there would be no reason for you to be in my room alone, now, would there?"
+text "Ah----um."
+text I back up as Akiha glares at me intently.
+text "No, I---it's not really important.. I just thought I'd talk with you for a bit---"
+text "Oh really?
+text That's strange.
+text If you wanted to talk to me, going into my room when I'm not there is rather pointless, isn't it?
+text It makes perfect sense that if you saw I was not in my room, you would go back to your room, right?"
+text "That's true, but.... I thought maybe I should just wait a while in your room or maybe I didn't...."
+bgload BG_36C.jpg
+setimg AKI_T02.png 40 0
+text "-------"
+text Akiha's stare becomes even harder.
+text .... Ugh, I think it's best if I just apologize right now.
+text ".... Sorry.
+text I just was wondering what your room was like."
+text "In other words, you sneaked into my room out of curiosity?"
+text "Uh---no, I had no bad intentions---"
+bgload BG_36C.jpg
+setimg AKI_T07.png 40 0
+text "It doesn't matter!
+text Sneaking into a girl's room like that, what kind of upbringing did you have at the Arima household!?"
+text "---I'm sorry.
+text I guess you can call this my stupidity, or my mischievous mind."
+bgload BG_36C.jpg
+setimg AKI_T18A.png 40 0
+text "-------"
+text Akiha's gaze is painful.
+text Since I'm the only one at fault, I only can apologize.
+bgload BG_36C.jpg
+setimg AKI_T03A.png 40 0
+text ".... Fine, I will overlook it this time.
+text Please go back to your room before Kohaku comes."
+text "S.... sorry, Akiha."
+text It seems that Onii-chan is just a mischievous brat after all.
+text "But don't think that this matter is over.
+text I expect to be compensated for this, Nii-san."
+bgload BG_36C.jpg
+text For some reason, there is a hint of both amusement and threat in Akiha's voice as she steps away from the door.
+text "........"
+text I leave Akiha's room thinking that she has grasped my terrible weakness.
+bgload IMA_10.jpg
+music ~
+jump s390.scr

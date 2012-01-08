@@ -1,0 +1,140 @@
+bgload BG_40A.jpg
+text @Day 11
+text ~
+text ~
+text I wake up to the sound of Hisui's voice.
+text Since then----after returning to the mansion, I must have made my way to my room somehow and slept.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, are you not feeling well?"
+text "----No, I'm fine."
+text Answering, I sit up in bed.
+text ~
+text .... I'm almost amazed at myself.
+text I don't even feel like talking, but my body tries to start my day as always.
+text "Breakfast?
+text I'll be down soon."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "...... Yes.
+text I will be waiting."
+text Looking as if she still wants to say something, Hisui leaves the room.
+text I change my clothes and head to the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text Akiha and Kohaku are there.
+text "Morning."
+text Giving my usual greeting, I go to the dining room.
+text I eat breakfast and return to the sitting room.
+text I sit on the sofa and stare at the clock.
+bgload BG_34A.jpg
+setimg AKI_T17A.png 40 0
+text ".... Nii-san?
+text Um, you know you have school today, right?"
+text "Hm----?
+text Yeah, that's right.
+text I guess I should go to school."
+text I forgot.
+text I didn't feel like doing anything, and I thought I would keep living like this empty shell.
+text ".... I do have my life as Tohno Shiki.
+text If I don't have anything to do, it won't hurt to go to school."
+text "Nii-san....?"
+text Akiha looks at me uneasily.
+bgload BG_34A.jpg
+text .... Speaking is just a pain.
+text ~
+text Without saying anything, I go to school.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text Time passes by uneventfully.
+text I emptily attend my lessons.
+text The sound of the chalk.
+text I mindlessly write down what's written on the board into my notes.
+text ~
+text I look out the window into the rear courtyard.
+text Of course there's no one there.
+text "------"
+text ----What am I doing?
+text Just calmly attending my lessons like this.
+text Not searching for her and just returning to my normal life.
+text "------"
+text But, there's no way for me to search for Arcueid.
+text Since she left on her own, there's probably no possibility of me finding her.
+text ~
+text That's why..
+text I've really lost Arcueid---.
+text ~
+text *snap*
+text ~
+text "........"
+text A sound comes from above my desk.
+text .... Ah, it's nothing.
+text I was just gripping my mechanical pencil so hard that I snapped another one.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text Classes end.
+text In the commotion of the classroom, I still remain seated.
+text ~
+text "Tohno, can you come here for a moment?"
+text My math teacher speaks up from the podium.
+text "----Yes, what is it?"
+text I respond and walk towards him.
+text "Tohno, hasn't your recent behavior been a little wild?
+text I have received information that you have been going out late at night.
+text Does it ring a bell?"
+text ".... Yes.
+text These past few days, I had things to do in town at night."
+text "----I see."
+text My math teacher----well, my homeroom teacher as well----looks a bit concerned, then looks a little sorry.
+text "I know you're not the kind of student to goof off at night, but there have been concerns voiced by the faculty.
+text It appears the head of the student council would like to speak to you.
+text Because of that, please go to the student council room after school.
+text Just consider yourself unlucky and bear with it."
+text Saying goodbye, he leaves the classroom.
+bgload IMA_10.jpg
+bgload BG_08A.jpg
+text After school.
+text I stop by the student council room, but the teacher isn't there.
+text .... Now that I remember, that teacher is also an adviser to the gymnastics team.
+text He probably won't come until practice is over.
+text "------"
+text I sit in my chair and wait faithfully.
+text "........ Kk."
+text I bite my lip.
+text I know this isn't the time to be doing this.
+text I know, but there's nothing I can do.
+text Outside the window, the sunset paints the sky vermillion.
+text I can hear the voices of club members practicing outside and the students talking while going home.
+text Within that, this classroom is the only quiet place.
+text .... This makes me angry.
+text Why am I here?
+text I can't do anything.
+text I'm angry at my powerlessness.
+text However, I have no way to solve this myself, so in the end, all I can do is accept everything I'm told emptily.
+text ".... What am I doing?"
+text There's no answer.
+text I just sit in the empty classroom listening to the sounds outside.
+bgload IMA_10.jpg
+bgload BG_08B.jpg
+text Tick.
+text The second hand of the clock sweeps by, telling me it's now seven at night.
+text No one comes by.
+text The school closes at six and all the teachers leave at six-thirty, so no one else remains on the school grounds.
+text ".... I guess I'm forgotten."
+text I get up from my chair.
+text After pondering matters so long, my head starts to clear a little.
+text I was thinking all this time.
+text About what I should do, what I should prioritize.
+text From here, I should----
+text ~
+choice 1. Even if it's useless, I'll look for Arcueid.|Accept it and go back to the mansion.|If this is how things are, I'll search for Roa myself.
+if selected == 1
+    jump s195.scr
+fi
+if selected == 2
+    jump s196.scr
+fi
+if selected == 3
+    jump s197.scr
+fi

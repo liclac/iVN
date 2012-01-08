@@ -1,0 +1,101 @@
+bgload BG_32D.jpg
+music 06.mp3
+text .... I go up the residential hill and arrive at the outskirts of the mansion.
+text It's around two in the morning.
+text As expected, I'm totally assailed by sleepiness.
+text ".... I wonder if she's going to be okay."
+text I'm concerned about how she seemed when we parted.
+text It seemed like it wasn't pain from her wound, but---
+text "Hm.... crap, the front gate is locked."
+text It's only natural, but it's still locked.
+text ~
+text .... If I climb over the wall like yesterday, alarms will probably go off.
+text ".... Dang.... does this mansion have a rear entrance or something?"
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text .... I walk around the mansion perimeter.
+text Anyway, there is something like a rear entrance, but it's locked so I can't get in.
+text It's probably not possible to force my way through to the garden.
+text ".... Dang.
+text If this keeps up I'll have to spend the night out here...."
+text I want to avoid that if possible.
+text People don't really go by the mansion, so after the sun sets it's just a deep darkness around here.
+text Walking around during these hours sends chills down my spine.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text "Hm?"
+text ~
+text What is that?
+text It feels like there's someone lurking in the shadows not illuminated by the streetlights.
+bgload IMA_11B.jpg
+bgload BG_47.jpg
+text ~
+text ---Thu,mp.
+text ~
+text My heart stops my breath.
+text My blood rushes through my body, this sensation---
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Certainly, there's someone standing there.
+text The figure gets closer and closer.
+text ~
+text Footsteps.
+text ~
+text The sound of dry footsteps reaches my ears.
+text ~
+text ----Thu, mp.
+text ~
+text I have a bad feeling about this.
+text Chills race up my spine.
+text "----"
+text The figure draws near.
+text Suddenly----the streetlights shatter loudly.
+bgload IMA_10.jpg
+text The moon is hidden by the clouds.
+text The whole world instantly turns to darkness.
+text ~
+text "!"
+text ~
+text ----Thump......!
+text My heartbeat skips, as if warning me of death.
+text Perhaps I was tired after having walked the perimeter of the mansion for so long.
+text My body gave an all-too-sluggish reaction as I tried to leap backwards.
+bgload IMA_11B.jpg
+sound SE_06.aac 1
+bgload IMA_10.jpg
+text A knife running through the dark.
+text The sound of the flesh over my heart being sliced.
+text ~
+bgload IMA_13.jpg
+text "Ah---eh?"
+text ~
+text ---I don't, understand.
+text ~
+text Just.. that.. there's a knife, sticking through my chest.
+bgload BG_47.jpg
+bgload BG_47.jpg
+setimg ROA_T07B.png 14 0
+bgload BG_47.jpg
+text The clouds part for a brief moment and illuminates the dark figure.
+text ~
+text "Ah----"
+text An eerie figure wrapped entirely in bandages.
+text That's.. the last thing I see.
+music ~
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s515.scr
+fi
+if selected == 2
+    jump main.scr
+fi

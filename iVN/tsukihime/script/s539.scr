@@ -1,0 +1,29 @@
+bgload BG_06B.jpg
+music 09.mp3
+bgload BG_06B.jpg
+bgload BG_06B.jpg
+setimg CEL_T20.png 103 0
+text You have reached Akiha's Normal Ending.
+text Well done.
+text ~
+text Each heroine (with one exception) has two different kinds of endings.
+text Usually, they are called "True Ending" and "Good Ending", but Akiha-san's are called "Normal Ending" and "True Ending".
+text ~
+text Akiha-san's route is different from everyone else's in that how much Akiha-san likes you does not determine which ending you receive.
+text It also differs from all other routes in that it has an extra Normal Ending, which is what you are reading right now.
+text While this ending is called Akiha's Normal Ending, it will not register as an ending in the game.
+bgload BG_06B.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+text "Nya?
+text What is this?
+text You're talking nonsense!
+text ~
+text Take it up with the game designers if you must.
+text Tohno-kun, please proceed to play through Akiha-san's route to reach her real Normal Ending.
+text Well then, thank you very much for playing up to this point.
+text ~
+text Let's meet again somewhere in Tsukihime.
+bgload IMA_10.jpg
+music ~
+jump main.scr

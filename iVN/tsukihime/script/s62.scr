@@ -1,0 +1,11 @@
+bgload BG_06A.jpg
+text I decide to go buy some bread and eat it slowly in my classroom.
+text ~
+text .... There are still a few guys and that close group of girls in here as well.
+text ".... Huh?"
+text I just noticed.
+text Yumizuka Satsuki, usually the most eye-catching of all the girls, is nowhere to be seen.
+text ".... She must be absent."
+text I must be pretty absent-minded to take until lunchtime to realize one of my own classmates isn't even here.
+bgload IMA_10.jpg
+jump s65.scr

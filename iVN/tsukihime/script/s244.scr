@@ -1,0 +1,59 @@
+music 03.mp3
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text At lunch break, that guy who didn't even show up for a single class arrives.
+bgload BG_06A.jpg
+setimg ARI_T05.png 40 0
+text "Yo Tohno!
+text Food, let's get some food!"
+text He's happy about something, being even more energetic than usual.
+text "Of course, food.
+text But you seem to be in a great mood.
+text Did something happen, Arihiko?"
+text "Yup.
+text I just asked Senpai if she wanted to eat lunch together, and she refused."
+text "............"
+text That's odd.
+text "Senpai" must be referring to Ciel-senpai, but this guy seems to get happy when his offer is refused.
+text "Hey, Arihiko, you have that sort of taste?"
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "No, no, I'm not finished.
+text So I asked Senpai why not, and she said 'If Tohno-kun is there, then I don't want to come'!!
+text Uwahahahahahahahaha!
+text Isn't that great, Tohno!?"
+text ".........."
+text That's odd.
+text Why have I been friends with this guy since middle school?
+text "Oh man, she really hates you Tohno!
+text A rival's loss is my gain, so I'll treat you to lunch today!"
+text Arihiko happily slaps my back.
+text ".... Well, I'm happy you're treating me, but Senpai was angry at me?"
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "N?
+text .... well, after she asked 'will Tohno-kun be with us?' and I nodded, her face turned all red.
+text As soon as she heard your name, her face probably burned with anger."
+text ".... Probably?
+text Isn't that a little different, Arihiko?"
+text "Maybe.
+text Maybe not."
+bgload BG_06A.jpg
+text .... Arihiko's story can't be trusted.
+text Certainly Senpai did seem angry this morning, but I don't know why she would be.
+text ".... No way, she couldn't have realized what kind of dream I had."
+text If she could figure that out from that one conversation, she'd make a great detective.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Hey, stop whining and let's go, Tohno.
+text There's only seats enough for half the people using the cafeteria."
+text "Ah---no, I---"
+text ~
+bgload BG_06A.jpg
+choice Yeah, I'll go with Arihiko to the cafeteria.|No, even if she hates me, I'll go see Senpai.
+if selected == 1
+    jump s245.scr
+fi
+if selected == 2
+    jump s246.scr
+fi

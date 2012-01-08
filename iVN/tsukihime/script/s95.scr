@@ -1,0 +1,37 @@
+bgload BG_15C.jpg
+text ----I refuse.
+text I know I have to refuse.
+text No matter how much I think about it, I can't do anything.
+text ~
+text "----Arcueid.
+text Sorry, but I----"
+text ~
+text Am I going to abandon her?
+text It's my fault.
+text Because of Tohno Shiki, she can't move as she needs to.
+text "----I----"
+text ~
+text Am I running away?
+text From that----monster who mercilessly, cruelly, one-sidedly slaughtered all those people?
+text ~
+text Run away and pretend like I never saw it?
+text After being the only one to survive, I'm just going to run away without any pangs of guilt?
+text "--------"
+text ~
+text The lines of death only I can see.
+text Didn't that important person once tell me that I have this power because there would be a time when I would need it----?
+bgload BG_15C.jpg
+setimg ARK_T02.png 36 0
+text "----Shiki?"
+text ".... Yeah, I know.
+text I can't run away by myself."
+bgload BG_15C.jpg
+text ~
+text I look up at the ceiling and take a deep breath.
+text Fortunately, that prepares me just a bit for what is to come.
+text ~
+text "Alright----I'll help you, Arcueid.
+text I think it's my duty to do so as the only one who survived in that hotel."
+bgload IMA_10.jpg
+setvar ark_regard + 1
+jump s97.scr

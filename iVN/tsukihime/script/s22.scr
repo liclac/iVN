@@ -1,0 +1,292 @@
+bgload BG_04.jpg
+text The source of the noise soon becomes apparent as I walk towards the courtyard.
+text A female student is crouching in the middle of the tree-lined path, working with a hammer and nails.
+text "...."
+text What is she doing?
+text There are only a few minutes left until homeroom.
+text "---Maybe she doesn't have a watch."
+text At the moment, that's the best I can come up with.
+text .... Still, to notice and then just ignore her would be somewhat cruel.
+text I approach her unhurriedly, trying not to surprise her, and speak.
+bgload IMA_10.jpg
+bgload event/CEL_E01.jpg
+music 03.mp3
+text "Hey, homeroom is starting soon."
+text "Huh?"
+text The squatting girl raises her face.
+text The ribbon on her uniform displays the color of a third-year.
+text "...."
+text The older student looks at me while holding her hammer.
+text "Uh.. um.."
+text Her gaze through those glasses is so direct I feel like I'm being pulled in.
+text Her serious eyes make me want to apologize for bothering her.
+text The splint she was facing is rotten beyond use.
+text .... Come to think of it, our school's rear courtyard is in a terrible state of disrepair.
+text The splints are neglected, and the flower beds untended.
+text Apparently, the teachers intend for the students to conduct a big cleanup at the end of the year, so the maintenance men have done nothing since summer.
+text ---I take in the situation with a single glance.
+text The girl with the hammer is repairing the broken-down splints, paying no mind to the fact that her tidy uniform is being dirtied.
+text She has sweat on her brow, and it looks like she had been swinging her hammer in a most serious manner.
+text .... But as far as I know, there is nobody in charge of repairing public property at this school.
+text "Um.. What is it?"
+text The older student asks, adjusting her crooked glasses.
+text "Uh, it's nothing.
+text I was just wondering what you were doing."
+text "Ah.. as you can see, I'm in the middle of fixing the splints."
+text Yeah.
+text I can see that.
+text "That's not what I meant.
+text I was wondering why you are doing something like this.
+text Won't the maintenance people take care of it anyway?"
+text "Ahaha.."
+text The older student laughs to hide her embarrassment.
+text "I'm the kind of person who can't stand seeing a mess like this.
+text I just can't leave them alone."
+text It seems as though she is repairing the splints because she just couldn't let them stay that way.
+text "...."
+text What an odd senpai.
+text "That's why you're fixing it on your own?
+text If you don't like the mess, why not just avoid coming here?"
+text "Well, my classroom is over there."
+text Senpai points at the second floor classroom facing the courtyard.
+text "My seat is next to the window, so it's easy for me to see the courtyard.. Well, usually I just bear it, but when I took my seat today, I was surprised to see all the splints in this area were broken."
+text Senpai's face clouded, as if to say, "Isn't that terrible?"
+text .... Apparently she's upset, although she doesn't look seriously angry.
+text "You know what they say, 'strike while the iron's hot' and all.
+text I borrowed the tools from the office, and decided to fix them myself."
+text ~
+text And so, the explanation ends.
+text ~
+text Making a bow, Senpai returns to hammering the nails.
+text ".... Alright, I understand all that, but how about we leave it here for now?
+text Homeroom is in less than five minutes, and if it's this bad, won't the school get around to fixing it pretty soon?"
+text "No way!"
+text Gripping her hammer, the senpai with glasses shakes her head furiously.
+text "I won't be able to concentrate with the garden like this, even if I go to class.
+text It'll just sound like nonsense to me, and then the teacher will say, 'Hey, you! What are you staring at?' I'll get yelled at for sure!"
+text Senpai continues to grip the hammer while she emphasizes her point.
+text ".... Well, I suppose the teacher would be upset if you kept looking outside."
+text "He would, wouldn't he?
+text That's why I have to do it now."
+text With that, Senpai begins her repairs once again, clumsily hammering away.
+text She's obviously not used to using a hammer.
+bgload BG_04.jpg
+text *Clank* *Clank* rings the hammer as it hits the wood.
+text .... By the looks of it, there isn't just one or two broken splints.
+text I can't begin to guess how long it will take her to repair all of them on her own.
+sound SE_03.aac 1
+text The bell begins to ring.
+text ".... Looks like first period's started."
+text I give up, considering things have gotten to this point.
+text I sit down silently and begin to help repairing the splints.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text Once I began to help, I quickly realize mending them isn't that difficult after all.
+text Although the older student is not used to making repairs, she is quite skillful anyway.
+text She has already gotten the hang of it, and work is proceeding at a brisk pace.
+text Senpai's movements are quick and sharp, and I enjoy watching her.
+text She really is quite clever.
+text .... Before I know it, there is only one splint left to repair.
+text ~
+text Thirty minutes have passed.
+text I can't stay here any longer, and only one more would be no problem for Senpai.
+text "Well, I'll be going."
+text I stand up and dust off my pants.
+text The student with the glasses also stands up and begins to stare at me.
+bgload BG_04.jpg
+setimg CEL_T07A.png 52 0
+text "..?"
+text Come to think of it, just who is she?
+text I hadn't given it any thought because of what I was doing, but when I stop to consider her I realize she is quite beautiful.
+text Someone this good looking would be known by every male student.
+text They'd be talking about a "third-year beauty".
+text "Um.. I have to go.
+text Don't work too hard, Senpai."
+bgload BG_04.jpg
+setimg CEL_T03.png 52 0
+text She gives an obedient nod.
+text .... Even though she's older than me, it's almost like dealing with someone younger.
+text "Thank you for helping me.
+text I'm glad you did."
+text She makes a quick bow.
+bgload BG_04.jpg
+setimg CEL_T04.png 52 0
+text "I'll be sure to come say hello during lunch.
+text Ah, don't forget to wash your hands, Tohno-kun."
+text "You too, Senpai."
+text With that, I aace my hand and leave.
+text ~
+text .... Wait.
+text ~
+text ".... Huh?
+text Have I met you before, Senpai?"
+text "Eeeh!?"
+text Senpai cries out in surprise, and mischievously puts on a depressed face.
+bgload BG_04.jpg
+setimg CEL_T09.png 52 0
+text "Tohno-kun, you've forgotten about me?"
+text "..?"
+text Forgotten?
+text No, I don't think so.
+text If I had ever met a beautiful woman like her, there'd be no way I'd forget..
+text ".... Um.."
+text She looks up at me reproachfully.
+text Those eyes.. I'm sure I.. remember from somewhere.. don't I?
+bgload IMA_11.jpg
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg CEL_T09.png 52 0
+text .... Come to think of it, we had exchanged greetings once or twice before.. hadn't we?
+text "Ciel-senpai.. isn't it?"
+text Apprehensively, I suggest her name.
+bgload BG_04.jpg
+setimg CEL_T04.png 52 0
+text "Yes, and I'm glad you remember.
+text You seem the type to space out and forget, Tohno-kun."
+text .... I don't think I space out, but there's nothing I can do about the fact that I forgot.
+bgload BG_04.jpg
+setimg CEL_T03.png 52 0
+text "See you later, then.
+text Sorry for keeping you."
+bgload BG_04.jpg
+text Ciel-senpai bows again.
+text I watch her go, then start to walk towards the school building.
+music ~
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+music 03.mp3
+text When I reach my class, it's already the break after first period.
+text I slip into the room while everyone's busy talking.
+text My desk is the window seat in the very back row, so I can sneak there without drawing any attention.
+text And, when attendance is taken in the second period everyone will probably say, "Hey, when did Tohno get here?".
+text It's a strange quirk in an otherwise dull class.
+text ~
+text ----But I guess that plan won't work this time.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Yo, truant boy!
+text It's totally unlike you to be late."
+text "...."
+text I sigh.
+text It feels like reality is being hammered back into me after the pleasant time I spent with Senpai.
+bgload BG_06A.jpg
+setimg ARI_T03.png 40 0
+text "What's with that sour face of yours?
+text Being late when I'm actually on time.. what do you think you're doing?"
+text ".... Hey, listen, I'm not coming to school for your sake, you know."
+text "What!?
+text But I'm coming to school for your sake!
+text That's so unfair!"
+text "...."
+text Words fail me.
+text I wonder, like I have many times before, how I ended up knowing this guy.
+text His hair dyed orange, his ears pierced.
+text His vicious glare that screams he will pick a fight with anyone, anytime, and his wearing of rebellious clothes.
+text Inui Arihiko is the only free-spirited outlaw in our university-oriented high school.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "We've been bitter enemies since middle school, right?
+text If you make a carefree face like that in front of your rival, you'd better be prepared for trouble!"
+text In any case, Arihiko is a loud guy.
+text "Yo!
+text Morning, Tohno!"
+text Before I know it, everyone in class is looking my way and greeting me.
+text ".... Shut up, Arihiko.
+text You're ruining my chance to slip into class unnoticed!
+text And why am I your 'rival', anyway?
+text There are plenty of other tough guys around, so stop bothering me."
+text .... Well, he still owes me close to 10,000 yen from middle school so I guess that does make him my enemy.
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "Why are you only mean to me, Tohno?
+text You're like a saint to everyone else.
+text It's not fair."
+text "What, you just figured that out?
+text Life's not fair."
+text ".... You really are only mean to me."
+text I didn't try particularly hard to be cold to Arihiko.
+text That's just the kind of relationship we have.
+text "By the way, Arihiko, what's a chronically-late night owl who never shows up until second period doing here in homeroom?
+text It's a little.. no, it's very odd."
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Ahaha.. I was thinking that too.
+text I guess being at school on time isn't just for when I happen to wake up early."
+text ".... Well, I won't comment on your hobbies, but what I'm asking is why you woke up early."
+text "Why I woke up early?
+text Uhh.. I guess it's because I can't stay out late since all that fuss started, so I actually go to sleep at night now.
+text You've heard the stories about those serial killings, haven't you?"
+bgload BG_06A.jpg
+text .... Serial killings..?
+text ~
+text ".... I see.
+text Come to think of it, I did hear something like that."
+text I feel a tinge of regret at needing Arihiko to remind me.
+text For the past two or three days I had been debating whether or not to return to the Tohno household, so I completely lost touch with the news.
+text "What was that again?
+text They've given it some really nasty name, like the 'Freakish Serial Killings' or something."
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+text "There's more to it.
+text So far, all the victims have been young girls.
+text The eighth victim was only two days ago!
+text And to top it all off, they were all.. wait, what happened to them again?"
+text Arihiko tilts his head in contemplation.
+text "...."
+text I'm an idiot for asking him.
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+text "Yeah, I remember now!
+text All the victims had cross-shaped slashes on their throats!"
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+setimg STK_T01.png 117 0
+text ".... No, Inui-kun.
+text Everyone who was killed lost a lot of blood."
+text "Oh yeah, that was it.
+text They said it's some kind of modern day vampire or something."
+text "Hmph.
+text You sure know a lot about this, Yumizuka-san."
+text "Not really.
+text It's happening in this town, so it's in the news.
+text You'd remember it even if you didn't want to."
+text .... I see.
+text I thought it was happening in a neighboring town.. but I guess it moved down here.
+bgload BG_06A.jpg
+setimg ARI_T01.png -24 0
+setimg STK_T01.png 117 0
+text "Well, anyway, that's what happened.
+text Even I wouldn't be going on the streets at night with a killer walkin' around.
+text That's why I've been waking up at seven lately."
+text ".... What, that's it?
+text Having a good reason doesn't make a good story.
+text Where's the fun in that?"
+text I sit down while dealing with Arihiko.
+text "Man, you're cold.
+text What, did you collapse from anemia already this morning?"
+text "I'm alright, thanks for asking.
+text If I was anemic twenty-four hours a day, I'd be dead by now."
+text "Yeah, you're right.
+text If you say you're okay, then I guess you're okay."
+sound SE_03.aac 1
+text The bell rings while we're talking.
+text "Hey, class is about to begin.
+text Hurry up and get back to your seat."
+text "Yeah, alright.
+text Oh, by the way, we'll have lunch today in the cafeteria instead of on the roof.
+text I've invited a special guest, so look forward to it!"
+bgload BG_06A.jpg
+setimg STK_T01.png 117 0
+text With a scheming laugh, Arihiko returns to his seat.
+text "See you later, Tohno-kun."
+text "Ah.. yeah.
+text Sorry for keeping you, Yumizuka-san."
+bgload BG_06A.jpg
+text Her light footsteps tap across the floor as she returns to her desk.
+text .... But.
+text It's still a mystery to me why she joined our conversation.
+text She's just our classmate.
+music ~
+bgload IMA_10.jpg
+setvar ciel_regard + 1
+jump s23.scr

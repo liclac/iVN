@@ -1,0 +1,59 @@
+bgload BG_40B.jpg
+text ---I'll go see Hisui.
+text ~
+text ".... But Hisui doesn't let me help her, and I don't want to get in her way...."
+text .... What should I do?
+text I don't want to be a burden.
+text But for some reason, I want to see her.
+text ".... Ah."
+text That reminds me.
+text I still need to give her back the ribbon.
+text Hisui said she'd forgotten about it, but the ribbon is hers.
+text There's really no point in me holding on to it, so I should give it back.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+music 08.mp3
+text In the old man's old room, Hisui is arranging books.
+text Even though it is no longer being used, his room is still being cleaned like before.
+text "Hisui, can I have a minute?"
+bgload BG_41.jpg
+setimg HIS_T01.png 62 0
+text "Ah---Shiki-sama.
+text Yes, what is it?"
+text "I know we talked about this earlier, but I thought I should give this back."
+text ~
+text I pull out the ribbon Hisui gave me eight years ago.
+text ~
+bgload BG_41.jpg
+setimg HIS_T04.png 62 0
+text "............"
+text "Hisui?
+text So, you honestly don't want it....?"
+bgload BG_41.jpg
+setimg HIS_T17.png 62 0
+text "....No, I will take it.
+text It is important to me, after all."
+text Taking the ribbon, Hisui becomes silent.
+text "........"
+text I can't talk to her.
+text The Hisui in front of me right now looks very much like the Hisui from eight years ago, distant from the ones around her.
+bgload BG_41.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, is this all you came to do?"
+text I can't seem to speak, so I just nod.
+text "In that case, please return to your room.
+text I still have some work remaining."
+bgload BG_41.jpg
+text Hisui walks towards the center of the room.
+text ".... Hisui."
+text Did that ribbon have any special meaning?
+text This eight year period.
+text I think I may have finally fulfilled my promise, even if it was too late.
+text ~
+text ".... Then, I'll go to my room.
+text See you later, Hisui."
+text ~
+text With that, I leave the room.
+bgload IMA_10.jpg
+music ~
+jump s390.scr

@@ -1,0 +1,31 @@
+bgload event/STK_E01A.jpg
+text ............ Cold.
+text Were you bearing this much cold all by yourself, Yumizuka?
+text Even as I said sorry----and pitied you, I didn't understand your pain at all.
+text ~
+text But, that's over.
+text Tohno Shiki will soon disappear, and everything will end.
+music ~
+bgload IMA_10.jpg
+text ---My heartbeat gets farther away.
+text ~
+text My body warmth, everything that is living, ceases.
+text A familiar sensation.
+text That summer day eight years ago, a hatching cold.
+text ~
+text THUMP
+text ~
+text After screaming loudly, my heart stops.
+text And everything.
+text Everything that is Tohno Shiki disappears.
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s533.scr
+fi
+if selected == 2
+    jump main.scr
+fi

@@ -1,0 +1,97 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text And now, the hint corner for the sake of the insane Tohno-kun who has come so far only to reach this Dead End,
+text It is time for "Teach me, Ciel-sensei!"
+text ~
+text It is finally the sixth period of the second day.
+text We are getting closer and closer to the end.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "I envy you, Ciel.
+text You get a lot of appearances.
+text I'm the main heroine, but they still treat me like this scribble."
+text ~
+text Hey you, don't say weird things.
+text That's fine.
+text At least you have more dignity than me, the do-it-all character.
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "No-!!
+text Unsatisfactory!
+text I want to be dressed like you and be called smart!!"
+text ........
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text No appearance!"
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text Ciel-glasses!
+text No appearance!
+text No Ciel!"
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text Ciel-glasses!
+text Ciel-too plain!
+text Ciel-get out!
+text Ciel-glasses!
+text Fake-Frenchie!
+text Gun-fetish!
+text Ciel-India!"
+text ~
+text ........ (Anger)
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+sound SE_10.aac 1
+text "Kyuuuuuuuuu............"
+text ~
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ~
+text ----Well, let's start the lecture.
+text ~
+text To say it directly, you need to re-submit.
+text It looks like Tohno-kun could not attract Hisui-san's heart well enough.
+text Go back to the fifth or sixth day and please try again.
+bgload IMA_10.jpg
+music ~
+jump main.scr

@@ -1,0 +1,63 @@
+bgload BG_06A.jpg
+music 03.mp3
+text Fourth period class is about modern society.
+text The mood in the classroom is somewhat lighter than usual before lunch.
+text ~
+text Today is Wednesday, so there's one less hour of classes than usual.
+text After lunch, there's homeroom and an hour of deciding what to do for the Culture Festival.
+text What's more, tomorrow is a school holiday, so after this fourth period is over, it's practically vacation already.
+text It's only natural for everyone to be waiting for the end-of-class bell to ring.
+text "----Sleepy."
+text I give a big yawn.
+text The class is completely unchanged, the whole day progresses with nothing out of the ordinary.
+text ~
+text Come to think of it, I've been through so many strange experiences, I almost feel odd just sitting in class.
+text And after classes are over and night falls, I'll have to go out once more with Arcueid.
+text Thinking of that, I really don't have the time to be fooling around here.
+text I look at my reflection in the window glass.
+text Tohno Shiki's face seems to be happy for some reason.
+text "----Grr."
+text I tighten my expression.
+text It's not like roaming the streets with Arcueid is fun, so why am I acting like this?
+bgload IMA_10.jpg
+bgload event/ARK_E09.jpg
+bgload BG_06A.jpg
+text ~
+text ".... Arcueid...."
+text There's really, something wrong.
+text Looking out the window and into the rear courtyard, I can see an illusion of her aacing her hand at me and saying "Hey".
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Hey, wait a minute....!
+bgload event/ARK_E09.jpg
+text "Wha, wha, wha----"
+text I push myself onto the window and look down.
+text I can only see the very edge of the rear courtyard,
+text but without a doubt,
+text Arcueid, in her usual manner, is at my school.
+text "!!!!!"
+text I look around the classroom.
+text ~
+text ----Fortunately, there's no one who noticed the strange foreigner aacing to me.
+text "What is she thinking....!?"
+text I moan to myself as I clutch my head.
+text But, complaining does me no good.
+text .... There's about twenty minutes till lunch.
+text What are you going to do Shiki?
+text If you leave her alone, who knows what she'll do....!?
+text ~
+choice Go to the courtyard now.|Pray she doesn't do anything until classes are over.|I don't care
+if selected == 1
+    jump s150.scr
+fi
+if selected == 2
+    jump s151.scr
+fi
+if selected == 3
+    jump s152.scr
+fi

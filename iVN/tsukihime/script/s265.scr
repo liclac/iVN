@@ -1,0 +1,30 @@
+bgload BG_05A.jpg
+text ".... Why?
+text Why were you doing those things?
+text "Why?
+text I do it because it's my job."
+bgload BG_05A.jpg
+setimg CEL_T04.png 52 0
+text "More importantly, Tohno-kun, you were lying when you told me you would not go out at night, right?"
+text She grins as she says this.
+text "Oh...."
+text I did promise her that, but--
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "You didn't keep the promise we made.
+text You told me you wouldn't go out at night anymore."
+text "...... Uh."
+text She stares at me.
+text I start to feel like the bad guy all of a sudden, feeling guilty about what I did.
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text "I made the promise with you so something like this wouldn't happen.
+text Is that how little a promise with me means to you, Tohno-kun?
+text That makes me sad."
+text "Ah---no, that's not it.
+text About last night, I thought Arcueid was the one behind the serial killings, but that couldn't be right, so I went to ask her---"
+bgload BG_05A.jpg
+text I tell her all about last night.
+text Senpai listens to it all silently.
+text How I met her accidentally, how she explained to me about the vampire in this city, how I teamed up with her to save the city, and everything up until now.
+jump s267.scr

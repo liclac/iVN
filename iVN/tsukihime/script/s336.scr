@@ -1,0 +1,124 @@
+bgload BG_40B.jpg
+text .... It's bugging me how Akiha said that.
+text She said not to enter the detached building under any circumstances.
+text The way she said it gets me more curious.
+text Besides-----if a Japanese-style room is only located there, I do feel like I want to take a look at it.
+text ~
+text ".... I guess it's alright if I don't get caught."
+text I silently apologize to Akiha and decide to walk to the exit quietly.
+music ~
+sound SE_11.aac -1
+bgload IMA_10.jpg
+bgload BG_33B.jpg
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+bgload IMA_10.jpg
+text ------The sun has set and it is pitch black outside.
+text I walk through the woods which seem more like a forest.
+text .... I didn't remember quite where it was, but as I enter the forest, my feet automatically head toward the detached building.
+text Even if I forgot where it was, I guess my body remembers how to get there.
+text At any rate, I am able to get to the detached building without getting lost.
+bgload BG_44B.jpg
+text "-------"
+text It must have been many years since this building was put out of use, as many parts are deteriorated.
+text ~
+text As I put my hand on the door, I notice that it is unlocked.
+text ~
+bgload IMA_10.jpg
+text It is dark inside, as expected.
+text I smell the tatami mats and the shoji, and somehow feel comfortable even though I can't see anything.
+bgload BG_45C.jpg
+text "-----Ah."
+text As I enter the Japanese-style room, a chill runs through my spine.
+text "----------I know this place."
+text I guess I came here as a kid since this japanese-style room was interesting.
+text "------------"
+text But it's weird.
+text I feel the same sense of incompatibility I had when I was first shown my room after I came back to this mansion.
+text ".... Maybe because the Arimas' house was Japanese-style."
+text I feel like I've lived here all my life.
+text ~
+text Or maybe-----
+bgload IMA_10.jpg
+bgload BG_45C.jpg
+text ~
+text ~
+text ~
+text ~
+text If I recall, in the past..
+bgload IMA_10.jpg
+bgload BG_45C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text When we were playing in the yard..
+bgload IMA_10.jpg
+bgload CMO_06.jpg
+bgload BG_45C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Maybe it wasn't just me and Akiha.
+bgload IMA_11B.jpg
+bgload BG_45C.jpg
+sound SE_01.aac 1
+text "Ouch------"
+text I feel a pain in my neck.
+text It might be my anemia, but my body feels like lead.
+text ".... This is bad.... I have to go back to my room."
+text I shake my head lightly, and I decide to go back to my room before I really faint.
+music 01.mp3
+bgload BG_45C.jpg
+setimg KOHA_T02B.png 52 0
+text "Oh hello, Shiki-san.
+text What are you doing at a place like this?"
+text Kohaku-san suddenly enters the room.
+text "----------!!!"
+text I look around to see what I can do.
+text .... There's no place to hide.
+text Besides, she's already seen me.
+bgload BG_45C.jpg
+setimg KOHA_T04B.png 52 0
+text "Hey now, you can't come in here.
+text Akiha-sama told us never to let you in here."
+text ".... Yeah, she told me today.
+text She told me but-----"
+bgload BG_45C.jpg
+setimg KOHA_T15.png 52 0
+text "You got curious?
+text I understand.
+text I'll let you go this time, but please don't come here again.
+text This building is old and a bit dangerous."
+text .... This building is old and a bit dangerous, huh.
+text It's a weird reason but, it still makes sense.
+text ".... I'm sorry.
+text But what was this building used for?
+text You say it's not used now but did someone use it before?"
+bgload BG_45C.jpg
+setimg KOHA_T03B.png 52 0
+text "Yes, this used to be the servants' residence.
+text Before you went to the Arimas, this mansion had many servants.
+text It was impossible to let all the servants live in the mansion, so Makihisa-sama constructed this detached building."
+text "I see, this place was the servants' residence."
+text It does make sense now that she mention it.
+text If you have a mansion this big, such a thing would be certainly needed.
+text But, why?
+text Why is Akiha trying to get me away from this place------?
+text "Shiki-san, we should go back to the mansion or Akiha-sama might find out."
+text "Oh-----I'm sorry."
+text I shake off the faint doubt remaining and decide to go back to the mansion with Kohaku-san.
+bgload IMA_10.jpg
+music ~
+setvar flgN + 1
+jump s338.scr

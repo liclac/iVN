@@ -1,0 +1,86 @@
+bgload BG_29B.jpg
+music 01.mp3
+text "Ah---the lamp posts are turning back on."
+text The previously dark lamp posts spring back to life.
+text The park lit only by the moonlight gradually becomes brighter.
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "It seems that woman lifted her barrier.
+text It was supposed to prevent anyone from entering the park, but it seems like you could pass right through."
+text "Hm?
+text You mean that power outage was Senpai's doing?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Yeah, it's one of their specialties, letting people stay away.
+text It really has nothing to do with us."
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "By the way Shiki.
+text I wanna ask, but what do you think of Ciel?"
+text With a cold voice, Arcueid suddenly asks that.
+text ".... About Senpai?
+text .... Why do you ask about that, Arcueid?"
+text "Oh nothing.
+text I just hate that woman.
+text We were supposed to meet and exchange information, but I got irritated during the conversation and we ended up trying to kill each other."
+text "K-kill each other---why did you end up doing that!?
+text In the first place, Senpai isn't a vampire.
+text Why did you try to kill Senpai?"
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "That's my line.
+text She was the one who struck first!"
+text "----Eh?"
+text ~
+text .... The one who struck first, was Senpai....?
+text ~
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "That's right.
+text She said 'I knew it was pointless, I just can't allow your existence', and then she attacked me.
+text She may look very calm, but all the members of the Burial Agency enjoy fighting.
+text You can't let her fool you too, Shiki."
+text "Wha-----"
+text ~
+text Enjoy fighting?
+text Does Senpai really---
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+text "---Shiki.
+text You were fooled by her up to now, right?
+text So why are you saying things to help her out?
+text You know, she was tricking you, since you didn't know anything, and pretended to be a normal person.
+text Don't you feel a little angry at being used?"
+text Arcueid glares at me.
+text ".........."
+text That is,
+text certainly I'm shocked that Senpai is different from normal people, kind of like Arcueid.
+text But, I don't feel like I've been tricked.
+text On the contrary, Senpai has helped me so many times.
+text "I----"
+text .... Even though I know about Senpai's identity now, I still think of her as Senpai.
+text Eating lunch with her, talking about stupid things with her and Arihiko, walking with her to the school gate, all of it is so much fun.
+text So---if I could.
+text It would have been better if I didn't find out about her.
+bgload BG_29B.jpg
+setimg ARK_T05B.png 36 0
+text "Shiki.
+text Whose side are you on, mine or that woman's?"
+text I feel pressure.
+text Her eyes are the source.
+text Now she isn't like a human, but more like an animal hunting its prey.
+text It seems Ciel-senpai is an unforgivable enemy for Arcueid.
+text That's why she glares at me with such fierce, hostile eyes.
+text As if saying, if I am her enemy's friend, I will be Arcueid's enemy as well.
+text ".... Arcueid...."
+text I have trouble answering.
+text I---
+text ~
+bgload BG_29B.jpg
+choice I can't leave Arcueid alone.|Senpai is dear to me.
+if selected == 1
+    jump s257.scr
+fi
+if selected == 2
+    jump s258.scr
+fi

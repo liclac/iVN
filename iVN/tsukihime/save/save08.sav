@@ -1,0 +1,16 @@
+<save>
+  <script><file>script/s80.scr</file><position>61</position></script>
+  <date>15:25 2011/05/14</date>
+  <variables>
+    <var name="ark_regard" type="int" value="4" />
+    <var name="ciel_regard" type="int" value="5" />
+    <var name="flg2" type="int" value="1" />
+    <var name="selected" type="int" value="1" />
+  </variables>
+  <state>
+    <music></music>
+    <background>background/BG_19B.jpg</background>
+    <sprites>
+    </sprites>
+  </state>
+</save>

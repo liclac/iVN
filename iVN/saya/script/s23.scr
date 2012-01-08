@@ -1,0 +1,601 @@
+text ~
+text I'm going to die...... 
+
+sound 10_1.aac 1
+
+text ~
+text Just as that final thought enters his fading consciouness, a sudden explosion brings him back to his senses.
+
+sound saya01.aac 1
+
+sound voice/43/000101.aac 1
+text "Gyaaaaaa!"
+text ~ 
+text With a horrifying, inhuman scream, the creature releases Kouji and retracts its tentacles.
+
+sound 40_2.aac 1
+
+text ~ 
+text The first thing he sees after regaining his mobility is Ryouko running down the hall with a smoking shotgun in her hand.
+
+sound voice/43/000202.aac 1
+text "Doctor!"
+text ~
+text Ryouko responds by tossing the silver tube in her other hand to Kouji, who's still lying on the floor.
+
+sound 49_2.aac 1
+
+text ~ 
+text It's the thermos she showed him at the restaurant, the one that she called her "secret weapon"--
+
+setimg ryouko00_01.png 10 0
+
+sound voice/43/000306.aac 1
+text "Pour it on that thing!" Ryouko shouts to Kouji. At the same time, she aims her gun at Fuminori, who's still on his knees about five paces away. 
+text The double-barreled sawed-off hunting shotgun still has one shot loaded.
+
+bgload bg04ni0.jpg
+
+text ~ 
+text The monster that attacked Kouji is writhing in agony, apparently still recovering from Ryouko's shot.
+text He's already seen, however, that bullets aren't enough to kill these creatures. Now is his only chance.
+
+sound voice/43/000400.aac 1
+text "You...... What are you doing......?"
+
+text ~ 
+text Gritting his teeth against the pain of his broken ribs, Fuminori glares at Kouji and Ryouko.
+text Forcing himself to be calm, Kouji stands and carefully unscrews the lid of the thermos. 
+text There's no question in his mind that something extremely potent is inside.
+
+sound 125.aac 1
+
+text As soon as it's unsealed, a thick white mist pours out of the thermos and the surrounding air suddenly becomes freezing cold.
+text This is--
+text ~ 
+text Guessing what's inside, Kouji ruthlessly throws the thermos at the pile of flesh convulsing on the floor.
+
+sound 49_1.aac 1
+
+text ~ 
+text The thermos sails through the air, spewing white fog like a smoke grenade, its liquid contents spraying the creature crawling on the floor like a baptismal font.
+
+sound 74.aac 1
+delay 30
+
+sound voice/43/000501.aac 1
+text "HiGyaAaAaAAA!!"
+text ~ 
+text Its scream this time is literally a death cry, incomparable to before.
+text ~
+sound voice/43/000601.aac 1
+text "HiI! hIi! HiI! HiGiiiIIII!"
+text ~ 
+text Wreathed in white smoke, the monster thrashes in agony. Its screams are joined by Ryouko's cackling.
+
+setimg ryouko00_02.png 10 0
+
+sound voice/43/000706.aac 1
+text "Ahahahaha! How do you like that!? Minus 197 degrees! Is it cold? Hot? Not so tough now, are you!?"
+text ~ 
+text To Ryouko, perhaps the joy of defeating her nightmare was worth sacrificing her sanity...... 
+text The expression on her face as she laughs maniacally is clearly that of someone no longer in their right mind.
+
+bgload bg04ni0.jpg
+setimg fumi03.png 50 0
+
+sound voice/43/000800.aac 1
+text "Damn you...... I'll kill you!!"
+text ~
+text Fuminori staggers to his feet, roaring black curses. His rage seems to have drowned out the pain of his broken bones.
+ 
+bgload bg04ni0.jpg
+setimg ryouko00_04.png 10 0
+
+text Ryouko is not one to underestimate the threat posed by his axe. 
+text Her mad laughter fades away, leaving behind a cold smile as she pulls the trigger.
+
+bgload bg04ni0.jpg
+setimg ryouko00_03.png 10 0
+
+text ~
+sound 11.aac 1
+text With a short burst of dark flame, Ryouko's gun sputters and dies.
+
+bgload bg04ni0.jpg
+setimg ryouko00_01.png 10 0
+
+sound voice/43/000906.aac 1
+text "......Tch!"
+text ~ 
+text Ryouko is not an expert on firearms; she never knew that shotgun shells need to be properly stored. 
+text In any case, she always expected that any situation where her gun would be necessary would also be one that she would not survive.
+
+bgload bg04ni0.jpg
+
+text ~ 
+text Cursing in anger and dismay, Ryouko breaks the shotgun open and awkwardly pulls the dud out. 
+
+sound 65.aac 1
+
+text Meanwhile, Fuminori stalks towards Ryouko like a vengeful demon, dragging the head of his axe along the floor.
+text ~ 
+text This is bad--Kouji tries to charge at Fuminori, but only succeeds at sending himself sprawling again.
+text One of his shoes is stuck to the floor, rendering him immobile. 
+text He realizes that the liquid nitrogen he poured on Saya has also frozen the floor around him.
+text ~ 
+text As Ryouko fumbles in her pocket for a new shell, Fuminori closes the distance and raises his axe in both hands.
+text ~
+sound voice/43/001002.aac 1
+text "Damn!"
+text ~ 
+text Kouji curses and rips his shoe free of the frozen concrete, but he won't be able to make it to them in time.
+text ~ 
+text Ryouko thrusts a new shell into the chamber of her shotgun and snaps it closed, then looks up to find her target.
+sound 66_1.aac 1
+text Fuminori is right before her, too close to evade, and his axe is already crashing down upon her with the wind howling in its wake.
+text ~
+sound voice/43/001102.aac 1
+text "Stop!!"
+text ~ 
+
+sound 75.aac 1
+
+text The sounds of bones shattering, tendons snapping, and flesh tearing blend together in foul harmony. 
+text ~
+sound voice/43/001206.aac 1
+text "Guh.......!"
+text ~ 
+text The thick blade has entered through Ryouko's left shoulder, plowing through her collarbone and shoulder blade, smashing several ribs, and popping her lung like a balloon before stopping in the center of her chest.
+text Her expression frozen in shock by the impact, Ryouko sprays a geyser of blood from her mouth.
+
+bgload cg/45_1.jpg
+
+text ~
+text She should have died instantly--but, through some unimaginable force of will, Ryouko clings to life for a few seconds more. 
+
+sound 12_1.aac 1
+
+text Grinning through her bloodstained lips, she raises her shotgun.
+text ~ 
+text --Not to the front, but to the side.
+text ~ 
+text Beyond the barrel of her gun, half of its body wearing the 77-degree Kelvin mist like a white cloak of death, is the weakly wriggling Saya.
+text ~
+sound voice/43/001300.aac 1
+text "No!!!"
+text ~
+
+music ~
+sound 10_2.aac 1
+bgload cg/45_2.jpg
+
+text The 12-gauge shotgun drowns out Fuminori's scream in a thunderous explosion of light and sound far more powerful than that of Kouji's revolver.
+
+sound saya06.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~ 
+text The destruction is absolute. 
+text The impact of the shotgun pellets completely blows away the part of Saya's body that fell prey to the liquid nitrogen.
+text The frozen particles of Saya's shattered flesh drift to the floor like snow.
+ 
+sound saya05.aac 1
+
+text ~ 
+text Even Saya's special biology is insufficient to seal a wound of this size.
+text Nearly half of her body is gone, and from the opening pour her innards - a tide of liquid, slime, and fat whose color is far too foul to belong to any living creature.
+text ~
+sound voice/43/001401.aac 1
+text "......aH......aH......AhHh......"
+text ~ 
+text The monster convulses, wailing in a weak, pitiful voice.
+
+music music/s11.mp3
+bgload cg/46.jpg
+
+sound voice/43/001500.aac 1
+text "Saya--"
+text ~
+text With his axe still buried in Ryouko's body, Fuminori stares at the dying creature, his expression utterly devoid of emotion.
+text ~ 
+text Kouji grabs his pipe and prepares to attack Fuminori from behind, but freezes when he sees the emptiness on the face of the man he'd hated as a murderer.
+text ~ 
+text Fuminori pulls his axe out of Ryouko's corpse, then looks at Kouji with glazed eyes, as though he doesn't recognize who he is.
+text When Kouji meets Fuminori's blank stare, he knows -- there is no longer anything left in Fuminori to kill.
+
+bgload bg04ni0.jpg
+
+text ~
+text Fuminori grips the axe closer to its head and raises it high, the blade pointing at his face.
+text ~
+sound voice/43/001602.aac 1
+text "......"
+text ~ 
+text Kouji doesn't know whether or not he should interfere - but even if he wanted to, what could he say to stop Fuminori?
+text ~ 
+text Fuminori pulls his head back slowly, yet surely...... then drives his face into the blade of the axe like a spring-loaded toy.
+ 
+sound fumi04_3.aac 1
+
+text Crunch...... His skull caves in with a dull, wet sound, and the spray of blood catches Kouji in the face.
+text ~ 
+text Despite Fuminori's complete lack of hesitation, his first attempt at suicide only succeeds in transforming his face into a piece of crimson art.
+text Fuminori pulls his head back one more time, even slower than before, then, with every ounce of strength left in his body, slams it into the bloodstained axe.
+
+sound fumi04_4.aac 1
+
+text The sound is wetter than before.
+ 
+sound 26.aac 1
+
+text Like a marionette with its strings cut, Fuminori tumbles face-first to the floor.
+text ~ 
+text Kouji stares at the two mangled corpses for a while, feeling completely left behind, like he doesn't even know why he's standing in this place with a steel pipe in his hand.
+text The stale air filling the ruined building becomes choked with the stench of blood, and the crimson puddles gradually spread across the snow-covered floor - yet the tranquility of the scene makes it seem like a painting.
+
+sound saya07_3.aac 1
+
+text A soft, slimy sound breaks the silence.
+text Kouji looks at the mortally wounded monster as though just remembering that it's there.
+text The creature is clearly on death's door - even so, it moves. 
+text Slowly, feebly, it drags its broken body through the sea of blood covering the floor. 
+text --It's coming for Fuminori.
+text ~ 
+text Kouji had forgotten his anger, but now it comes surging back at full force.
+
+setimg kouji10.png 10 0
+
+sound voice/43/001702.aac 1
+text "......Die."
+text ~ 
+text Kouji growls and stabs the monster with the end of his steel pipe. 
+text It convulses in agony, but keeps crawling towards Fuminori.
+text ~ 
+text Kouji explodes into a frenzy of rage.
+
+bgload bg04ni0.jpg
+setimg kouji08_2.png 10 0
+
+sound voice/43/001802.aac 1
+text "Die! Just die already! Stay the hell away from Fuminori!"
+ 
+sound kouji04_2.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text Again and again, he smashes the helpless flesh-beast with his pipe. 
+text For some reason, he is convinced that, if he doesn't stop it here, he will have truly lost.
+
+sound kouji04_2.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~ 
+text The monster, however, never succumbs to Kouji's beating, and finally reaches Fuminori's corpse.
+ 
+sound kouji04_2.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+setimg kouji08_2.png 10 0
+
+sound voice/43/001902.aac 1
+text "Don't touch him! Don't touch Fuminori! Damn you! Who the hell do you think you are!"
+
+sound kouji04_2.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~ 
+text On the verge of tears, Kouji continues to swing his pipe furiously. The monster's slimy fluids fly through the air, joining with the blood already covering his face.
+
+sound ~
+
+text The creature extends one thin, trembling tentacle to touch Fuminori's shoulder, then lovingly caresses his blood-stained cheek--
+text ~ 
+text And then it stops moving.
+text ~ 
+text Even in its final moments, the monster would not let go of Fuminori. It died joined with him.
+text ~ 
+text At last, Kouji knows that he has lost everything forever.
+
+music ~
+bgload 000000.jpg
+delay 140
+music music/s01.mp3
+sound 04.aac 1
+bgload cg/16_2.jpg
+
+sound voice/44/000104.aac 1
+text "Hey, " Oumi says enthusiastically, the exposed bones of her face clattering, "why don't we go somewhere with skating for this year's ski trip?"
+text ~ 
+text Chunks of her body are missing, as though something's been nibbling on her. It makes her look a lot thinner. 
+text She's been worried about her weight recently, but now she shouldn't need to diet.
+
+bgload ba01me0.jpg
+
+sound voice/44/000200.aac 1
+text "Haha," Fuminori laughs at Oumi's crazy suggestion. "That's right. You just started skating recently, didn't you?"
+ 
+setimg fumi08.png 60 0
+
+text He sounds amused, but it's hard to tell from his expression, since his face has been cleaved in two by an axe.
+text ~ 
+sound voice/44/000300.aac 1
+text "I don't think there're many first-time skaters in their twenties these days."
+sound voice/44/000404.aac 1
+text "I was kinda scared when I was little. Those shoes seemed like knives to me."
+sound voice/44/000500.aac 1
+text "Yeah, I know. If someone kicked you in the face with those on, you'd probably end up like me."
+
+setimg yoh04.png 10 0
+
+text Oumi and Yoh laugh at Fuminori's dumb joke.
+text Yoh never used to laugh with such exuberance.
+text Now that she and Fuminori are officially lovers, she seems truly happy.
+ 
+bgload ba01me0.jpg
+setimg fumi08.png 60 0
+setimg yoh05.png 10 0
+
+sound voice/44/000605.aac 1
+text "But you were able to kill him on your first try? That's amazing, Oumi-chan."
+text ~ 
+sound voice/44/000700.aac 1
+text "It's not very different from swinging a baseball bat, after all. You swing hard and let the weight of the axe do the damage."
+
+bgload cg/16_2.jpg
+
+sound voice/44/000804.aac 1
+text "That's what Fuminori said, so I took his word for it and gave killing him a try. And it was fun!"
+text ~ 
+text What is this strange feeling? Something is wrong, though Kouji can't put his finger on exactly what--
+
+bgload ba01me0.jpg
+setimg yoh02.png 10 0
+
+sound voice/44/000905.aac 1
+text "Hmm...... I want to see Oumi-chan being eaten too......"
+text ~ 
+text Ah, that's it.
+text When he sees Yoh's envious smile, Kouji finally realizes what's wrong.
+sound voice/44/001002.aac 1
+text "Hey, Tsukuba......"
+
+bgload ba01me0.jpg
+setimg yoh05.png 10 0
+
+text ~ 
+sound voice/44/001105.aac 1
+text "Hm? What's wrong, Kouji-kun?"
+sound voice/44/001202.aac 1
+text "Why are you...... the only one who's normal?"
+text ~ 
+text Yoh tilts her head quizzically, like she doesn't understand what he means.
+text ~ 
+sound voice/44/001305.aac 1
+text "Normal? I'm always normal."
+sound voice/44/001402.aac 1
+text "But, back then, you were--"
+
+bgload ba01me0.jpg
+setimg yoh04.png 10 0
+
+sound voice/44/001505.aac 1
+text "Oh, I get it," Yoh nods in understanding.
+text ~ 
+sound voice/44/001605.aac 1
+text "You're talking about when I looked different than you? That was such a long time ago."
+text ~ 
+sound voice/44/001702.aac 1
+text "It...... was?"
+sound voice/44/001805.aac 1
+text "Of course!" she replies, deflecting Kouji's confusion with that uncannily cheerful smile.
+
+bgload ba01me0.jpg
+setimg yoh05.png 10 0
+
+sound voice/44/001905.aac 1
+text "After all, you're one of us now."
+sound voice/44/002002.aac 1
+text "--"
+
+sound 05_5.aac 1
+music ~
+bgload bp03me0.jpg
+
+text ~
+text Oh, of course.
+text Kouji looks down and is satisfied to see wriggling tentacles where his arms and legs should be.
+
+bgload 000000.jpg
+delay 80
+sound ~
+bgload bi03da0.jpg
+
+text When he opens his eyes, his pillow and mattress are soaked in sweat.
+
+music music/s04.mp3
+
+text It's always the same nightmare. He doesn't know how many times he's seen it, but at least he's not leaping out of bed screaming anymore.
+
+sound 21.aac 1
+
+text Clutching his throbbing head, Kouji sits up in bed.
+text ~ 
+text It's four in the morning.
+text He hasn't had nearly enough rest, but he probably won't be able to get back to sleep tonight.
+text Anyway, it's time for a smoke. A full pack will last him until dawn. Now, where did he put the pack he bought yesterday?
+
+bgload bi01da0.jpg
+
+text Kouji wanders sleepily into the den, where yet another old friend is waiting for him.
+text ~ 
+sound voice/44/002106.aac 1
+text "You look like hell, seriously."
+sound voice/44/002202.aac 1
+text "--Oh, Doctor. You're here too?"
+text ~ 
+text Ryouko's chopped-up corpse is sitting at his dining table, looking as deathly pale as ever as she sips coffee from a mug.
+text ~ 
+sound voice/44/002306.aac 1
+text "You suffer every night, don't you? I bet you're not getting enough sleep."
+sound voice/44/002402.aac 1
+text "It's not always like this," Kouji says amicably, as he sits down across from her. "If I take some medicine, it usually helps. For now."
+text ~ 
+text Hallucinations like these are easier to deal with than elaborate nightmares like the one he just had. 
+text They should probably worry him more, though.
+text ~ 
+sound voice/44/002506.aac 1
+text "If you'd listened to my warnings back then, you wouldn't be in such bad shape now."
+sound voice/44/002602.aac 1
+text "Let's stop talking about that. What's done is done."
+text ~ 
+text Ryouko chuckles, smiling the same cruel, manic smile that she used to when she was alive. 
+text Her left arm hangs from her half-severed shoulder, dangling like a forgotten wind chime.
+text ~ 
+sound voice/44/002706.aac 1
+text "I see....... Looks like you've come to terms with it."
+sound voice/44/002802.aac 1
+text "You were the same, weren't you? You managed to live as an elite neurosurgeon most of the time, after all."
+sound voice/44/002906.aac 1
+text "If you're just keeping up a facade, it's not that hard."
+
+sound 08.aac 1
+
+text ~ 
+text The corpse shrugs her shoulders - her intact right shoulder, that is and grimaces in disgust as she takes another sip of her coffee.
+sound voice/44/003006.aac 1
+text "But it's probably only going to get worse, you know.
+sound voice/44/003006_2.aac 1
+text Time heals emotional wounds, but with you, it's more like you've been poisoned."
+text ~ 
+text She's probably right.
+text Everyone dreams at night. No matter how dim the memories may get, the nightmares will always be there to tear into Kouji with fresh fangs.
+text The insanity that has taken root in his heart will grow, eventually consuming everything that's left inside of him.
+sound voice/44/003102.aac 1
+text "In my case, I've had you to learn from. I'm ready for anything."
+sound voice/44/003206.aac 1
+text "Oh, really?"
+
+bgload bi02da0.jpg
+
+text ~ 
+text Kouji nods, smiling confidently, then stands and walks into the bathroom, where he retrieves the weapon that he keeps hidden behind the mirror.
+ 
+sound 52.aac 1
+
+text It's Ougai's revolver, the one souvenir that Kouji brought back from the other world that night.
+text ~ 
+sound voice/44/003302.aac 1
+text "It was a lot of trouble, but I finally found someone who deals in these things.
+sound voice/44/003302_2.aac 1
+text I bought bullets for it. Can you believe that ammunition is more expensive than the gun itself?"
+sound voice/44/003406.aac 1
+text "How about that."
+text ~ 
+text In the mirror, Kouji sees Ryouko with her axe-inflicted gash reversed. She raises her mug as though to toast Kouji's resourcefulness.
+sound voice/44/003506.aac 1
+text "So, how many shots did you buy?"
+sound voice/44/003602.aac 1
+text "Just one."
+text ~ 
+text This time, it's Kouji who shrugs his shoulders. He uses both, exercising his privilege as a survivor.
+text ~ 
+sound voice/44/003702.aac 1
+text "You see--I never want to be in a situation where I'll need more."
+sound voice/44/003806.aac 1
+text "Oh......?"
+text ~ 
+text The corpse in the mirror nods, seeming strangely reserved.
+text ~ 
+sound voice/44/003906.aac 1
+text "You really do get it, Tonoh-kun."
+text ~ 
+text There's a brief silence.
+text Kouji doesn't really feel like getting all melancholy with a corpse.
+
+bgload bi01da0.jpg
+
+sound voice/44/004002.aac 1
+text "Hey, Doctor, let's give the diner coffee a rest. If you want, I'll put on a new pot of--"
+
+sound ~
+music ~
+
+text When Kouji turns around, halfway through his sentence, he realizes that the dining room is empty but for the silence of the night.
+text ~ 
+sound voice/44/004102.aac 1
+text "......"
+text ~ 
+text And so, Kouji finally returns to the world of the sane.
+
+sound 23.aac 1
+music music/s07.mp3
+
+text ~ 
+text He lights his first cigarette of the night and takes a deep drag. 
+text While sitting alone in his den, puffing on his smoke, he stares at the gun in his hand.
+text He knows just how precarious a cliff he's standing on.
+text ~ 
+text The "final line" that Ryouko spoke of is now one step behind him. 
+text Having finally crossed that line, Kouji no longer has anything to protect his soul.
+text Now that Ougai Masahiko's delusions and Tanbo Ryouko's paranoia have all become tangible horrors, he knows what insanity and despair truly are.
+text ~ 
+text Even in the real world, Sakisaka Fuminori is already wanted for several gruesome murders.
+text It didn't take long for someone to discover the stockpiles of human meat in the empty Sakisaka and Suzumi houses. 
+text In the two refrigerators were found the remains of Suzumi Yousuke, his wife and daughter, and Takahata Oumi.
+text ~ 
+text They found the clothes and other effects of Tsukuba Yoh, but were unable to locate any trace of her among the various body parts - a fact that made Kouji's nightmares all the more vivid.
+text ~ 
+text Doctor Tanbo Ryouko of the T University Hospital mysteriously vanished at the same time. 
+text Because she was Fuminori's chief physician, the police have been investigating her connection to his crimes.
+text As for the two corpses secretly buried in the backyard of a certain ruin - well, they'll probably never be found, and this incident will just become another cold case.
+text ~ 
+text Kouji alone knows what really happened, and he has no intention of revealing it - not now, and not ever.
+text ~ 
+text Ougai's writings were not nonsense, which means that everything else was.
+text What fool was it who said that men are the lords of Creation?
+text Those who believe in the worth of meaningless things like human wisdom and valor--are those lucky people who have not looked into the Abyss.
+text ~ 
+text Kouji no longer has any common ground with those who are blessed with such ignorance and innocence.
+text He knows. He has been defiled by the insanity called Truth, and he will never be able to believe again.
+text ~ 
+text If he has been poisoned, then that poison is none other than the truth itself.
+text Just as pure oxygen is harmful to the body, the naked truth has the power to destroy men's minds.
+text Oxygen only becomes air when combined with five times as much nitrogen. Truth is the same. 
+text Only by diluting it with lies and taking it in small doses can humans maintain a healthy soul.
+
+bgload bi02da1.jpg
+
+sound voice/44/004206.aac 1
+text "No matter how unimaginably insane the world might become--"
+text ~ 
+text Words once spoken by the living Tanbo Ryouko pass through Kouji's mind.
+text ~ 
+sound voice/44/004306.aac 1
+text "I had some choice other than just running around screaming--"
+
+music ~
+
+text ~ 
+text Without a doubt, that was the comfort that she kept hidden in her bosom - the only thing that allowed her to face her dreams each night.
+
+bgload bi02da0.jpg
+
+text Kouji has taken his predecessor's lessons to heart. Of course he's prepared.
+text ~ 
+text One bullet is always behind the bathroom mirror, promising him salvation.
+
+gsetvar madending = 1
+gsetvar ending = 1
+music music/shoes_of_glass.mp3
+bgload 000000.jpg
+text !
+endscript

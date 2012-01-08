@@ -1,0 +1,37 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text And now, time for the fifth period lesson of the second day.
+text The corner for the sake of the unfortunate Tohno-kun, who has met yet another Bad End,
+text It is time for "Teach me, Ciel-sensei!"
+text Let's see, the mistake this time is-----.
+text ~
+text .... Oh, no.
+text That won't do.
+text This event Tohno-kun is involved in right now is not something you can solve by yourself.
+text Don't be so persistent and trust the people around you.
+text You should ask for their help.
+text I don't want to see Tohno-kun become a killer.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "But, in a few years, Shiki will be called Shikiller, and will team up with the Knight of Vengeance to go hunt down the Dead Apostles."
+text ~
+text Arc-san, that is just what you hope for, not a fact.
+text Alright, Tohno-kun.
+text Ignore the person who doesn't even get one appearance in this route and enjoy the rest of the main story.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ARK_T30.png 61 0
+text "Awwww.
+text I haven't done anything wrong, so why don't I get to appear-nyaa?
+text I'm supposed to be the main heroine."
+bgload IMA_10.jpg
+music ~
+jump main.scr

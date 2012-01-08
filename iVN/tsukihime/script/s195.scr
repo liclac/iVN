@@ -1,0 +1,13 @@
+bgload BG_08B.jpg
+text ----I should look for Arcueid.
+text ~
+text No matter how impossible it might look, no matter how hopeless it seems, it's all I can think of.
+text I'll keep searching until I find her.
+text I can't leave her by herself, and I can't let her----settle things with Roa by herself.
+text "----Alright."
+text My mind is set.
+text So I can't waste any more time here.
+text I have to go in town this very minute, and even if it means looking for a needle in a haystack, I have to find Arcueid----
+bgload IMA_10.jpg
+setvar ark_regard + 1
+jump s198.scr

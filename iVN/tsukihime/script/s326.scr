@@ -1,0 +1,70 @@
+bgload BG_04.jpg
+text "Arihiko's just one of my classmates.
+text But you haven't answered my question, either."
+bgload BG_04.jpg
+setimg AKI_T01A.png 40 0
+text "Very well.
+text What is it, Nii-san?"
+text "What is it!?
+text Why have you transferred to this school?
+text What possible reason could you have for transferring to a second-rate elevator school!?"
+bgload BG_04.jpg
+setimg AKI_T03A.png 40 0
+text "So you say, Nii-san.
+text But I can go to school wherever I choose; I do not need to explain myself to you."
+text ".... Don't be stupid.
+text I'm your brother!
+text I can't just overlook things that are against your best interests.
+text Frankly, I can't see any benefit in you transferring to this school.
+text Since our old man isn't around anymore, it's my responsibility to look out for you..!"
+bgload BG_04.jpg
+setimg AKI_T16A.png 40 0
+text ".... What?
+text It's not fair to say things like that at times like these."
+text "'Not fair' is my line.
+text What were you thinking, transferring without even telling me?
+text I won't accept this transfer until I hear a good reason!"
+bgload BG_04.jpg
+setimg AKI_T17A.png 40 0
+text "Ah----"
+text "If I'm not satisfied with the reason, I'll send you right back to your own school.
+text So, tell me, Akiha.
+text Why did you change schools?"
+bgload BG_04.jpg
+text Akiha falls silent and looks down.
+text A very brief moment later, she raises a brave face.
+bgload BG_04.jpg
+setimg AKI_T12A.png 40 0
+text ".... I was worried about you, Nii-san.
+text Is that not a sufficient reason?"
+text ~
+text -------Eh?
+text ~
+text ".... Ha, hang on.
+text What do you mean, worried about me..?"
+text What sort of reason is that for transferring?
+bgload BG_04.jpg
+setimg AKI_T03A.png 40 0
+text "Well, looking at your unruly behavior recently, I decided that in order to prevent you from disgracing the Tohno name, I would have to keep a close eye on you."
+text Akiha explains clearly.
+text "Erk----"
+text When she says "unruly behavior", I can't help but nod.
+text It's true; my everyday life since coming here has surely been an annoyance to Akiha and the others.
+text "Bu, but, transferring is still a bit much, isn't it?
+text What about your friends?"
+bgload BG_04.jpg
+setimg AKI_T05A.png 40 0
+text "That's none of your concern, Nii-san.
+text If you feel even a little bad for me, then all you have to do is change your way of thinking from now on."
+text Akiha turns sharply away.
+text .... Well, this is just the way she is.
+text ".... Alright, do as you please.
+text But one day, you'll regret it."
+bgload BG_04.jpg
+setimg AKI_T06.png 40 0
+text "That's fine.
+text I wasn't thinking of having you worry over me, Nii-san."
+text With a sound of exasperation, Akiha starts to sulk.
+bgload BG_04.jpg
+setvar flgL + 1
+jump s329.scr

@@ -1,0 +1,265 @@
+music 03.mp3
+bgload BG_34C.jpg
+text -----And..
+text ~
+text In less than an hour, Hisui falls asleep and Kohaku-san carries her to her room with a smile.
+text "........"
+text Not being used to alcohol, my mind is a little fuzzy.
+text Akiha sits nearby and is still drinking eagerly.
+text It doesn't bode well for the rest of the evening.
+text ".... Akiha, you really have some tolerance, don't you."
+bgload BG_34C.jpg
+setimg AKI_T26.png 40 0
+text "Oh?
+text I'm not drinking it straight up so I think it is about normal."
+text .... Um, that's not the point..
+text I'm saying she's pretty used to drinking for being a minor.
+bgload BG_34C.jpg
+setimg AKI_T13B.png 40 0
+text "Geez, making that face again.
+text Please get at least a little drunk, Nii-san.
+text Kohaku prepared all this to cheer you up, so isn't it meaningless if you don't?"
+text "Ah, that's right.
+text .... Yeah, I have to thank Kohaku-san for her consideration.
+text Thanks to that, I do feel a bit better."
+bgload BG_34C.jpg
+setimg AKI_T03B.png 40 0
+text "What are you saying?
+text You don't look happy at all.
+text If alcohol doesn't make you feel better, isn't there nothing left?"
+text "Wow, that's a little bold.
+text Saying nothing is left if alcohol doesn't work.. isn't that mistaken?"
+bgload BG_34C.jpg
+setimg AKI_T18B.png 40 0
+text "It cannot be helped if you do not wish to speak to me, Nii-san.
+text If you would talk about last night, I wouldn't ask for the help of alcohol."
+text "------"
+text I see.
+text Just like Kohaku-san, Akiha is concerned about me.
+bgload BG_34C.jpg
+setimg AKI_T16B.png 40 0
+text "But, I can't ask, right?
+text I already promised no longer to ask about it."
+text ".... Sorry.
+text I'm just a big burden to everyone."
+bgload BG_34C.jpg
+setimg AKI_T26.png 40 0
+text "Well, as long as you understand it is alright.
+text ----Um, as you say I seem to be a little drunk, so I will go outside."
+bgload BG_34C.jpg
+text ~
+text She says "drunk", but her steps are firm as she exits the dining room.
+bgload IMA_10.jpg
+music ~
+bgload BG_42B.jpg
+music 09.mp3
+text Following Akiha, I go out to the courtyard to get some fresh air.
+text It is still before six o'clock.
+text The red sun paints the sky.
+text ".... Still the afternoon?"
+text There's no one else around.
+text I thought Akiha was going to be here but I guess we missed each other.
+text ".... Red sunset?"
+text Until now, the red sunset reminded me of fresh blood.
+text But today,
+text it reminded me of her final smile as we parted on the road home.
+text ~
+sound SE_01.aac 1
+text .... Throb.
+text A stabbing pain in my chest.
+text ~
+sound SE_01.aac 1
+text Does the scar on my chest hurt?
+text Or is my heart in pain from regret?
+text I can't tell the difference.
+text Only that my chest hurts.
+text As if it was bleeding.
+text ~
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+text "Gah------"
+text Dizziness assails me.
+text Because of the alcohol and the pain in my chest,
+text such a small, insignificant thing causes me to lose consciousness----
+bgload IMA_11.jpg
+text .... My house is this way.
+text Saying that, she went down a different path.
+text .... Thanks.
+text She probably said that since I was there for her until the very end.
+text ~
+text .... Sorry.
+text She probably said that since she knew I would carry this regret from now on.
+text .... So it's okay to forget.
+text ~
+text It felt like she whispered those words in my ears.
+text .... Isn't that just a false happiness?
+text In a dream I dreamed about, I dream such selfish words.
+text If I can just forget, it will be very easy for me.
+text But I can't forget.
+text I didn't like her nor did I hate her, but,
+text I think I shouldn't forget her smile.
+text And more than that,
+text as long as this scar remains on my neck, I can't forget----
+music ~
+bgload BG_40C.jpg
+music 01.mp3
+text "Ah-----"
+text When I come to, I'm lying in my room.
+text While I was sleeping, Akiha must have been watching me because she is there in front of me.
+text "Aki, ha?"
+bgload BG_40C.jpg
+setimg AKI_T17B.png 40 0
+text "Have you awakened?
+text Goodness, suddenly collapsing like that, what happened Nii-san?"
+text "I see.... did I pass out?"
+bgload BG_40C.jpg
+setimg AKI_T12B.png 40 0
+text "Yes.
+text Thankfully, you woke up quickly.
+text I'm sorry for forcing you to drink like that."
+text "No, that has nothing to do with this.
+text I just collapsed on my own."
+bgload BG_40C.jpg
+text Saying that, I stare up at the ceiling.
+text My head is still dizzy, and I don't feel like talking with Akiha right now.
+text .... Even still, Akiha is not bothered by this and she quietly tends to me.
+text ".... Akiha?"
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "Yes?
+text What is it, Nii-san?"
+text "---Um, well.
+text Isn't this boring for you?
+text I'm fine, so you can go back to your room if you want."
+bgload BG_40C.jpg
+setimg AKI_T12B.png 40 0
+text "Are you saying I'm bothering you?"
+text "No, that's not it at all.
+text I was just thinking that maybe you were a little bored."
+bgload BG_40C.jpg
+setimg AKI_T04B.png 40 0
+text "It is boring, but I can stand it.
+text This is something I'm doing out of my own interest, so there is no need for you to worry, Nii-san."
+text ~
+text Then----I guess that's alright.
+text Time passes.
+text It's past seven o'clock.
+text Seven hours since then.
+text Has Akiha been tending me this long?
+text Akiha silently takes my temperature.
+text ~
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text .... Ah, I remember now.
+text That had to have been more than eight years ago.
+text Akiha came to watch over me after I caught a cold or something like that.
+text It really was a terrible cold; even breathing was painful.
+text The black-haired girl sat by my pillow, holding my hand and just staring at me.
+text Tatami and the shouji.
+text The cool winter air.
+text In the dark tatami mat room, the young figure of Akiha watching me on the verge of tears.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text ".... I'm a little relieved."
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "Eh?
+text Did you say something Nii-san?"
+text ".... Yeah.
+text I was just thinking there is a little bit of the old Akiha in you.
+text It's not really anything, but it makes me pretty happy."
+text I give Akiha a gentle smile so naturally, it almost surprises me.
+bgload BG_40C.jpg
+setimg AKI_T16B.png 40 0
+text "That is fine, but you haven't changed at all Nii-san.
+text Causing so much work for others.. please act more properly."
+text Akiha looks away and complains.
+text Understanding she is just embarrassed, I start to feel even more happier.
+bgload BG_40C.jpg
+setimg AKI_T13B.png 40 0
+text ".... Sheesh, why are you smiling like that?
+text If you have this much energy I guess you don't need me to take care of you."
+text "No, that's not it.
+text I just remembered something from a long time ago.
+text Akiha, in that tatami room----"
+bgload BG_40C.jpg
+sound SE_01.aac 1
+text ~
+text ----Tatami room?
+text ~
+text What is that all about?
+text I understand Akiha taking care of me, but why was it in a tatami room and not my room?
+text ~
+text Something.
+text There's something not quite right.
+text "Akiha.
+text Is there a room with tatami in this mansion?"
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "No.
+text There are no Japanese rooms in this mansion."
+text "Yeah, you're right.
+text It's nothing.
+text I just thought it was odd, don't worry about it."
+bgload BG_40C.jpg
+setimg AKI_T13B.png 40 0
+text "Hm?
+text What is so odd about not having a Japanese room?"
+text "Oh, you know.
+text This mansion is so big, I thought maybe there was at least one."
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "There is a detached Japanese-style building however."
+text "Eh----?"
+text ----Now that she mentions it, of course.
+text In the middle of the forest in the garden, there was a Japanese-style mansion.
+bgload BG_40C.jpg
+setimg AKI_T16B.png 40 0
+text ".... Goodness, you really have become more energetic.
+text I think I will only be in the way if I stay longer so I will return to my room."
+bgload BG_40C.jpg
+text Standing up from the chair, Akiha goes to leave the room.
+text "Thanks, Akiha.
+text Sorry for making you stay here this whole time."
+bgload BG_40C.jpg
+setimg AKI_T04B.png 40 0
+text "Please don't mind.
+text Starting tomorrow your daily life will become more like this."
+bgload BG_40C.jpg
+text "......?"
+text After saying something I don't quite understand, Akiha exits the room.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ----I turn off the lights and rest in bed.
+text ~
+text Thanks to Akiha taking care of me, I feel more relaxed.
+text At this rate, I should be able to dream peacefully for the first time in days.
+text ~
+text I take a deep breath and slowly close my eyes.
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text .... Right before I fall asleep,
+text the memory of myself being tended by a young Akiha freshly surfaces in my mind.
+text The dark Japanese-style room where no one came to see me.
+text Did she sneak away from Makihisa?
+text Akiha snuck in and cried as she held my hand.
+text "I'm sorry," she was saying.
+text I didn't know why, but the black-haired young girl kept repeating "I'm sorry" over and over.
+text ------I remember.
+text ~
+text About the proud eldest daughter of the Tohno family who was the only one to care for me.
+text "............"
+text The young girl always crying in the dark Japanese room.
+text I bit my tongue in frustration while being dizzy from fever.
+text I wonder why she was crying.
+text If it was me,
+text I would never, never let Akiha cry.
+text .... I'm sorry.
+text .... I'm sorry, Shiki-nii-san.
+text ~
+text Her tears were simply beautiful.
+text Since that time, I vowed to be her real brother----
+bgload IMA_10.jpg
+music ~
+jump s325.scr

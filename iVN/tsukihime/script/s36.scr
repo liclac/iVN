@@ -1,0 +1,35 @@
+if clear_hisui != 0
+    jump s201.scr
+fi
+if cleared != 0
+    jump s37.scr
+fi
+bgload IMA_10.jpg
+bgload BG_22B.jpg
+music 01.mp3
+text I walk along a different path than the one I usually take.
+text Passing through unfamiliar streets, I slowly approach the Tohno mansion.
+text The surroundings are not completely unfamiliar.
+text After all, I had lived here until I was nine years old---eight years ago.
+text This is not the first time I have taken this path back to the mansion.
+text .... My feelings are a little complex.
+text The path home is nostalgic, yet fresh.
+text Up until just now, I had not looked forward to returning to the Tohno household.
+text Now, it doesn't seem so bad.
+bgload IMA_11.jpg
+bgload IMA_17.jpg
+text .... The house I lived in until I was nine years old.
+text Right now, my sister Akiha is in that utterly un-Japanese western-style mansion.
+text Tohno Makihisa--My old man who hated me, and the master of the Tohno household, died a few days ago.
+text My mother died from illness after Akiha was born, so the Tohnos had dwindled down to me and my sister.
+text Being the eldest son, you would think I would stand to become the Tohno heir.. but I have no such privilege.
+text To become the Tohno heir means being bound by a strict upbringing.
+text I have lost count of the number of times my father scolded me over my dislike of not being able to live freely.
+text That was when I got involved in that accident, and my body became weakened.. My father saw it as a good opportunity to get rid of me.
+text His reasoning was something along the lines of "someone who could die any moment can't become the heir, even if he is the eldest son".
+text Sadly for my father, I betrayed his expectations by making a recovery, but my sister Akiha was already deemed to be the heir to the Tohno household.
+text And so I've heard that Akiha, who was already being raised harshly in order to become a proper daughter of the Tohno household, received an even harsher upbringing since then.
+text That was a long time ago--I played together with Akiha in the mansion back before the accident.
+text After that, I never saw her again.
+bgload IMA_11.jpg
+jump s40.scr

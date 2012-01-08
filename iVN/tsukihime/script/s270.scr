@@ -1,0 +1,239 @@
+bgload BG_27B.jpg
+text "-------"
+text I see.
+text Certainly, I don't really have the right to say anything about that.
+text I don't have the right, but---
+text "Look, just don't go!
+text Arcueid is in the park!
+text You know how she detests you, right?
+text So I can't let the two of you meet!"
+bgload BG_27B.jpg
+setimg CEL_T01B.png 52 0
+text "Oh?
+text Are you worried about me?"
+text "Of course, I don't want to see the two of you fight.
+text I'm begging you, please just go back!"
+text "--Oh.
+text I see, you're not worried about me, but you're worried about her, right?"
+text ~
+text Looking off into the distance, she completely ignores what I say.
+text ~
+text .... For some reason,
+text it seems she is doing all this intentionally because she enjoys teasing me.
+text ".... Senpai.
+text Don't tell me, you're still carrying a grudge from this morning....?"
+text She just smiles and doesn't say anything.
+text .... She's angry.
+text That face is unmistakably carrying a grudge.
+text ".... I get it, everything this morning was completely my fault.
+text I'm sorry.
+text So---"
+text "If you tell me to go back because of that, I'll beat you down Tohno-kun."
+text "...... Huh?"
+text "Tohno-kun.
+text We're still fighting right now.
+text It seems I'm still angry, so it isn't easy to just talk calmly."
+text "Um.... Senpai?"
+text "If you went back, we could make up, but I know that's impossible.
+bgload BG_27B.jpg
+setimg CEL_T07B.png 52 0
+text So this conversation is meaningless.
+text There is no need for you to apologize.
+text I'm not concerned with what happened this morning."
+text She looks at me with those eyes devoid of any emotion.
+text "My duty is to hunt down vampires.
+text Anything else is trivial."
+bgload BG_27B.jpg
+text ~
+text Senpai walks into the park.
+text "Hey---Senpai!"
+bgload IMA_10.jpg
+music ~
+bgload BG_28B.jpg
+text She crosses through the park.
+text As expected, she's heading right towards where Arcueid is waiting.
+text "Wait a minute.
+text Why are you so angry, Senpai!?"
+bgload BG_28B.jpg
+setimg CEL_T07B.png 52 0
+text "---I'm not angry.
+text How about yourself?
+text If you come with me, won't she misunderstand things?"
+text "Misunderstand---misunderstand what?"
+text "Don't you like her?
+text Then, I don't think you should be with me, someone who is her enemy."
+text "Wha.... it's not like I like her...."
+text ~
+text I can't say for sure though.
+text I don't know for sure what I truly feel, but I'm sure I am attracted to her.
+bgload BG_28B.jpg
+setimg CEL_T01B.png 52 0
+text "You really can't lie even to yourself, can you?
+text I think you are far too honest."
+text For a brief instant, her mask reveals a sigh.
+text "But, it really is better if we separate here.
+text We are no longer friends, and if Arcueid were to see us---"
+text ~
+text "Hm?
+text What would happen, Ciel?"
+music 06.mp3
+text ~
+text "----!"
+bgload BG_28B.jpg
+text We both turn around towards the voice behind us.
+text There we see---Arcueid, who seems to be in a particularly bad mood.
+bgload BG_28B.jpg
+setimg ARK_T05B.png -28 0
+text "How surprising.
+text I came because I heard Shiki's voice and I find you here.
+text Didn't we already share our information yesterday?
+text I don't believe you have anything to do with me anymore."
+bgload BG_28B.jpg
+setimg ARK_T05B.png -28 0
+setimg CEL_T07B.png 116 0
+text "Yes, I don't have anything to do with you anymore.
+text I was just pointing things out to him."
+text "Oh really?
+text You intend on stealing my partner?"
+text ".... That sounds good too.
+text I still owe you from that one injury you gave me."
+bgload BG_28B.jpg
+setimg ARK_T05B.png -28 0
+setimg CEL_T07B.png 116 0
+text The situation is critical between the two of them.
+text ~
+text As the one standing between them, I can't just watch.
+text .... Looking at this problem, our relative locations are Senpai, me, then Arcueid.
+text And if the two of them fight, I would be right in the middle of it.
+text "You two, why are you glaring at each other?
+text Your goal is the same, so calm down and...."
+bgload BG_28B.jpg
+setimg ARK_T05A.png -28 0
+setimg CEL_T07B.png 116 0
+text "Be quiet Shiki!"
+bgload BG_28B.jpg
+setimg ARK_T05A.png -28 0
+setimg CEL_T06B.png 116 0
+text "Please be quiet Tohno-kun!"
+text "-------"
+text .... I failed.
+text I tried to talk to them but it doesn't seem to have worked.
+bgload BG_28B.jpg
+setimg ARK_T05A.png -28 0
+setimg CEL_T06B.png 116 0
+text "--Fine.
+text Shiki seems to care for you, so I will let you go.
+text I won't attack you so just disappear."
+text ".... That's surprising.
+text Is he that important to you?
+text I didn't think Arcueid Brunestud could be concerned with anything other than killing vampires."
+bgload BG_28B.jpg
+setimg ARK_T05C.png -28 0
+setimg CEL_T06B.png 116 0
+text "------"
+text "For you, controlling humans comes easily.
+text It would be better for you to just make him your servant if you wanted help, Arcueid, but why haven't you done that?"
+bgload BG_28B.jpg
+setimg ARK_T10.png -28 0
+setimg CEL_T06B.png 116 0
+text "---Don't joke about such things.
+text Shiki is my partner.
+text Even if I don't do that, he still says he will help me."
+text Arcueid looks away uneasily.
+text That murderous intent seems to have disappeared.
+text "---Arcueid.
+text Don't tell me, you.."
+bgload BG_28B.jpg
+setimg ARK_T07.png -28 0
+setimg CEL_T06B.png 116 0
+bgload BG_28B.jpg
+setimg ARK_T07.png -28 0
+setimg CEL_T07B.png 116 0
+text "You---really want to suck his blood?"
+text Cling.
+text From Senpai's direction I hear the sound of solid metal.
+text ".... I see.
+text I was surprised you were interested in humans, but that does not really matter.
+text If you desire the blood of humans, then there is only one thing to do."
+text Cling.
+text The sound springs forth from her hand.
+text Numerous swords, like long nails, are there.
+text ".... Hey, Senpai....!?"
+bgload BG_28B.jpg
+setimg ARK_T07.png -28 0
+setimg CEL_T06B.png 116 0
+text "Tohno-kun, please back away.
+text Just now, I have confirmed that she truly is a vampire.
+text Even if she is a True Ancestor that cooperates with the Church, once she desires blood, she becomes our enemy.
+text Before any victims appear, I will terminate her here."
+bgload BG_28B.jpg
+setimg ARK_T05C.png -28 0
+setimg CEL_T06B.png 116 0
+text "---You really do speak nonsense when people do not answer you, Ciel.
+text Very well, if you want to die, then I will grant your wish and kill you.
+text It's not often I get to kill the same person twice."
+text Her eyes flare with the intent to kill.
+text Senpai receives Arcueid's stare in her fighting stance, swords at the ready.
+sound SE_01.aac 1
+text Freezing.
+text The air feels like it is freezing, and I can hardly breathe.
+text ~
+text ---This isn't good.
+text They really will kill each other like this.
+text ".... Wait you two, please.
+text I said to calm down....!"
+text Ignoring the tension in the air, I yell out.
+bgload BG_28B.jpg
+setimg ARK_T07.png -28 0
+setimg CEL_T06B.png 116 0
+bgload BG_28B.jpg
+setimg ARK_T07.png -28 0
+setimg CEL_T07B.png 116 0
+text "----"
+text "----"
+text For an instant, they both stop.
+bgload BG_28B.jpg
+text After that, the sound of two feet kicking the earth.
+text ~
+text ---My shout must have triggered the start.
+text ~
+text The white and black figures crash into each other as if they were two magnets of opposite polarity.
+bgload IMA_10.jpg
+text The fight between the two of them is beyond me.
+text Arcueid's body movement isn't something I can track with my eyes.
+text All I can see is a white blur running through the night.
+text What's surprising is that Senpai does not even back off seeing Arcueid's speed.
+text It's not like Senpai moves with Arcueid's amazing speed.
+text But she accurately deflects Arcueid's blazing attacks while standing on the ground.
+text ~
+text As a third person looking on, their strengths are equal.
+text However, just like Senpai said, Arcueid's power seems limitless.
+text No matter how amazing Senpai is, her power is not something that goes beyond a certain point.
+text In contrast, Arcueid seems limitless.
+text In the beginning, Senpai was overwhelming her, but Arcueid matches her quickly and is now easily surpassing her powers---
+bgload BG_29B.jpg
+sound SE_05.aac 1
+text The fight is quickly decided.
+text Senpai's body flies lightly on the air and strikes the ground rolling, like a piece of trash.
+bgload BG_29B.jpg
+setimg CEL_T06B.png 52 0
+text "Ka---"
+text Senpai lets out a cry and stands up.
+text But that is a useless thing to do.
+sound SE_10.aac 1
+bgload BG_29B.jpg
+sound SE_05.aac 1
+text Senpai's body seems to be shot out by an invisible cannon and flies into the air once more, and hits the ground.
+text She lies there, not moving.
+text Blood flows along the park's brick pathway.
+sound SE_01.aac 1
+text "Sen---pai?"
+text There's no response.
+text She seems unconscious.
+text Arcueid runs towards her----without any mercy, with terrible eyes seemingly bent on slicing Senpai's neck.
+text "------Ah."
+text I can't speak.
+text There can be no mistake that Arcueid intends to kill her.
+text And Senpai can't defend herself.
+text "------"
+jump s271.scr

@@ -1,0 +1,109 @@
+bgload BG_56.jpg
+text I forgot because she started telling me to take her out to play, but there was something I had to ask her about.
+text "Then I'll ask.
+text Arcueid, I was attacked two nights ago by a strange person."
+text "Eh?
+text A strange person?
+text What kind?"
+text "Well, that is----"
+text I calm down and I describe as clearly as I can what happened two nights ago.
+bgload IMA_10.jpg
+bgload BG_56.jpg
+music 09.mp3
+text ".... Yeah, that's how it was------"
+text Finishing my explanation, I read Arcueid's expression.
+bgload BG_56.jpg
+setimg ARK_T07.png 36 0
+text From when I started until now, her eyes remained sharp without any gentleness.
+text "So what is it Arcueid?
+text That bandaged man, and that person wearing those robes like some priest, are they enemies of yours?"
+text ".... Yes.
+text Both of them are 'enemies'.
+text I don't know just who or what that bandaged man is, but that woman wearing those Catholic robes, I have an idea about."
+text She narrows her eyes as if she was in a bad mood.
+text No, she looks less like she was in a bad mood and more like she's irritated.
+text "I may know the person who helped you, Shiki.
+text .... Man.
+text If it's really her, she'll probably be able to find the enemy before me."
+text She bites her lip vexedly.
+text "Wait a minute.
+text I didn't say that person was a woman though."
+text "No, there's no mistake.
+text That woman is the only agent given authority to hunt heretics alone and who uses Black Keys that combine the Cremation Rite and the Steel Shell Effect."
+text Her irritability is almost like hostility.
+text Even when she spoke about Nrvnqsr, her voice was never saturated with emotion to this extent.
+text ".... Arcueid.
+text Um, that person who helped me, is she a vampire....?"
+text "No, that's not it----that's right, I have yet to tell you about something else that's very important."
+bgload BG_56.jpg
+setimg ARK_T03.png 36 0
+text "I think I explained it before, but vampires like the one making his lair in this town turn humans into their minions and expand their territory.
+text At the same time, they try their utmost to conceal their existence.
+text Even though victims appear, they use various magical techniques to make things appear not out of the ordinary.
+text You know why?"
+text ".... Well, it's because humans aren't stupid.
+text If they find out monsters like that exist where they live, they'd attack them.
+text Even though humans are weak, they do have things like police, so they might be able to do something."
+text "---Well, I guess that's true, but police are only a law-enforcement group against humans.
+text We don't consider them at all.
+text But, it's correct to say that vampires hide their presence for the sake of self-preservation."
+bgload BG_56.jpg
+setimg ARK_T06.png 36 0
+text "Shiki, there is a natural enemy of the vampires.
+text A group of something like professional killers that now have the power balance in their favor.
+text .... It's true for other transcendent species, but especially for vampires, it is fatal for them to reveal themselves.
+text Even if a vampire made a secret kingdom in a village somewhere in the mountains away from all civilization, this natural enemy would definitely notice if victims keep increasing.
+text Vampires exploit the humans in secret, for no reason other than self-preservation.
+text The vampires hide their dead victim's bodies, not out of fear of human society finding out, but in fear of these natural enemies discovering them."
+text ".... Huh?
+text The natural enemy of vampires?
+text Yet another group of monsters I don't know about."
+text ~
+text For a normal guy like me, I just want all these unnatural things to stop appearing.
+bgload BG_56.jpg
+setimg ARK_T16.png 36 0
+text "What are you saying?
+text Their natural enemy is without a doubt you humans."
+text "-----?
+text Natural enemies, us?"
+text "Yeah.
+text Starting from a long time ago, humans used many kinds of magic, the occult, magical ceremonies to create an organization and started to eliminate primates other than humans.
+text The greatest of these is Christianity---the pride of the Vatican, the Exorcists.
+text The Catholic Church always viewed "nonhumans" as impurities, but vampires are considered the most dangerous."
+bgload BG_56.jpg
+setimg ARK_T07.png 36 0
+text "There are many religious groups in the world, but the Catholic Church looks at vampires with more hostility than the rest.
+text You know, it's almost an obsession.
+text They are so insane, I don't even want to mess with them."
+text Arcueid lets out a sigh.
+text "The one who helped you was a member of an elite organization that hunts heretics.
+text "This group, the Burial Agency, is part of the Church.
+text They use their own strength rather than law to deal with contradictions to Christianity.
+text These hidden exorcists are more like professional killers."
+text "........"
+text Priests that go around exterminating vampires, huh?
+text It's so fitting, I'm not really sure what to say.
+text "Then aren't they like us?
+text If this Burial Agency is a group whose purpose is to hunt vampires too, can't we search together?"
+text "----That won't work.
+text For them, it's enough that someone is a vampire.
+text To them, non-human primates are just "Evil".
+text It doesn't matter if they suck blood or not.
+text This exorcist may have even come here just to seal me rather than fight the vampire who lives in this city."
+text "............"
+text Things have gotten quite complicated.
+text Arcueid's enemy is sought after by both a vampire, and a group that hunts vampires.
+text ".... What is this?
+text Then you're all by yourself?"
+text "Yes, that is the life of a vampire.
+text Didn't Nrvnqsr say so himself?
+text Even though vampires belong in the same species, their natures are so different that in the end, they are all alone."
+bgload BG_56.jpg
+text Arcueid takes another bite of her hamburger.
+text She speaks of being all alone so casually.
+text "........"
+text Not feeling satisfied, I continue to listen with a sour expression.
+bgload IMA_10.jpg
+music ~
+setvar flgA + 1
+jump s176.scr

@@ -1,0 +1,98 @@
+bgload BG_29B.jpg
+music 03.mp3
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text ~
+text ---I'd die before I'd say it.
+text ~
+text "Arcueid, it doesn't concern you, so leave me alone."
+text I look away from her and refuse.
+text But Arcueid keeps saying "Come on, come on," over and over.
+text "Come on, tell me.
+text You can at least tell me who you dreamed about."
+text She asks like a curious kid.
+text Every time I turn away she keeps jumping in front of me, saying "Come on, come on."
+bgload BG_29B.jpg
+text ".... Please, just let it go.
+text There was something wrong with that dream.
+text .... Even now, that---"
+text I don't know why I saw that dream.
+text Arcueid says it's my greatest desire, but I don't want to think that's what it was.
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "Oh, maybe it turned into a nightmare?
+text She does tend to write the story to her liking when fond of her target.
+text She's only a novice, so I guess it couldn't be helped."
+text Arcueid mumbles to herself.
+text "....?
+text Writes the story to her liking?
+text What do you mean?"
+text "I'm saying she interprets your desire in her own way.
+text That dream familiar I sent you is just a child, so she likes to play pranks."
+text "----I see."
+text .... That's a relief.
+text That's right, that dream---It couldn't have been what I wanted.
+text I let out a sigh of relief.
+text With this, my innocence has been proved but---
+text "Arcueid.
+text Why did you send me such a thing?
+text That's too much even for harassment."
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Hmph.
+text I wouldn't harass you.
+text I sent you the dream familiar to thank you for defeating Nrvnqsr.
+text I really am grateful to you, so I thought it'll be great if it made you happy."
+text "Thank me?---Well, I'm happy you were grateful, but.."
+text But no matter what, I'll pass on that sort of thanks.
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "Oh come on.
+text Are you saying you can't accept a person's goodwill?"
+text ".... Hey, you're not a person, you're a vampire, Arcueid."
+bgload BG_29B.jpg
+setimg ARK_T14.png 36 0
+text ".... That's.... true but."
+text Arcueid slumps her shoulders.
+text .... How do I say this.. Arcueid is very open in expressing her emotions.
+text Being happy, being angry, she changes her expressions so quickly---It's actually kind of charming.
+text ~
+text .... I said she was a vampire, but,
+text she really does seem like a human, enough to even make me forget that fact.
+text ".... In the first place, why did you send me that dream familiar thing?
+text Are you still angry at me for killing you?"
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "That's not it at all.
+text I sent it as thanks for defeating Nrvnqsr.
+text I really am grateful to you, I thought you'd be extremely happy."
+text "As thanks?---I'll pass on that kind of thanks.
+text Having that kind of poor taste, just what are vampires thinking?"
+text I slump my shoulders.
+text I don't know what she's mad about, but she looks at me with a dissatisfied expression.
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "What's that all about, you meanie?
+text I know I'm not human."
+bgload BG_29B.jpg
+text She turns away, then starts walking off.
+music ~
+text "Hey, hold on.
+text Where are you going?"
+text "It has nothing to do with you.
+text Don't follow me!"
+text Is she really that angry?
+text Arcueid walks away without even turning around.
+text "........"
+text Where does she plan on going anyway?
+text "........"
+text Maybe I did say too much.
+text No matter what the results were or the methods used, she really thanked me with good intentions.
+text I start to feel intense regret and think that maybe I should have just accepted her gift happily.
+text "-----"
+text Damn it.
+text Why is it that I just can't leave Arcueid alone....!?
+text ~
+text "Aw---Hey, I said wait!"
+bgload IMA_10.jpg
+jump s142.scr

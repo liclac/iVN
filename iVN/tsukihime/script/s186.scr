@@ -1,0 +1,264 @@
+bgload BG_29B.jpg
+text .... Arcueid doesn't come.
+text It's only natural.
+text After doing that----after trampling over everything she trusted me with, I forcibly violated her body.
+text She probably won't come.
+text This is what she meant when she said for both of us to forget about it.
+text ~
+text "Damn it....!"
+text My heart wrapped in regret, I leave the park.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text .... I return to the mansion.
+text Opening the rear door, I walk inside.
+bgload BG_33D.jpg
+bgload BG_46C.jpg
+bgload BG_40D.jpg
+text I yawn.
+text I sink onto my bed without thinking.
+text Tick.
+text Tick.
+text Tick.
+text The sound of the clock echoes through the room.
+text "........"
+text .... Just sleep for now.
+text When I wake up tomorrow things will be different.
+text About Arcueid, about the vampire roaming this city, when morning comes all of it will be----
+bgload IMA_10.jpg
+sound SE_02.aac -1
+text THROB           THROB           THROB
+text THUMP           THUMP           THUMP
+text Throb           Throb           Throb
+text Thump           Thump           Thump
+text .... The pain synchronizes with my pulse.
+text Every time I feel the throb of pain, my memories fade away.
+text Every time my heart thumps, memories are plastered on.
+text ~
+text The fading away memories are probably extras.
+text Memories, the past, experiences I don't need.
+text All of it fades away.
+text In other words, oblivion.
+text "Ah------"
+text As regret washes over me, as my memories thin, as my past fades away, I reach out with my hand.
+text But I can't grasp anything.
+text Because,
+text I've already forgot what kind of memories I've lost.
+text THROB, throb.
+text The repeating headaches make me feel sick, and even in my dream, I feel like throwing up.
+sound ~
+bgload IMA_11.jpg
+text "Shiki-sama, are you awake?"
+text ~
+text ----I hear a voice.
+text ~
+text "Please hold on.
+text I will bring you something to drink."
+text ~
+text ----After that, the sound of running footsteps.
+bgload BG_40A.jpg
+music 02.mp3
+text I slowly open my eyes.
+text I'm lying in bed with the radiant sunlight streaming through the window.
+text ~
+text "----Morning?"
+text Slowing lifting myself up, I feel my own sweat drenching me.
+text "What....?
+text I must've had a nightmare or something."
+text I try to remember what I dreamt about.
+text ................................... I can't remember.
+text It is the nature of dreams to fade upon awakening.
+text But, there's still something.
+text I feel like there's a vague image of something I've forgotten.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama?
+text Have you woken yet?"
+text "I'm up.
+text Morning, Hisui."
+text "Yes, good morning, Shiki-sama."
+text Hisui approaches the bed, expressionless as always.
+text "I have brought you something to drink.
+text If you are not feeling well, please drink."
+text Hisui carries a silver tray with a drink prepared on it.
+text "No, I don't feel bad or anything.
+text I slept deeply, so my head is clear too."
+text "---However,"
+text Hisui offers a rare reply.
+text "It appeared your condition was bad last night."
+text ~
+text .... It seems I did have a nightmare last night.
+text "Nah, there's nothing wrong with me.
+text But I'm really grateful you're concerned, Hisui."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes, I am glad you are well, Shiki-sama."
+text Hisui looks at me with her delicate, glass eyes.
+text .... Um, I feel uneasy.
+text "I'll go change and head to the dining room.
+text Please tell Kohaku-san I'll be having breakfast."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "I understand."
+bgload BG_40A.jpg
+text .... Well then.
+text It's seven o'clock.
+text I can take my time this morning.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text Akiha and Hisui are in the sitting room.
+text From the kitchen, I can hear Kohaku-san's lilting humming.
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "Good morning, Nii-san."
+text "Morning.
+text You don't seem very cheerful today, Akiha.
+text Was there something you didn't like in your breakfast?"
+bgload BG_34A.jpg
+setimg AKI_T13A.png 40 0
+text ".... Nii-san, how did you arrive at that conclusion?"
+text "Just came to my mind.
+text I just remembered there were many kinds of food you either liked or disliked."
+text "That's rude.. I was that way as a child, but now I have no dislikes."
+text ".... I see.
+text That's odd, cause if that's the case, you should have more physical development for your age...."
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text "Nii-san.
+text Did you just say something?"
+text Akiha glares at me.
+text .... Crap.
+text I should watch my mouth.
+text ".... No, I didn't say anything.
+text I was just thinking aloud, so don't worry about it."
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text ".... Geez.
+text It seems there was no need to worry, Hisui.
+text I don't think Nii-san will die even if you kill him."
+text "Yes, I feel the same way."
+text Akiha sighs and Hisui expressionlessly agrees.
+text I can guess from their conversation they were both worried about me.
+bgload BG_34A.jpg
+text "---Why?"
+text I wonder why.
+bgload BG_34A.jpg
+setimg AKI_T21.png -24 0
+text "Why?
+text Normally, you would worry!
+text After you came home last night, you went straight to bed and had nightmares all night.
+text Even though we tried to wake you, you never woke up.
+text Doesn't that sound like you were sick?"
+text "Oh?
+text Really---But I didn't really catch a cold or anything."
+bgload BG_34A.jpg
+setimg AKI_T21.png -24 0
+setimg HIS_T01.png 126 0
+text "I do not think you had a cold.
+text Shiki-sama, you were sleeping as always, and your temperature and breathing were normal.
+text But you were secreting lots of sweat."
+text ".... Secreting?
+text I don't like that word choice."
+bgload BG_34A.jpg
+setimg AKI_T03A.png -24 0
+setimg HIS_T01.png 126 0
+text "It was worse on me because I was tending you, so please be a little thankful.
+text And thank Kohaku as well.
+text I couldn't have done it by myself."
+text "Yourself.... Akiha, you were caring for me?"
+bgload BG_34A.jpg
+setimg AKI_T16A.png -24 0
+setimg HIS_T01.png 126 0
+text "O-of course I was.
+text We are siblings.
+text I was only watching your condition; it was Kohaku who cleaned your sweat."
+text She looks away and mumbles like she was talking to herself.
+text This isn't like her as she normally looks at you directly and says things directly.
+text "Really.
+text Thanks Akiha.
+text Sorry to worry you."
+bgload BG_34A.jpg
+setimg AKI_T05A.png -24 0
+setimg HIS_T01.png 126 0
+text "You don't have to thank me.
+text I was just doing my duty.
+text If you want to thank someone, thank Kohaku."
+text She looks away and doesn't even try to look at me anymore.
+text "Shiki-san, breakfast is ready," Kohaku-san's voice rings out from the kitchen.
+text "Nii-san, please hurry up and eat your breakfast."
+text "Gotcha."
+text I head to the dining room.
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Please be careful on your way, Shiki-sama."
+text "I'm off.
+text I'll be back around four o'clock today."
+text Raising a hand to the bowing Hisui, I leave the mansion.
+bgload IMA_10.jpg
+music ~
+bgload BG_23A.jpg
+music 03.mp3
+text I walk the morning path to school.
+text Monday morning.
+text For some reason, my feet feel really light today.
+text Maybe it's because these past few days were so out of the ordinary, my body welcomes such a normal day.
+text "........ Huh?"
+text That's strange.
+text I said 'out of the ordinary', but what kind of life was that?
+text ~
+text "............"
+text I feel like something very important happened.
+text But, I can't remember what it was.
+bgload BG_01A.jpg
+setimg ARI_T05.png 40 0
+text "Yo, Tohno!"
+text Arihiko whacks me on the back in greeting.
+text "Mornin'.
+text You're pretty early today."
+text "Ah, just a whim of mine.
+text Well, it doesn't hurt to act like a good student every now and then."
+text Arihiko laughs brightly.
+text Seeing that smile assures me that this is my world.
+text "............"
+bgload BG_01A.jpg
+setimg ARI_T01.png 40 0
+text "Mmm, what is it, Tohno?
+text Making such a difficult expression...
+text Did you forget something at your house?"
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text DID YOU FORGET SOMETHING?
+text ~
+text .... Those words reverberate through my head like a curse.
+text But, in the end,
+text I can't remember what it was I forgot.
+music ~
+text ".... Nah, I didn't forget anything.
+text Let's hurry on to the classroom.
+text After waking up this early, it'd be a waste if you were late, right?"
+text "Haha, you got a point."
+bgload BG_01A.jpg
+text ~
+text I pass the school gate with my friend.
+text With that, something ends completely.
+text "------"
+text I feel someone staring at me and I turn around.
+text But there's no one there.
+text Just the scattering leaves in the courtyard.
+text ~
+text Tohno Shiki heads to class.
+text As if returning to a peaceful, happy, and normal everyday life.
+bgload IMA_11.jpg
+bgload END.jpg
+text ~
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s518.scr
+fi
+if selected == 2
+    jump main.scr
+fi

@@ -1,0 +1,38 @@
+bgload event/ARK_E05B.jpg
+music 04.mp3
+text ---I hear a creaking noise.
+text ~
+text Her cool hand on my shoulder and her low body temperature are so cold that I hear a creaking, freezing noise.
+text The sound didn't come from anywhere around me.
+text It's just that my body is freezing as the cold penetrates deep inside from where she touches me.
+text In other words, the sound is coming from inside me.
+text My heart, my guts, my brain, they are creaking.
+text "--------Ah."
+text Just like a cancerous cell.
+text Rapidly, limitlessly, unordered, and lacking intelligence.
+text Violating me from inside out.
+bgload IMA_13.jpg
+text "------Ar,"
+text .... I can't feel her breath.
+text Like a ravenous beast, she just bites into my neck.
+text At the same time----
+text I descend into a limitless hell of pain, as if my nerves were being torn apart one by one.
+text "----cueid----"
+text My frying mind manages to utter this last word.
+text It, hurts.
+text i, t,  h, u, r, t, s,  s, o,  m, u, c, h
+text i, t,  c, a, u, s, e, s
+text m, e,
+text t, o,  f, a, d, e,  a, w, a, y.
+music ~
+bgload IMA_11.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s519.scr
+fi
+if selected == 2
+    jump main.scr
+fi

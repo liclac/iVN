@@ -1,0 +1,664 @@
+bgload IMA_11.jpg
+sound SE_01.aac 1
+sound SE_01.aac 1
+sound SE_01.aac 1
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text "Nnn------"
+text I wake with a sudden ache.
+text ".... Morning?"
+text The clock says it's just past six-forty.
+text The weather outside the window is perfectly cloudless.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+text "Ow----"
+text Pain runs through me once again.
+text Not my head or chest, but apparently on the side of my neck.
+text ".... That's odd.... I've never had pain there before."
+text I put my hand on my neck but there's no blood.
+text The wound from Yumizuka's bite is already closed.
+text ".... Maybe I have a fever."
+text Is it because of the alcohol last night?
+text My body is heavy and I feel like I have a fever.
+sound SE_04.aac 1
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text "Ah, morning Hisui.
+text Did you sleep well last night?"
+bgload BG_40A.jpg
+setimg HIS_T20.png 62 0
+text "----Y, yes.
+text Please forgive me for my unsightly behavior last night."
+text "That's right, you went to sleep.
+text It's okay.
+text I fainted afterwards anyway which was probably worse."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "Thank you for your kind words.
+text After you change, please head towards the dining room."
+bgload BG_40A.jpg
+text She must still be very embarrassed about last night and leaves somewhat flustered.
+text "Hisui.. maybe.."
+text Maybe it's possible for her to be easily embarrassed.
+text I thought she was basically expressionless at first but when you look at her closely, she gets embarrassed and mad a lot.
+text ".... Next time I should try to make her laugh really hard."
+text I don't know how I would do that but there's no doubt Hisui's smile would be very cute.
+text "----Hey, Hisui's smile would look just like Kohaku-san."
+text .... A boring conclusion.
+text I quickly change and head to the sitting room.
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+bgload BG_33A.jpg
+setimg AKI_T01A.png 40 0
+text ""Ah.""
+text I run into Akiha in the lobby.
+text I guess she's going to school as she's holding her bag.
+text .... For some reason my entire body starts to heat up as soon as I see her face.
+bgload BG_33A.jpg
+setimg AKI_T09.png 40 0
+text "Good morning Nii-san."
+text "----Y, yeah.
+text Good morning Akiha."
+text Thump.
+text My chest starts to hurt.
+bgload BG_33A.jpg
+setimg AKI_T08A.png 40 0
+text "Wow.
+text Is something special going on today?
+text You're up a full twenty minutes earlier than usual, Nii-san."
+text "No.. I just had a bit of a bad dream, that's all.
+text Just a whim, don't worry about it."
+text ~
+text .... I don't understand what I'm saying.
+text Is it because of my dream?
+text Suddenly remembering her young face, I can't look at Akiha directly.
+bgload BG_33A.jpg
+setimg AKI_T13A.png 40 0
+text "Nii-san?
+text Your face is red.. do you have a fever?"
+text "No, it's not that----"
+text "....?"
+bgload BG_33A.jpg
+text For some reason I just can't return her gaze.
+text She lifts an eyebrow suspiciously and comes near me.
+bgload BG_33A.jpg
+setimg AKI_T01A.png 40 0
+text "Excuse me."
+text She brings her hand to my forehead.
+text "Ah----"
+text Thump.
+text My heart beats.
+text ~
+text ----Akiha's palm is not any different from back then.
+text ~
+text Cold, soft fingertips.
+text Thump.
+text Thump.
+text Her fingers touch me for only a matter of seconds, but my heart strangely begins to pound harder.
+text If I were to glance down, her face would be right there.
+text .... Her thin, strong eyebrows which show her strong will.
+text .... Her clear black pupils with her matching long black hair.
+text It really is a beauty unrelated to the name Tohno Akiha.
+text ~
+text ---Thump.
+text My heartbeat.
+text ~
+text I can just imagine how red my face has become.
+text "Hey----Akiha."
+text If she doesn't pull back, it'll be troubling.
+bgload BG_33A.jpg
+setimg AKI_T09.png 40 0
+text ".... It seems you don't have a fever."
+text She pulls her fingers away and backs off slightly.
+bgload BG_33A.jpg
+setimg AKI_T04A.png 40 0
+text "Just in case, I'll have Kohaku prepare some cold medicine.
+text Please wait in the sitting room, Nii-san."
+bgload BG_33A.jpg
+text With that, Akiha goes up to the second floor.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text The hands of the clock reach seven.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Sorry to keep you waiting.
+text I have cold medicine and water, so please drink it after breakfast, okay?"
+text "Ah...... Kohaku.. san."
+text My shoulders slump.
+text I'm really glad Kohaku-san brought it, but I was expecting Akiha to bring it so I'm a little disappointed.
+text "Thanks Kohaku-san.
+text Where's Akiha?
+text I think it's a bit early for her to go to school.."
+bgload BG_34A.jpg
+setimg KOHA_T01A.png 52 0
+text "No, since there were some formalities to take care of, Akiha-sama left for school earlier.
+text And, you know what, Shiki-san?"
+text Kohaku-san looks into my face with a smile.
+text "Wh.. what?
+text Did I do something again?"
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Yes.
+text I was wondering what you did to Akiha-sama just now.
+text It's been such a long time since I have seen Akiha-sama this happy.
+text I'm curious, really curious."
+text ".... Um, I didn't really do anything to make her happy.
+text .... In fact, it's more like I'm the happy one----"
+text .... But, Akiha did seem to be in a good mood, didn't she?
+text She was smiling when we ran into each other, and for Akiha to take my temperature just isn't like her at all.
+text It would've been fine just to leave that to Kohaku-san, so that was odd enough.
+text "Shiki-san?
+text Does anything ring a bell?"
+text "No, sorry.
+text She definitely did seem in a good mood, but I don't think it was because of me.
+text In the first place, I don't understand Akiha right now at all.
+text She is different than she was eight years ago."
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Oh really?
+text Well, I personally think you are a bit dense at times but let us leave that there."
+text "Well then, please eat breakfast Shiki-san.
+text It is waiting for you in the dining room."
+text "Uh, yeah.
+text Thanks as always."
+text I give her a quick bow of the head and go to the dining room.
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Ah, Shiki-san.
+text What you said earlier was mistaken."
+text ".... Eh?
+text Mistaken?
+text What was?"
+text "Akiha-sama has not changed one bit from the past.
+text I think the one who is making Akiha hard to understand is you, Shiki-san."
+bgload BG_34A.jpg
+text Leaving me with a phrase loaded with meaning, Kohaku-san disappears towards the lobby.
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, what time will you be returning today?"
+text "Hm, in the evening.
+text .... I don't have anything special to do, so I'll be back by four."
+text "I understand.
+text .... I will no longer be able to wait for you here, but please call for me if you need anything when you return."
+text "......?"
+text Unable to wait by the gate.. what does she mean?
+bgload BG_32A.jpg
+setimg HIS_T16.png 62 0
+text "Please have a safe journey, Shiki-sama."
+text "Yeah, I'm off."
+text Raising a hand to the bowing Hisui, I exit the front gate of the mansion.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_23A.jpg
+text Since I woke up early, I can take my time going to school.
+text I walk leisurely down the road to school which I normally jog down.
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text I walk slowly and arrive at the gate ten minutes before it closes.
+text It's the time when all the students who don't participate in clubs arrive.
+text In a high school prepping for general entry like mine, the only clubs practicing in the morning are the athletic clubs.
+text It's only natural for the school gate to be this crowded.
+text ~
+text "Ah, Senpai."
+text I see Ciel-senpai walking a little bit ahead of me.
+bgload BG_03A.jpg
+text "Senpai!"
+text I call out to stop her.
+bgload BG_03A.jpg
+setimg CEL_T03.png 52 0
+text "Ah, good morning Tohno-kun.
+text It's rare to meet you by the entrance here."
+text "Yeah.
+text I saw you from behind so I ran up to meet you.
+text Do you always come at this time?"
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes, I am bad at getting up early so I always just barely make it.
+text Did you oversleep today?"
+text "No, I actually woke up earlier.
+text You know, I normally make it right as the gate is about to close."
+text "Wow, you mean you're a late riser, Tohno-kun.... huh?"
+bgload BG_03A.jpg
+setimg CEL_T07A.png 52 0
+text I might have something on my face as Senpai stares right at me.
+text "Um----Senpai?"
+text "Tohno-kun, did something happen over the weekend?"
+text "No, not really.
+text Why do you ask, Senpai?"
+bgload BG_03A.jpg
+setimg CEL_T12.png 52 0
+text "Oh, it's nothing.
+text I was just playing around.
+text Please forget about it."
+text "?"
+text I'm a little bewildered.
+bgload BG_03A.jpg
+text ~
+text ----And then,
+text ~
+text at that moment, I see a familiar face running vigorously from the entrance.
+text "That's Inui-kun."
+text Senpai says this calmly.
+text "Yeah, it's Inui."
+text I try answering her calmly.
+text Senpai and I don't even think the actions of the rampaging Arihiko as he dashes towards us are odd at all.
+text ~
+text In other words, we're used to it.
+text "Tohno~~~~~~!"
+text A cloud of dust kicks up behind him.
+text He does not stop.
+text Even though we are right in front of him, Arihiko launches a drop kick in my direction without even pausing.
+sound SE_05.aac 1
+bgload IMA_11.jpg
+bgload BG_03A.jpg
+text Crash, roll, roll, roll, thud.
+text ~
+text ".........."
+text I can't.. believe it.
+text This guy, this person throws a kick full-force into me and we suddenly crash into the ground and roll three times.
+text ".........."
+text I get up and shake off all the dust from my clothes.
+bgload BG_03A.jpg
+setimg ARI_T04.png 40 0
+text Arihiko also stands up and pats his uniform.
+text "Arihiko."
+text "Tohno."
+text After a three second interval, we face off directly.
+text ~
+text Ready.
+text ~
+text "What the hell are you doing!?"
+text "You have a sister!?"
+text ~
+text Both of us shout simultaneously.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text --------W, what?
+text ".... Wait a second.
+text How do you know I have a sister?"
+bgload BG_03A.jpg
+setimg ARI_T03.png 40 0
+text "Uwaaa, you do have one after all!"
+text Arihiko holds his head in his hands, and twists his body.
+text .... It's so ridiculous looking, I would deny knowing him even if he owed me a million yen.
+text "Hey, cut it out Arihiko, please.
+text We'll end up being the laughingstock of the school."
+bgload BG_03A.jpg
+setimg ARI_T04.png 40 0
+text "Screw that, I don't care!"
+text Arihiko looks up with a glare.
+bgload BG_03A.jpg
+setimg ARI_T05.png 40 0
+text "You traitor!
+text I'll call you Onii-san someday!"
+bgload BG_03A.jpg
+text Leaving such an incomprehensible parting shot, Arihiko runs off.
+text Not towards the school building, but to the front gate.
+text ".... What's he doing?"
+text There isn't even five minutes until homeroom starts.
+text Nothing about him is understandable.
+text Anyways, it seems like I won't run across him for the rest of the day.
+text ~
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text During the break after second period, Arihiko suddenly returns.
+text "Hum.
+text After thinking about it for a while, I had no reason to go home."
+text Saying so, he calmly takes his seat.
+text Leaving him alone, I stare blankly in my seat and wait for third period to start.
+text But----the classroom seems odd today.
+text ~
+text Every break, all the guys leave the room, and come back with happy looks on their faces.
+text "?"
+text .... I'm a bit curious.
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "Hello Tohno-kun.
+text Do you mind?"
+text "Huh?
+text It's break time, Senpai, is it okay to come to my classroom like this?"
+bgload BG_06A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, being here is much more fun than being in my classroom."
+text She smiles happily as she says this.
+text Arihiko sits at his desk unaware of Senpai's arrival.
+text It is quite the ideal situation.
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "But the second year classrooms are pretty noisy too.
+text The third year boys have also been making a fuss and I imagine the fourth floor is overcrowded by now."
+text ".... Huh?
+text The third year boys making a fuss?
+text About what?"
+bgload BG_06A.jpg
+setimg CEL_T05.png 52 0
+text "Oh, you're not making a big deal out of it.
+text Well, there is no reason for you to go look, Tohno-kun."
+text "....?"
+text ~
+text .... I don't quite understand, but it seems there is no reason for me to go look.
+text "What do you mean?
+text Go see what?"
+bgload BG_06A.jpg
+setimg CEL_T03.png 52 0
+text "The new first year transfer student.
+text All the boys in every class are taking turns to go see her.
+text Apparently the hallway outside her classroom is very crowded.
+text She's awfully popular."
+text Transfer student....?
+text Hmm.. in other words, that's where all the guys in my classroom went too.
+text "----Oh?
+text So that means she's really cute, this new transfer student?"
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "I don't know, but that's what I've heard.
+text They say a girl in the first year transferred from a famous ladies academy."
+text ".... I see.
+text For someone to transfer at this time of the year, there must be some strange circumstances."
+text "You thought so too, huh?
+text But it seems like a waste.
+text Why is she transferring from the distinguished Asagami Women's Academy to go here?"
+text "Hm?
+text What a coincidence.
+text My sister is also a first year student at----"
+text -----Wait a minute.
+text ~
+text There's something not quite right about this whole conversation.
+text Senpai sounds like I know this transfer student already.
+bgload BG_40C.jpg
+bgload BG_40C.jpg
+setimg AKI_T04B.png 40 0
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Please don't mind.
+text Starting tomorrow your daily life will become more like this.
+bgload BG_33A.jpg
+bgload BG_33A.jpg
+setimg KOHA_T03.png 52 0
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Since there were some formalities to take care of, Akiha-sama left for school earlier.
+bgload BG_06A.jpg
+text "------No way."
+text I'm shocked.
+text I'm shocked, but that's the only conclusion I can draw.
+bgload BG_06A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun?"
+text I can't hear Senpai's voice anymore.
+text I look over at Arihiko's desk and he has an especially evil grin on his face.
+bgload BG_06A.jpg
+text I walk purposefully over to his desk.
+text "Arihiko."
+bgload BG_06A.jpg
+setimg ARI_T05.png 40 0
+text "Oh?
+text What could it possibly be, Onii-sama?"
+text ".... I'll punch you for saying that."
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "H, hey, can't you take a joke?
+text What is it, is there a reason you would talk to a commoner like me?
+text Hyahahaha!"
+text Arihiko laughs.
+text "Reason?
+text Well, I do have a reason this time."
+text "Arihiko, can you tell me the name of this new transfer student?"
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "Man, you should know without me saying anything, right?
+text Yes, her name is Tohno Akiha.
+text Your younger sister.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text Geez, you even kept it a secret from me.
+text I would've found out quickly since she's that hot.
+text I really doubted our friendship this time."
+text ".... No, there's never been that sort of illusion between us, but I see."
+text Totally drained, I answer and return to my seat.
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun?"
+text Senpai is speaking but I just don't feel like responding.
+bgload BG_06A.jpg
+setimg CEL_T08.png 52 0
+text ".... Hmm.
+text You seem to be having trouble, so I will go back."
+bgload BG_06A.jpg
+text Senpai walks out of the room lightly.
+text Akiha has transferred to my school.
+text "----What is she thinking?"
+text Muttering aloud in astonishment, I fall into my chair.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+text Third period starts and English class begins.
+text The sound of fluent English goes in one ear and out the other.
+text My head is only full of thoughts about Akiha right now.
+text This English is just noise to me.
+text "------"
+text As always, Akiha is Akiha.
+text If she's going to transfer to my school, couldn't she at least tell me?
+text No, more importantly, she transferred to my school when there's no advantage for her to do so---
+text ~
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_02.aac -1
+text "Ah----"
+text Pain again.
+text Sharp pain in my neck.
+bgload BG_06A.jpg
+text I fall onto my desk.
+text This is bad.
+text I can hardly move.
+text Is it anemia again?
+text Then it's just as always.
+text It's normal.
+text It'll pass.
+text I'm in class.
+text I have to recover.
+text Look, the English teacher is reading aloud.
+text The blackboard.
+text Chalk.
+text Chalk dust.
+text English.
+text The sound of chalk scraping.
+text Teacher.
+text Teacher.
+text Adult.
+text Podium.
+text The creaking podium.
+text Desk.
+text Thirty-six desks.
+text Student.
+text Students.
+text Thirty-six students.
+text Three days ago there were thirty-seven.
+text Window.
+text Sky.
+text Schoolyard.
+text Sun.
+text Unpopular.
+text Lonely.
+text Cold.
+text Frightened.
+text Uneasy.
+text Something.
+text Desire.
+text Desire.
+text Desire----
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+sound ~
+text "Tohno-kun!
+text Hey, are you alright Tohno-kun!?"
+text My eyes open wide at the sound of the teacher's voice.
+text .... Sweat rolls down my forehead.
+text My body is cold.
+text My breathing is ragged.
+text "What is it Tohno-kun?
+text If you are not feeling well, you can rest."
+text "Ah, no, I'm fine.
+text It has passed."
+text ".... I see.
+text Well, don't push yourself.
+text Your grades are good so it is acceptable to take an occasional rest.
+text Your progress will be satisfactory even with some handicaps."
+text .... The English teacher's words lack a little consideration for the other students.
+text I once again declare I am fine and resume class.
+bgload IMA_10.jpg
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+text At lunch, the classroom gets frantic.
+text *sigh*
+text I take a deep breath.
+text I've been hot since this morning.
+text Maybe I have caught a cold.
+text My whole body feels languid.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "What, Tohno?
+text Are you still sticking around here?"
+text ".... Yeah.
+text I don't feel too well today.
+text I can't go to the cafeteria, so can you please get me something?
+text I'll have the usual."
+text "No, I don't mind, but is that alright?
+text Your dear sister seems to be having trouble in the cafeteria."
+text "----Ah."
+text That's right.
+text She's always been at a ladies academy so she wouldn't know anything about how a normal "school cafeteria" system works.
+text I can distinctly imagine Akiha standing in the cafeteria not knowing what to do.
+text ~
+text ----Damn, I can't leave her like that.
+text ~
+text "Ah, Tohno!
+text Wait up!
+text I'm coming too!"
+text I dash out of the classroom.
+text .... Close behind me, Arihiko follows a bit more energetic than usual.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text Akiha stands aghast in the center of the crowded cafeteria.
+text She looks as if she does not know what to do.
+text "----Geez.
+text What is she doing?"
+text I hurry over to Akiha.
+text "Akiha."
+bgload BG_50.jpg
+setimg AKI_T19.png 40 0
+text "Nii.. san."
+text In that instant,
+text I see her face on the verge of tears and my chest starts to hurt.
+text "----C'mon, over here.
+text You don't like the crowds, right?"
+text "Ah----yes."
+bgload BG_50.jpg
+text Not wanting to see her almost crying face a second longer, I strongly pull Akiha out of the cafeteria.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text "Here, you should be able to relax here.
+text I'll go buy us some lunch so just sit at this bench."
+bgload BG_04.jpg
+setimg AKI_T12A.png 40 0
+text ".... Yes.
+text I apologize for the trouble, Nii-san."
+text "----It's alright.
+text I'll hear about it later.
+text Arihiko, I'm going to get lunch so take care of Akiha, okay?"
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARI_T03.png 40 0
+text "W, why are you asking me all of a sudden!?
+text Look, I'll go buy lunch and you keep your sister company, Tohno."
+text "....?
+text What's the matter, Arihiko?
+text Aren't you going to call me Onii-san?
+text I'll tell you right now, but I won't give you a chance like this in the future."
+text I whisper to Arihiko.
+text He whispers back, maintaining our secrecy.
+text "R, right, but I can't be with her alone all of a sudden.
+text If it was any other woman I'd agree, but your sister is just too high class."
+text ".... Hm?
+text This isn't like you at all.
+text Are you scared of Akiha?"
+bgload BG_04.jpg
+setimg ARI_T05.png 40 0
+text "Yeah.
+text To be honest, I am.
+text Since she is the type I've never went against, I'd like to concentrate on getting information in the first round."
+text ~
+text .... Why is he always this funny at strange times.
+text "Alright.
+text Then can you go get lunch for the three of us?"
+bgload BG_04.jpg
+setimg ARI_T01.png 40 0
+text "Leave it to me.
+text .... Um, what does your sister want?
+text I'm too scared to buy her ordinary cafeteria bread."
+text ".... As if I would know.
+text She transferred here, so curry bread and coffee milk will be good enough."
+text "----Roger.
+text I'll be back in five minutes."
+bgload BG_04.jpg
+text Arihiko returns to the building in a dash.
+bgload BG_04.jpg
+setimg AKI_T13A.png 40 0
+text "You seem to be very good friends with him, Nii-san."
+text .... Huh?
+text Where did all her vulnerability go?
+text She's suddenly back to normal.
+text "Yeah, we get along specially well.
+text .... M, more importantly, Akiha!"
+text "Please don't yell like that.
+text People around us are surprised."
+text "Wha----"
+bgload BG_04.jpg
+setimg AKI_T21.png 40 0
+text "More importantly, can you answer me?
+text That person, what is he to you, Nii-san?"
+text .... What is he?
+text He's just an unwanted but inseparable guy who's been with me since middle school----no, that's not what we're talking about.
+text ~
+bgload BG_04.jpg
+choice Ask her why she transferred to this school.|I should introduce Arihiko.|Was she pretending to be naive until just now?
+if selected == 1
+    jump s326.scr
+fi
+if selected == 2
+    jump s327.scr
+fi
+if selected == 3
+    jump s328.scr
+fi

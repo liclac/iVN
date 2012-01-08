@@ -1,0 +1,42 @@
+bgload BG_33B.jpg
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Welcome home, Shiki-sama."
+text "I'm back.. Hisui, where's Akiha?"
+text "Akiha-sama has remained at school for certain formalities.
+text Since she shall be late, we are to have supper first."
+text "..?"
+text Certain formalities, huh.
+text Akiha's school probably has lots of formalities as it is a top tier school for young ladies.
+text "I'll go wait in my room till suppertime and I'll head down when it's ready."
+text "Yes.
+text Please rest until I call you."
+bgload BG_33B.jpg
+text I turn my back to the bowing Hisui and walk toward my room.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text ~
+text ---After supper, I sit down on my bed.
+text ~
+text The clock's hands show nine o'clock.
+text Since leaving the mansion after eight is forbidden, I cannot go outside any longer.
+text "........"
+text But, that's merely a rule.
+text If I feel like it, I can easily go outside.
+bgload IMA_10.jpg
+bgload event/STK_E03.jpg
+text ~
+text ---Bye-bye.
+text See you at school tomorrow, Tohno-kun.
+text ~
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text I---
+text ~
+choice Go look for Yumizuka.|I can't do something that dangerous.
+if selected == 1
+    jump s241.scr
+fi
+if selected == 2
+    jump s242.scr
+fi

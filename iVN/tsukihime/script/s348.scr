@@ -1,0 +1,37 @@
+bgload BG_04.jpg
+text ".... I wonder.
+text I think Akiha looks good the way she is now.
+text Since she has such beautiful hair, I don't think bright colors would suit her."
+bgload BG_04.jpg
+setimg ARI_T01.png 40 0
+text "Hmm, that's rare, Tohno praising a woman's appearance like this.
+text First time, isn't it?"
+text "Shut up.
+text That's just what I think.
+text I'm saying the sailor suit suits her so I don't want her in a blazer."
+bgload BG_04.jpg
+setimg ARI_T05.png 40 0
+text "Hmm." Arihiko grins at me.
+text "----Ah."
+text .... Damn it, Arihiko got me.
+bgload BG_04.jpg
+setimg AKI_T16A.png 40 0
+text Glancing over, Akiha seems to be silently looking the other way.
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARI_T01.png 40 0
+text "I see.. No wonder Tohno has no eye for women.
+text Because, after looking at Akiha-chan every day, the girls at our school must hardly compaaaaahhhhhh!!?"
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg CEL_T04.png 52 0
+text "Ah, I'm sorry, Inui-kun.
+text My hand slipped."
+text Ciel-senpai laughs gently as she drives her elbow into Arihiko's side at a sharp angle.
+text ~
+text .... Man.
+text I have to live through this stressful situation for almost ten more minutes........
+music ~
+bgload IMA_10.jpg
+setvar akiha_regard + 1
+jump s350.scr

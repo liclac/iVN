@@ -1,0 +1,70 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Bonjour!
+text And now the hint corner for the sake of the mischievous Tohno-kun who quickly ended up in a Dead End,
+text It is time for "Teach me, Ciel-sensei!"
+text ~
+text Well then, now for the third of the ever-popular series, "Shakes 'n Shivers Animal Land".
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "Liar!
+text I don't see any animals coming out!"
+text ~
+text Denied.
+text No Longer Human (Pet's Name), Go!
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg KEMO_T04.png 0 0
+setimg CEL_T20.png 103 0
+text ~
+text "Killing junkie~"
+bgload BG_06A.jpg
+setimg KEMO_T04.png 0 0
+setimg CEL_T20.png 103 0
+text ~
+text "Kyaaaaaaaaaaaaa........ hunyaa!"
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ~
+text Well then, the third in our animal series.
+text Why did Tohno-kun end up dying?
+text This time, we have brought a special guest lecturer.
+text I have called in this person who was wandering about after finishing his task earlier.
+text Professor Nrvnqsr, please go ahead.
+music 04.mp3
+bgload BG_06A.jpg
+setimg NERO_T03.png -51 0
+setimg CEL_T20.png 103 0
+text "Nothing."
+text ~
+text .... Um.
+text ~
+text "Nothing.
+text I will only speak when I am victorious."
+text ~
+text .... Um, if we're here, it means you have won in a way, Professor Nrvnqsr.
+bgload BG_06A.jpg
+setimg NERO_T02C.png -51 0
+setimg CEL_T20.png 103 0
+text ~
+text "---I see.
+text That is a sound argument.
+text But there is nothing to be said.
+text I do not know of anyone who would miss a once in a lifetime opportunity.
+text Return to the choice before and correct yourself."
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+music 03.mp3
+text Um.... Yes, thank you very much.
+text This concludes our fourth period lesson.
+text Please continue enjoying the main storyline.
+bgload IMA_10.jpg
+music ~
+jump main.scr

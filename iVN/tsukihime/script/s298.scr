@@ -1,0 +1,70 @@
+bgload BG_02A.jpg
+music 04.mp3
+text ~
+text ---I jump back instantly.
+text ~
+bgload IMA_10.jpg
+text With just lightly jumping back,
+text I increase the distance between us to many meters.
+text "Eh-----?"
+text The one who's surprised is me.
+text Weapon still at the ready, Senpai pursues me emotionlessly.
+text "----!"
+text I run towards the school's front gate.
+text My body is almost frighteningly light.
+text I run as if slicing through the wind.
+text ~
+text Even if Senpai's athletic abilities far exceed those of a human's, she can't chase me if I'm like this----
+bgload BG_03C.jpg
+sound SE_06.aac 1
+bgload BG_03C.jpg
+bgload BG_03C.jpg
+text ----And then.
+text ~
+text My body stops suddenly.
+text No matter how much I try to move forward, my legs won't budge.
+text "-----Wha--"
+text When I turn around, there is a sword pierced right there.
+text A thin, nail-like sword is pierced into the ground at my feet.
+text The sword is piercing my shadow, which seems to be the reason why I can't raise my legs from the ground.
+text "Why.... you....!"
+text I gather up all the strength in my legs.
+text But no matter how hard I try, they don't even move one millimeter.
+text ~
+text ---And there.
+text ~
+bgload BG_03C.jpg
+setimg CEL_T06C.png 52 0
+text "How careless.
+text Even if you were to run away, I bet there was a better way to do so."
+text The member of the Burial Agency nicknamed "Bow" appears.
+text "Sen---pai."
+text "I can't allow you to leave as your body has transformed into a vampire already.
+text Here---I will exorcise that soul."
+bgload BG_03C.jpg
+text ~
+text The sound of her footsteps.
+text Like the sound of a condemned criminal walking up the thirteen steps of the gallows.
+bgload IMA_10.jpg
+text "---Farewell.
+text At least, with this---"
+text She speaks in a small voice, almost inaudible.
+text She plants the point of the weapon against my heart and pulls the trigger.
+text ~
+text A brief explosion.
+text "G---hu."
+text I cough up blood.
+text After a flash of light that seems to blow apart my brain,
+text inside my disappearing self, I see my soul, being scattered away, like the pages, of an old book.
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s524.scr
+fi
+if selected == 2
+    jump main.scr
+fi

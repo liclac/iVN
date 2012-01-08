@@ -1,0 +1,20 @@
+bgload BG_06B.jpg
+music 08.mp3
+setimg CEL_T20.png 103 0
+text It is time for the last lesson.
+text The seventh period is about the end of this one particular person.
+text ~
+text .... No one can truly understand the feelings of Tohno-kun, who kept his promise.
+text There is nothing for me to advise.
+text But if Tohno-kun wishes for a different outcome, please go back a bit and choose a different course of action.
+bgload BG_06B.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "Uhh, but if Akiha doesn't like you enough, you don't even get a choice."
+text ~
+text ----Ah.
+text In, in that case, please go back a couple of days and deepen your bond with Akiha-san.
+text If you do that, a different fate should await you.
+bgload IMA_10.jpg
+music ~
+jump main.scr

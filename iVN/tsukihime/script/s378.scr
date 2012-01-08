@@ -1,0 +1,79 @@
+bgload BG_54D.jpg
+text "---------"
+text I let out a deep breath.
+text ~
+sound ~
+bgload IMA_10.jpg
+bgload BG_54D.jpg
+text Calming down,
+text I manage to restore control over my breathing.
+text My view painted in red now returns to normal.
+text One more calming breath.
+text I won't believe what SHIKI says.
+text I would never kill Akiha, and there's no way I would kill someone simply because they weren't human.
+bgload IMA_10.jpg
+bgload event/AKI_E03.jpg
+bgload BG_54D.jpg
+text ".........."
+text It's different.
+text It's different from back then.
+text I'm different from SHIKI.
+text I can control my actions through my own willpower.
+text It's just, the smell of blood is so strong.
+text It makes me remember the past, and that scares me.
+text "Shi------t"
+text My right hand is still holding the knife.
+text With my bare left hand, I wipe the blood off my chest.
+text ~
+text ---With that, the smell of the blood goes away a bit.
+text ~
+text "-----SHIKI"
+text In the darkness, the trail of blood seems to light the way.
+text I take another deep breath, then go after SHIKI.
+bgload IMA_10.jpg
+bgload BG_53B.jpg
+music 06.mp3
+text This is the last stop.
+text "--------"
+text .... Is this just a coincidence or is it on purpose?
+text Eight years ago.
+text We fight to death once more at the place where Shiki almost killed me.
+text ".... Hmph, you did come after me."
+text SHIKI is sitting down at the very edge of the clearing.
+text Even that is the same as back then.
+text ".........."
+text I hold onto my knife and walk towards him.
+text I feel something slimy under my feet.
+text SHIKI's blood has not stopped; all the flowing blood is from him.
+text Splash, splash.
+text His blood makes noise as I step towards him.
+text .... It's amazing he's alive after losing this much blood.
+text It's like a giant puddle on the ground.
+sound SE_01.aac 1
+text "Ku.........."
+text But, I'm also at my limit.
+text I'll be at a disadvantage if I wait any longer.
+text This is the only chance to kill him, with him wounded.
+text "--------!!"
+text I step forward.
+text "-----Wait!
+text There's something I haven't told you yet.
+text Can you wait there a bit, Shiki?"
+text "-----------"
+text "Don't look at me like that.
+text This should benefit you too.
+text Because it's about Akiha.
+text There might be a way to turn her back."
+text "Wha-------"
+text At that moment,
+text my still functioning reason stops my feet.
+text But, my body is telling me to go on and kill him right now.
+text I------
+text ~
+choice Stop.|I won't let his words trick me.
+if selected == 1
+    jump s380.scr
+fi
+if selected == 2
+    jump s379.scr
+fi

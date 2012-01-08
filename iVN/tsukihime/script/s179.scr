@@ -1,0 +1,43 @@
+bgload BG_25B.jpg
+text ----I'll go to Arcueid's apartment.
+text ~
+text I don't know what's behind it all, but she was breathing so painfully.
+text Rather than trying to hunt The Dead, she might have just gone back to her room.
+bgload IMA_10.jpg
+bgload BG_12B.jpg
+bgload BG_13B.jpg
+text .... I press the doorbell.
+text It doesn't seem like anyone's coming out.
+text "----Shit, she hasn't come back?"
+text No matter how many times I push the button, her door doesn't open.
+text "......"
+text Did she not come back, or is she just not coming out?
+text ~
+text ----After hesitating, I decide to go inside.
+text ~
+text It'd be a simple thing to cut the "lines" on the door.
+text But, I should just check the knob first.
+text ".... Huh?"
+text It's not locked.
+text The door opens simply with a turn.
+bgload IMA_10.jpg
+bgload BG_15B.jpg
+text ".... Arcueid, are you here?"
+text .... No response.
+text Did she not lock it in the first place?
+text There's no one around.
+text "Where does she think she's going in that condition....!?"
+text I slam my fist against the wall.
+text ".... Grr."
+text .... what am I doing?
+text If I have time to let it out on the wall, I have to go out and look for her----
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text .... I can't find her.
+text Come to think of it, if she really intends not to be found, there's no chance of me finding her at all.
+text ".... She said we'd meet again tomorrow."
+text All I can do in this situation is to trust her and wait for tomorrow night.
+text "............"
+text With a great uneasiness in my chest, I return to the mansion.
+bgload IMA_10.jpg
+jump s510.scr

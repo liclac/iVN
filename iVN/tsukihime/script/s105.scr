@@ -1,0 +1,111 @@
+bgload BG_29B.jpg
+text "I'm---exhausted.."
+text I collapse onto the ground.
+text I fall on my rear and try to keep my body up with my hands.
+text "---Cold."
+text I'm cold.
+text The pain is numbed; it feels almost comfortable.
+text My body is ripped with canine bite marks and beak marks.
+text ~
+text ----Well, there's no mistake that I'll probably die like this.
+text "-----"
+text I let out a deep breath.
+text I raise my chin and look up at the sky.
+text ~
+text "-----The moon."
+text Only the pretty moon is in the night sky.
+text .... What is it?
+text It seems awfully familiar.. like I saw a dream like this before.
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+music 08.mp3
+text "Shiki, are you okay?"
+text Arcueid walks toward me as if nothing happened just now.
+text ".... You.. stupid idiot.... If I was okay.. I wouldn't be human."
+text I speak and breath haltingly.
+text Even talking is painful, so maybe I shouldn't have responded.
+text "Kk------ah."
+bgload IMA_10.jpg
+text My consciousness starts to fade.
+text And then,
+bgload BG_29B.jpg
+text Whack!
+text Arcueid hits me on the head and forcefully returns me to consciousness.
+text ".... What.. was that for?"
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "That won't do.
+text If you sleep with those wounds, you'll definitely end up dying.
+text You can't sleep until we close them."
+text ~
+text ---Her argument is perfectly just.
+text It's so just, it makes me angry.
+text ~
+text ".... Arcueid.
+text Can I say what I've always thought from before?"
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Hm, what?"
+text "----Don't say such unreasonable things, you idiot."
+text I crash onto the ground.
+bgload IMA_10.jpg
+bgload IMA_18.jpg
+text ---My consciousness starts to fade.
+text ~
+text Arcueid is raising a racket, but I don't have any strength to hold my eyes open any longer.
+text It's terribly----cold.
+text ~
+text "Hey, Shiki.
+text You really will die....!"
+text ~
+text .... I told you, I'm sleepy.
+text I'll sleep before I die, so I'll wake up in the morning.
+text "Shiki, you mustn't sleep----!
+text We have to at least close your wounds and stop the bleeding, otherwise you won't wake up....!"
+text ~
+text ---Man, she's loud.
+text I'm going to sleep, so just do whatever you want.
+text ~
+text "Eh, it's okay if I heal you?
+text Why didn't you say that earlier?"
+text ~
+text After she says this cheerfully,
+text I feel cold fingers, colder than even my body, touch my skin as if in sympathy.
+text "Well, I'm not too happy about using someone else's familiars, but in these circumstances, it can't be helped."
+text .... I feel like something is being plastered to me.
+text I don't know why,
+text but it feels awfully pleasant--
+text ~
+text "As to be expected from the vampire called the primordial sea.
+text Even after the destruction of the source, Nrvnqsr, the familiars still have their regenerative ability.... hm, in this case, all I have to do is give it a little hand.
+text First, let it live on me----once it's back to normal I'll put it back on you, Shiki----"
+text ~
+text The fingers pull away.
+text "I guess this'll do.
+text How is it?
+text It's a non-polar life, so it can adapt itself easily to your body, right?
+text Hey, are you sleeping Shiki----?"
+text ~
+text ---Yeah, I'm asleep.
+text ~
+text "Oh well.
+text Your house is the mansion on top of the hill, right, Shiki?
+text I'll make sure you get home."
+text ~
+text ---I look up only at the white moon as I sleep.
+text ".... You really did well, Shiki.
+text And thanks.
+text You really saved me tonight."
+text ~
+text .... She thanks me without the slightest hint of heaviness in her words.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... I can't hear her voice anymore.
+text I fall into a deep sleep without anyone interrupting me this time.
+bgload IMA_11.jpg
+music ~
+jump s108.scr

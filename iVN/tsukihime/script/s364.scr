@@ -1,0 +1,179 @@
+bgload BG_40C.jpg
+text "----I can't."
+text I can't go.
+text The few remaining things I can be certain about.
+text My life at school, Ciel as my Senpai.. I can't lose them.
+text "--------"
+text I know this can't last forever.
+text But still----I don't want to lose my peaceful life I have left.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ----Night.
+text ~
+text The time I promised to meet Senpai has already passed and I will watch that dream tonight once more.
+text "........"
+text No, that's not right.
+text I won't rely on Senpai's help.
+text This is my problem, so I will solve it myself.
+text In order to keep living the way I have until now, I will have to settle matters with this "killer" myself----
+bgload IMA_10.jpg
+text ~
+text To prove that I am a killer or not.
+text .... I don't even have to think about it.
+text I just have to look around the town at night and find the killer which isn't me------
+sound SE_01.aac 1
+bgload BG_25B.jpg
+text I let out a breath.
+text ~
+text ------I walk around the night-shrouded town.
+text ~
+text I put my hands in my pocket, feeling the knife in there on my fingertips as I walk around town.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+music 06.mp3
+text *pant*-----*pant*
+text ~
+text -------I breathe quietly as I walk around.
+text Trying not to draw attention.
+text I look at the people passing by as I stand concealing my presence from everyone.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text ~
+text *pant*------*pant*, *pant*.
+text ~
+text --------I am searching for the killer.
+text Someone will get attacked tonight.
+text He is looking for a new victim.
+text Say, a girl with long, black hair.
+text A girl around my age would be best.
+text No need to mention the beauty of her hands and feet, but the beauty of her neck should be considered.
+text In the end, everything counts on that one spot.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_30B.jpg
+text *p-pant*, *pant*, *pant*.
+text ~
+text --------I look for the killer.
+text ~
+text .... I know I won't find him easily.
+text I knew from my dreams that the perfect prey is hard to find.
+sound SE_01.aac 1
+text *pant*.... *pant*.... *pant*
+text ~
+text B.. u.. t
+text Tonight, this town bores me.
+text I cannot find my PREY.
+text I'm getting angry.
+text My objective was to find someone, or to kill someone, or something like that.
+text "------------Ha."
+text ~
+text I'll hold my breath.
+text I'll hold on to my knife.
+text I should concentrate, so I will be able to return death at any time.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+text I pant more and more.
+text ~
+text ---I look for the KILLER.
+text ~
+sound SE_01.aac 1
+text But I can't find him.
+text Only time passes.
+text *pant*, *pant*.
+sound SE_01.aac 1
+text It overflows, sharpens, is used, is used up, and over time stands up, and changes form and-------
+sound SE_01.aac 1
+bgload IMA_11.jpg
+bgload BG_31B.jpg
+sound SE_02.aac -1
+text In front of me lies tonight's prey.
+text ~
+text My panting fills the air.
+text ~
+text It is a dead woman's corpse.
+text In my hand is a knife.
+text The red blood on my knife drips to the ground.
+text ~
+text --------Why?
+text I was looking for the killer, but all of a sudden, there's the dead body of a woman right in front of me.
+bgload IMA_11.jpg
+bgload BG_31B.jpg
+text *pant*, *pant*, *pant*, *pant*.
+text My breathing gets out of control.
+text A dead body in front of me.
+text A bloody knife in my hand.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text --------------I don't understand.
+text When, at what time, what I did.
+text Did something happen to my mind?
+text Yes, like..
+text it overflows, sharpens, is used, is used up, and over time stands up, and changes form, changes its meaning, becomes free, explodes, and lightens up.
+text On that path.
+text The theory of evolving consciousness and meaning.
+text But an important path is missing.
+text ~
+text ~
+text Since when.
+text ~
+text ~
+text Did I.
+text ~
+text ~
+text Turn into.
+text ~
+text ~
+text The other "me"?
+text ---------I see.
+text There was no need for me to give you a push, Shiki.
+text From behind me,
+text that voice sounds out.
+text ~
+text Heavy breathing.
+text ~
+text I turn around.
+text There.
+bgload BG_31B.jpg
+setimg HAL_T01.png 33 0
+bgload BG_31B.jpg
+text ~
+text Someone I have never seen before, yet someone who looks like me, stands there.
+text ------It can't be helped if you're already broken.
+text Bye, Shiki.
+text I wanted to play around with you for a bit longer.
+sound SE_06.aac 1
+bgload IMA_12B.jpg
+text Slash.
+text I'm cut with a knife.
+text ~
+text It hurts.
+text It's funny.
+text It's deep.
+text It's great!
+text "Ha------haha, ha."
+text I start to pass out.
+text Like that, in that ambiguous state, I was killed.
+text .... I'm happy, in a way.
+text Tohno Shiki was killed by the killer.
+text That's proof that I wasn't the killer.
+music ~
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s535.scr
+fi
+if selected == 2
+    jump main.scr
+fi

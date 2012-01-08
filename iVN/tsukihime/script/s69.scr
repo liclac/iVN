@@ -1,0 +1,258 @@
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text ---When I come to, it's morning.
+text Maybe the rain stopped; I can't hear it anymore.
+text It seems clouded outside, and the sunlight through the window is dim.
+text ~
+text "Ha----ah."
+text ~
+text Taking a deep breath, I get out of bed.
+text .... I didn't sleep well last night.
+text Over and over, as I was about to fall asleep, that scene would replay in my mind and keep me awake.
+text ".... A crimson floor and limbs everywhere.."
+text Reason and memory are liabilities at times like these.
+text They force me to remember things I only want to forget.
+text "It's just a dream---why am I so bothered by it?"
+text .... Yes.
+text Just a dream.
+text I should forget it quickly, without a moment's delay.
+text ~
+text Knock, knock.
+text ~
+text Someone knocks on the door.
+text It's past six o'clock in the morning.
+text .... Who could it be this early?
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "---Excuse me."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "Shiki---sama, are you awake?"
+text "Yeah, I've been sleeping since yesterday afternoon, so I'm awake early.
+text So, what about you, Hisui?
+text What's happening at this time in the morning?"
+bgload BG_40A.jpg
+setimg HIS_T05.png 62 0
+text "........"
+text Hisui falls silent.
+text Actually, now that I look carefully, I notice she has my school uniform in her hands.
+text "I see.
+text You brought me a change of clothes."
+text ".... Yes.
+text I am sorry.
+text I have shown you something you do not wish to see."
+text "?"
+text Hisui keeps silent.
+text .... What is it I didn't want to see?
+text I don't get it at all.
+text ".... I don't understand, but thanks anyway.
+text Just leave the clothes there.
+text I'll get changed soon and go to the sitting room."
+text Hisui nods in assent.
+text "Very well, then.
+text Please excuse me."
+bgload BG_40A.jpg
+text Hisui begins walking silently, only to suddenly turn around.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama.
+text .... Um.. if you have the time, I will also prepare a bath for you."
+text ".... A bath?
+text In the morning?"
+text "Yes.
+text You are terribly dirty, Shiki-sama.
+text Would it not be best for you to wash before you go to school?"
+text Hisui asks me with her usual lack of expression in a disinterested voice.
+text .... Now that she mentions it, I am dirty.
+text I did collapse from anemia in the park yesterday, after all.
+text So, it's not unnatural.
+text ~
+text "---Yeah, would you mind doing that for me?
+text I'll have time for that before I go to school if it's this early."
+text "I understand.
+text Please come to the bathroom in about twenty minutes."
+bgload BG_40A.jpg
+text Hisui sets my uniform down and leaves the room.
+text ~
+text It's still six o'clock in the morning.
+text With nothing to do, I spend the twenty minutes in my room staring at the ceiling.
+bgload IMA_10.jpg
+text I enter the bath and pour water over my head, which makes me feel a little refreshed.
+text I take a deep breath as the cold water soaks my hair.
+text ~
+text .... What a terrible dream.
+text There's got to be something wrong with me, having a dream where I kill a beautiful woman like that.
+text If just one day of living in an unfamiliar mansion is enough to give me dreams like that, I hate to think what the days ahead are going to be like.
+text *sigh*
+text "I've really got to get it together."
+text I clear my head with another splash of cold water and wash myself.
+text "Ow...."
+text I feel a sting as the towel touches my throat.
+text ".... What's this?"
+text I look at my neck in the mirror.
+text .... How did this happen?
+text My throat is red and swollen.
+text It's almost as if I injured it by repeatedly throwing up.
+bgload BG_40A.jpg
+text I return to my room and change into my uniform.
+text It's barely seven o'clock.
+text Astounded at how much clearer my head feels after the bath, I pick up my bag and leave the room.
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+text Kohaku-san has just come out of the sitting room when I go down the stairs.
+bgload BG_33A.jpg
+setimg KOHA_T02.png 52 0
+text "Good morning, Shiki-san.
+text You sure are early today."
+text Kohaku-san makes a bow while smiling.
+text "And you look refreshed, too.
+text Have you just had a bath?"
+text "Yeah, I just took one.
+text That's amazing, Kohaku-san.
+text Can you tell?"
+bgload BG_33A.jpg
+setimg KOHA_T05.png 52 0
+text "Aha, I can tell just by looking at you because your hair isn't dry, Shiki-san.
+text You certainly look cuter after you've had a bath."
+text I avert my gaze just a little as I am faced with that warm, carefree smile.
+text It's kind of embarrassing.
+bgload BG_33A.jpg
+setimg KOHA_T01A.png 52 0
+text "Please hold on for just a minute.
+text I'm going to prepare some breakfast now."
+bgload BG_33A.jpg
+text "Eh---?"
+text .... Break, fast.
+text Uh.. I guess she means something to eat.
+bgload IMA_11B.jpg
+bgload BG_33A.jpg
+text ~
+text Such a trivial thing causes me to remember the color of blood.
+text I don't have much of an appetite at the moment.
+bgload BG_33A.jpg
+setimg KOHA_T01A.png 52 0
+text "Is a western-style breakfast like yesterday fine with you, Shiki-san?"
+text "---Ah.. yeah.
+text I really don't mind.. So, breakfast, huh?
+text That bath felt so good that I almost forgot about it."
+text "Really?
+text You didn't eat last night either, so I was talking to Hisui-chan about how maybe the sound of your stomach might have woken you up."
+text "Ahaha, no.
+text Sadly, that's not the case.
+text I've been a light eater since I was little, so I often skip one or two meals at a time."
+text "I see.
+text Now that you mention it, you've got a nice body without any excess meat on you.
+text Could it be that you're a vegetarian?"
+text "Hmm, perhaps.
+text Come to think of it, I get the feeling that all I ate at the Arima house were vegetables."
+text Kohaku-san busily heads back to the sitting room.
+text ---But I don't feel like eating right now.
+text "Ah, it's alright, Kohaku-san.
+text I'll go to school without eating today.
+text Tell Akiha for me."
+text ~
+text "Bye." I head towards the doorway.
+text Suddenly, my arm is tightly grabbed.
+bgload BG_33A.jpg
+setimg KOHA_T04.png 52 0
+text "Shiki-san!"
+text "---Eh?"
+text .... I can't believe it.
+text Kohaku-san is angry.
+text "What are you saying, Shiki-san!?
+text Haven't you looked in the mirror this morning!?"
+text ".... Ah, well, I took a look in the bathroom mirror.."
+text "You're lying!
+text You wouldn't say something like that if you looked even once!"
+text Kohaku-san is seriously angry.
+text .... Come to think of it, when I saw my face in the mirror, I think I saw death warmed over.
+text "I'll be fine.
+text It's just that I don't have a lot of blood in me, so I look worse than normal people."
+text "This won't do!
+text You won't grow without eating breakfast!
+text If you don't have an appetite, I'll prepare you something easy to eat.
+text So please, go to the dining room."
+text Holding on to my arm, she drags me towards the sitting room.
+bgload BG_33A.jpg
+text ~
+text .... I've got no choice.
+text I really don't feel like going along with this, but I'll have to accept Kohaku-san's good intentions.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "Good morning, Nii-san.
+text How do you feel?"
+text Akiha greets me reservedly.
+text That firmness about her yesterday is gone.
+text I guess it's because she's worried about me.
+text "Ah, good morning.
+text I'm feeling.. well.. good, in a certain way."
+bgload BG_34A.jpg
+text Returning her greeting, I head towards the dining room.
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Ah!
+text Please wait here, Shiki-san.
+text I'll call you when it's ready."
+bgload BG_34A.jpg
+text Kohaku-san disappears into the dining room by herself, leaving me, the downcast-looking Akiha, and Hisui, who stands emotionlessly by the wall.
+text "........"
+text .... This is kind of awkward.
+text "Nii-san, about last night, is it true that you collapsed in the park?"
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Seems so.
+text I don't really remember it myself, but if that's what Kohaku-san and Hisui say, then it must be what happened."
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "Oh, stop talking like it's someone else's problem, Nii-san!
+text You have a weak body, so if you ever feel bad, please contact the mansion.
+text I will send someone to pick you up right away."
+text ".... Hey, listen, there's no need for that.
+text I'm not like a primary school kid, I can make it home by myself no matter how bad I feel."
+text "Then I guess the fact you could not make it home last night would mean you are a child."
+text "---Mmn."
+text ~
+text It sucks to admit it, but Akiha is right.
+text ~
+text ".... Yesterday was different.
+text That kind of thing is really rare.
+text Look, just because I have chronic anemia doesn't make my body weak.
+text There's no reason for you to worry about every little thing, Akiha.
+text Yesterday was.. you know.. just a terminal case of bad timing.
+text That's all."
+text "A terminal case?
+text Please do not use such inauspicious words, Nii-san!
+text You have only just come back to the mansion!
+text What would I do if you died..!"
+text Akiha is seriously angry.
+bgload BG_34A.jpg
+setimg AKI_T21.png 40 0
+text "Geez.
+text you take things too easily, Nii-san.
+text Please, take better care of yourself."
+text "Even if you tell me that, I don't push myself as it is.
+text I'm not in any clubs, and I do everything the doctor says.. You'd have to put me in a sanitarium for me to get any better care."
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text "Yes, I would love to do that if I could."
+text Avoiding my gaze, Akiha says something very frightening.
+bgload BG_34A.jpg
+text ~
+text As for Hisui, she's standing by the wall like a statue.
+text "........"
+text I'm at a loss for conversation.
+text There's still some time until we eat, so---
+text ~
+choice Talk about Akiha.|Talk about Kohaku-san.|Talk about the mansion.
+if selected == 1
+    jump s70.scr
+fi
+if selected == 2
+    jump s71.scr
+fi
+if selected == 3
+    jump s72.scr
+fi

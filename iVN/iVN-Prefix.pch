@@ -11,4 +11,24 @@
 #ifdef __OBJC__
 	#import <UIKit/UIKit.h>
 	#import <Foundation/Foundation.h>
+	#import <QuartzCore/QuartzCore.h>
+	#import <AVFoundation/AVFoundation.h>
 #endif
+
+typedef enum
+{
+	VNFontOptionModern,
+	VNFontOptionClassic,
+} VNFontOption;
+
+#define VNNotificationSaveLoaded @"__NotificationSaveLoaded"
+
+#define BitSet(arg,posn) arg = ((arg) | (1L << (posn)))
+#define BitClr(arg,posn) arg = ((arg) & ~(1L << (posn)))
+#define BitTst(arg,posn) ((arg) & (1L << (posn)))
+#define BitFlp(arg,posn) arg = ((arg) ^ (1L << (posn)))
+#define BitCpy(src,dest,pos1,pos2) if(BitTst(src,pos1)) BitSet(dest,pos2)
+
+#import "MacaroniTouch.h"
+
+#import "Collection.h"

@@ -1,0 +1,943 @@
+sound SE_02.aac -1
+bgload event/ARK_E05B.jpg
+text Arcueid's arms stretch out.
+text Like that, she holds my body.
+text "Ar---"
+text My breath stops in my throat as I call her name.
+text Her bloodshot eyes.
+text Her sharp teeth like a beast's.
+text The overwhelming pressure that drains me of any will to resist.
+text The thing with its teeth nearing my neck isn't the woman I know.
+text I can't do anything.
+text I can't even lift a finger.
+text ~
+text I'm going to be eaten.
+text This is what it means to be preyed upon.
+text ~
+text Her teeth push against my neck.
+text The only thing filling my mind is fear.
+text "Hiii----!"
+text A shriek comes out.
+text I almost think for an instant how pitiful it is for me to make such a sound.
+text ~
+text Maybe it was just my imagination, but..
+text ~
+text It feels like she freezes in place.
+sound ~
+bgload IMA_10.jpg
+sound SE_10.aac 1
+text But before I can even confirm this,
+text Wham!
+text A violent explosion erupts before me and Arcueid's body is smashed sideways.
+bgload BG_29B.jpg
+text "Wha----"
+text As if she was hit by a car, she was blown back several meters.
+text But she gets up like it was nothing.
+bgload BG_29B.jpg
+setimg ARK_T18.png 36 0
+text "I.... I"
+text Arcueid stands there, stunned.
+text I---can't even think what to do, either.
+text And there,
+text "You were going to suck his blood."
+text A cold, scolding voice.
+text "That is your true nature, Arcueid Brunestud."
+text The merciless voice towers from above.
+bgload IMA_10.jpg
+bgload event/CEL_E04.jpg
+text I look up at the moon.
+text There---stands the robed figure from that one night.
+text ~
+text "Sen, pai----"
+text There's no mistake.
+text No matter how I look at it, it's Ciel-senpai.
+text She doesn't even look at me, but she glares at Arcueid crouching far away.
+text "Even if you destroy your kin, you cannot change the fact you are a vampire yourself.
+text .... I don't know why you drew him close to you, but didn't you think it would end this way?"
+text ~
+text Her voice is completely different from normal.
+text Neither strict nor kind.
+text Her emotionless voice---is horribly devoid of any humanity.
+bgload BG_29B.jpg
+text Without making a noise, Senpai descends from the streetlight to the ground.
+bgload BG_29B.jpg
+setimg CEL_T06B.png -12 0
+text "Usually, it's nothing I mess with, but I will not overlook you trying to kill an ordinary person.
+text It isn't part of the plan to fight you---but if there is a need, we can settle our score."
+bgload BG_29B.jpg
+setimg CEL_T06B.png -12 0
+setimg ARK_T15.png 100 0
+text "--Don't be ridiculous.
+text I don't want anything to do with you.
+text And---"
+text She looks at Senpai hatefully.
+text "I never intended to kill him."
+text "---That does not sound convincing at all.
+text It's not like you don't realize what you did earlier, and what kind of yell he gave out when he saw you."
+bgload BG_29B.jpg
+setimg CEL_T06B.png -12 0
+setimg ARK_T05C.png 100 0
+text "-----"
+text "I don't care if you hate me.
+text But you took your insanity and directed it at him.
+text Shall we ask him how he felt?"
+text With a turn of her head,
+text Senpai casts a glance at me for the first time.
+bgload BG_29B.jpg
+setimg CEL_T06B.png -12 0
+setimg ARK_T10.png 100 0
+text "-------"
+text Arcueid averts her gaze painfully.
+text Silence fills the park.
+bgload BG_29B.jpg
+text ~
+text A footstep.
+text The robed Senpai takes only one step towards me.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Get back, vampire.
+text You had no right to stay by his side from the beginning."
+text "Wha----"
+text ~
+text That's not true.
+text I don't know who Senpai is or what happened to Arcueid earlier, but I can at least declare this.
+text Because----I myself want to be by her side---
+text "You're wrong....!
+text What's with you, coming out of nowhere, wearing weird clothes, and speaking like you understand everything....!?
+text Arcueid is definitely a vampire, but she hasn't drunk blood even once!
+text That was probably just a joke, and you don't have any right to----"
+bgload BG_29B.jpg
+setimg CEL_T06B.png 52 0
+text "Please be quiet Tohno-kun.
+text She hasn't drank blood even once?
+text Yes, certainly these past eight hundred years, there's no record of her having any victims.
+text However----"
+text "Just shut up!
+text I don't care to listen to whatever strange story you have to say....!
+text Look, if you try to get in her way, I'll not forgive even you.
+text After all I---I'm helping her because I want to.
+text It's none of your business to interfere--!"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "---Tohno-kun, you---"
+text An inkling of emotion enters her voice.
+text "---I understand.
+text If you say so, then I won't do anything else.
+text However---"
+bgload BG_29B.jpg
+text Senpai changes her gaze to Arcueid.
+text Arcueid looks away---not at me or Senpai.
+bgload BG_29B.jpg
+setimg ARK_T10.png 100 0
+text "............"
+bgload BG_29B.jpg
+setimg CEL_T07B.png -12 0
+setimg ARK_T10.png 100 0
+text "As he said, Arcueid Brunestud.
+text Do you still intend to be by his side after this?"
+text ~
+text Arcueid doesn't answer.
+text She raises her head to look at me once, and then---runs off into the night.
+bgload BG_29B.jpg
+setimg CEL_T07B.png -12 0
+text "Wh---why are you leaving, Arcueid....!?"
+text I start to run after her.
+text ~
+text But.
+text ~
+text "----!?"
+text My feet don't leave the ground.
+text Senpai walks slowly over to me.
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "I won't let you follow her.
+text I can't let you be killed, Tohno-kun."
+text ~
+text In her hands are thin, rod-like blades.
+text One of them stands by my feet---pinning my shadow to the ground.
+text "You cannot move until that is removed.
+text No matter how hard you struggle, your shadow will struggle just as hard not to separate from you."
+text "----Stop fooling around, I'll lose her!"
+text I grip the blade below me.
+text But no matter what, I can't pull it out.
+text "I forgot to mention this, but I'm the only one who can remove it, so please give up."
+text Saying that, she stops in front of me.
+text "----"
+text I glare at her.
+text She takes in my gaze---then sighs.
+bgload BG_29B.jpg
+setimg CEL_T10B.png 52 0
+text "Geez, really---why do you go overboard so much, Tohno-kun."
+text "---Eh?
+text .... Um, Senpai?"
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text "I know.
+text I don't hate her myself, but this is for both of your sakes.
+text I will let you go soon, so please listen to what I have to say for a while."
+text She looks up hesitantly.
+text This is the leisurely Senpai I know from school.
+text ~
+text ---Is that why?
+text Even though I still can't grasp the situation, I start to calm down.
+music 01.mp3
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text ".... This is abrupt so I am prepared for you to hate me.
+text But I have something I have to tell you.
+text I'm very sorry for restraining you like this."
+text Senpai bows her head.
+text .... She's dressed strange, but Senpai is still Senpai.
+text "---It's okay.
+text I'm not angry so please don't apologize.
+text You've already helped me once Senpai, and I want to ask you some things as well."
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text "---That does help.
+text .... But, what would you like to ask me, Tohno-kun?"
+text ".... Um, isn't it obvious?
+text Just who are you, Senpai?
+text Dressed like that and smashing away Arcueid, and I'm the only one who remembers you at school."
+text Senpai gives a sigh in response.
+text "Then let me ask.
+text Tohno-kun, what do you think about me?"
+text ".... Hm.
+text I've only heard some things from Arcueid, about the Church and stuff."
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text "That's right.
+text As you know, I am an exorcist of the Church.
+text My specialty is hunting vampires.
+text I can't answer anything else, but I think that is enough for you."
+text "Enough?
+text --Um, why would someone like you even come to my school?
+text If you wanted to exterminate vampires, wouldn't you be searching the city like Arcueid?"
+text "No, there was a reason for me coming to your school, Tohno-kun.
+text Um.... right, since this overlaps with the talk I want to give, I will ask the questions from now on."
+bgload BG_29B.jpg
+setimg CEL_T06B.png 52 0
+text "Tohno-kun, you seem to have teamed up with her, but do you know anything about what she's after?"
+text "Yeah.
+text .... Well, I heard he's the old type of vampire who drinks the blood of humans to expand his territory."
+text "It seems you know about the two main classifications of vampires.
+text Then I think you know about how he is imperfectly immortal---"
+text "Yeah.
+text About how he needs to drink blood to maintain his body.
+text But on the other hand, as long as he can drink blood he'll never age, right?"
+text "Yes.
+text But you can't say he's 'immortal' in the end, can you?
+text Besides, there are ones for whom drinking blood does not maintain their body fully, and there are some that are exterminated by us.
+text You can't call something that can die like that immortal."
+text "----Well, certainly---he's not immune to death."
+text I don't know what Senpai's trying to get at here.
+text "Is this related to why you came to my school?"
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text "Of course.
+text Geez, please wait until I'm finished."
+text ".... Okay, but---if you could give me the short version, I'd appreciate it."
+text ".... Oh really?
+text If that's the case, then I'll explain as directly as I can."
+text Senpai seems a little disappointed.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Then, a simple explanation.
+text Hmm, anyway, the immortality of the vampires known as Dead Apostles is very unstable.
+text For them, it is merely a prolongation of their lifespans many times that of normal people."
+text ".... A question.
+text Not only are their life spans long, but they also have unnatural powers.
+text Is there any relation?"
+text "Not really.
+text Their individual powers are things they had when they were human, strengthened over hundreds of years.
+text Continuing their studies from their human lives gives them these extraordinary powers."
+text "The Dead Apostles each have different goals.
+text What they each decide to study is different.
+text Because of that, there was one who seriously studied immortality."
+text "....?
+text He became immortal yet he still researched it?"
+text "Yes.
+text The instant the Dead Apostles become vampires, they assume they have reached the limit of immortality as humans.
+text However, he felt that it was just a degeneration.
+text He did not want something so imperfect, and he wanted to come up with a more perfect immortality."
+text ".........."
+text Senpai seems to be more engaged.
+text "But, as long as something has shape, it cannot but perish.
+text There isn't anything that can withstand the passage of time.
+text Vampires merely have a resistance higher than that of humans.
+text Anything living internalizes death the moment they are born.
+text Even if in possession of a body which does not age, as long as it exists, it cannot escape death.
+text To escape death is to die.
+text This contradiction is a problem that cannot be solved."
+text "---Yeah.
+text Everyone has death within them.
+text If there is someone who doesn't, then that's---"
+text Probably something that never existed in the first place.
+text Even Arcueid can die during the day.
+text There can't be anything that cannot die in this world.
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text "That's the reason, but he concluded that if he could preserve his existence after death, then he would be immortal.
+text .... It isn't in our doctrine, but it's what you call reincarnation.
+text Even if you die, if you could preserve your sense of self and start over again as a new human, that would be eluding death.
+text .... Well, when he isn't completely annihilated, he isn't dead, so it's actually not quite eluding death."
+text "Reincarnation---you mean if he dies he will start over as a baby?"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Yes.
+text While he is alive, he chooses his next host and when it is born, he transmits all the information of his 'self'.
+text His information stays deep within the baby until it matures, or until it gains its intelligence as its own.
+text As soon as that baby has the intelligence to succeed 'his self', the baby becomes a new vampire that is him."
+text "---Wait a minute.
+text What's that?
+text Don't tell me that he does surgery on it while it's in the mother or something like that."
+text "No, it's not anything medical.
+text Because the instant his body is destroyed, he reincarnates into the body he chose as his next body.
+text "I said all of 'his information' earlier, but to use simpler terms, think of it as his 'soul'.
+text It wouldn't be quite correct to say his soul propagates through the air and takes over someone's body, but it's similar to an electromagnetic aace.
+text In this case, the human brain is what does the transmitting and the receiving.
+text His exceptional point is that he took this soul, which is incalculable and something that disperses as soon as it leaves the envelope of the body, and processed it as something that could be transmitted."
+text ".... Sorry, Senpai.
+text I can't see how this relates to you coming to my school."
+text "It is related.
+text Because this reincarnating vampire is in your school, Tohno-kun."
+text "------Huh!?"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "The vampire I am pursuing and the vampire Arcueid is pursuing are the same.
+text .... Although she's probably only referred to him as the 'enemy'."
+bgload BG_29B.jpg
+text "........"
+text I nod silently.
+text Certainly she's only used the word "enemy", but she never told me anything about him.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Her duty was to kill vampires, but since he appeared, she only pursued him.
+text He has reincarnated seventeen times already.
+text She has destroyed him every time."
+text "Every time.... But, even if he dies he will just be reborn, right?
+text Isn't that pointless?"
+text "----Yes.
+text He is killed by her, reincarnates each time, and is killed again by her.
+text That cycle has been repeated over and over.
+text If she.... if Arcueid had the power to kill not the 'body' but the 'meaning', then this probably would not be happening."
+bgload BG_29B.jpg
+text Senpai looks down a little, and it seems like she is gritting her teeth.
+text .... I don't know why.
+text However, it appears that Senpai also has some grudge against the "enemy" like Arcueid does.
+text ".... Senpai.
+text What kind of vampire is he?"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "He was originally a man, but that can change depending on his body he reincarnates into.
+text The troublesome part of this Dead Apostle is that his incarnations are hard to find.
+text Because he is properly born as a human baby and has parents.
+text He transforms into a vampire only when he reaches the age where he can do everything at a satisfactory level.
+text "Until then, that human shows no hint of being a vampire.
+text But once he awakens, he uses the relationships he gained until that time to blend perfectly into society.
+text I heard that the Church detects his presence usually after a whole town is turned to The Dead."
+text "Wait a minute.
+text Um, well, then this new host, he wouldn't ever realize he is a vampire until he awakens?"
+text ".... Yes, but it isn't like two people sharing one body.
+text The baby born as a human is still him.
+text Depending on its environment, it's a good or bad person.
+text .... But even that, the instant he awakens, goes away.
+text "Um, to sum it up, once he dies, he is reborn into the next body, and once that body gains intelligence, it gains the previous life's 'self' and becomes a vampire."
+text ~
+text "--------"
+text What is it?
+text Just hearing this---it's terribly.. scary.
+text ".... That's strange.
+text I don't really understand it, but it's strange.
+text Because what you call vampires.. they don't just suddenly become vampires, right?
+text So, even if their old self awakens, wouldn't the body still remain human....?"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "No, reincarnation isn't the transmitting of personality, it is the transmission of the soul.
+text Once bitten by a True Ancestor, not just the body, but the soul is forever soiled.
+text He transmits all of his information called his soul to his next self, so when he awakens, the body becomes one of a vampire but---"
+text "But what?"
+text "As you said, just that is too weak.
+text So he selects his next host while he is alive.
+text The family he is born into must meet two conditions, the first being one of wealth.
+text Being born into a family of high social standing, property, and money makes it easier to make the whole town into vampires later on.
+text "And there is another requirement.
+text This is the important one, but amongst normal people like us, there are also people that carry special powers.
+text Not like magic, which is a mystic power that can be learned, but rather special abilities from birth.
+text ---Such people are normally called Demonic Children or psychics.
+text "These special abilities are genetic, so they are inherited---passed on by blood.
+text He chooses those families that have "something not human" in their lineages.
+text A family with wealth and influence, and inhuman power.
+text Those are the requirements for his host, Tohno Shiki-kun."
+bgload BG_29B.jpg
+music ~
+text "-------"
+text There's still something weird.
+text I think that story is weird.
+text ~
+text What's weird---is that Senpai is telling me this story----
+text ".... His name."
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Yes?
+text Did you say something?"
+text "His name....!
+text You keep saying 'enemy' and 'him', but how can I understand that!?
+text Can't you tell me his name....!?"
+text I yell at her, not even knowing why I'm angry.
+text ~
+text She doesn't look fluttered at all.
+text She only---looks at me sympathetically.
+text "No problem.
+text Among the Dead Apostles, he is known as the Serpent of Akasha.
+text This is due to the serpent being the symbol of infinity and cycles.
+text Shedding its skin and gaining a new body, it was perfect for his name.
+text On the other hand, he is recorded in the Church as the 'Infinite Reincarnator'.
+text His human name is Michael Roa Valdamjong.
+text He is also simply referred to as 'Roa'."
+text "Ro, a---"
+text Never heard of it.
+text .... Of course.
+text It's not like I've ever met him.
+text ".... In short, you came to my school because you knew this Roa was there?"
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text "Yes.
+text It truly was a sketchy feeling, but I knew this incarnation of Roa was there.
+text I can sense Roa far better than Arcueid.
+text That's why I came here much earlier than Arcueid and already found out who his new host is."
+bgload BG_29B.jpg
+text ~
+text ------.
+text ~
+text The voice stops for some reason.
+text Senpai looks at me sympathetically like before.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+music 09.mp3
+text ".... I explained this before, but Roa chooses fine lineages and excellent bodies for his next host.
+text So once you find out Roa is in this place, the answer comes naturally when you investigate the families which meet his criteria."
+text "------"
+text "In this area, there is only one old family that meets his criteria.
+text I don't have to say any more, do I, Tohno---Shiki-kun."
+bgload BG_29B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----That's why.
+text That's why I'm saying this conversation is weird.
+text "Ha."
+text ~
+text "Ha."
+text ~
+text "Hahaha, ha."
+text ~
+text I'm the one laughing dryly.
+text ".... What are you saying, Senpai?
+text That can't be."
+text ~
+text Senpai doesn't answer.
+text Almost as if,
+text she is saying that I am this Roa's host.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text ".... But, there can be no doubt.
+text The Tohno family has 'something different' in its blood.
+text It has power and the latent superhuman ability that Roa needs.
+text The power you used to defeat The Dead earlier wasn't human.
+text So----this time's Roa's host is unmistakably Tohno Shiki."
+text ~
+text ---I don't understand.
+text I don't understand a single thing she says.
+text ".... Why?
+text Why can you be so certain, Senpai?"
+text "What?
+text Because I'm the one who decided all this."
+text She says something I can't understand once more.
+text "Wh, what!?"
+text ".... But, it's different.
+text You were the one killed, yet you are the one who survived.
+text The one killed survived and the one who killed is dead.
+text I think all the mistakes began there."
+text ~
+text She says so as if she's on the verge mentally.
+text Senpai pulls the "sword" from the ground by my feet.
+music ~
+text "Ah---"
+text "That is all I had to tell you.
+text I'll leave the rest for you to decide, Tohno-kun."
+text "Leave it to me?
+text But according to your story, I---"
+bgload BG_29B.jpg
+setimg CEL_T01B.png 52 0
+text ".... To be honest, I don't know either.
+text You are an incredibly ordinary person, like a student you could find anywhere.
+text My intuition has to be wrong.
+text Because---you are someone who shouldn't be in a world like mine."
+bgload BG_29B.jpg
+text With a sad smile, Senpai leaps an incredible distance from me.
+text As if trying to tell me she's someone else now, an unreachable, far distance.
+text "-----"
+text I---still can't leave Arcueid alone.
+text Unless I chase after her now, I feel like I'll never see her again.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "You're going after her, Tohno-kun?"
+text Senpai's voice returns to the way it was when she drove off Arcueid.
+text An inflectionless voice devoid of emotion.
+text "---Yeah.
+text Because you're a person of the Church, I know she's an enemy of yours.
+text But a lot of things have happened and I agreed to help her, so I have to look for her.
+text I don't know what she'll do if I leave her by herself."
+text Laughing as if it was a joke, I tell her "Later" and turn around.
+text "---Please wait.
+text If you go after her you will only get killed.
+text You must not see Arcueid Brunestud again."
+text "Only get killed?---Well, you may not believe me, but she really doesn't suck blood.
+text She's quite a good person, actually."
+text ".... I know.
+text Certainly she hasn't drunk human blood.
+text However, that's at an end.
+text A True Ancestor who gives in to the vampiric impulse once can only fall downward from there."
+text ~
+text My feet freeze in place.
+text ".... Senpai?
+text True Ancestor--vampiric impulse, what do you mean?"
+text ".... I mean the desire to drink blood.
+text Tohno-kun.
+text The vampires called Dead Apostles mostly became vampires after a vampire sucked their blood.
+text To preserve their bodies they need the blood of humans.
+text In other words, they can't escape drinking blood if they want to live."
+text "But the ones that were vampires from the beginning are different.
+text .... The Dead Apostles were originally humans like us.
+text So maybe you can still call them human.
+text However, if someone was born a vampire, can you call it human?"
+text "Wha---what are you saying, Senpai?
+text I'm asking about about Arcueid."
+text "This is about her.
+text I won't let you say you never thought about it.
+text If Dead Apostles become vampires from vampires,
+text there has to be an origin, 'an existence that is a vampire from the beginning'.
+text These vampires that are a completely different species from us, we call the True Ancestors.
+text Those who don't need human blood and have special powers equivalent to, no, surpassing the Dead Apostles.
+text She is a member of the royal family of the True Ancestors.
+text .... although they don't really have any rank structure, so saying 'royal' isn't quite accurate."
+text "---So what, Senpai?
+text This conversation---this doesn't have anything to do with me....!"
+text "It does.
+text These vampires known as the True Ancestors have a deeper impulse to drink blood than the Dead Apostles."
+text Her eyes are completely emotionless.
+text Like mirrors, they show my agitated face.
+text "Do you see, Tohno-kun?
+text The True Ancestors can live without human blood.
+text However, maybe a mistake happened in their evolution, or maybe there's no such thing as a perfect existence, but anyway, there is a period when they desire the blood of humans.
+text ".... The instant a human has his blood drunk by them, he no longer remains human.
+text True Ancestors are on a scale different from humans as creatures.
+text When the powerful life of a True Ancestor touches the blood of a human, the sheer difference means a human cannot remain human after such contact.
+text Like a small aace absorbed into a larger aace, that person becomes a part of the True Ancestor--to simplify, it becomes a doll."
+text "The problem is, there's no reason for their vampiric impulses.
+text There's no reason, so there's no way to stop it.
+text The fatal flaw in an otherwise perfect existence.
+text You can call it a terminal illness.
+text Anyway, they live by resisting their urge to drink blood.
+text It isn't a matter of using the mind to put up with it.
+text They use all their powers to resist this urge and seal it within themselves by force.
+text ".... By using their enormous power on themselves, they are suppressing the vampiric impulse.
+text But if--something external causes them to lose their power, what do you think happens to their ability to suppress it?"
+bgload BG_29B.jpg
+text ~
+text .... If something external causes them to lose power....?
+text Such as, receiving a wound which requires power to heal, or using power to regenerate after being killed completely---
+text .... So let's say she has ten units of power.
+text And say she uses seven of them to resist the urge to drink blood inside her.
+text But if---for some reason she loses five out of the ten units, then even if she uses all her remaining power, she can only use five units of power to resist.
+text ~
+text That's not enough.
+text Then, what will it take away from her---?
+text ".... And?
+text What happens to those True Ancestors who couldn't resist, Senpai?"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "They drink human blood, of course.
+text After that, nothing.
+text Once they give in, they can only keep on falling.
+text Once a True Ancestor knows the taste of blood, I hear the urge becomes many times more painful than before.
+text As a result, they aren't able to resist the urge anymore.
+text "And when that happens, they become the dreaded Demon Lords.
+text True Ancestors are certainly a superior race, but since they they bind themselves to resist the vampiric impulse, they can never utilize their full powers.
+text But once they fall, there's no longer the need to restrain themselves.
+text Then, they just become demons which suck human blood for their own pleasure."
+bgload BG_29B.jpg
+music 08.mp3
+text .... I remember how Arcueid appeared earlier.
+text Her blood-shot eyes.
+text Her wild breathing.
+text Her breath assailing my neck.
+text ".... Lies."
+text That's a lie.
+text Because,
+text She certainly said she's scared of drinking blood----
+text ~
+text "Ah."
+text .... Yeah, she's scared.
+text Because once she does it, she knows she won't be able to stop.
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text ".... If there is any salvation, it is that the urge is instantaneous.
+text The True Ancestors keep just one subordinate for the time the urge gets too great to suppress.
+text That's the beginning of those called Dead Apostles.
+text They are something that is already dead.
+text A vampire kept alive for the sake of easing the pain of the True Ancestors.
+text That is the form of the vampire in this city."
+text "But, she doesn't have such a thing.
+text .... No, until now, she never needed one.
+text Special among all the True Ancestors, she was able to resist the vampiric impulse using her will alone."
+text "---Then there's no problem.
+text Once her wound heals, once her body returns to normal, she can resist it, right....?"
+text ".... Technically, but there is a limit, Tohno-kun.
+text The vampiric impulse has no end, and it will not go away.
+text The resisted urges which build again and again will eventually overflow their vessel.
+text The longer they live, the larger the vampiric impulse in them gets.
+text And when they can no longer restrain themselves with their own power--when the impulse overwhelms their power, their lives are ended by others.
+text That is the life span for those without life spans."
+text "--But Arcueid is okay.
+text She's just weak because of me, so after a few days, she'll---"
+text ".... Perhaps.
+text But she's reached her limit already.
+text Even though she was only actually active for a few years, the amount of time of her existence does not change.
+text The urge which has grown inside her will soon consume her.
+text There's no denying that now is not the time.
+text She---Arcueid's life cannot be saved."
+bgload IMA_11.jpg
+bgload BG_29B.jpg
+text ~
+text ~
+text ~
+text ---Thump.
+text ~
+text For the first time.
+text Not because of my anemia, but someone else's words.
+text Everything starts to fade away in a haze of dizziness.
+text "-----"
+text What does it mean?
+text Even though she knows she's past her limit, she's still hunting vampires here?
+text ~
+text ---That's odd.
+text No matter---how I think of it, it's odd.
+text ".... It's all lies.
+text Because if she knew she's at her limit, then why would she hunt vampires for our sake?"
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "She deals with them not for our sakes, but because it is her purpose."
+text "Purpose---who decided that?"
+text "Probably the other True Ancestors.
+text She was born in the 12th century when there were many fallen True Ancestors.
+text The True Ancestors could not ignore their fallen kin nor the Dead Apostles increasing in number.
+text That's why they created something solely for killing.
+text Without a need for anything else, the most pure True Ancestor created for punishment.
+text That is the True Ancestor called Arcueid.
+text She's like a nuclear missile without a mind of its own, once she leaves the castle, her target is definitely destroyed."
+bgload IMA_11.jpg
+bgload BG_29B.jpg
+text ~
+text ---Thump.
+text This dizziness again.
+text ~
+text .... She should stop saying that.
+text She's a person.
+text Talking about her like she's just some sort of weapon makes me mad.
+text "No, she is a weapon.
+text In the first place, she existed only for that purpose.
+text .... So it seems there is now something wrong with her.
+text It is the first time I've seen her talk like that.
+text She never spoke any words before."
+bgload IMA_11.jpg
+bgload BG_29B.jpg
+text ~
+text ~
+text -----Huh?
+text Hold on.
+text Never spoke---that's odd.
+text "Because she never does anything extra.
+text From long ago---for the past hundreds of years, she has lived that way.
+text Ever since she was born in the old castle amongst the mountains, never changing."
+bgload IMA_11.jpg
+bgload BG_29B.jpg
+text ~
+text ---Thump.
+text My heartbeat, and this dark dizziness.
+text .... What is this?
+text This unknown scenery, these memories I've never had, they start to fill my vision.
+bgload IMA_11.jpg
+bgload event/ARK_E06B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text The wide, castle courtyard.
+text The unadorned grassy field inside the solitary castle.
+text The white girl stares blankly up at the sky.
+text "She did not have any extra knowledge, or freedom beyond what was needed for her purpose.
+text She only goes outside when her target is determined.
+text She gets taught only the information needed to definitely destroy the enemy."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text No one is there.
+text No one to talk to.
+text Not even another face to see.
+text "After killing her target and when she returns to the castle, her taught knowledge is washed out and she is taken to sleep.
+text Without knowing anything, nothing other than killing vampires."
+text ~
+text ~
+text ~
+text ~
+text There's nothing.
+text Such as the fun of speaking with someone else.
+text The precious moments of seeing someone else and greeting them.
+text She was excluded from all of it.
+text "Her power was strong enough to defeat the fallen True Ancestors.
+text .... But, it's ironic.
+text She was so powerful that she was shunned by the rest of the True Ancestors.
+text Even while praising her as the princess, no one approached her.
+text Even while giving her a castle, her world was only the dark basement.
+text So there was nothing to give her any feelings."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text That's,
+text almost enough to make me pity her for living.
+text A parody of life.
+text "She apparently had no words or even time of her own.
+text --The True Ancestors treated her only as a weapon.
+text A weapon has no need for extra functions, such as baking bread or doing laundry.
+text If you're going to put on extra functions, you would put on something more fit for a weapon, right?"
+text ~
+text ~
+text ~
+text ~
+text ~
+text --I was always taught never to do extra things.
+text ~
+text ~
+text ~
+text Yes, she has said that before.
+text The reason for deciding everything for herself, for having those empty eyes.
+text ~
+text That's why she never needed anyone else.
+text No, maybe she never knew about it.
+text "All they wanted of her was to be a superior killing machine.
+text That's why she doesn't know anything.
+text I don't mean something big like the meaning of life, but not even the small joy of just living normally."
+text ~
+text ~
+text ~
+text ~
+text ~
+text She was always so cheerful.
+text Even trivial things made her so happy.
+text ~
+text So I thought she was always like that.
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... But I was horribly wrong.
+text She really was---just enjoying those simple things.
+text She must have enjoyed those things so much.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Because it's so fun.
+text I never thought about how life could be fun just by living.
+text ~
+text ~
+text ~
+text ~
+text ~
+text Like it was an uneasiness she couldn't understand,
+text The classroom filled with the red setting sun where she asked me those questions with a reserved voice.
+text "Even though Arcueid has existed for so long, she knows less about living than we do.
+text If you convert it to the time she was allowed to move freely, it is amazingly short.
+text Her lifetime was spent almost entirely in sleep.
+text Most likely a deep, dark sleep."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Really?
+text I have enough fun just talking, you know.
+text "After dealing with all the fallen True Ancestors, she did not leave the castle.
+text Having fulfilled her purpose, the True Ancestors sought to educate her properly.
+text However, she could not be free.
+text Because of a slight mistake, she ended up killing all the True Ancestors remaining in the castle."
+text ~
+text ~
+text ~
+text ~
+text ~
+text Maybe the one that was taught how to kill vampires really did finish her job until the very end.
+text In the end, she was left alone.
+text "After killing all the True Ancestors, she sealed herself up in the castle.
+text In the empty castle of the True Ancestors, bound with a thousand chains.
+text Whenever Roa is reborn, she awakens from her sleep and moves around for a short time."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text In the middle of that fixed world,
+text She never said a single word.
+text "That's why she is a killer down to her very core.
+text Even though the True Ancestors which bound her are now gone, she still wanders around with the sole purpose of killing vampires.
+text She probably does not have any other fun."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text That's.. a lie.
+text That's not what made her happy.
+bgload IMA_11.jpg
+text "----"
+text ~
+text I wasn't.. watching anything.
+text ~
+text "----it."
+text ~
+text Like her words, or her happy face.
+text If only I looked closer----I would have known.
+text "-----of it."
+text ~
+text I never realized how alone she was until now.
+text ~
+text All the things we feel and take for granted.
+text Such as talking with a friend about meaningless things or the fun that lets you forget time.
+text ~
+text At the end of a day, lying down on a bed and the peacefulness of just staring at the ceiling.
+text ~
+text ~
+text ~
+text ~
+text ~
+text To her, those unimportant things were priceless moments of happiness.
+text "-----all of it."
+text ~
+text What is misery?
+text It's her not even knowing how miserable she is.
+text ~
+text Such a terrible--almost comical solitude should not exist.
+text "------Lies, all of it."
+text ~
+text .... Enough with all these difficult things.
+text I never knew she felt such happiness from trivial things.
+text If I could let her know that such things were things she could always enjoy, that would have been such a great----
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg CEL_T07B.png 52 0
+text "Tohno-kun----?"
+text Her voice returns my vision to normal.
+text "What's wrong?
+text You suddenly went quiet and spaced out.
+text Were you listening?"
+text "No---sorry, I don't remember.
+text I heard you speaking, but it felt like someone else was talking."
+text Senpai nods doubtfully.
+text "Um, in other words, she----"
+text "It's okay.
+text I don't care what she did or what she's like.
+text I can't leave her alone any longer, so I'll be going."
+bgload BG_29B.jpg
+text Turning away from Senpai, I start to walk towards the city.
+text "---Tohno-kun.
+text Once a True Ancestor fails to suppress the vampiric impulse, there is no hope for recovery.
+text If she appears in front of you, it means she came to drink your blood."
+text ~
+text I think what she says is the truth for her.
+text But it's a different truth than mine.
+text "That's not true.
+text Because she hasn't drunk blood yet."
+text "No.
+text If I had not have stopped her, she would have drunk your blood."
+text ".... You're wrong, because she stopped.
+text Arcueid was fine.
+text That's why even if you didn't stop her, the result would have been the same."
+text ~
+text ~
+text Yes, certainly.
+text She stopped right then.
+text ".... So you're going to be on her side no matter what, Tohno-kun?"
+text "Yeah.
+text Sorry, Senpai."
+text Senpai doesn't answer.
+text I think I hear her sigh.
+text "---We may end up fighting, you know."
+text "Maybe.
+text But, I won't apologize, Senpai."
+text ".........."
+text There's no response from Senpai.
+text Just her presence getting farther away.
+text Disappearing footsteps.
+text Without turning around, I head towards town, shrouded by night.
+bgload IMA_10.jpg
+music ~
+bgload BG_25B.jpg
+text ---There's no one on the main street.
+text Not Arcueid, not even just regular people.
+text "Damn------"
+text This is the same as last night.
+text I don't have any way of finding her.
+text Right now, even though I want to see her so badly, I don't have any means.
+text ~
+text ---She,
+text Even though she's in so much pain, I can't help her, at all----
+text "----Damn it!"
+text I'm so irritated, it drives me nuts.
+text Somehow---I have to find her somehow, or else I can't move forward---
+bgload IMA_10.jpg
+bgload BG_52.jpg
+bgload BG_24C.jpg
+bgload BG_12B.jpg
+bgload BG_25B.jpg
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text I gasp painfully.
+text Even though I ran all through the city, I don't see her.
+text My body is exhausted, and I can't get enough air.
+text I breathe harder.
+text The scar on my chest throbs with my heartbeat.
+text Until now---I've never hated this fragile body this much.
+text I hungrily breathe in air.
+text .... I can't find her.
+text I won't find her just running around aimlessly like this.
+text I struggle for breath.
+text If, if I have any chance of finding her, it would be---
+text ~
+choice Rush to the same alley as last night.|Wait here in the park.|Go to Arcueid's room.
+if selected == 1
+    jump s190.scr
+fi
+if selected == 2
+    jump s191.scr
+fi
+if selected == 3
+    jump s192.scr
+fi

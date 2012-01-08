@@ -1,0 +1,749 @@
+bgload BG_52.jpg
+text Surrounded by night, Arcueid walks down the street.
+text She looks straight ahead, her white figure with golden hair fluttering.
+text It bears a horrible resemblance to the first time I saw her.
+text No, or perhaps..
+text Perhaps it's like the time she faced off with Nrvnqsr.
+text ~
+text .... For some reason I have a bad feeling about this.
+text "Hey, Arcueid!"
+bgload BG_52.jpg
+setimg ARK_T22.png 36 0
+text "------"
+text Arcueid continues to walk without turning around.
+text "I want to talk to you.
+text You can at least tell me what you're going to do."
+text "------"
+text Of course, Arcueid just continues walking without turning around.
+text .... It'd be miserable if I left it like this.
+text I decide to follow her silently for now.
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text The footsteps echo through the night air.
+text ~
+text ---And then,
+text Arcueid suddenly stops and turns around.
+bgload BG_26A.jpg
+setimg ARK_T07.png 36 0
+text "Don't follow me.
+text Don't you understand it's troubling for a normal person like you to follow me around?"
+text "---So tell me what you're going to do and I'll go back."
+bgload BG_26A.jpg
+setimg ARK_T06.png 36 0
+text ".... It doesn't concern you, so leave me alone."
+text Arcueid strides off once more.
+bgload BG_26A.jpg
+text .... Crap.
+text It seems like our wordless wandering is going to continue.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text When we approach the main street, Arcueid freezes.
+bgload BG_25B.jpg
+setimg ARK_T22.png 36 0
+music 04.mp3
+text "---Found it."
+text "Eh...... ?"
+text Her voice is cold, like a totally different person's.
+text "----Ah."
+text .... A chill runs up my spine.
+text Even from behind, I can feel the hostility manifesting itself in her.
+text "Arcueid---What, are you--"
+text I can't even finish.
+text It's clear what she intends to do without saying anything.
+text Without a doubt, there is nothing but the pure, unadulterated intent to kill.
+text "Hey---what are you, thinking....!?"
+text "----"
+text Arcueid doesn't answer.
+text Her eyes are fixed solely on a man in a business suit walking by.
+bgload BG_25B.jpg
+setimg ARK_T06.png 36 0
+text "Shiki.
+text Take off your glasses and look at that person."
+text "That person---you mean that business man?"
+text "Hurry.
+text If you want to know what I'm doing, then leave the questions for later."
+text "----Alright.
+text I don't like to look while in town, but---"
+bgload BG_25B.jpg
+bgload BG_25B.jpg
+text I take off my glasses.
+text ".... Gah."
+text Instantly a light headache springs forth.
+text In exchange for the pain, I can see "lines" running all along the walls and the ground.
+bgload BG_25B.jpg
+bgload BG_25B.jpg
+setimg ARK_T01B.png 36 0
+text "Another question, Shiki.
+text You only see "points" on living things, right?"
+text "Eh---?
+text Yeah, that seems to be true.
+text Things like buildings only have lines."
+text .... I saw them back during the time in that hotel, but at the cost of a headache that almost caused me to pass out.
+text "Right, since you are a living being, you can't comprehend the death of inanimate objects.
+text So in order to "see" the death of inanimate objects, you must first connect to a circuit of the same orientation as them.
+text To "see", you have to "comprehend" them first.
+bgload BG_25B.jpg
+setimg ARK_T06.png 36 0
+text "Then another question.
+text Shiki, how does that person look to you?"
+bgload BG_25B.jpg
+text "----?"
+text It'll just be the same as always---
+bgload BG_25B.jpg
+setimg MAN_T03.png 47 0
+text "----!?"
+text Without thinking, I step backwards.
+text .... What is that?
+text Certainly, all humans have "lines" on them.
+text But they only have countable amounts and they also look like geometric patterns.
+text ~
+text But---what is that?
+text There are "lines" running all through him.
+text Those "lines" are all over him like blood vessels.. so much that I can't even make out his appearance.
+text "----Gah."
+text I want to puke.
+text Those, black "lines"----scribbles making a human shape.. everywhere throughout it, I can see "black points" that look like they are flowing blood---
+bgload BG_25B.jpg
+bgload BG_25B.jpg
+setimg ARK_T06.png 36 0
+text "Shiki, how does it look?
+text I was hoping it would look normal to you."
+text "------"
+text I can't answer.
+text Right now---it takes all my strength just not to vomit.
+text "---I see.
+text How unfortunate that you can even see death on that thing."
+text "Yeah.... it's not, normal, but.... I can, still see, the lines...."
+bgload BG_25B.jpg
+setimg ARK_T07.png 36 0
+text "I knew it---you can even kill The Dead.
+text The fact that they don't have any life has no meaning for you.
+text Something that moves, something that breaks, you can stop it completely without exception---You're more of a monster, Shiki."
+text "Eh-----"
+bgload BG_25B.jpg
+setimg ARK_T22.png 36 0
+text "As you saw, you can't call that thing human anymore.
+text It's a vampire that deceives death by sucking the blood of other people."
+text Arcueid quickens her steps.
+text She walks straight towards the man.
+text "Hey, Arcueid---"
+text "Stay there Shiki!"
+text Did that young man realize Arcueid was there?
+text He starts running towards a back alley.
+text Arcueid strides silently.
+text Underneath the moonlight, she disappears into that alley.
+bgload BG_25B.jpg
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text ~
+text ---Thump.
+text ~
+text The sound of my heartbeat is awfully close.
+text It's not even real late at night.
+text Even though I'm in the midst of a bustling shopping district, I can't sense anyone besides myself.
+text ~
+text ---THUMP.
+text ~
+text My glasses---I have to put on my glasses.
+text If I don't do that, I'll see terrible things.
+text I'll see something so terrible that everything I've seen so far would be nothing in comparison to it.
+text ~
+text ---Th, u, mp.
+text ~
+text But my body won't move.
+text My eyes that can see this patchwork world look towards that alley in fascination.
+music ~
+text "------"
+sound SE_02.aac -1
+text Suddenly, sounds vanish.
+text And the presence of other people,
+text the sound of the wind,
+text and the smell of the dirt.
+text ~
+text All of it freezes.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ------GI
+text Under the frozen moon.
+text A bizarre noise sounds from the other side of the wall.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text -----GO.
+text ~
+text ~
+text No way I can see it,
+text I can't hear anything.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ------A sickening sound
+text ~
+text ~
+text ~
+text ~
+text But I can see it.
+text My eyes definitely see the sound of death and death crashing.
+bgload BG_25B.jpg
+text "Gah---"
+text My vision turns crimson.
+text Why---do my eyes see "death", something that shouldn't be able to be seen?
+text "----"
+text My glasses.
+text I have to put on my glasses or I'll go insane.
+text ~
+text I hold back the rising gorge in my throat and use my shaking hand to put on my glasses.
+sound ~
+bgload IMA_11.jpg
+bgload BG_25B.jpg
+text Sound and light return.
+text Now that I'm calm, I glance around and see nothing out of the ordinary in the shopping district.
+text The bustling of many people passing by.
+text The brightness of a store's decorated show window and the sound of rushing car engines.
+text I'm panting excessively.
+text ~
+text I can hardly breathe.
+text Even though I put my glasses back on, I can still feel a lingering remnant of that "death" and it makes me sick.
+bgload BG_25B.jpg
+setimg ARK_T01A.png 36 0
+text Arcueid comes out of the alley.
+text There isn't even a trace of her previous hostility and she seems to be in a good mood.
+text ~
+text "Ar---cueid....?"
+bgload BG_25B.jpg
+setimg ARK_T03.png 36 0
+text "Huh?
+text Oh, I see.
+text I guess you really did stay here."
+text "Stay here, you...."
+text I can't go home after seeing something like that.
+bgload BG_25B.jpg
+setimg ARK_T13.png 36 0
+text "Huh, what's wrong, Shiki?
+text You don't look very lively."
+text "---Don't worry about it, it's just my anemia.
+text More importantly Arcueid, what was that all about?"
+text I look at Arcueid as I grab her arms.
+bgload BG_25B.jpg
+setimg ARK_T14.png 36 0
+text "Wh---Shiki, what are you doing all of a sudden?
+text If you're hurt, I can take you to your house."
+text "No thanks, I'm fine, so tell me what was that person?
+text You've shown me this much, so if you say this has nothing to do with me, I'll punch you, Arcueid....!"
+text I approach her, ignoring the fact I can barely breathe.
+bgload BG_25B.jpg
+setimg ARK_T06.png 36 0
+text "-------"
+text Arcueid's expression instantly turns serious.
+text But, I have no intention of backing down.
+text After a brief stare-off, she gives a sigh.
+bgload BG_25B.jpg
+setimg ARK_T14.png 36 0
+text "Fine, you're awfully persistent, Shiki."
+text ".............. Well forgive me for being so persistent."
+bgload BG_25B.jpg
+setimg ARK_T01A.png 36 0
+text "Idiot, that was a compliment.
+text --Then, shall we go somewhere else to talk?"
+text "Somewhere else?
+text Why?"
+bgload BG_25B.jpg
+setimg ARK_T03.png 36 0
+text "You want me to tell you about it, right?
+text So not here, let's go back to the park.
+text Shiki, can you walk?"
+text "Oh.... D, don't make fun of me.
+text This anemia is just an everyday thing."
+bgload BG_25B.jpg
+text "Awwww," Arcueid says regretfully as she smiles and starts to walk.
+text I walk behind her and resist the urge to pass out.
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+music 02.mp3
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Well, as you wish, Shiki, let's talk about anything.
+text If you want to ask something, feel free."
+text "Then I'll ask, but just what was that guy earlier?
+text You said he was a vampire, was he what you were after?"
+bgload BG_28B.jpg
+setimg ARK_T01B.png 36 0
+text "No, he certainly is part of my target, but putting The Dead back into the grave isn't my goal.
+text I only got him because he was a minion of my 'enemy'.
+text If I left him alone, he would kill more people to increase his power."
+text ".... Arcueid.
+text Um, could you explain it so I can understand?
+text I don't even know if that guy was even human or not."
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Oh.
+text I guess I never really did explain to you in detail about vampires.
+text Nrvnqsr was sort of an aberration amongst the vampire race, so I didn't really need to explain it at that time."
+text "....?
+text What is a normal vampire then?"
+text "What I mean is what you all think of vampires.
+text Immortal, never aging, sucking human blood, turning that human into a vampire, being destroyed by sunlight, all of that.
+text My 'enemy' is that old type of vampire."
+text ".... Um, so you mean this 'enemy' of yours is the one behind all the recent serial killings?"
+bgload BG_28B.jpg
+setimg ARK_T06.png 36 0
+text ".... I suppose.
+text But the killing of all those people by sucking their blood might be the work of "The Dead" like the one you saw earlier.
+text Shiki, you remember how Nrvnqsr's body was made of all those familiars, right?"
+text "---Yeah, that's not exactly something I can easily forget."
+bgload BG_28B.jpg
+setimg ARK_T02.png 36 0
+text "The Dead are like that.
+text When humans have their blood sucked by a vampire, they can also receive some of the vampire's blood.
+text They die, but remain in this world as a servant of the vampire.
+text They are called The Dead and they are like the vampire's familiars.
+text Ah, maybe it's easier to understand if I use the word zombie.
+text It's closer to the voodoo belief in Haiti where the white serpent-god Damballah is invoked to control a dead body, but let's just say a dead body that moves is a zombie, okay?"
+text ~
+text ---Yeah, I can visualize it better that way.
+text "I get it, so that man was killed by a vampire, who uses him as a zombie?"
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, yes," Arcueid nods happily.
+text "---I'm still confused though.
+text Why would a vampire do that?
+text Killing people---not letting them die but controlling them, what bad taste."
+bgload BG_28B.jpg
+setimg ARK_T02.png 36 0
+text "You're right, those vampires do have bad taste.
+text But that's something only the Dead Apostles do.
+text Those that were always vampires from the very beginning do not do such things."
+text ~
+text "----?"
+text Always vampires from the very beginning ....?
+text ~
+text "---I remember.
+text You said there's two types of vampires, those who were vampires originally, and those who were humans.
+text .... When I heard that before, it kind of stuck in my head, I thought it was a little odd.
+text So what exactly do you mean by those who weren't originally vampires?"
+text "Simple, I'm just saying that Dead Apostles used to be humans.
+text They either gained immortality through magic or became servants of the True Ancestors that sucked their blood.
+text .... Shiki, you said it was bad taste to use killed humans, but that's just the least of it.
+text There are other vampires who think up of worse games."
+text "---A game---what is that?
+text You guys kill for fun, and use their dead bodies as toys....!?"
+text ".... I won't deny that.
+text For vampires, "amusement" is the same as breathing.
+text For those who were once human but gain imperfect immortality, their greatest enemy is boredom.
+text They didn't have a reason to become immortal to start with, so once they gained immortality, they lost all kinds of greed.
+text Their goal was immortality itself, so I guess that's just the way things are."
+text "----They're bored so they want to play?
+text Don't be ridiculous.
+text Isn't it enough that they won't age or die?
+text Do they really need anything else?"
+text "That's what I said, they got everything they wanted.
+text After that, there is no meaning to existence.
+text As soon as someone realizes they have no value---that their life is stopped, then their meaning of existence disappears too.
+text Immortality is also another word for death."
+text "So they started to wear down and they started to create their own amusement, as if to tell themselves they could have fun as long as they lived.
+text ---That's their beginning.
+bgload BG_28B.jpg
+setimg ARK_T01B.png 36 0
+text "They copy humans and see themselves in a game as lords of a castle expanding their territory.
+text I guess you could call it a country of The Dead.
+text It seems they got more enjoyment out of that than they expected."
+text ~
+text .... She speaks as if she was talking of other people.
+text Arcueid should be one of those, but she certainly doesn't seem like she has that sort of hobby.
+text "Well, we'll change the topic, but the Dead Apostles were originally human.
+text There are a few cases where they became vampires through their own magical research, but the majority of them were humans who had their blood sucked.
+text They are immortal, but they can't last forever.
+text They can only be immortal if they drink the blood of others.
+text Didn't I say their immortality was imperfect?
+text If they can't feed on humans then their immortality is gone."
+text "But, if they openly fed on humans, then the existence of "vampires" would be revealed.
+text Even if they don't, just by being there, they distort the world around them.
+text That would attract the attention of agents of the Church, like Ciel."
+text ".... Um, so you mean that vampires can't do what they want?"
+text "Yes, if they break their agreement with the Church and move about freely, they would be immediately discovered and annihilated.
+text So the majority of the Dead Apostles make subordinates that can bring them blood as they sleep.
+text Sucking blood and giving the dead body some blood of their own, they create their minions who do their work for them.
+text We simply call those "The Dead."
+text ".... Hmm.... So what you killed before was kind of like a soldier for the Dead Apostles?"
+bgload BG_28B.jpg
+setimg ARK_T02.png 36 0
+text "Not so much a soldier as a puppet.
+text The Dead Apostles control the dead bodies by skipping the process of becoming a vampire.
+text The Dead are completely connected to their parent vampire.
+text In order for them to survive, they attack others to eat their flesh, but more than half of that energy goes to their master.
+text Like a queen bee nourished by the worker bees, the Dead Apostles can use The Dead to increase their power while they sleep."
+bgload BG_28B.jpg
+setimg ARK_T06.png 36 0
+text ".... My 'enemy' can't be found easily because he's using a lot of The Dead.
+text He only dirties his hands once.
+text After that, he simply controls The Dead while he sleeps and expands his territory.
+text ---They say many bodies are found in the recent supposed serial killings, but those are actually just failures.
+text To tell the truth, there are over a hundred victims in this city.
+text But only a small amount, the ones discovered, are the victims in the news."
+music ~
+bgload BG_28B.jpg
+text "Wha----"
+text ~
+text Over a hundred---?
+text There are that many that had their blood sucked?
+text And all those people suck the blood of others to make them into monsters like themselves, like that wandering, lifeless thing earlier---
+text "...... That's ridiculous."
+text Three days ago.
+text I remember how all those people in the hotel were killed for no reason.
+text I was there but I didn't see it, so I can only visualize and can't really tell what kind of violence it was.
+text It's still the same.
+text I can't fathom the existence of vampires that suck human blood, just to increase their own territory.
+text ---Just,
+text without reason, without even recognition, if someone close to me died liked that, how would I act?
+text I don't want to imagine it, but just a bit.
+text I imagine Akiha being drained of blood and discarded like trash.
+text ~
+text "K----"
+text What makes me mad---is that this worst case scenario could happen at any minute in this town and I didn't even have a clue about it before.
+bgload BG_28B.jpg
+setimg ARK_T10.png 36 0
+text "I knew you would be angry, Shiki.
+text .... I didn't want to talk about it, because for the prey---for you guys, this is an inexcusable evil.
+text This is not something you want to hear, is it?"
+text ".... That's right.
+text After hearing this, I don't know what to do now."
+text .... That's right.
+text There's no way I can live in peace like I did until now, knowing that someone I know may become a victim tomorrow.
+text Since I found out about it,
+text I have to fight this vampire just like I did Nrvnqsr.
+bgload IMA_10.jpg
+bgload event/NERO_E04.jpg
+text ".......... Da--"
+text ~
+text Such a fight.
+text Do I have to fight again like that when it almost makes me go insane?
+bgload IMA_10.jpg
+bgload BG_28B.jpg
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+music 09.mp3
+text "Oh, Shiki, you're making that face again.
+text You can relax.
+text Even though the avowed enemies of the vampires do not have a presence in this country, I'm still here.
+text Didn't I say earlier my purpose was to execute vampires?"
+text I don't know where that heavy atmosphere went because Arcueid instantly becomes cheerful.
+text "Yeah, I remember.
+text .... But, you're a vampire too, right?
+text Why do you side with us humans?"
+text "I'm not really siding with you humans, but I'm doing it because I don't have anything else to do."
+text "----?"
+text She doesn't have anything else to do?
+text I still don't understand her.
+text "Well, doing that does bring the Dead Apostles after me, but you beat Nrvnqsr who was pursuing me, didn't you Shiki?"
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "So now I can go back to the original plan and defeat my 'enemy'.
+text You can go back to living your normal life now, and you don't have to associate with me anymore."
+text She smiles as if she is happy about something.
+text ".........."
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "Shiki?
+text Why are you making that troubled face again?"
+text "Because I'm troubled.
+text This is something that involves the city I live in."
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "I said you shouldn't worry.
+text In two or three days it'll all be over, so there won't be any more victims."
+text ~
+text Yeah, honestly, I don't want to be involved.
+text ---But, saying that line..
+text Shouldn't I, the one actually living in this city, say that line instead of Arcueid?
+text ".... Arcueid.
+text Um, can I ask a question?
+text This 'enemy' you speak of, is he strong?"
+text "Well, he should be many times superior than The Dead earlier.
+text I haven't met him this time, but he has been latent for eight years so maybe he's a Class Five by now."
+text ".... Class Five?
+text I don't get it, but does that mean he's stronger than Nrvnqsr?"
+text "Not a chance.
+text Nrvnqsr was special.
+text He was a pure, supreme vampire that would be difficult to defeat even with my full power.
+text Compared to him, this enemy is pretty weak."
+text "----Oh.
+text Then---there's no way you'll be defeated."
+text I breathe out in relief.
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "Hm, who knows?
+text A few days earlier and he wouldn't be a problem, but now I'm just recovering.
+text The possibility that he has more power is actually high."
+text ".... Recovering?
+text Are you sick or something, Arcueid?"
+text "Yeah, I still have the effects from when you killed me and I don't think I'll be fine for at least a few more days."
+text "----Ah."
+text That's right--the reason why Arcueid is weak.. it isn't anyone's fault but mine.
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "But it's okay.
+text I'll defeat him for sure even if it kills me, so you don't need to worry about this city."
+text ".... Idiot, the one I'm worried about is you."
+bgload BG_28B.jpg
+setimg ARK_T11.png 36 0
+text "Eh?
+text Why are you worried about me, Shiki?"
+text Her eyes display true confusion.
+text .... Well, of course I'm worried.
+text I was relieved to hear that this enemy was weaker than Nrvnqsr, because I thought there would be no chance of Arcueid being defeated.
+text Arcueid..
+text I don't even want to imagine Arcueid getting hurt.
+text "............"
+text It really is weird.
+text Why---why can I not leave her alone?
+text Certainly I have the responsibility to bear for killing her.
+text I also feel guilty that she is weak right now because of that.
+text But, even if that wasn't the case, I still couldn't leave her alone.
+text ---I thought about it before too, but....
+text as expected, this might have nothing to do with logic.
+text .... More than the fear that I may even die..
+text The emotion that I want to help Arcueid is much stronger.
+text "About what we talked about before, Arcueid."
+text "About what?"
+text "You know, about whether I was Senpai's or your ally."
+bgload BG_28B.jpg
+setimg ARK_T06.png 36 0
+text "Wait, please hear me out.
+text You know, um---you certainly don't have any common sense, you're selfish, and you're hard to handle."
+bgload BG_28B.jpg
+setimg ARK_T05B.png 36 0
+text Arcueid looks at me with a sour expression.
+text Ignoring it, I let my true feelings out.
+bgload BG_28B.jpg
+text ".... But, well, it really isn't boring when I'm with you.
+text I like you.
+text So, can I see it out until you defeat this enemy .... What I mean to say is that, I won't be Senpai's ally, but yours.."
+text I steal a glance at Arcueid's face.
+bgload BG_28B.jpg
+setimg ARK_T12.png 36 0
+text "------Really?"
+text Looking very surprised, she hesitantly returns my gaze.
+text ".... Well, yeah.
+text Even I think there's something wrong with me, but I'm already a part of this.
+text And, I can't just overlook the problems going on in the city I live in."
+text "So, you mean---"
+text "Yeah.
+text If you're still weak, and if you say you need my power, I'll work with you.
+text .... Um, I might be just a burden, but.."
+bgload BG_28B.jpg
+setimg ARK_T09.png 36 0
+text "Yeah---!
+text If you help me, there's nothing we can't do---!"
+text .... Her face beams brilliantly and she seems extremely happy.
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "But, is it okay?
+text Shiki, you may have to face death again."
+text "I'm ready.
+text And, I think that's why I have these eyes to begin with.
+text ----When I was a child, someone told me this.
+text That if I have the power others do not, I should do things that others cannot.
+text I think this is that kind of thing."
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "Oh?
+text .... I don't really know your circumstances."
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "But, that sounds good."
+text .... Arcueid is in an incredibly good mood.
+text And being with her puts me in a good mood as well.
+music ~
+text "But, what do we do now?
+text Do you want to search for more of The Dead like before?"
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah, I think that's all we can do for now.
+text The one before was the twelfth, so I don't think there's much more.
+text The parent vampire will have to come out once they all are destroyed, so we have to hunt the remaining ones for now.
+text Is that still okay?", she asks.
+text "Anything is fine, I'm just with you.
+text If you lead, then I'll follow.
+text --Well, shall we start again?"
+text "Ah, no, that's good for tonight.
+text They usually follow a fixed route, and the other Dead will probably not be out tonight.
+text Since they are fewer in number, I don't think he'll let them all come out at once."
+text "---Oh really?
+text But, doesn't that mean this 'enemy' will try to hide The Dead from you, Arcueid?"
+text "Basically.
+text But since this 'enemy' is a vampire, he needs to steal the blood and energy of others.
+text So, even though he knows I'm searching for them, he has to send The Dead out to get the minimal blood he needs."
+text ~
+text ---*sigh*
+text Then, the minimal Dead he sent out was that man from before, huh.
+text "So, searching further tonight will be useless, I think."
+text ".... Well, I don't mind.
+text It is tedious though."
+text "Yeah, hunting vampires is tedious work.
+text We have to find the coffin of this 'enemy' somewhere in this city, so it won't be easy."
+bgload BG_28B.jpg
+text Arcueid lets go of my hand and jumps back softly.
+text "Arcueid....?"
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Let's say goodbye for tonight.
+text We'll meet tomorrow.
+text With her dance-like steps, she watches me as she gets farther away.
+text "Tomorrow---wait, where should we meet....!?"
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "Here's fine.
+text The time---yeah, around ten o'clock should be fine."
+text With a smile, she makes that promise.
+text "Good night, Shiki.
+text I'll see you here tomorrow!"
+text And,
+text aacing her hand, Arcueid disappears.
+bgload BG_28B.jpg
+bgload IMA_10.jpg
+bgload BG_32D.jpg
+text ---I get back to the mansion.
+text It's about one-thirty in the morning.
+text The mansion is completely dark.
+text ~
+text "...... This can't be good."
+text I put my hand on the mansion gate.
+text Ka-chang.
+text A sturdy chain holds it closed.
+text ~
+text "---Dang.
+text I shouldn't cut this."
+text I think a bit.
+text Then, I decide to climb over the gate.
+bgload BG_48D.jpg
+text .... I'm exhausted.
+text After sneaking over the wall like a thief, I quietly make my way to the doorway.
+text The gate was locked, but the door isn't.
+text ".... It must have been Hisui."
+text I give a sigh of thanks.
+text ~
+text So as not to wake Akiha, Kohaku-san or Hisui, I sneak my way through the mansion.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text "------Whew."
+text Letting out a breath, I lay down on my bed.
+text "............"
+text My promise to Arcueid.
+text Maybe it's fate, but you've gotten yourself tangled up in trouble again, Tohno Shiki.
+text ~
+text "----Could I help it?
+text I just can't leave her alone."
+text Or maybe I didn't want to leave her alone?
+text "Well.... I do like Arcueid."
+text But is that love?
+text I don't even know my feelings.
+text At any rate, it looks like I'll be helping Arcueid once again starting tomorrow.
+text So for now, I shouldn't think of anything else but getting a good night's sleep----
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ~
+text ---I can't sleep.
+text If I close my eyes, so many things come to mind.
+text About Arcueid.
+text About this vampire lurking the streets.
+text .... About the black-clothed Senpai.
+text "----"
+text .... I can't sleep.
+text At times like this, reading is good.
+text I know there was a book I was reading before----
+bgload IMA_10.jpg
+bgload CMO_15.jpg
+sound SE_11.aac -1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text The first feeling was rather one of pity.
+text ~
+text Not anger, not despair.
+text Just, I thought everything before my eyes was pitiful.
+text (Of course, the most pitiful thing is myself.)
+text Life which breaks down without limit.
+text Daily life which fades without limit.
+text Time which is forgotten without limit.
+text ~
+text Everyone only falls.
+text And yet everyone still struggles desperately to continue existing, and when they judge that it is not possible, they continue to reproduce.
+text Continuing to reproduce.
+text In the end, even that dies, but there is no recompensation.
+text Of course, it is not those who die who are not recompensated.
+text We had no hope to begin with.
+text What is not recompensated are the attempts.
+text The noble wish, the yearning for eternity which everyone longs for yet can not achieve.
+text ~
+text I have no interest whatsoever in the things that break down.
+text If I could see death and understand it, maybe I'll take a bit of an interest.
+text ~
+text A repetition nearly impossible to measure, yet this wish repeats itself.
+text I thought to replace this almost-comical cycle of wishes with one pure thing.
+text ~
+text There is no need to state the method.
+text A wish becomes a result after it is granted.
+text ~
+text I lived solely for that reason.
+text It could not be termed "conviction".
+text Just, the first word I learned happened to be "eternity".
+bgload IMA_10.jpg
+bgload CMO_10.jpg
+text .... Oh?
+text So you intend to get the eternity closest to you?
+text Of course not.
+text They are only a species that age slower and die harder.
+text I am becoming one of them only because this body has reached its limit.
+text If I am to go farther on, it will take time in this body.
+text It's ironic that you, the one that goes after eternity, hurries with things.
+text So you plan on leaving here tomorrow?
+text I'll leave the Burial Agency to you.
+text In the first place, there is only one empty seat for the priesthood.
+text I used up all my father's inheritance getting this far, so it is about time I quit.
+text .... Well, that's fine.
+text So you are going to complete your magic theory.
+text I have no intention of leaving here, and I can't live with you.
+text Well, fortunately, I am a woman.
+text I'll quickly bear a child and tell it all about you.
+text Oh?
+text What will you tell it, Narbarek?
+text Let's see.
+text I'll tell it something like--After around a hundred years, another newcomer Dead Apostle will appear.
+text It is pointless to take notice of him, so ignore him.
+text No, you wouldn't need to wait a hundred years.
+text Just like here, I will rise quickly to the top.
+text This body will become the most superior vampire, so ten years will be enough.
+text How foolish.
+text Even if it is you, you would need at least a hundred years if you start over from The Dead.
+text Their world's intensity is nowhere as nice as ours.
+text Using direct methods, then you would be right.
+text But if I become the strongest vampire from the very beginning, their world's rules will not apply to me.
+text .... What do you mean by that?
+text It is simple.
+text As a priest of the Church, you certainly know that Dead Apostles' powers are affected by the True Ancestor that sucked their blood.
+text Therefore---the solution is very simple.
+text ~
+text ~
+text If I wish to become the strongest Dead Apostle,
+text this blood of mine,
+text it must be sucked by the strongest of the True Ancestors---
+sound ~
+bgload IMA_10.jpg
+jump s260.scr

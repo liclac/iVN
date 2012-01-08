@@ -1,0 +1,6 @@
+bgload BG_40B.jpg
+text Well, I don't exactly have anything in particular to do, so I'll just take it easy in my room.
+bgload IMA_10.jpg
+music ~
+setvar flgS + 1
+jump s338.scr

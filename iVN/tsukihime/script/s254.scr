@@ -1,0 +1,58 @@
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+text Arcueid looks up at me full of amusement.
+text "Uh----"
+text She's acting like the Arcueid from last night's dream.
+text ~
+text "It doesn't concern you, so leave me alone."
+text I look away from her and refuse.
+text But Arcueid keeps saying "Come on, come on," over and over.
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "Come on, tell me.
+text You can at least tell me who you dreamed about."
+text She asks like a curious kid.
+text Every time I turn away she keeps jumping in front of me, saying "Come on, come on."
+text ~
+text .... This is pure torture.
+text She's as mischievous as last night's dream.
+text I bury my face in my hands.
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Hey Shiki, don't be quiet and tell me."
+text Arcueid keeps looking at me with those upturned eyes.
+text ---I can't, God.
+text This is my limit.
+text ~
+text ".... You."
+text I hesitatingly let it out in a quiet voice.
+text "---Eh?
+text What about me?"
+text "Don't make me say it again.
+text I'm saying that it was you who came!"
+text I shout angrily as I look away.
+text Arcueid's eyes widen in surprise.
+bgload BG_29B.jpg
+setimg ARK_T13.png 36 0
+text "M, me....?"
+text "Yeah, it's not a joke.
+text You came, and----"
+text There's no way I can finish.
+bgload BG_29B.jpg
+setimg ARK_T10.png 36 0
+music ~
+text "Ah----"
+text Now Arcueid looks away from me, looking very uncomfortable.
+bgload BG_29B.jpg
+text ~
+text "............"
+text "............"
+text Neither of us know what to say.
+text The uncomfortable silence continues.
+text ....
+text ........
+text ..............
+text ....................
+text .......................... *ahem*
+text I can't bear the silence any longer and force out that cough.
+jump s256.scr

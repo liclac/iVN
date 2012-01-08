@@ -1,0 +1,133 @@
+bgload IMA_10.jpg
+bgload CMO_14.jpg
+text I'm in a dark place.
+text Eight years since I awoke.
+text I've been holding my breath in darkness the whole time.
+text I don't even know why.
+text That has long since been worn away.
+text Here, there is only darkness.
+text But, I know there is something I have to do.
+text I don't know why I live.
+text But I know my purpose.
+text The chains which held me are all gone.
+text There is nothing holding me back.
+text ~
+text All that's left,
+text ~
+text is killing you.
+bgload IMA_11.jpg
+bgload BG_40E.jpg
+text ~
+text Tweet.
+text Tweet tweet.
+text Chirp.
+text Chirp.
+text ~
+text Is the window open?
+text I can hear the voices of small birds coming from the garden.
+text ~
+text A cool breeze brushes my face.
+text The brilliant sunlight hits my eyes.
+text A quiet, delicate tinge.
+text ~
+text A gentle, morning visit.
+bgload BG_40A.jpg
+music 02.mp3
+text Morning?
+text It seems I slept until now after Akiha treated me.
+text My body still feels a little heavy.
+text But still I feel much better than last night.
+text Opening my eyes, I get up.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+text "Ugh........"
+text I feel like throwing up instantly.
+text I still have my anemia from yesterday?
+text My chest hurts and I feel sick.
+text ~
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Please excuse me."
+text Hisui enters my room.
+text She must've thought I was still asleep because she seems surprised to see me up.
+text "Good morning.
+text It seems you have awakened, Shiki-sama."
+text "----"
+text For some reason,
+text Hisui's reaction annoys me.
+text "Morning.
+text Breakfast, right?
+text I'll be there soon, so just get out.
+text I'm going to change."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes, please excuse me."
+bgload BG_40A.jpg
+text ".........."
+text No matter how poor of a mood I'm in, letting it out on Hisui like that.. there's something wrong with me.
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+text "----"
+text I feel sick.
+text Even if I go to school like this, I won't be able to do anything.
+text ~
+text ".... Maybe I'll just stay home."
+text But, I have to go.
+text If I go to school, I may see Senpai again.
+text .... She may not be the "Senpai" I want---but she may still be there.
+text ~
+text "-----Whew."
+text Taking a deep breath, I settle down.
+text Managing to resist my dizziness, I leave my room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg AKI_T16A.png 40 0
+text "Oh, Nii-san.
+text .... Good, morning."
+text .... As soon as I enter the sitting room, Akiha greets me hollowly.
+text ".... Yeah, morning.
+text You're up early Akiha."
+text "I am always up this early but.... Nii, san?"
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text ".... Are you alright?
+text Your face still looks pale.
+text If you do not feel well, you can stay home---"
+text "No, I'm fine.
+text I'm better, so you don't need to worry."
+text I answer her quickly and pass right by.
+text I head to the dining room since I'll probably collapse if I don't eat.
+text "See ya.
+text Isn't it about time for school?"
+bgload BG_34A.jpg
+setimg AKI_T17A.png 40 0
+text "............ Yes.
+text Then, I will be going now."
+text Speaking hesitantly, she stands up quietly.
+bgload BG_34A.jpg
+text Akiha exits the sitting room.
+text After watching her go out of the corner of my eye, I enter the dining room.
+music ~
+bgload IMA_10.jpg
+bgload BG_23A.jpg
+text I leave the mansion and head for school.
+text My limbs are still heavy, and with a feeling like I'm in someone else's body, I go down the hill.
+bgload BG_01A.jpg
+text It's seven-forty.
+text The gate becomes congested with students hurrying to class.
+text ~
+text "............"
+text I don't think Senpai will come, but is waiting here better than waiting in my classroom?
+text ~
+choice Wait here.|Go to the classroom.|Go behind the school.
+if selected == 1
+    jump s274.scr
+fi
+if selected == 2
+    jump s275.scr
+fi
+if selected == 3
+    jump s276.scr
+fi

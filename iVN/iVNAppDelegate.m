@@ -7,14 +7,18 @@
 //
 
 #import "iVNAppDelegate.h"
+#import "GameViewController.h"
+#import "MainMenuViewController.h"
 
 @implementation iVNAppDelegate
 
-@synthesize window = _window;
+@synthesize window;
+@synthesize navigationController;
+@synthesize mainMenuViewController;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-	// Override point for customization after application launch.
+	[self.window addSubview:navigationController.view];
 	[self.window makeKeyAndVisible];
     return YES;
 }
@@ -60,7 +64,9 @@
 
 - (void)dealloc
 {
-	[_window release];
+	[window release];
+    [navigationController release];
+	[mainMenuViewController release];
     [super dealloc];
 }
 

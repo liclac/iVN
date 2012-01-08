@@ -1,0 +1,15 @@
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text I decide to eat in the chaotic, student-filled cafeteria as usual.
+text ~
+text For some reason, the udon and the soba are better than the meal sets at our school, so naturally I decide to have some udon.
+text Sitting down at the table, I eat my tanuki udon.
+text The cafeteria's TV is showing the news.
+text The TV was set up so students can watch the recorded morning news during lunchtime.
+text The news is having a special feature on the serial killings.
+text It's been a whole month since the killings started, but no one yet has any idea who this killer is.
+text He is an unidentified killer, leaving no trace and acting with no motive.
+text His identity still remains a mystery, even though there has already been eight killings in our little town alone.
+text It's certainly very frightening, says the newscaster.
+bgload IMA_10.jpg
+jump s65.scr

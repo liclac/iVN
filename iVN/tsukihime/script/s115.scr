@@ -1,0 +1,6 @@
+bgload BG_06B.jpg
+text .... Yeah.
+text I would feel bad if I kept causing trouble for Hisui and Kohaku-san.
+text Since I wasn't able to go home for the past few days, I should at least go straight home today.
+bgload IMA_10.jpg
+jump s116.scr

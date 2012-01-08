@@ -1,0 +1,28 @@
+bgload BG_06B.jpg
+text I don't feel like returning to the mansion directly, so I'll wander around the city for a bit.
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+text ---I arrive in front of the station for no apparent reason.
+text ~
+text Ever since I was invited back to live in the Tohno mansion, I've been low on money, so I really don't want to spend any money here.
+text When I lived at the Arimas, Keiko-san would always give me some money for cleaning or tending the garden.... but now that I'm at the mansion, I don't think I can hope for that kind of income.
+text I'd like to do a part time job, but Akiha would never allow it.
+text ............ *sigh*
+text Reflecting on my complicated situation, I let out a sigh.
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+text Not doing anything, I watch the people passing by.
+text I pass the time like that for an hour until I realize how pointless it is.
+text ".... What the heck am I doing?"
+text I don't know for sure myself.
+text Was I thinking that I would see someone with golden hair walking by if I watched all these people?
+text ".... How stupid.
+text You'll never see Arcueid again, Shiki."
+text I stop leaning on the wall and head back to the mansion.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+text I walk up the road and back to the mansion.
+text It's not quite six o'clock yet.
+text There's still an hour until dinner, so I'll kill some time in my room---
+bgload IMA_10.jpg
+jump s253.scr

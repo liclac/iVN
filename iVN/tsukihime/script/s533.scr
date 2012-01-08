@@ -1,0 +1,25 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Bonjour!
+text Now the hint corner for Tohno-kun who has met yet another Dead End,
+text It is time for "Teach me, Ciel-sensei!"
+text The second period lesson of the third day will be about filial love.
+text The reason you died this time is simple, Tohno-kun.
+text There wasn't enough incentive in you to pull Yumizuka-san off of you the instant she bit you.
+text Bonds of family are very important.
+text Classmates are also important.
+text You have to make sure you concern yourself with being a good Onii-chan, and you have to somehow answer your classmate's love.
+text Yes, you have obligations to both of them.
+text So a little piece of advice.
+text Tohno-kun, it's probably good if you go back and show Yumizuka-san some sincerity.
+text ~
+text Well then, let's meet again in the next lesson, everyone.
+bgload IMA_10.jpg
+music ~
+jump main.scr

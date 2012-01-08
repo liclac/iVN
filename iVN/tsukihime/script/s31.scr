@@ -1,0 +1,56 @@
+bgload BG_06B.jpg
+text The last class of the day ends.
+text I don't feel like going to the mansion right away, so I just blankly stare out of the window overlooking the school grounds.
+text The classroom is dyed orange by the sunset.
+text It's like red watercolor paint, and it hurts my eyes.
+text ~
+text .... I don't like red.
+text It feels like it soaks deep into the back of my eyes and I want to throw up.
+bgload IMA_08.jpg
+text It seems I am weak against things that resemble blood.
+text No, I should say I am weak against blood itself.
+text Eight years ago, I had a near-death experience.
+text I was in an accident where I was injured in the chest and I teetered between life and death for days.
+text I should've died instantly.
+text But, miraculously, I survived.
+text Maybe it's because of the great medical treatment.
+text However, the injuries were so severe that I don't even remember the accident.
+text Eight years ago, when I was a child.
+text I felt a "thud" pass right through the middle of my chest, then I passed out.
+text When I woke up, I was in a hospital bed.
+text All I could remember afterwards was the pain and the cold.
+text ~
+text I don't remember much of the accident, but even today, the scar on my chest remains.
+text I guess numerous fragments of glass pierced my chest, leaving burn-like scars there and in my back.
+text .... Actually, I was quite surprised at being saved.
+text Ever since then, I frequently collapse from an anemia-like dizziness, and cause a lot of trouble for others.
+text Maybe that's why my old man believed I was unfit to be heir to the Tohno household and entrusted me to our relatives.
+text ~
+bgload BG_06B.jpg
+text ".... The wound on my chest, huh."
+text The huge scar in the middle of my chest, hidden from view by my uniform.
+text Now that I think about it, after that accident was when I started to see those "lines".
+text I am able to forget them, thanks to the glasses that Sensei gave me.
+text But I think I would have completely gone mad if I never met her.
+text Keiko-san---the person who had been my mother up until now, said when I left that the Tohno household wasn't "normal".
+text ~
+text ".... No problem.
+text I'm not a 'normal' person myself."
+text ~
+text Adjusting my crooked glasses, I pick up my bag.
+text I can't stay in the classroom forever.
+text Now then---
+text ~
+choice Get a hold of myself and head back to the mansion.|Stay in school for a little longer.
+if selected == 1
+    if flgM >= 1 
+        jump s35.scr
+    fi
+    if akiha_regard >= 1 
+        jump s502.scr
+    fi
+    jump s36.scr
+fi
+if selected == 2
+    jump s33.scr
+fi

@@ -1,0 +1,83 @@
+bgload IMA_11.jpg
+music 02.mp3
+text @Day X
+text ~
+text ~
+text "Shiki-sama, it is morning.
+text Please wake up."
+text ~
+text .... I hear a familiar voice.
+text ~
+text "Shiki-sama.... Please wake up.
+text If you are late like yesterday, you will break your promise with Akiha-sama."
+text ~
+text .... A voice partly tense, partly relaxed.
+text "Shiki-sama.
+text Is it okay?
+text Akiha-sama will end up scolding you again."
+text ~
+text .... No, it's not okay at all.
+text ~
+text ".... I'm up.
+text I'm up, so hold on."
+text Still under the sheets, I respond as I slowly open my eyes.
+bgload BG_40A.jpg
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text "Ah, mornin'."
+text I give a sleepy greeting in response and put on my glasses.
+text It's past seven in the morning.
+text Hisui came at her usual time and managed to wake me.
+text ~
+text "I will prepare your breakfast.
+text After changing, please head towards the dining room."
+bgload BG_40A.jpg
+text Hisui disappears from the room after a bow.
+text I give a big yawn.
+text After a nice stretch, I get up from bed.
+text I change into my school uniform and cast a glance at my desk.
+text .... On top is the knife I will not ever use again.
+text The curtains sway in the wind.
+text Hisui must have opened the window; the sky is refreshingly clear.
+text It's just a little cold, though.
+text ~
+text I approach the window to close it.
+bgload IMA_03.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---As it turned out,
+text I ended up waking in my own room.
+text It seems Senpai carried me here.
+text Fortunately, Akiha and the others didn't know I left.
+text It's been one week since that night.
+text Tohno Shiki's life hasn't changed a bit from what it was before.
+text My relationship with Akiha is a bit uneasy at times, but of course we're brother and sister.
+text Except for that passageway being repaired, the school has not changed at all.
+text ~
+text .... No, it did change.
+text At school, there's no senpai called Ciel anywhere, nor does anyone remember her.
+text The instances of serial murders haven't occurred once since then.
+text Since there's been no official arrest, the city streets are still relatively empty at night, but it'll probably return to normal in a month.
+text As for me,
+text I carry an unfillable void in my heart, but I continue on as I did before.
+text .... or rather, I can bear it all.
+text At times, I get overwhelmed when I am assailed by memories, but I don't think I'll go insane or anything for now.
+text ~
+text Some day.
+text Will I go crazy after not being able to bear these memories, or will I just return to living normally after getting used to them?
+text Perhaps it's about a fifty-fifty chance.
+text ---But until then,
+text even if it is a little girlish, I keep the final promise I made with her everyday.
+text ~
+text "----Autumn is drawing to a close, isn't it?"
+text ~
+text The blue sky outside is enough to take my breath away.
+text Taking a large, deep breath, I shut the window.
+bgload IMA_10.jpg
+music ~
+jump s53a.scr

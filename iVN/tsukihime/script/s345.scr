@@ -1,0 +1,197 @@
+bgload BG_40A.jpg
+text Occasionally I get up early so there's no need to kill time.
+text I'm concerned about last night's dinner incident---when Akiha's face turned pale and she withdrew to her room.
+text If she is feeling better, then she is probably in the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Oh, good morning, Shiki-san.
+text You are up pretty early today."
+text Seeing my face, Kohaku-san immediately greets me with a smile.
+text "Morning, Kohaku-san.
+text By the way, is Akiha up yet?"
+text "Yes, she will be here shortly.
+text You can have breakfast together this morning."
+bgload BG_34A.jpg
+text Kohaku-san walks happily to the kitchen.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Nii-san....?"
+text "Yo, morning, Akiha.
+text Are you feeling better?"
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "Eh----Y, yes.
+text Thanks to you, my spasms have passed.... Nii-san, were you worried?"
+text "Well, yeah.
+text I was worried a bit.
+text .... I'm sorry about last night.
+text I didn't know you had that condition, so I panicked and I guess I made you push yourself."
+bgload BG_34A.jpg
+setimg AKI_T16A.png 40 0
+text "No, I am the one who must apologize for being upset.... When I have that condition, I tend to get tunnel-visioned and my conduct becomes a little rude."
+text Akiha starts to look embarrassed as she recalls her actions.
+text ".... I'm sorry, Nii-san.
+text I showed you an unpleasant side of me yesterday."
+text "That's not true.
+text Everyone is like then when they feel sick.
+text There's no need to beat yourself up over it."
+bgload BG_34A.jpg
+setimg AKI_T13A.png 40 0
+text "Ah.... okay.
+text If you say so, it makes me feel a little better."
+text She must still be bothered by it because she doesn't seem relaxed.
+text And,
+text "Shiki-saan, Akiha-samaaa, breakfast is reaaady!"
+text Kohaku-san's boundless, cheerful voice rings out.
+text ".... Shall we eat now?
+text Come to think of it, I haven't had breakfast with you yet."
+bgload BG_34A.jpg
+setimg AKI_T04A.png 40 0
+text "That is true.
+text After changing schools, my morning schedule has become more flexible.
+text I wish we could always do this."
+bgload BG_34A.jpg
+text ~
+text ---Now that she mentions it, that's right.
+text Since we're both going to the same school, if I get up ten minutes early, I can eat breakfast with Akiha.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text After breakfast I return to the sitting room.
+text It is twenty past seven.
+text If we want to walk to school slowly, we have to leave soon.
+text Akiha must be all prepared as she is sitting on the sofa, staring at the clock.
+text ~
+text .... Actually, she's been going to her school in a car this whole time.
+text Maybe she intends to do so to go to my school as well.
+text "Akiha.
+text Just to make sure, but you're walking to school, right?"
+bgload BG_34A.jpg
+setimg AKI_T13A.png 40 0
+text "Of course.
+text To take a car to your school would be in poor taste.
+text Even I can understand that."
+text I see.
+text Then we'll be leaving together.
+text "Then shall we get going?
+text If we leave now, we can take our time."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Eh.... Nii-san?"
+text "I'm saying, let's go to school together.
+text I'll show you the best route to take.... Well, if you don't want to go with me, I don't really mind."
+bgload BG_34A.jpg
+setimg AKI_T09.png 40 0
+text "----No, I would love to.
+text I have no worries if I go with you, Nii-san."
+text "It's decided, then.
+text Well, we gotta head out now."
+bgload BG_34A.jpg
+text "Hisui, you don't need to send us off.
+text We will be back in the afternoon, so take care."
+text After instructing Hisui, I leave the mansion with Akiha.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_01A.jpg
+text Matching her pace, we arrive leisurely at school.
+text It's just before seven fifty.
+text We have plenty of time before homeroom.
+text ~
+text "Right on time.
+text We could probably even leave at seven thirty and still make it----uh, Akiha?"
+bgload BG_01A.jpg
+setimg AKI_T01A.png 40 0
+text "............"
+text Akiha looks at the school gate as if there was something odd about it.
+text "What is it?
+text Do you see something weird?"
+bgload BG_01A.jpg
+setimg AKI_T16A.png 40 0
+text "Ah----no, it's nothing.
+text Yesterday I came before everyone else was arriving, so this is the first time I've seen all the students arriving in a clutter like this."
+bgload BG_01A.jpg
+text ~
+text .... I see.
+text She's always been at a boarding school so many students walking into school like this would be unfamiliar.
+text "Stupid, why are you being so reserved?
+text Starting yesterday, you became one of us.
+text There's no need to hold back."
+bgload BG_01A.jpg
+setimg AKI_T12A.png 40 0
+text "............"
+text Is she holding something back?
+text She doesn't seem really lively.
+text "What's wrong, Akiha?
+text You don't look too well."
+bgload BG_01A.jpg
+setimg AKI_T16A.png 40 0
+text ".... That, that can't be helped, can it?
+text I thought just going to school with you would be enough, but such a normal lifestyle, I----"
+bgload BG_01A.jpg
+text Akiha averts her gaze, looking sad.
+text "........?"
+text I don't know what she's trying to say.
+text Just that we kind of stand out standing here in front of the gate.
+text The students who arrive all stare at Akiha and I'm getting a little embarrassed.
+text "C'mon, let's go inside for now."
+text I take Akiha's hand and pass through the gate.
+bgload BG_03A.jpg
+text We go through the gate and head for the entrance.
+text We split up here as Akiha has to go to the fourth floor while I am on the third floor.
+bgload BG_03A.jpg
+setimg AKI_T01A.png 40 0
+text "Well then, Nii-san, I shall go to the first year classrooms.
+text I shall see you after school."
+text "What are you talking about?
+text There's lunch break before that.
+text I'll be waiting in the courtyard, so come quickly."
+bgload BG_03A.jpg
+setimg AKI_T12A.png 40 0
+text "Ah------Yes, I will be there."
+bgload BG_03A.jpg
+text ~
+text Giving a cute little bow, she runs inside.
+text "------"
+text .... well, I guess she does have a cute side.
+text "How nice!
+text The two of you get along well, don't you?"
+text !?
+bgload BG_03A.jpg
+setimg CEL_T04.png 52 0
+text "Ci.. Ciel-senpai!
+text Please don't sneak up on me like that..!"
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes, I'll be careful from now on."
+text Smiling sweetly, Senpai gazes at me happily.
+text ".... What is it, Senpai?
+text If you want to say something, say it."
+bgload BG_03A.jpg
+setimg CEL_T04.png 52 0
+text "No, no; I don't think I need to say anything.
+text You look really happy, Tohno-kun."
+text "---Wha..!"
+bgload BG_03A.jpg
+setimg CEL_T03.png 52 0
+text "If you go into the classroom with a face like that, Inui-kun will surely tease you.
+text Well, Tohno-kun, I'll see you at lunch again."
+bgload BG_03A.jpg
+text Senpai walks indoors, laughing to herself.
+text "------"
+text I pinch my cheek.
+text ".... Did I look that happy?"
+text .... well, I guess I did.
+text Since just seeing Akiha smile made me feel real happy inside.
+bgload IMA_10.jpg
+sound SE_03.aac 1
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text ----Fourth period ends.
+text ~
+text Lunch break comes, and the school fills with noise.
+text "----Right."
+text Akiha should be waiting in the courtyard.
+text .... Since it's Akiha, I think she probably got Kohaku-san to make her lunch, but I should go buy something just in case.
+setvar akiha_regard + 1
+jump s347.scr

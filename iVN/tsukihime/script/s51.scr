@@ -1,0 +1,146 @@
+bgload IMA_11.jpg
+text Sensei told me.
+text My eyes could see the points where things could easily be broken.
+text And if that 'thing' were to be a person, then what I would see would be their vital spots.
+text Lines which, if cut, could break something apart without any effort.
+text With those lines, even things as hard as steel could easily be cut.
+text ~
+text "In other words, everything in existence has its destiny of 'breaking' internalized within it.
+text This is something inescapable for anything with a physical form, Shiki."
+text That's what Sensei had said.
+text I was still a child back then.
+text I remember finally understanding what she meant and getting scared.
+text In other words, the world is full of cracks, and it could collapse at any instant.
+text If there are scribbles all over the ground, then there's a possibility that the earth would start breaking apart if I walk over it.
+text ---When I realized what she meant, I thanked Sensei from the bottom of my heart for the glasses she gave me.
+text ~
+text I couldn't have gone on living if I had continued to see the lines all the time.
+text The points where things could easily be broken.
+text There isn't a single advantage to being able to see them---
+bgload IMA_10.jpg
+bgload IMA_03.jpg
+text "---Good morning."
+text ~
+text .... I hear an unfamiliar voice.
+text "It is morning.
+text It is time for you to awaken, Shiki-sama."
+text .... Stop calling me Shiki-sama already.
+text I told you yesterday, it sends chills down my back----
+bgload BG_40E.jpg
+bgload BG_40E.jpg
+setimg HIS_T01.png 62 0
+music 02.mp3
+text ~
+text ---I wake up.
+text Hisui stands far from the bed, like a statue.
+text "...."
+text ~
+text Where am I?
+text ~
+text "Good morning, Shiki-sama."
+text The girl in a maid uniform bows.
+text "Ah.. yeah, I came home, right.."
+text I push myself up, looking around the room.
+bgload BG_40E.jpg
+text In that instant---
+text ~
+text ---I feel sharp pain in my temples.
+text "Huh---?"
+text "Are you looking for your glasses?"
+text Hisui gently hands me my glasses.
+bgload BG_40A.jpg
+text "---Phew."
+text ~
+text .... I let out a breath.
+text Last night---Before I went to sleep, I had the feeling I was seeing the lines even with my glasses on.
+text Seems like it was just my imagination.
+text "Sstt...."
+text Maybe it's because I slept in an unfamiliar room, but my mind is hazy.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama..?"
+text Hisui calls out to me.
+text Shaking my head, I shake away my sleepiness.
+text "Good morning, Hisui.
+text Thanks for coming to wake me."
+text "There is no need to thank me.
+text It is my duty to come and wake you, Shiki-sama."
+text Hisui gives a plain and completely expressionless response.
+text .... Even in an unfavorable light, I think Hisui's features are beautiful.
+text It should be wonderful for such a girl to wake me every morning, but as Hisui never smiles, I don't feel that happy about it.
+text ~
+text .... What a shame.
+text If Hisui only had half of Kohaku's brightness, she would be really cute.
+text "---Do you need something?"
+text Realizing I am looking at her, Hisui stares straight back at me.
+text "No, nothing at all.
+text Waking up with you there makes me feel like I'm really at the Tohno mansion."
+text Now then.
+text Getting off the bed, I stretch out both arms.
+text ~
+text Suddenly, I realize I'm wearing pajamas.
+text ---Eh, I'm sure that yesterday, I..
+text "Huh?
+text I thought I slept in my uniform last night."
+text "Yes.
+text Since it is bad for your health to do so, Nee-san changed your clothes and put you to bed afterwards."
+text Hisui explains it as if it is something perfectly natural.
+text I see.
+text She changed my clothes.
+text It's true that I could have caught a cold if I had just slept like that.
+text Just the kind of attentive service you'd expect from a maid---Hey, wait a minute..!
+text "Wh------!?"
+text I quickly check my pants and underwear.
+text My pants are brand new pajama pants.
+text Even my underwear is new.
+text "Wh-wh-wh-!?"
+text I want to say 'What the hell did you do!?', but somehow the words are stuck in my throat.
+text I've got to calm down and think things over for now.
+text .... Let's see.
+text First of all, half the blame belongs to me.
+text And the one who changed me wasn't Hisui, it was her sister, Kohaku-san.
+text It would be wrong to complain to Hisui.
+text "---Hisui."
+text "Yes, what is it?"
+text "You don't have to do anything uncalled for like this from now on.
+text If you have to, please wake me up.
+text I can change myself, so I'd like to do so."
+text My face is a deep red as I say all of this.
+text Hisui obediently nods in affirmation.
+text "Your uniform is folded and awaits you over there.
+text Please come to the sitting room after you have changed."
+bgload BG_40A.jpg
+text "......"
+text Damn it.
+text How careless could I be.
+text It was careless of me to begin with when I fell asleep on the bed like that, but to not have woken up while I was being changed is over the top.
+text "Usually I would have sensed it, but.. maybe I was just really tired."
+text Complaining to myself isn't going to change anything.
+text I can't just keep standing here talking to myself like an idiot.
+text I'd better hurry up and change, then go have breakfast.
+text My school uniform had been neatly folded, and my shirt has even been ironed.
+text Passing my wrists through the sleeves feels good.
+text It's that fresh, brand-new feeling.
+text ".... No, there's nothing wrong with being naked, is there?
+text Yep."
+text There was nothing wrong with it, but I couldn't help being embarrassed at the fact that I was being changed by the warmly smiling Kohaku-san.
+text To top things off, the face in the mirror keeps smiling from time to time despite being bright red.
+text .... Are you really okay, Tohno Shiki?
+text I thought you were supposed to be uneasy about staying here, you amateur.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text Akiha and Kohaku-san are relaxing in the sitting room.
+text Akiha is wearing the uniform of the Asagami Ladies' Academy, a famous school for young girls.
+text They are drinking tea together gracefully, as if breakfast ended a long time ago.
+text I----
+text ~
+choice Greet Akiha.|Greet Kohaku-san.|Greet both of them.
+if selected == 1
+    jump s54.scr
+fi
+if selected == 2
+    jump s55.scr
+fi
+if selected == 3
+    jump s56.scr
+fi

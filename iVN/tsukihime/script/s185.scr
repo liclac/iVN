@@ -1,0 +1,14 @@
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text --Both hands on the clock approach the top of the dial.
+text It's been two hours since I came here, yet there's no sign of Arcueid.
+text ~
+text I--
+text ~
+choice Still wait.|Return to the mansion.
+if selected == 1
+    jump s187.scr
+fi
+if selected == 2
+    jump 186.scr
+fi

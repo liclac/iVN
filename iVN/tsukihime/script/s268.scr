@@ -1,0 +1,38 @@
+bgload BG_27B.jpg
+text I should just tell her directly to go home.
+text "Senpai, you don't have to worry about me so please go back.
+text Things will get ugly if we go on like this."
+bgload BG_27B.jpg
+setimg CEL_T01B.png 52 0
+text "Huh?
+text Ugly?
+text What do you mean by that?"
+text .... She doesn't even seem to be listening to me.
+text "---Look, why don't you listen to me?
+text Senpai, didn't you say I could do as I wanted?
+text So why are you still getting in my way!?"
+text "Like I said, please do as you wish.
+text I'm also just doing as I wish myself."
+bgload BG_27B.jpg
+text Still smiling, Senpai walks ahead of me.
+text "Hey---Senpai!"
+bgload BG_27B.jpg
+setimg CEL_T07B.png 52 0
+text "Huh?
+text What is it, Tohno-kun?"
+text "What is it!?
+text Do you enjoy troubling me like this!?"
+bgload BG_27B.jpg
+setimg CEL_T01B.png 52 0
+text She smiles.
+text .... It seems she really does enjoy it.
+text ".... I get it.
+text I understand that you're quite a mean person, but let me off the hook for today.
+text If you keep following me, things will not only be dangerous for me, but for you as well."
+text "Oh really?
+text I'm not really following you or anything."
+text "Eh---?"
+text "I simply have something to do in the park.
+text I don't know where you are going, Tohno-kun, but if you're not going to the park, then this is where we say goodbye."
+bgload BG_27B.jpg
+jump s270.scr

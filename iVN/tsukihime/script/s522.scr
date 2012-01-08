@@ -1,0 +1,39 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text The hint corner for the out-of-luck Tohno-kun who ended up in this terrible Dead End,
+text It is time for "Teach me, Ciel-sensei!"
+text ~
+text And now, we will start the second period lesson.
+text I see, there is a distinct reason for this.
+text The fish that got away this time is big.
+text It's your dear Senpai, so talk your hearts out with her and make peace with her.
+text Even if it's an opponent you can't beat by yourself, it's easy using the power of love between two people.
+text You don't need Arcueid's help at all!
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "What?
+text Aren't you the one dragging him, Ciel?"
+text ~
+text You, quiet!
+text ~
+bgload BG_06A.jpg
+setimg KEMO_T05.png -64 0
+setimg CEL_T20.png 103 0
+text "Deer."
+text ~
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text "And nyeow for the only-used-once animal series, nyaa, nyaa, nyaa........"
+text Hey now, no private conversations during class!
+text Now that the loud and annoying person has been kicked away, please continue to enjoy the main story.
+bgload IMA_10.jpg
+music ~
+jump main.scr

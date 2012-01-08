@@ -1,0 +1,86 @@
+bgload IMA_10.jpg
+bgload BG_01C.jpg
+text ----Concerned about what happened this afternoon, I come to my school.
+text ~
+text .... Thinking back, Arcueid was strange when we were here earlier.
+text There's no logic to it, but if she's just wandering around, I think she may end up here.
+bgload BG_03C.jpg
+text There's no sign of anyone; not even a single sound.
+bgload IMA_10.jpg
+bgload BG_03C.jpg
+text "........"
+text But still, I feel like there's someone in the building.
+sound SE_01.aac 1
+text Something.
+text Without the presence of the sun,
+text the school building has changed into an ominous "place".
+text ".... Let's go in, Shiki."
+text I don't have time to hesitate.
+text Encouraging myself verbally, I walk inside the building.
+bgload IMA_10.jpg
+music 06.mp3
+bgload BG_10C.jpg
+sound SE_02.aac -1
+text ~
+text ----There's no one on the first floor.
+bgload IMA_10.jpg
+bgload BG_07B.jpg
+text ~
+text ~
+text ~
+text ----I feel a numb sensation behind my neck.
+text Ignoring it, I walk up to the second floor.
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I arrive on the second floor.
+text No one here.
+sound SE_08.aac 1
+text No one here.
+sound SE_08.aac 1
+text No one, here.
+text ~
+text But.
+text On my back,
+text A soft, cold sensation like the belly of a snake covers me.
+text "------Who's there!?"
+text I whirl around.
+text I think there was..
+bgload BG_11C.jpg
+setimg ROA_T07A.png 14 0
+bgload IMA_10.jpg
+text "Eh----?"
+text I hear a stabbing sound.
+text In the next instant,
+text My chest is sliced open.
+bgload IMA_12B.jpg
+text Blood flows forth.
+text I'm stabbed from behind, as if to open my old wound.
+text "Ah----"
+text My body falls.
+text ~
+text ----I don't know what's going on.
+bgload IMA_10.jpg
+text Everything fades.
+text In the last instant,
+text ~
+sound ~
+bgload CMO_06.jpg
+text I see a scene from a distant summer day, repeating in my mind.
+bgload IMA_10.jpg
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s517.scr
+fi
+if selected == 2
+    jump main.scr
+fi

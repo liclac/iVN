@@ -1,0 +1,40 @@
+bgload BG_33D.jpg
+text ----Was it.. the west wing on the first floor?
+bgload IMA_10.jpg
+bgload BG_39.jpg
+text .... The lights are off and I can't quite make out the details of the room.
+text But, I can tell right away it isn't Akiha's room.
+text "This is Kohaku-san's room....!"
+text I kick the ground in the darkness.
+text Come to think of it, Akiha's room is exactly across from mine.
+text In other words, the east wing on the second floor.
+text "Gah....!"
+text As I turn around to exit into the hallway, I see something lying on the ground.
+text "......?"
+text I squint my eyes in the dark.
+text I see----Hisui's figure collapsed on the floor.
+text "Hisui----!?"
+text I call out and run to her.
+text ".......... Mnh."
+text Hisui doesn't answer.
+text She's only peacefully breathing out in her sleep.
+text "Is she.... asleep?"
+text I can't believe it, but it seems so.
+text Hisui doesn't look like in pain.
+text She really does seem like she's sleeping.
+text Just, there's a teacup tipped over on the table with the contents spilled.
+text The easiest explanation is there was a sleeping drug mixed into her tea and she fell asleep.
+text "----Kohaku-san isn't here?"
+text The only one collapsed in the room is Hisui.
+text .... Hisui seems to be just sleeping, so I have to make sure Akiha is safe----
+bgload IMA_10.jpg
+text .... I run up the stairs.
+text The heated air and sense of foreboding seem to stretch over the dark of night like glass.
+text ~
+text ----*pant*, *pant*, *pant*.
+text ~
+text Breathing heavily, I reach the top of the stairs and walk down the hallway..
+text .... My back hurts.
+text This terrible feeling in the air gets heavier as I draw near Akiha's room.
+setvar akiha_regard - 1
+jump s370.scr

@@ -1,0 +1,65 @@
+bgload BG_19D.jpg
+text ---As long as Arcueid is unable to move, blindly going outside would be dangerous.
+text ~
+text "........"
+text Gripping the knife with one hand, I hold my breath.
+text Arcueid is silent too.
+text She looks like she's being careful of what's around her.
+text The floor below is being noisy.
+text Perhaps the shock woke up the guests and maybe they're complaining to the hotel people.
+text It's still four in the morning, but even so, the noise is as loud as that of a festival.
+text ~
+text ---Even that falls silent a few minutes later.
+sound SE_01.aac 1
+text The noise disappears.
+text A sickening silence.
+bgload IMA_10.jpg
+music ~
+text "------!"
+text The lights go out.
+text At the same time,
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_05.aac 1
+text the sound of countless things hitting the door.
+text "Are you prepared, Shiki?"
+text Arcueid whispers in the dark.
+text ".... Prepared, for what?"
+text I don't even have to ask her.
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_05.aac 1
+sound SE_10.aac 1
+text ~
+text ---If remaining in here was a mistake..
+text Then that question was also a mistake.
+text I turn towards the door at the sound of it breaking.
+text "--------"
+text No sound escapes from my mouth.
+text As I turn around, bright white teeth fill my vision.
+bgload IMA_11.jpg
+text Like a giant maw, capable of consuming me whole.
+text Somehow, I'm able to calmly tell it's the jaws of a shark.
+bgload IMA_12.jpg
+text Fresh blood spills everywhere.
+text With a thump, what remains of my body falls to the floor.
+text What falls is my head.
+text Everything below my face has been consumed in one bite.
+text ~
+text That    is the last scene     I ever see.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s512.scr
+fi
+if selected == 2
+    jump main.scr
+fi

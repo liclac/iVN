@@ -1,0 +1,652 @@
+bgload IMA_10.jpg
+text Nrvnqsr is looking only at Arcueid.
+text My chance is only during this instant.
+text Gripping my knife, I crouch down.
+text With everything I have, I run towards Nrvnqsr.
+bgload BG_29C.jpg
+sound ~
+text All his senses are directed toward Arcueid.
+text Even I, who is not in this conversation, can tell Nrvnqsr is only looking forward.
+text His back looks defenseless, not knowing I will dismantle it in a few seconds.
+text ~
+text ----I can do it.
+text ~
+text I feel it.
+text Without a doubt, I can kill him.
+text "----"
+text I run.
+text Only a matter of steps before I can reach his back with my knife.
+text His back.
+text His defenseless back.
+text There's no mistake; he does not sense me.
+text "----"
+text One more step.
+text Then it's all over.
+bgload IMA_11B.jpg
+bgload BG_29C.jpg
+text "------Eh?"
+text I stop.
+text What?
+text What.. is his body------!?
+bgload IMA_10.jpg
+text "No----where."
+text Nowhere.
+text Nowhere, nowhere, nowherenowherenowherenowhere....!
+text There's not a single "line" anywhere!
+text Impossible, no such "life" is possible----
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+text ----Thro, b.
+text ~
+text Headache.
+text My fingers gripping the knife tremble.
+text After a stab of pain in my brain,
+text I see a single black "point" on Nrvnqsr's back.
+bgload CMO_17.jpg
+text "------!"
+text ~
+text ----There.
+text That should be where his fatal flaw is.
+text .... There's something wrong with it being a point rather than a line, but anyway----I'll stab him there!
+text I take a lunging step.
+text The knife in my right hand races towards his "point".
+text ~
+text "------Eh?"
+text ~
+text Right before my hit connects,
+text the points along his back multiply rapidly.
+bgload CMO_18.jpg
+text One.
+text Two.
+text Three.
+text Four.
+text Five, Eight, Nine, Ten, Twenty------
+bgload CMO_19.jpg
+text Eighty, One Hundred, Two Hundred, Three Hundred, Four Hundred------!
+text "------!?"
+text .... This.. isn't right.
+text This doesn't feel like his "death".
+text These are more like heterogeneous aggregation.
+text His----His body, what the hell is it----?
+text ~
+text "----Shiki!"
+text ~
+text .... Arcueid's voice.
+text No, I don't have time to think now.
+text His back is right there.
+text Right now, I can just pick any one of his "points" and it will be over.
+text "----There!"
+text ~
+text I bring my knife down as I yell.
+text ~
+text However, before then,
+text Nrvnqsr's back rises up like a balloon.
+text Pop.
+text A black dog appears from his back as if emerging from a black sea.
+bgload IMA_14.jpg
+text "Wha----!?"
+text The black dog shoots forth like a missile.
+text "----!"
+text I slice its "line" with my knife.
+text But, it's just a "line".
+text Only the dog's legs are cut off.
+text Its trajectory does not stop.
+text "Gah----!"
+text Whud!
+text The black dog rams its head into my stomach.
+text "-----Ggh!"
+text What strength.
+text I fly back several meters and get pushed down on the ground.
+text The black dog then tries to bite into my neck.
+text ~
+text "Ha.... aa----!
+text I pierce the dog's right abdomen with my knife.
+text My knife enters the black dog's "Point of Death" as easily as going through air.
+text ~
+text The black dog's movements stop.
+text In that instant----its body becomes a black fluid and pours over me.
+bgload IMA_13B.jpg
+text "----!?"
+text Covered in the black fluid, I can't stand up.
+text "Why----you!"
+text I can't get it off.
+text As if sewn to the ground, I can't move.
+text ~
+text "----Hmph.
+text It seems something has happened behind me."
+text I hear Nrvnqsr's voice.
+text Stretched out against the ground, I look towards Nrvnqsr and Arcueid.
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02A.png 13 0
+text "Your familiar?
+text But, how unfortunate.
+text Those who enter my domain will be recognized and attacked by one of us even if I do not notice.
+text There can be no surprise attacks against me."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg ARK_T05C.png 36 0
+text ".... It seems so.
+text You weren't even looking at anything but me, yet you still reacted to the danger behind you.
+text That is the strength of a collective, is it not, Nrvnqsr Chaos?"
+bgload BG_29C.jpg
+text Arcueid narrows her eyes slightly and walks toward Nrvnqsr.
+bgload BG_29C.jpg
+setimg NERO_T01B.png 13 0
+text "----Interesting.
+text Your are so weak you cannot even use your Marble Phantasm, yet you still challenge me?"
+text "There's no need.
+text It can't be helped, even if I am fighting a Dead Apostle.
+text For someone like you----these claws will be enough, Nrvnqsr Chaos."
+text ~
+text A short laugh comes up.
+bgload BG_29C.jpg
+setimg NERO_T02C.png 13 0
+text "----Fool.
+text Realize your folly, Arcueid Brunestud----!"
+bgload IMA_10.jpg
+text Nrvnqsr raises an arm.
+text His coat ruffles like a cape and countless animals fly forth.
+bgload IMA_10.jpg
+setimg KEMO_T04.png 0 0
+text ~
+text Grrrrrrrrr.
+text ~
+text With a thunderous roar, three beasts run towards Arcueid like bullets.
+text Not anything like black dogs,
+text but three giant leopards larger than Nrvnqsr himself, like large demonic silhouettes.
+text "------"
+text Arcueid can't move.
+text Three leopards run, cracking the bricks under them just by running.
+text They're far faster than Arcueid, who is trying to run away.
+text ~
+text ----The three beasts pounce towards Arcueid.
+text ~
+text It's over quickly.
+bgload IMA_12B.jpg
+bgload event/ARK_E03.jpg
+text In an instant,
+text the three leopards' bodies are cut in half and fall to the ground.
+text ~
+text "----What?"
+text Nrvnqsr's voice booms.
+text Arcueid is silent.
+text From there, she moves to attack him.
+text "----!"
+text Beasts emerge from Nrvnqsr's body.
+text ~
+text The instant it emerges, the lion's head is grabbed and torn apart from its body.
+text ~
+text The leopard is killed the instant it attacks Arcueid by getting pierced by her punch through its head.
+text ~
+text The tiger is torn apart like clay.
+text Everything following them suffers the same fate.
+text The same with the flying eagle and the giant grizzly bear.
+text The same with the shark swimming in the ground.
+text The same with the ridiculously large elephant.
+text ~
+text In the end, they can't even stop her, and turn back into a black, sticky fluid.
+text "----Wha.."
+text Nrvnqsr tries to escape.
+text Arcueid swings her claws.
+text ~
+text ----After the sound of ripping flesh,
+text Nrvnqsr's body is split in two from the neck down.
+bgload IMA_13B.jpg
+bgload event/ARK_E03.jpg
+text "Gaaaaaaaaaaaahhhhh!!"
+text ~
+text Roaring in pain, Nrvnqsr leaps away from Arcueid.
+text Split from the neck to the waist, he's lost over half his body.
+text ~
+text Splat.
+text The rest of his body falls at Arcueid's feet.
+text "--------"
+text This isn't a fight.
+text .... What about Arcueid saying she was only able to move?
+text The beasts Nrvnqsr let out weren't weak.
+text Those lions and tigers, just one of them can tear a car into scraps.
+text And that grizzly bear could have torn a tank apart with it's uncontrolled violence.
+text But such beasts were torn apart by Arcueid, and Nrvnqsr himself is half dead.
+text "Ha--------"
+text It almost seems like a joke.
+text If it was this easy, maybe it would have been better if I wasn't here from the start----
+bgload BG_29C.jpg
+text "GA.... AH, aaaaa....!"
+text Nrvnqsr keeps retreating as if to escape.
+bgload BG_29C.jpg
+setimg ARK_T18.png 36 0
+text She might be tired.. Arcueid walks towards Nrvnqsr slowly.
+text Panting.
+text ~
+text I can hear heavy breathing.
+text .... It belongs to Arcueid.
+text ~
+text Ragged, painful breathing.
+text Why is that?
+text Arcueid's breathing sounds more painful than Nrvnqsr's, who is torn in half.
+bgload BG_29C.jpg
+music 06.mp3
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "--It is quite unbelievable.
+text Weakened as you are, you still have that much power.
+text As expected from the executioner prepared by the True Ancestors.
+text .... Do not face the white vampire princess----It seems the warnings of others were correct."
+bgload BG_29C.jpg
+text Nrvnqsr's voice isn't dimmed at all.
+text ~
+text ----I feel,
+text a horribly sinking sense of despair.
+text ~
+text Arcueid tries to catch her breath as she slowly draws near Nrvnqsr.
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "But, I never expected to defeat you with only ten or twenty of myself in the first place."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg ARK_T15.png 36 0
+text "----Enough boasting.
+text You can't kill me with any amount of such familiars, and I have cut off half your body.
+text No matter what, you have no chance of winning."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "Hah----My familiars have all been killed, but you seem to be mistaken."
+text "----?"
+text "I do not carry familiars, nor do I use them.
+text All those things you fought were truly me.
+text .... It is quite unpleasant to be considered similar to the other mongrels who capture other living things to repair their damaged flesh."
+bgload BG_29C.jpg
+setimg NERO_T02B.png 13 0
+text "You should have been able to tell with a glance if you had not been weakened.
+text Use your golden Mystic Eyes and see.
+text Can you see it?
+text The chaos of the 666 "beasts" inside my body---"
+bgload BG_29C.jpg
+text ~
+text Splash.
+text Something moves quickly at the edge of my vision.
+text ~
+text "A----"
+text Behind Arcueid.
+text The half of Nrvnqsr's body which was cut off by Arcueid is shaking.
+text It rises up in a large clot and shoots toward Arcueid----.
+text "Arcueid, behind you----!"
+bgload BG_29C.jpg
+setimg ARK_T18.png 36 0
+text "Shiki----?"
+text Arcueid turns around.
+text But, she doesn't make it.
+text The half of Nrvnqsr's body lying on the ground becomes countless large serpents which attack Arcueid from behind.
+bgload BG_29C.jpg
+text "Cr----"
+text The large serpents wrap around Arcueid and return to a black fluid.
+text Arcueid is pinned to the ground like me, but the pressure is hundreds of times worse.
+text "Wh, what----no way....!?"
+text As she is pushed down, Arcueid tries to escape.
+bgload BG_29C.jpg
+setimg NERO_T02B.png 13 0
+text "It is useless.
+text You should understand what that is, Princess of the True Ancestors."
+text "......!"
+text Arcueid's face lights up in pain and surprise.
+text The remaining half of Nrvnqsr raises its voice almost as if howling.
+text "----Let him that hath understanding count the number of the beast: for it is the number of a man, and his number is 666---Haha, are you pleased with the chaos within my body, Arcueid Brunestud?"
+text "Are you sane....!?
+text A human body.. having more than three hundred factors compressed in something as small and closed-in as a human shape, this is just like----"
+text "Indeed, no different from the Primordial Sea.
+text I am not making my body up with other animals.
+text I merely use the factors called 'animals' as my body, mixing them like mud."
+text "I have no such things as familiars.
+text What exists are 666 beasts----and lives equal to that number.
+text Ripping my body in half or crushing my head is meaningless.
+text I am one and 666.
+text If you wish to destroy me, you need to destroy 666 lives at once."
+text ".... This can't be.... this is what Chaos means....!?"
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "Of course.
+text ----So my alter selves have no concrete existence.
+text When released from this body which is my territory, they will take form as some kind of 'species' for the first time.
+text They have no form of their own from the beginning.
+text You can kill them outside of me, but once they return, they regenerate as a part of my chaos.
+text .... Though, even I cannot predict what they will become once they emerge.
+text Understanding and controlling this disordered dendrogram is my eternal thesis."
+text ~
+text The vampire with only half a body gives a boasting, muffled laugh.
+text "That's impossible....!
+text To take in souls----if you encapsulate uncolored conceptualized existences, you yourself will disappear....!"
+text "Indeed.
+text That is why this is not a single person here.
+text The personality of Nrvnqsr already does not exist.
+text We are not a single body, but closer to a limitless collective.
+text .... Certainly, there is no meaning of existence in such a life.
+text There are already life forms in the deep ocean which can be termed eternal systems.
+text This body will lose its intelligence and become a mere 'specimen' just like them someday."
+text "But, do you not find it magnificent?
+text There are things which swirl inside me, and you do not know what form they will take.
+text This small world is like that of our world in its primal stages.
+text A chaotic space where what will be born is unpredictable.
+text The darkness of chaos just like this planet's dendrogram, while still having the possibility of dramatic change.
+text I wish to know what lies at its culmination before I disappear."
+text "This is why the Church gave me this name.
+text ----Nrvnqsr Chaos.
+text Equipped with 666 beasts, no longer a vampire but a space which has become chaos, a heretic who broke the taboo."
+text ~
+text "------!"
+text Arcueid's voice is held off.
+text The black fluid squirms all around her.
+text Even Arcueid's face is already half-covered----.
+bgload BG_29C.jpg
+setimg NERO_T02B.png 13 0
+text ".... That's all.
+text Under such a prison, even you cannot escape.
+text It is a union of five hundred of my parts, the 'Soil of Genesis'.
+text Even were you to be at full strength, you could not hope to destroy it.
+text ----It is equivalent to destroying a whole continent."
+text ~
+text Nrvnqsr's remaining half approaches Arcueid slowly.
+text "Many of our brethren have been killed by you.
+text Many have sought to destroy you, only to be destroyed in turn.
+text ----But, that is all over.
+text I, Nrvnqsr Chaos, will accomplish a great achievement none could perform until now."
+text "--Nrvnqsr.
+text This Reality Marble, who---"
+text "It should be easy to tell.
+text Your nemesis "The Serpent" came to me to teach me, but not the current one from this generation.
+text Before you killed him, he bequeathed upon me the method of making this 'cage'."
+text "------"
+text I can't hear Arcueid's voice anymore.
+text Looking, her mouth is covered in the black fluid.
+text "But 'The Serpent' is also a tragedy.
+text What was once a priest of the Church can't live on just because a Goddess of Death like yourself is chasing after him.
+text If he had lived, he may have devised a means to control the chaos in my body.
+text .... It certainly must have been regretful not being able to fully utilize such a clear heresy before getting destroyed."
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "I was a sworn friend of 'The Serpent'.
+text Why you persistently pursue him without tiring, I am very curious----but, it seems you can no longer speak."
+text ~
+text The black fluid starts to pin down Arcueid's body.
+text By now, it is no longer Arcueid's collapsed feminine figure, but only a formless mud.
+text "----I will make you a part of me, Arcueid Brunestud.
+text Absorbing your amount of will may require great effort, but it will make me the highest rank of vampire.
+text A little pain is like a celebration for the new creation.
+text When that happens----even the professional killers of the abominable Burial Agency will be nothing to fear.
+text I will eradicate all members of that moldy Church."
+bgload BG_29C.jpg
+text ~
+text Arcueid's face sinks completely with a sucking sound.
+text ~
+text Even the lines of her body which I could barely see before have disappeared.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----At this rate,
+text if I leave Arcueid alone, she'll be absorbed into the black fluid----
+text "Why----you~....!"
+text I "look" at the black fluid covering me.
+text The black lines of death definitely do exist.
+text "Gaahh-----!"
+text Resisting the throbbing pain in my head, I run my knife along them.
+sound SE_12.aac 1
+text The black fluid becomes like mere water as I slice the lines.
+sound SE_02.aac -1
+text "Alright....!"
+text I breathe heavily as I stand up.
+text ~
+text ----I have to save her.
+text I have to save Arcueid from that monster.
+text ~
+text But, how?
+text I can't even get close to Nrvnqsr.
+text Even Arcueid----as terrific as she was, she wasn't able to take him.
+text Then if I stand and face him, wouldn't I be killed instantly?
+text I only barely managed to kill one dog; I wouldn't last a second against those other beasts like the lions or leopards.
+text Furthermore,
+text I can see hundreds of "points" on his back.
+text I couldn't fully understand the conversation between Nrvnqsr and Arcueid, but it seems that each one of those beasts are him.
+text ~
+text Then,
+text if I want to defeat the vampire Nrvnqsr, I will have to kill all the beasts having that "point"----
+text "Agh----"
+text I can't step forward.
+text No matter what----A human can't step forward toward a monster like that.
+text ~
+text "Damn----it."
+text In the end,
+text once more, I'm trying to save my life and do nothing about someone getting killed----
+bgload BG_29C.jpg
+setimg NERO_T02B.png 13 0
+text "----Oh?"
+text I hear a voice.
+text Nrvnqsr's voice is full of contained amusement.
+bgload BG_29C.jpg
+text ~
+text No.
+text It's not his voice.
+text I can hear something like the sound of footsteps.
+text "This----can't be."
+text The sound is far away.
+text But without a doubt, the sound of light, skipping footsteps is drawing closer.
+text ~
+text ----Arcueid said earlier.
+text The park is empty of people at night----and if people pass by, then they are simply out of luck.
+text ~
+text Far away, I see a small human shape.
+text Some girl I do not know about my own age.
+text "----"
+text This isn't good.
+text For her to come here, it means----
+text ~
+text "Run away~~~~~!"
+text ~
+text I scream.
+text I scream, forgetting that Nrvnqsr wasn't even paying attention to me or that he might attack me.
+text Yet, the passerby does not stop.
+text Not knowing anything, she casually heads for this place.
+text ~
+text Half of the vampire in the black coat breathes out in content.
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text ".... My body has just been torn apart.
+text I need more sustenance."
+text His half of a coat squirms like a living thing.
+text "Fortunately, it seems sustenance has arrived."
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg KEMO_T03.png 0 0
+text A black beast flies from Nrvnqsr's body.
+text ~
+text "Sto------!"
+text My voice doesn't reach her.
+text The beast runs like a black wind towards the far-away figure.
+bgload IMA_10.jpg
+music ~
+bgload IMA_12B.jpg
+text It's over in an instant.
+text A short scream, the sound of a body hitting the ground.
+text The smell of blood wafting on the air.
+text ~
+text The black tiger retrieves the human in its mouth.
+text ~
+text .... the girl's face is.. is no more.
+text Most likely gouged out by the tiger's claws.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Too.. ruthless.
+text A repulsive, one-sided violence.
+sound SE_01.aac 1
+bgload IMA_11.jpg
+bgload IMA_12B.jpg
+text "Gah----!"
+text My head hurts.
+text My throat is starting to dry.
+text My mind starts to compress, and I can only see the enemy in front of me----
+bgload IMA_13B.jpg
+text The tiger slithers like a snake into Nrvnqsr's body.
+text It's strange.
+text The corpse of the girl in the tiger's mouth disappears.
+text ~
+text Yet.
+text ~
+text ~
+text ------Munch.
+text Crunch.
+text Grind.
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text She's not there, yet I still hear the sound.
+text ~
+text ~
+text ~
+text ~
+text ------Rip.
+text Gorge.
+text Gulp.
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text The sounds are coming from inside the man called Nrvnqsr.
+text The sound of dissolving flesh, shattering bones, the slow chewing of a human----
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg NERO_T02D.png 13 0
+sound SE_01.aac 1
+text "Y------"
+text No mistake.
+text Inside his body, he's eating that person.
+bgload IMA_10.jpg
+setimg NERO_T02B.png 13 0
+text Nrvnqsr's lips twist in a smile.
+text ~
+text ----With that,
+text ~
+text a switch goes off in my brain.
+text "You fucking bastard------!!!!"
+text I can't think.
+text I just run towards Nrvnqsr.
+bgload BG_29C.jpg
+text ----My vision soaks in red.
+text ~
+text "----Feed."
+text A black leopard flies from Nrvnqsr's body.
+text How many times greater than the black dogs are its speed and ferocity?
+text "------"
+text But, I don't care about that.
+text It's a living thing.
+text If it lives, then it's nothing against me.
+bgload IMA_14.jpg
+text "You're in my way."
+text I stop and say so to the corpse by my feet.
+text The black leopard is lying in four pieces.
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02B.png 13 0
+text "----I see.
+text You are the one who attacked me from behind earlier."
+text It seems he finally has realized I am here.
+text ~
+text Emotionless eyes look toward me.
+text ----Yeah, just like Arcueid said.
+text As long as I don't allow myself to get lost, being stared by him doesn't change anything.
+text ".... Let Arcueid go, monster."
+text "------"
+text "I said, let her go.
+text I'm your opponent.
+text You're nothing with that half body of yours."
+text "------"
+text Without a word.
+text Without a word, the vampire with the black coat looks both Arcueid and I over.
+text "You say you can be my opponent?"
+text "Yes.
+text So I'm saying release her and then hurry up and return your body to normal."
+text "------, ----, ------"
+text His neck moves up and down.
+text It seems.. like.. he's laughing.
+bgload BG_29C.jpg
+setimg NERO_T02D.png 13 0
+text "You have taken away the fun.
+text Receive your punishment, human."
+text Nrvnqsr doesn't change.
+text He seems like he will leave Arcueid with half of his body and remain as he is.
+text "I promise you.
+text I will slowly chew you apart alive."
+text Flutter.
+text His remaining arm is lifted.
+text "----Such an inferior mental circuit.
+text The price of your arrogance thinking you can face me will be your certain death."
+text ~
+text Whoosh.
+text ~
+text A warm wind blows.
+text Scores of beasts emerge from Nrvnqsr's half body.
+bgload IMA_10.jpg
+text "----"
+text The number of beasts emerging isn't ten or twenty.
+text Even if each is not a strong beast, it is close to a hundred of them against a single human like me, and they swarm like ants gathering around a sugar cube.
+text "Wha----"
+text I stick my knife into the neck of the black dog before me.
+sound SE_06.aac 1
+text The black dog dies as it's 'death' is cut.
+text ~
+text Instantly, the sound of birds' wings overhead.
+sound SE_10.aac 1
+text With a grating sound, the meat of my forehead is taken to the bone.
+text "Ach----!"
+text I don't have time to react in pain.
+text At the same time, several black dogs bite my arms and torso from both sides.
+bgload IMA_13.jpg
+text "You, junk----!"
+sound SE_07.aac 1
+text Slice.
+text Slice.
+text I stab the "death" of the two dogs in my line of vision.
+text But, it isn't enough.
+text For each one I kill, ten more beasts take its place to rip into my body.
+bgload IMA_10.jpg
+sound SE_01.aac 1
+text "Ah----Ah.."
+text I can't see.
+text I can't see anything.
+text Everything is pitch black.
+text There isn't anything wrong with my eyes.
+text All around me----the black beasts envelop me in darkness.
+text "------!!!!!!"
+text Things can't keep going this way.
+text I will die.
+text I won't last five more seconds.
+text My ankles are bit.
+text Blood flows.
+text My body feels like it will fall.
+text If I collapse, it will all be over.
+text They will ravenously feast on my body if I hit the ground.
+text ~
+text "No----"
+text No.
+text That is more fearful than painful.
+text ---Everything is pitch black.
+text I can't see anything.
+text I can't do anything.
+text But, that's why I have to think.
+text ~
+choice I'll bear with it for now and wait for my chance.|I have to destroy the main body.
+if selected == 1
+    jump s102.scr
+fi
+if selected == 2
+    jump s103.scr
+fi

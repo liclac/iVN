@@ -1,0 +1,28 @@
+sound ~
+music ~
+setvar ~ ~
+bgload title.jpg
+text ~
+text @Saya no Uta DS Edition v1.0
+text @Translation by Makoto
+text @DS Port by Anonymous
+music music/s02.mp3
+text !
+
+if ending >= 1
+	choice Start game|View endings
+	if selected == 1
+		jump s01.scr
+	fi
+	if selected == 2
+		jump endings.scr
+	fi
+fi
+
+choice Start game
+if selected == 1
+	jump s01.scr
+fi
+if selected == 2
+	jump debug.scr
+fi

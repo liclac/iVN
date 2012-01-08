@@ -1,0 +1,169 @@
+bgload CMO_05.jpg
+text Back then, the whole mansion was like a giant playground.
+text ~
+text The garden, a deep forest.
+text The house, a tall castle.
+text ~
+text We played in our own little world, which would take days to explore.
+text Every day was fun.
+text No one thought about ever growing up,
+text and we believed that days and nights would always be the same.
+text ~
+text It was just a childhood spent playing like puppies.
+text We got along wonderfully, and were the best of playmates.
+text Whenever I turned back, Akiha would be there, aacing her hands and hiding shyly.
+text Yes, always the same.
+text At that time, the mansion was a giant playground.
+text The garden, a deep forest.
+text The house, a tall castle.
+text ~
+text We played in our own little world, which would take days to explore.
+bgload IMA_11.jpg
+text I slowly awaken and open my eyes.
+text The morning light wraps around me and my sleepiness starts to lift.
+text ~
+text As the last vestiges clear,
+text I sense that I had a very nostalgic dream.
+bgload BG_40E.jpg
+text "-------"
+text As soon as I open my eyes, I start to see those terrible things jump into my vision.
+text My head stabs with pain.
+text "Gg----"
+text I scramble for the glasses by my pillow and put them on.
+bgload BG_40A.jpg
+music 02.mp3
+text I take in some air.
+text After taking a few deep breaths, I manage to calm down.
+text "Why did I---so early.."
+text See those lines so clearly this early in the morning?
+text It's difficult to see the lines of death in buildings.
+text It's usually hard to see them, and seeing them so clearly like I just did now is rare.
+text "........"
+text What's more, I even saw those "points".
+text I think my headache is getting worse too.
+text Sensei said these eyes would attract things that weren't good.
+text I think Arcueid and these vampires are certainly not good.
+text So, maybe it's all affecting my eyes and making them stronger.
+text "----Can't be."
+text I'm probably just tired.
+sound SE_04.aac 1
+text "Please excuse me."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text Hisui enters and greets me with a bow.
+text "Ah, morning Hisui."
+text "Yes, good morning Shiki-sama."
+text .... Hisui brings my uniform as usual.
+text But, I can tell she is a bit angry.
+text .... The reason doesn't need to be said.
+text She must be angry over yesterday because I didn't get back until very late, worked my way into my room and slept.
+text "Hisui, last night, um...."
+bgload BG_40A.jpg
+setimg HIS_T08.png 62 0
+text "Shiki-sama, there is no need to give me any excuses."
+text Answering quickly, she starts walking towards the door.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Then please excuse me.
+text Nee-san has prepared your breakfast, so please hurry to the sitting room."
+text "Yeah, I planned on doing so...."
+bgload BG_40A.jpg
+setimg HIS_T09.png 62 0
+text "And Shiki-sama,
+text Akiha-sama would like to talk to you about your late return last night.
+text So please hurry to the sitting room."
+bgload BG_40A.jpg
+text ~
+text She shuts the door emotionlessly.
+text "U-----"
+text .... Well, come to think of it, this is a perfectly natural result.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text Akiha is the only one in the sitting room.
+text Kohaku-san is in the kitchen, humming away.
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text "............"
+text Akiha doesn't say anything when she sees me and sips her tea quietly.
+text "Hey.
+text Good morning, Akiha."
+text I try to greet her as naturally as I can.
+text Akiha's eyebrow twitches as she places her teacup down and slowly looks at me.
+bgload BG_34A.jpg
+setimg AKI_T18A.png 40 0
+text "Good morning Nii-san.
+text It was quite late when you came home last night, wasn't it?"
+text ".... No, not really.
+text It was at most a little past one o'clock, quite normal for a healthy young man in high school to be up, right?"
+text "I see.
+text My bedtime is also past midnight so I was up at that time.
+text But I would come home much earlier than that."
+text "Ah.... well, there were some pressing circumstances and I couldn't get back.
+text But I did return, so---"
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text "Yes, very late at night and you went back to your room.
+text Without saying anything or without making a noise.
+text .... Goodness, you acted like you were out doing something you felt guilty over."
+text "Uh......"
+text Her stare is pure ice.
+text .... This is the second time, and I'm sure even though Akiha looks calm, she is quite angry.
+text "--Nii-san.
+text I don't know what went on at the Arima house, but here the curfew is eight o'clock.
+text It is a rule that must not be broken.
+text The gate will be locked after that, so please don't climb in like a robber."
+text "Oh---You knew?"
+text ".... The surveillance camera showed me quite clearly.
+text It is a good thing Kohaku realized it was you and turned off the alarm system because otherwise you would probably be detained right now."
+text ".... Oh.
+text I should thank Kohaku-san then.
+text And, um, Akiha, I'm sorry.
+text I shouldn't have kept quiet about it."
+text ".... If you understand, then it is fine.
+text Please make sure you observe your curfew from now on.
+text I will overlook it this time."
+text ".... About that, Akiha."
+text "What is it?"
+text ".... This is a little hard to say.
+text I.. have something to do tonight too.
+text I don't know when I will be back, but I'm not going to do anything bad---"
+text "---------"
+text Akiha's gaze tightens.
+text "Kohaku!"
+text She suddenly stands up.
+bgload BG_34A.jpg
+text Kohaku-san comes in from the kitchen.
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+text "Yes, what is it Akiha-sama?"
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+setimg AKI_T11A.png 104 0
+text "I will be going to school, get the preparations ready."
+text "Huh?
+text But I have not yet made Shiki-san's breakfast."
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+setimg AKI_T06.png 104 0
+text "You can leave this person alone.
+text It seems he can do everything by himself."
+bgload BG_34A.jpg
+setimg KOHA_T02.png -12 0
+text Akiha strides towards the lobby.
+bgload BG_34A.jpg
+setimg KOHA_T01A.png -12 0
+text Kohaku-san sighs.
+text ".... Shiki-san, you should not make Akiha-sama so upset.
+text You are her big brother, so please treat her better okay?"
+text Saying that, she walks after Akiha.
+bgload BG_34A.jpg
+text ~
+text The teacup sits, still steaming.
+text "---Well, in short.."
+text I'm left by myself to calmly consider my situation.
+text "Guess I'm skipping breakfast today."
+text Yeah, no doubt.
+text .... I should stop by a convenience store on the way and buy some bread.
+bgload IMA_10.jpg
+music ~
+jump s149.scr

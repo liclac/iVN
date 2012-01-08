@@ -1,0 +1,150 @@
+bgload IMA_11B.jpg
+bgload BG_40A.jpg
+music 01.mp3
+text "---What am I thinking?"
+text No, I'm just tired.
+text I still haven't forgotten what happened with Yumizuka.
+text I'm not a vampire.
+text I'm still a normal human being.
+text ~
+bgload IMA_13B.jpg
+bgload BG_40A.jpg
+text But, there's a part of me that wanders in search of blood every night.
+text ~
+text So, maybe..
+text It's that I don't notice, but I'm already at a point where I can't go back----
+sound SE_04.aac 1
+bgload BG_40A.jpg
+setimg HIS_T12.png 62 0
+text "Hisui---?"
+text Hisui enters with an urgent expression.
+bgload BG_40A.jpg
+setimg HIS_T16B.png 62 0
+text ".... Excuse me.
+text You are awake, are you not, Shiki-sama?"
+text Hisui bows quietly.
+bgload BG_40A.jpg
+text .... Her pure figure is so much the opposite of my earlier dream, it makes the uneasiness in my chest go away.
+text "No, don't worry, I was up already.
+text .... Morning, Hisui.
+text Thanks for coming to wake me up again today."
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes.
+text Good morning."
+text Bowing again, Hisui approaches the bed.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "I have brought you a drink.
+text If you are feeling poorly, please take it."
+text Hisui presents a drink on a silver tray.
+text The tray also has some kind of medicine on it.
+text "....?
+text What is it, Hisui?
+text You've never come with medicine before."
+bgload BG_40A.jpg
+setimg HIS_T17.png 62 0
+text ".... Shiki-sama, are you feeling alright?
+text As you seemed to be caught up in a terrible nightmare and your face appeared pale, I brought you some medicine."
+text "----I seemed to be having a nightmare?"
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "Yes.
+text It also seemed that your body was very hot, so I had Nee-san prescribe something for a fever.
+text Perhaps there was no need?"
+text "Of course not, thank you for worrying."
+bgload BG_40A.jpg
+text I swallow the medicine and water she offers.
+text Ignoring the medicine, I'm grateful for the water.
+text As Hisui says, my body is very hot, and my throat is terribly dry.
+text Even though it's only pure water, it tastes great.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "If you are feeling better, please go to the dining room.
+text If you are not, please take today off."
+text "No, I won't skip school.
+text I can't take a day off just because of this."
+bgload BG_40A.jpg
+setimg HIS_T17.png 62 0
+text ".... But, your face still appears pale, Shiki-sama."
+text "I'll be fine.
+text Anyway, our school has tomorrow off.
+text Since I'll have tomorrow off, I can push it a little today, can't I?"
+bgload BG_40A.jpg
+setimg HIS_T05.png 62 0
+text "........"
+text Hisui glances down, looking like she wants to say something.
+text Do I really look that bad today?
+text "Hisui, just one question.
+text Was I really having a nightmare?"
+bgload BG_40A.jpg
+setimg HIS_T17.png 62 0
+text "---Yes.
+text I do not know when you returned, but you were terribly tired and went straight to sleep.
+text When I came to wake you in the morning and opened the curtains, you seemed to be in pain, and your breathing was rough."
+text .... I see.
+text A dream like that would cause me to be in pain.. eh?
+text Just hang on a second.
+text "---Hisui.
+text What did you just say?"
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "That you were in poor condition since this morning."
+text "No, before that!
+text I came back?
+text Where from!?"
+text "---I do not know.
+text Nee-san told me she saw you leave while she was patrolling the mansion."
+text ".... I, left..?"
+text "Yes.
+text Nee-san and I patrol the mansion every three hours.
+text While Nee-san was doing the rounds at midnight last night, she saw you leaving the mansion."
+text "Wha.."
+text "Since it seems you were able to return before morning, Nee-san has not told Akiha-sama of this.
+text .... As Nee-san is indulgent of you, Shiki-sama, it will surely remain that way."
+bgload BG_40A.jpg
+text "-------"
+text Wha---what is, this?
+text I went outside?
+text That can't be.
+text I was sound asleep this whole time, having a dream.
+text Having such a.. lively.. drea.. m.
+text "Ah----"
+text But, this is weird.
+text Dreams are forgotten the moment you wake up, so why do I still remember all the details of the dream so perfectly..
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama..?
+text Your face still appears pale.
+text How are you feeling?"
+text "Ah, yeah, I'm fine.
+text I'm fine, so go ahead, Hisui.. It's okay, I'll go right away."
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "I understand.
+text I shall wait for you in the dining room."
+bgload BG_40A.jpg
+text Closing the door behind her, Hisui leaves the room.
+text ~
+text ".... Yeah, I'm fine.
+text No problems at all.
+text I'm just, fine.."
+text I say it over and over again, trying to persuade myself.
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+music ~
+text To get to the dining room, I have to pass through the sitting room.
+text .... It's depressing.
+text To be honest, I don't want to see anyone right now.
+text Hisui and Kohaku-san, and.. and Akiha.
+text I'm not sure I can act normally.
+text ~
+text I'll----
+text ~
+choice Still, I can at least say good morning to Akiha.|I can't. Let's go back to my room.
+if selected == 1
+    jump s354.scr
+fi
+if selected == 2
+    jump s355.scr
+fi

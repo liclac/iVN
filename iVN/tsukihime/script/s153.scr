@@ -1,0 +1,56 @@
+music ~
+bgload BG_06B.jpg
+text .... As expected, the debate over what to do for the Culture Festival is a stormy one.
+text Since everyone's opinions are different, the decision gets postponed till next week.
+text By the time it's over, it's late in the afternoon.
+text Everyone gets up tiredly from their chairs and leaves the classroom.
+text ~
+text "----Well then."
+text There's nothing to do in the classroom.
+text I should get ready for tonight and go back to the mansion---
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+music 01.mp3
+text I don't swing by anywhere else and head right back to the mansion.
+text The sun hasn't quite set so Akiha probably isn't back yet.
+text "That Akiha.
+text I wonder if she's still mad like this morning...."
+text ~
+text .... Well, that can't be helped either.
+text I can't tell her the truth, so I'll probably just continue to be hated as a terrible older brother.
+bgload IMA_10.jpg
+bgload BG_33B.jpg
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Welcome back, Shiki-sama."
+text Hisui bows as I enter the mansion.
+text ".... Yeah, I'm back.
+text Thanks for greeting me, Hisui."
+text ---It's been a week since I've come back, but I'm not used to this yet.
+text "Um, Akiha isn't back yet?"
+text "No.
+text She told me to tell you she would be back especially late tonight so please eat dinner on your own, Shiki-sama."
+bgload BG_33B.jpg
+text .... I knew she'd still be angry from this morning.
+text "----Sigh."
+text I slump my shoulders as I start to walk to my room.
+text ---And then,
+text ~
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama."
+text Hisui looks around the lobby before she speaks again.
+text "Forgive me for asking an awkward question, but will you be leaving tonight again, Shiki-sama?"
+text "Eh----?"
+text She fixates her emotionless eyes on me.
+text I think she simply wants to know what time I'll be back because she's so dedicated of a servant, but letting her know means Akiha would know.
+text I should---
+text ~
+bgload BG_33B.jpg
+choice Still, I'll tell Hisui the truth.|No, I can't let anyone know.
+if selected == 1
+    jump s154.scr
+fi
+if selected == 2
+    jump s155.scr
+fi

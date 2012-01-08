@@ -1,0 +1,51 @@
+bgload BG_03A.jpg
+text ---I gather up my courage and ask her about last night.
+text ~
+text ".... Uh--Senpai.
+text Last night, were you in the park?
+text I thought I saw you wearing something like a black coat, with your skirt flowing in the wind."
+bgload BG_03A.jpg
+setimg CEL_T09.png 52 0
+text ".... What is that?"
+text "Um....!
+text well--yeah, the high-laced boots suited you.
+text I was kind of fascinated, you looked.. really cool."
+bgload BG_03A.jpg
+setimg CEL_T08.png 52 0
+text ...."Huh?" Senpai tilts her head.
+text She frowns like she doesn't understand my words completely, and then denies it.
+text "Um, I don't quite understand, but you're saying that I was near your house two nights ago, looking like that?"
+text "Yeah.
+text Senpai, that was you, right?"
+bgload BG_03A.jpg
+setimg CEL_T10A.png 52 0
+text "No way.
+text Tohno-kun, are you saying I look like I really have that much free time?"
+text ---Senpai is really angry.
+text She can't be playing ignorant or lying.
+text "Ah----No, that's not it, but I just.... saw someone that looked like you in park last night, so---"
+text Senpai gives a sigh.
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Tohno-kun, that wasn't me.
+text I don't have that kind of hobby."
+text "Ah---Yeah, I know.
+text I just wanted to ask."
+text Certainly after having her say that, she is right.
+text Ciel-senpai and the person that night aren't related at all.
+text In the first place, Senpai's just a normal person, and if she was actually there---she had to have seen me kill that vampire with my knife.
+text If she saw such a gruesome scene, there'd be no way she could talk with me normally like this.
+text ".... Sorry, please forget about it.
+text I guess it was just someone else."
+bgload BG_03A.jpg
+setimg CEL_T09.png 52 0
+text "That's fine, but.... did that person really look like me?
+text That weird person?"
+text "Well, I'm not too sure.
+text It was dark, and far away........ huh?"
+text Yeah, it was far and I couldn't make out her face.
+text So why did I think it looked like Senpai....?
+text ".... Hmm.. Maybe there is something wrong with me."
+text I cross my arms and think.
+setvar flgC + 1
+jump s225.scr

@@ -1,0 +1,79 @@
+music 03.mp3
+bgload BG_19B.jpg
+bgload BG_19B.jpg
+setimg ARK_T01A.png 36 0
+text "This is a pretty nice room.
+text I'd have no problems spending the night here."
+text Arcueid looks around the hotel room.
+text "-----"
+text I've got nothing to say for now.
+text "My room has probably already been discovered, so let's hide out here for the night.
+text Oh, you don't have to worry about money.
+text I'm rich, so I'll treat you."
+text Speaking cheerfully, Arcueid closes the curtains.
+text She also turns off the lights and the room becomes as dark as night.
+text I sigh.
+text ".... What are you thinking, Arcueid?"
+bgload BG_19B.jpg
+setimg ARK_T03.png 36 0
+text "I'm thinking about all sorts of stuff."
+text "No, that's not what I mean---"
+text ~
+text I'm asking why you've rented a high-class hotel, not a cheap one--and why you rented out the whole top floor.
+text "......"
+text I try to say this, but I stop.
+text Right now, my job is to guard this so-called vampire and nothing more.
+text I'm not going to ask any useless questions.
+text "---No, forget it.
+text Do whatever you like."
+bgload BG_19B.jpg
+setimg ARK_T08.png 36 0
+text "You're weird, Shiki, suddenly getting mad and going silent like that.
+text I just don't get you."
+text Arcueid lies on the bed, smiling like she's having fun.
+text "I'm going to sleep until the sun sets.
+text You'd better rest while you have the chance.
+text Vampires don't move about in the daytime, so you'll be on guard for real during the night."
+text ".... Do you realize you've just said something that completely contradicts your existence?"
+text "Oh, it's alright for me---oh, I guess it's almost my limit.
+text Good night, Shiki.
+text Wake me up when the sun sets."
+bgload BG_19B.jpg
+text "H--hey!"
+text "-------"
+text Like a machine whose power is cut off, Arcueid suddenly falls asleep.
+text "Ha-----"
+text She's so.. defenseless.
+text ".... Right now, I could run away if I wanted to."
+text She did force me to come with her, after all.
+text I could easily run away now.
+text .... And I don't have that impulse anymore, but..
+text ~
+text "I even killed you once, yet.."
+text ~
+text How is she able to suddenly fall asleep despite that?
+text "......"
+text I look at Arcueid's face as she sleeps on the bed.
+text .... Her plump chest rises and falls.
+text It looks like she's breathing.
+text But her body isn't moving at all.
+text It's like the air around her has stopped.
+text It's so tranquil even I might stop moving.
+text ~
+text ----What a peaceful slumber.
+text ~
+text A kind of defenselessness as if she had absolute trust in me, even though we've only just met.
+text "---She's so stupid."
+text .... She is so stupidly honest I might start to worry.
+text But aside from that, this is a turning point.
+text This may very well be the point of no return for Tohno Shiki.
+text I----
+text ~
+music ~
+choice I should be escaping after all.|Still, I can't leave her alone.
+if selected == 1
+    jump s84.scr
+fi
+if selected == 2
+    jump s81.scr
+fi

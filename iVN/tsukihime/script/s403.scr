@@ -1,0 +1,36 @@
+bgload BG_40A.jpg
+text "........"
+text I don't know what to say.
+text Even though I'm only a little better than yesterday, at least now I feel alive.
+text But, after making Hisui do that---making her drink that completely, maybe it was just better if I stayed like that.
+bgload BG_40A.jpg
+setimg HIS_T21.png 62 0
+text "------"
+text Hisui straightens out her clothes and moves away from the bed.
+text ".... Hisui.... I"
+text "Shiki-sama.
+text Please do not tell anyone of this.
+text .... I do not want you to say it even to myself."
+text "---"
+text .... Of course, Hisui must hate what she just did enough to not even want to be reminded of it.
+text "Shiki-sama.
+text This was something that I did on my own.
+text Please think that nothing happened.
+text Otherwise, I will be unable to serve you any longer."
+text "-------"
+text I don't know how to respond.
+text I don't have words to apologize to her, and I don't have the words to thank her either.
+text "Well then, please excuse me."
+bgload BG_40A.jpg
+text "A......"
+text Hisui leaves.
+text All I can do is watch as she does so.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+text .... It's two o'clock.
+text Even though it's time for my checkup, Hisui probably won't come.
+text ........ *sigh*
+text All I can do is sigh.
+text Just how did all of this happen?
+text Even though it was Hisui that started all this, what was I doing holding her head and coming in her mouth like that?
+jump s405.scr

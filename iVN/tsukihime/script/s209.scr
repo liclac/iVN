@@ -1,0 +1,45 @@
+bgload BG_06A.jpg
+music 01.mp3
+text I still feel down even when lunch time arrives.
+text While the news of Yumizuka Satsuki running away from home was shocking, it seems it wasn't a topic that could last forever.
+text The classroom is just like always, and it seemed that I'm the only one troubled by our absent classmate.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Tohno, let's go get lunch."
+text "That's okay.
+text I don't really feel like it."
+text "Huh.. I guess it can't be helped.
+text Don't be troubled with other people's problems too much."
+bgload BG_06A.jpg
+text "...."
+text Other people's problems, huh.
+text Arihiko's words are too close to the truth.
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "Huh?
+text You're not with Inui-kun today?"
+text ".... Senpai?
+text What are you doing in our classroom?"
+bgload BG_06A.jpg
+setimg CEL_T09.png 52 0
+text "Well, I thought I'd have lunch with you guys.. Tohno-kun, aren't you going to eat something?"
+text Senpai sits down on the desk, looking at me anxiously.
+text "Nah, I just don't seem to have any appetite today."
+text "Ahh.. Are you not feeling well?"
+text ".... Something like that.
+text Don't worry about me, you go on to the dining hall.
+text Arihiko's probably already there."
+bgload BG_06A.jpg
+setimg CEL_T08.png 52 0
+text "Oh, you're not energetic at all!
+text I don't know what happened, but if you don't eat lunch, you'll just feel even worse."
+text "That's.. true.
+text But.."
+text But since I'm not hungry, there's not a lot I can do.
+bgload BG_06A.jpg
+setimg CEL_T03.png 52 0
+text "Alright, I'll take you somewhere special.
+text It's really a secret, but you're special, Tohno-kun."
+bgload BG_06A.jpg
+text With that, she grabs my arm and pulls me out of the chair.
+jump s209a.scr

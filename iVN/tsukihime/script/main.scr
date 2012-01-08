@@ -1,0 +1,32 @@
+if clear_kohaku != 0
+    bgload TITLE2.jpg
+fi
+if clear_kohaku == 0
+    bgload TITLE1.jpg
+fi
+setvar ~ ~
+text ~
+text @Tsukihime DS Edition r21
+text @Translation by Mirror Moon
+text @DS Port by Digital Haze
+music 08.mp3
+text !
+if clear_kohaku != 0
+    choice Watch Opening|Start Game|"Eclipse"
+fi
+if clear_kohaku == 0
+    choice Watch Opening|Start Game
+fi
+
+if selected == 1
+    music ~
+    jump opening.scr
+fi
+if selected == 2
+    music ~
+    jump s20.scr
+fi
+if selected == 3
+	music ~
+	jump eclipse.scr
+fi

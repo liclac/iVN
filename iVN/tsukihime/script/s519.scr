@@ -1,0 +1,53 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text Now for the hint corner for the poor Tohno-kun who reached a Dead End in midst of the climax,
+text It is time for "Teach me, Ciel-sensei!"
+text It would have been better to quit, but this corner is already into the second day.
+text At this rate, we might go on until the third day, which makes me feel a little sick.
+text ~
+text Then, let's begin the first period lesson.
+text Oh geez.
+text That's why I told you, Tohno-kun.
+text You shouldn't trust Arcueid.
+text ~
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text "No.
+text That's not my fault."
+text ~
+text It's your fault no matter how you look at it.
+text ~
+text "Unyaa!"
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ----Well then.
+text ~
+text To the Tohno-kun who came here.
+text It's hard to say, but you have to resubmit from quite a while back.
+text The feelings for you that were born inside of Arcueid were unfortunately weaker than her urges as a vampire.
+text Please go back one or two days and try strengthening the bond with her.
+text ~
+text Oh yes, and one more thing.
+text Tohno-kun, even though you were enchanted, I don't think it's good to easily go crazy.
+bgload IMA_10.jpg
+setimg ARK_T30.png 61 0
+text "It's nyaat my fault...."
+bgload IMA_10.jpg
+setimg ARK_T31B.png 61 0
+bgload IMA_10.jpg
+setimg ARK_T31A.png 61 0
+text "Shiki, you idiot!
+text Blockhead!
+text Insensitive oaf!"
+bgload IMA_10.jpg
+music ~
+text !
+jump main.scr

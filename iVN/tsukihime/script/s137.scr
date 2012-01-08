@@ -1,0 +1,200 @@
+bgload BG_32C.jpg
+text It's quiet at the mansion gate.
+text The time is seven o'clock at night.
+text Akiha should be back, probably having tea in the sitting room.
+bgload IMA_10.jpg
+bgload BG_48C.jpg
+text ....?
+text I'm not sure what's going on, but I hear voices coming from the sitting room.
+text It's almost time for dinner, so it's strange for people to be just talking at this time.
+text Kohaku-san should be in the kitchen, and I think a conversation between Hisui and Akiha would be out of character.
+text ~
+text ".... Kohaku-san and Akiha are drinking tea, perhaps." Well, I guess that's most likely.
+text First thing's first.
+text I open the mansion's front door.
+bgload BG_33C.jpg
+bgload BG_33C.jpg
+setimg HIS_T01.png 62 0
+text Hisui is standing in the lobby.
+text "I'm a little late, but I'm back."
+text "............"
+text Hisui silently greets me devoid of any expression.
+text She does not say her usual "Welcome back", and looks like she's in a bad mood.
+text "Did something happen?
+text I might be imagining it, but you seem a little angry."
+bgload BG_33C.jpg
+setimg HIS_T08.png 62 0
+text ".... There is a guest for you, Shiki-sama.
+text She has been waiting in the sitting room, so please hurry there."
+text "A guest for me?"
+text Hisui nods.
+text "I wonder who.
+text There isn't anyone who would come visit me----"
+text ~
+text Oh, wait.
+text I have this terrible, terrible feeling.
+text ~
+text "Hisui.
+text What, kind of person is it....?"
+text "A pretty woman with golden hair."
+text Hisui's response is straightforward.
+text I wordlessly dash towards the sitting room.
+bgload IMA_10.jpg
+bgload BG_34B.jpg
+music 03.mp3
+text ----Too late.
+text It seems the current state of affairs is already at a level I can't escape from.
+bgload event/ARK_E08.jpg
+text "----Welcome home, Nii-san."
+text "Oh, you're finally back."
+text They both greet me in completely opposite manners.
+text "............"
+text What, is this?
+text Arcueid and Akiha seem to be confronting each other.
+text They are both sitting down calmly.
+text But while Arcueid's calmness is natural, Akiha's calmness is from her hostility toward Arcueid.
+text Akiha takes a look at me.
+text "What is the matter, Nii-san?
+text You do not have to stand there, please have a seat here."
+text ~
+text Uh, I feel like I'll get stabbed if I go over there.
+text ~
+text "Uh, I'm fine.
+text Anyway, Akiha, this person is, well----"
+text Hmm----how should I explain this?
+text Akiha would not believe me if I say she's a classmate of mine, and telling her I met her in town would be like throwing oil on a fire.
+text "Well?
+text What is it?"
+text "Um, that's, uh----"
+text ~
+text Now that we're in this situation, I think it doesn't matter what I say, but I have to make a good excuse and get out of it.
+text That's what I have to do, but----why did Arcueid come here in the first place?
+text ~
+text "Um----did she say why she came here?"
+text I point to Arcueid in a desperate suicide gamble.
+text "Hm?"
+text She tilts her head, confused.
+text ".... Isn't she one of your friends, Nii-san?
+text That is what she told me."
+text "Well---yeah, you can say she's a friend."
+text "I see.
+text I really would like for her to be introduced to me.
+text If she is your friend, Nii-san, I can't push her out of our house."
+text "Ah---well, Akiha-san."
+text I start to stammer again.
+text Then Arcueid, unable to sit quietly during our sibling conversation, joins in without my permission.
+text "Please don't worry about it.
+text I just came here to get Shiki, so we'll be on our way.
+text Isn't that right, Shiki?"
+text .... My whole world jolts.
+text ~
+text ------This is bad.
+text If I let her keep talking, she'll lead me to an early grave.
+text "Huhu, ahahahaha!"
+text Laughing desperately, I run to Arcueid and grab her arm.
+bgload BG_34B.jpg
+bgload BG_34B.jpg
+setimg ARK_T06.png -28 0
+text "Hey, Shiki, what are you doing all of a sudden?"
+text There's no time to listen to her complaints.
+bgload BG_34B.jpg
+text I pull on her arm and dash out of the sitting room, leaving a stunned Akiha behind.
+bgload IMA_10.jpg
+bgload BG_33C.jpg
+bgload BG_33C.jpg
+setimg HIS_T01.png 62 0
+text Hisui is in the lobby.
+text She looks at me with somewhat colder eyes than usual as I run with Arcueid.
+text ~
+text "Are you leaving, Shiki-sama?"
+text "----Yeah, I'll be back late.
+text I really am sorry, but can you leave the gate open?"
+text "----Yes, as you wish."
+text I dash past Hisui's courteously bowing figure and escape the mansion.
+bgload IMA_10.jpg
+bgload BG_32C.jpg
+bgload BG_32C.jpg
+setimg ARK_T11.png 36 0
+text "Ow.
+text Just what in the world were you thinking, taking me outside so quickly like that?"
+text "That's my line....!
+text What in the world were you thinking!?
+text Coming into my house like that is just insane!
+text Are you trying to destroy my life, you idiot....!"
+text I grit my teeth as I glare at Arcueid.
+bgload BG_32C.jpg
+setimg ARK_T13.png 36 0
+text "I---idiot!?
+text Are you calling me an idiot!?"
+text "I'm calling an idiot an idiot, so what else is there, idiot!
+text If you want to argue, I'm listening!"
+text "Eh----ah, huh?"
+text I'm completely infuriated.
+text It's been a while since I've been this mad, and once I'm mad, I have to say everything I want to the person I'm mad at, no matter who it is.
+bgload BG_32C.jpg
+setimg ARK_T16.png 36 0
+text "Hey, I just came to see you.
+text I didn't do anything to make you mad!"
+text ".... Wait.
+text Are you serious, Arcueid?
+text You only came to see me?"
+bgload BG_32C.jpg
+setimg ARK_T14.png 36 0
+text "I didn't even say anything weird.
+text I didn't say anything to your sister about your eyes or about me or anything."
+text "Of course.
+text If you did, we wouldn't be talking like this.
+text I would not have hesitated and thrown you out if you did."
+bgload BG_32C.jpg
+setimg ARK_T11.png 36 0
+text ".... I don't get it.
+text Then why are you so mad?"
+text "That's because you don't ever think!
+text Look, you already stand out just being here.
+text I'll say it now, but you should realize that just by being here you cause trouble....!"
+text For the time being, I said it all.
+text Getting it all out of my system calms me down, but obviously Arcueid isn't so calm.
+text Looking like a cat, she stares at me ill-temperedly.
+bgload BG_32C.jpg
+setimg ARK_T16.png 36 0
+text "----What, saying things like that.. What do you mean I stand out?
+text Don't I look like any other human?"
+text "No, beautiful women always stand out.
+text It doesn't have anything to do with being human."
+text I answer directly.
+bgload BG_32C.jpg
+text ~
+text I answer so flatly that Arcueid understands flatly, too.
+text "---Well, I said too much.
+text It was the first time that's happened to me, so I kind of panicked."
+bgload BG_32C.jpg
+setimg ARK_T14.png 36 0
+text ".... That's okay.
+text It seems like I was the one to blame."
+text Arcueid nods meekly.
+text I feel a little guilty because I think there's something more to it than that.
+text .... In the first place, why did she come to my house....?
+text "Anyway, why did you come over?
+text .... Well, I wanted to talk to you, too, so I guess it's a good thing."
+bgload BG_32C.jpg
+setimg ARK_T11.png 36 0
+text "Really?
+text I was just.. wondering how you were doing, so I swung by to see you."
+text ".... I see.
+text Next time, please do so in a different place.
+text And as stealthily as possible, too."
+text .... I'm worn out.
+text "----Anyway, I want to have a serious talk.
+text I want to talk about it somewhere else since I feel uneasy here, so is that okay?"
+bgload BG_32C.jpg
+setimg ARK_T03.png 36 0
+text "Sure----but talk about what?"
+text "You'll see.
+text .... There'll be less people around, so let's go more towards the middle of the park."
+text Telling her to come on, I start walking.
+bgload BG_32C.jpg
+text Tilting her head in curiosity, she follows me obediently.
+bgload IMA_10.jpg
+music ~
+setvar ark_regard + 1
+jump s139.scr

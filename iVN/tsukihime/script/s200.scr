@@ -1,0 +1,113 @@
+bgload IMA_11.jpg
+text I feel the morning sunlight.
+text I keep my eyes closed as I try to fall asleep again, but the gentle sunlight keeps urging me to open my eyes.
+text ~
+text ---Slowly, I start to awaken.
+text ~
+bgload IMA_05.jpg
+text A quiet atmosphere.
+text The air is comfortably cold, and the sunlight is warm enough.
+text I guess the weather will be great today.
+text ~
+text ---Then, I should get up and go to school.
+text ~
+text That's right, I have to go to school.
+text The past three days, my life was chaos and it made me forget I was a student.
+bgload BG_40A.jpg
+music 02.mp3
+text "........"
+text I wake up.
+text I'm lying on my bed, and my glasses are on the bedside.
+text I automatically put them on and look around.
+text The sunlight streams so strongly in through the window, I almost expect to hear it pouring through.
+text "----"
+text I take a quiet breath.
+text I fill my lungs with fresh air, and it feels like my chest is purified.
+text I hear the clock ticking.
+text Small birds chirp in the woods outside.
+text I stay on my warm bed, aimlessly feeling the relaxed passage of time.
+text ~
+text -----This is, of course, another peaceful day.
+text ~
+text ".........."
+text But, I feel a bit unsatisfied.
+text Although I'm back in this calm morning, I---feel that there is something that seems out of place.
+text Even though I killed that vampire with the black coat and everything is back the way it was---I'm feeling that something is missing.
+text ".... That's ridiculous."
+text I shake my head, and shake off that unimportant thought.
+text ~
+text ---And then.
+text ~
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama."
+text "Uwaaaa!"
+text I jump up in my bed.
+text Now that I look, Hisui is standing quietly at the side of my bed.
+text "Hi-HiHi-Hisui---"
+text ".... Please excuse me, Shiki-sama, but since you did not notice, I spoke."
+text "Ah---well, I mean, I'm sorry, too."
+text Hisui respectfully bows to me.
+text ~
+text ---Sh-she surprised me.
+text My heart is still pounding rapidly.
+text "---Huh?
+text But it's still before seven o'clock, Hisui."
+text "Yes.
+text It is a bit earlier than your usual waking time, Shiki-sama."
+text "Well, yes---then why are you here, Hisui?"
+text "I came to wake you up.
+text Akiha-sama wants to know what have you been doing these last two days so she wanted me to bring you no matter what."
+text "-----Ah."
+text .... I forgot.
+text Come to think of it, I skipped school last Saturday and was with Arcueid through all of Sunday.
+text What's more, I came back late last night, snuck in like a burglar, and then went to sleep.
+text ".... Don't tell me, Akiha's angry....?"
+text "I do not know.
+text Please confirm for yourself, Shiki-sama."
+text ~
+text ---Hisui's voice sounds very cold.
+text ~
+text ".... Hisui, you knew I came back?"
+text "Yes.
+text I noticed when you returned early this morning around two o'clock.
+text We saw you on the security camera when you were climbing the gate, Shiki-sama."
+text "---Um, does Akiha know this?"
+text "No, only Nee-san and I know this."
+text "That's---good."
+text .... Anyway, I think I avoided the worst possible situation.
+text However, it's still pretty bad.
+text Not informing her what I've been doing these last two days and returning in the middle of the night, it's pretty bad.
+text "---Alright.
+text I'll head down immediately.
+text Umm.... and, if possible, I'd be happy if you tried to calm her down as much as possible."
+text "Akiha-sama already appears calm.
+text I think it will be difficult for my words to calm her even more."
+text "---"
+text Ugh, one problem after another?
+text I just got done with Nrvnqsr, so I never thought I would face another life and death battle without even a rest break.
+text Well, time to get up.
+text I can't do anything staying in bed.
+text "I'll go after I change, so please go ahead, Hisui.
+text .... It's alright, I won't run."
+text "---Well then, we will be waiting for you."
+bgload BG_40A.jpg
+text ~
+text .... *sigh*
+text Well then, I should change quickly so Mistress Akiha may pass judgment on me.
+bgload BG_33A.jpg
+text ---Alright, I'm here.
+text Now only a door separates me from the sitting room where Akiha awaits.
+text No matter what the circumstance was, there's no excuse for skipping school and not coming home for two days.
+text Now---
+text ~
+choice I will apologize.|Try to deceive her.|Tell the truth.
+if selected == 1
+    jump s219.scr
+fi
+if selected == 2
+    jump s220.scr
+fi
+if selected == 3
+    jump s221.scr
+fi

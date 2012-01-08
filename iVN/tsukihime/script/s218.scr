@@ -1,0 +1,675 @@
+bgload BG_25B.jpg
+text ----I can't ignore my feelings.
+text ~
+text With a killer skulking around town at night looking for victims, I shouldn't be investigating suspicious sounds in alleyways.
+text But.. I still remember Yumizuka's smiling face from yesterday.
+text There's no reason for Yumizuka to be there.
+text But if she is, she might need my help.
+text .... I'll never forgive myself if I just ignore this.
+text "----Alright."
+text Taking a deep breath, I steel my spirit.
+text Besides, if it comes to it, I have my "eyes" too.
+text Sensei said not to use them recklessly, but she'll find it acceptable if I use it against a killer.
+text ".... The sound.. it came from here.."
+text Preparing myself, I step into the alley.
+bgload IMA_10.jpg
+bgload BG_30B.jpg
+sound SE_01.aac 1
+text ~
+text ---Thump.
+text ~
+text My heart pounds.
+text The back alley is quiet.
+text .... The noise came from the open area at the far end.
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text ~
+text The back of my head, hurts.
+text As if convulsing under the utmost strain, my wracked spine hurts as if it's about to rip itself out of my body.
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text ~
+text Why is it?
+text I can't think, yet my instincts shout at me.
+text ~
+sound SE_01.aac 1
+text ---Thu-mp.
+text ~
+text Don't go.
+text Don't go any further.
+text If you do, you won't be able to come back.
+text ~
+sound SE_01.aac 1
+text ---Thu-mp.
+text ~
+text But it's already too late.
+text I step out of the back alley, and into the the open space.
+bgload BG_31B.jpg
+music 04.mp3
+text "----Eh?"
+text That weak voice is all that I can get out.
+bgload IMA_13.jpg
+text ~
+text ---The back alley is a single sheet of crimson.
+text ~
+text In it, limbs are strewn amongst the garbage and rubble.
+text Not the limbs of dogs, or cats, or the like.
+text They are human limbs, blood dripping from fresh meat and bone.
+bgload BG_31B.jpg
+text The ground and the walls are painted with red blood.
+text A heavy scent fills my nostrils.
+text Thick.
+text Like a red fog permeating my body, the choking smell of blood.
+text A face.
+text A face.
+text A face.
+text A face on a severed head, rolling around with an expression of agony.
+text A face shriveled up like a mummy, split in halves.
+text A face with both eyes gouged out, so distorted I can't even tell if it used to be a man or a woman.
+text "-----"
+text Unable to make a sound, I merely gaze speechless at the corpses.
+text No, they can't even be called human bodies anymore.
+text Even a badly made sculpture looks better than this.
+text There are four bodies.
+text They roll around like scraps of leftover food.
+text ~
+text "Ah----ah."
+text ~
+sound SE_01.aac 1
+text I gape in shock at the sea of bodies.
+text The back of my head throbs,
+text my throat is parched, and my breath burns like fire.
+text My fingertips quiver, and my mouth distorts.
+text What---is this?
+text What is this world before my eyes?
+text "----Red."
+text Yes.
+text Before my eyes, everything is that terrible color---
+text ~
+sound SE_01.aac 1
+text But I merely stand.
+text I think I may be going crazy.
+text ~
+sound SE_01.aac 1
+text Thump.
+text Thump.
+text Thump.
+text ~
+text While being faced with a totally bizarre, alien landscape like this,
+text my heart screams shrilly in anticipation.
+bgload BG_31B.jpg
+text A corpse against the wall moves.
+text No, that's wrong.
+text It's not a corpse.
+text It's not like the scrapped hands and feet.
+text It's a living human being, with limbs attached.
+text "Ah.."
+text I see something out of place.
+text In this ghoulish spectacle, the response to seeing someone alive is more of astonishment than happiness.
+text ~
+text But, if he's alive.
+text If he's alive, I have to help him.
+text "Uh---hello?"
+text In my rush of emotion, I step towards the living figure.
+text ~
+text "---Gih."
+text ~
+text Pulling itself up from the sea, it raises its face toward me.
+text A face like a dried out skull.
+bgload IMA_10.jpg
+text "Hii----!"
+text I leap back reflexively.
+text But the skull moves faster than I do.
+text With a voice like "hyuuhyuu!", he jumps on me.
+text ~
+text ----Hyuu!
+text Hyuu!
+text ~
+text A hideous voice, right next to me.
+text Looking down---there is a large hole in the skull's throat, preventing him from speaking right.
+text "----Ah!"
+text The dried up face, the dried up arm reaching for me.
+text In the throat of this bag of bones, vocal chords vibrate in accord with the ghastly voice.
+text "Uwaaaahhhhh!"
+text Desperately, I try to tear him off me.
+text But he merely raises that ghastly voice, and will not get off.
+text With a creak, the skull's jaw opens.
+text The mouth opens wide enough to rip off my shoulder with a single bite, and he approaches my face as if saying, "I don't want to die, somebody save me".
+text "St----"
+text I can't even say "stop".
+text The guy made only of skin and bones, tries to bite my head---and suddenly, he collapses.
+music ~
+bgload BG_31B.jpg
+text "Eh....?"
+text The awesome power vanishes.
+text The bag of bones in a person's form crumples to the ground and disappears.
+text Softly,
+text like a bad dream, it turns to ash and blows away.
+text ".... What the hell is this?"
+text A pain runs through my shoulder.
+text "Ach.."
+text My shoulders begin to turn red and swell where he has grasped me.
+text ~
+text The pain is real.
+text So this must be real.
+text ~
+text A terrible nightmare.
+text But---it can't be a nightmare, because it's not a dream.
+music 01.mp3
+text "Tohno-kun.
+text It'll be dangerous if you stay there."
+text "----!"
+text I turn towards the voice behind me.
+text At the mouth of the alley where I came from, I see Yumizuka Satsuki.
+bgload BG_31B.jpg
+setimg STK_T03.png 53 0
+text "Yumizuka.. san---?"
+text "Good evening.
+text Fancy meeting you in a place like this, huh?"
+text As if we had merely bumped into each other in the mall, Yumizuka greets me lightheartedly.
+text "Yumizuka-san, what about you.. what are you doing, out at a time like this?"
+text "Oh, just going for a walk.
+text But what's Tohno-kun doing?
+text Killing so many people like this is bad, right?"
+text Yumizuka says, with a light smile.
+text "Killing so many people.. eh?"
+text I look around me.
+text .... And I remember the tragic scene I'm surrounded by.
+text In a sea of blood.
+text Tohno Shiki stands aghast like a murderer.
+text "N.. no!
+text This wasn't me!"
+text "Oh, of course it was.
+text Everyone's dead, and Tohno-kun's alive, so obviously Tohno-kun must have killed them."
+text "No way!
+text It just attacked me....!"
+text I point at the monster that attacked me moments ago.
+text But, nothing's there.
+text Even the ashes of the bones have been blown away by the wind.
+text "Ah----"
+text I swallow my breath.
+text Yumizuka is chuckling.
+text "It's not.. this wasn't.. wasn't me.."
+text My head is paralyzed, and can only manage broken language.
+text .... I understand.
+text I can think clearly, but I can't put my thought into words.
+text ~
+text For example, why is Yumizuka at a place like this?
+text ~
+text For example, why is Yumizuka laughing in the face of this tragic scene?
+text "Yumizuka-san, I---"
+text "Yeah, I know.
+text You just interrupted someone's meal.
+text I'm sorry for sounding mean.
+text I always act against my feelings, so I'm always acting like this to you."
+text Yumizuka is still laughing.
+text .... It's so inappropriate for this scene, I feel a chill.
+music ~
+text Yumizuka doesn't move from the entrance of the alley.
+text Her arms are positioned strangely, as if she's hiding something behind her back.
+text ~
+text ---And, looking closer,
+text there are spots of something red on her sleeve.
+text "Yumizuka, you---"
+text "What is it?
+text Your face looks scary, Tohno-kun."
+text She laughs again.
+text "------"
+text .... No.
+text Somehow, this girl cannot be Yumizuka Satsuki.
+text "Yumizuka---why are you hiding your hands like that?"
+text "Ah, have I been found out?
+text I guess you're too observant to miss that, huh.
+text I've always liked that about you, Shiki-kun."
+text After emphasizing my name,
+text she brings her hands out.
+bgload BG_31B.jpg
+setimg STK_T06.png 53 0
+music 06.mp3
+text Both hands are dyed crimson.
+text Not yet dry, the blood drips off them in red droplets.
+text And, proudly,
+text Yumizuka Satsuki is smiling.
+sound SE_01.aac 1
+text "Yumizuka, your hands---"
+text ~
+text "Yeah.
+text I killed those people."
+text ~
+text "Wha---"
+text "Oh, but, it's okay.
+text I didn't kill them because I hated them.
+text I just needed their blood to live, so I had to kill them."
+text She says it as if it was normal.
+text Of course I can't understand it.
+text All I do understand is---my blood is pulsing wildly throughout my whole body.
+text Thump.
+text Thump.
+text Thump.
+text *pant*.
+text *pant*.
+text *pant*.
+text Like I've fallen in love at first sight with that bloody Yumizuka, I am excited---
+text "You.. really killed them, Yumizuka?"
+bgload BG_31B.jpg
+setimg STK_T03.png 53 0
+text "You wouldn't believe me even if I told you it's a lie, right?
+text Or do you think it's impossible for a girl like me to do such a thing?"
+text Her voice laughs softly.
+text ~
+text ---I don't believe her.
+text I don't believe her, but she is definitely not telling a lie.
+text This tragic scene.
+text It's all Yumizuka's doing.
+text "Why.. such a terrible thing..?"
+bgload BG_31B.jpg
+setimg STK_T10.png 53 0
+text "It's not terrible.
+text Like I said, I didn't kill them because I hated them.
+text There's nothing wrong with killing others in order to live, is there, Shiki-kun?"
+text "What..!
+text That's absurd!
+text Killing is wrong!"
+text "No, it's not.
+text But, I did do one bad thing.
+text Since today was my first time drinking blood, I let a little of my blood get back into them.
+text Because of that, you got attacked, Shiki-kun.
+text "I'm sorry for getting you involved.
+text But we're lucky; it died without being able to finish changing."
+text "What---what are you talking about, Yumizuka?"
+text "It's okay if you don't understand right now.
+text I don't really understand myself yet, so I can't explain it very well.
+text "But, I think after a few days I can become like Shiki-kun.
+text Like Shiki-kun, become a great---"
+bgload BG_31B.jpg
+text As she said so, her face distorts in pain.
+bgload BG_31B.jpg
+setimg STK_T04.png 53 0
+text "Ha---.. aaau!!!"
+text Rasps of agony echo from her throat.
+text Yumizuka chokes up blood.
+text "It---hurts.
+text I guess, even if I'm hungry, I shouldn't just drink blood at random.
+text If it's not good quality, beautiful blood, it won't agree with me.."
+text She breaks out in a fit of coughing.
+text She chokes out blood with every cough.
+text "Nn---kuh, nnaaah..!!!"
+text Yumizuka's body convulses.
+text .... I don't really understand.
+text All I know is, Yumizuka's in terrible pain.
+text That's all I can clearly understand.
+text "Are you okay, Yumizuka..!?"
+text Without thinking, I run towards her to take her hand.
+bgload BG_31B.jpg
+setimg STK_T12.png 53 0
+text "----No!
+text Don't come any closer, Shiki-kun!"
+text But, Yumizuka's voice stops me.
+bgload BG_31B.jpg
+setimg STK_T04.png 53 0
+text ".... You mustn't.
+text I'm not.. entirely okay, Shiki-kun."
+text She speaks painfully, still vomiting red blood.
+text "Yumi.. zuka, you---"
+text I don't understand.
+text Why Yumizuka's in pain, or why she's like this.
+text "What the hell is going on?
+text You said you killed those people, but that's a lie, right, Yumizuka..?
+text If you're in that much pain, shouldn't you be in a hospital?"
+text .... I know.
+text Even though I understand Yumizuka brought about this tragic scene, I still lie to myself.
+text "Hey, Yumizuka---I'm coming over there, okay?"
+text I speak gently.
+text But Yumizuka shakes her head in violent refusal.
+text "Why!?---If you're in pain, we have to get you to a hospital right away..!"
+text "Shiki-kun, you're not getting it.
+text You really never understand anything.."
+text "Idiot!
+text I told you before, I don't understand..!"
+text "Ah.. yeah, you did, didn't you.
+text But you're still here.."
+text Yumizuka begins to pull away.
+text ".... It hurts, Shiki-kun."
+text She breathes raggedly, coughing up red blood.
+text ".... It hurts, it's cold, and I'm scared.
+text I really want your help right now, Shiki-kun."
+text ~
+text ---But it's too early.
+text ~
+text Saying that,
+text Yumizuka straightens up again.
+bgload BG_31B.jpg
+text "Wait for me, okay?
+text I'll go become a great vampire, then I'll come back to see you again!"
+text "Wha---wait up, Yumizuka!"
+text ~
+bgload BG_30B.jpg
+text "------"
+text Yumizuka is gone.
+text Even as I start to run, Yumizuka is long gone.
+text .... Her speed is is not that of a human's, but of a wild beast.
+text "---Yumizuka, you---"
+text What happened to you, really..?
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_30B.jpg
+text ~
+text "Gah---!"
+text My shoulders throb in pain where he grabbed earlier.
+text When I look back, the open space where all the limbs were scattered only left red blood.
+text The faces, the organs, the hands and feet.
+text They all turned to ash, like the skull did before.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_30B.jpg
+text "------Ah."
+text Thump.
+text I feel sick as if I'm going to cough up blood.
+sound SE_01.aac 1
+text ~
+text "This can't, be----"
+text Thump.
+text This excitement, is so intense, I almost ejaculate.
+sound SE_01.aac 1
+text ~
+text "This---"
+text For a while,
+text the crimson color of blood burns in my eyes.
+sound SE_01.aac 1
+text ~
+text "This can't be real----!"
+text My world swims before me.
+text My eyes see nothing but a distorted world.
+bgload IMA_10.jpg
+music ~
+bgload BG_48D.jpg
+text ---Before I realize it, I'm back at the mansion.
+text ~
+text Just like a pet somehow finding its way home, I guess.
+text I'm on the verge of collapsing from dizziness; I didn't think I would make it back this far.
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+sound SE_11.aac -1
+text "...... Ggh."
+text Vomit.
+text I'm going to vomit.
+text "Ah---gha, ah---"
+text My heart is exploding, I can hardly breathe.
+text ".... I have to.... hurry and rest...."
+text Since I've collapsed so many times before from my anemia, I know I'm about to faint.
+text ---If I rest.
+text If I just rest my body in bed, this nausea, my exploding heart, will all go back to normal.
+text ~
+text I---I can forget all about that, as if nothing happened, and wake up to a normal day.
+bgload BG_33D.jpg
+setimg KOHA_T03B.png 52 0
+text "Shiki-san?
+text You have returned?"
+text "Ah.... Kohaku--san."
+text Kohaku-san emerges from the west hallway.
+text .... That's right, Kohaku-san's room is in the west hallway on the first floor.
+bgload BG_33D.jpg
+setimg KOHA_T02B.png 52 0
+text "Welcome back, Shiki-san.
+text Did you get to meet your friend?"
+text "Uh---ah, yes, I met her."
+text I remember as soon as I answer.
+text The scattered limbs.
+text Face.
+text Face.
+text Face.
+text Face.
+text The blood-stained alley.
+text Yumizuka's laughing face and her bloody hands----
+text ".... Sorry.
+text I'm going back to my room, so please go back as well, Kohaku-san."
+text I don't feel like talking with anyone right now.
+text I leave Kohaku-san behind and go up the stairs.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text I collapse on my bed.
+text "Ah----ah."
+text My chest rises and falls as I take deep breaths.
+text "-------"
+text My mind feels faint.
+text Dizziness overwhelms me.
+text Even if it means passing out, I just want to go to sleep right now.
+text ---So why can't I sleep?
+text ~
+text I'm so dizzy right now, but why don't I pass out like always?
+text If I close my eyes, the vision of that scene in the alley shows up under my eyelids.
+text My heart throbs violently.
+text It isn't terror, rather---it's closer to sexual excitement.
+text ~
+text "Why----"
+text I don't understand it at all.
+sound ~
+text Is there this thin of a line between terror and lust?
+sound SE_04.aac 1
+text "Eh........?"
+text Who can it be at this hour?
+text "Shiki-sama, are you awake....?"
+text That whisper is Hisui.
+text Thump.
+text Just imagining her form, my heart calms down a bit.
+text ".... Yeah, I'm awake.
+text Please come in."
+text "---Please excuse me."
+bgload BG_40D.jpg
+setimg HIS_T23.png 62 0
+music 01.mp3
+text .... What's this?
+text Hisui enters carrying a tray and something that looks like medicine wrapped in paper.
+text ".... Hisui.
+text What are you doing at this hour?"
+text "Shiki-sama, you seemed to have trouble sleeping so I brought you some medicine."
+text "Eh......?
+text Uh, that's right.
+text .... But how did you know, Hisui?"
+text "I heard it from my sister.
+text She told me that you were very tired, so I should give extra care."
+text .... I see, it was Kohaku-san.
+text She must have seen how bad my face looked when we met in the lobby.
+text ".... And, this medicine is?"
+bgload BG_40D.jpg
+setimg HIS_T01.png 62 0
+text "It is a sleep-inducing medicine.
+text Your personal physician gave his approval that it could be used for you."
+text "Approval.... at this hour!?"
+text "No, my sister asked your personal physician as soon as she found out you were coming here to live in this mansion."
+text "Wow--Kohaku-san is pretty amazing.
+text She's pretty thoughtful."
+text Anyway, I'm very thankful right now.
+text Taking the water from Hisui, I drink the medicine.
+bgload BG_40D.jpg
+setimg HIS_T19.png 62 0
+text "Nn----ah."
+text I start to feel very sleepy after a while.
+text ".... Thanks, Hisui.
+text Please give Kohaku-san my thanks as well."
+bgload BG_40D.jpg
+setimg HIS_T01.png 62 0
+text "As you wish.
+text Well then, please rest well, Shiki-sama."
+bgload BG_40D.jpg
+text .... I can hear Hisui's footsteps.
+text It feels like all the power is draining from my body.
+text "Mm---feels, good---"
+text I space out.
+text As if I was passing out, I quickly fall asleep---
+bgload IMA_10.jpg
+music ~
+sound SE_02.aac -1
+bgload BG_31B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Is this a dream?
+text A red alley.
+text The same back alley that I was in before.
+text ~
+text Where Yumizuka Satsuki is killing.
+text Luring appropriate passers-by into that back alley.
+text ~
+text Mercilessly killing them from behind by twisting their necks like a damp cloth, then plunging her teeth into them.
+text ~
+text One person.
+text Two people.
+text Three people.
+text Four people.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text How dare she--do those things without me!
+text As if in a dream, indulging herself in drinking the blood, Yumizuka tears apart the four dead bodies and continues licking the blood.
+text ~
+text A crimson world.
+text But, I don't feel it is sick, or detest it at all.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Pathetic.
+text Pathetic, pathetic.
+text A knife in my hand.
+text *pant* *pant* My breathing is out of control.
+text My heart is pounding like a piston, urging me to do something.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text If it were me, I'd do a much better job.
+text *pant*, *pant*, *pant*.
+text I breathe hard.
+text Is it because I'm holding back my impulse of wanting to do the same things Yumizuka Satsuki is doing?
+text ~
+text I'm going out of control.
+text Because I don't---want to see such a thing.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Why are you hesitating?
+text There's no--hesitation.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Why are you holding back?
+text There's no--holding back.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text There's no point resisting it.
+text Someone's.. irritating voice.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text I   I want to do   what I want to do.
+text That voice.
+text It is, my own.
+text ~
+text .... Yumizuka is crying.
+text Is she crying because she's not good at killing?
+text Or is it because she's in pain?
+text I don't know.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Worthless.
+text Is it alright to think so?
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text That woman is worthless.
+text .... But, am I the one who is worthless?
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text WORTHLESS ones should just be killed.
+text .... Is it alright to kill the worthless?
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Kill.
+text ............
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Kill.
+text ..........
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Kill.
+text ....
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Kill.
+text Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill Kill KKill Kill Kill Kill Kill Kill Kill Kill KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL
+bgload IMA_13B.jpg
+text KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL
+text KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL KILL
+bgload IMA_11B.jpg
+sound ~
+bgload IMA_10.jpg
+jump s236.scr

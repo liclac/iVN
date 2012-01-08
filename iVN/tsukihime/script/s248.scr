@@ -1,0 +1,163 @@
+bgload BG_11A.jpg
+text "I have some curry bread."
+text ~
+text I pull out my secret weapon.
+text "Tohno-kun, do you think I can just be bought with food!?"
+text Senpai shouts from the other side.
+text .... Maybe this less than one hundred yen bread didn't work.
+text ".........."
+text Geez.
+text I think trying to barge in would make her more angry, so I guess I should just go back.
+text ~
+text ---And then,
+bgload BG_11A.jpg
+setimg CEL_T12.png 52 0
+text "Well, I guess I'll have some though."
+text She opens the door and stands in front of me.
+text "Se, Senpai--?"
+bgload BG_11A.jpg
+setimg CEL_T08B.png 52 0
+text "Come to think of it, I shouldn't be taking this out on you Tohno-kun.
+text Turning away a guest that came here would be a little rude."
+text With a red face, she mumbles something like an excuse.
+text "Senpai, does that mean, we can eat lunch together?"
+bgload BG_11A.jpg
+setimg CEL_T03.png 52 0
+text ".... Ummm, I don't mind if you take it that way.
+text If you like this room that much, then please come in."
+bgload BG_11A.jpg
+text Senpai goes into the tea ceremony room.
+text Following behind her, I walk inside.
+bgload IMA_10.jpg
+bgload BG_09A.jpg
+music 03.mp3
+text I start to eat with Senpai.
+text Even though I got the impression that she was in a bad mood from Arihiko and her reaction back then, it certainly doesn't seem that way.
+text ".... Senpai.
+text I heard this from Arihiko, but you're angry at me?
+text How come?"
+bgload BG_09A.jpg
+setimg CEL_T08.png 52 0
+text "Eh--no, I'm not really angry at you.
+text It's more of an indirect thing.... Maybe, it's more your insensitivity?"
+text ".... Wait a sec Senpai.
+text You're normally a hard person to understand, but today you're even more so.
+text If you're angry at my insensitivity, that's fine, but what do you mean by 'maybe'?
+text Senpai, you don't understand how you feel?"
+bgload BG_09A.jpg
+setimg CEL_T09.png 52 0
+text She sighs.
+text "I'm a little unsure.
+text I'm not usually concerned with myself."
+text Senpai almost sounds apologetic.
+text "---Probably, I don't like myself."
+text ".... Senpai?"
+text Senpai sits in silence without looking at me.
+text After a short moment of silence, she suddenly glares at me.
+bgload BG_09A.jpg
+setimg CEL_T07A.png 52 0
+text "More importantly, Tohno-kun."
+text ".... Yes?"
+text Straightening up, I look back into her eyes.
+text .... Since I know she's about to begin a very serious conversation.
+text ~
+text "Uh.... what is it, Senpai?"
+bgload BG_09A.jpg
+setimg CEL_T12.png 52 0
+text "Could I have that curry bread?"
+text ~
+text "Wh, what's with that all of a sudden!?
+text Didn't you just say you won't be bought out by food!?"
+bgload BG_09A.jpg
+setimg CEL_T10A.png 52 0
+text "That's a different matter.
+text Tohno-kun, are you trying to take back what you said earlier!?"
+text ~
+text .... Senpai is really angry.
+text It was just a joke for me, but I guess she took it very seriously.
+text ".... Yes, yes, I understand.
+text Please accept this, Your Highness."
+text I hand over the curry bread.
+text Giving that up, I only have some sausage bread left.
+bgload BG_09A.jpg
+setimg CEL_T04.png 52 0
+text ~
+text "Yay!" Senpai happily takes it from me.
+text .... Is she a kid or something?
+bgload BG_09A.jpg
+setimg CEL_T05.png 52 0
+text "Then I will give you some of this hamburger.
+text Here you go," Senpai says as she gives me half of it from her lunch.
+text "......"
+text I think the difference in the barter exchange rate was a little high..
+bgload IMA_10.jpg
+bgload event/CEL_E02A.jpg
+text After we finish our meals, we pass the time while sipping tea.
+text A perfectly tranquil passing of time.
+text ~
+text It seems like she's not conscious of my presence, and I'm not especially conscious of her presence either.
+text ~
+text Just, a calmness.
+text Like two friends of the same gender, we pass the remaining break time like this.
+text "Hey, Tohno-kun."
+text "Yes?
+text What is it, Senpai?"
+text "I've been thinking about this for a while, but your glasses aren't used to correct your vision, right?"
+text ".... Wow, you're amazing Senpai, bullseye.
+text They're just for show."
+text ~
+text "I knew it," Senpai nods.
+text "Hey, Tohno-kun, could I ask a favor?"
+text Senpai looks expectantly at my eyes.
+text .... Not so much my eyes, but my glasses.
+text "Just once, could you take off those glasses?"
+text "---------"
+text That would be troubling.
+text Taking these glasses off means I would see those "lines" and more importantly---I don't want to see the "death" of this person close to me.
+text "I can't do that.
+text Unfortunately, I've never taken these off in front of others.
+text It's kind of like a vow, so I'll reject your request."
+text I answer clearly.
+text Senpai slumps disappointedly.
+text "Huh, if you say so, then I guess it's not possible."
+text "Yes, because these past eight years, I never---"
+text ~
+text .... never took them off in front of other people, but.
+music ~
+text "----"
+text That's right.
+text That ended.
+text With these eyes.
+text I saw the death of many, many things.
+bgload IMA_11B.jpg
+bgload BG_09A.jpg
+bgload CMO_13.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "-------Tohno-kun?"
+bgload BG_09A.jpg
+bgload BG_09A.jpg
+setimg CEL_T07A.png 52 0
+text "Ah---yeah, what is it Senpai?"
+bgload BG_09A.jpg
+setimg CEL_T10A.png 52 0
+text "What do you mean, 'what is it?' Suddenly spacing out like that, lunch break is almost over you know."
+text ".... Oh, that's true.
+text I thought we had about ten more minutes."
+bgload BG_09A.jpg
+bgload BG_09A.jpg
+setimg CEL_T12.png 52 0
+text "Yes, we did have ten minutes.
+text But you were just spaced out for that long."
+bgload BG_09A.jpg
+text Senpai gathers up the cups.
+text "Huh.... Was it really ten minutes....?"
+text While I'm still tilting my head in curiosity, I help Senpai tidy up the tea ceremony room and then leave.
+bgload IMA_10.jpg
+setvar ciel_regard + 1
+jump s249.scr

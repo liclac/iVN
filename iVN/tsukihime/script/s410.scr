@@ -1,0 +1,35 @@
+bgload BG_40A.jpg
+text .................................................................................................................................................................................................. I can't hear the annoying sound of the clock anymore.
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+text Knock, Kno----ck.
+text ~
+text The rhythm of my breathing has gone totally erratic and I can't fix it.
+text .... It's deathly cold.
+text If it's this cold, I want to stop caring about everything----I feel like sleeping.
+bgload IMA_10.jpg
+text Knock Kno, Knock.
+text Kno, Kno, Knock.
+text Kno Kno Kno, Kno Kno.
+text Kno, Kno, Kno---Kno.
+text Kno, Kno Kno, Kno-----Knock.
+text kno-----,,,,,,knock.
+text ,,,,---Kno kno, knock knock.
+text ~
+text "--------"
+text ~
+text I think I hear a knocking sound.
+text Maybe it's Hisui.
+text But my body doesn't move anymore.
+text Tohno Shiki, will live forever in this cage, and no one will kill Tohno Shiki..
+bgload IMA_11.jpg
+bgload IMA_11.jpg
+bgload END.jpg
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s529.scr
+fi
+if selected == 2
+    jump main.scr
+fi

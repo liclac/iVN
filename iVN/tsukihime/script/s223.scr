@@ -1,0 +1,31 @@
+bgload BG_03A.jpg
+text .... Wait a minute.
+text All of that happened, and Senpai still greeted me with her usual smile.
+text Last night----if she saw me fighting Nrvnqsr, then she definitely can't just greet me like this.
+bgload BG_03A.jpg
+setimg CEL_T08.png 52 0
+text "Tohno-kun?
+text Did you want to say something?"
+text "Um, hold on."
+text .... If I think back, that person who helped me last night may not have looked like Ciel-senpai at all.
+text I couldn't get a good look at her face because it was dark, and her atmosphere was completely different.
+text "Senpai, could I get a good look at your face?"
+text "Uh, yes?"
+text She curiously tilts her head and looks up at me.
+text ~
+text .... Of course.
+text Once I think it through calmly, that person didn't resemble Senpai at all.
+text ".... Sorry, it's just a mistake.
+text It's nothing, so please forget about it."
+text "A mistake?
+text I'm a little interested--Mistake about what?"
+text She still stares up into my face.
+text "Uh.... It's, ummm."
+text Looking away, I try to hide my blushing face.
+text .... Having her so close to me at the school gate is embarrassing.
+text "N, nothing.
+text I just thought I saw someone that looked like you last night, but it must have been a mistake."
+text ".... Hmm, a person that looked like me?"
+text Senpai gives a very interested nod.
+text It seems she isn't going to just forget about it.
+jump s225.scr

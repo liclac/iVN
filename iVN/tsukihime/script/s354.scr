@@ -1,0 +1,210 @@
+bgload BG_33A.jpg
+text Still, I have to at least say good morning.
+text Avoiding Akiha because of this little thing will be confirming something is wrong with me.
+bgload BG_34A.jpg
+music 02.mp3
+bgload BG_34A.jpg
+setimg AKI_T09.png 40 0
+text "Good morning, Nii-san."
+text "Ah---"
+text As soon as I enter the sitting room, Akiha greets me with a smile.
+text ".... Ahh.
+text Morning, Akiha."
+bgload BG_34A.jpg
+setimg AKI_T17A.png 40 0
+text "'Morning, Akiha'..?
+text What's wrong, Nii-san?
+text You seem really depressed."
+text "I just had a bit of a bad dream.
+text But you seem to be in a good mood; did something nice happen?"
+bgload BG_34A.jpg
+setimg AKI_T08A.png 40 0
+text "Yes, quite.
+text You got up early.
+text Perhaps we might be able to go to school leisurely today?
+text Having time in the morning always puts me in a good mood."
+text "----I see.
+text Well, I'm glad, Akiha."
+text As I answer, my chest hurts.
+text ~
+text I..
+text I might not be a person that deserves to be smiled at like that.
+text "You should go ahead, then.
+text You'll end up running if you wait for me."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Hm?
+text Did you say something, Nii-san?"
+text "I mean, if you like free time in the mornings, you should just go ahead.
+text You don't really need to accompany me and I don't really have time to keep you company either.
+text If you're ready, you should just go on ahead."
+bgload BG_34A.jpg
+setimg AKI_T23.png 40 0
+text "Eh.. well, that's true, but I.."
+text "But what?
+text You're saying you can't go to school on your own?
+text Give me a break, you're not a child.
+text We're not that young anymore."
+bgload BG_34A.jpg
+setimg AKI_T15A.png 40 0
+text "------"
+text Akiha stands up from the sofa.
+bgload BG_34A.jpg
+setimg AKI_T11A.png 40 0
+text "Nii-san.
+text Were you serious about what you just said?"
+text ".... Not really.
+text It's just what I thought."
+bgload BG_34A.jpg
+text Her teeth grit.
+text Akiha looks down, her shoulders shaking.
+text "Akiha.
+text You'll be late if you don't go soon."
+bgload BG_34A.jpg
+setimg AKI_T06.png 40 0
+text "Yeah, I know!
+text After all, I don't want to go with you and be late!"
+text "Right.
+text So go on.... I'm not in the mood to be with anyone right now."
+bgload BG_34A.jpg
+setimg AKI_T14.png 40 0
+text "----"
+bgload BG_34A.jpg
+text Akiha rushes out.
+text "------"
+text .... What am I doing?
+text I didn't mean to say that, so why----
+bgload BG_34A.jpg
+setimg KOHA_T04.png 52 0
+text "Shiki-san, that was horrible!"
+text "---Kohaku-san?"
+text "Oh, I completely misjudged you!
+text Why did you say such things to Akiha-sama!?"
+text ".... I know.
+text Even I didn't plan on turning her down."
+text "No, you do not understand anything!
+text You don't know how much Akiha-sama was looking forward to this while waiting for you up until now."
+text "?
+text ---Waiting for me.. you mean this morning?"
+text "No.
+text Akiha-sama told me not to tell you, but I can't bear this anymore!"
+text "Listen, Shiki-san.
+text Now, Akiha-sama eats breakfast with you normally, but it was a real hassle before she transferred."
+bgload BG_34A.jpg
+text ~
+text .... I think the ladies' academy Akiha used to go to was in the next prefecture.
+text ~
+text "-----Next prefecture....?"
+text Hold on.
+text That's more than an hour's worth of driving.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "You finally noticed.
+text To begin with, Akiha-sama would not have made it to school unless she left here at six.
+text Nevertheless, she overlooked that because she was looking forward to eating breakfast with you."
+text ".... Looking forward to?
+text Why?
+text She complains every time she sees me."
+text "Because Akiha-sama isn't honest.
+text If you ever woke up on time, I do not think she would have any complaints."
+bgload BG_34A.jpg
+setimg KOHA_T04.png 52 0
+text "But all you did was sleep in and didn't eat with her even once.
+text But Akiha-sama told me just seeing your face in the morning is good enough, and she never told us to go wake you up."
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "---Now do you understand?
+text If you do, can you please apologize to Akiha-sama about earlier?"
+text "------"
+text ........ I was going to do that already, but..
+text "I don't get it.
+text What do you want me to do, Kohaku-san?"
+bgload BG_34A.jpg
+setimg KOHA_T05.png 52 0
+text "No, don't think too hard about it.
+text You just act normally.
+text But Akiha-sama isn't direct, so I just wanted you to be more considerate of her."
+text "........"
+text Act normally?
+text I think that's the most difficult thing for me to do right now.
+bgload BG_34A.jpg
+setimg KOHA_T18.png 52 0
+text "Oh, and all this is a secret.
+text If Akiha-sama finds out I told you this, I will get in trouble."
+bgload BG_34A.jpg
+text Kohaku-san heads into the dining room with a smile on her face.
+text "........"
+text "Come on, Shiki-san; if you don't hurry up and eat, you'll really be late.."
+text I can hear Kohaku-san's voice from the dining room.
+text I head into the dining room, hiding my embarrassed face with my hand.
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text I arrive at the school gates just in time.
+text Running all the way, I somehow escape being late.
+text ~
+text ----Then,
+text I'm patted on the shoulder from behind.
+text ~
+bgload BG_01A.jpg
+setimg CEL_T04.png 52 0
+text "Good morning.
+text Just made it today, huh Tohno-kun?"
+text ".... Senpai."
+bgload BG_01A.jpg
+setimg CEL_T03.png 52 0
+text "And it seems you're not with Akiha-san.
+text Perhaps you overslept today?"
+text ".... Uh, something like that.
+text I had a bit of a fight with Akiha."
+bgload BG_01A.jpg
+setimg CEL_T08.png 52 0
+text "Oh, it's no good for siblings to fight.
+text Tohno-kun, you're the older brother, so you should go and apologize later."
+text ".... You're right.
+text We're in the same school, so I should go and apologize before lunchtime.
+text On top of that, it was my fault to begin with."
+text I sigh.
+text Certainly my problems with Akiha are important, but I should worry about my own troubles for now.
+text Last night's dream.
+text Even though I knew I was asleep, I seemed to have wandered out at night.
+bgload BG_01A.jpg
+setimg CEL_T07A.png 52 0
+text ".... Tohno-kun?
+text What's wrong?
+text Are you worried about something?"
+text Senpai stares at me with concern.
+text I'm grateful for her concern, but I can't rely on her for this.
+text "Eh?
+text .... Ah, just a bit.
+text But it's my problem, so I'll work it out.
+text Thanks for worrying, Senpai."
+bgload BG_01A.jpg
+setimg CEL_T09.png 52 0
+text ".... Really.
+text Well, if it's something you can't solve on your own, I'm always here to help.
+text I'd be happy to do whatever I can."
+text "Yeah, if I'm in real trouble, I'll ask you, then."
+text ~
+sound SE_03.aac 1
+text .... As I speak, the morning bell begins to ring.
+text "---Ack!
+text Well, Senpai, later!"
+bgload BG_01A.jpg
+setimg CEL_T04.png 52 0
+text "Yep.
+text I'll see you at lunch."
+bgload BG_01A.jpg
+text Leaving Senpai standing leisurely as the first bell rings, I rush in the doorway.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text Second period ends.
+text .... If I'm going to go apologize to Akiha about this morning, now would be the right time.
+text ~
+choice Go to Akiha's classroom.|No, I don't need to go and see her.
+if selected == 1
+    jump s356.scr
+fi
+if selected == 2
+    jump s357.scr
+fi

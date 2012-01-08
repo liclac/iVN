@@ -1,0 +1,572 @@
+bgload IMA_10.jpg
+bgload BG_11A.jpg
+music 03.mp3
+text During lunchtime the hall is packed.
+text Students head to the cafeteria or to their favorite places, lunches in hand.
+text Caught in the flow of people, I contemplate whether I should go to the cafeteria or the store.
+text "...."
+text I'm somewhat taken aback at my own leisure.
+text ~
+text If I have time to waste, it'd be better to go to the cafeteria where Arihiko is.
+text I begin walking towards the cafeteria.
+text On the way there, a familiar face aaces and runs up to me.
+bgload BG_11A.jpg
+setimg CEL_T03.png 52 0
+text "Thank goodness!
+text I've been looking for you, Tohno-kun."
+text "Oh.. Ciel-senpai.
+text Hello."
+text ~
+text ---I feel embarrassed for some reason, and return her unusual greeting.
+text ~
+bgload BG_11A.jpg
+setimg CEL_T02.png 52 0
+text "Yes, hello.. Well, we've already met once today, so I guess it's not proper to say 'Hello'."
+text A small smile floats onto Senpai's face, as if she found something amusing.
+text "Eh.. ah.. Yeah, now that you mention it, I guess you're right."
+text I avert my eyes and give a lukewarm reply, becoming increasingly embarrassed.
+text ~
+text ---I wonder.
+text I should be used to speaking to Senpai like this, but for some reason I'm getting embarrassed.
+bgload BG_11A.jpg
+setimg CEL_T03.png 52 0
+text ".... Tohno-kun?
+text Do you have some urgent business?
+text You seem a bit unsettled."
+text "Eh.. No, nothing like that.."
+text .... I don't, but for some reason her every move feels unfamiliar.
+text I can't calm down.
+text ".... It's nothing.
+text More importantly, Senpai, you said you were looking for me.
+text Do you need me for something?"
+bgload BG_11A.jpg
+setimg CEL_T04.png 52 0
+text "Well, I wanted to thank you for this morning, so I was looking for you."
+text "For this morning.. Ah, you mean in the courtyard?"
+bgload BG_11A.jpg
+setimg CEL_T01A.png 52 0
+text "Of course.
+text Sorry to ask, but are you going to have lunch?"
+text I sigh.
+text "Well, people usually eat lunch at lunchtime."
+bgload BG_11A.jpg
+setimg CEL_T03.png 52 0
+text "Great!
+text Then we can eat together.
+text I'll treat you as thanks for this morning.
+text Let's go to the cafeteria."
+text "Eh.. ?"
+text Senpai smiles.
+text Grabbing my wrist, she starts to walk.
+bgload BG_11A.jpg
+text It's strange enough for a third-year like Senpai to walk down the second-year hall, but this attracts even more attention.
+text The gazes of the students in the hall fall upon Senpai and me and a murmur of conversation starts.
+text "Wa.. wait just a second!
+text It's all right, you don't have to..!"
+text I quickly shake her off my arm.
+text "I only did what I did this morning on a whim.
+text There's no need for you to thank me."
+text I draw back from Senpai, well aware of how flushed my face is.
+bgload BG_11A.jpg
+setimg CEL_T03.png 52 0
+text "There's no need to be so reserved.
+text Work should be rewarded.
+text So please, let me treat you."
+bgload BG_11A.jpg
+text Senpai grabs a hold of my arm again.
+text "That's not what I'm talking about.
+text I mean-"
+text I just couldn't say that I'm embarrassed to be with her because we stand out so much.
+bgload BG_11A.jpg
+setimg CEL_T12.png 52 0
+text "Come on, there won't be any seats left if we don't hurry.
+text I'll listen to the details after we get to the cafeteria."
+bgload BG_11A.jpg
+text Senpai starts walking, pulling my arm with a tug.
+text "...."
+text Any further questions would bring more stares from the people around us in the hall.
+text I don't know what Senpai is planning, but I peacefully accompany her to the cafeteria.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text Almost all the seats in the cafeteria are taken.
+text I had spent about ten minutes in the hallway, first spaced out, then talking with Senpai.
+text So empty cafeteria seats are pretty much nonexistent.
+bgload BG_50.jpg
+setimg CEL_T01A.png 52 0
+text "I'll stand in line, Tohno-kun, so please go get some seats.
+text Is there any food you don't like?
+text If there is, now's the time to let me know."
+text "Uh, nope, there isn't.
+text I'm not picky with food."
+bgload BG_50.jpg
+setimg CEL_T04.png 52 0
+text "Very well.
+text I won't take long."
+bgload BG_50.jpg
+text Senpai lines up with everyone else.
+text "...."
+text It seems my only choice is to obediently accept that she'll be treating me.
+text ".... But there aren't any seats left."
+text I look around the bustling cafeteria.
+text You can't find even two seats at this hour, let alone two seats togeth---there.
+text ~
+text I sigh.
+text There, plain as day, is a table with not only two, not three, but four unoccupied seats.
+text There's only one student sitting at the table, and it seems he noticed me while I was looking around for a seat.
+text "Yo, Tohno!"
+text The student vigorously aacing his hand is my dear classmate with the dyed orange hair.
+text "...."
+text My head hurts.
+text But there isn't anywhere else to sit; I have no choice but to return the aace and walk towards the table where my friend is sitting.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+bgload BG_50.jpg
+setimg ARI_T01.png 40 0
+text "You're late.
+text I told you to hurry because I've invited a special guest today.
+text What the hell have you been up to?"
+text Arihiko begins to complain as soon as we are face to face.
+text "Yeah, come to think of it, you did.
+text So, who is it?"
+text "Huh.. about that.. She promised me yesterday she'd come, but she declined this morning.
+text She said she has someone she wanted to thank or something, so she'd be busy this lunchtime."
+bgload BG_50.jpg
+text Arihiko sighs as he eats his Chikara-udon.
+text "Someone she wanted to thank?"
+text Those words catch my attention.
+text "Arihiko.. that special guest wouldn't happen to be a third-year student, would she?"
+bgload BG_50.jpg
+setimg ARI_T03.png 40 0
+text "Whoa!?"
+text Arihiko's body jumps in shock.
+text "A rather energetic girl wearing glasses?"
+text "Whoaaa!?"
+text Arihiko begins quivering.
+text .... The students at the tables around us stand up as if to make a fast escape.
+text ".... A.. Are you psychic..?"
+text Arihiko points at me fearfully.
+bgload BG_50.jpg
+text "No, that doesn't mean I'm psychic, it-"
+bgload BG_50.jpg
+setimg CEL_T04.png -12 0
+text "Sorry to keep you waiting.
+text Good to see you found a seat, Tohno-kun."
+text There.
+text Senpai arrives with a smile, carrying a silver tray.
+bgload BG_50.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T03.png 104 0
+text "....!"
+text Arihiko's eyes are wide open in surprise.
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T03.png 104 0
+text "Huh?
+text Inui-kun?
+text What a coincidence!"
+text Still smiling, Senpai takes her seat.
+text "Ah.. uh.."
+text Arihiko gives a choked response.
+text "Here you go, Tohno-kun.
+text Please, eat until you're full!"
+text Even after all this time, I still can't shake off her smile.
+text "Ah.. all right.
+text In that case, thanks for the food."
+text .... Taking Arihiko's dumbfounded stare in stride, I sit down.
+text Senpai sits in front of me while Arihiko sits beside me.
+text "Itadakimasu."
+text Putting my hands together with a clap, I look down at the tray Senpai brought.
+text ~
+text And on the menu is: Curry Rice, Curry Rice, and Curry Udon.
+text "...."
+text I don't get it.
+text "Err.. Senpai?"
+text "Yes?
+text What is it, Tohno-kun?"
+text "Uh.. about this.. what's going on?"
+bgload BG_50.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T03.png 104 0
+text "What do you mean?
+text It's lunch, isn't it?
+text What else does it look like?"
+text "'What else', you say.. but all I see is curry."
+bgload BG_50.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T03.png 104 0
+text "Yes, it's curry."
+text Senpai laughs happily.
+text .... The problem is, they all look like curry.
+text ".... There's three dishes."
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T03.png 104 0
+text "Of course.
+text You're a boy, so you eat a lot.
+text I'll have just one, so please take whatever you like."
+text "Ah.. Okay.
+text In that case, I'll take the curry rice and curry udon."
+text The other choice is hell.
+bgload BG_50.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T03.png 104 0
+text "Make sure to finish it, Tohno-kun.
+text After all, you aren't picky with food, are you?"
+text "...."
+text There isn't a shred of antagonism in Senpai's smile, nor is this some kind of a joke.
+text She truly had good intentions.
+text ".... Yes.
+text Itadakimasu."
+text I dig into the curry rice with my spoon in despair.
+text ~
+text ---And then,
+text ~
+bgload BG_50.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T02.png 104 0
+text "Tohno-kun!"
+text From beside me came the cry of a dead man being reborn.
+text "How long are you going to ignore your dear best friend!?"
+text Arihiko's elbow sinks into the side of my stomach with a thud.
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T02.png 104 0
+text "Eh..?
+text Inui-kun, do you know Tohno-kun?"
+text "Do I know him?
+text We've been best friends since middle school!"
+text My best friend hits the table with a bang for emphasis.
+text "Really?
+text The person who helped me this morning was Tohno-kun."
+text "Oh yeah?
+text If you had told me his name, I would have brought him here.. So, did this guy do something for you?"
+text "Yes, he helped me fix my splints."
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T03.png 104 0
+text "Huh?
+text He helped you fix your shin splints?"
+text Arihiko frowns suspiciously.
+text .... Well, I guess you would consider helping someone fix their shin splints a bit odd.
+bgload BG_50.jpg
+setimg CEL_T10A.png -12 0
+setimg ARI_T03.png 104 0
+text "No, fixing splints.
+text Please don't make me angry when I am eating."
+text Ciel-senpai gets angry.
+text She seems to be someone you can never tire of watching.
+bgload BG_50.jpg
+setimg CEL_T10A.png -12 0
+setimg ARI_T01.png 104 0
+text "Fixing splints..?
+text Ah, the splints in the courtyard!
+text You were at it again?
+text You sure enjoy that kind of thing, Senpai, but you'd be better off if you gave up.
+text If you keep doing things like that, the teachers will start expecting you to do them."
+bgload BG_50.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T01.png 104 0
+text "That's all right, I do it because I enjoy it.
+text You shouldn't talk about the teachers like that though, you know.
+text They really care about the school."
+bgload BG_50.jpg
+text .... I'm finding it difficult to follow their conversation.
+text "Senpai, don't tell me that you normally do that sort of thing?"
+bgload BG_50.jpg
+setimg ARI_T01.png 104 0
+text "Yeah.
+text Didn't you know, Tohno?
+text Ciel-senpai is so handy they call her the 'Shadow President' of the student council."
+text "No, I was asking Senpai.
+text Wait, never mind.. what on earth is the 'Shadow President'?"
+text "Is she strong?" I ask with my eyes.
+text "Yeah," responds Arihiko with an exaggerated nod.
+bgload BG_50.jpg
+setimg ARI_T04.png 104 0
+text "She's quite something, totally unlike the Student Council, which is the student council in name only.
+text She's a third-year who'll solve anything for you if you ask her.
+text Even got a fan club among the first years!
+text And if something happens, the teachers all rely on her.
+text There isn't a single teacher who complains about what Senpai does."
+text Arihiko speaks with pride as if he was actually talking about himself.
+text "Wow.. Ciel-senpai sure is amazing.
+text Even the teachers rely on you."
+text I look at Senpai, impressed.
+bgload BG_50.jpg
+setimg CEL_T11.png -12 0
+setimg ARI_T04.png 104 0
+text "Ah, yes.
+text Uh.. thank you."
+text Senpai turns bright red, embarrassed.
+bgload BG_50.jpg
+text Senpai churns her curry rice with her spoon.
+text I guess it's to hide her embarrassment, but it reminds me of the enemy I have to face.
+text Curry rice by itself is fine, but after that awaits curry udon.
+text My doctor warned me not to eat too much, but I don't think there's anything else in this situation that I can do.
+text So I start to dig in to the rice.
+text *munch* *munch*
+text Having decided to try to finish one dish quickly, I direct all my concentration to the rice.
+text ~
+text Meanwhile, Senpai and Arihiko began talking about their own homes for some reason.
+text I already know that Arihiko doesn't live with his parents, but it seems Senpai is also living by herself.
+text Apparently, Senpai's apartment is quite close to school.
+text It's roughly between the main street and the park.
+bgload BG_50.jpg
+setimg CEL_T03.png 52 0
+text "Hmmm.. So, Tohno-kun, where do you live?"
+text "Huh?"
+text I silently eat my food when Senpai, peering at me, asks a completely unrelated question.
+text "Where..?
+text Why do you ask, Senpai?"
+bgload BG_50.jpg
+setimg CEL_T08.png 52 0
+text "You already heard where I live, right, Tohno-kun?
+text I think it's unfair if I don't know where your house is."
+text "Unfair?
+text You worry about the strangest things, Senpai."
+text "It's not strange.
+text If I don't know where you live, I can't visit you if something happens, right?"
+text I stop eating the curry rice.
+text I have the feeling that something has been said that I should be jubilant about.
+text "Eh.. Visit?
+text You mean you'd come and visit me if I catch a cold or something?"
+bgload BG_50.jpg
+setimg CEL_T04.png 52 0
+text "No, I wouldn't.
+text I don't have any plans to visit at the moment."
+text Smiling, Senpai replies instantly, as if stating the obvious.
+bgload BG_50.jpg
+text "...."
+text It seems like the euphoria is premature.
+text Senpai doesn't seem to have any unusual intentions.
+text ~
+text I see now.. that's just the way she is.
+text ".... I guess I have to tell you.
+text Yeah, my house is nearby too, only a forty minute walk.
+text There's a residential district on top of the hill, right?
+text Just go a little further and you're there."
+bgload BG_50.jpg
+setimg ARI_T01.png 104 0
+text "Oh yeah.
+text You're moving today, right?"
+text Arihiko strikes his hand on the desk.
+text Senpai tilts her head slightly.
+bgload BG_50.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T01.png 104 0
+text "Moving?
+text Tohno-kun, were you a transfer student?"
+text "Huh?"
+text Senpai asks a strange question.
+text Arihiko meets my gaze.
+bgload BG_50.jpg
+setimg CEL_T07A.png -12 0
+text "Uh, listen.. I've been here since the first year.
+text We've known each other since then, right?
+text Why are you asking if I'm a transfer student now?"
+bgload BG_50.jpg
+setimg CEL_T08.png -12 0
+text "But Tohno-kun, you moved yesterday, so--"
+text "Moving doesn't automatically make you a transfer student.
+text I'm just changing my address, not my school.
+text Until now, I've been living with some relatives in the neighboring town.
+text I'm just going back to my real home, that's all."
+text Senpai, who wears a look of surprise, seems to understand.
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+text "I see, you've only changed your residence.
+text So, now you live in the outskirts of town."
+text "Yeah.
+text It's that colorful place on top of the hill.. I'm moving there today."
+bgload BG_50.jpg
+setimg CEL_T09.png -12 0
+text "Haah.. could that possibly be the Tohno-san mansion?" Senpai asks with some hesitation.
+text The western-style house at the top of the hill is probably seen as something special by residents of this town.
+text I haven't been there for eight years, but even in my memories, the Tohno mansion was ridiculously large.
+text "Yeah, that's right.
+text I don't think it's the right place for me either, but it's too late now that I'm done moving."
+bgload BG_50.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T04.png 104 0
+text "Hmm.. You don't seem too happy about it."
+text "It's neither good nor bad.
+text I don't quite understand it either."
+bgload BG_50.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T01.png 104 0
+text "Well, even if it is your house, it's been eight years, right?
+text I can understand if you're feeling strange.
+text It'll probably feel like someone else's house for a while."
+text "I wonder if that's so.. I haven't gone back yet, so I don't know.
+text Well, I'm a bit relaxed, since I've always got a refuge at your place."
+bgload BG_50.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T03.png 104 0
+text "Yeah, right.
+text My house is no refuge of yours.
+text When you come over during the holidays, my sister treats you better than me!"
+text "...."
+text That's probably only because Arihiko has terrible behavior, but I refrain from telling him that in the interests of preventing the conversation from getting any worse.
+text ~
+text ---To be honest, it's not pleasant to have my home raised as a topic of conversation.
+bgload BG_50.jpg
+setimg CEL_T02.png -12 0
+setimg ARI_T03.png 104 0
+text "Wow.. You two certainly get along well." Senpai peers at Arihiko and me.
+bgload BG_50.jpg
+setimg CEL_T02.png -12 0
+setimg ARI_T01.png 104 0
+text "No way!
+text Me and Tohno would never help each other, no matter how much trouble we were in.
+text In other words, we're enemies, mademoiselle."
+text Arihiko says in a fed-up tone.
+text I'm getting pretty fed-up myself with his pseudo-foreigner-isms, too.
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "But your relationship is so good that Tohno-kun has stayed over at your house before, right?
+text Doesn't that mean you get along really well?"
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T04.png 104 0
+text "You're wrong, Senpai.
+text That damn Tohno is too reserved toward his parents, and he'd come over to my place every vacation.
+text He's reserved toward them 'cause they're taking care of him.
+text That's why he comes over to my place, where we conveniently have an empty room.
+text Since he looks pretty decent, my sister took a liking to him, and he shamelessly comes to stay with us without paying a cent!"
+text Arihiko's fist trembles, as if to say "unforgivable!"
+bgload BG_50.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T04.png 104 0
+text ".... Taking care, Tohno-kun?"
+bgload BG_50.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T03.png 104 0
+text "Ah.."
+text Arihiko clamps a hand over his mouth.
+text ".... Sorry.
+text I should've thought before I spoke."
+text "It's okay.
+text You didn't say anything bad."
+text I continue to eat my food without looking at Arihiko.
+bgload BG_50.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T01.png 104 0
+text "Really?
+text Yeah, you're right.
+text If you complained about that, you'll be in for some punishment."
+text Arihiko nods to himself in agreement.
+text His overwhelming optimism is something I am truly envious of.
+bgload BG_50.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T01.png 104 0
+text "I'm sorry, Tohno-kun.
+text Um.. did you not get along with your previous family?"
+text "No, that's not it.
+text He has no problem with the Arimas.
+text Oh, the Arimas were the family who took care of him.
+text They're really nice people, and from what I could tell, they're a happy family.
+text Even so, he refused to be their adopted kid, and he escaped to my place every vacation.
+text Sheesh.. just what were you not satisfied with, anyway?"
+bgload BG_50.jpg
+setimg CEL_T09.png -12 0
+setimg ARI_T04.png 104 0
+text "There's nothing I wasn't satisfied about.
+text It's just that I've received so much from them already, I didn't want to be a further burden on them."
+bgload BG_50.jpg
+text I finish my rice as I reply.
+text Now, only the curry udon is left..
+text "It's okay, Senpai.
+text Sorry for making you listen to something so boring."
+bgload BG_50.jpg
+setimg CEL_T08.png -12 0
+text "Eh, not at all.
+text I'm sorry for asking you something so strange."
+text Senpai forces herself to look cheerful.
+text The topic might be fine for a long-time friend like Arihiko, but a complex matter like this would only have been troublesome for Senpai.
+text And to prove my point, Senpai sits there uneasily.
+bgload BG_50.jpg
+setimg CEL_T08.png -12 0
+setimg ARI_T01.png 104 0
+text "Ah, Senpai.. sorry, but I've got something private to talk to Tohno about.
+text Would you mind leaving?"
+text Arihiko has no problems making such an offensive request.
+text Isn't that phrase an indirect.. no, a direct way of saying 'We don't want you, Senpai, so get lost..'?
+text "You idio---What do you think you're saying!?
+text We can discuss those things anywhere!
+text And Senpai is still finishing her--"
+text ~
+text ---Lunch.
+text ~
+text Despite all the talking with Arihiko, Senpai has finished her rice anyway.
+bgload BG_50.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T01.png 104 0
+text "No, I understand.
+text Well then, I'll be leaving."
+bgload BG_50.jpg
+setimg ARI_T01.png 104 0
+text Senpai lowers her head in a quick bow and leaves.
+text ~
+text Only Arihiko and I remain at the table.
+text I sigh.
+text "Well, it looks like Senpai was having a hard time too, so it was for the best, but you were really pushing it there, Arihiko."
+bgload BG_50.jpg
+bgload BG_50.jpg
+setimg ARI_T04.png 40 0
+text "Hmm.. Well, it's not like I had a choice.
+text Anyways, I guess I'll take the role of the guy she ends up disliking."
+text *slurp* *slurp* *slurp*
+text Arihiko slurps away at his chikara-udon.
+text It seems it has gone cold while we were talking to Senpai.
+text ".... Sorry.
+text You were trying to hit on Senpai, weren't you?"
+bgload BG_50.jpg
+setimg ARI_T01.png 40 0
+text "Of course.
+text She's probably the number one girl at our school.
+text But if she's the type to care about something like that, then she's not worth it.
+text Oh, yeah, I really do have something to talk to you about in private."
+text "..?"
+text Arihiko's voice turns serious.
+text I split my chopsticks with a snap and begin to eat my udon.
+text "What's wrong?
+text Why so serious all of a sudden?
+text I'll let you know right now that I don't have any money.
+text From today onwards, I'm going to be living life as a penniless student."
+bgload BG_50.jpg
+setimg ARI_T04.png 40 0
+text "It's not that, damn it.
+text What I want to know is this; what's really going on with you, Tohno?"
+text "What do you mean?"
+text "You've been at the Arimas' since primary school, right?
+text I don't know why, but it's been eight years already.
+text Your dad has basically disinherited you.
+text Why is he calling you back all of a sudden?"
+text .... I see.
+text In his own strange way, Arihiko is worried about me.
+text "He didn't 'disinherit' me.
+text He just kicked me out of the house somehow."
+bgload BG_50.jpg
+setimg ARI_T03.png 40 0
+text "Tohno-kun, if there ever was a family that kicked their kid out of their house 'somehow', that's not a tragedy, it's a comedy. 'Oh, it's party joke!' But it's so boring, it's not funny."
+text Arihiko spreads his arms and shrugs.
+text ".... Yeah, I guess you're right.
+text If you get kicked out of the house, all you can really do is laugh."
+bgload BG_50.jpg
+setimg ARI_T04.png 40 0
+text "And then he said some cliche line like, 'Never step foot in this house again!' or something, right?
+text That's what people would call 'disinheritance.'
+text Come to think of it, I've never heard why you were disinherited."
+text "...."
+text .... Who knows?
+text That's something I'd like to know too.
+bgload BG_50.jpg
+text "Well, if you don't want to talk about it, you don't have to."
+text Grabbing his bowl with both hands, Arihiko drains what is left of his chikara-udon.
+text Lunchtime is short.
+text Following Arihiko, I decide to quickly finish my curry-udon.
+bgload IMA_10.jpg
+music ~
+setvar ciel_regard + 1
+jump s31.scr

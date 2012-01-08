@@ -1,0 +1,65 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 04.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg NERO_T02A.png 77 0
+text "Young one, do you have a question?"
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg NERO_T02A.png 77 0
+text "Hey, that's dirty.
+text You're trying to stand out by coming out here too, Nrvnqsr."
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg NERO_T03.png 77 0
+text "Don't be ridiculous.
+text Ciel-kun went to the curry shop.
+text I am the substitute."
+text ~
+text "Alright.
+text Then give us a hint."
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg NERO_T04.png 77 0
+text "Fighting punishes both parties.
+text Do not kill needlessly."
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg NERO_T04.png 77 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg NERO_T04.png 77 0
+text "I'm not convinced.
+text Even if you don't want to fight Ciel, there's some people who unconditionally took off their glasses.
+text What is up with that?"
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg NERO_T02A.png 77 0
+text ~
+text "Thou shalt not steal, rape, or deceive others.
+text It might sound familiar for some of you.
+text If so, then go on a journey through time to this morning.
+text Yes.
+text Come to think of it, the princess might have an idea of that, no?"
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg NERO_T02A.png 77 0
+text "Nya, w-what?
+text I don't understand what you're talking about."
+text ~
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg NERO_T02C.png 77 0
+text ".... Well, what happens to others is just a trivial matter for me.
+text Then, I shall watch how the end plays out for all of you from here-----"
+bgload IMA_10.jpg
+music ~
+jump main.scr

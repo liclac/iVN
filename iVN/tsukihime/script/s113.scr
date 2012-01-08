@@ -1,0 +1,20 @@
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+text I go out in town aimlessly.
+text Why the heck am I walking around here for no reason?
+text ~
+bgload BG_25A.jpg
+bgload BG_25A.jpg
+setimg ARK_T22.png 36 0
+bgload BG_25A.jpg
+text "----Ah."
+text It's just a mistake.
+text There's no way she'll still be around, and it's not like I have any reason to talk to her.
+text So why did I think it was her?
+text Why----am I walking around town pointlessly like this?
+text ~
+text ".... I have to go back to the mansion."
+text I shake my head as if trying to clear my head of drunkenness and turn away from the nonexistent illusion of Arcueid.
+bgload IMA_10.jpg
+setvar ark_regard + 1
+jump s116.scr

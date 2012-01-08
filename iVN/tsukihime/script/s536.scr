@@ -1,0 +1,35 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text .... It's now time for lunch during our third day.
+text I usually go outside to get lunch, but this time, I don't feel like doing so....
+text ~
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text "You got your head cut off.
+text Even if you eat, it won't get to your stomach.
+text Shiki does some nasty things, but isn't it your own fault, Ciel?"
+text ~
+text Hahaha, shut up.
+text It's better than not even appearing.
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+text "Ugh.
+text You're right!!
+text Why don't I get to appear?
+text It's stupid!"
+text ~
+text I bet it's your karma, but I have no time to play with you right now.
+text Tohno-kun.
+text Please go back to the previous choice and choose the selection that's more in tune with your character.
+text With things like the way they are now, neither I nor Tohno-kun will be saved!
+bgload IMA_10.jpg
+music ~
+jump main.scr

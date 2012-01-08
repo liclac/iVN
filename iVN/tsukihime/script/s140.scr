@@ -1,0 +1,137 @@
+bgload BG_29B.jpg
+music 03.mp3
+text "Huh?"
+text What does she mean by last night?
+text I don't understand what she's talking about.
+text After all, I'm the idiot who mistook Arcueid's words and made such a stupid mistake, so of course I don't understand what she is saying, and---huh?
+text ~
+text Did Arcueid ask me who came last night---?
+text ".... Arcueid.
+text What do you mean by 'last night'?"
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "Hm?
+text That's strange, I know I sent you a dream familiar."
+text "Wait, what's that dream familiar thing?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Um, it's like a familiar that lets you see a dream about what you desire the most.
+text You're a male, so I sent you a succubus.
+text Wasn't it a good dream?"
+bgload BG_29B.jpg
+text "I-----"
+text ~
+text A good dream?
+text That was..
+bgload IMA_11.jpg
+bgload event/ARK_H02.jpg
+bgload BG_29B.jpg
+text I remember the realistic dream I had and my face turns red.
+text "You, that was your doing---!"
+text Arcueid grins even more.
+text ---Crap.
+text If I stayed quiet this conversation would have been over, but since I reacted so strongly---
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "Ah, so you did get it.
+text So, who came?
+text I know, it was your sister, right?"
+text "N, n, not Akiha----!
+text What kind of a guy do you think I am!
+text I'm not crazy to do that to a sister!"
+text "Hmm.
+text If it wasn't your sister, then was it the maids at the mansion?"
+bgload BG_29B.jpg
+text Arcueid looks up at me full of amusement.
+text "Uh----"
+text She's acting like the Arcueid from last night's dream.
+text ~
+text "It doesn't concern you, so leave me alone."
+text I look away from her and refuse.
+text But Arcueid keeps saying "Come on, come on," over and over.
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "Come on, tell me.
+text You can at least tell me who you dreamed about."
+text She asks like a curious kid.
+text Every time I turn away she keeps jumping in front of me, saying "Come on, come on."
+text ~
+text .... This is pure torture.
+text She's as mischievous as last night's dream.
+text I bury my face in my hands.
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Hey Shiki, don't be quiet and tell me."
+text Arcueid keeps looking at me with those upturned eyes.
+text ~
+text ---I can't, God.
+text This is my limit.
+text ~
+text ".... You."
+text I hesitatingly let it out in a quiet voice.
+text "---Eh?
+text What about me?"
+text "Don't make me say it again.
+text I'm saying that it was you who came!"
+text I shout angrily as I look away.
+text Arcueid's eyes widen in surprise.
+music 01.mp3
+bgload BG_29B.jpg
+setimg ARK_T12.png 36 0
+text "M, me....?"
+text "Yeah, it's not a joke.
+text You came, and----"
+text There's no way I can finish.
+bgload BG_29B.jpg
+setimg ARK_T10.png 36 0
+text "Ah----"
+text Now Arcueid looks away from me, looking very uncomfortable.
+bgload BG_29B.jpg
+text ~
+text "............"
+text "............"
+text Neither of us know what to say.
+text The uncomfortable silence continues.
+text ....
+text ........
+text ..............
+text ....................
+text .......................... *ahem*
+text I can't bear the silence any longer and force out that cough.
+text ~
+text ".... In the first place, why did you send me that dream familiar thing?
+text Are you still angry at me for killing you?"
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "That's not it at all.
+text I sent it as thanks for defeating Nrvnqsr.
+text I really am grateful to you, I thought you'd be extremely happy."
+text "As thanks?---I'll pass on that kind of thanks.
+text Having that kind of poor taste, just what are vampires thinking?"
+text I slump my shoulders.
+text I don't know what she's mad about, but she looks at me with a dissatisfied expression.
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "What's that all about, you meanie?
+text I know I'm not human."
+bgload BG_29B.jpg
+text She turns away, then starts walking off.
+text "Hey, hold on.
+text Where are you going?"
+text "It has nothing to do with you.
+text Don't follow me!"
+text Is she really that angry?
+text Arcueid walks away without even turning around.
+text "........"
+text Where does she plan on going anyway?
+text "........"
+text Maybe I did say too much.
+text No matter what the results were or the methods used, she really thanked me with good intentions.
+text I start to feel intense regret and think that maybe I should have just accepted her gift happily.
+text "-----"
+text Damn it.
+text Why is it that I just can't leave Arcueid alone....!?
+text ~
+text "Aw---Hey, I said wait!"
+bgload IMA_10.jpg
+jump s142.scr

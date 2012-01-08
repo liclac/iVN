@@ -1,0 +1,7 @@
+bgload BG_40B.jpg
+text .... No, I would feel bad about moving around and interfering with Hisui and Kohaku-san's work.
+text It's still only been two days since I came back to the mansion.
+text Perhaps it's because I'm not used to it yet, but for some reason, I feel tired.
+text I should relax and rest until dinner.
+bgload IMA_10.jpg
+jump s216.scr

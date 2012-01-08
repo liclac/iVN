@@ -1,0 +1,263 @@
+bgload BG_47.jpg
+text .... I go up the residential hill and arrive at the outskirts of the mansion.
+text It's around two in the morning.
+text As expected, I'm totally assailed by sleepiness.
+text ~
+text ".... I wonder if she's going to be okay."
+text I'm concerned about how she seemed when we parted.
+text It seemed like it wasn't pain from her wound, but---
+text "Hm?"
+text ~
+text What is that?
+text It feels like there's someone lurking in the shadows not illuminated by the streetlights.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text ~
+sound SE_01.aac 1
+text ---Thu,mp.
+text ~
+text My heart stops my breath.
+text My blood rushes through my body, this sensation----
+text ~
+text Certainly, there's someone standing there.
+text The figure gets closer and closer.
+text ~
+text Footsteps.
+text The sound of dry footsteps reaches my ears.
+text ~
+sound SE_01.aac 1
+text ----Thu, mp.
+text ~
+text I have a bad feeling about this.
+text Chills race up my spine.
+text "----"
+text The figure draws near.
+text Suddenly----the streetlights shatter loudly.
+bgload IMA_10.jpg
+text The moon is hidden by the clouds.
+text The whole world instantly turns to darkness.
+text ~
+text "!"
+text Thu, mp......!
+text ~
+text My heartbeat skips, as if warning me of death.
+text I jump back for no apparent reason.
+bgload IMA_14.jpg
+text A blade runs through the darkness.
+text Not being able to get away fully, my glasses are grazed by it.
+text They fall to the ground with a clatter.
+text "Who---"
+text The instant I start to say "are you?",
+text The clouds part for a brief moment and illuminates the dark figure.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ROA_T07A.png 14 0
+text "Wha----"
+text A man wrapped entirely in bandages is gripping a knife.
+bgload IMA_10.jpg
+text The bandaged man goes to attack me again.
+text I quickly ready my knife and stop it.
+bgload IMA_14.jpg
+sound SE_02.aac -1
+text ~
+text Two slivers of light shoot towards each other.
+text "----!"
+text I can't, think calmly.
+text The fact that I'm being attacked causes my mind to panic.
+text Clang!
+text Clang!
+text Sparks fly from our clashing knives and scatter into the darkness.
+text "Kk---"
+text I still can't calm down.
+text It's not because I'm being attacked.
+text ~
+text Clang---.
+text I swing my knife to cancel out the one attacking me from every angle.
+text "Why----"
+text What's surprising is that,
+text my body is completely stopping all the attacks in this darkness without a pause.
+text "My body is moving by itself---?"
+text No, that's not it.
+text All my arms are doing,
+text is seeking out the lines and points that I can see in the darkness with my glasses off.
+text ~
+text That's all I can see, so I swing my knife through the dark air after those lines.
+text As a result, the bandaged man's knife is simply stopping mine.
+text In other words,
+text It's not that I'm defending myself, but he's defending himself from me.
+text ~
+text ----I can win....!
+text ~
+text I don't know who he is, but there's no doubt.
+text I'm overwhelming him.
+text My blood rages forth from my advantage.
+text I'll win.
+text I'm, stronger than him.
+text Because I'm stronger.
+text Because he's trying to kill me, aren't I just returning the favor----!?
+sound SE_12.aac 1
+text Clang.
+text Clang.
+text The sound of ringing metal echoes in the air and I force him back towards the mansion wall.
+sound SE_02.aac -1
+text "----!"
+text There.
+text My eyes fixate on the "line" on his chest and I thrust my knife forward.
+bgload CMO_06.jpg
+text ~
+text ----Momentarily.
+text For some reason I see a boy painted in blood and Akiha's crying face----
+bgload IMA_10.jpg
+text "Gh!"
+text I pull my knife back before completion.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---What, am I--I'm, trying to kill someone, why---
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+text My head.
+text My head hurts.
+text My legs wobble and I stagger backwards.
+text As I do so,
+text I empty the contents of my stomach.
+text ~
+text My chest starts to itch.
+text ~
+text My head hurts, the old wound on my chest burns.
+text My eyes, feel like they're going to burst out of my sockets----
+text "Haa----ah, agh---!"
+text I can't stop throwing up.
+text The vomit splatters all over the asphalt.
+text And there,
+text the bandaged man comes after me with his knife.
+bgload IMA_14.jpg
+text ~
+text "-----!"
+text ~
+sound SE_12.aac 1
+text Clang!
+text Another collision.
+text My knife shoots towards his.
+text This time, I really defend myself.
+text I know where he's aiming.
+text Since I know, I block him once again with another clang.
+sound SE_12.aac 1
+text ~
+text Clang!
+text Clang!
+text Clang!
+text ~
+sound SE_12.aac 1
+text Despite not being able to see his knife due to its speed, I somehow manage to block it over and over.
+text The reason I can defend myself is simple.
+sound SE_02.aac -1
+text Because, where he's aiming are the "lines" on my body.
+text ~
+text So I know where he is aiming at and I understand more than anyone that having them cut would mean instant death, so I have to defend it.
+text No, wait.
+text ~
+text .... Aiming---for my lines?
+text "------Ah."
+text It's the exact opposite of before.
+text That means,
+text don't tell me, he.
+text ~
+text ----Ku.
+text ~
+text The bandaged man smiles in the darkness.
+text ---Th, um, p.
+text ~
+text My heart rate goes out of control.
+text Feeling some unnameable fear, I stumble backwards.
+text He doesn't pursue me.
+text He just smiles.
+text His blood-shot eyes seems to be saying "So you've finally realized it?" as he sneers at me.
+text ~
+text "You can----see them?"
+text Yes.
+text He also, can see the "lines"----
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Then,
+text He can, also kill with one blow---
+text ~
+text ----Ku.
+text ~
+text The man laughs.
+text He draws near while laughing.
+text I---even down to my fingers gripping my knife, tremble uncontrollably.
+text ~
+bgload IMA_11B.jpg
+text Slice.
+text Slice.
+text Slice.
+text The sound of flesh being pierced by a blade resounds three times.
+text And then, a thud, a sound of a body hitting the wall.
+bgload IMA_10.jpg
+sound ~
+text "Eh---?"
+text ~
+text ---I can't grasp the situation.
+text ~
+text The bandaged man was suddenly pierced by three spear-like pipes.
+text Not just pierced, but stuck onto the wall.
+text Like an insect pinned in a bug collection.
+text ~
+text "---YOU'RE IN MY WAY."
+text ~
+text His voice grates awfully.
+text At the same time---the three spears alight like candles and engulf him in flames.
+text ~
+text "AAAAAaAAAaaaaAaAAAh!"
+text ~
+text An anguished voice in the whirlpool of flames.
+text In the darkness, that scene seems less cruel, and almost beautiful.
+text ~
+text "AAAAAAAAAAH!"
+text ~
+text The bandaged man---no, the bandages are burned already, his skin is showing.
+text Wrapped in the flames, the man stares at me.
+text His blood-shot eyes filled only with murder.
+text His black eyes like a weapon bent on cursing Tohno Shiki.
+text "-----Wha.."
+text Stunned, I can only watch.
+text He runs off into the distance, still engulfed in flames.
+bgload IMA_18.jpg
+text ---The moon re-emerges.
+text After those flames, and that cursing voice, everything returns to silence like it was before.
+text "----"
+text I fall to my knees and lean against the wall.
+text I look up at the sky.
+text In the direction where those spears flew from, someone is standing high and far off.
+bgload event/CEL_E04.jpg
+text "-----"
+text Far away.
+text Standing composed on top of the streetlight, I see a familiar figure.
+text ".... Eh?"
+text Robes like a priest from another country.
+text Clenched in her hand, large, nail-like swords.
+text Emotionless, pale eyes.
+text Blue, sky-blue eyes.
+text ".... Sen.... pai?"
+text Under the moonlight, I can only make out the silhouette.
+text But, she seems to resemble Senpai.
+text "------"
+text Our eyes meet.
+text The standing figure on top of the streetlight suddenly disappears like a ghost.
+bgload IMA_10.jpg
+bgload BG_47.jpg
+text "Ah-----"
+text I sit down roughly.
+text Is it relief from my headache fading or just the lifting of all this tension?
+text ~
+text Leaning my back against the wall, I start to drift off to sleep-----.
+bgload IMA_10.jpg
+jump s159.scr

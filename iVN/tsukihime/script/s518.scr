@@ -1,0 +1,22 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text This is the last lesson for the day, but let's all have high spirits.
+text Yes, since it is a long story, you might get sleepy, or hungry, or your fingers might get tired, but please plan accordingly so your schedule and energy levels allow you to keep on playing.
+text ~
+text Now, it is after school.
+text The reason is obvious, right?
+text It irritates me to defend her, but if you've come this far, you have to keep going until the very end!
+text .... Saying that, maybe such an end is happiness for Tohno-kun though.
+text Maybe the title "Cream" defines everything.
+text It really does tug at the heart strings.
+text ~
+text This concludes the day's lessons.
+text Let's meet again on the second day of lessons!
+bgload IMA_10.jpg
+music ~
+jump main.scr

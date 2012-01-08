@@ -1,0 +1,102 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text We're finally in the fourth period.
+text The hint corner for Tohno-kun, who has unluckily ended up in this unjust Dead End,
+text It is time for "Teach me, Ciel-sensei!"
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "I envy you, Ciel.
+text You get a lot of appearances.
+text I'm the main heroine, but they still treat me like this scribble."
+text ~
+text Hey you, don't say weird things.
+text That's fine.
+text At least you have more dignity than me, the do-it-all character.
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "No!!
+text Unsatisfactory!
+text I want to dress like you and be called smart!!"
+text ........
+text ~
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text No appearance!
+text No appearance!
+text No appearance!
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text No appearance!
+text Ciel-glasses!
+text No appearance!
+text No Ciel!
+text No appearance!
+text Ciel-glasses!
+text No appearance!
+text Ciel-too plain!
+text Ciel-get out!
+text Ciel-glasses!
+text Fake-Frenchie!
+text Gun-fetish!
+text Ciel-India!"
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text ~
+text ........ (Anger)
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+sound SE_10.aac 1
+text "Kyuuuuuuuuu............"
+text ~
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ----Well, let's start the lecture.
+text ~
+text The cause of death is clear this time.
+text Your eagerness to try and solve this incident by yourself is splendid, but this is something you cannot solve by yourself.
+text It's the way of the world to lose something to obtain something.
+text It's also sad for me, but you should part with Ciel-san just this once.
+bgload IMA_10.jpg
+music ~
+jump main.scr

@@ -1,0 +1,66 @@
+bgload BG_06A.jpg
+text ---I'll just stay in the classroom.
+text ~
+text Senpai isn't there no matter where I go.
+text No matter what I do, she won't come back---
+bgload IMA_10.jpg
+bgload BG_06B.jpg
+text The end of the day homeroom session is over.
+text My chatting classmates get out of their seats.
+text After staring at them blankly, I get out of my seat to go back to the mansion.
+text ---Back to the mansion.
+text But it's not like there's anything if I go back.
+text ~
+bgload IMA_10.jpg
+bgload event/CEL_E05A.jpg
+bgload BG_06B.jpg
+text "........"
+text I know I can never reach her, but I can't give up.
+text "Damn it---what the hell should I do....!"
+text ~
+text Voicing my thoughts angrily, I leave the classroom.
+bgload BG_11B.jpg
+text .... I look up and find myself in front of the tea ceremony room.
+text Even though she won't be here, my legs walk in on their own.
+bgload BG_09B.jpg
+text "-------Ha."
+text Of course, no one is here.
+text I wasn't expecting anything, but when I'm hit hard like this, my vision seems to aacer.
+text ~
+bgload IMA_11.jpg
+bgload BG_09B.jpg
+text The world starts to spin around me.
+music 04.mp3
+bgload IMA_11.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Instantly, it happens.
+bgload BG_09B.jpg
+text The ground shakes.
+text I think to myself it's a large earthquake---but I realize it's not the ground shaking, but the impact of my body hitting the floor that I felt.
+text "Ah----eh?"
+text I can't speak well.
+text ~
+text Panting.
+text The gasping breaths can be no one else's but mine.
+text But I don't feel bad.
+text It's more like I don't feel anything, like I have no sense of feeling at all.
+text The sound of frantic breathing.
+text ~
+text Even though I'm not exhausted, my throat painfully gasps for air.
+text I don't feel anything.
+text I feel like the collapsed body here isn't mine.
+text The sound of gasping.
+text ~
+text Something's---weird.
+text As I lie breathing wildly on the floor, blood spreads out on the tatami mats----
+text "----Gah."
+text ~
+text Suddenly,
+text a stabbing pain fills my chest.
+jump s282.scr

@@ -1,0 +1,49 @@
+bgload BG_40C.jpg
+music 01.mp3
+text I realize that someone is taking care of me.
+bgload BG_40C.jpg
+setimg KOHA_T02B.png 52 0
+text "Good evening.
+text How are you feeling, Shiki-san?"
+text She speaks with her usual smile.
+text "Ah.... Kohaku, san."
+text I somehow manage to speak through my tattered breathing.
+bgload BG_40C.jpg
+setimg KOHA_T03B.png 52 0
+text "Ah, you do not have to speak.
+text I probably understand your condition better than you do."
+text She removes the towel from my forehead, still smiling.
+text ---Was that thing before just an illusion?
+text ~
+text Kohaku-san is acting normal.
+text She keeps smiling and continuing her portrayal of Hisui.
+text .... That.
+text Am I going to die here without being able to take off that mask?
+text "Akiha-sama told me everything.
+text She said that she would wait until tomorrow, but that may be too long.
+text Akiha-sama seems to have lost her ability to think clearly.
+text I do not think you will be able to make it through the night like that, Shiki-san."
+text "---------"
+text *wheeze* *wheeze*
+text Kohaku-san's words are unmercifully true.
+bgload BG_40C.jpg
+setimg KOHA_T08.png 52 0
+text "Shiki-san, I am amazed.
+text Do you not understand the danger your body is in, Shiki-san?
+text All Akiha-sama has to do is think it and you will die.
+text So why do you still act against her?
+text It is completely hopeless."
+text "---------Kohaku, san."
+text .... I'm surprised.
+text Kohaku-san's voice, it is completely different than before.
+text ".... I know.
+text I know that I can't last the night like this."
+text "Then you are not scared of death?
+text If you accept Akiha-sama then you will recover quickly, but you still do not.
+text There's something wrong with you."
+text ".... Maybe.
+text But, I think it's okay.
+text I like the me that acts like this, and I like Akiha for liking me as I am.
+text .... Yes, and, well.. I enjoy small things like just being able to talk with you, Kohaku-san.
+text .... But I feel like if I lie to myself, all those small things would lose their enjoyment, and I'm scared of that----"
+jump s425.scr

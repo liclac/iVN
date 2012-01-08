@@ -1,0 +1,114 @@
+bgload BG_06A.jpg
+text ---But I can't just leave in the middle of class.
+text ~
+text "...... Please."
+text I bring my hands together and pray silently that she won't start any "interesting" trouble for twenty minutes.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text Class ends.
+text I dash out of the classroom engulfed in the lunchtime commotion.
+bgload IMA_10.jpg
+bgload BG_11A.jpg
+text I bolt down through the hallway.
+text .... Arcueid is out back.
+text Because it's lunchtime, there may be one or two students going there.
+text Before that, I have to send her away from school....!
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text I pant with exertion.
+text I exit the hallway and out into the courtyard.
+text Fortunately, no one else has gone outside.
+text All that's left is to grab Arcueid, but..
+bgload BG_05A.jpg
+text ~
+text ".... The worst."
+text Entering the back of the school, I unthinkingly voice my thoughts.
+text In the back,
+bgload BG_05A.jpg
+setimg ARK_T07.png -28 0
+text I can see a very hostile Arcueid and..
+bgload BG_05A.jpg
+setimg ARK_T07.png -28 0
+setimg CEL_T07A.png 116 0
+text through the worst twist of fate, Ciel-senpai is also present.
+text ~
+text As if facing an invader, Senpai is staring at Arcueid.
+text "Arcueid....!"
+text Both of them turn around.
+bgload BG_05A.jpg
+setimg ARK_T06.png -28 0
+setimg CEL_T07A.png 116 0
+text "Shiki."
+bgload BG_05A.jpg
+setimg ARK_T06.png -28 0
+setimg CEL_T06A.png 116 0
+text "-------"
+bgload BG_05A.jpg
+text .... Thank goodness.
+text Arcueid's hostility seems to fade.
+text After looking back at Arcueid, Senpai leaves in another direction.
+text "Ah.... Senpai."
+text She must've been offended by being glared at by Arcueid.
+text For Senpai to just disappear like that without saying anything must mean something.
+text "Arcueid, you....!"
+text I run over to her.
+bgload BG_05A.jpg
+setimg ARK_T16.png 36 0
+text "Shiki you slowpoke!"
+text She yells at me as I get to her.
+text "Hey.... slow?
+text Hey now."
+text "But weren't you?
+text I know you saw me, but you never came down.
+text If you came earlier, I wouldn't have been seen by that person!"
+text .... "That person" must mean Senpai.
+text "It couldn't be helped, I have my circumstances.
+text I'm different from you, I'm just a normal student.
+text In the first place, why the heck did you come here?"
+bgload BG_05A.jpg
+setimg ARK_T03.png 36 0
+text "I just felt something from around here.
+text Then I picked up your scent and realized it was your school."
+text ".... So you weren't thinking and you just came for no reason?"
+text I give a frown.
+text Is she a dog or something?
+bgload BG_05A.jpg
+setimg ARK_T04.png 36 0
+text "Well excuse me!
+text I came here for a reason.
+text There's hardly any traces of The Dead here, so I wanted to see it for myself."
+text "Really?
+text But if there's no traces of The Dead here, then shouldn't this place be unimportant?
+text There's no one at school at night, so if The Dead wanted some prey, they would go downtown, not to a school."
+bgload BG_05A.jpg
+setimg ARK_T10.png 36 0
+text ".... Well, that does make sense."
+text "There's nothing strange here.
+text I can't really sense The Dead, but since my eyes see death, I can tell without taking off my glasses."
+bgload BG_05A.jpg
+setimg ARK_T06.png 36 0
+text "I see.
+text If you say so, Shiki, then there's nothing strange about this place, perhaps."
+text "Not 'perhaps', definitely."
+text Arcueid looks like she doesn't believe me.
+text "Anyway, if we stay here any longer, people will see us.
+text I'll keep my promise for sure, so just go home and rest.
+text We may see the 'enemy' tonight."
+bgload BG_05A.jpg
+setimg ARK_T03.png 36 0
+text "Oh?
+text You sound like you want me out of here, Shiki?"
+text She starts to look angry again.
+text "Ah, that's just your imagination, so hurry on back.
+text Otherwise things might get a little hairy."
+text Go, go.
+text I push her from behind.
+text "............"
+bgload BG_05A.jpg
+text Though her eyes indicate she wants to say something, she just leaves silently.
+text ".... Man.
+text If I see Senpai, I have to apologize to her about Arcueid."
+text Thinking aloud, I go back.
+bgload IMA_10.jpg
+jump s153.scr

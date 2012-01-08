@@ -1,0 +1,23 @@
+text Dinner takes place with Akiha and I being face to face.
+text I guess it's natural here, as Hisui and Kohaku-san do not eat with us, standing behind us to tend to our needs.
+text .... I thought it would be natural if all four of us ate together, so you could say I am caught off guard by this inexplicably tense dinner.
+text I should mention at this point that I've totally forgotten anything related to table manners by now.
+text Well, I do remember little pieces, so it's not like I'm a complete amateur, but humans tend to pack away unused memories into the corners of the mind.
+text The tension was actually quite thrilling, with every one of my movements causing Akiha to raise an eyebrow.
+text ~
+text .... When I think about how I'll have to go through this every day, though, it's really depressing.
+bgload BG_40C.jpg
+text Finishing dinner, I return to my room.
+text It's still only just past eight at night.
+text It's too early to sleep, so what should I do?
+text ~
+choice Go to the sitting room and talk with Akiha.|Stay in my own room.|Go watch TV in Kohaku-san's room.
+if selected == 1
+    jump s43.scr
+fi
+if selected == 2
+    jump s44.scr
+fi
+if selected == 3
+    jump s45.scr
+fi

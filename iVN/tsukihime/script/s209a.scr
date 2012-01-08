@@ -1,0 +1,498 @@
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_11A.jpg
+text Ciel-senpai takes me to an unused classroom in the very corner of the school building.
+text ~
+text "Huh..?
+text This is a Japanese-style room, isn't it?"
+bgload BG_11A.jpg
+setimg CEL_T01A.png 52 0
+text "That's right.
+text It's very relaxing since no one else is here."
+text "Well, that's true, but.. isn't this place locked, Senpai?"
+text "Yes.
+text It's usually only open to members of the tea ceremony club, so normal students can't get in."
+text Saying so, she takes a key out of her pocket.
+text "Oh.
+text Are you in the tea ceremony club, Senpai?"
+bgload BG_11A.jpg
+setimg CEL_T04.png 52 0
+text "Yes.
+text Well--Actually, I'm the only member."
+text With a laugh, Senpai goes into the Japanese-style room.
+bgload IMA_10.jpg
+bgload BG_09A.jpg
+text .... The inside of the room feels special, as if it isn't part of the school.
+text The sensation of the tatami and the sunlight through the windows feel very relaxing.
+bgload BG_09A.jpg
+setimg CEL_T01A.png 52 0
+text "As I said earlier, I'm the only member of the tea club.
+text Thanks to that, I can use this place freely during lunchtime and after class.
+text Here."
+text Laughing, Senpai lays out cushions.
+text "I'll make some tea now, so please wait right there, Tohno-kun."
+bgload BG_09A.jpg
+text .... Senpai heads towards the sink to prepare the tea.
+text There's no point in standing up, so I do as I am told and sit down on the cushion.
+text "......"
+text Perhaps it was the magic of the Japanese-style room.
+text That chaotic maelstrom that had been raging in my chest calms down, and now I can finally begin to think calmly about what has happened with Yumizuka.
+bgload BG_09A.jpg
+setimg CEL_T01A.png 52 0
+text "Thanks for waiting.
+text Here you are.
+text Now, let's have some lunch.
+text Actually, I have some things to ask you, so it's just as well we're having lunch here."
+text "You have something to talk to me about?"
+text Puzzled, I drink the tea I'm offered.
+text As I'm in the Japanese-style room, my posture reflexively straightened and my mind has become tranquil.
+text .... Although I had no connection to it, the Arima family heads a tea ceremony school.
+text Perhaps it was because I had been raised in that kind of environment, that I feel more at ease in a Japanese-style room than a Western-style one.
+text Senpai looks at me with a troubled expression.
+text "What's wrong, Senpai?
+text You look a bit worried."
+bgload BG_09A.jpg
+setimg CEL_T08.png 52 0
+text "Eh?
+text Ah, um, I was just a little surprised at how calm you were about all of this, Tohno-kun."
+text "Really?
+text Well, my family is a strict one, so I'm used to these kinds of things.
+text More importantly, Senpai, didn't you have something you wanted to talk to me about?"
+bgload BG_09A.jpg
+setimg CEL_T12.png 52 0
+text "I do.
+text The continuation of what we were talking about earlier."
+text ".... What we were talking about earlier.. you mean about my family?"
+text Senpai nods to indicate a yes.
+bgload BG_09A.jpg
+setimg CEL_T01A.png 52 0
+text "If you don't mind, I would like to hear more about it.
+text I was curious about it since we stopped halfway."
+text ".... It's not that I mind, but hearing about my family isn't very interesting.
+text It'd be a waste of time."
+text "I don't mind if it's not interesting, I just want to hear about it."
+text ".... Hmm, you sure are eccentric, Senpai."
+text "Maybe I am," Senpai laughs.
+text "Alright, then.
+text Let's continue from before.
+text You said you moved to your home.
+text What do you mean by that?"
+text Senpai asks, full of curiosity.
+text .... Well, the conversation back then must've been pretty fragmented for Senpai, since she didn't know any of the circumstances.
+text "---Let's see.
+text Basically, I'm a guy who's been disinherited.
+text I was seriously injured after getting caught up in a traffic accident when I was nine years old.
+text The injuries themselves somehow healed, but after that, I easily collapsed from anemia and threw up my food.
+text That's why I was entrusted to my relatives, the Arimas, while I recuperated."
+bgload BG_09A.jpg
+setimg CEL_T08.png 52 0
+text "Uh, so in other words, the Arimas have been your parents who raised you since you were nine, right?"
+text "That's right.
+text I knew my old man hated me for some reason and that once I had been entrusted to the Arimas, I would never go back home.... Go back to the Tohno mansion, that is.
+text That's why, well, I thought I'd just continue to live as a son of the Arimas forever.
+text That's what I thought, but my old man kicked the bucket recently.
+text That's when they told me to return to the mansion, now that my old man is no longer there, and I finally agreed to them."
+text ---And that, pretty much, is my domestic situation.
+text ~
+text I end my story like that.
+text Ciel-senpai gives a little nod silently.
+bgload BG_09A.jpg
+setimg CEL_T07A.png 52 0
+text ".... May I just ask one thing?"
+text "Mm?
+text Sure, if I can answer it.
+text Go ahead."
+text ".... Alright, then I'll ask.
+text Did you dislike your previous family?"
+text ~
+text My previous family---the Arimas who had raised me as my parents?
+text ~
+text My mother and father who weren't my real parents,
+text and the unfamiliar building which without a doubt was home to strangers.
+text But completely regardless of that---
+text "No, I liked them.
+text They were people who didn't care that I wasn't related to them by blood.
+text They were so warm to me that I felt bad about being depressed all by myself.
+text And for them to love me no matter what.... I didn't think it was a bad thing."
+text ---I was loved by these people.
+text ~
+text That's why soon, even one day sooner,
+text I have to truly become family to them---
+text ~
+text I had been telling myself those words since I was young.
+text .... Since a very, very long time ago.
+text Over and over, I swore, till I would practically pass out.
+text ".... Um, just like Arihiko said, I didn't have a single complaint about the Arima family.
+text They treated me well, and I think I responded to their affection, too.
+text Between us, even though I knew we were just playing at being family, even if it was all just an act, I didn't feel any pain."
+text No, I was happy instead.
+text In a way, I had considered the Arima parents and me to be the ideal nuclear family.
+text "---But it was no good, was it?"
+text ".... Yeah.
+text Despite everything, there was a line I couldn't cross.
+text 'This isn't your real family....' No matter what I did, I couldn't get those words out of my head.
+text I knew I should have been ignoring it, but I just couldn't do it.
+text I don't know if you'd call it a childhood experience, but it had already become like a curse to me.
+text Somehow, no matter where I was, I felt like a stranger to my family."
+bgload BG_09A.jpg
+setimg CEL_T09.png 52 0
+text Senpai is silent.
+text Avoiding my gaze, she huddles her shoulders apologetically.
+text "See?
+text It was boring after all, right?
+text That's why I said it would be a waste of time."
+bgload BG_09A.jpg
+setimg CEL_T01A.png 52 0
+text "No, that's not true.
+text It was a very meaningful story."
+text Saying that, Senpai begins to eat her own lunch.
+bgload BG_09A.jpg
+text I follow her example and start nibbling off the bread I had bought.
+text .... Thanks to my conversation with Senpai, my appetite has returned.
+text Despite that, I still couldn't even finish half of it.
+music ~
+bgload BG_09A.jpg
+setimg CEL_T07A.png 52 0
+text "So.
+text Tohno-kun, is anything troubling you right now?"
+text "Eh--why that, all of a sudden?
+text I don't have any worries in particular."
+text "Hmmm.
+text Then I suppose the reason you aren't eating much must be because of your health."
+text Senpai stares at me.
+text .... Somehow, her gaze feels very penetrating.
+text It feels difficult to remain silent under a gaze like that.
+text ".... I don't have any worries, but.. Senpai, what do you think of the recent killings?"
+text I can't help but ask.
+text The stories about my classmate who hasn't returned home won't leave my mind.
+text "Killings?
+text Oh, you mean that business about the vampires?"
+text "--Yes.
+text There's already been eight victims, right?
+text I haven't caught the news lately, so I'm not too sure about this subject.
+text Do you know anything, Senpai?"
+text "Well, I know as much as anyone else does, but no, not the details.
+text It's just that.. The word 'vampire' sends chills down my spine."
+text "Ah, you mean how it seems the victims have had their blood drained?
+text Strange, isn't it?
+text I wonder what it could mean?"
+text "Who knows?
+text It's impossible to know how such people think.
+text But I wonder why they've nicknamed him the 'vampire'?"
+text "....?"
+text What an odd question.
+text "Well, isn't it because the blood was drained from the bodies?
+text It'd only be natural to call them vampires, wouldn't it?"
+music 04.mp3
+bgload BG_09A.jpg
+setimg CEL_T04.png 52 0
+text "Do you know the folklore about vampires, Tohno-kun?"
+text Suddenly breaking into a smile, Senpai asks an even stranger question.
+text ".... Vampire folklore?
+text .... You mean how people who have their blood sucked by vampires become vampires themselves?"
+text "Yes.
+text If that was true, there shouldn't be any bodies left, right?
+text Supposing some vampire was the killer, there'd be no bodies, Tohno-kun."
+text "---I see.
+text That's true, but.. it's just a nickname, isn't it?
+text Do you really believe in vampires, Senpai?"
+bgload BG_09A.jpg
+setimg CEL_T05.png 52 0
+text "Not at all.
+text After all, the fact that the bodies are there show that it's not a vampire, right?"
+text Smiling, Senpai gives a reply that seems slightly off the point.
+bgload BG_09A.jpg
+setimg CEL_T01A.png 52 0
+text "But couldn't you also think of it this way?
+text Maybe the victims whose bodies have been found died because they couldn't become vampires.
+text Perhaps there are those who can be turned, and those who can't.
+text The people who can become vampires won't have their corpses found even if they were attacked by vampires.
+text Because even now, they're still alive--out there somewhere.
+text But those who can't become vampires just die, and so their bodies wind up being found."
+text "Well-----that's.."
+text .... Senpai is still smiling.
+text I know it's only a joke, but I'm having difficulty laughing it off.
+music 03.mp3
+bgload BG_09A.jpg
+setimg CEL_T03.png 52 0
+text "Oh, I'm just joking.
+text It'd be like some kind of horror story if that were really true.
+text I don't like scary stories, so please don't ask me things like that."
+text ".... What?
+text It looked to me like you were really getting into it, Senpai."
+bgload BG_09A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, I don't like scary stories, but I do like scaring you, Tohno-kun."
+text "........"
+text .... Did I do something to make her bear a grudge against me?
+bgload BG_09A.jpg
+setimg CEL_T01A.png 52 0
+text "But all jokes aside, Tohno-kun, lately the streets have become dangerous at night.
+text You mustn't go out, even though you are an energetic young man."
+text Senpai gives me a warning that sounds like a joke.
+text I can't tell how serious she is.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+text Lunch break ends, and fifth period starts.
+text The lesson on classics goes in one ear and out the other.
+bgload event/STK_E03.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Well, my house is this way.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Bye-bye.
+text See you at school tomorrow.
+bgload BG_06A.jpg
+text That's what Yumizuka said.
+text She wouldn't say that and then run away from home.
+text ~
+text "----"
+text ~
+text I have a bad feeling about this.
+text The killer who wanders the town at night.
+text It's dangerous to go out at night, the words Senpai said.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_06A.jpg
+text "----"
+text Perhaps it was because of that red imagery surrounding us when we parted.
+text Suddenly,
+text a vision of Yumizuka Satsuki soaked in red blood appears before my eyes.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text "Guh--"
+text ~
+text It happens suddenly.
+text My vision goes white, and my sense of balance reels.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text ~
+text "----"
+text ~
+text My field of view lurches.
+text Something lurks in the back of my head, and my consciousness feels heavy.
+text ".... This is bad.."
+text I know this feeling.
+text Sudden dizziness prior to an anemic attack.
+text The blood accumulated in the brain's blood vessels become a black lump, making my head sway, and my vision will go pitch black.
+text It feels as if the blackness is pushing its way out of my brain into my eyeballs.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+bgload IMA_10.jpg
+text ---This is bad.
+text I haven't been collapsing during class lately--
+text ~
+text Red.
+text Is it because Yumizuka's blood-red image is too fresh in my mind?
+text My vision distorts.
+text As darkness envelops it, I somehow grab onto my desk.
+text ~
+text But, it's useless.
+text There's no strength in my fingers.
+text I fall towards the floor--
+text As I do, I remember her words.
+text ~
+text "Tohno-kun, help me when I'm in a pinch, okay?"
+text ~
+text --I told you that's impossible.
+text Whatever you may think of me, I'm not Superman----
+bgload BG_10C.jpg
+music 01.mp3
+text "---Sorry for dragging you along with me, Arihiko."
+bgload BG_10C.jpg
+setimg ARI_T03.png 40 0
+text "Yeah, yeah, I'm used to you collapsing without warning like that.
+text Honestly, sleeping in the infirmary up to the very last minute?
+text Just who do you think you are?"
+text "You should've woken me up.
+text There's nothing conscientious about letting me sleep until they lock us in the building."
+text "Shaddup.
+text You think I'm going to wake up a sick person?
+text You'd just collapse again.
+text C'mon, we need to get back.
+text It's already seven, y'know."
+bgload BG_10C.jpg
+text Arihiko walks down the corridor.
+text .... After that.
+text I collapsed from anemia and was left to sleep in the infirmary.
+text Time passed until school lock-up time at six-thirty, when I was awoken by Arihiko's punch.
+text And so, we came to be walking along this deserted corridor.
+text "Hey.
+text C'mon Tohno.
+text What are you doing?"
+text "--Sorry.
+text I'm coming."
+text I shake my still-woozy head, and follow Arihiko.
+bgload IMA_10.jpg
+bgload BG_01C.jpg
+bgload BG_01C.jpg
+setimg ARI_T04.png 40 0
+text "Alright.
+text You can go home by yourself from here.
+text See you at school tomorrow."
+text ".... Thanks.
+text Sorry as always, Arihiko."
+bgload BG_01C.jpg
+setimg ARI_T02.png 40 0
+text "Don't worry, pay me back in double in the future."
+bgload BG_01C.jpg
+text .... Arihiko's answer isn't exactly in proper Japanese..
+text Smiling wryly to myself, I decide to head back to my own house.
+bgload IMA_10.jpg
+bgload BG_24C.jpg
+text I reach the intersection.
+text It's still seven in the evening, but there's no one around.
+text I guess because of the killer, fewer people go out at night.
+text The only figure I can see now is the back of a woman, far away.
+text ".... Ah, a blond?"
+text The distant woman seems to be a foreigner.
+text Even from far away, I can see her golden hair rippling as she walks.
+music ~
+bgload BG_24C.jpg
+setimg ARK_T22.png 36 0
+text ~
+text .... It draws my eyes after her.
+text Even though I only see her from behind, I can tell she's beautiful.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text --------Thump.
+bgload IMA_11B.jpg
+bgload BG_24C.jpg
+text "Eh.."
+text ~
+text Suddenly my heart pounds loudly.
+text My throat becomes inexplicably dry and parched.
+text I break out in a cold sweat.
+sound SE_01.aac 1
+bgload IMA_13.jpg
+bgload BG_24C.jpg
+text "U--gh."
+text My head aches.
+text It's not like the anemia earlier.
+text Rather than fading, my consciousness becomes sharper.
+sound SE_01.aac 1
+text "Ha-----gha."
+text I gasp.
+bgload BG_24C.jpg
+setimg ARK_T22.png 36 0
+text That---back.
+text Watching the woman's golden hair--My head hurts terribly.
+sound SE_01.aac 1
+text *pant*---*pant*, *pant*----"
+text .... My thoughts feel like they're melting into a haze.
+text I will.. follow behind her, and then---
+text ~
+text "And.... then?"
+text What am I going to do after that?
+bgload BG_24C.jpg
+text The woman disappears into a group of apartments in the shopping district.
+sound SE_01.aac 1
+text ".... I have.. to.. fo.. llow.."
+text I don't know why, but I think that.
+text My legs move on towards the apartments.
+text ~
+text But, before that.
+text ~
+bgload BG_24C.jpg
+setimg STK_T10.png 53 0
+bgload BG_24C.jpg
+text "--!"
+text Only for an instant.
+text Out of the corner of my eye, I see the figure of Yumizuka Satsuki.
+text "Yumizuka, san-----?"
+text My head becomes clear.
+text Yumizuka.. it was only for an instant, but without a doubt, that was Yumizuka.
+text Was she going towards town?
+text "What's she doing out, at a time like this..!?"
+text I was so mad, I didn't care if she disappeared or if she ran away from home.
+text It's too dangerous for a girl to walk around town at night alone.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text Yumizuka walks through the crowded town.
+text .... She's so far away, I'm not certain.
+text But even if I've mistaken her, I decided to run after her and tell her to stop.
+text "Wait, Yumizuka-san--!"
+text I shout, chasing after her.
+bgload BG_25B.jpg
+setimg STK_T10.png 53 0
+text "---"
+text Yumizuka glances back, as if she heard my voice.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text That face.. there's no confusing it.
+text The girl walking ahead of me is unmistakably Yumizuka Satsuki, and the expression on her face wasn't frightening.
+text "--Ah."
+text But I felt a chill run through my spine.
+text ~
+text ---Thump.
+text ~
+text My heart beats quickly.
+text The back of my head becomes heavy, and my throat burns.
+text An ache assaults my head, just as it did with the blond woman earlier.
+text "What is this.. It's weird.."
+text The inside of my body is burning.
+text I feel dizzy as if I'm in the grip of a terrible fever.
+text ~
+text In that moment, Yumizuka begins to walk again.
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text "Wa.. Wait, Yumizuka-san..!"
+text I call out, running.
+text Yumizuka walks on, not turning.
+text "Ca.. can't you hear me, Yumizuka..!"
+text I urge my hot body onwards.
+text But, no matter how much I try, I can't catch her.
+text ~
+text .... No matter how fast I run, I can't catch up to her even as she walks.
+text "------"
+text Something is.. strange.
+text I know that, but I can't tell what it is.
+text Right now, all I can do is to follow Yumizuka Satsuki.
+text ~
+bgload IMA_10.jpg
+text ----And then.
+text ~
+text I lose sight of her.
+text Yumizuka Satsuki, whom I had been chasing without success, is nowhere to be seen.
+bgload BG_26A.jpg
+text ".... Shit.. What the hell is going on..!"
+text I stop, catching my breath,
+text My chest heaves deeply.
+text .... Though I hadn't realized until now, I must have been running for a long time.
+text ~
+text "What.. time is it..?"
+text Resting my hands on my knee, I glance up at a nearby store window.
+text It's--already midnight.
+text "----Can't be.
+text I couldn't have been running for that long."
+text .... It's hard to believe, but the clock is correct.
+text Looking around, most of the shopping district is closed.
+text "---I should.. go back."
+text Even though I'm worried about Yumizuka, I feel like I won't be able to find her anymore.
+text .... I chased her for almost four hours, calling her name all this time, but she did not even respond.
+text What was she thinking?
+text ~
+text With a big sigh, I decide to head back to the mansion.
+bgload IMA_10.jpg
+jump s211.scr

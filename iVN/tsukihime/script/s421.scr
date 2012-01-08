@@ -1,0 +1,210 @@
+bgload BG_33D.jpg
+text ----I should go back to my room.
+text ~
+text Hisui's words echo inside my head.
+text My leaden body weakens more, weighed down by those chains.
+music 06.mp3
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text "...................."
+text I try to go up the stairs and my body stops.
+text .... My legs can't go far up enough.
+text It looks like I can only walk.
+text "................ What is this?"
+text .... Oh well.
+text I should go back to the kitchen to ask Hisui to lend me her shoulder----
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text "H------uh?"
+text I start to go back and collapse on the carpet.
+text "-----H, hey."
+text I can't even shout.
+text I exhaust myself crawling on my arms.
+bgload IMA_10B.jpg
+text Clomp, clomp.
+text I hear footsteps.
+text Hisui comes from the kitchen.
+text .... I'm saved.
+text Now Hisui can help me out---
+text Clomp-clomp, clomp-clomp, clomp.
+text "................ No way."
+text Crawling away from the stairs backfired.
+text I have hidden myself in the shadows and Hisui goes up the stairs without even noticing me.
+text ".................... That was incredibly stupid of me."
+sound SE_01.aac 1
+text As soon as I voice my thoughts, something catches my attention.
+text The feeling of something close to me.
+text ~
+text "-----------!"
+text I look behind me as I'm lying on the ground.
+text ~
+text Over there,
+text a ghost-like figure.
+sound SE_02.aac -1
+text "----------"
+text Then I really realize my situation.
+text I can't move.
+text I can't even call out.
+text The dark mansion.
+text .... That "someone" looks at me as if staring at its prey.
+text Under all these conditions, it's no surprise if I die here.
+text This situation seems like such a bad horror movie that I almost start to laugh instead of being scared.
+bgload IMA_11B.jpg
+bgload IMA_10B.jpg
+text "............ Ha, haha."
+text That "someone" takes a step towards me.
+text Is it fear of being killed?
+text My dizziness starts to increase.
+bgload IMA_11B.jpg
+bgload IMA_10B.jpg
+text "---------"
+text The presence stops.
+text It looks down at me and my defenseless back----
+music ~
+text ~
+text "Shiki-san, if you sleep there, you will catch a cold you know."
+text ~
+text ---and throws me those cheerful words.
+sound ~
+bgload BG_33D.jpg
+music 03.mp3
+text "................ Kohaku, san?"
+text "Yes, it is me.
+text What is it?"
+text ............ I let my tension go.
+text "Shiki-san?
+text Really, just what exactly are you doing lying down like that?"
+text .... Her voice is really cheerful.
+text With that, I relaxed, and I---
+bgload IMA_10.jpg
+text completely overwhelmed by dizziness, my consciousness shuts down.
+music ~
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text Strong rays of sunshine cause me to open my eyes.
+text I'm in my room.
+text I am now wearing my pajamas and lying in bed.
+text "---------That's right, last night."
+text I collapsed in the lobby last night.
+text Hisui did not realize I was there and Kohaku-san heard something and came.
+text ".... That means that Akiha was the one that left."
+text .... Probably.
+text Akiha always had a strong sense of responsibility, so she must have gone looking for SHIKI on the streets.
+text " .... Akiha.
+text I told her to leave him to me...."
+sound SE_04.aac 1
+text "Excuse me."
+text With a knock, the door opens.
+text Kohaku-san enters carrying a towel and a bucket.
+bgload BG_40A.jpg
+setimg KOHA_T02.png 52 0
+text "Ah, good morning Shiki-san.
+text How are you feeling?"
+text Kohaku-san draws near with her normal smile.
+text "-------"
+text I think back to last night's conversation with Hisui.
+text Tucking that away into the back of my mind, I try to make my usual smile.
+text "Mornin', Kohaku-san.
+text Um---did you carry me up here after last night?"
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Huh?
+text Do you not remember Shiki-san?
+text I found you collapsed in the lobby and you stood up once I called you.
+text You said you had a nice nap and started to walk.
+text I did lend you my shoulder, but you walked here by yourself."
+text "...... Oh.
+text I don't even remember it.
+text I must have been so tired that I forgot what I did."
+text "So you don't remember anything about last night?"
+text ".... Maybe.
+text I remember being in the kitchen-----"
+text .... And hearing about Hisui and Kohaku-san's connection.
+bgload BG_40A.jpg
+setimg KOHA_T05.png 52 0
+text "Ahaha.
+text That is unfortunate.
+text Shiki-san, you kept apologizing to me.
+text I inquired why you kept apologizing, and you kept saying that you were an idiot and a blockhead.
+text Shiki-san, are you a blockhead?"
+text "No, I don't think so."
+text .... Well, I am really starting to get the idea that they think my brain is made out of wood.
+bgload BG_40A.jpg
+text ".... Anyway, thanks a lot.
+text If I slept on the stairs, I'd have caught a cold, and school---"
+text Huh?
+text Are my eyes playing tricks on me?
+text The clock tells me it is already past ten in the morning.
+text "Ah---!
+text Ko, Kohaku-san, School!"
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Yes.
+text Today is your school's founding holiday, so you don't have school."
+text "--------"
+text That's right.
+text Come to think of it, it was.
+text I completely forgot about it since I have been spacing out at school lately.
+text "Well, I should get up anyway.
+text If I sleep any longer Akiha will---"
+text I sit up on my bed.
+text "Huh?-----I can't really."
+text My body won't move.
+text I try to get up with my arms, but they have no strength.
+bgload BG_40A.jpg
+setimg KOHA_T01A.png 52 0
+text "It seems your condition is still bad.
+text You have a slight fever and you look a little pale.
+text It may be boring, but please rest in bed today, Shiki-san."
+bgload BG_40A.jpg
+text Kohaku-san wipes my forehead with the cold, wet towel.
+text .... It feels good and cold.
+text "Hmm, it seems your fever is down.
+text You're not sweating as much and your face looks much better.
+text You should be well by the evening."
+text Kohaku-san crisply brings out a thermometer and an ice pillow.
+text .... In the end, she makes me open my mouth and checks the condition of my tongue.
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Well, I'll bring you some rice porridge right away.
+text Shiki-san, you better behave today."
+bgload BG_40A.jpg
+text "Ah---Kohaku-san."
+bgload BG_40A.jpg
+setimg KOHA_T03.png 52 0
+text "Yes?
+text What is it, Shiki-san?"
+text .... As expected, she is like always.
+text Her usual cheerful smile doesn't change.
+text I---I can't bring myself to think that her smile is just an act.
+text ".... Nothing.
+text I'm looking forward to the rice porridge."
+bgload BG_40A.jpg
+setimg KOHA_T05.png 52 0
+text "Yes, well then, excuse me."
+bgload BG_40A.jpg
+text Kohaku-san disappears down the hall, her footsteps padding after her.
+text I just stare at that figure silently.
+bgload IMA_10.jpg
+music ~
+bgload BG_40A.jpg
+music 01.mp3
+text Noon arrives.
+text After bringing the food, Kohaku-san went back to her duties.
+text ................ *sigh*
+text Being alone, I let out a sigh as I think of my strange circumstances.
+text .... Myself being adopted.
+text .... Akiha saying that she doesn't care about it.
+text .... Hisui and Kohaku-san.
+text .... And the killer that's still on the loose.
+text I asked Kohaku-san, but it doesn't seem like there was a new victim in the news today.
+text But as long as SHIKI is still on the loose, there will be more victims.
+text ".... If only this body did what I told it to, I---"
+text I could stop SHIKI.
+text I lay my head back down on the pillow as I start to say that.
+text Maybe it's because I've been seeing those dreams, but I'm beginning to have violent thoughts like SHIKI.
+text ".... Whatever I do, I should heal up first."
+text I close my eyes.
+jump s422.scr

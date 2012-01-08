@@ -1,0 +1,7 @@
+choice Call out Akiha's name.|Call out Kohaku's name.
+if selected == 1
+    jump s412.scr
+fi
+if selected == 2
+    jump s413.scr
+fi

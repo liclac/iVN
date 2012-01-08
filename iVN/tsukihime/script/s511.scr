@@ -1,0 +1,39 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Bonjour!
+text This corner is for the bad Tohno-kun, who rather easily ended up at a Dead End.
+text It is time for "Teach me, Ciel-sensei!"
+text We'll be seeing a lot of each other from now on, so please give me your best regards.
+text ~
+text By the way, my students are the thousands of Tohno-kuns out there all over the country, and..
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text ~
+text "What-nya?
+text What's with this difference in our treatment?"
+text ~
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Tsukihime's main heroine, Arcueid-san.
+text Now, we will start first period!
+text Goodness, this won't do at all, Tohno-kun.
+text This dead end is just too much, right?
+text I know exactly how you feel when you do not wish to make friends with that suspicious vampire, but you've just got to bear with it here.
+text In order to live, one must have endurance, and they say that if you can't beat 'em, join 'em.
+text Please, just try to demonstrate the Japanese quality of not being able to say no.
+text ~
+text Oh, and since you ended up being dog food without a chance, you'll have to restart from an earlier point and do a make-up.
+text Also, you have freedom to choose what response you make in the alley, but I think it is not a good idea to run away.
+text Well, that's all for first period.
+text Second period will be a lecture about wild animals.
+text It will be called "Shakes 'n Shivers Animal Land".
+text Well then, goodbye everyone.
+bgload IMA_10.jpg
+jump main.scr

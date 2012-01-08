@@ -1,0 +1,309 @@
+text ----With this, it is over.
+text ~
+text Tohno Shiki will soon disappear, and everything will end.
+music 07.mp3
+bgload event/AKI_E01.jpg
+bgload event/STK_E01A.jpg
+text ~
+text "--------Ah."
+text End.... end.. is that, okay?
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg AKI_T17B.png 40 0
+bgload event/STK_E02.jpg
+text ~
+text .... You will come back, right....?
+text ~
+text Akiha said that.
+text My sister I left alone for eight years.
+text The black-haired girl I have done nothing for as a brother.
+text ~
+text ----Always,
+text Tohno Akiha was alone in that mansion.
+text "--------"
+text Before, I faced Yumizuka with my knife to bring her salvation from death.
+text And now, I am giving up my life to save her with my life.
+text ~
+text But, that..
+text Doing that, who would be saved?
+text At least for Tohno Shiki, it's not helping someone he cares the most about----
+text "Aki----ha."
+text ~
+text .... I can't die.
+text Even if I'm wrong, I can't die now.
+text "Yumi, zuka----"
+text My knife moves.
+text .... The "line" on her chest.
+text The line on the heart of the girl who believed in herself, hoping for some last salvation----
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... I plunge my knife deeply into it.
+bgload IMA_10.jpg
+bgload event/STK_E01B.jpg
+text "----Shiki, kun?"
+text Satsuki's lips pull back.
+text The power there turns to nothing.
+text ~
+text "----Sorry.
+text I couldn't help you, Yumizuka."
+text ~
+text This is the only way I can.
+text If she can't escape from the pain,
+text then at least----I can let her have a painless death.
+bgload event/STK_E01C.jpg
+text "I see----I knew it.. you couldn't be with me, right Tohno-kun?"
+text Her voice is terribly peaceful.
+text Just like the way home in the sunset two days ago.
+text "But, I'm still happy.
+text Even if it was just a brief moment, you chose me, Tohno-kun.... Yeah, in that case, maybe dying like this isn't so bad.
+text All the pain is gone, and the scary emotions have disappeared like magic----"
+text I feel something blowing at my feet.
+text Looking there,
+text I see Yumizuka's legs have turned to ash from the knees down.
+text "----And, it's a little warm right now.
+text Ehehe, this must be your warmth, Tohno-kun."
+text She speaks happily.
+text ~
+text ~
+text ~
+text ~
+text ------This pure regret,
+text it's so much, I want to die.
+text ----I prepared myself.
+text ~
+text I prepared myself when I betrayed her, for whatever hateful words she might say.
+text ~
+text ----So why?
+text ~
+text Why this peaceful, happy voice?
+text She doesn't even blame me at all.
+text "----Sorry.
+text I----was powerless.
+text I'm the lowest."
+text My eyes are burning.
+text Inside my brain, my vision aacers.
+text "Aha.
+text Tohno-kun, you are crying.
+text .... You really are kind.
+text After I did these horrible things, you still cry for me.
+text .... Yeah, that's what I liked the most about you.
+text I watched you since middle school, Tohno-kun----so I always knew about that side of you no one else did."
+text Her proud voice, and the sensation of something drifting away on the wind.
+text Her lower body doesn't exist anymore.
+text ".... I, wanted to talk more with you, Tohno-kun.
+text Normally, just as classmates, to talk more.
+text That's why I really don't want to die now."
+text "------"
+text I can't say anything.
+text I don't have any words for her.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----At the very end, she leans her head against my forehead.
+bgload event/STK_E01D.jpg
+text "But, this is for sure the best way.
+text ---So, don't cry, Tohno-kun.
+text You did the right thing."
+text The sensation of the knife gets lighter.
+text Satsuki's body doesn't have a heart anymore.
+text "Ah, it seems like I won't be able to talk anymore.
+text Well, my house is this way.
+text So this is goodbye then."
+text "Yumi----zuka....!"
+text "Yeah, bye bye, Tohno-kun.
+text Thank you---and, sorry."
+text ~
+bgload IMA_10.jpg
+text Whoosh.
+text ~
+text Like ash scattered by the wind,
+text Yumizuka Satsuki completely disappears before my eyes.
+bgload BG_31B.jpg
+text .... Her figure disappeared like it was just a mirage.
+text "------"
+text All that remains is this dizziness.
+text I killed her.
+text I wanted to save her----I even said I would save her---but in the end, I killed her to save myself.
+text ~
+text "A----a."
+text But still.
+text But still, it would have been okay for her to call me a liar at the very end.
+text If she did that, I really could have turned into a bad person, so why----
+text Thank you.
+text Sorry.
+text She didn't have to thank me.
+text There was no reason to apologize.
+text "I--killed you."
+text .... But still, she thanked me.
+text That's why.
+text I really did want to save her.
+text "------"
+text My numb body stands up on its own.
+text I can't think of anything right now.
+text Are my mind and body separate things?
+text Mindlessly dragging my body, I exit the alley----
+bgload IMA_10.jpg
+music ~
+bgload BG_33D.jpg
+text The door opens with a creak.
+text Covered in wounds, I finally make it back to the mansion.
+bgload BG_33D.jpg
+setimg AKI_T19C.png 40 0
+text "------Ah."
+text Akiha is in the lobby.
+text Was she waiting for me this whole time?
+text .... Right now, I can't understand anything.
+bgload BG_33D.jpg
+setimg AKI_T23B.png 40 0
+text "Nii-san, what were you doing this whole time?
+text What time do you think----"
+bgload BG_33D.jpg
+setimg AKI_T15B.png 40 0
+text "N, Nii-san, you look----"
+text .... Akiha is shocked.
+text Why?
+text I can't even bring myself to want to think about what's so shocking for her.
+bgload BG_33D.jpg
+setimg AKI_T17B.png 40 0
+text "Nii-san, hang in there....!
+text What in the world happened?
+text You have all these wounds, and.... you look terrible."
+text "............"
+text I don't say anything.
+text No, I can't say anything.
+text I don't even know what Akiha is saying.
+bgload BG_33D.jpg
+setimg AKI_T23B.png 40 0
+text "------"
+text Akiha gasps silently and then walks towards me.
+text "Anyway, I will have to treat you.
+text Nii-san, can you walk?"
+text "............"
+text Yeah.
+text I'm alive, so I can walk.
+text "I will treat your wounds, so please come to the sitting room.
+text Ah, and take a bath--that will be impossible, so I'll have to wipe you with warm water."
+bgload BG_33D.jpg
+text Akiha disappears with quick footsteps.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ----Akiha takes care of me by herself.
+text She wipes off my dirty body with a towel, goes so far as to make me food, and accompanies me to my room.
+text During that time.. I couldn't.. even say a single word.
+bgload BG_40D.jpg
+setimg AKI_T12B.png 40 0
+text ".... Then I will go back to my room.
+text Please rest well tonight, Nii-san."
+text Without even asking anything.
+text In the end, she doesn't ask anything and quietly walks away.
+text ~
+text Disappearing.
+text Just like.. the girl.. I killed.
+text ~
+text ----As I think that, I grab Akiha's arm.
+music 09.mp3
+bgload event/AKI_E02.jpg
+text "Nii-san--!?"
+text Then, I embrace Akiha..
+text .... Strongly.
+text Unable to be alone, I wanted to feel someone's body warmth.
+text "Aki----ha."
+text I embrace her without thinking.
+text .... Akiha doesn't say anything.
+text Even though she definitely should pull away, she doesn't resist my trembling body.
+text Like this----all I wanted was to stay like this.
+text "I, am the worst."
+text I confess.
+text From my sin, and I escape to Akiha.
+text ".... I wanted to save her.... I wanted to save her.... but I couldn't do anything."
+text As if seeking salvation, I squeeze Akiha tighter.
+text There's no response from Akiha.
+text As if repelled by my weakness, Akiha pulls away.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+bgload BG_40D.jpg
+setimg AKI_T11B.png 40 0
+text ".... Nii-san.
+text I do not know what happened to you.
+text I think it is something I shouldn't ask about, either."
+text "----"
+text "I cannot give you any answers.
+text You have to solve your own problems.
+text So----please do not run to me for something like this."
+text .... Her words are really right on target.
+text Her rebuke is so correct, I finally return to myself.
+bgload BG_40D.jpg
+setimg AKI_T01B.png 40 0
+text ".... Sorry.
+text Just forget about it, please."
+text "........"
+bgload BG_40D.jpg
+text Akiha walks to the door without answering.
+text She tried to leave, but she suddenly stops.
+text "----I will not ask what happened.
+bgload BG_40D.jpg
+setimg AKI_T12B.png 40 0
+text But when you left, I was very frightened.
+text I felt like you would not return.
+text Like eight years ago, I had the same premonition."
+text "-------"
+bgload BG_40D.jpg
+setimg AKI_T25.png 40 0
+text "But, you did come back, Nii-san.
+text .... You said you were unable to save someone.
+text But at least, you were able to save me from that premonition."
+text "----So, welcome back, Nii-san.
+text Just your return has made me so happy.... So please keep that in mind."
+bgload BG_40D.jpg
+setimg AKI_T09B.png 40 0
+text Saying that embarrassedly, she gives a quick bow.
+text "Akiha------"
+text "That is all I have to say.
+bgload BG_40D.jpg
+setimg AKI_T16B.png 40 0
+text .... I will be very clear so my slow Nii-san can understand.
+text I'm saying please don't leave your cute little sister alone again."
+text "Ha, haha----I see, I get it.
+text But cute?
+text It's not right to say such things about yourself, Akiha."
+text I finally manage a response.
+text But with just that, Akiha gives a boastful smile.
+bgload BG_40D.jpg
+setimg AKI_T04B.png 40 0
+text "Yes.
+text Then I will see you tomorrow.
+text Sweet dreams, tomorrow will be a new day.
+text I won't allow you to be looking like that tomorrow."
+bgload BG_40D.jpg
+text Akiha leaves.
+text I----looking at my body covered in wounds, fall to my bed.
+text "Ha-----ah."
+text Deep.
+text As if I'm saying goodbye to something, I let out a deep sigh.
+text ".... Sorry, Yumizuka.
+text I decided----I shouldn't be full of regret after all."
+text .... Everything about what happened with her will be an indelible scar.
+text But, I should believe it was the right thing to do.
+text I know it is a sin, and I will have to accept my punishment someday.
+text But, I can't have regret for being alive right now.
+text ".... I'm back, Akiha."
+text I mumble aloud my heartfelt thanks.
+text ~
+text .... My mind starts to drift.
+text My exhausted mind and body swiftly approach sleep.
+text ~
+text In that instant, I thought..
+text ~
+text It's good for me to be alive.
+text At the very least, I have a home to return to.
+text And waiting for me there is my priceless family----
+bgload IMA_10.jpg
+music ~
+jump s305.scr

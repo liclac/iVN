@@ -1,0 +1,1499 @@
+bgload IMA_10.jpg
+bgload IMA_11.jpg
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text I open my eyes to the morning light.
+text Even though my body still feels heavy, probably because of yesterday's anemia, I feel pretty good.
+text .... How many days has it been?
+text How long since I had a morning so free of unease?
+text And today is my school's Founder's Day.
+text There's no need to prepare for school like I usually do, so I can enjoy the morning calmly.
+text "Ah---"
+text Then, I notice.
+text Though I thought there was no one in the room, someone is asleep by the bed.
+text "Akiha..?"
+text As if she has been nursing me all night long, Akiha is sitting on a chair, the top half of her body collapsed on the bed.
+bgload event/AKI_E09.jpg
+text Asleep, she breathes softly.
+text Her long black hair spread out on the bed.. it looks beautiful.
+text "Akiha.. hey, Akiha.."
+text After calling her softly, she shows no sign of waking up.
+text .... Well, if she's sleeping, then there's no point in making her wake up.
+text ".... Mm."
+text Akiha turns over weakly.
+text Sleeping, she has none of her usual strength.
+text Her defenseless sleeping face hasn't changed since she was a child.
+text Because of that, I can close my eyes and vividly recall the Akiha from back then.
+bgload event/AKI_E01B.jpg
+text .... Eight years ago.
+text Playing together, the black-haired girl who always followed me.
+text Although she was a quiet girl, Akiha always came with us.
+text She rarely smiled and even her smiling face seemed somehow sad, transitory.
+text ~
+text ---When I was a child, and knew nothing.
+text ~
+text I really wanted to make her laugh with joy, so I dragged her out into the garden with us over and over again.
+bgload event/AKI_E09.jpg
+text "Nn.. Nii.. san.."
+text As Akiha murmurs to herself, I wonder what kind of dream she's having.
+text "------"
+text For some reason, on impulse, I lift the sleeping Akiha's hair.
+text While I watch her sleeping face, my heart becomes calm.
+text .... It makes me want to watch over her forever if I could.
+text ".... Akiha."
+text .... I remember.
+text When we were children, I always thought about it.
+text That day I vowed to hold this girl more precious than anyone else.
+text The Akiha who would cry as she held me.
+text ".... But it's no good, is it?
+text The image from back then is gone.
+text She's a proper young lady now."
+text I murmur, gazing at Akiha's sleeping face.
+text "----Nn."
+text I let her long black hair fall.
+text ".... I'm.... sorry."
+text Knitting her eyebrows painfully, Akiha whispers in her sleep.
+text ".... I'm sorry.... I'm sorry, Nii-san...."
+text "----Akiha?"
+text Akiha's breathing is irregular.
+text With her long black hair sliding off the bed, Akiha slowly lifts herself up.
+bgload BG_40A.jpg
+bgload BG_40A.jpg
+setimg AKI_T19C.png 40 0
+text "Ah---it's Nii-san.
+text Nii-san.. why are you, here..?"
+text ".... Well, it's natural.
+text This is my room, after all."
+bgload BG_40A.jpg
+setimg AKI_T24.png 40 0
+text "Eh---!?"
+bgload BG_40A.jpg
+text Akiha leaps upright as if stung, and glances around quickly.
+bgload BG_40A.jpg
+setimg AKI_T04B.png 40 0
+text "Good morning, Nii-san.
+text Did you sleep well last night?"
+text .... As if she hadn't slept here at all, she greets me calmly.
+text Just like Akiha.
+text Her guts, or I should say her response, is not normal.
+text "Yeah, morning.
+text I slept well, thanks to you.
+text It's been a long time since I had such a pleasant morning."
+bgload BG_40A.jpg
+setimg AKI_T12B.png 40 0
+text "Really?
+text Is your body completely recovered, then?"
+text "No, it still feels kind of heavy.
+text Today's a holiday, so I'll just rest quietly."
+bgload BG_40A.jpg
+setimg AKI_T04B.png 40 0
+text "Why Nii-san, it's unlike you to say such things.
+text Usually you disappear off somewhere before anyone notices."
+text "Please don't say that.
+text I'll be staying at home from now on, so you don't need to worry."
+bgload BG_40A.jpg
+setimg AKI_T08B.png 40 0
+text "Yes, yes, I'll accept half of that statement."
+bgload BG_40A.jpg
+text Smiling happily, Akiha gazes at my face.
+text .... If our faces stay as close as this, it'll be a problem.
+text Akiha's features are very beautiful, and if she keeps pointing that cheerful smile at me, I might go crazy.
+bgload BG_40A.jpg
+setimg AKI_T09B.png 40 0
+text "Well then, Nii-san, we shall see how you feel at lunch.
+text Until then, please don't exert yourself, or go outside."
+text "I understand.. But, it's terrible.
+text Since I came back here, you've had to nurse me all the time.
+text I'm no older brother."
+bgload BG_40A.jpg
+setimg AKI_T17B.png 40 0
+text "----Nii-san."
+text Though it was only a casual comment, Akiha's face is clouded.
+text After hanging her head for a moment, she stands and looks up.
+bgload BG_40A.jpg
+setimg AKI_T01B.png 40 0
+text "---Please don't say stupid things like that.
+text You're my brother.
+text And even if you don't act like a good one, nothing would change."
+text ".... Well, I suppose, but..?"
+bgload BG_40A.jpg
+setimg AKI_T12B.png 40 0
+text ".... It's nothing.
+text But, it's true.
+text I don't mind having to nurse you every day, so please, don't worry about it."
+bgload BG_40A.jpg
+text Akiha walks quickly to the door.
+bgload BG_40A.jpg
+setimg AKI_T12B.png 40 0
+text "Well, excuse me.
+text I shall be out during the morning, so if you need anything, please ask Hisui."
+bgload BG_40A.jpg
+text And with that, Akiha leaves the room.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+text Ten o'clock comes around.
+text Although it's good to rest, lying in bed like this all day is boring.
+text ".... Ahhhh.."
+text .... But even so, it seems my body hasn't slept enough yet.
+text My body's still sluggish, and if I walk around and end up like yesterday, Akiha will get angry.
+text ".... Akiha will be back in two hours.
+text And I promised her that I'd take today off, after all."
+text Telling myself this, I throw the sheets over me.
+music ~
+bgload BG_40A.jpg
+text I get really drowsy, probably because I'm still exhausted.
+sound SE_01.aac 1
+text .... If I listen, I can hear my own heartbeat.
+sound SE_01.aac 1
+text "Ho.. t.."
+text Come to think of it, I haven't had anything to drink since yesterday.
+text My throat's dry, and my head feels a little dim.
+sound SE_01.aac 1
+text Just a little.
+text I guess it's okay to go out to get some water.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_46A.jpg
+sound SE_02.aac -1
+text The corridor is empty.
+text Long ago.
+text So long ago I can't remember, or don't need to remember.
+text Like ruins in a movie, very quiet.
+sound SE_02.aac -1
+bgload IMA_10.jpg
+bgload BG_36A.jpg
+bgload IMA_10.jpg
+bgload BG_39.jpg
+bgload IMA_10.jpg
+bgload BG_48A.jpg
+bgload IMA_10.jpg
+bgload BG_42A.jpg
+text Hot.
+text The sunshine is hot.
+text Is my body still not recovered yet?
+text It seems I can't spend too long in the sun.
+bgload IMA_10.jpg
+bgload BG_54A.jpg
+bgload IMA_10.jpg
+bgload BG_44A.jpg
+bgload IMA_11.jpg
+text .... The detached building seems to aacer in the sun.
+text My vision dims completely, like I'm in a hot desert.
+text White.
+text ~
+text .... There's a clatter.
+text .... From the detached building.
+text .... Someone.
+text .... Is there someone in there?
+bgload IMA_10.jpg
+bgload BG_45B.jpg
+text Opening the sliding door very slightly, I peer in from the porch.
+text Inside, I see the figures of Akiha and Kohaku.
+text They look a little strange.
+text I hear the swishing of an obi being removed.
+text ~
+text -----What..?
+text ~
+text Without a word, Kohaku pulls down her kimono and bares her breasts.
+bgload IMA_11.jpg
+bgload event/AKI_H13.jpg
+text Kohaku stands there with a blushing face, but does not move.
+text Akiha presses her lips against the bared white chest.
+text ~
+text Tension.
+text ~
+text Kohaku looks down at her bare chest, and Akiha crouches so that she is burying her face in Kohaku's breasts.
+text A thin red drop makes a line down her breast.
+text Akiha's throat starts to move, swallowing something.
+text What---what is she drinking?
+text There's no need to ask; I already understand.
+text ~
+text Akiha, she's drinking, Kohaku's blood----
+bgload IMA_11.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----------Dream
+text Dream------
+text ~
+text This is a dream.
+text It's a dream, so I should hurry up and wake up.
+sound ~
+bgload BG_40A.jpg
+music 01.mp3
+text "----Eh?"
+text .... My own room.
+text I'm definitely in.. my own room.
+text "Akiha, and Kohaku-san..?"
+text Akiha.
+text Akiha was drinking Kohaku's blood, I definitely saw it.
+text "Was I just dreaming..?"
+text .... Perhaps.
+text No, it must have been a dream.
+text There's no way that was real.
+text ".... But.. it was so real."
+text It has to be a dream.
+text The smell of the tatami mats, the two's ragged breathing, the gulping I heard from Akiha's throat.
+text "--------"
+text I get out of bed.
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+text .... I feel dizzy.
+text But I don't care.
+text The detached building.
+text If I go out to the detached building, I'll know for sure whether it was a dream or not---
+bgload IMA_10.jpg
+bgload BG_54A.jpg
+text "----!"
+text Hearing a noise, I hide myself.
+bgload BG_54A.jpg
+setimg KOHA_T09.png 52 0
+bgload BG_54A.jpg
+text "Kohaku.. san."
+text Kohaku-san walks from the direction of the detached building, towards the mansion.
+bgload IMA_10.jpg
+bgload BG_44A.jpg
+text .... The house is as silent as the grave.
+text I think it's empty.
+text Akiha isn't here.
+text Because she said she'd be out during the morning.
+text Akiha couldn't have been in a place like this with Kohaku-san.
+text ~
+text "......"
+text I swallow hard.
+text I take a deep breath, and step inside.
+bgload IMA_10.jpg
+bgload BG_45A.jpg
+bgload BG_45A.jpg
+setimg AKI_T19.png 40 0
+text ".... Nii.... san....?"
+text Akiha is standing in the Japanese-styled room.
+text She is looking at me aghast.
+text ".... Akiha."
+text "Yes..?
+text What is it, Nii-san..?"
+text Akiha doesn't seem surprised that I'm here.
+text She merely reacts listlessly.
+text "'What is it'..?
+text What are you doing in a place like this?"
+text "What?
+text I just thought I'd come and have one last look around before it's demolished."
+text "---No, I don't mean that.."
+bgload BG_45A.jpg
+text ~
+text I stare at Akiha's body.
+text Hm?
+text ---Come to think of it, Akiha's wearing her uniform.
+text Wasn't she wearing her normal clothes a while ago..?
+text "Akiha, you changed your clothes?"
+bgload BG_45A.jpg
+setimg AKI_T01A.png 40 0
+text "Yes, since I went to school during the morning.
+text After leaving your room, I changed, and I only just returned."
+text ".... Really?
+text Yeah, of course, you weren't doing those things in here."
+text ~
+text --Yes, it was a dream, after all.
+text .... But, something's odd.
+text It's odd, but.. who's odd?
+text Is Akiha odd?
+text Or am I odd?
+text When I saw that sight, Akiha was wearing her normal clothes.
+text It would be strange to change clothes after that, and what Akiha just said, there's nothing strange about it at all.
+text ~
+text So---that makes me who saw that dream strange.
+bgload BG_45A.jpg
+setimg AKI_T17A.png 40 0
+text ".... Nii-san?
+text What is it?
+text You seem pale.
+text You said you'd rest all morning, so why are you out in a place like this?"
+text "Ah, I just thought I'd go for a bit of a walk."
+bgload BG_45A.jpg
+setimg AKI_T11A.png 40 0
+text ".... Really?
+text Well, I don't care about that, but I forbade you from coming here.
+text It seems you couldn't keep your promise to me, Nii-san."
+text Akiha glares accusingly at me.
+text Her gaze seems to see right to the bottom of my heart, which jumps in response.
+text ".... You're right.
+text From now on, I'll be careful."
+bgload BG_45A.jpg
+setimg AKI_T01A.png 40 0
+text "This building is getting very old, so there's a chance it may collapse.
+text Please don't come here anymore, Nii-san."
+text ~
+text ---Is it just my imagination?
+text I think there really is something odd about Akiha's attitude.
+text For one thing, why would Akiha be in such a dangerous place alone....?
+bgload BG_45A.jpg
+setimg AKI_T11A.png 40 0
+text "Now, please go back, Nii-san.
+text You do not look well."
+bgload BG_45A.jpg
+text Walking past me, Akiha leaves the Japanese-styled room.
+text "Wait a minute, Akiha.
+text There's something I forgot to ask yesterday."
+bgload BG_45A.jpg
+setimg AKI_T01A.png 40 0
+text "Something you forgot to ask?"
+text "Yeah.
+text That clearing where I collapsed.
+text Long ago, I used to play with you there, but I feel like there was someone else as well.
+text Do you remember?"
+text "---There was no one else.
+text You're mistaken."
+bgload BG_45A.jpg
+text Answering clearly, Akiha leaves the detached building.
+text ".... But, Akiha, there was a third child.
+text A child adopted ten years ago.
+text Are you saying you don't know about him?"
+text Left alone in the Japanese-styled room, I talk out loud.
+text Is Akiha hiding the truth about that child, or does she really not remember?
+text ~
+text ----I can't tell.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text ----Night.
+text As I returned and sat absent-mindedly in my room, it seems the day ended.
+text .... Too many things to think about, too many things I have to think about.
+text Even with Yumizuka gone, the killings still continue.
+text And I see matching dreams of killing people and sucking their blood.
+text Eight years ago.
+text The near-fatal injury I received in an accident, and the child that had to be here.
+text The scene I remembered in the courtyard.
+text Undoubtedly, it was a memory from eight years ago.
+text If I've started to see dreams of killing people, there's no question why.
+text It seems that same thing happened right before my eyes, a long time ago.
+text "-----"
+text .... I haven't seen Akiha since then.
+text Kohaku-san brought supper to my room, and Akiha has not come to visit.
+text "Well, I guess since I'm feeling better, there's no reason to visit, but.."
+text .... I still feel awkward when it comes to her.
+text If day breaks, and morning comes, and we say "good morning" as always, I bet the bad feeling will disappear.
+text ".... That's right.
+text I'll just sleep today."
+bgload IMA_10.jpg
+music ~
+text With the lights off, I curl up in bed.
+text ~
+text But, Akiha is not beside me.
+text If I sleep like this, then..
+text I might dream about killing people again----
+bgload BG_40D.jpg
+text "----Crap."
+text .... It's no good, I can't sleep at all.
+text Because Akiha was beside me yesterday, I was able to sleep peacefully.
+text If I sleep alone, I might have that dream again.
+text And if I dream of drinking blood, and another victim appears..
+text I wouldn't be able to deny it and would have to conclude that I am the killer.
+text "----Gh."
+text I get out of bed.
+text .... I won't sleep.
+text I won't sleep tonight, I will stay awake.
+text Moonlight is streaming in through the window, so I can just gaze at the moon for a while---
+text ~
+text "Huh?
+text There's someone in the courtyard."
+text I look closely.
+text "Isn't that Akiha?
+text What's she doing, standing in the courtyard?"
+text Akiha is standing quietly under a particularly large tree.
+text ".... Maybe she's taking a walk.
+text It's past eleven already; she's so careless."
+text In fact, the first night I came back to the mansion, Akiha was walking about in the dead of night too.
+text ...... Well, if I'm not going to sleep anyway..
+text If, like yesterday, I have Akiha beside me, I don't think I'll have nightmares---
+bgload IMA_10.jpg
+bgload BG_48D.jpg
+bgload IMA_10.jpg
+music 08.mp3
+text I walk in the moonlight.
+text The mansion's trees are painted in splendid autumn colors, and the falling leaves really look illusionary.
+bgload BG_54C.jpg
+text Akiha stands in the center of it all.
+text I gaze at her long black hair, her thin back, and the autumn leaves scattered about her.
+text Swaying.
+text Her black hair shakes like the leaves; is that why her body seems so weak?
+text Akiha's figure seems like a mirage.
+text ".... Akiha?
+text What are you doing, at a time like this?"
+text "What?
+text I'm watching the moon.
+text Just like you, Nii-san."
+text Showing no surprise at my appearance, Akiha turns and answers.
+bgload event/AKI_E03.jpg
+text "Good evening, Nii-san.
+text Going out at a time like this even when you're sick; you're such a troublesome patient, aren't you?"
+text "I guess.
+text I could see the moon from my room, but there was a poor little girl outside.
+text As a proper brother, I had to come out."
+text "Huhu.
+text Well, I'm sorry about that."
+text "Ah----well, I guess inside the mansion is fine, but it has been unsafe recently.
+text You're a girl, so you shouldn't be wandering around outside at night."
+text "You're right.
+text If you say so, I'll go straight to my room."
+text "Bah, it's fine now.
+text .... I, couldn't sleep either, so it'd be nice to spend some time together."
+text "If you'd like, then certainly, Nii-san."
+text Closing her eyes, Akiha nods quietly.
+text .... Akiha's nod seems as if she is praying for something.
+text ".... I'm surprised.
+text You're really nice tonight.
+text Did something good happen?"
+text "Nothing wonderful has happened.. but, I guess being able to talk to you like this might be something wonderful."
+text Akiha chuckles with a smile.
+text "-----"
+text In response, my chest thumps.
+text "Nii-san?
+text What is it?
+text Your face is red.
+text If you're still feeling ill, shall we move to the terrace?"
+text "No, I'm fine.
+text I'd like to gaze for a little longer, so let's stay here."
+text "Yes.. tonight really is beautiful.
+text Of all the scenery around the mansion, this is my favorite."
+text Akiha smiles faintly.
+text .... Her behavior really surprises me.
+text Her atmosphere is terribly calm and gentle.
+text Amidst the red autumn leaves.
+text Tohno Akiha seems many times prettier then usual.
+text "Hey, Nii-san?
+text Do you remember this place?"
+text "This place?
+text You mean, this big tree?"
+text "Yes.
+text When we were children, this was our meeting place.
+text When I was inside doing my lessons, I'd hear a stone at the window.
+text And then I'd slip away from my private teacher, and run out here."
+text ----Yeah, come to think of it, she's right.
+text Akiha was always doing lessons in the mansion; our old man wouldn't let her go outside.
+text "The people in the mansion were afraid of Father, so they wouldn't even talk to me.
+text .... But, that was natural.
+text I thought I wasn't meant to talk to anyone except Father.
+text There were lots of people, but to me the rules of the Tohno house were more important than any of them.
+text So I was fine by myself, and I could bear Father's lessons."
+text ".... Yeah, I remember.
+text He didn't care about me, but the old man was really strict with you.
+text Shut up in your room all the time, doing lessons all day long.
+text I really didn't like that."
+text "Yes.
+text To be honest, I hated it too."
+text .... I guess she has sorted it out as something in the past.
+text Akiha laughs nostalgically.
+text "But, Nii-san, you were the one who let me notice.
+text .... You won't remember this since it was like an everyday thing for you, but one day, while I was waiting for the teacher in the courtyard, you came up, grabbed my hand, and began to run.
+text I asked what you were doing, and you said you couldn't play tag by yourself, so I should play too.
+text .... Really.. Thinking back, you were a terribly pushy person, weren't you?"
+text Akiha giggles.
+text ".... Well, that's what children do.
+text Please forgive my impoliteness."
+text "Yes.. after that, Father scolded us, so it became harder for us to meet---"
+text "----Yeah, I became stubborn too.
+text I decided I'd play with you once a day, and one way or another, I'd get you outside.
+text But, in the end, you slipped away yourself.
+text But you'd just watch from far away and never come close."
+text "It's fine.
+text I was happy just with that.
+text ---Yes, I really was happy.
+text You took me out to play, and Father would scold us afterwards.
+text Father's scolding got worse day by day, right?
+text So, I began to think.
+text He won't come today.
+text He shouldn't come today.
+text I don't think he'll come today..
+text But, you always betrayed my expectations.
+text Every time we were scolded, and I thought you wouldn't come anymore, you always appeared, smiling.
+text You always said Father didn't scold you, but it was a pretty bad lie."
+text ".... Really?
+text I always thought I'd fooled you completely; but I guess it was easy to tell it was a lie."
+text "Of course.
+text I was sorry you were always scolded on my behalf.
+text Every day at the same time, I would wait excitedly, wondering, 'Is Nii-san going to come today?'"
+text ".... But, that was the happiest time.
+text When you went away, life returned to normal again, but I didn't suffer.
+text But, the memories of you were stronger than anything else, Nii-san.
+text .... You say you left me alone, but that is wrong.
+text I----I was always saved by you.
+text Because I had memories of you, I was able to remain as Tohno Akiha."
+text ~
+text And, like an illusion, Akiha smiles.
+text "---There's something wrong with me.
+text If I was always clinging onto you like a child, I could hardly be head of the Tohno House."
+text ".... Stupid.
+text That has nothing to do with it.
+text It's okay to depend on someone when you need to.
+text We're brother and sister, after all."
+text "No, that was only when we were children.
+text It was decided that I would be the heir of the Tohno House.
+text So, I cannot depend on anyone; I must manage on my own."
+text ".... What's with that?
+text Just because you became the heir of the Tohno House, does that mean you can't make your own decisions?"
+text "That's what it means to become the heir of the Tohno House.
+text Long ago, that's what I was taught to believe.
+text ---But, I'm still no good at it.
+text After all, I'm showing weakness like this, aren't I?"
+text ~
+text As she speaks,
+text Akiha jumps forward with light steps.
+text As if dancing, she walks amidst the fallen autumn leaves.
+text "Aki---ha."
+text .... My chest hurts.
+text I don't know why, but right now, I want to embrace Akiha tightly.
+text .... Is there some magic in the light of the moon?
+text Even though she's my sister.. no, because she is my sister, I really want to protect this girl.
+bgload IMA_10.jpg
+bgload event/AKI_E03.jpg
+text "It's getting cold.
+text Shall we go back, Nii-san?"
+text ".... Yeah, let's go back.
+text We shouldn't stay here forever----"
+text ~
+bgload IMA_11B.jpg
+music ~
+bgload event/AKI_E03.jpg
+text ".... Nii-san?"
+text "-----"
+text I can hear Akiha's voice.
+text But, I can't hear what she's saying.
+text ~
+text Really, I don't know what it is.
+bgload IMA_11B.jpg
+sound SE_02.aac -1
+bgload event/AKI_E03.jpg
+text Akiha's hair that should be black,
+text It looks crimson, like blood.
+bgload IMA_10.jpg
+bgload IMA_13.jpg
+text -----Unnecessary.
+text It's unnecessary.
+text ~
+text ~
+text ~
+text ----Unnecessary.
+text It's something unnecessary.
+text ~
+text ~
+text ~
+text ~
+text ----Unnecessary.
+text Red hair.
+text The image of blood.
+text A demon that drinks blood.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----That is not human, therefore..
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text It, must be eliminated.
+bgload IMA_10.jpg
+bgload BG_54C.jpg
+text "---Nii-san?
+text Are you alright?
+text Nii-san..!?"
+text "Guh.. ahh..!"
+text My chest tightens.
+text My heart is racing.
+text Blood clogs my veins.
+text Repeating in my head, kill, kill.
+bgload IMA_10.jpg
+text -----No, I'm not going to kill yet.
+text ~
+text I'll enjoy this woman's body first.
+text Her slender arms.
+text Her beautiful hair.
+text Her small breasts.
+text Her body, perfect like a beautiful doll; I'll violate it.
+bgload BG_54C.jpg
+text ~
+text ---My throat is hot.
+text It's just like..
+text when I kill people in dreams.
+text Hot.
+text "Nii-san, please hold on.
+text I'll help you, so let's go back to the mansion."
+text Voice.
+text I can only hear Akiha's voice.
+text No, I mustn't see her face.
+text If I do, I'll..
+text "---It's okay.
+text I.. won't touch, your body."
+text No.
+text I can't touch it.
+text If I touch it---I don't know what I'll do.
+text ".... I'll go back first.
+text Make sure you come in too, Aki, ha.."
+text With what little reason I have left, I run from Akiha.
+bgload IMA_10.jpg
+sound ~
+bgload BG_40D.jpg
+music 06.mp3
+text Somehow, I make it back alone.
+text I breathe desperately.
+text I collapse onto the bed.
+text "Damn it......!"
+text I hate myself.
+text Not satisfied with mere dreams, I feel these urges in reality, too.
+text And not strangers; I wanted to do such things to Akiha---
+text "I---I.."
+text I don't understand myself anymore.
+text Memories of eight years ago.
+text Akiha, and a boy covered in blood.
+text An event I can't dismiss as a dream or as reality.
+text ~
+text -----Tohno Shiki, like a killer.
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg STK_T02.png 53 0
+text "--I know.
+text Shiki-kun's fragile side."
+text .... Her.
+text Yumizuka spoke those words proudly.
+text ~
+text "You're the same as me.
+text Just like me, you have the same unbearable urge to kill---!"
+bgload BG_40D.jpg
+text "----"
+text I can't deny it.
+text After all, those in the Tohno family have problems.
+text Death by madness.
+text Death by violence.
+text Disappearances.
+text Psychotic episodes.
+text Akiha drinking Kohaku's blood.
+text Me, seeing homicidal dreams.
+text ~
+text "-----Guh."
+text Thinking about it, I have to smile at my foolishness.
+text Why should Akiha be strange?
+text Akiha is normal, and that's just what I imagined.
+bgload IMA_10.jpg
+bgload IMA_13.jpg
+bgload BG_40D.jpg
+text Yes, I'm the only one that's mad.
+text Only I am---wanting blood tonight as well---
+music ~
+bgload IMA_10.jpg
+sound SE_01.aac 1
+text ~
+text ~
+text -----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text -----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text -----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text -----Once aroused, my body can't be calmed with something like sleep.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text -----So.
+text Tonight too, I shall relieve my thirst.
+bgload BG_26A.jpg
+music 04.mp3
+text It seems I went into town at night again.
+text It seems my eyes are bloodshot,
+text and I'm waiting for someone to pass by again.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---When did I unknowingly fall asleep?
+text Long hair swaying.
+text Wandering the town at night.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I'm having another homicidal dream.
+text It seems I found new prey.
+text Anyone will do tonight.
+text Killing a strange man, dragging him into a back alley.
+bgload IMA_10.jpg
+bgload IMA_12B.jpg
+bgload BG_31B.jpg
+text The sound of biting the throat.
+text There's a gurgling sound.
+text Biting into the throat, and drinking blood to relieve the thirst.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----It's the same again.
+text Then.
+text An obstruction appears.
+text I throw the body aside and rise.
+text Someone.
+text Someone is watching me.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The black figure appears.
+text Shaking my hair loose, I look up at the moon.
+bgload IMA_10.jpg
+bgload event/CEL_E04.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The figure is someone I know well.
+text From rooftop to rooftop.
+text From shadow to shadow.
+text The figure follows.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The black figure looks a lot like Ciel-senpai, matching the fiend's unnatural speed perfectly.
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The movement stops.
+text Since it's excited.
+text It seems ready to fight.
+text It seems tired of running.
+text It probably felt like playing.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Ciel-senpai is coming.
+bgload IMA_18.jpg
+text .... After that, it was quick.
+text Ciel-senpai was very strong, but when a passerby happened to appear, that was the end.
+text When she moved to protect that passerby, she was skewered with something like an iron pipe along with the passerby.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----It's too cruel to watch.
+text Lifting her hands up, they too are skewered with pipes.
+text Hung like a crucifix, Ciel-senpai is stripped.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----.... I know it's laughing.
+text Sliding its tongue over Ciel-senpai's breasts, it laughs.
+text Ciel-senpai simply glares, doing nothing.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Blue pupils like flames.
+text Looking into my eyes.
+music ~
+bgload IMA_10.jpg
+bgload IMA_13.jpg
+bgload IMA_10.jpg
+bgload IMA_18.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The image stops.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Organs break.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Like peeling off a scab,
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text I wake up.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+sound SE_11.aac -1
+text "----!"
+text I jump out of bed.
+text It's almost six in the morning.
+text "Even Senpai---why?"
+text .... No, that woman in priestly robes wasn't necessarily Senpai.
+text Because, there was something different about her.
+text The me inside the dream was strange, but that Senpai was even stranger.
+text Leaping from rooftop to rooftop, and throwing swords like bullets.
+text It almost seemed like Senpai was more of a monster than the killer.
+text ~
+text ---So it has to be a dream.
+text Because when I opened my eyes, I was sleeping in my own bed.
+text "---I can just call it a dream?"
+text I laugh.
+text Whether or not it was a dream isn't the problem.
+text What I remember and how much I didn't want to kill are meaningless.
+text ~
+text ---All I know is, my body is still excited.
+text The feel of breaking the man's neck,
+text of skewering Ciel-senpai's arms over her head, and licking her body.
+text .... I can still feel the heat of her breath.
+text So, whether it was a dream or reality makes no difference.
+text I killed someone and tried to rape Senpai in either case.
+sound ~
+sound SE_04.aac 1
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Excuse me."
+text Hisui enters carrying my school uniform.
+sound SE_11.aac -1
+text "Good morning, Shiki-sama."
+text ".... Yeah, morning, Hisui."
+text I answer, shaking off the remaining sensation of Senpai's warmth.
+text .... But, it's no good.
+text Even though Hisui came to wake me up, I still can't help but feel depressed.
+text "Shiki-sama..?
+text You seem pale.
+text Are you still ill?"
+text ".... Nah, it's not that.
+text I'm always like this in the morning."
+text I get out of bed.
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+text .... My head aches, but I ignore it.
+text "I'll go to the sitting room.
+text I bet Akiha's waiting?"
+bgload BG_40A.jpg
+setimg HIS_T04.png 62 0
+text "No.
+text It seems that Akiha-sama is not feeling well this morning either, so she shall be absent from school today."
+text "Eh---but, she was fine just last night."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "I cannot say.
+text Since I heard this only from Nee-san, I do not know the details."
+text "---I see.
+text Another fit, like before, I guess.."
+text "Nee-san is in the sitting room, so please ask her for the details."
+bgload BG_40A.jpg
+text With that, Hisui leaves.
+sound ~
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+music 02.mp3
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Ah, good morning, Shiki-san.
+text You're up early today."
+text "Morning, Kohaku-san.. I heard Akiha's condition is bad, what happened?"
+bgload BG_34A.jpg
+setimg KOHA_T01A.png 52 0
+text "Eh--?
+text Ah, Hisui-chan told you?
+text Akiha-sama has a bit of a fever, so she's taking today off."
+text "A fever.. but, why?"
+text "Well, she's been really busy since you got back, hasn't she?
+text Speaking with relatives, arrangements to change schools.
+text She's just tired out."
+text ".... Just tired out?
+text Really?"
+bgload BG_34A.jpg
+setimg KOHA_T05.png 52 0
+text "Of course.
+text Oh, Shiki-san, you're panicking.
+text She must be really important to you."
+text Kohaku-san laughs happily.
+text As she speak, I realize how tense I was getting.
+text "Ah.. nah, I wasn't really worried about Akiha, I was just.."
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Just what, Shiki-san?"
+text Her eyes stare straight at me.
+text I'm not good at lying, and I don't want to betray my feelings.
+text "---Ah, no, you're right.
+text Akiha's important to me, so like you said, I was worried."
+text .... Though I'm embarrassed, I tell Kohaku-san my true feelings.
+bgload BG_34A.jpg
+setimg KOHA_T01A.png 52 0
+text "Shiki-san, you're very honest today.
+text Please, say that when Akiha-sama's here."
+text With an innocent smile, she says something pretty scary.
+text ".. Oh, come on.
+text There's no way I could tell Akiha that.
+text By the way, is she still asleep?"
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Yes, she took some medicine and went to sleep a short while ago.
+text She said 'there's no need to visit, so Nii-san should just go to school'."
+text ".... Really.
+text Well then, I'm glad."
+bgload BG_34A.jpg
+text I sit down on a sofa.
+text .... At least this is one less thing to worry about.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Ah, Shiki-san.
+text Last night, were you really talking to Akiha-sama in the garden?"
+text "That's right.
+text I couldn't sleep yesterday, and when I looked out, Akiha was in the garden, so I went out and talked for a bit.
+text Why?"
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Well, Hisui-chan said so, so I was a bit worried.
+text But, Shiki-san, you shouldn't be going outside late at night.
+text It's very dangerous these days."
+text ".... Because of the killer, right?
+text I think I know that better than anyone."
+text "Even so, please take care.
+text Apparently a man was killed in town last night."
+text "-------"
+text ~
+music ~
+text I jump off the sofa.
+text ~
+text "Kohaku-san.. is that true?"
+bgload BG_34A.jpg
+setimg KOHA_T02.png 52 0
+text "Yes, it was on the morning news.
+text Since the victims have all been women until now, they seem to be talking about it a lot."
+bgload BG_34A.jpg
+text "-----"
+text A man.
+text A male victim.
+text The unknown man I killed in the dream.
+text "Shiki-san---?"
+text .... Kohaku-san is saying something.
+text "Ah---no, it's.. nothing."
+text That's all I can say as I stand in amazed shock.
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text ----I arrive at school.
+text ~
+text It's seven-fifty.
+text Even though I left the mansion very early, I still only made it to school at the last minute.
+text The reason is obvious.
+text The possibility that I might be a killer slowed me down.
+bgload BG_03A.jpg
+text I step through the gate.
+text There are people like me all around, going to class.
+text "-------"
+text .... Every time I see them, I freeze.
+text They are people who never think of murder.
+text And amongst them there are people like me, attending the same lessons.
+text ".... Yumizuka.
+text At last, I know how you felt."
+text No, I can't compare my situation to hers.
+text But perhaps now I understand a little of her feelings.
+text ~
+text .... The way I am now, I can't be here.
+text I have killed many people already.
+text It doesn't matter if it's a dream or not, but with desires like that, I must not be here.
+text "........ Ha."
+text I smile wryly.
+text A few days ago, I wouldn't even have imagined something like this.
+text "Hey, you.
+text If you just stand around like that, you'll be late."
+text "Eh?"
+text Someone hits me on the shoulder.
+music 03.mp3
+bgload BG_03A.jpg
+setimg CEL_T04.png 52 0
+text "Good morning, Tohno-kun.
+text We're here today at the same time."
+text "------"
+text I'm so surprised, I can't speak.
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Hm?
+text What's wrong?
+text Your face is red, Tohno-kun."
+text "------"
+text I forgot.
+text Thinking only about myself, I forgot about Senpai.
+bgload IMA_10.jpg
+bgload event/CEL_E04.jpg
+text -----Last night.
+text ~
+text The black figure who appeared before me as I killed.
+text Pursuing the killer, caught by the killer and skewered from behind.
+text ~
+text -----And then.
+text The body, I was about, to rape.
+bgload IMA_10.jpg
+bgload BG_03A.jpg
+text ".... Senpai, um---"
+text I don't know what to say.
+text I should apologize for last night, but I still don't know myself whether that was a dream or not.
+text But, more than anything---
+bgload BG_03A.jpg
+setimg CEL_T03.png 52 0
+text "Yes?
+text What is it, Tohno-kun?"
+text "No, you.. you seem the same as ever, Senpai."
+text ---More than anything, Senpai is the same as ever.
+text So, either last night's events were just a dream, or the figure in black wasn't Ciel-senpai.
+text The person who was skewered with an iron pipe last night would not be attending school today.. and if Ciel-senpai was the figure from yesterday, she should not be smiling warmly at the killer.
+bgload BG_03A.jpg
+setimg CEL_T12.png 52 0
+text "Tohno-kun?
+text Is something wrong?
+text Your face keeps going red and blue.
+text Are you not feeling well?
+text An autumn cold, perhaps?"
+text "No, it's not that, it's just---"
+text .... The feel of last night's dream is still with me, and I can't look directly at Senpai.
+text The gleam of naked skin, its soft texture.
+text My fingers gripping her soft breasts with most of the red blood flowing over her like a tattoo.
+text "-----Uh."
+text .... This is bad.
+text I remember too much, it's too real.
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Tohno-kun?
+text You've really been strange for a while.
+text Maybe you should get some medicine from the nurse's office before going to class?"
+text Is she concerned?
+text Senpai peers up at me.
+bgload BG_03A.jpg
+text "Uh---wait, Senpai.."
+text If she gets close, I'll remember last night's dream.
+text .... With Ciel-senpai's face appearing before me, I can feel my face going completely red.
+bgload BG_03A.jpg
+setimg CEL_T08.png 52 0
+text "Ahh, you seem really ill."
+text Dropping her shoulders in amazement, Senpai stretches out her hand.
+bgload BG_03A.jpg
+text Senpai's hand touches my forehead.
+text Her warmth and gentle touch is too much.
+text "Wait, Senpai.. it's nice, but, right now it's a bit---"
+text "Hmm, it doesn't feel like you have a fever."
+text Senpai ignores my words, pressing her hand against my forehead.
+text ~
+text ----And.
+text ~
+text As she takes my temperature, I catch sight of a bandage under the sleeve of Senpai's uniform.
+text "----Eh?"
+text .... The bandage goes a little way down from the base of her palm.
+text There's no mistaking it.
+text That is where she was skewered last night.
+music ~
+sound SE_01.aac 1
+text My body heat vanishes instantly.
+text I feel as if reality is collapsing around me.
+text ~
+text ".... Senpai.
+text That bandage on your arm.
+text What happened?"
+bgload BG_03A.jpg
+setimg CEL_T01A.png 52 0
+text "Ah, this?
+text Well, it's embarrassing, but it was my own negligence.
+text It healed already, but I felt like putting a bandage on.
+text It's nothing major, so don't worry about it."
+text Senpai speaks casually.
+text .... Why?
+text Because, I know it's a lie.
+text "---No, it is something major.
+text Since you were skewered by that iron pipe, I bet it still hurts."
+bgload BG_03A.jpg
+setimg CEL_T07A.png 52 0
+text "------"
+text Then, the smile vanishes from Senpai's face.
+text "Ah---"
+text ~
+text ----Thump.
+text ~
+text The atmosphere in my dream returns.
+text For an instant, the air around me freezes.
+bgload BG_03A.jpg
+setimg CEL_T04.png 52 0
+text "Tohno-kun, do you have a moment?"
+text Saying so, Senpai takes my arm.
+text "-------"
+text .... I can't find words yet.
+bgload BG_03A.jpg
+text Ciel-senpai says nothing, and she pulls me behind the school building.
+bgload IMA_10.jpg
+sound SE_03.aac 1
+bgload BG_05A.jpg
+music 01.mp3
+bgload BG_05A.jpg
+setimg CEL_T01A.png 52 0
+text "I guess I made you skip class."
+text For some reason, Senpai sounds so normal.
+bgload BG_05A.jpg
+text ".........."
+text I can say nothing.
+text I can only hang awkwardly on this ray of hope.
+text That in a moment, Senpai will say, "What are you talking about?
+text Last night, Tohno-kun?"
+text That dream will be a dream after all, and Senpai will just be Senpai.
+text ".... Senpai, I.."
+text "Yes, I should show you this first."
+text Interrupting me, Ciel-senpai rolls up the sleeves of both arms.
+text .... Both arms weak, wrapped in bandages.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "As you say, this happened last night."
+text "------"
+text I can't ask who did it.
+text Because it is my doing.
+text But, it's clear now.
+text It's the truth; I am a killer who has killed many people already.
+text ".... Crap.
+text It's real.. it really happened.."
+text "------"
+text Senpai says nothing else, but merely stares at me.
+text At me.
+text She knows Tohno Shiki is the killer, then why..
+text "--------Why?"
+text Why does she..
+text "Why have you said nothing until now, Senpai..!
+text You knew I was the killer, right?
+text So why didn't you---"
+text I can't understand why she continued to be my ordinary school senpai.
+text "I've killed people.
+text I did that to you last night.
+text How can you face me like that, Senpai..!"
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "It's not unusual.
+text I'm your senpai, so why shouldn't I?
+text Whatever you say, I haven't seen you out at night."
+text Straightening, she speaks frankly.
+text "----What?"
+text .... She hasn't met me at night----but yesterday we were fighting to the death....?
+text "---What are you talking about, Senpai!
+text Twice now, you've interrupted me killing someone..!"
+text "That's true, but I've never raised a sword against you."
+text "Wha---that's nonsense, you've thrown loads of them at me!
+text I saw it clearly.
+text Or are you saying that figure wasn't you?
+text Are you pretending not to know!?"
+text "Well, I would like to feign ignorance if I could, but there's no reason to if you've seen that much."
+text Senpai's attitude is completely unchanged.
+text Senpai's words just seem not to the point.. no, she is purposely doing so.
+text ----If I calm down..
+text I'm not one to talk, but Senpai isn't exactly normal either.
+text So is that why she is trying to evade my questions----?
+text "Senpai, please answer me seriously.
+text There's too much I don't understand, I'll go crazy.
+text Ciel-senpai, why were you doing that?"
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text "Oh.. Tohno-kun, you look scary."
+text .... I don't know how serious she is but Senpai pulls away from me.
+text Somehow, she dodges the question completely.
+text ".... Senpai, please answer me seriously.
+text Last night and before that, what were you?
+text That was something no ordinary human can do."
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Ahh.. what do you mean, 'that'?"
+text "I mean..!
+text That ridiculous movement, throwing all those swords..!
+text I saw about twenty swords, where were you keeping them all!
+text And, last night.."
+text "Yes?
+text What about last night?"
+text "Last night, I.. I stabbed you with an iron pipe.
+text So how, how can you be walking around so calmly today?
+text However you look at it, it's not normal.
+text Senpai, are you really human..!?"
+text ~
+text For a moment.
+text Senpai glances down with a terribly sad expression.
+text ".... I don't know.
+text To be honest, I've no idea."
+bgload BG_05A.jpg
+setimg CEL_T08.png 52 0
+text "I only have the name Ciel, an exorcist specializing in vampires.
+text I know that I'm not an ordinary human like you."
+text "Eh.. vampires, Senpai..?"
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Don't worry.
+text I'm not from around here, so I'm already ready for you to look at me that way."
+text Looking away, she says something incomprehensible.
+text "Hold on, Senpai, what do you mean by 'exorcist'!?"
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text "An exorcist is an exorcist.
+text A member of a holy order who has learned the rites for banishing demons.
+text Don't you know, Tohno-kun?
+text It's a common word, so I thought you'd know it."
+bgload BG_05A.jpg
+setimg CEL_T12.png 52 0
+text "Well, to be honest, I do more extermination than banishing, so I'm a bit different.
+text Would it help if I said it's more like a sorceress?
+text It's not exactly right.. in fact, it's almost the opposite, but perhaps it'll be easier for you to understand?"
+text "A sorceress?
+text But that's---"
+text I can hardly call it impossible.
+text After all, I've seen her superhuman powers.
+text .... But, I can't believe it.
+text Or maybe I don't want to believe it.
+text Since she was such a kind senpai, maybe I just want Ciel to stay as Senpai.
+text "---That's a lie.."
+text .... Without realizing it, those words escape my mouth.
+bgload BG_05A.jpg
+setimg CEL_T01A.png 52 0
+text "Yep, you're right, it's a lie.
+text It's all nonsense, so please don't believe any of it."
+text ~
+text .... She won't say anything.
+text She's just going to let it disappear as a lie.
+text ~
+text "---No.
+text This isn't nonsense."
+text .... I don't want to accept it, but I have to.
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text ".........."
+text .... Why is it?
+text Senpai lowers her eyes sadly.
+text ".... I don't know what's happening either.
+text But, I have tried to kill people, and you always saved me.
+text I don't understand anything, but I do know that."
+bgload BG_05A.jpg
+setimg CEL_T08.png 52 0
+text "Wasn't that just a dream?
+text You're just an ordinary high school student.
+text You have my word."
+text "Just an ordinary..!
+text Even if it is a dream, someone who enjoys murder every night is living with other normal people!
+text Even I feel bad about being bad....!"
+text ---Yes, feeling the urge to kill people.
+text ~
+text Not merely in dreams, but I have such desires in reality too.
+text And not strangers; Akiha, the person I know best----
+text ".... A killer, huh.
+text Yeah.
+text Now that I state it, I understand.
+text It's natural for you to come to me every night.
+text You can't leave such a dangerous guy alone.
+text So---so, you were going to kill me, Senpai....!?"
+bgload BG_05A.jpg
+setimg CEL_T09.png 52 0
+text "............"
+text "Why won't you answer?
+text Say something, Senpai!"
+text "Ah---"
+bgload BG_05A.jpg
+text I grab Senpai's arm around the bandage, and drag her towards me.
+text Senpai says nothing, looking down.
+text ".... I don't understand.
+text I don't understand anything, Senpai.
+text I don't understand myself anymore.
+text So, please, Senpai.
+text If you know anything, please tell me..!"
+text ".... Tohno-kun.
+text Do you really believe you're the killer?"
+text "I can't think of anything else.
+text .... So, I just want to rest now.
+text Since I don't know myself.. I want to hear it clearly from you.
+text And then---"
+text Then, even if I have to die, I'll be ready for it.
+text ".... Why.."
+text "Senpai..?"
+text "Why.... why can't you just laugh it off as always.
+text If you did, maybe we could go on like this.."
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "But, it's too late for that now.
+text The spell has already faded."
+bgload BG_05A.jpg
+text ~
+text ---Saying so,
+text Senpai escapes my grasp and leaps away, far away.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun, I'll tell you what I know.
+text What kind of person you are.. exactly how many people you've killed."
+text "Ah-----"
+text For a moment, I feel dizzy.
+text Even though I said I was ready, hearing the word 'killed' so clearly, my chest hurts.
+text ".... Good.
+text Tell me, Senpai."
+text "No, not here.
+text I'll be at the school tonight.
+text After that, you decide, Tohno-kun."
+bgload BG_05A.jpg
+text ~
+text .... So that means she's leaving the final decision to me.
+text If I go to school tonight, that's the end.
+text But if I don't, we can go back to the way we've always been; a final choice---
+text "........"
+text I can't say I'll definitely be there, so I say nothing.
+bgload BG_05A.jpg
+setimg CEL_T07A.png 52 0
+text "Well then, I'll be waiting at school tonight.
+text But, promise me one thing.
+text That you will keep this a secret from your younger sister."
+text "Eh?
+text From Akiha?"
+text Of course, I wouldn't get Akiha involved in any of this, so there's no need to say that.
+text There isn't, but..
+text Why is Senpai asking so seriously?
+text As if saying Akiha was the enemy, not me.
+text ".... Senpai, Akiha has nothing to do with this."
+text "--Tohno-kun.
+text Please be careful around her."
+bgload BG_05A.jpg
+text Leaving a warning in a frightening voice, Senpai disappears.
+bgload IMA_10.jpg
+bgload BG_06B.jpg
+text ---The lesson finishes, and the students disperse.
+text .... Even if I'm going to meet Ciel-senpai at school tonight, I should return to the mansion first.
+text In the end, the conversation only told me the dreams were real.
+text Nothing is resolved, and I still don't know whether I am the killer or not.
+text ~
+text ------*sigh*
+text After sighing heavily, I leave the classroom.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+text Hisui is at the mansion gate.
+text "Huh?
+text What are you doing out here, Hisui?"
+bgload BG_32B.jpg
+setimg HIS_T01.png 62 0
+text "I am waiting to welcome you home, Shiki-sama."
+text "Eh?
+text Well, I'm glad, but, why?
+text You said you wouldn't be able to meet me here anymore."
+bgload BG_32B.jpg
+setimg HIS_T05.png 62 0
+text "That was because you and Akiha-sama were together.
+text .... Nee-san.. she suggested we should refrain from send-offs and greetings when you were together."
+text "-------"
+text I see.
+text Certainly, if I were with Akiha, it would be awkward to be met by Hisui.
+text "Another of Kohaku-san's strange ideas.
+text Well, I'm always glad to be met by you, Hisui.
+bgload BG_32B.jpg
+setimg HIS_T04.png 62 0
+text Anyways, I'm home.
+text Thanks for coming out."
+text "Yes.
+text Welcome home, Shiki-sama."
+text Hisui bows.
+text .... Thinking about it calmly, a maid bowing in front of a mansion is a terribly anachronistic image.
+text "Oh, By the way, is that Akiha doing any better?"
+bgload BG_32B.jpg
+setimg HIS_T01.png 62 0
+text "Yes, it seems her condition improved by lunchtime.
+text Perhaps you should stop by her room?"
+text "Maybe, at least once---"
+text ~
+text ---Please be careful around her.
+text ~
+text "----No, I shouldn't.
+text I.. can't see her right now."
+text .... It's not that I'm not thinking about her.
+text But, because of what Ciel-senpai said, it's hard to see her right now.
+text "Shiki-sama.
+text Are you not returning to your room?"
+text "Ah, you're right.
+text Well then, shall we go in?"
+text Acting cheerful to hide my uneasiness, I pass through the mansion gates.
+bgload IMA_10.jpg
+music ~
+bgload BG_40C.jpg
+text .... It's night.
+text I talked only a little to Akiha at supper, then came straight back to my room.
+text She seemed no different than usual, so I'm sure Senpai's warning was wrong.
+text ".... If I'm going to go, I should leave pretty soon."
+text Senpai said we'll talk at the school tonight.
+text If I go, she won't be my Senpai any longer.
+text But if I don't go, everything will go back the way it was.
+text ~
+text Senpai left me with that choice.
+text I'll---
+text ~
+if flgO >= 1 
+    jump s364.scr
+fi
+choice Go and determine my own fate.|No, I'll stay in the mansion.
+if selected == 1
+    jump s362.scr
+fi
+if selected == 2
+    jump s364.scr
+fi
+

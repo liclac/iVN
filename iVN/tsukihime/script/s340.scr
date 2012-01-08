@@ -1,0 +1,219 @@
+bgload BG_40D.jpg
+text ".... Shall I take a look?"
+text Getting out of bed, I leave my room silently.
+music ~
+sound SE_11.aac -1
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+bgload IMA_10.jpg
+bgload BG_42C.jpg
+bgload IMA_10.jpg
+bgload BG_54C.jpg
+text ----Even the moonlight does not penetrate the woods of the garden.
+text ~
+text I walk through the woods which seem more like a forest.
+text .... I didn't remember quite where it was, but as I enter the forest, my feet automatically head toward the detached building.
+text ~
+text Even if I forgot where it was, I guess my body remembers how to get there.
+text At any rate, I am able to get to the detached building without getting lost.
+bgload IMA_10.jpg
+bgload BG_44B.jpg
+text "-------"
+text It must have been many years since this building was put out of use, as many parts are deteriorated.
+text As I put my hand on the door, I notice that it is unlocked.
+text ~
+bgload IMA_10.jpg
+text It is dark inside, as expected.
+text I smell the tatami mats and the shoji, and somehow feel comfortable even though I can't see anything.
+bgload BG_45C.jpg
+text "-----Ah."
+text As I enter the Japanese-style room, a chill runs through my spine.
+text "----------I know this place."
+text I guess I came here as a kid since this Japanese-style room was interesting.
+text "------------"
+text But it's weird.
+text I feel the same sense of incompatibility I had when I was first shown my room after I came back to this mansion.
+text ".... Maybe because the Arimas' house was Japanese-style."
+text I feel like I've lived here all my life.
+text Or maybe-----
+bgload IMA_10.jpg
+bgload BG_45C.jpg
+text ~
+text ~
+text ~
+text ~
+text If I recall, in the past..
+bgload IMA_11B.jpg
+bgload BG_45C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text When we were playing in the yard,
+bgload CMO_05.jpg
+bgload BG_45C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text maybe it wasn't just me and Akiha..
+bgload IMA_11B.jpg
+bgload BG_45C.jpg
+text "Ouch------"
+text I feel a pain in my neck.
+text It might be my anemia, but my body feels like lead.
+text ".... This is bad.... I have to go back to my room."
+text I shake my head lightly, and I decide to go back to my room before I really faint.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text I take a deep breath.
+text Somehow, I made it back to my room.
+text No matter what, if I collapsed in the off-limits building, Akiha's wrath would pour down on me.
+text "------Mn."
+text I feel a little dizzy.
+text I fall onto my bed without even changing.
+bgload IMA_10.jpg
+sound ~
+sound SE_01.aac 1
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----My throat, dry with thirst, hot.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ------I can't sleep like this.
+text I'll go and get a drink of water.
+bgload BG_47.jpg
+bgload IMA_10.jpg
+bgload BG_24C.jpg
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+music 04.mp3
+text It seems I went into town at night.
+text It seems like I'm waiting with bloodshot eyes for someone to pass by.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ------It is hot.
+text Suddenly, I see a face reflected in the window.
+text The eyes are bloodshot, and the face looks quite insane.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ------It is just so hot.
+text It seems I found my prey.
+text Strangling her from behind, it's all over.
+text It seems that the unknown woman has died just from that.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I am just, so hot.
+bgload IMA_10.jpg
+bgload BG_30B.jpg
+bgload IMA_11.jpg
+bgload IMA_13B.jpg
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+text Taking the dead body, perhaps I bit into its throat.
+text There's a gurgling sound.
+text Drinking the blood flowing out of the rended neck, my thirst is quenched.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I don't understand.
+text The sound of heavy breathing.
+text Does this act..
+text Does this act really excite me so much?
+text I stick my finger in the chest of the dead body.
+text The sound of crushing meat, the sound of breaking bones.
+text The sound of a heart being ripped out with my bare hand.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---As I watch, my head fills with pure white.
+text This, the ultimate pillage.
+text The height of immorality.
+text Just gazing at it, I feel hot.
+text You might say it's negative pleasure, but for making one hot, it's still the same.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I don't understand.
+bgload IMA_18.jpg
+text Hot blood dripping from my mouth, I gaze up at the night sky entranced.
+text My long hair aaces around.
+text Above is the spiraling sky.
+text Such a beautiful, silver moon.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---And so, I don't understand.
+text I am just, only, hot----
+bgload IMA_10.jpg
+music ~
+jump s343.scr

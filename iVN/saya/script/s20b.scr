@@ -1,0 +1,486 @@
+sound ~
+music ~
+bgload 000000.jpg
+delay 120
+bgload bi01no0.jpg
+music music/s02.mp3
+
+text ~
+text The hands of his watch move with agonizing slowness, as though counting down to the end of the world.
+text With entirely too much time on his hands, Kouji went back to his apartment, showered, changed clothes, and even had his first full meal in days.
+text ~
+text He wanted to take a nap, knowing that he needed the rest, but, no matter how hard he tried, sleep never came. 
+text Forcing himself to relax only made his nerves colder and sharper.
+
+bgload 000000.jpg
+sound 91.aac 1
+delay 80
+bgload br01re0.jpg
+
+text ~
+text With nothing else to do, he decides to wander aimlessly around the city until nightfall.
+text Downtown Tokyo is bustling with peaceful revelry. 
+text Surrounded by happily smiling pedestrians, brightly shining lights, and windows decorated early for Christmas, it seems as though all of the happiness in the world has been gathered in one place.
+text ~
+text Kouji takes it all in, burning it into his memory like it's the last thing he'll ever see.
+text Is the world this beautiful because of the terrifying insanity lurking in its shadows?
+text He will probably never be able to bask in the glow of the city again. 
+text Perhaps that is why everything seems so dear to him.
+
+bgload br02ni0.jpg
+
+text ~
+text Kouji gazes at the city for hours. 
+text It feels unreachably far from him, as though he is reading the obituary of his first love, lost in the distant past.
+text ~
+text --His phone rings at 8 P.M. It's from Tanbo Ryouko.
+text Their conversation is short, ending immediately after they decide on a place to meet.
+ 
+music ~
+
+text ~
+text And so ends Tonoh Kouji's final night of peace.
+
+bgload 000000.jpg
+delay 120
+music music/s07.mp3
+bgload bh01ni0.jpg
+
+text ~
+text Ryouko arrives at the 24 hour family restaurant at 1 A.M., one hour later than agreed upon.
+text She has a heavy-looking duffle bag under her arm. 
+text Kouji doesn't feel like asking what inside the bag is causing it to bulge out all over like that.
+
+setimg ryouko07.png 10 0
+
+sound voice/39/000106.aac 1
+text "Sorry, I had a lot to get together."
+
+bgload bh01ni0.jpg
+
+text ~
+text Ryouko doesn't sound at all apologetic, but Kouji decides not to say anything and just nods expressionlessly.
+text Only a few tables are filled at this hour, like lonely islands in the midst of the vast restaurant. 
+text After sending the lethargic-seeming waitress away with an order for two coffees, Kouji and Ryouko are left alone, as though forgotten, in a corner of the dining area.
+
+bgload cg/52.jpg
+
+sound voice/39/000202.aac 1
+text "--So, did you find what you were looking for?" Kouji asks bluntly while sipping dutifully from his third cup of watery, tasteless coffee.
+
+sound 08.aac 1
+
+text ~
+sound voice/39/000306.aac 1
+text "I'd like to think I didn't make you wait for nothing, at least. I'm still not sure of anything, though."
+sound voice/39/000402.aac 1
+text "I think Fuminori is pretty stressed too. I've left him hanging for a day since I told him I'd call, after all."
+sound voice/39/000506.aac 1
+text "Do you think he's that concerned about meeting you?"
+sound voice/39/000602.aac 1
+text "His reaction to the name 'Saya' was very clear."
+
+sound 08.aac 1
+
+text ~
+text In the silence that follows, Kouji tries to soothe his parched throat with another mouthful of weak coffee.
+sound voice/39/000706.aac 1
+text "......I see," Ryouko mutters. "So, it is 'Saya'......"
+text ~
+text It's obvious that the frown on her face isn't because of the bad coffee.
+sound voice/39/000802.aac 1
+text "Have you found the answer, Doctor?" Kouji asks, practically demanding an answer. "Do you know what this 'Saya' is?"
+text ~
+text Ryouko ignores Kouji's question by pretending to be engrossed in her coffee, but that only works until her cup is empty.
+text ~
+text Staring at the brown stain at the bottom of her cup, Ryouko says, her voice hard and flat: 
+sound voice/39/000906.aac 1
+text "You were foolish enough to ignore my warning, but--
+sound voice/39/001006.aac 1
+text I'm just as stubborn, so I'm going to say this one more time. Tonoh-kun, you should go home and forget about all of this."
+text ~
+sound voice/39/001102.aac 1
+text "You really are stubborn," Kouji replies, smiling bitterly instead of getting angry like he did before.
+text ~
+sound voice/39/001202.aac 1
+text "Are you saying that I still haven't crossed the line separating me from you and Fuminori?"
+sound voice/39/001306.aac 1
+text "You still haven't seen the most damning part of all of this."
+text ~
+sound voice/39/001406.aac 1
+text "As far as you're concerned," Ryouko continues with a disparaging smirk, "your best friend in the whole world suddenly went crazy and became a cannibal. That's all this thing is to you, isn't it?"
+text ~
+text That's all--
+text Unable to come to terms with what Fuminori has done, Kouji can only deal with it by clinging to the obsessive desire to kill Fuminori. 
+text Yet despite that, Ryouko makes this nightmare sound like just the beginning.
+text Kouji still doesn't understand where her morbid cynicism comes from, nor does he want to.
+text ~
+sound voice/39/001502.aac 1
+text "You say there's something more, but aren't you just imagining it?"
+text ~
+sound voice/39/001606.aac 1
+text "That you can think means that your wounds are still shallow."
+text ~
+text Once again, Ryouko brusquely states her opinion as fact, her tone making it clear that she doesn't care whether or not Kouji is satisfied with her explanation.
+text ~
+sound voice/39/001706.aac 1
+text "If you back out now, they'll probably heal, given time. You haven't crossed the final line yet."
+
+bgload bh01ni0.jpg
+
+text ~
+text Without getting emotional like before, Kouji considers Ryouko's words.
+text ~
+text The final line...... True, Fuminori is somewhere beyond that.
+text Although Kouji has gone far enough to be willing to kill Fuminori, he has no intention of eating his enemy's flesh once he's dead. 
+text That, at least, still separates Kouji from Fuminori.
+text Then, what about Ryouko, who's been treating Kouji like an ignorant fool ever since she saved him from the well? 
+text How close is she to Fuminori?
+text ~
+sound voice/39/001802.aac 1
+text "You're saying your wounds are deeper than mine?"
+
+bgload cg/52.jpg
+
+text ~
+text In response to Kouji's sarcastic question, Ryouko's cold smile becomes a bitter, self-mocking smirk.
+sound voice/39/001906.aac 1
+text "This gun was my father's, you know."
+
+sound 03.aac 1
+
+text ~
+text Ryouko pats her duffle bag where the outline of something hard inside is clearly visible.
+text ~
+sound voice/39/002006.aac 1
+text "Because this disappeared from his gun locker, he was kicked out of his local hunting club.
+sound voice/39/002006_2.aac 1
+text I feel bad about that. My parents were always proud of me. They probably never imagined that their daughter would steal a gun from their safe."
+sound voice/39/002102.aac 1
+text "--So you had a good reason for doing that?"
+sound voice/39/002206.aac 1
+text "No, not at all."
+text ~
+text Her quick denial isn't what Kouji was expecting.
+text ~
+sound voice/39/002306.aac 1
+text "At the time, the Ougai mess had already ended - at least, that's what I thought. 
+sound voice/39/002306_2.aac 1
+text He'd vanished without a trace, and I was sure that he'd never appear before me again.
+sound voice/39/002306_3.aac 1
+text I didn't take this gun because I needed to shoot or kill something."
+text ~
+sound voice/39/002402.aac 1
+text "Then, why--"
+sound voice/39/002506.aac 1
+text "Because I couldn't sleep. That's all there was to it."
+text ~
+text Ryouko pauses, apparently needing time to decide how best to explain more clearly.
+
+bgload bh01ni0.jpg
+
+sound voice/39/002606.aac 1
+text "Until then," she continues, choosing her words carefully, "I'd kept a nata hidden next to my bed. I couldn't stand being alone in my room at night, you see."
+sound voice/39/002706.aac 1
+text "I wanted to know that, no matter how unimaginably insane the world might become, I had some choice other than just running around screaming.
+sound voice/39/002706_2.aac 1
+text That's why I needed some kind of weapon that I could count on in my room."
+sound voice/39/002802.aac 1
+text "......"
+text ~
+text Kouji is struck speechless. He's amazed - even impressed - that someone with such a serious case of delusional paranoia could function as one of the elite T University's leading doctors.
+text ~
+sound voice/39/002906.aac 1
+text "It didn't really work, though. My nightmares just got worse every night.
+sound voice/39/002906_2.aac 1
+text A nata just wasn't enough to let me sleep peacefully. That's when I stole my father's gun.
+sound voice/39/003006.aac 1
+text By cutting down the barrel like this, the shot spreads over a wider area and causes more damage.
+sound voice/39/003006_2.aac 1
+text I hear that, even in America, modifying a shotgun like this is a serious crime. With the gun sitting in the back of my closet, I was finally able to sleep--
+sound voice/39/003006_3.aac 1
+text one night out of three, that is."
+
+bgload cg/55.jpg
+
+text ~
+text At this point, Ryouko seems to have gotten everything off her chest that she wanted to. 
+text Smiling like someone who just finished a hard job, she adds:
+sound voice/39/003106.aac 1
+text A gun's a great thing to have, you know. It really is.
+sound voice/39/003106_2.aac 1
+text You can use it to blow your enemies away, and, if that doesn't work, you can always stick it in your mouth and pull the trigger."
+
+bgload cg/53.jpg
+
+text ~
+sound voice/39/003202.aac 1
+text "Doctor--you should get professional help."
+sound voice/39/003306.aac 1
+text "Thanks for the honest opinion. You won't be able to talk like that for much longer, though. Not if you go any further."
+text ~
+text Kouji is already doubtful that meeting with Ryouko before facing Fuminori was really the right thing to do.
+text ~
+text The one thing that Kouji and Ryouko have in common is an unwillingness to leave Fuminori to the proper authorities.
+text Fuminori not only killed Kouji's lover and friend, but went so far as to defile their corpses. 
+text Kouji doesn't even want to give him the chance to get off on an insanity plea at trial.
+text No matter what sins he must bear, Kouji will put an end to Fuminori with his own hands. 
+text If he doesn't, he knows that he will never sleep again.
+text ~
+text It helps to have a partner-in-crime...... but only when that partner doesn't cause trouble.
+text Ryouko talks big about exposing Ougai's secrets, but she might just have a head full of nonsensical delusions. 
+text If so, Kouji needs to rethink this whole thing.
+text ~
+sound voice/39/003402.aac 1
+text "If you're telling me to leave everything to you," Kouji says with unflappable determination, "please give me some reason to trust you."
+sound voice/39/003502.aac 1
+text "Prove to me that there's a reason for you to be so obsessed with Ougai. Show me everything he did."
+
+bgload bh01ni0.jpg
+
+sound voice/39/003606.aac 1
+text "So you'd go that far? Oh well."
+text ~
+text Ryouko smirks and shakes her head in exasperation, but pulls a stack of paper out of her bag without further resistance.
+
+sound 02.aac 1
+
+text The sheets of looseleaf are bound only with cord.
+sound voice/39/003706.aac 1
+text "After you read one line, it continues on the same line of the next page. Anyway, just skim through it."
+text ~
+text As directed, Kouji looks through the hand-written pages--and gives up after less than three minutes.
+text ~
+sound voice/39/003802.aac 1
+text "Is this the manuscript for a sci-fi horror novel or something? It's a pretty bad joke. I didn't think Ougai had such childish hobbies."
+text ~
+text Kouji deliberately scoffs at the document, doing everything he can to show contempt for what he just read. 
+text At the same time, he tries desperately not to remember the mountain of bones in Ougai's bathtub and the unidentifiable smell permeating Fuminori's house.
+
+bgload cg/52.jpg
+
+sound voice/39/003906.aac 1
+text "The specimens and research papers that Ougai brought to the university one year ago were just as unbelievable," Ryouko says calmly, coldly ignoring Kouji's disdain.
+text ~
+sound voice/39/004006.aac 1
+text "Apparently, he continued his research in secret, using our supplies without permission.
+sound voice/39/004006_2.aac 1
+text But he made a mistake and was discovered. That's when things got crazy......"
+text ~
+sound voice/39/004106.aac 1
+text "Judging by the equipment he was trying to use, he meant to treat his experiment as a P3-level biohazard.
+sound voice/39/004106_2.aac 1
+text To be honest, that might not have been sufficient for what he was dealing with.
+sound voice/39/004106a.aac 1
+text We should've had the nearby civilians evacuate, but the big shots did their thing and made the whole mess disappear.
+sound voice/39/004106b.aac 1
+text In exchange, we had to go to the trouble of eliminating every single rat from the campus - including the things that used to be rats, that is."
+text ~
+text At their first meeting, Ryouko brushed Kouji off when he asked about Ougai Masahiko. 
+text Now, however, she's telling the whole story, her voice as clear and emotionless as a machine's.
+text ~
+sound voice/39/004206.aac 1
+text "In the end, we gave up trying to explain what had happened.
+sound voice/39/004206_2.aac 1
+text No one could figure out where the materials he'd brought with him had come from.
+sound voice/39/004206a.aac 1
+text --In retrospect, everyone did the wise thing.
+sound voice/39/004206a_2.aac 1
+text They knew how to keep the boundary between reason and fantasy where it should be.
+sound voice/39/004206b.aac 1
+text I, unfortunately, was not so smart."
+
+bgload cg/55.jpg
+
+text ~
+text Ryouko pauses for a moment, then grins with self-disdain so maniacal that it strikes Kouji like a blow.
+text ~
+sound voice/39/004306.aac 1
+text "I searched everywhere for Ougai, flushed him out, and finally learned what he'd been doing.
+sound voice/39/004306_2.aac 1
+text I found the people he'd been dealing with and those who'd encouraged him to perform his experiments.
+sound voice/39/004306a.aac 1
+text That's when I started sleeping with a nata.
+sound voice/39/004306a_2.aac 1
+text I'd learned just how absurd, full of holes, and unreliable our world's 'reason' is, after all."
+sound voice/39/004402.aac 1
+text "......"
+
+bgload bh01ni0.jpg
+
+text ~
+sound 70.aac 1
+text As though fleeing from the quiet insanity that he keeps glimpsing in Ryouko, Kouji finds himself paging through the looseleaf in his hands and reading a line at random.
+text ~
+text "--The flesh covering the organism's body is not fibrous, but reticulated. 
+text In other words, it is an extremely tough substance that expands and contracts not in one direction, but in all directions. 
+text This means that slashing or piercing wounds have very little meaning. 
+text Since the flesh can contract in any direction freely, any wound will be sealed instantly--"
+text ~
+text It's nonsense. What else could it be?
+text ~
+text If it's true, then everything else - all the logical laws that rule the world - is completely meaningless.
+text ~
+sound voice/39/004502.aac 1
+text "......So, you believe what's in this, Doctor?"
+sound voice/39/004606.aac 1
+text "I lost any reason to doubt it long ago."
+
+sound 02.aac 1
+
+text Ryouko reaches into her duffle bag again, this time removing a stainless steel thermos that looks to hold about 500ccs.
+text ~
+sound voice/39/004706.aac 1
+text "This is the secret weapon that'll let us defeat Saya. It was a pain to get, but it should work like a charm."
+text ~
+sound voice/39/004802.aac 1
+text "......I can't take this anymore," Kouji snaps, no longer able to disguise his frustration.
+text ~
+sound voice/39/004902.aac 1
+text "I don't care what Saya is anymore! All I care about is finishing off Fuminori. --I can't leave this to you."
+sound voice/39/005006.aac 1
+text "......I see."
+text ~
+text Now that she's given up on persuading him, her assent is swift and cold. At this moment, Kouji's fate has likely ceased to matter to her.
+sound voice/39/005106.aac 1
+text "Alright, then. You do everything you can to take down Sakisaka Fuminori. I'll take advantage of the opening you create.
+sound voice/39/005106_2.aac 1
+text I won't get in your way, and I'll even take care of things when you screw up."
+text ~
+text Despite the determination in her voice, Kouji can't bring himself to trust this paranoid doctor completely.
+sound voice/39/005202.aac 1
+text "Do you have a reason to kill Fuminori?"
+sound voice/39/005306.aac 1
+text "I like things neat and tidy, you see. I can't stand people like him who lurk outside of the world.
+sound voice/39/005306a.aac 1
+text They're like cockroaches in your bedroom. Can you sleep with them scuttling underneath your pillow?
+sound voice/39/005306a_2.aac 1
+text The moment I find one, I kill it and destroy all trace of its existence. I have to, for the sake of my mental well-being."
+text ~
+text Kouji understands her feelings. They're similar to his, after all.
+text ~
+text Kouji doesn't want to bring a murderer to justice, nor does he want to take revenge for Oumi and Yoh. 
+text If he did, he could have just left everything to the police.
+text The reason he can't is that the villain is Fuminori. The man he believed was his friend has turned his whole world upside-down.
+text Kouji wants nothing more than to destroy all of this insanity, including his own betrayed self. 
+text His self-loathing is what's keeping him on his feet.
+text ~
+sound voice/39/005406.aac 1
+text "Okay, let's move in for the checkmate. Go ahead and call Sakisaka-kun out."
+text ~
+text Kouji nods, pulls out his cell phone, and calls his friend for what will probably be the last time.
+
+sound 55.aac 1
+bgload bt01xx0.jpg
+sound ~
+
+text ~
+text The call goes through quickly, as though Fuminori was waiting for it.
+text ~
+sound voice/39/005502.aac 1
+text "Sorry to keep you waiting, Fuminori. I've finished my preparations."
+sound voice/39/005600.aac 1
+text "......Kouji, where are you?"
+text ~
+text Fuminori must have been quite anxious to hear from Kouji. 
+text His voice is hard and completely emotionless.
+text ~
+sound voice/39/005702.aac 1
+text "Let's just say I'm right behind you."
+text ~
+text Kouji can't help but smile disdainfully at Fuminori's disappointment. 
+text Perhaps Ryouko's maniacal sadism has rubbed off on him.
+text ~
+sound voice/39/005802.aac 1
+text "Well? Have you decided to let Tsukuba go?"
+text ~
+sound voice/39/005900.aac 1
+text "Yeah. I suppose I have no choice."
+text ~
+text He's lying, Kouji thinks, remembering the contents of Fuminori's refrigerator.
+text Just what part of Yoh did you eat, Fuminori? 
+text Did you carve that innocent girl up like a cow or a pig? 
+text ~
+sound voice/39/006000.aac 1
+text "Kouji, bring your evidence along with all the files you've gathered. When I'm satisfied that they're the real thing, I'll hand Yoh over."
+sound voice/39/006102.aac 1
+text "Fine. Where?"
+sound voice/39/006200.aac 1
+text "First, come to Y Station on the O Line. When I'm sure that you're alone, I'll tell you the exact location."
+sound voice/39/006302.aac 1
+text "You're being awfully careful."
+sound voice/39/006400.aac 1
+text "No tricks. You have 45 minutes."
+
+sound 62.aac 1
+
+text Fuminori hangs up without waiting for Kouji's response.
+text ~
+
+bgload bh01ni0.jpg
+
+sound voice/39/006502.aac 1
+text "......He won't tell me his location until he's sure I'm alone."
+sound voice/39/006606.aac 1
+text "Not bad for a mere medical student. I'm impressed."
+text ~
+text Ryouko's praise sounds serious, drawing a glare from Kouji.
+text ~
+sound voice/39/006706.aac 1
+text "We'll leave my car here. Tonoh-kun, is your trunk large enough for a person to fit inside?"
+sound voice/39/006802.aac 1
+text "Yeah, but...... are you serious? You've seen too many movies."
+sound voice/39/006906.aac 1
+text "This adventure is more dangerous than anything you've seen in a movie."
+text ~
+text With those bold words, Ryouko grabs her duffle bag and rises from her seat.
+
+setimg ryouko05.png 10 0
+
+sound voice/39/007006.aac 1
+text "......So, you're the one who chose this place to meet, right?"
+sound voice/39/007102.aac 1
+text "Yes, why?"
+
+bgload bh01ni0.jpg
+setimg ryouko11.png 10 0
+
+sound voice/39/007206.aac 1
+text "Take responsibility for the coffee," she says, tossing him the check that was left behind by the waitress.
+
+music ~
+bgload 000000.jpg
+delay 120
+music music/s03.mp3
+sound 105.aac 1
+bgload bo05ni0.jpg
+
+text ~
+text Even after Kouji arrives at Y Station as directed, Fuminori calls him and makes him change locations three more times.
+text Kouji is beginning to doubt that Fuminori is trying to make sure that he's alone. 
+text He might just be using the time to guess when Kouji arrives at the designated location.
+text ~
+text Nevertheless, Kouji can't let his guard down. Fuminori might choose any moment to make sure that he isn't bringing any help. 
+text If he makes a mistake and puts Fuminori on alert, Ryouko will lose her chance to make a surprise attack. 
+text She'll just have to put up with the cramped trunk for a little while longer.
+
+bgload bo08ni0.jpg
+
+text ~
+text After the nature preserve and the dry riverbed, the fourth location Fuminori sends Kouji to is at the tree-covered top of one of the foothills, high above the developed area at their base.
+text His car's GPS shows a road that leads nowhere, but, according to Fuminori, there should be an old, abandoned sanatorium there.
+text The park and river that Fuminori sent Kouji to were empty this late at night, of course. 
+text This time, however, his instinct is telling him that it's definitely a place that no one could find, even by accident.
+
+bgload bo06ni0.jpg
+
+text ~
+text It looks like this is the final stop.
+text Kouji drives up the steep incline, leaving the houses far behind. 
+text Even though the hands of progress are right at its doorstep, the undeveloped forest is darker than he expected.
+text This looks like a great place to live in secret - or to kill someone in secret.
+text ~
+text These forgotten places aren't only found far away from cities. 
+text Even when surrounded by people, places that draw no attention can become blind spots in the world.
+
+jump s21.scr

@@ -1,0 +1,40 @@
+bgload BG_29C.jpg
+text .... Still, still too early.
+text There's about ten meters in between me and Nrvnqsr.
+text I need a more definite opening before I can draw close without him realizing me.
+text "------"
+text I gulp.
+text A little more----a little more, something----
+text ".... I do not understand."
+text Muttering.
+text As if speaking to the moon above, Nrvnqsr mutters aloud.
+text "It is displeasing to be faced by such unsightly enmity, but I cannot think this is one of the Princess's familiars.
+text Is that just trash?"
+text "------!
+text Shiki, run away!"
+text Arcueid's composed voice.
+text "...... Eh?"
+text But, I can't understand in time.
+bgload IMA_10.jpg
+sound ~
+text My legs start to sink in something.
+text The firm ground beneath me is like quicksand.
+text "Ah------"
+text The ground is full of something pitch-black.
+text My body collapses.
+text My ankles which sunk into the black puddle are attached to nothing.
+text "------"
+text I fall with a splash into the puddle.
+text .... There's no bottom.
+text This black puddle transforms into a mouth of a large animal and compresses my body-----
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s514.scr
+fi
+if selected == 2
+    jump main.scr
+fi

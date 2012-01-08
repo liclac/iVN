@@ -1,0 +1,9 @@
+bgload BG_06B.jpg
+text I have nothing in particular to do, so I decide to just head straight back to the mansion.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+text Climbing the hill, I return to the mansion.
+text It's not even five o'clock yet.
+text There's still two hours until dinner, so I'll kill some time in my room---
+bgload IMA_10.jpg
+jump s253.scr

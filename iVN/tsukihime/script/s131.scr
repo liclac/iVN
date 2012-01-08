@@ -1,0 +1,37 @@
+bgload BG_06A.jpg
+text Is she looking for someone in the hallway?
+text Senpai paces back and forth.
+text .... Looking at it calmly, she looks like she doesn't have anything to do with my classroom.
+text ".... As usual, I don't understand her at all.
+text What the heck is she doing?"
+text I sit down in my chair and watch her.
+text Senpai crosses her arms as if thinking about something, and stares at the students passing by.
+text "Maybe she dropped something."
+text .... It sounds weird for a third-year student to drop something in the second-year hallway, but this is the ever-roaming Senpai we're talking about.
+text ~
+text ----Huh?
+text Senpai suddenly enters into my classroom.
+text She strides directly to me.
+bgload BG_06A.jpg
+setimg CEL_T10A.png 52 0
+text "Tohno-kun!"
+text "!"
+text And she suddenly yells at me.
+text "Wh, what is it, Senpai?
+text I haven't done anything bad to make you angry."
+text "No excuses.
+text Just come over here, please."
+bgload IMA_10.jpg
+bgload BG_11A.jpg
+text She pulls my arm and drags me out into the hallway.
+text "H, hey, Senpai, what are you doing all of a sudden?
+text Weren't you looking for something!?"
+bgload BG_11A.jpg
+setimg CEL_T10A.png 52 0
+text "It's fine, just stay right there!"
+bgload BG_11A.jpg
+text "...."
+text Under Senpai's intensity, I quickly snap to attention.
+text And like yesterday, Senpai starts to sniff me.
+text ".... Um, Senpai....?"
+jump s133.scr

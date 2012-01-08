@@ -1,0 +1,136 @@
+bgload BG_33A.jpg
+text ---Even still, I can't break my promise.
+text ~
+bgload IMA_11B.jpg
+bgload BG_33A.jpg
+sound SE_02.aac -1
+text "Tss-----!"
+text I feel like spikes are being driven into my head.
+text Bearing that, I manage to walk forward.
+text "You mustn't, Shiki-san!
+text If you go out like that, we will get in trouble with Akiha-sama!"
+text Kohaku---san, tries, to get in my way, to stop me from leaving.
+text "----"
+text .... I can understand why.
+text Even if I go out with this headache, I might very well collapse somewhere.
+text That's why she wants me to stay here.
+text But I won't listen.
+text ".... Shut.... up."
+text Why?
+text For no reason at all, I thought.
+text I thought that if I didn't see Senpai now, I'll never see her again normally.
+text "If you made some sort of promise, I will go and tell them for you, so please go back to your room and--"
+text "Shut up!
+text I'm telling you to get out of my way....!"
+text "Ah----"
+text I violently push her away and dash towards the door.
+bgload BG_48A.jpg
+text "You shouldn't, Shiki-san....!"
+text I ignore her voice and resist the urge to puke as I run.
+text ~
+bgload IMA_10.jpg
+bgload BG_22A.jpg
+text I just run.
+text As if chasing down my promise with Senpai,
+text as if running away from something I can't see,
+text I propel my body down the street as it is on the verge of collapse.
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+text ---The street is full of people.
+text The hot sunshine.
+text The saturation of activity is painful to watch.
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+text Why do they do this?
+text Like unthinking insects, ones with intelligence still group up without any theory to solve.
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+text "-------"
+text .... Everything gets hazy.
+text Is it because of this nausea?
+text I feel like I.. am not me.
+text "------Sen, pai."
+text I look around me.
+text Where is----she?
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+text My mind is dizzy and I can't find her.
+text -----Still can't find her.
+text With all these people,
+text I can't find her.
+text All this randomness.
+text Nothing.
+text Feeling like everything is pointless,
+text a dizziness that....
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+bgload BG_25A.jpg
+setimg CEL_T01C.png 52 0
+text "Oh, Tohno-kun.
+text I'm surprised you actually made it here on time."
+text "Sen.... pai?"
+text ~
+text ---It's the first time I've seen her in regular clothes.
+text ~
+text ".... Um, I was being a bit mean earlier.
+text Sorry for making you run here and be exhausted like this."
+text ~
+text ---She gives a quick bow of the head.
+text "-----"
+text That's silly.
+text She shouldn't worry about that.
+text ~
+bgload IMA_11.jpg
+bgload BG_25A.jpg
+sound ~
+text "Oh, Tohno-kun---!?"
+bgload IMA_11.jpg
+text ~
+text .... Uck.
+text I feel sick.
+text But I'm glad I came.
+text I got to see Senpai in her normal clothes, so I have to bear this dizziness, and we have to have fun together-----
+music 01.mp3
+bgload BG_40C.jpg
+text ~
+text ----When I wake up, I'm in a bed.
+text "Huh---?"
+text Moving my head, I look around me.
+text This is my room, and it's night outside.
+text Hisui is here, and she must have been watching over me as I slept.
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, have you awoken?"
+text ".... Hisui.
+text Why am I here?"
+text My arms and legs don't respond.
+text Moving just my neck, I look at Hisui.
+text "Shiki-sama, you collapsed outside.
+text Your friend from school called here and carried you back to the mansion."
+text "----Oh.
+text That means, I"
+text Pushed aside Kohaku-san like that, and lost consciousness.
+text ".... I'm an idiot.
+text I can't possibly face Kohaku-san now."
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40C.jpg
+text Another headache arrives along with my regret.
+text .... My body seems to have gotten a little better, but my headache doesn't go away.
+text ".... Hisui.
+text What, happened to me?"
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text "Please relax, Shiki-sama.
+text It does not seem to be serious.
+text Nee-san has prepared some medicine, so if you seem to have a headache, please drink it."
+bgload BG_40C.jpg
+text Hisui carries a silver tray with some water and the medicine Kohaku-san prepared.
+bgload BG_40C.jpg
+text But, I don't feel like drinking it right now.
+text ".... Yeah.
+text If it gets terrible, I'll drink it.
+text Please put it over there."
+jump s287.scr

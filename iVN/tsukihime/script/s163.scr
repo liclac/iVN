@@ -1,0 +1,128 @@
+bgload BG_40A.jpg
+text "----"
+text I glance at the clock.
+text It's already past nine.
+text I'd be late even if I went to school now---and to be honest, going with Arcueid is more fun than going to school....
+text "Alright.
+text I'll spend the day with you.
+text But if we go into the city during the day, I don't think there'll be any Dead around?"
+bgload BG_40A.jpg
+setimg ARK_T01B.png 36 0
+text "I don't care about that.
+text I just wanted to walk around, so even if it is daytime, it doesn't matter."
+text "....?
+text What, aren't we making up for last night and going to look for vampires?"
+text "Yes, of course we'll look tonight.
+text But to have you help me all day and night would be hard, so during the day I thought we could relax."
+text "I think that'd be more fun too.
+text But, just the two of us walking around, that's...."
+text like what they call a date in the real world.
+text .... Maybe you can't say that with a vampire like Arcueid, but I suppose she's telling me to take her out for some fun.
+text For me, I----I need to get ready mentally and..
+text "....?
+text What's wrong, Shiki?
+text Your face, it's turning red."
+text "------Uh."
+text I cover my face with my hands and look away.
+bgload BG_40A.jpg
+text ~
+text .... Certainly it's been just the two of us many times before.
+text But, those were emergency situations, and it was more like a pact of cooperation than anything between a man and a woman.
+text That's why----no matter how pretty I thought she was, I tried not to notice it.
+text But, if..
+text Without any danger, without any purpose, if the two of us just walk around, I might notice something I never noticed before, and it makes me hesitate----
+bgload BG_40A.jpg
+setimg ARK_T11.png 36 0
+text "Shiki?
+text Hey, are you going to school after all....?"
+text ".... No way.
+text I said I'd do it, so I will.
+text I don't know what you're thinking, but walking around shouldn't be a problem."
+bgload BG_40A.jpg
+setimg ARK_T08.png 36 0
+text "Then it's decided.
+text Then let's go."
+bgload BG_40A.jpg
+text She walks toward the window she snuck in earlier.
+text "Wait a minute.
+text I'm going to change, so can you just look outside for a while?"
+bgload BG_40A.jpg
+setimg ARK_T01A.png 36 0
+text "What, did you call me?"
+text "Oh, yes, no!
+text Just go outside, I'll be there soon."
+text "Okay, I'll wait outside.
+text I've waited this long, so don't make me wait any longer, Shiki.."
+bgload BG_40A.jpg
+text She jumps out the window with the lightness of a cat.
+text I hear the rustling of the trees outside.
+text She didn't jump to the ground, but along the tree branches.
+text ~
+text .... With a body like that, it should have been easy getting in here undetected.
+text ".... This isn't the time to be impressed.
+text I too have to sneak out without Hisui noticing."
+text I change into some normal clothes.
+text Cracking open the door slightly, I look around to make sure no one's in the hallway and tip-toe outside.
+bgload IMA_10.jpg
+music ~
+bgload BG_32A.jpg
+music 03.mp3
+text Luckily, no one saw me as I made my way out.
+text Arcueid is looking the other way as she mumbles to herself.
+bgload BG_32A.jpg
+setimg ARK_T22.png 36 0
+text "Thanks for waiting.
+text C'mon, let's go Arcueid.
+text If we stick around here, Kohaku-san will find us."
+bgload BG_32A.jpg
+setimg ARK_T14.png 36 0
+text "Eh?
+text Ah, yeah, we should go."
+text Completely different from before, her words seem very empty.
+text "What is it?
+text This isn't like you at all.
+text Did something happen again just now?"
+text ".... No, nothing really."
+text I said the 'again' part strong, but her words are still hollow.
+text ~
+text ----It seems like she's planning something.
+text I feel kind of scared.
+text ~
+text ".... Are you feeling sick because it's daytime?
+text There's no need to force yourself to go out.
+text If it's hard for you, we can stop."
+bgload BG_32A.jpg
+setimg ARK_T03.png 36 0
+text "Mmh, I feel fine right now.
+text But seeing this wall reminded me of last night."
+text "....?
+text About last night, you mean while you waited for me at the park?"
+bgload BG_32A.jpg
+setimg ARK_T04.png 36 0
+text "Yes," Arcueid nods meekly.
+bgload BG_32A.jpg
+setimg ARK_T03.png 36 0
+text "I dashed here with all my strength and snuck into your room.... but it seems strange when I think about it now.
+text Why was I so angry back then?
+text It was just a little promise."
+text Saying she doesn't get it, Arcueid crosses her arms in thought.
+bgload BG_32A.jpg
+setimg ARK_T02.png 36 0
+text "Ah, that's right.
+text Maybe you get it, Shiki?
+text You always tell me I'm so stupid, so maybe you can understand?"
+text "Hey...."
+text If she doesn't understand herself, then how does she expect me to?
+text There's no way I understand, but if I have to respond----
+text ~
+bgload BG_32A.jpg
+choice Well, it's because you're selfish, right?|Well, it's because you hate me, right?|Well, it's because you're a vampire, right?
+if selected == 1
+    jump s164.scr
+fi
+if selected == 2
+    jump s165.scr
+fi
+if selected == 3
+    jump s166.scr
+fi

@@ -1,0 +1,58 @@
+bgload BG_29C.jpg
+text .... No, it's too early.
+text Nrvnqsr just arrived.
+text A little more---until his attention is focused more on Arcueid, I can't launch a surprise attack.
+bgload BG_29C.jpg
+setimg ARK_T07.png 36 0
+text "Don't get it wrong, Nrvnqsr.
+text The Dead Apostles are not a group of twenty-seven, but of twenty-eight.
+text You do not recognize 'The Serpent' as one of your own?"
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02A.png 13 0
+text "Of course.
+text His ideals differ from ours.
+text He is a vampire, but he does not hold to the meaning of being a vampire.
+text Consequently, we do not accept him as one of us."
+bgload BG_29C.jpg
+setimg NERO_T02C.png 13 0
+text "----But, we are old friends.
+text I believe I understand him more than the other Dead Apostles."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg ARK_T07.png 36 0
+text ".... I see.
+text Come to think of it, you are like 'The Serpent' as well, as you are unlike the other vampires too.
+text Since you are both heretics, you must share common interests."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02A.png 13 0
+text "Wrong.
+text Heresy is isolated therefore it is heresy.
+text Just because we both are separated from the flock doesn't mean we comprehend one another."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg ARK_T07.png 36 0
+text "Really?
+text Coming as far as this country to pursue me, I think you guys are similar."
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg NERO_T02A.png 13 0
+text "Do not be ridiculous.
+text You are the one capricious one.
+text Your purpose is to execute Dead Apostles, so why do you persistently pursue the Serpent of Akasha.
+text The 'Serpent's' poison is not something the Princess of the True Ancestors should be persistent about."
+bgload BG_29C.jpg
+text .... Nrvnqsr's voice gets slightly louder.
+text Arcueid's taunting must be working.
+text Nrvnqsr is looking only at his enemy Arcueid.
+text ~
+text ---What do I do now?
+text ~
+choice Dash towards Nrvnqsr.|It's still too early.
+if selected == 1
+    jump s101.scr
+fi
+if selected == 2
+    jump s100.scr
+fi

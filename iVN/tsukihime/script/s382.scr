@@ -1,0 +1,117 @@
+bgload IMA_01.jpg
+music 07.mp3
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----And then,
+text I embrace Akiha's body from the front.
+text ---There's no way I could kill her.
+text ~
+text ".... I want you to live."
+text Akiha tilts her head questioningly.
+text "No matter what you become---I still want you to live, Akiha."
+text My tears cannot be stopped.
+text Akiha hugs back joyfully---and bites on my neck.
+text "-----!!"
+text It hurts.
+text But it is not an act to suck my blood.
+text It is just a primitive act to bite me.
+text "A-Akiha."
+text Akiha just frantically bites my neck.
+text She tears off the meat and my bones are being chipped away.
+text Akiha has no intelligence.
+text She does not know who is holding her, or the meaning of an embrace.
+text ~
+text Akiha is no different from a beast in human form.
+text But still----
+text "---Still.... I want you to live."
+text ~
+text .... Is it wrong to wish such a thing?
+text Is it a crime to wish for her to stay alive even though she goes around killing people?
+text Even if Akiha says she cannot endure such a thing, I want her to endure past it.
+text But.
+text That's---just a selfish wish.
+text "----But, we made a promise."
+text Akiha does not let go.
+text Still holding on to her, I place my knife on Akiha's "line".
+text ~
+text ---If someone is going to kill you eventually, then..
+text ~
+text "I won't let anyone hurt you."
+text ~
+text ----The knife, without a sound,
+text and probably without pain,
+text ~
+text "Since I am the only one for you."
+text ~
+text ----Gently ends Akiha's life.
+bgload IMA_10.jpg
+bgload BG_54A.jpg
+text The autumn leaves fall.
+text Akiha lies on the red ground.
+text The hair scattered on the ground is black.
+text It vividly undulates on the red leaves.
+text Her face is peaceful, as if happily dreaming.
+text "----------"
+text One event has ended.
+text When I was a child.
+text The happiness when we met here and ran around this courtyard.
+text The brightness of the stars we watched together.
+text ~
+text Just a few days ago.
+text Everything we talked about here.
+bgload event/AKI_E03.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Nii-san, I am just happy that you have come back.
+text .... I just want you to keep that in mind.
+bgload IMA_10.jpg
+bgload IMA_01.jpg
+text At some point, I started staring at the moon.
+text .... My body is cold.
+text My mind feels dizzy, like I'm about to go to sleep.
+text .... I'm sleepy.
+text I feel like if I slept right now, I could dream that this was all a dream.
+text ~
+text But that's just a dream and someday, I would have to wake up.
+text It feels like even I am just part of this dream.
+text ~
+text Or was everything an ephemeral dream from the start?
+text If so, please..
+text Let me sleep on and never wake me up.
+text "---------Ha, ha."
+text ~
+text In the sky, the blue, blue, glass moon.
+text The tall curtain of trees and the applause of showering crimson leaves.
+text ~
+text "Haha, ha------"
+text ~
+text I'm sad, yet all that comes forth is laughter.
+text The night is deep.
+text There is a serene silence around me, which hits my eardrums like thunderous applause.
+text My view distorts and narrows.
+text .... It seems to be time to lower the curtain.
+text The curtain of trees turns round and round.
+text ~
+text As if
+text everything in this circus
+text was artificial.
+bgload IMA_10.jpg
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s540.scr
+fi
+if selected == 2
+    jump main.scr
+fi

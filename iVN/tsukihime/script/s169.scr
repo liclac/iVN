@@ -1,0 +1,132 @@
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+music 03.mp3
+text For the time being, the movie theater is always a safe bet.
+text As long as the movie you choose is good, it can't be boring.
+text ~
+bgload BG_25A.jpg
+setimg ARK_T01A.png 36 0
+text "This place is always pretty lively, although I don't know what's here."
+text Arcueid walks right next to me.
+bgload BG_25A.jpg
+text "------"
+text On the way----actually even now, everyone around us keeps casting glances our way.
+text .... It doesn't need to be said, but it's probably because Arcueid really stands out.
+text I'm aware of it a little, but everyone else's reactions make me even more conscious of it, and it's a bit troubling.
+text ~
+text Arcueid acts just like she normally does, but since I can't help but be overwhelmed by her femininity, I can't seem to make any meaningful conversation.
+bgload BG_25A.jpg
+setimg ARK_T01B.png 36 0
+text "Hey, do you hear me Shiki?
+text I'm asking you where we're going."
+text "Ah----um, well most couples here usually go to the movie theater."
+text I point to the movie theater in front of us.
+bgload BG_25A.jpg
+setimg ARK_T03.png 36 0
+text "Movie theater.... hmm, so watching a movie then."
+text .... The princess does not seem to be pleased.
+text But, after coming this far, I don't have a choice.
+text It's not like I have any clue what would please a vampire girl in the first place.
+text Because I've gone this far, I just have to prepare myself for her to say "Boring."
+text "Just go in.
+text If you're dissatisfied, we can always split up here."
+text "I'm not really.. dissatisfied."
+text Giving a sigh, Arcueid follows me.
+bgload BG_25A.jpg
+text She slumps her shoulders as if to say "you good-for nothing guy!".
+text "I'm going to go buy tickets, but what do you want to see?
+text Let's see, there's a romance, and a romance, and a romance.... this theater kind of stinks."
+text To be honest, I want to go back too.
+bgload BG_25A.jpg
+setimg ARK_T02.png 36 0
+text "Any one of them is fine.
+text They really all look the same."
+text "Yeah.
+text Then let's just buy one."
+bgload BG_25A.jpg
+text I get in the shortest line and buy two tickets.
+text "Here you go.
+text Just show this ticket when we go in.
+text They'll take half of the ticket, but that's how it's supposed to be so don't get angry."
+bgload BG_25A.jpg
+setimg ARK_T02.png 36 0
+text "I know that much.
+text You really think I don't know anything, Shiki."
+text "Ah.... no, that's not it.
+text I just thought maybe you didn't know much about human society."
+bgload BG_25A.jpg
+setimg ARK_T04.png 36 0
+text "I have some knowledge of it stored away.
+text I know at least about a movie theater."
+bgload BG_25A.jpg
+text Giving a small "hmph", she turns her face away and walks towards the theater.
+text .... It was a mistake.
+text I knew taking a vampire to a movie theater would be too dull.
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+text ----We exit the theater.
+text ~
+text We watched a romance.. it wasn't exactly boring, but not terribly interesting either.
+text It was a typical French movie.
+text It focused less on breathtaking scenes and concentrated more on creating a calm atmosphere.
+text As we leave the theater, Arcueid walks with me wordlessly.
+text "........"
+text .... An uncomfortable silence.
+text Maybe she would've been happier if it was an action flick or a horror movie.
+text ~
+text "Hey, Arcueid."
+bgload BG_25A.jpg
+setimg ARK_T08.png 36 0
+text "Yeah, it was really fun, Shiki!"
+text ~
+text Wh, wh, wha, what....!?
+text "Uh, fun, Arcueid?"
+text "Man, hearing about it and seeing it were two entirely different things.
+text Even though I knew some background information about what a movie theater was, my imagination fell short of reality."
+text .... Arcueid gives a happy, heart-felt smile.
+text "The darkness was really nice, and even though the sounds were loud, they weren't noisy.
+text And having you next to me was also fun.
+text But more than that, the subject matter was really good!
+text I was surprised they would go so far to make up a story.
+text It's so detailed, my imagination was nothing like that.
+text I was really moved."
+text ".... Ah, is.. is that so?"
+bgload BG_25A.jpg
+setimg ARK_T11.png 36 0
+text "Huh?
+text You look like you don't agree.
+text Was it was boring?"
+text "No, not really boring, just ordinary.
+text There's way more interesting things than that."
+bgload BG_25A.jpg
+setimg ARK_T12.png 36 0
+text "No way.
+text That was really good, you know!?"
+text "Well, I guess movie experts like that kind of movie, but there's a ton of better ones.
+text They are not out right now, but there are epics out there many times better than that.
+text To be blunt, what we just saw was pretty low quality."
+text ".... I'm surprised."
+text ".... It's so easy to read your expressions Arcueid."
+bgload BG_25A.jpg
+text Not just surprised, but amazed.
+text That Arcueid, she looked so not into it, so I thought she was going to complain.. but now she's like an excited kid.
+text ~
+text ".... Too bad.
+text If it was earlier, we could've seen a better movie.
+text If I knew you would have liked it, I would have taken you."
+text ~
+text It's not so she thanks me, but I genuinely do want to make her happy.
+bgload BG_25A.jpg
+setimg ARK_T17.png 36 0
+text "Oh, I see.
+text I guess we don't have much luck."
+text Arcueid slumps her shoulders in disappointment.
+text "Yeah, we just keep missing the opportunities."
+text I slump my shoulders in disappointment too.
+text .... Yeah, really.
+text It really would have been nice to see her happy, smiling face a little longer.
+bgload BG_25A.jpg
+bgload IMA_10.jpg
+music ~
+setvar ark_regard + 2
+jump s172.scr

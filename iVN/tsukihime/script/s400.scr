@@ -1,0 +1,83 @@
+bgload BG_40B.jpg
+text .... It is a little selfish, but I'd better ask Kohaku-san to make me something to eat.
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+bgload BG_42B.jpg
+setimg KOHA_T06.png 52 0
+text "Ah, Shiki-san.
+text You're back."
+text Moving the broom off to one side, Kohaku-san bows.
+text "Yeah, I'm back.
+text I do have a little favor to ask, though."
+bgload BG_42B.jpg
+setimg KOHA_T03.png 52 0
+text "Yes?
+text Is there something special you need?"
+text "Um, I'm a little embarrassed, but.."
+text Before I could even ask her nicely to make me something to eat,
+text ~
+text the growling of my stomach rumbles through the courtyard.
+bgload BG_42B.jpg
+setimg KOHA_T09.png 52 0
+text "------"
+text Surprised, Kohaku-san just gapes.
+text "-----Uh."
+text My face turns red.. I didn't realize my body was that crass..
+text ".... Um, so that's it.
+text I didn't have much to eat since morning, so I can't wait until dinner.."
+text "------"
+text Kohaku-san stares at me wordlessly and then, as if remembering, lets out a little laugh.
+bgload BG_42B.jpg
+setimg KOHA_T05.png 52 0
+text "I understand.
+text So you want me to fix you something light?
+text Shiki-san, is there something you want in particular?"
+text "Something I want?"
+text .... To be honest, I was just hungry, and I didn't even think about what I wanted to eat.
+text "Um.... I guess some pancakes would be fine."
+text I don't know why, but the image of golden pancakes just pops into my head.
+bgload BG_42B.jpg
+setimg KOHA_T03.png 52 0
+text "Pancakes....?
+text Shiki-san, I've heard that you do not like sweets, but.."
+text Kohaku-san tilts her head in surprise.
+text "Ah---no, I don't eat a lot of sugar, but it's not like I don't like it.. I did eat lots of Japanese candy at the Arima's too.."
+text "Really!?
+text If that was the case, you should have told me earlier.
+text I was wondering all this time if I should get you something during teatime.
+text But from now on, I'll make you the same thing that I make Akiha-sama."
+text Kohaku-san's voice suddenly brightens.
+text .... But eating the same thing as Akiha, does she mean I'll be eating those dainty little shortcakes from now on..?
+text "But, Shiki-san, why do you want pancakes?
+text If you want, I can fix you something a little better."
+text "Hm.... no reason, I guess.
+text I like them because they are pretty simple."
+bgload BG_42B.jpg
+setimg KOHA_T18.png 52 0
+text "Ahaha, Shiki-san, you just said the same thing as Hisui-chan.
+bgload BG_42B.jpg
+setimg KOHA_T01A.png 52 0
+text This is a secret, but I think Hisui-chan really likes pancakes, too.
+text Whenever she tries to cook something, it's almost always pancakes."
+text "Really?
+text .... That's pretty surprising.
+text I thought she would like something a little more complex."
+text Like, a very decorated cake that makes you wonder where to cut it from.
+text "Isn't it?
+text I think it is a little strange too, so I asked her.
+text She told me it's because I told her that they are very simple to make.
+text But she says she still can't make it to satisfy her.."
+text "..........?"
+text .... Um, so it's not that she likes pancakes, but just that she practices making them?
+bgload BG_42B.jpg
+setimg KOHA_T06.png 52 0
+text "Ah, sorry Shiki-san.
+text I will go make you some, so please wait in the sitting room."
+bgload BG_42B.jpg
+text With her broom in hand, Kohaku-san hurries toward the rear entrance.
+text "-----Well, whatever."
+text In any case, I'll get to eat soon.
+text I'll be able to have some tea and pancakes and then get to rest until dinner----
+bgload IMA_10.jpg
+music ~
+jump s402.scr

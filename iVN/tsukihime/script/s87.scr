@@ -1,0 +1,594 @@
+bgload BG_28A.jpg
+text ~
+text ---I can't throw away my doubts.
+text ~
+text Sensei said,
+text .... I won't ask you to become a saint.
+text All you have to do is become an adult and do what you think is right.
+text I know I'm not thinking straight at the moment, but I can't betray her trust.
+text Even if Arcueid isn't human, she believes in me.
+text ~
+text She has forgiven my unforgivable sin with a smile.
+text "...... Alright!"
+text I leap up from the bench and begin running without turning back.
+bgload IMA_10.jpg
+bgload BG_19C.jpg
+text .... I return to the hotel at around the same time the sun goes down.
+text ~
+text "......"
+text Quietly, I sneak back inside.
+text If Arcueid is still asleep, then there.. should.. be.. no.. problem....
+music 03.mp3
+bgload BG_19C.jpg
+setimg ARK_T16.png 36 0
+text "---Shiki!"
+text "...... Ah."
+text She's awake, and pretty angry.
+text "Oh, where'd you go to!?
+text You should tell me before you go outside!"
+text Arcueid is angry.
+text But it doesn't seem like she thinks I betrayed her.
+bgload BG_19C.jpg
+setimg ARK_T04.png 36 0
+text "Geez, when I woke up at sunset, you weren't there!
+text I thought you went to the bathroom, but you wouldn't come out.
+text Then I thought you went to get some food from the lobby, but you weren't there when I checked.
+text Just where did you go?"
+bgload BG_19C.jpg
+setimg ARK_T02.png 36 0
+text "Ah---just outside the hotel for a bit."
+text "Are you serious..?
+text The familiars have found you, so I won't say you're safe.
+text What were you going to do if one of those black dogs attacked you after you went outside so recklessly?"
+text "...... Ah."
+text ---Suddenly, I realize it.
+text The reason Arcueid is angry isn't because I wasn't here.
+text She hasn't thought, even for a moment, that I would betray her and run out on her.
+text It seems Arcueid is only angry because she's worried about how I went outside and could've ended up in a dangerous situation.
+text ~
+music ~
+text "------"
+text .... I'm ashamed.
+text I was---only a little ways away from treading all over her good intentions.
+music 01.mp3
+text "Hey, Shiki, are you listening to me?"
+text ".... Yeah, I'm listening.
+text You're right, it's my fault.
+text I'm sorry for going out on my own like that."
+text I lower my head obediently.
+text ~
+text And---
+text ~
+bgload BG_19C.jpg
+setimg ARK_T14.png 36 0
+text "Eh!?
+text ---H-hey, you don't have to apologize so seriously---
+bgload BG_19C.jpg
+setimg ARK_T04.png 36 0
+text A.. anyhow, you're far too vulnerable.
+text The enemy is a vampire, so you've got to be more careful."
+text "You were just as vulnerable yourself.
+text I killed you once before, remember?
+text You can't guarantee I won't do it again, can you?"
+bgload BG_19C.jpg
+setimg ARK_T12.png 36 0
+text "Ah----"
+text Arcueid gives a surprised look, as if she only just realized it.
+bgload BG_19C.jpg
+setimg ARK_T03.png 36 0
+text "Now that you mention it, you're right.
+text ---I wonder why I did that.
+text I guess I just had complete confidence in you since we spoke in the alley."
+text "......"
+text .... Well, saying that doesn't make me feel bad for her..
+text "Okay.
+text Since you trust me so much, I'll try my best.
+text So, should I just keep watch from now on?"
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text "Yeah, until sunrise tomorrow.
+text I can't leave the room, so be on guard if someone comes up to this floor."
+text .... Be on guard, huh.
+text Being on guard is going to do me no good if one of those black dogs from this morning comes for us.
+text *sigh*
+text I let out a sigh.
+text As expected, this is too heavy a role for me.
+text ".... Let me ask you something.
+text Was the black dog that attacked us this morning something your enemy sent out?"
+text "I don't think so, it was probably for surveillance.
+text His patrol route happened to pass through where you and I were talking, and it seems my presence was revealed as a result."
+text "Revealed?
+text To your enemy?"
+text "That's right.
+text If I had been in perfect condition, it would actually save me some time.
+text But right now, it's the opposite.
+text If I were attacked now, I'd be the one annihilated.
+text That's why I have to hide out like this for now until my power returns."
+text .... Arcueid's enemy.
+text In other words, the serial killer who's been causing the stir in this town--a vampire.
+text ~
+text ".... Arcueid.
+text I want to ask you something.
+text Will you answer my question?"
+text "I don't mind talking.
+text But why are you being so formal all of a sudden?"
+text "--Yeah, I haven't asked you the most important thing yet.. So, what's your ultimate objective here?"
+bgload BG_19C.jpg
+setimg ARK_T03.png 36 0
+text "Me?
+text I'm here to hunt down the vampire.
+text Killing vampires is my duty."
+text "Yeah, I do remember you saying something like that before.
+text But Arcueid, you're a vampire, right?"
+bgload BG_19C.jpg
+setimg ARK_T06.png 36 0
+text "What?
+text You still don't believe me?"
+text "Oh, don't worry, I believe you so much it hurts.
+text I'm asking why would you, a vampire, claim to be doing something as odd as killing other vampires?"
+text "Oh?
+text You don't like the idea of beings from the same species killing each other?"
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text ~
+text .... The act of killing doesn't exactly make my list of favorite things, but she is right.
+text I'm not comfortable with the idea of vampires killing vampires.
+text "No, it's just that I can't really imagine something like that happening.
+text Vampires drain the blood of humans, right?
+text So they should be killing humans, not other vampires."
+bgload BG_19C.jpg
+setimg ARK_T02.png 36 0
+text "Drinking blood and killing are different things.
+text Well.. Even so, I know what you're trying to say.
+text You think beings from the same species should help each other out, right?
+text But vampires can be of the same species and still be different life forms.
+text That's why they don't really have what you humans call 'camaraderie'."
+text "....?
+text Then you're saying something makes you different from the vampire you're hunting?"
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text "That's right.
+text The one I'm after is a human vampire, just like the stereotypical vampire from you humans' folklore.
+text He kills humans by draining their blood, turning them into The Dead, then uses them to increase his power and influence--that's the sort of vampire I hunt.
+text The one lurking in this town is that sort of old-style vampire."
+text ~
+text ---"That sort" of vampire?
+text It seems like there are different types.
+text ".... Don't tell me you want me to be your shield so you can get this guy."
+bgload BG_19C.jpg
+setimg ARK_T03.png 36 0
+text "--Yeah, that was my original intent.
+text But after talking to you, I've changed my mind.
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text You see, at first, I thought you were someone from the Church.
+text So I thought you might have information about the location of the enemy, but you turned out to be a perfectly ordinary person.
+text You didn't even know about vampires, let alone the location of the enemy's coffin."
+bgload BG_19C.jpg
+setimg ARK_T03.png 36 0
+text ".... Yeah, come to think of it, there's no way they'd send an exorcist to a Far East secular country like this one--I guess I didn't put enough thought into this."
+text Arcueid thinks aloud.
+text Her conversation derails, and I'm feeling a little left out.
+text "I don't follow you at all, Arcueid."
+text "Ah, hold on for a moment.. let's see.. How should I explain this..?"
+text With that, Arcueid's gaze begins drifting.
+text .... She doesn't seem used to holding a conversation.
+text "Don't worry about it and just explain everything about the current situation.
+text I don't understand any of this, but I might be able to see the general gist of things."
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text "Really?
+text Thanks, Shiki."
+text "You don't have to thank me.
+text Just keep talking."
+text Arcueid nods obediently.
+text "Basically, the vampire currently in this town is an old-style vampire.
+text He himself reigns as the lord and releases The Dead he made into the city.
+text By doing so, he increases his power bit by bit.
+text He's a typical vampire in that he drains the blood of humans, and those humans become vampires themselves.
+text He's not very powerful right now as he doesn't have many Dead serving him, but as the victims increase, so does his power.
+text It would be best to destroy the main body before that happens, but I haven't found where he sleeps yet.
+text He's hidden so well right now I can't even feel his presence."
+bgload BG_19C.jpg
+setimg ARK_T02.png 36 0
+text "Even so, it's easy to take care of things once I find him.
+text But I don't have any clues whatsoever, so I had no choice but to walk around town during the day to investigate.
+text But then I suddenly got attacked by a passing killer, and now, I'm temporarily weaker than the enemy vampire."
+text ~
+text Arcueid shoots me a cold look.
+text I guess she wants to say something to the "passing killer".
+text ".... I see.
+text I kind of understand the situation now.
+text So in other words, some evil monsters are based in this town, and you're here to eliminate them.
+text Since you didn't know where they were, you went looking for them, and that's when I, uh--killed you.
+text So now you're weakened and hiding out while you recover.. Is that about right?"
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text "To put it simply, I think so."
+text "--Then next is the main topic.
+text You casually call yourself a vampire, but I still don't really understand that term.
+text .... It's obvious you're not a human, that much I can see, but I don't get the feeling that you're a vampire, either."
+bgload BG_19C.jpg
+setimg ARK_T03.png 36 0
+text "That's true.
+text I'm a little different from the type of vampire you know about."
+text "Indeed.
+text I hadn't considered that vampires even existed at all, let alone a vampire like you.
+text So, what makes you different?"
+text Arcueid thinks.
+text "Yes.. I suppose it might be helpful to teach you a bit about us."
+bgload BG_19C.jpg
+setimg ARK_T01A.png 36 0
+text "Alright.
+text Then the first period's lesson will be Vampires 101."
+text ".... Okay, but.. What's with 'Vampires 101'?"
+text "You're an amateur at this, so we've got to start with the basics, right?
+text That's why I'm going to start teaching from the very beginning."
+text "--Okay, whatever.
+text Just keep it short."
+bgload BG_19C.jpg
+setimg ARK_T14.png 36 0
+text "Um.. I'll try my best."
+text ~
+text .... It really does seem like she's not used to talking.
+text Well, we've got lots of time, so for now I guess I'll listen to Arcueid without complaint.
+bgload IMA_10.jpg
+music ~
+bgload BG_19D.jpg
+music 09.mp3
+bgload BG_19D.jpg
+setimg ARK_T02.png 36 0
+text "Although we're typically called simply 'vampires', we're divided into two main categories.
+text Those who were vampires from the start, and those who become vampires.
+text The former are called True Ancestors, and the latter are called the Dead Apostles.
+text The ones you call vampires are the Dead Apostles.
+text They drain the blood of humans and turn them into their slaves.
+text They're weak against sunlight, and you can vanquish them with a baptism ritual.
+text Our enemy is one of these Dead Apostles."
+bgload BG_19D.jpg
+text It's gone from "my enemy" to "our enemy".
+text .... Well, I don't mind.
+text She's not wrong, considering the situation I'm in now.
+text ~
+text ".... Hmmm.
+text So you're saying these Dead Apostles aren't vampires from the start?
+text What do you mean by that?"
+bgload BG_19D.jpg
+setimg ARK_T02.png 36 0
+text "Dead Apostles were once humans.
+text They've attained immortality through magic, or had their blood sucked by one of the True Ancestors.
+text Either way, the ones that become vampires become immortal, even though it's imperfect immortality."
+text "...."
+bgload BG_19D.jpg
+text ~
+text Those who were vampires from the beginning, and humans who became vampires.
+text .... What is this?
+text I get the feeling that there's some kind of huge contradiction to all of this.
+text It feels like some important fundamental is missing somewhere in this theory.
+bgload BG_19D.jpg
+setimg ARK_T01A.png 36 0
+text "Hey--Shiki.
+text How much do you know about vampire folklore?"
+text "Let's see.. Just the usual stuff.
+text They suck the blood of virgins, they can bind people just by looking at them, they can turn into mist and wolves.. just the usual stuff you hear about."
+text "Yeah, that's pretty much all true.
+text They drain the blood of virgins because one's blood cells are more pure before one has exchanged bodily fluids with others.
+text That makes virgins most suitable for repairing the vampire's own degenerating genes.
+bgload BG_19D.jpg
+setimg ARK_T02.png 36 0
+text The Dead Apostles--the ones that become vampires have imperfect immortality.
+text Since they became immortal, they won't die from old age.
+text However, they need to replenish their energy frequently, or they'll disappear.
+text All living creatures need nutrients to be able to move, right?
+text It's the same thing.
+text It's just that vampires don't die from age as long as they take in the nutrients."
+text "The Dead Apostles suck blood because they need it to stay alive.
+text Immortality is a strain on their originally-human bodies.
+text The genes that compose their bodies are different.. when they become vampires, they begin to degenerate at an incredible rate.
+text To make up for that, they must drain the blood of others in order to absorb genetic information and stabilize their own bodies.
+text To a vampire, drinking blood is not like eating, but it's the minimum requirement for them to continue to exist."
+text "......"
+text This sounds complex.
+text And long.
+text I can't follow the logic, but Arcueid nonetheless continues speaking.
+text "So, moving on.
+text The ability to bind someone with just a look is a type of Mystic Eyes.
+text Eyes and words are both common types of magic circuits, so there are many vampires who have Mystic Eyes.
+text We usually possess the Mystic Eyes of Enchantment.
+text We don't enchant people by looking at them, rather, we enchant those who look into our eyes.
+text A powerful vampire using Mystic Eyes can impose his own will into the brain of another and completely dominate their thoughts, but the Mystic Eyes of a Dead Apostle don't have that much power."
+bgload BG_19D.jpg
+setimg ARK_T03.png 36 0
+text "What you call 'turning into mist' is really just making a spare body and controlling it via the will.
+text Once the part serves its purpose, you cut the mana flow to the offshoot and naturally, it returns to dust."
+text Wolves--and other animal transformations--are a byproduct of a vampire repairing its damaged body using its familiars.
+text For the long life of vampires, stabilizing their bodies with normal lives is not sufficient.
+text Humans are not fundamentally powerful animals, so it's more effective to repair one's body by absorbing beasts, as they surpass the human species in this respect.
+text Vampires who repair their own bodies with beasts can return those beasts to their previous forms and use them as familiars when they need to."
+text "Hmm.. from what I've heard, there's even a thousand-year old vampire whose body is made up entirely of familiars.
+text They say he contains 666 beasts within his body, or something like that, anyway."
+bgload BG_19D.jpg
+text "-----"
+text I think Arcueid's getting a little too wrapped up in her own speech.
+text To be honest, I'm not finding this world easy to understand.
+bgload BG_19D.jpg
+setimg ARK_T03.png 36 0
+text "Yeah, that's about it.
+text It's just an explanation of the very basics, but now do you know what a vampire is?"
+text "Well.. I suppose."
+text The reality of Arcueid being a vampire begins to feel harder and harder to accept.
+bgload BG_19D.jpg
+setimg ARK_T01A.png 36 0
+text "Now, it's my turn.
+text Actually, there's something important I've forgotten to ask you too."
+text "What?
+text You're not going to learn anything from me.
+text I'm not a vampire or anything, just an ordinary student."
+bgload BG_19D.jpg
+setimg ARK_T02.png 36 0
+text "Hmmm.
+text Then let me ask you this, Shiki.
+text How exactly did you kill me?"
+text "Huh?"
+text "I'm asking about the method you used.
+text I'm resistant against stuff like Runes and Kabbalah, so those don't work on me.
+text The only thing I'm not resistant against is magic I've yet to experience, which is probably limited to the ancient Shinto in this country and the treasures in South America."
+bgload BG_19D.jpg
+setimg ARK_T07.png 36 0
+text "No, not even those could 'kill' me that much.
+text Answer me, Shiki.
+text What kind of occult artifact did you use to incapacitate me to that degree?"
+text "Occult artifact..?
+text What's that?"
+bgload BG_19D.jpg
+setimg ARK_T16.png 36 0
+text "A catalyst which stores ideas and history!
+text Geez--You've got sacred treasures in this country too, don't you?
+text They're usually something like staffs and swords, jewels and masks; Conceptual Weapons that can be used against nature itself--Come on, Shiki!
+text Are you sure you're not someone from one of those fields?"
+text "What field?
+text I told you, I'm just a student.
+text I don't know anything."
+text "That's a lie!
+text There's no way a human who's not even a magus can hurt me.
+text .... Are you hiding something from me, Shiki?"
+text Arcueid gives me an angry, cat-like stare.
+text .... But even if she looks at me like that, I'm not hiding anyth--Oh, wait.
+text "Actually, there is one thing.. I'm not sure whether it's relevant, but.."
+text Arcueid is still staring at me.
+text .... It doesn't seem like I'll be able to keep quiet about it.
+text "Alright, I'll tell you, but.. how should I put this?
+text I.. can see these lines that can be used to cut things."
+bgload BG_19D.jpg
+setimg ARK_T13.png 36 0
+text "Eh?"
+text Oh.
+text She's stunned.
+text She should be.
+text Normally, I don't think anyone would believe a story like this.
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text ".... What do you mean?"
+text Arcueid asks in a serious tone.
+text She's not exactly normal.. I should have known she would defy my expectations in a good way.
+text "I mean, I see these lines where things can be cut.
+text Living things, the ground, anything touchable.
+text It's like a black line, and I can cut things clean when I let anything sharp through it.. does that mean anything to you?
+text It's convenient to be able to cut steel with a knife and all, but it's not like I can cut it anywhere I like.
+text I can only cut things where I can see the lines, and when I cut you--well, you can cut a girl's skin with just a knife, right?"
+bgload BG_19D.jpg
+setimg ARK_T05B.png 36 0
+text "------"
+text Arcueid's eyes are serious as she glances at me--those wild eyes that I've seen only once before.
+text A gaze that could stop my breathing.
+text "------I see.
+text I thought the Mystic Eyes of Death Perception only existed in fairy tales.
+text But, I guess there is someone who can use them, a mutated monster like you."
+text "W--what!?
+text I don't think a vampire can call me a monster!"
+text "A monster is a monster.
+text There isn't anyone, even amongst us, with Mystic Eyes that can 'see the death of things'."
+text "..?
+text See the death of things..?"
+text Arcueid nods in affirmation with an inimical gaze.
+text "A circuit must have opened in your eyes, Shiki.
+text Were you born with eyes like that?"
+text "No.
+text They became like this a long time ago, but I wasn't born with them."
+text ".... Hmm.
+text Then you must have had at least one near-death experience at some point, right?"
+text "Wha----"
+text It's true.
+text Eight years ago, I got in an accident where I almost died.
+text "Just as I suspected.
+text You had the latent ability, but that must have been the trigger.. The Mystic Eyes of Death Perception, huh?
+text Yes, with those, you could definitely kill even me."
+bgload BG_19D.jpg
+text With a small sigh, Arcueid's eyes return to normal.
+text "Arcueid.. Do you know something about these lines?"
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text "Not to the extent you would, but I do have some information.
+text What you see is the end of all things; the point where things die easily.
+text To put it simply, the time of death for everything in existence.. that is, Death itself."
+text "----"
+text .... I remember now.
+text That time.
+text When Sensei gave me these glasses, she had told me something similar to what Arcueid said.
+text But there's a subtle difference to what Sensei said and what Arcueid said.
+text What I'm seeing are only lines, and not something as disturbing as death.
+text "What are you saying?
+text What I see are just the lines where things can be cut."
+text "I'm telling you, those lines are the 'death' of the object.
+text Listen, Shiki.
+text Everything in existence has an end.
+text There are differences to when, but it's an end nonetheless.
+text Death does not 'arrive'.
+text It is already contained within the object at its creation, and it's bound to happen someday.
+text This is what is called the principle of causality.
+text You've heard of that before, right?
+text As long as something has an origin, it must have an end.
+text When it will end is determined from its beginning.
+text That's its so-called 'time of death'.
+text So, as it already exists from the beginning, it's not impossible for one to see it with their eyes, given that they can comprehend the concept of a 'time of death' and they have the appropriate circuit in their brain and eyes.
+text That's the truth behind those 'lines' you see.
+text This is nothing more than the general concept, but if I were to theorize, I would say that they are the weakest parts of the joints between the molecules in something, or perhaps a pre-designated switch within the genetic makeup that activates the death of that object."
+bgload BG_19D.jpg
+setimg ARK_T07.png 36 0
+text "Ah, but that doesn't really make sense.
+text .... Hmm.
+text I can't see them, so I can't say for sure, but the lines aren't all you can see, are they?
+text I would think there would be 'points' more than 'lines'."
+text "--Ah."
+text That's right.
+text When I first saw Arcueid.
+text When I wasn't myself.
+text When I took off my glasses, I could see the usual scribbles--and black points, where the scribbles seemed to flow from.
+text ".... There were.
+text It only happened that one time, but--definitely.
+text I saw black points.
+text There were several on your body, and the black lines flowed between them, joining them up."
+text If I had to make an analogy, I would say they were like blood vessels.
+bgload BG_19D.jpg
+setimg ARK_T01B.png 36 0
+text ".... I see.
+text 'The lines where things die easily', and 'death itself', huh?
+text I'm surprised you've stayed alive up until now like this.
+text You must have a very tranquil heart, Shiki."
+text Arcueid says this philosophically.
+text In my own way, I understand what she is saying, but I don't want to believe any of it.
+text "--What?
+text There's no way that sort of thing exists, let alone me being able to see it..!"
+text "Well, you are seeing it.
+text Usually, when you cut a living being's neck, they die.
+text This means it stops because you've cut it.
+text Conversely, you can say that if you can't cut something's neck, it won't die.
+text Ah--This is about me, so just consider it an exception."
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text "But in your case, you can ignore the cause.
+text Even against that which is immune to all external effects, you kill first.
+text What is killed then becomes 'dead'.
+text It's not that it stopped because you cut it, but in your case, you stop the object, and as a result, it is cut.
+bgload BG_19D.jpg
+setimg ARK_T02.png 36 0
+text "See?
+text What else can I call you but a monster?
+text You may just call them lines along which something can be cut, but those eyes are more special than those possessed by any other user of supernatural power in history.
+text You, Shiki, have the eyes that can kill anything, just like death itself."
+text "--------"
+bgload BG_19D.jpg
+text I'm.. at a loss for words.
+text If that really is what I see, just like Arcueid is saying..
+text Those black lines really are the 'time of death' for all things.
+text ~
+text .... Then everything around me..
+text .... is filled with death.
+text ".... So, what?
+text If it's all as you say, I should be able to kill even you."
+bgload BG_19D.jpg
+setimg ARK_T01A.png 36 0
+text ".... Really?
+text Then let's try it."
+text Arcueid opens the curtains.
+bgload IMA_18.jpg
+text The lights are off.
+text The only illumination is the faint moonlight coming in through the window.
+text "Come on, it's alright.
+text Try it, seriously.
+text Ah, wait, could it be you can't see them with those glasses on?"
+text "----Are you sure about this?"
+text I take my glasses off.
+text Only to see the lines, of course.
+text At the same time, the room begins to writhe with the black lines.
+text Outside the window, the moon is white.
+text They're difficult to see in the daytime due to the strong sunlight, but under the faint moonlight, I can even see the glow coming from the 'lines'.
+text ~
+text Amidst them--
+text The lines on Arcueid's body are very thin.
+text If I don't concentrate, I lose sight of them of them altogether.
+text "Ah---"
+text ".... If I hadn't been killed by you, I don't think you'd be able to see any at all, but right now you can probably see them.
+text You see, although I have no 'times of death' during the night, some do appear during the day.
+text You could kill me because it was during daytime, but you can see my 'time of death' during nighttime now since I've used up a lot of energy to regenerate myself.
+text ---In other words, I've lost my immortality.
+text So, can you cut the lines on my body, Shiki?"
+text "-----"
+text .... Let's see.
+text I think I probably could, since the lines are there, but I don't think I could do it so briskly and without hesitation like that time before.
+text ".... I think it'd be hard.
+text The lines keep fading in and out, so I probably couldn't do it unless you're sleeping."
+text "You can't, right?
+text That's your biggest weak point.
+text No matter how many 'deaths' you can see, you need to trace the line with your own hands.
+text No matter how weak I am right now, my athletic ability isn't so low that I'd be caught by you."
+text .... I see.
+text Come to think of it, I can't catch agile animals.
+text That means I can't touch their bodies.
+text In other words, even if I can see its lines, I can't kill anything that moves.
+text "---Ow!"
+text I feel a stab of pain run through my head.
+text Looking at the lines gives me a headache, just like it did when I was a child.
+text I put on my glasses, and the world returns to normal.
+bgload BG_19D.jpg
+bgload BG_19D.jpg
+setimg ARK_T03.png 36 0
+text "......"
+text Arcueid is staring intently at me.
+text ".... What?
+text Is there something else?"
+text "No, that's not it.
+text You can't see the lines if you put those glasses on?"
+text "Yeah.
+text I got them from someone a long time ago, when my eyes first became like this.
+text I'm only using the lenses now, but thanks to them, I can lead a normal life."
+bgload BG_19D.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, I see.
+text No matter how strong a mind you may have, your only choices when faced with death all the time would be to put out your eyes or go mad."
+text Saying that, Arcueid comes closer.
+text "Hey.
+text Can I take a look at them?"
+text "---No.
+text These are important to me.
+text I'm not handing them over to you."
+text "Come on, I'm not going to break them.
+text I'm just going to look at them."
+bgload BG_19D.jpg
+text Arcueid creeps closer.
+text I get the feeling she wouldn't be adverse to getting them by force.
+text ~
+text .... It's suspicious.
+text There's something very suspicious about how she says "I'm not going to break them".
+text "---Not even just to look at.
+text I know about your ridiculous powers, after seeing you in that alley.
+text What would I do if you crushed them by accident?"
+bgload BG_19D.jpg
+setimg ARK_T16.png 36 0
+text "Hey!
+text What do you mean 'ridiculous powers'?
+text Let me tell you, in terms of non-fighting strength, you're stronger than I am.
+text I won't break things at random."
+text Saying that, Arcueid extends her hands as if she is about to take them by force.
+text ~
+text .... Her attitude is becoming more and more suspicious.
+bgload BG_19D.jpg
+text I bounce up off the bed to get away from her.
+bgload BG_19D.jpg
+setimg ARK_T06.png 36 0
+text "Hey, you're running away."
+text "Of course.
+text I'll tell you now; I'm not handing over these glasses.
+text Even if there's only a one in a million chance you'll break them, they're irreplaceable to me.
+text After all, you're the one who said I wouldn't be able to stay sane without these glasses.
+text Do you want me to go crazy?"
+bgload BG_19D.jpg
+setimg ARK_T03.png 36 0
+text "Huh?
+text N.. no, that's not it at all."
+text .... Arcueid is obviously trying not to look at me.
+bgload BG_19D.jpg
+text "---Come on, Arcueid.
+text I don't know what you're planning, but if I lose these glasses, I won't be in any position to help you.
+text If I were to see the lines 24 hours a day, I think I'd die from the headache before I'd go mad."
+jump s88.scr

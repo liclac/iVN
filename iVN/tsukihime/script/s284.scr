@@ -1,0 +1,574 @@
+bgload IMA_10.jpg
+bgload BG_40A.jpg
+music 02.mp3
+text @Day 10
+text ~
+text ~
+text "------!"
+text I wake up with a start and kick off my sheets, sitting up in bed.
+text ~
+text "Wha-----"
+text I wipe the sweat rolling down my face.
+text Maybe I saw a bad dream.
+text I am drenched in sweat.
+text I don't remember seeing a nightmare.
+text .... Was it because of that book I read?
+text I think I saw something a little bad, but I don't remember what it was.
+text .... Well, a famous doctor did say it is the nature of dreams to fade away, so I shouldn't try so hard to try to remember it.
+text ~
+text ---Knock-knock.
+text ~
+text A polite knock sounds.
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "--Good morning, Shiki-sama."
+text "Mm, morning."
+text I return her greeting and stand up.
+text Hisui places the uniform in her hand onto the desk and shuffles quietly back towards the door.
+text "Please head to the dining room once you are finished changing."
+text "Yeah.
+text Thanks as always."
+text After giving an affirmative answer, Hisui exits the room.
+bgload BG_40A.jpg
+text "........ Huh?"
+text After seeing her face I completely forgot what it was I was thinking about.
+text ".... Geez.
+text Was I always this forgetful?"
+text Tilting my head in curiosity over myself, I change into the uniform.
+text The knife is on my desk.
+text The knife from my adopted father that I have always been carrying in my pocket these past few days.
+text ~
+text ---I probably won't have to use that anymore.
+text ~
+text ".... That's right.
+text They're gone."
+text Arcueid, Ciel-senpai.
+text The horde of beasts called Nrvnqsr, and the vampire called Roa.
+text All of them are no longer here.
+text "Maybe what I forgot was something about that."
+text There isn't anything waiting for me at school.
+text Senpai is gone---so it probably won't be fun anymore.
+text But, that was how I lived my days up until now.
+text I only lost something that I gained recently.
+text Everything I had before then still remains.
+text -----*sigh*
+text If I think about it that way, I can manage without Senpai.
+text I could never forget her, but I could manage.
+text Fooling myself with that, I open the door.
+text ~
+text Then,
+text let's go to school like I've always been doing---
+bgload IMA_10.jpg
+music ~
+bgload BG_01A.jpg
+text It's seven-fifty.
+text The gate at the front of the school is crowded with students.
+text Since it's Saturday, there are bright faces everywhere.
+text ~
+text "............"
+text I wade through the sea of sunny faces as a cloud of gloom.
+text No matter what I tell myself, the fact that Senpai is gone weighs heavily on my----
+text "------Eh?"
+text I can't believe my eyes for a moment, but there's no doubt.
+text Ciel-senpai is walking towards the school.
+text "Se, Senpai---!?"
+text I shout her name without even thinking and she turns towards me.
+bgload BG_01A.jpg
+setimg CEL_T01A.png 52 0
+text "Oh, Tohno-kun.
+text Good morning."
+text She gives me a bow.
+text "Good morning?
+text Didn't you go back....!?"
+bgload BG_01A.jpg
+setimg CEL_T03.png 52 0
+text "No.
+text I would never go back leaving you here."
+text She speaks with a brilliant smile.
+text ~
+text Never go back leaving me here?
+text ~
+text Even though there are students all around me, I feel myself blush furiously.
+text "----Um, that is...."
+bgload BG_01A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes, what is it?"
+text "Can I, take those words, for what they sound like?"
+bgload BG_01A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, I leave it up to your imagination, Tohno-kun."
+text She nods and gives a radiant smile.
+text "--------!"
+text I can't breathe.
+text Not because of the pained tension I had felt up until now, but because of the burning happiness that now wells up inside of me.
+text If no one was around, I'd shout out "Alright!" at the top of my lungs.
+text "Senpai!"
+text I grab her hand.
+text "So, you mean you won't go anywhere, right!?
+text You'll stay here at school forever, right!?"
+bgload BG_01A.jpg
+setimg CEL_T08.png 52 0
+text "Um, if I stay at school forever, I'll become an old lady.
+text I am a third-year student, so I have four months left until graduation."
+text "But, you'll stay here, right?
+text You won't leave like you said yesterday, right?"
+bgload BG_01A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes.
+text I'll stay till the end now."
+text "Alright--!"
+text I let go of her and manage to stop myself.
+text I want to run around the ground for many laps.
+text As if I won a lottery, I'm feeling really high.
+bgload BG_01A.jpg
+setimg CEL_T07A.png 52 0
+text No, this feels far, far greater than that.
+text I feel like laughing out loud.
+text I can't even bear to just stand here and do nothing.
+bgload BG_01A.jpg
+setimg CEL_T05.png 52 0
+text "Tohno-kun, you should hurry or you will be late."
+text "----Oh.
+text That's right.
+text Later Senpai!
+text See you at break!"
+bgload BG_01A.jpg
+text aacing a hand to Senpai, I go towards the school building.
+text Smiling to myself, I run as fast as I can to class.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text ~
+text ----First period is over.
+text I have ten minutes until next class.
+text "---Alright."
+text The instant I raise myself to go look for Senpai's classroom,
+bgload BG_06A.jpg
+setimg CEL_T03.png 52 0
+text "Huh?
+text Where are you going, Tohno-kun?"
+text ---Senpai comes here ahead of me.
+text "Ah, nowhere, I was going to see you.
+text I always wait for you, so I thought I'd go see you this time."
+bgload BG_06A.jpg
+setimg CEL_T02.png 52 0
+text "I see.
+text That makes me very happy, but you don't know my class, right Tohno-kun?
+text It's third year class B, please remember it."
+text "Oh really---so you really do take classes.
+text Well-done, well-done.
+text I see you do more than just drink tea in the tea ceremony room."
+bgload BG_06A.jpg
+setimg CEL_T04.png 52 0
+text "Yes, I do manage to follow classes--"
+bgload BG_06A.jpg
+setimg CEL_T10A.png 52 0
+text "Hey, wait a minute Tohno-kun!
+text You think I'm really like that!?"
+text "--Uh."
+text I can't really deny that.
+text "Ah, sorry.
+text But Senpai, you said there were no members of the tea ceremony club, but I thought that it might have never existed in the first place."
+bgload BG_06A.jpg
+setimg CEL_T05.png 52 0
+text Senpai stands there and grows quiet.
+text ".... Huh?
+text Don't tell me there really wasn't?
+text It's just an unused Japanese-style room?"
+bgload BG_06A.jpg
+setimg CEL_T12.png 52 0
+text "---Hmm.
+text It seems like I do not understand what you're talking about."
+text Ciel-senpai turns her gaze out the window and stares blankly.
+text ".... No, that's fine.
+text No matter what you've done, you're not a bad person.
+text So I don't think you'll cause anyone trouble, but can your power of suggestion do such a thing?"
+text "I already told you, I don't know what you mean, so I can't answer that."
+text "-----"
+text Still in my seat, I stare up at Ciel-senpai.
+text ~
+text The silence lasts for about a minute.
+bgload BG_06A.jpg
+setimg CEL_T09.png 52 0
+text ".... You're pretty persistent, Tohno-kun."
+text "Not really, I was just thinking how blue your eyes were."
+text "........"
+text Ciel-senpai gives a sigh as if admitting defeat.
+bgload BG_06A.jpg
+setimg CEL_T08.png 52 0
+text "I said it already, but the power of suggestion isn't that convenient.
+text Suggestion isn't so much able to change your perceptions of things as it is more like making you look away.
+text So even if I told you that you really liked curry when you hate it, it would not work."
+text ".... Really?
+text So you can't make someone do what they don't want to?"
+text "Yes.
+text Well, there's still many ways to make you eat curry, Tohno-kun.
+text For example, I wouldn't tell you that you really like curry.
+text Instead, I could tell you that you would die if you didn't eat curry--"
+text "I get it, I would eat it even if I hate it.
+text .... I see, then you can do anything with that."
+bgload BG_06A.jpg
+setimg CEL_T03.png 52 0
+text "No, it is really difficult to set the stage for such a thing as the resistance would be great.
+text There are many people that are difficult to forcibly use suggestion against, so all I can do is to suggest something like, 'Do not doubt what I say.'"
+text .... Yeah, Arcueid said something like that too.
+text "---I see.
+text By the way, Senpai."
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "Yes?
+text What is it?"
+text "Yeah.
+text Senpai, you really love curry, don't you?"
+bgload BG_06A.jpg
+setimg CEL_T05.png 52 0
+text ~
+text Ciel-senpai just smiles and does not answer.
+text Her slight expression makes it impossible for me to see if she is denying it or affirming it.
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "Well, it is about time.
+text I'll see you again after classes are over, but is your body okay, Tohno-kun?
+text Your arms are working fine?"
+text "Yeah, it doesn't even hurt anymore.
+text I can come to school thanks to you."
+text I bring my hands together and give her a bow of thanks.
+text "I see, then how is your headache?
+text It seemed like it really hurt yesterday."
+text "My head is okay too.
+text Besides, if I have my glasses on, there's no problem."
+text "I see.
+text Hearing that makes me feel much better."
+bgload BG_06A.jpg
+text Ciel-senpai heads towards the hallway.
+text She suddenly stops as if she forgot something and turns around.
+bgload BG_06A.jpg
+setimg CEL_T07A.png 52 0
+text "I forgot to ask.
+text Tohno-kun, are you feeling well?"
+text "---Yeah, I'm fine.
+text Thanks to you, all my troubles have disappeared."
+bgload BG_06A.jpg
+setimg CEL_T04.png 52 0
+text "That's good.
+text If anything strange happens, then please do not hesitate to tell me.
+text Here's my phone number."
+text "-----Eh?"
+bgload BG_06A.jpg
+text She hands me a slip of paper with her phone number on it and quickly leaves the classroom.
+text ~
+text ".... Her.... phone number?"
+text I stare down at the paper in surprise.
+text I'm sure she told me this because she's really worried about last night, but....
+text ".... This is lucky, but is it good that things are going this smoothly?"
+text .... It's pitiful if I say so myself.
+text Maybe it's because I'm a small town person by nature, but I can't honestly be happy about my good fortune like this.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text After homeroom is over, the classroom suddenly erupts into its usual chaos.
+text It's not quite noon yet.
+text It's always like this after Saturday class.
+text The students rushing back home or eating in the classroom before they go to their club activities mix together and create chaos.
+text ~
+text Standing up from my seat, I prepare my things while waiting for Senpai.... and then,
+text I'm not sure when he even came to school, but Arihiko appears with a suspicious smile on his face.
+bgload BG_06A.jpg
+setimg ARI_T05.png 40 0
+text "Let's go play, Tohno."
+text .... Without anything else, he tells me what he wants to do.
+text ".... You seem pretty direct today.
+text Did something bad happen to you?"
+text "Oh, nothing.
+text I just wanted to hang out with my good friend for no reason."
+text ~
+text .... It's all too suspicious.
+text "No way.
+text I bet you were laid off by someone or something like that.
+text I'm going home with Senpai today, so I don't have time to spare for you."
+text "Senpai?
+text You mean Ciel-senpai?"
+text His eyebrows lift in surprise.
+text ~
+text ".... Yes, but.... Arihiko, you remember about Senpai....!?"
+text "Whatd'ya mean?
+text She's who I'm after, how could I forget her?"
+text Arihiko makes his proclamation as if it was the most natural thing in the world.
+bgload BG_06A.jpg
+text "............"
+text I see.
+text Since Ciel-senpai came back to school, everything is back the way it was.
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+text "Oh, it's Senpai!"
+text Arihiko points happily to the door.
+bgload BG_06A.jpg
+setimg CEL_T01A.png 116 0
+text "Thanks for waiting.
+text Good afternoon, Inui-kun."
+text Ciel gives a succinct bow.
+text "Shall we go back now?
+text Or maybe go to the tea ceremony room?"
+text "Let's do that.
+text If we leave now, we have to part at the gate.
+text I want to talk to you some more, so while we have tea, we can---"
+text "----!?"
+text Someone punches me unexpectedly from behind---
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+setimg CEL_T01A.png 116 0
+text "Hey."
+text "............ It's you, Arihiko?"
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T01A.png 116 0
+text "Yeah, it's me.
+text I'm not one to open my mouth about these things very often, but since that was too much back then, I'll tell you."
+text Arihiko looks at me and Senpai with sad eyes.
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T12.png 116 0
+text "?"
+text Ciel-senpai and I look at each other.
+text "Um, you two.
+text It is a Saturday, so why do you use it like that?
+text There are far more fun places to go to than the tea ceremony room!"
+text With a greatly exaggerated movement, he points out the window.
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T01A.png 116 0
+text ".... Um, where?"
+text "Outside the window.
+text Well, I think he's talking about outside."
+text I answer Ciel-senpai's question.
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+text ~
+text And then,
+text Arihiko whacks me again.
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+text "Tohno, are you really trying to make a fool of Senpai!?
+text Look, it's Saturday.
+text It's still before noon.
+text And we're students!
+text So why can't you come up with an idea such as going into town with all these conditions!?"
+text "----Mph."
+text ~
+text Idiot.
+text I've thought about that already.
+text I did, but---
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+setimg CEL_T01A.png 116 0
+text "?"
+text I steal a glance at Ciel-senpai.
+text I get the feeling that rather than roaming rowdily around the city, she would feel more at ease just sitting quietly in a park or something, so I can't ask her that.
+text If I did ask her to go hang out in town, I think she would probably say no---
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+setimg CEL_T04.png 116 0
+text "I see.
+text Then shall the three of us have fun?"
+text "...... Senpai?"
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+setimg CEL_T03.png 116 0
+text "Isn't it alright?
+text I don't have to worry about anything anymore, and I bet it'll be fun to go with the three of us."
+text "Ah---yeah, if you want to, then I'd be happy."
+bgload BG_06A.jpg
+setimg ARI_T04.png -24 0
+setimg CEL_T04.png 116 0
+text "Yes.
+text Inui-kun, you're okay with this too, right?"
+text "-------"
+text He simply nods up and down.
+text .... I bet he didn't expect things to turn out this way.
+bgload BG_06A.jpg
+setimg CEL_T04.png 116 0
+bgload BG_06A.jpg
+setimg CEL_T01A.png 116 0
+text "Then it's decided.
+text Um, what shall we do for lunch?
+text Shall we eat at our houses or the three of us together?"
+text "Hm, we always eat at school, so let's put the money for lunch to play.
+text Me and Arihiko are pretty poor, right?"
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T01A.png 116 0
+text ".... Uh.... I, could maybe borrow some money from my sister."
+text ~
+text .... It seems Arihiko really wants to go out and eat with Ciel-senpai.
+text "---How about Senpai?
+text Is there some place you want to eat?"
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T11.png 116 0
+text "No, I don't.... usually eat in front of others.."
+text "I see.
+text You eat more than normal, so I bet it'll be expensive."
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T10D.png 116 0
+text "Th, that's not it!
+text What are you saying, Tohno-kun!?"
+text ~
+text .... I just recalled the data I collected during our lunches in the tea ceremony room until now, and just gave a personal opinion.
+bgload BG_06A.jpg
+setimg ARI_T03.png -24 0
+setimg CEL_T12.png 116 0
+text "I agree with Inui-kun.
+text Let us all go out to eat.
+text There is a place by the movie theater called Ahnenerbe that I heard has great strawberry pie."
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+setimg CEL_T12.png 116 0
+text "Oh, you know your places, Senpai!
+text The owner of that cafe is a master of Italian cooking!"
+text ~
+text .... Why does Arihiko know so many rumors and useless information?
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+setimg CEL_T10A.png 116 0
+text "Then let's meet in front of the movie theater in half an hour.
+text Is that alright, Tohno-kun?"
+text "---Um.
+text You know it takes half an hour to get to my house, Senpai."
+bgload BG_06A.jpg
+setimg ARI_T02.png -24 0
+text Senpai already starts to disappear down the hallway.
+text "Yeah, be late, Tohno.
+text If you want to, I wouldn't care if you didn't come till tomorrow!"
+bgload BG_06A.jpg
+text Arihiko stands up and dashes out of the classroom.
+text .... This all worked out rather strangely.
+text ".... Oh well."
+text I still get to hang out with Ciel-senpai.
+text Bag in hand, I also rush back to my place.
+bgload IMA_10.jpg
+music ~
+bgload BG_33A.jpg
+bgload BG_33A.jpg
+setimg KOHA_T02.png 52 0
+text "Oh?
+text Shiki-san, you're back early today, aren't you?"
+text "Yeah, I'm back Kohaku-san.
+text I'm in a hurry, so see you later!"
+bgload BG_46A.jpg
+bgload BG_46A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama?
+text You have returned?"
+text "I'll be leaving right away, so don't worry about lunch!"
+bgload BG_40A.jpg
+text "Alright, fifteen minutes!"
+text I set a new record from my school to back here.
+text Throwing my bag on my desk, I change out of my uniform.
+text After that, I fly out of my room again.
+bgload BG_46A.jpg
+text From the mansion to the main street is farther than the mansion to the school.
+text To be honest, it's not a distance I can make in fifteen minutes.
+text She knew I lived uphill, but she still made that impossible deadline.
+text ~
+text "---Damn, maybe she might be a bit mean."
+text I grumble as I shoot down the stairs.
+bgload IMA_10.jpg
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text -----Throb.
+text "------Eh."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text -----Throb.
+text Suddenly, without warning.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text -----Throb.
+bgload IMA_11B.jpg
+text Everything turns red.
+text "---Shiki-sama!?"
+text .... I can hear Hisui's voice.
+text I hear fast footsteps.
+text .... Hisui seems to be in a hurry more than usual.
+text "Shiki-sama, are you hurt!?"
+text I can hear her voice, but I can't see her.
+text ~
+sound SE_01.aac 1
+text -----Throb.
+text ~
+text I just have this headache.
+text "Calm down Hisui-chan.
+text Falling down the stairs just means a little bruises here and there, so there is no need to call a doctor.
+text But his body is very hot.
+text He may have fell down the stairs due to a fever, so please get his bed ready."
+text "I understand.
+text Nee-san, about Akiha-sama...."
+text "That's true, if it doesn't turn out to be a big deal, we don't have to tell her.
+text There is some medicine in my room, if you please."
+text ~
+text Hisui disappears with quick footsteps.
+text I----
+bgload IMA_11.jpg
+bgload BG_33A.jpg
+bgload BG_33A.jpg
+setimg KOHA_T03.png 52 0
+sound SE_02.aac -1
+text "Shiki-san, are you conscious?"
+text ".... Kohaku.... san?"
+text "Yes.
+text Shiki-san, you took quite a tumble down the stairs.
+text Fortunately you do not have any serious bruises, but you seem to have a fever.
+text You seem like you were going somewhere, but please just rest for today."
+text ~
+text Kohaku-san puts her hand on my shoulder and manages to make me stand up.
+text "Nah--I'm fine, I don't need to rest.
+text I ran all the way here, so I was just out of breath."
+bgload BG_33A.jpg
+setimg KOHA_T04.png 52 0
+text "That won't do!
+text How can you say that with such a pale face, looking like you'll throw up?
+text I was told by your physician to monitor your health closely.
+text I can't let you take such risks."
+text "But, I made a promise---"
+text "If you want to tell them you can't make it, I can go tell them.
+text If you keep pushing yourself, I'll have to take out my syringes and give you shots."
+text ~
+text .... As if she wants to keep me here, she stands in front of me.
+bgload IMA_11B.jpg
+bgload BG_33A.jpg
+text ~
+text ---Throb.
+text ~
+text I have a headache.
+text I---
+sound ~
+text ~
+choice Kohaku-san is in the way.|It's like Kohaku-san says.
+if selected == 1
+    jump s285.scr
+fi
+if selected == 2
+    jump s286.scr
+fi

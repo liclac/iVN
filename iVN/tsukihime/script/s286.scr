@@ -1,0 +1,76 @@
+bgload BG_33A.jpg
+text ---Certainly, if I went to see Ciel-senpai with this headache, I'd just be a bother.
+text ~
+text ".... That's, right.... I haven't even had a chance to rest from last night.
+text I guess I pushed myself a little."
+bgload BG_33A.jpg
+setimg KOHA_T03.png -12 0
+text "Then please rest.
+text Shiki-san, can you walk by yourself?"
+bgload IMA_11B.jpg
+bgload BG_33A.jpg
+text "Ah---no."
+text It seems impossible right now.
+bgload BG_33A.jpg
+setimg KOHA_T02.png -12 0
+text "That's right, oh, Hisui-chan!
+text Carry Shiki-san to his room."
+bgload BG_33A.jpg
+setimg KOHA_T02.png -12 0
+setimg HIS_T07.png 126 0
+text "Eh---Nee-san, but---"
+bgload BG_33A.jpg
+setimg KOHA_T04.png -12 0
+setimg HIS_T07.png 126 0
+text "Hisui-chan!
+text Shiki-san is sick, are you just going to abandon him like that?"
+text "Ah----"
+text "I will allow it for today, so take him to his room."
+bgload BG_33A.jpg
+setimg KOHA_T04.png -12 0
+setimg HIS_T21.png 126 0
+text ".... Yes.
+text Sorry for saying such selfish words,"
+bgload BG_33A.jpg
+setimg KOHA_T01A.png -12 0
+setimg HIS_T21.png 126 0
+text "As long as you understand, it's fine.
+text Did you find the medicine?"
+bgload BG_33A.jpg
+setimg KOHA_T01A.png -12 0
+setimg HIS_T23.png 126 0
+text ".... Um, you had too many medicines, is this the fever medicine?"
+bgload BG_33A.jpg
+setimg KOHA_T05.png -12 0
+setimg HIS_T23.png 126 0
+text "Ahaha, that's used for something else.
+text Shiki-san is still conscious, so we don't need to use medicine that would stabilize him."
+bgload BG_33A.jpg
+setimg KOHA_T02.png -12 0
+setimg HIS_T23.png 126 0
+text "It seems his fever is from being too tired, so I'll make some medicine.
+text Hisui-chan, please take care of the rest."
+bgload BG_33A.jpg
+setimg HIS_T23.png 126 0
+text Kohaku-san swiftly disappears towards the west hall---where her room is.
+bgload BG_33A.jpg
+setimg HIS_T20.png 126 0
+text "Shiki-sama, I will take you to your room."
+text With an "excuse me", she lends me her shoulder.
+bgload BG_33A.jpg
+text ~
+text Thanks to Hisui's help, I manage to get up the stairs.
+text On the way, even more than my terribly throbbing headache, Hisui's incredibly embarrassed face burns into my memory.
+bgload IMA_10.jpg
+music 01.mp3
+bgload BG_40C.jpg
+text ~
+text ---In the end,
+text I lie down in bed, drink the medicine Kohaku-san made, and entrust her to pass on my message to Ciel-senpai who is waiting at the movie theater.
+text ~
+bgload IMA_11B.jpg
+bgload BG_40C.jpg
+text "........ Gah."
+text My headache doesn't stop.
+text As if in exchange, my body did seem to cool down.
+jump s287.scr

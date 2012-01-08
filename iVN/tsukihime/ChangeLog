@@ -1,0 +1,117 @@
+r21:
+    * s270.scr: removed choice
+
+r20:
+    * backgrounds png -> jpg
+    * sounds wav -> acc
+    * misc script issues
+
+r19:
+    * s292.scr: fixed jump
+    * s263.scr: fixed jump
+
+r18: 30/03/08
+    * s335.scr: fixed jump
+    * s336.scr: fixed jump
+    * s337.scr: fixed jump
+    * s338.scr: fixed jump
+    * s365.scr: fixed jump
+    * migration to .mp3 files
+
+r17: 29/03/08
+    * s107a.scr: added
+    * s282.scr: added choice
+    * end.png: resized
+    * fin.png: resized
+
+r16: 26/03/08 
+    * s390.scr: fixed bgload
+    * s402.scr: added spaces
+    * s406.scr: fixed jump
+    * s407.scr: fixed jump
+    * s233.scr: fixed jump
+    * s135.scr: added conditional jump (ciel`s path flag)
+    * s412.scr: added space
+
+r15: 25/03/08
+    * s66.scr: fixed conditional
+    * s67.scr: fixed conditional
+    * s90.scr: fixed conditional
+    * eclipse.scr: added
+    * s68.scr: added spaces
+    * s218.scr: added spaces
+    * s243.scr: added fi
+    * s290.scr: added fi
+    * s291.scr: added fi
+
+r14: 24/03/08
+    * s44.scr: typo with setvar
+    * s312a.scr: typo with jump
+    * s214.scr: added
+    * s314.scr: added
+    * s357.scr: added
+    * s523.scr: added
+    * s426.scr: added
+    * s404.scr: added
+    * s289.scr: added
+    * s282.scr: added
+    * s203.scr: added
+    * s92.scr: added
+
+r13: 24/03/08
+    * s234.scr: added
+    * s201.scr: added
+    * s36.scr: conditionals (far side now reachable)
+
+r12: 23/03/08
+    * s261.scr: conditional fix
+    * s262.scr: conditional fix
+    * s199.scr: stupid typo
+    * thumbnail.png: future use(select screen)
+
+r11: 22/03/08
+    * stop music after title screen
+    * s184.scr: fixed jump
+    * s186.scr: fixed crash
+    * s199.scr: fixed crash
+
+r10: 21/03/08
+    * s131.scr: fixed jump
+    * s132.scr: fixed jump
+
+r9: 21/03/08
+    * fancier alpha
+    * fixed jump in s193.scr
+    * fixed jump in s194.scr
+    * music on title screen
+
+r8: 21/03/08
+    * work with 1.1.1`s alpha support
+
+r7: 19/03/08
+    * conform to vnds 1.1.0 standards
+        * all music to imadpcm
+        * finally renamed the music
+
+r6: 17/03/08
+    * s163.scr: how did I forget to put in a script?
+
+r5: 16/03/08:
+    * s104.scr: forgot a fi
+    * s104.scr: split text over 2 lines to keep from crashing
+
+r4: 14/03/08:
+    * moved to new method of global saves
+
+sound: 12/03/08:
+    * moved all sfx back a number
+    * also converted to raw imadpcm
+
+r3:
+    * fixed global.sav (Twice!)
+
+r2:
+    * Cleaned up character images
+
+r1
+    * Initial Release

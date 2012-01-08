@@ -1,0 +1,154 @@
+if flgE >= 1
+    jump s244.scr
+fi
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text At lunch break, that guy who didn't even show up for a single class arrives.
+bgload BG_06A.jpg
+setimg ARI_T05.png 40 0
+text "Yo Tohno!
+text Food, let's get some food!"
+text He's happy about something, being even more energetic than usual.
+text "Of course, food.
+text But you seem to be in a great mood.
+text Did something happen, Arihiko?"
+text "Yup.
+text I just asked Senpai if she wanted to eat lunch together, and she refused."
+text "............"
+text That's odd.
+text "Senpai" must be referring to Ciel-senpai, but this guy seems to get happy when his offer is refused.
+text "Hey, Arihiko, you have that sort of taste?"
+bgload BG_06A.jpg
+setimg ARI_T02.png 40 0
+text "No, no, I'm not finished.
+text So I asked Senpai why not, and she said 'If Tohno-kun is there, then I don't want to come'!!
+text Uwahahahahahahahaha!
+text Isn't that great, Tohno!?"
+text ".........."
+text That's odd.
+text Why have I been friends with this guy since middle school?
+text "Oh man, she really hates you Tohno!
+text A rival's loss is my gain, so I'll treat you to lunch today!"
+text Arihiko happily slaps my back.
+text ".... I see.
+text Senpai's still mad at me about this morning."
+text I have no idea why she's angry at me, but she definitely is angry.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Hey, let's go Tohno.
+text There's only seats enough for half the people using the cafeteria."
+text Arihiko takes me by the arm and drags me off.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text I sit next to Arihiko and eat my lunch.
+text My school's cafeteria has a television, and for better or worse for our education, they play back the morning news they recorded this morning.
+text ~
+text At any rate, the news they are playing back is talking about a drunk customer stabbing to death a convenience store employee, something that makes me not want to go to a convenience store for a few days at least.
+bgload BG_50.jpg
+setimg ARI_T01.png 40 0
+text "What a dangerous world we live in.
+text Indiscriminate serial killers, drunken people stabbing people.
+text A man can't even feel safe playing around at night anymore."
+text Arihiko seems like he is seriously watching the news.
+text ".... Well, certainly it is dangerous.
+text But at least those serial killings won't happen anymore, so things should be like usual."
+text "Oh really?
+text Did they catch the serial killer?"
+text "No, they haven't caught him.."
+text ~
+text ---But Nrvnqsr is no longer in this world.
+text So the stupid title of the modern day vampire killings shouldn't be showing up in the news anymore and there will be no more of those meaningless killings.
+text "Anyway, those terrible incidents won't happen anymore.
+text There won't be any more victims, and the streets will be back to normal."
+bgload BG_50.jpg
+setimg ARI_T04.png 40 0
+text "No----I think there'll actually be another victim, Tohno."
+text "----What?
+text How can you be so sure, Arihiko?"
+text "Well look for yourself.
+text The news says they've found the tenth dead body."
+text ~
+text -----Eh?
+text ~
+text "Aw really.... that's right behind the movie theater I always go to."
+text "Hey----hey, wait."
+text I push Arihiko and look at the TV.
+text What I see is without a doubt,
+text the news reporting that the tenth victim of the serial killings was found last night.
+music ~
+text "That----can't be."
+text He, Nrvnqsr, is dead.
+text So why----is there another dead body with most of its blood drained?
+bgload BG_50.jpg
+setimg ARI_T01.png 40 0
+text "Hmm, this modern vampire guy.
+text I don't know anything about the person, but if it's like a sexy chick, I maybe wouldn't mind getting my blood sucked."
+text "------"
+text ~
+text If it's like a sexy chick, he maybe wouldn't mind getting his blood sucked?
+text ~
+text His stupid talk----might be right.
+text ~
+text "----No way."
+text I don't want to think about it, but..
+text Even with Nrvnqsr gone, there's still one more vampire left, Shiki----
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text Classes end and school is over.
+text Actually, it's more like at some point, school was over.
+text Wrapped up in my bad thoughts, I look up and suddenly find myself alone.
+text "----The serial killings are still happening."
+text I don't know what that means.
+text The only one who knows the answer is probably Arcueid.
+text ~
+text I don't know.
+text I'm not involved in any of those incidents anymore.
+text Once I settled things with Nrvnqsr, I came back to the ordinary world.
+text Then----I can only be insane to want to go back to that abnormal world once again.
+text "I shouldn't----be involved."
+text ~
+text I understand even if I don't say it.
+text That's probably my second most correct choice.
+text But a long, long time ago, someone taught me the most correct choice.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Listen, Shiki.
+text Every person's life is filled with pitfalls.
+text You have more power to do something about it than most people, so you've got to get it together----
+text "----"
+text So I just can't pretend I didn't see it.
+text This incident isn't over yet.
+text It seems once I got involved in this incident, I have to see this out to the very end--
+bgload IMA_10.jpg
+bgload BG_24A.jpg
+text I leave school.
+text First, let's go to Arcueid's place.
+text ~
+bgload BG_23A.jpg
+bgload BG_12A.jpg
+bgload BG_13A.jpg
+bgload BG_14A.jpg
+bgload BG_15C.jpg
+bgload BG_12A.jpg
+text Her room is still the same, but Arcueid isn't there.
+text .... Well, I didn't think I'd find her this easy.
+text Looks like I have to go out into the city and look for her.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text The sun sinks and the city is really starting to get dark.
+text I looked around the major places in the city, but I didn't even catch a glimpse of her.
+text "----Damn it.
+text She was around when it didn't matter, so why can't I find her when I do need her?"
+text .... What should I do?
+text The night is just beginning, so---
+text ~
+choice Search for Arcueid aimlessly.|Return to the mansion.
+if selected == 1
+    jump s138.scr
+fi
+if selected == 2
+    jump s136.scr
+fi

@@ -1,0 +1,202 @@
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARI_T05.png -24 0
+text "Here ya go, lunch for three people.. huh?
+text What, am I interrupting something?"
+bgload BG_04.jpg
+setimg ARI_T05.png -24 0
+setimg AKI_T01A.png 104 0
+text "No, nothing of the sort, Senpai.
+bgload BG_04.jpg
+setimg ARI_T05.png -24 0
+setimg AKI_T04A.png 104 0
+text You are a friend of Nii-san?
+text I am Tohno Shiki's younger sister, Akiha.
+text It is a pleasure to meet you."
+text Akiha bows softly.
+bgload BG_04.jpg
+setimg ARI_T01.png -24 0
+setimg AKI_T04A.png 104 0
+text "Not at all, the pleasure's mine.
+text I'm Inui Arihiko, I've known Tohno since junior high, but today was the first time I've found out about you, Akiha-chan."
+text .... Maybe he's still holding a grudge against me for not telling him about her, as he says things he doesn't have to.
+text "Alright, Arihiko, let's eat.
+text Lunch break is short, so there's no time for chit-chat with Akiha."
+bgload BG_04.jpg
+setimg ARI_T01.png -24 0
+setimg AKI_T02.png 104 0
+text I ignore Akiha glaring at me, and I accept the lunch from Arihiko.
+text "Here, Akiha.
+text Here's curry bread and milk, and you can eat them here.
+text There isn't much time, so you can't take too long over them."
+bgload BG_04.jpg
+setimg ARI_T01.png -24 0
+setimg AKI_T21.png 104 0
+text "I know that.
+text I'm not a child, so you don't have to explain every little thing to me."
+bgload BG_04.jpg
+setimg ARI_T03.png -24 0
+setimg AKI_T21.png 104 0
+text "That's right, Tohno.
+text Aren't you a bit mean to Akiha-chan?"
+text Arihiko boos at me.
+text "........"
+text Ignoring them, I open my own bread, and stick the straw into my milk.
+bgload BG_04.jpg
+text Munch.
+text Munch munch.
+text Munch munch munch.
+text ~
+text "-----"
+text Right.
+text Lunch is over, so it's time to go back to class.
+bgload BG_04.jpg
+setimg AKI_T13A.png 40 0
+text ".... Ah, Nii-san."
+text Akiha speaks up timidly.
+text Looking over, I see that she hasn't even opened her curry bread yet.
+text "What is it, Akiha?
+text You're not hungry?"
+text "It's.. well, it's not that, it's just.."
+text She glances upward, like she's embarrassed or something.
+text ~
+text ".... Could you.. teach me how to eat these..?"
+text ~
+text "...."
+text She glances hesitantly towards me.
+text And.. what am I supposed to say?
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARI_T01.png 40 0
+text "Waddya mean, how to eat them?
+text You just break open the wrapper and eat it.
+text It's not hard, is it Tohno?"
+text "Arihiko, sorry, but could you go get a napkin from the cafeteria?"
+text ".... Eh, me?"
+text I nod silently.
+bgload BG_04.jpg
+setimg ARI_T03.png 40 0
+text "Fine, but you'll owe me one."
+bgload BG_04.jpg
+text Arihiko runs off towards the school building again.
+text "Alright, give it to me.
+text You open the bag here, like this.
+text And you just bite into it.. it's okay, but don't expect too much for the taste.
+text Kohaku-san's cooking and this are like heaven and earth."
+bgload BG_04.jpg
+setimg AKI_T12A.png 40 0
+text "Ahh.. really, Nii-san?"
+text "I'm not kidding.
+text Or what are you going to say?
+text Don't tell me that even though you've transferred to our school, you can't eat our food.
+text I don't want to think less of you."
+bgload BG_04.jpg
+setimg AKI_T17A.png 40 0
+text "No, it's not that, it's just.. this bread, it's so big, I don't think I could get it into my mouth.."
+text ".... No one said you have to eat it all in one bite.
+text It's bread, so you bite off a bit at a time.
+text You'll get crumbs round your mouth, but Arihiko's bringing you a napkin to wipe it, okay?"
+bgload BG_04.jpg
+setimg AKI_T12A.png 40 0
+text ".... Yes.
+text Thank you, Nii-san."
+bgload BG_04.jpg
+text Saying so, Akiha starts to bite into the curry bread.
+text .... I don't think there ever was a girl getting this nervous to start eating curry bread.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text It's a few minutes after Akiha finished her lunch.
+text Arihiko's appearance doesn't seem to bother her, as they are engaged in pleasant conversation.
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+text "So Inui-san, you have been a friend of Nii-san's since junior high school?"
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T01.png 104 0
+text "Yeah, I've known him for about five years now.
+text He's been a bothersome guy since the moment we met.
+text I helped him out with all kinds of stuff, and before I knew it, he kind of grew on me."
+text ".... Arihiko, that's the wrong word.
+text You should call it extortion."
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T02.png 104 0
+text "Ahh, whatever you wanna call it, we're stuck with each other!"
+text Arihiko laughs.
+text "Yeah.
+text Kind of like how stuff sticks to the bottom of your shoe.
+text I guess we both give each other a lot of trouble."
+text I return Arihiko's laugh cynically.
+bgload BG_04.jpg
+setimg AKI_T13A.png -24 0
+setimg ARI_T02.png 104 0
+text "............"
+text .... Somehow, Akiha seems to be having trouble stomaching Arihiko and myself.
+bgload BG_04.jpg
+setimg AKI_T13A.png -24 0
+setimg ARI_T01.png 104 0
+text "Oh, by the way Akiha-chan, can I ask you something?"
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T01.png 104 0
+text "Certainly, if it is something I can answer."
+text "Well, I've been wondering for a while.. Tohno has chronic anemia, right?
+text Was he always like this?"
+text .... The amazing thing about Arihiko is how he is so straightforward when asking awkward questions like this.
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg ARI_T01.png 104 0
+text "Yes, Nii-san has been anemic since birth.
+text But all the people of the Tohno family have similar problems; his is not a special case."
+text "Eh..?
+text Really, Akiha?"
+text "Yes.
+text Father suffered from manic depression.
+text Divergent Identity Disorder, to give it its full title."
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg ARI_T03.png 104 0
+text "Wha?
+text Divergent Identity..?"
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T03.png 104 0
+text "More commonly called split personalities.
+text Though, Father's wasn't severe enough to cause muddiness of memory."
+bgload BG_04.jpg
+text ~
+text ----I didn't know.
+text ~
+text But looking back on it, Tohno Makihisa's character did seem to switch often from tenderness to brutality.
+text "Hmm.. so, it was a medical condition, that old man.."
+text Looking at it like that, everything becomes clear.
+text Before the accident, I always felt father was a tender man, who kept his distance.
+text But after the accident, Makihisa clearly hated me.
+text Looking back, it may have been because of his condition.
+sound SE_03.aac 1
+bgload BG_04.jpg
+setimg ARI_T03.png -24 0
+text "Argh!
+text Lunch break's over, Tohno!"
+text "Don't complain to me about it.
+text C'mon Akiha, you should hurry back to your classroom.
+text It'll be embarrassing to be late on your first day at school."
+bgload BG_04.jpg
+setimg ARI_T03.png -24 0
+setimg AKI_T09.png 104 0
+text "I understand.
+text Take care, Nii-san."
+bgload BG_04.jpg
+text As the bell resounds, we return to our classrooms.
+bgload IMA_10.jpg
+bgload BG_06B.jpg
+text A day full of ups and downs finishes.
+text What should I do now---
+text ~
+choice Go home alone.|Go to Akiha's classroom.
+if selected == 1
+    jump s331.scr
+fi
+if selected == 2
+    jump s330.scr
+fi

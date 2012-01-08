@@ -1,0 +1,24 @@
+bgload BG_06B.jpg
+music 09.mp3
+bgload BG_06B.jpg
+bgload BG_06B.jpg
+setimg CEL_T20.png 39 0
+text You have reached Kohaku's True Ending.
+text Well done.
+text There is only one ending for Kohaku-san.
+text If you have come this far, you should understand that Kohaku-san's story is the propman of "Tsukihime", the story to tie up all the remaining events.
+text Thank you so much for all your hard work.
+text After a long time, their stories have ended.
+text ------But, please wait.
+text ~
+text There is still one person remaining.
+text Yes, that is this story's main character.
+text His story is not over yet.
+text In the heavens is the cold, round moon.
+text But even that moon cannot be eternally the same.
+text ~
+text After the end of all stories,
+text the story of Tohno Shiki is waiting to be finished there-----
+bgload IMA_10.jpg
+music ~
+jump main.scr

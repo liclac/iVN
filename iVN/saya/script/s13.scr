@@ -1,0 +1,522 @@
+bgload 000000.jpg
+delay 120
+music music/s07.mp3
+sound 107.aac 1
+bgload bo08no0.jpg
+
+text ~
+text It has begun to snow by the time they pass Utsunomiya on the Tohoku Motorway.
+
+bgload bo01no0.jpg
+
+sound voice/27/000102.aac 1
+text "I hope the roads aren't covered in snow......"
+text ~
+text Sitting in the passenger seat, Fuminori is gazing out of the frosted window in silence. 
+text He's been in this trancelike state for almost an hour now.
+text ~
+text Taking advantage of his inattention, Kouji stares unabashedly at Fuminori from the corner of his eye.
+text He still doesn't understand the true meaning of the danger signals that he's been getting from Fuminori.
+text ~
+text Fuminori has stopped avoiding him, and he's even looking Kouji in the eye when he talks. 
+text So why does Fuminori seem even more distant now than he did when he was trying to push Kouji and the others away?
+text ~
+text Fuminori is noticeably relaxed as he stares off into space, but his gaze never wavers. 
+text It's as though he is focused on a single, definite future that he has chosen to bring about, one that has no place for the needs or wants of others.
+text ~
+text Right now, Fuminori is complete. 
+text Kouji can't help but feel that beneath his bland exterior is a core of solid steel that no one can touch.
+sound voice/27/000202.aac 1
+text "--About Oumi," Kouji says suddenly, as though trying to gauge Fuminori's reaction.
+text ~
+sound voice/27/000302.aac 1
+text "It's been a week since she disappeared, and we still haven't heard from her."
+sound voice/27/000400.aac 1
+text "I see," Fuminori replies curtly, still staring into the distance.
+sound voice/27/000500.aac 1
+text "I'm worried. What could've happened to her?"
+text "......"
+text ~
+text Fuminori's tone is completely emotionless, as though Kouji just asked him a question about the weather or the condition of the mountain roads near their destination.
+sound voice/27/000702.aac 1
+text "I asked you this before, but...... You don't have any idea what happened to her?"
+sound voice/27/000800.aac 1
+text "No, not at all," Fuminori answers in exactly the same way that he did when Kouji first questioned him following Oumi's disappearance.
+text ~
+sound voice/27/000902.aac 1
+text "......It's like you don't give a damn."
+sound voice/27/001000.aac 1
+text "That's not true."
+text ~
+text Finally Fuminori shows some emotion, looking as though he can't believe Kouji could think such a thing.
+sound voice/27/001100.aac 1
+text "She disappeared on the way to my house, didn't she? Of course I'm worried."
+
+bgload bo08no0.jpg
+
+text ~
+text Sudden frustration wells up inside Kouji. 
+text If possible, he'd like to beat Fuminori until he reveals everything that's going on inside that head of his.
+text Kouji and Oumi were lovers, and he's worried sick about her. 
+text To have his concern brushed off so coldly would be unbearable even coming from a complete stranger; but from Fuminori, who was his best friend, it's--
+text ~
+text Fuminori never used to be this callous.
+text Even if Kouji tried to interrogate him, he'd probably never find out what changed him so completely.
+text If Fuminori were still just hiding inside the shell he'd erected around himself after the accident, Kouji might have been able to get some answers out of him. 
+text With this sly, evasive Fuminori, however...... there's nothing Kouji can do. 
+text Fuminori will never reveal his true intentions - not to anyone.
+text All that's left, then, is for Kouji to discover the truth by himself.
+
+bgload bo01no0.jpg
+
+sound voice/27/001202.aac 1
+text "Oumi was going to talk to you about Tsukuba, you know."
+sound voice/27/001300.aac 1
+text "--Oh?"
+text ~
+text Fuminori smiles bitterly at the mention of Tsukuba's name, perhaps feeling sympathy for her pain. 
+text To Kouji, however, it seems as though he is coldly pitying some inferior creature.
+text ~
+sound voice/27/001400.aac 1
+text "About Tsukuba-san...... I wouldn't know what to say. To be honest, it's been hard to talk to her after what happened."
+sound voice/27/001502.aac 1
+text "......"
+text ~
+text Unbelievable.
+text If Fuminori's feelings for Yoh were really this ice cold, then he would have rejected her when she confessed to him. 
+text But he didn't - or, at least, the Fuminori before the accident didn't.
+text Once again, Kouji can't help but wonder if the man who looks like his friend is really a different person who only possesses the memories of Sakisaka Fuminori.
+
+bgload 000000.jpg
+sound 103_1.aac 1
+delay 60
+bgload bo08no1.jpg
+
+text ~
+text When they get off the West Nasu Flats Interchange, the snow that Kouji was worried about has stopped falling. 
+text This area must already be getting a lot of snow, however, as the nearby mountains are covered in white beneath the trees.
+
+bgload bo02tw0.jpg
+
+text ~
+text By the time they turn off the national highway and enter the mountains, road conditions are already bad enough for Kouji to regret having forgotten tire chains.
+text Nevertheless, he continues to power his Accord up the precarious slopes with only a road map for a guide.
+text In a place like this, an address alone isn't enough to pinpoint a location. 
+text The only choice is to drive down every road, including private roads that aren't even on the map, while searching for something that matches the photograph.
+text ~
+sound voice/27/001602.aac 1
+text "Is there really a vacation home in a place like this?"
+sound voice/27/001700.aac 1
+text "It's far from prying eyes. That must be why Professor Ougai chose this place."
+sound voice/27/001802.aac 1
+text "......"
+text ~
+text The more he hears about Ougai, the less Kouji wants to meet him.
+
+bgload 000000.jpg
+delay 60
+bgload bo03tw0.jpg
+
+text ~
+text Fuminori is the one who spots the narrow road half-hidden in the trees.
+text It's practically an animal trail, overgrown with weeds that are tall and strong enough to withstand the weight of the snow.
+sound voice/27/001902.aac 1
+text "Is this...... really a road?"
+text ~
+text Kouji stops the car and sticks his head out of the window to stare into the dark forest, but he can't see where the path leads through the tightly-packed trees.
+sound voice/27/002000.aac 1
+text "How does it look to you?"
+text ~
+text Fuminori hands Kouji the photo, which he compares to the mountain ridges visible beyond the trees.
+sound voice/27/002102.aac 1
+text "......Yeah, it's definitely the right angle."
+sound voice/27/002200.aac 1
+text "Let's check it out."
+text ~
+text Fuminori's tone is as flat as always, but there is a quiet intensity in his voice that leaves no room for argument.
+text ~
+text Kouji is worried that his car's suspension won't be able to handle the terrain, but there's no turning back now. 
+text Shifting into second gear, he drives down the frozen road.
+
+bgload 000000.jpg
+sound 103_3.aac 1
+music ~
+delay 60
+bgload bu01xx0.jpg
+
+text ~
+text The sun sets early at high altitudes.
+text As the car creeps up the mountain path, Kouji catches glimpses through the trees of the gradually darkening sky.
+text The forest is completely still, with no sound save for the rumble of the Accord's engine and the crackle of snow and brush being crushed beneath its tires. 
+text Fuminori is once again staring silently through the front window.
+text In the ominous silence, Kouji feels the same faint chill that he felt when standing before Ougai's suburban home. 
+text It feels wrong, as though some primal instinct is warning him that he is travelling deeper and deeper into another world.
+
+bgload 000000.jpg
+
+text ~
+text After some time, a blocky shape suddenly appears amid the trees, standing out against the twilight sky.
+
+sound 67c.aac 1
+bgload bf01no0.jpg
+
+sound voice/27/002302.aac 1
+text "......"
+
+sound 101_1.aac 1
+
+text ~
+text Kouji turns off the car and compares the structure in front of him to the picture in his hand - a perfect match.
+text Before he can tell Fuminori, however, his silent friend is already out of the car.
+sound voice/27/002402.aac 1
+text "Hey......"
+
+sound 117.aac 1
+bgload cg/29.jpg
+
+text ~
+text Realizing that it's pointless to call out to him, Kouji shakes his head, grabs the flashlight from the glove compartment, and follows Fuminori across the snow-covered front yard to the cabin.
+text ~
+text The photo must not have been taken recently, as the old, run-down cabin before them has clearly been left to the mercy of the elements for some time.
+ 
+sound 30_1.aac 1
+
+text ~
+text The front door appears to be locked, but Fuminori kicks it down without a second thought. 
+text Kouji just watches, knowing that nothing he could say now would matter.
+
+sound 29_1a.aac 1
+bgload 000000.jpg
+delay 80
+bgload bf03tw0.jpg
+
+text ~
+text All of the windows are shut with heavy curtains, throwing the inside of the cabin into thick gloom.
+text Fuminori turns on his own flashlight and starts rummaging through the cabin without regard for its owner's privacy.
+text Kouji is reluctant to do the same, but it's obvious that this mountain retreat has been abandoned for a long time, just like the house in Tokyo. 
+text Seeing no point in being considerate now, he goes to search a different room.
+
+music music/fumi02.mp3
+bgload bf04tw0.jpg
+
+text ~
+text Soon after entering the cabin, however, he realizes that their search is meaningless.
+text There's nothing inside but the bare necessities of life. Some rooms are even completely empty, save for a thick layer of dust covering the floor.
+text Of what few pieces of furniture are present, more than half appear to have never been used. 
+text There's an empty chest of drawers without a single scratch or handprint, but bearing the telltale signs of mold and moisture damage.
+text ~
+text The condition of the cabin is eerie, though in a different way than the filthiness of the house in the city. 
+text It's like someone put together a mockup of a home and then left it to decay.
+text The only signs that anyone lived here are found in the toilet, the bath, the kitchen...... and in the bedroom.
+text It appears that the cabin was never used for anything but eating and sleeping.
+
+bgload 000000.jpg
+delay 60
+bgload bf01tw0.jpg
+
+text ~
+text Beneath the darkened sky, the snow-covered land itself seems to be glowing with a cold, white light. 
+text The scene is like something out of a fairytale, but to Kouji it only serves as an unpleasant reminder that he has stepped outside of the reality that he knows.
+text Next to the front porch is a plain wooden door half buried in the ground. 
+text It's locked, of course, but Kouji sees no reason for restraint after what Fuminori did to the front door.
+sound 30_2.aac 1
+text ~
+text The door offers surprisingly little resistance to Kouji's heavy kick, breaking open easily to reveal a set of concrete stairs leading down into a pitch-black basement.
+
+bgload cg/26.jpg
+
+sound voice/27/002502.aac 1
+text "......"
+text ~
+text Kouji would prefer to leave searching such a suspicious place to Fuminori, but it's not like he can just ask him to do so.
+text With the beam of his flashlight leading the way, Kouji descends into the chilly darkness.
+
+sound 81.aac 1
+bgload 000000.jpg
+
+text ~
+text ......There turns out to be nothing in the basement but a storage room and a boiler, exactly what one would expect to find in an isolated mountain cabin.
+text The few packages of preserved food sitting on the shelves have long since passed their expiration dates, and the boiler doesn't appear to have been used in years.
+text To Kouji, Ougai's mountain home seems to have been abandoned longer than the house in Tokyo.
+
+bgload bf01tw0.jpg
+
+text ~
+text Was Fuminori simply mistaken when he said that Ougai might be here? Or...... was he lying from the beginning?
+text ~
+text Not sure what to do next, Kouji goes back up the stairs and walks around the outside of the cabin - and there he finds the backyard.
+
+bgload bf02tw0.jpg
+
+text ~
+text It's in much worse condition than the front yard, having already been mostly reclaimed by the forest. 
+text It must have been abandoned even when the cabin was still in use.
+text The remnants of a woodshed lie in the yard, the mushrooms growing on it speaking to how much time has passed since its collapse. 
+text Next to the rotten logs, however, stands a circle of stone that has not yet succumbed to the elements.
+text ~
+text A well.
+text ~
+text It has no bucket or pulley, of course, and when Kouji carefully approaches and looks into it, he sees that the water is no longer flowing. 
+text It's probably less than ten meters deep, depending on how much mud is piled up inside of it.
+text Kouji's search of the cabin has revealed nothing of interest, inside or out.
+text Leaning against the edge of the well, Kouji wonders why Ougai bought this remote home deep in the mountains, and what he was doing here.
+text As far as Kouji can tell, there's no sign that more than one person stayed here for any length of time.
+
+sound voice/27/002600.aac 1
+text "It's far from prying eyes--"
+
+text ~
+text Fuminori's words play back in Kouji's head. Could this have been some sort of secret refuge? 
+text Or could it have been used as a place to keep things hidden from the world?
+text If so, that would explain why there's nothing to suggest that whoever lived here did anything more than eat and sleep.
+text ~
+text Kouji suddenly remembers the doctor he met yesterday at T University. Maybe she'd know something.
+
+sound 57.aac 1
+
+text He takes out his phone and calls up the newly-stored number.
+text ~
+text There's barely a signal, but it manages to get through.
+
+bgload bt01xx0.jpg
+sound 59_2.aac 1
+
+text ~
+text Kouji's hopes are soon dashed, however, when his call goes straight to Dr. Tanbo's voice mail.
+text He considers calling back later, but realizes that it would be hard to talk to her with Fuminori around. 
+text Fuminori would not be at all pleased to find out that Kouji and Yoh went to see his doctor.
+text Kouji decides that he'd better tell the doctor what he can while he's still alone.
+sound ~
+sound voice/27/002702.aac 1
+text "Hello, this is Tonoh Kouji. Thank you for your help the other day......"
+text ~
+text Kouji leaves a clear and concise message, explaining that he was brought by Fuminori to Professor Ougai's mountain retreat, giving the address, and asking for confirmation that the property actually belongs to Ougai.
+sound voice/27/002802.aac 1
+text "......I'll call again when I get back to Tokyo. Goodbye."
+
+sound 57.aac 1
+bgload bf02tw0.jpg
+
+text ~
+text After hanging up, Kouji thinks back to their visit to the hospital. 
+text Is Dr. Tanbo actually investigating like she said she would? 
+text The secret about Professor Ougai that she adamantly refused to reveal is still weighing on his mind.
+text He talked to Yoh about it on the way home, but they were unable to decide whether the doctor could really be trusted.
+
+music ~
+
+text ~
+text --Speaking of which, how is Yoh doing? Kouji hasn't seen her today.
+text He didn't say a word to her about his trip to Tochigi. 
+text She might be worried, especially so soon after Oumi's disappearance.
+
+sound 56.aac 1
+
+text ~
+text Thinking to check up on her, Kouji dials Yoh's number...... and is surprised when it keeps ringing longer than it usually does.
+text Did she forget her phone somewhere?
+
+sound 61.aac 1
+
+text ~
+text Just as he's about to give up, the call connects.
+
+bgload bt01xx0.jpg
+sound yoh02.aac 1
+
+text ~
+text The first thing Kouji hears is a strange sound. 
+text It's not signal interference, but some kind of wet, distorted noise -- like the voiceless groans, or perhaps sobs, of someone far away.
+
+music music/s09.mp3
+
+sound voice/27/002905.aac 1
+text No, these really are sobs. Whoever is on the other side is crying in misery.
+sound voice/27/003002.aac 1
+text "T-Tsukuba? Is that you!?"
+sound voice/27/003105.aac 1
+text "......Who......?"
+text ~
+text There's a response, but is that really Tsukuba's voice? It's too twisted with agony for Kouji to tell.
+text ~
+text Panic surges through Kouji as he realizes that something is terribly wrong.
+sound voice/27/003202.aac 1
+text "It's Kouji, Tonoh Kouji! Tsukuba, is that you? Where are you!?"
+sound voice/27/002905.aac 1
+text ~
+text After a short period of nothing but pained moans, words start coming through the speaker one by one, as though each takes an act of will.
+sound voice/27/003305.aac 1
+text "......I was...... attacked...... by a monster...... and now......
+sound voice/27/003305_2.aac 1
+text there's...... something wrong...... with my...... body......"
+sound voice/27/003402.aac 1
+text "Wha...... What happened!? Hey, you alright!?"
+
+sound yoh02.aac 1
+
+text ~
+text Yoh must be delirious or something, because Kouji can't understand a thing that she's saying. 
+text Her gasps and wheezes, however, are enough to tell him that she's in unimaginable pain.
+sound voice/27/003505.aac 1
+text "I'm...... rotting away...... my skin...... is melting......
+sound voice/27/003505_2.aac 1
+text My...... ear just...... came off......"
+text ~
+text Unable to make any sense of this, Kouji feels despair seizing his heart in an iron grip.
+text ~
+text What the hell is happening to Yoh now, over a hundred kilometers away?
+text Only her voice gives Kouji any hint of what she's going through, and--there's nothing he can do for her.
+sound voice/27/003605.aac 1
+text "......Help me...... Tonoh-kun...... This.....
+sound voice/27/003605_2.aac 1
+text This isn't...... how my...... fingers...... are supposed...... to look......"
+sound voice/27/003702.aac 1
+text "Tsukuba, call the cops! Call for help!"
+sound voice/27/003805.aac 1
+text "......No...... I can't...... let anyone...... see me...... like this......"
+text ~
+text Yoh suddenly breaks off into a violent hacking cough, as though she's trying to expel something filling her throat.
+sound voice/27/003902.aac 1
+text "Tsukuba!!"
+
+bgload bf02tw0.jpg
+
+text ~
+text Kouji screams into the phone, his reason overwhelmed by the unimaginable horror that is befalling Yoh.
+
+sound 63.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bf02tw0.jpg
+
+text --Which is why he is unable to react quickly when the phone is suddenly knocked out of his hand, and also why he didn't notice Fuminori sneaking up on him until it was too late.
+sound voice/27/004002.aac 1
+text "Wha--"
+text ~
+text Fuminori seizes Kouji's lower jaw with his right hand, cutting off Kouji's angry shout. 
+text Kouji can hardly believe the strength of the smaller man's grip.
+text Kouji's biggest mistake was leaning back against the well. 
+text With Fuminori forcing him backwards over the edge, there is nothing Kouji can grab onto. 
+text He can only flail his arms vainly against the air.
+
+music ~
+bgload 000000.jpg
+
+text ~
+text Kouji soon loses his balance completely.
+
+bgload ffffff.jpg
+delay 30
+bgload 000000.jpg
+
+text ~
+text He feels a terrifying weightlessness as the world spins before his eyes.
+text Before he can realize that he's been pushed into the well, his back strikes something with tremendous force.
+
+sound 24_1.aac 1
+bgload ffffff.jpg
+delay 30
+bgload 000000.jpg
+
+text ~
+text He thrashes wildly as cold, dirty water fills his mouth and freezes him to the core. 
+text Only when his fingers find the wall of the well is he able to regain his sense of direction and right himself.
+
+music music/s01.mp3
+sound 24_2.aac 1
+bgload bf07no0.jpg
+
+text ~
+text On his hands and knees in the mud, Kouji vomits the filthy water out of his lungs.
+
+sound kouji02_1.aac 1
+
+text ~
+text Although the mud cushioned his fall, he has more important things to worry about than being properly thankful for his good luck.
+sound voice/27/004102.aac 1
+text "F-Fuminori--" he tries to shout, but it comes out as a hoarse groan made even harder to understand by the echoes bouncing off of the walls.
+sound voice/27/004200.aac 1
+text Fuminori's maniacal laughter on the other hand, is clearly audible even at the bottom of the well.
+text ~
+sound voice/27/004300.aac 1
+text "Sorry for interrupting your phone call," he says scornfully. "Here, I'll return this."
+text ~
+text Fuminori tosses Kouji's phone into the well. 
+text Kouji catches it just before it hits him in the face, but he finds that the battery pack has been removed, rendering it useless.
+sound voice/27/004402.aac 1
+text "What the hell are you doing!?"
+text ~
+text This is no joke. It's a miracle that Kouji is uninjured. 
+text If he'd landed the wrong way, he could easily have died.
+text Wait, just because I'm not hurt doesn't mean that-- 
+ 
+sound kouji02_2.aac 1
+
+text ~
+text Kouji feels around the inside of the well, searching for something to hold on to, but the mud-covered stone offers no purchase. 
+text It's obvious that he won't be able to get out without help.
+sound voice/27/004500.aac 1
+text "If you'd died on impact, you wouldn't have had to suffer. You really have no luck, Kouji."
+sound voice/27/004602.aac 1
+text "Hey...... are you--"
+text ~
+text Are you serious? Kouji was about to ask, but the pieces have finally come together in his head.
+text Today's sudden change in Fuminori's attitude - that smile that had always seemed somehow malevolent. 
+text Fuminori hadn't been smiling at Kouji, but at the thought of his friend's death.
+text ~
+sound voice/27/004702.aac 1
+text "......Why......?"
+text ~
+text Even though he recognizes what has happened, he can't understand it.
+text Why would Fuminori, who was supposed to be friend, try to kill him?
+text True, Fuminori had wanted Kouji to stay out of his business - but is that really a motive for murder?
+sound voice/27/004800.aac 1
+text "It's not that I needed you dead right now, exactly, but you could have become trouble later on.
+sound voice/27/004900.aac 1
+text So I figured that I might as well take advantage of this secluded place to, well......"
+
+bgload cg/30.jpg
+
+sound voice/27/005002.aac 1
+text "'Might as well'...... You're doing this on a whim!?"
+sound voice/27/005100.aac 1
+text "Do you really need a reason to die?" Fuminori replies coldly, as though he's truly amazed that Kouji would ask such a thing.
+text ~
+sound voice/27/005200.aac 1
+text "Do you think you're special, Kouji? People die for no reason at all, you know. My parents did, and I almost followed them."
+sound voice/27/005302.aac 1
+text "Y-you're crazy!"
+sound voice/27/005400.aac 1
+text "If you want a reason so badly, come up with one yourself. You'll have plenty of time down there, won't you?"
+
+bgload bf07no1.jpg
+
+text ~
+text Fuminori disappears from view, leaving Kouji alone in the darkness with nothing to connect him to the outside world.
+sound voice/27/005502.aac 1
+text "Fuminori! Hey! Fuminori!!"
+text ~
+text Kouji shouts at the top of his lungs, knowing beyond a doubt that, if Fuminori leaves, all hope of rescue will vanish with him. 
+text No one will ever hear him calling for help from the bottom of a mountain well.
+ 
+bgload cg/30.jpg
+
+sound voice/27/005602.aac 1
+text "It's Tsukuba! She's in trouble! Hey, Fuminori! Listen! Let me out of here!!"
+text ~
+text In his desperation, Kouji no longer comprehends the futility of begging Fuminori for mercy.
+text No god or devil will answer him - his only hope is that Fuminori will have a change of heart. 
+text As though praying for a miracle, he keeps calling Fuminori's name.
+
+bgload 000000.jpg
+delay 60
+bgload bf07tw1.jpg
+
+text ~
+text Eventually, the sky becomes as dark as the bottom of the well, making it impossible for Kouji to make out the edge of the opening. 
+text He has long since lost track of how many hours he has been screaming.
+text ~
+text Nevertheless, he continues to scream, for he knows that the despair silence will bring will kill him.
+
+music ~
+jump s14.scr

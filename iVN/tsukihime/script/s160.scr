@@ -1,0 +1,70 @@
+bgload BG_40C.jpg
+text "............"
+text .... I guess it can't be helped.
+text I'm afraid I'll make her cry if I keep going against her.
+text ".... Alright.
+text I'll go to sleep for today."
+text Saying that, I lie down.
+bgload BG_40C.jpg
+setimg AKI_T12B.png 40 0
+text "Really....?
+text You're not going to sneak out of the room later?"
+text "No, I get it.
+text To tell the truth, my body feels incredibly heavy.
+text I don't think I could sneak outside."
+bgload BG_40C.jpg
+setimg AKI_T04B.png 40 0
+text "----Thank goodness."
+text Akiha breathes out and relaxes visibly.
+text "Hisui, tell Kohaku that Nii-san is awake.
+text Nii-san, what about dinner?"
+text ".... Oh yeah.
+text No, tell Kohaku-san I'm sorry, but I don't think I can eat right now.
+text I'm just going to go to sleep."
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text ".... I understand.
+text Then Hisui, tell Kohaku that."
+text Still looking downcast, Hisui nods and leaves the room.
+text .... Now then.
+text Lying in bed, I start to feel sleepy again.
+text Like this, I bet I could fall asleep in less than a minute.
+text ~
+text ----But, before that,
+text ~
+text "Akiha.
+text There's a place like that in the garden?"
+bgload BG_40C.jpg
+setimg AKI_T12B.png 40 0
+text "Yes.
+text When we were children, we used to play there often."
+text "Oh.
+text For some reason, I don't remember it well."
+text .... Yeah.
+text I really did forget all about it.
+text "And one more thing.
+text .... It's a weird question, but when we were kids----wasn't there another kid with us?"
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "Huh?"
+text She tilts her head, like she doesn't understand what I'm saying.
+text .... I guess not.
+text There couldn't have been another kid.
+text But.. if that's true, how strange?
+text That scene I saw in my dream,
+text and the dream I saw in the clearing.
+text If these two are the same----
+text Then it doesn't make sense unless there's another kid that was killed....
+text "No, it's nothing.
+text Just talking about a dream."
+bgload BG_40C.jpg
+setimg AKI_T12B.png 40 0
+text "Is that so?
+text Then, good night, Nii-san.
+text Please rest well."
+text "Yeah, I'll do that."
+bgload IMA_10.jpg
+text As soon as I answer her,
+text I fall asleep as fast as if I had passed out again.
+music ~
+jump s162.scr

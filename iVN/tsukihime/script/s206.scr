@@ -1,0 +1,309 @@
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg KOHA_T02.png 116 0
+text "Akiha-sama?
+text It's almost time to leave; is this alright?"
+bgload BG_34A.jpg
+setimg AKI_T05A.png -24 0
+setimg KOHA_T02.png 116 0
+text ".... I know.
+text Sheesh, don't be so worried over stuff like this on the first day."
+text Muttering some complaints, Akiha stands up.
+bgload BG_34A.jpg
+setimg AKI_T01A.png -24 0
+setimg KOHA_T02.png 116 0
+text "Well, I must say goodbye.
+text Nii-san, you should apply yourself to your studies today."
+bgload BG_34A.jpg
+text Akiha leaves the sitting room.
+text Kohaku-san follows, seeing her off.
+text "Apply myself to my studies..?"
+text She's quite ceremonious about trivial things in an old fashioned kind of way.. I guess it's because she's been disciplined under our old man for the last eight years.
+text ".... Well, I'd have gone to school even if she hadn't said anything."
+text I scratch my cheek.
+text There was something about Akiha's face as she left.. because of it, I paid no attention at all to her various admonishings this morning.
+text "Of course---"
+text I clap my hands together.
+text For some reason, Akiha's face just then seemed to resemble her face from long ago---
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+text After eating the breakfast Kohaku-san prepared, I exit into the lobby.
+text Hisui was waiting there with my bag.
+bgload BG_33A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, have you enough time?"
+text "Yeah, it should only be twenty minutes to school if I run.
+text It's only seven-thirty, so I should be fine even if I take the long way."
+text Seeming satisfied with this answer, Hisui bows her head in assent.
+text "Then, allow me to see you out."
+text "Eh?
+text Ah, yeah.. thank you."
+text .... I still feel terribly awkward having my own servant.
+text "Oh, Shiki-san!
+text Please wait just a moment!"
+text With pattering footsteps, Kohaku-san runs down from the second floor.
+text "...."
+bgload BG_33A.jpg
+text Hisui steps back and falls silent as Kohaku-san approaches.
+bgload BG_33A.jpg
+setimg KOHA_T03.png 52 0
+text "Huh?
+text Weren't you with Akiha?"
+text "Lady Akiha goes to school by car.
+text Since I had something to give to you this morning, I stayed behind."
+text "Something to give me?"
+text "Yes.
+text This came from the Arima family yesterday."
+text Kohaku-san smiles.
+text "Eh?
+text But, I have all my luggage already.
+text The things I used while I was at the Arimas' house all belonged to them, so all I've got are my own clothes.."
+text "Really?
+text But this was sent here, nonetheless.."
+text Kohaku-san hands me a thin wooden box, perhaps twenty centimeters long.
+text It's not heavy at all.
+text ".... Kohaku-san, I've never seen this before."
+text "Well.. apparently it was left to you by your departed father.
+text It was to be given to you in the will."
+text ".... By my old man?"
+text .... I can't feel anything about that.
+text What's the old man who expelled me from this mansion eight years ago doing leaving me things?
+text "Oh well.
+text Kohaku-san, please take it to my room for me."
+bgload BG_33A.jpg
+setimg KOHA_T09.png 52 0
+text "-----"
+text Kohaku-san is staring intently at the wooden box.
+text She seems almost like a child who wants a toy.
+text ~
+text Staaaaaare.
+text ~
+text No, she is a child.
+text ".... I get it.
+text You want to know what's inside, right?"
+bgload BG_33A.jpg
+setimg KOHA_T01A.png 52 0
+text "Oh, not at all.
+text I merely wondered for a moment."
+text .... Like I said, you do wonder what's inside.
+text "Alright, let's open it.
+text One, two.. three!"
+text With a dry sound, the wooden box opens.
+text Inside, there is----a ten-centimeter bar of thin iron.
+text ".... It's.. an iron bar."
+text Undecorated and worn, it has finger marks all over it.
+text .... The old man must have really hated me to leave me a piece of junk like this.
+text "No, Shiki-san.
+text It's a fruit knife."
+text Kohaku-san takes the iron bar out of the box.
+text "See, isn't it one of those folding knifes?
+text One, two.. three!"
+text With the sound of sliding metal, a ten centimeter blade pops out from the bar.
+text .... I see, it certainly is a knife.
+text "It's old, but it seems pretty solid.
+text The year and the era it was made in is written on the back."
+text Kohaku-san replaces the blade, and hands over the knife.
+bgload BG_33A.jpg
+text Certainly, there's a number written on the grip.
+text The character "seven", and under it, the character "night".
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+text "Nee-san, there is no era by that name.
+text It just says 'Nanatsu-yoru'."
+text "Ah!"
+text I turn around in surprise.
+text Hisui, who had been silent until now, was looking at the knife over my shoulders.
+text "Y, you surprised me.. Hisui, you should say something.
+text You don't have to look over my shoulder like that, you know.
+text If you want to see it, I'll show it to you."
+bgload BG_33A.jpg
+setimg HIS_T02.png -2 0
+text "Ah----"
+text ~
+text Hisui's cheeks become faintly red.
+text "P-please excuse me.
+text Um---That knife was so beautiful that I could not help myself."
+text "Beautiful?
+text You really think it's beautiful?
+text It looks kind of beat up to me."
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+text "---Not at all.
+text The tempering of the blade is masterful.
+text I think it is a knife with its own proper history."
+text "Really?
+text It looks to me like a piece of junk.."
+text But since Hisui seems so convinced, I begin to feel the same thing.
+text .... Hmmm.
+text In its own way, I guess it's not such a bad inheritance.
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T02.png 116 0
+text "'Seven nights'..?
+text Maybe that's the name of this fruit knife?"
+text "Maybe.. though, I can't imagine him naming a knife like that."
+text Whatever the case may be, it's obvious that it's an antique.
+text "Well, in any case, I believe in taking what's given to me."
+text I replace the blade, and put the knife in my trouser pocket.
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+text "Shiki-sama, have you enough time..?"
+text "Ah!
+text I have to get going.
+text Well, Kohaku-san, thanks for the delivery."
+text Kohaku smiles and aaces me off.
+bgload IMA_10.jpg
+bgload BG_48A.jpg
+bgload BG_48A.jpg
+setimg HIS_T01.png 62 0
+text I come out to the gates.
+text Hisui follows in silence.
+text ".... Hisui.
+text You're seeing me off?"
+text Hisui nods wordlessly.
+text "Shiki-sama?
+text What time shall we expect your return?"
+text It seems Hisui will continue to use "-sama" to the bitter end.
+text Well, if I take time to argue it now, I'll be late for school.
+text I'll complain about the honorific later.
+text "Shiki-sama?"
+text "Ah, yeah.
+text Uh.. probably around four o'clock, I think.
+text I don't do any club activities."
+text When I don't hang out with Arihiko, I usually get back pretty early in the evening.
+text Hisui bows deeply at my random estimate.
+bgload BG_48A.jpg
+setimg HIS_T16.png 62 0
+text "I understand.
+text Please take care on the way."
+text .... I'm not sure what to take care about, but she's probably just worried about my health.
+text "Yeah, thanks.
+text You too, Hisui."
+text I return the goodwill with good intentions.
+text With an energetic aace of the hand at Hisui, I leave the gates of the mansion behind.
+bgload IMA_10.jpg
+bgload BG_22A.jpg
+text ~
+text ---I go down the hill.
+text Since I've attended school from the Arimas' house up until now, this is my first time taking this route.
+text "Not many from our school.."
+text Apparently, there are not many people from my school who live around here.
+text Half past seven in the morning.
+text I can't see anyone running along the streets in a school uniform except me.
+bgload IMA_10.jpg
+bgload BG_23A.jpg
+text Slowly, I begin to see some people in school uniforms intermingled with the crowd.
+text This is around where the road to school begins.
+text ~
+text ".... Where's Yumizuka-san..?
+text Well, I'm not going to be that lucky.."
+text I recall the smiling face of the classmate who departed here yesterday saying "my house is this way".
+text As I think of Yumizuka Satsuki in the classroom, my pace quickens a little, and I hurry towards the classroom.
+bgload IMA_10.jpg
+bgload BG_24A.jpg
+text I leave the residential area and reach the crossroads.
+text The gates will be closed in about ten minutes.
+text I start to run across the asphalt.
+text ~
+bgload IMA_10.jpg
+bgload BG_01A.jpg
+text ------I made it.
+text ~
+text It seems like it took twenty minutes rather than thirty from the mansion.
+text I'll need to leave around seven if I want to go slowly, since I ran several times on the way.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text "----?"
+text When I get to the classroom, I notice the air is buzzing.
+text Although the classroom in the morning is always noisy, there's something different about the noise today.
+text I walk to my desk by the window.
+text Arihiko is waiting there sullenly.
+text "Arihiko, did something happen?"
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text ".... Dunno.
+text It's nothing big.
+text There's a rumor that someone in class ran away from home."
+text "Ahh.. that's what all the fuss is about, then."
+text I sit down at my desk with a sigh.
+text "---What do you mean, nothing big!?
+text Who ran away?
+text Who!"
+bgload BG_06A.jpg
+setimg ARI_T03.png 40 0
+text "How should I know?
+text But we'll know when homeroom starts.
+text Whoever's seat is vacant, they must be the one who ran away from home."
+text "Ahh, that's true."
+text It's true, but, Arihiko's attitude seems a little dry.
+text .... If one of our classmates really has run away from home, I think it's a bit much to just ignore it as someone else's problem.
+text "Arihiko?
+text Aren't you being insensitive?
+text One of our classmates ran away from home.. aren't you worried?"
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Eh?
+text You're the only one who's seriously worried, dumbass.
+text Everyone's talking about it because it's an interesting thing to talk about.
+text It's not as if you or I had run away from home, so there's no need to worry, is there?"
+text ~
+text .... Now I remember.
+text This guy's cold like that to everyone except his friends.
+bgload BG_06A.jpg
+setimg ARI_T04.png 40 0
+text "Though, I guess I am a bit worried.
+text Running away from home at a time like this.. they'd have to be really brave or really.."
+text "..?
+text A time like this?
+text What kind of time is that?"
+text "I told you yesterday, Tohno.
+text There's a serial killer going around on the streets right now.
+text I don't know who ran away from home, but they'd have no excuse if they got attacked by him while living on the streets."
+text "Can't be----there's no way that'd happen."
+text "Tohno, you should watch TV more.
+text There's been eight victims already, and he doesn't discriminate.
+text You'd better think again if you think you're safe.
+text The town's empty at night nowadays.
+text The only people who go out are drunkards and policemen, which is why it's so boring."
+text Arihiko's voice is very serious.
+text Hearing it, I begin to feel uneasy.
+text "Oh, Kunifuji's here.
+text It's homeroom at last."
+bgload BG_06A.jpg
+text Arihiko returns to his seat.
+text ~
+text After a while, everyone is seated.
+text Only one seat is empty.
+text There's no mistaking it.
+text The desk of Yumizuka Satsuki is empty.
+bgload IMA_10.jpg
+bgload BG_22B.jpg
+bgload BG_22B.jpg
+setimg STK_T03.png 53 0
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "Well, my house is this way.
+text Bye-bye.
+text See you at school tomorrow."
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text "...."
+text .... Yumizuka said that when we parted yesterday.
+text I don't know what happened at home, but I can't see her making that smiling face before running away.
+text "Yumizuka is absent."
+text Yumizuka Satsuki is merely treated as absent as attendance is taken.
+text .... As if nothing is amiss, homeroom proceeds.
+text ~
+text I----
+text ~
+choice Ask about Yumizuka Satsuki.|Just sit silently.
+if selected == 1
+    jump s207.scr
+fi
+if selected == 2
+    jump s208.scr
+fi

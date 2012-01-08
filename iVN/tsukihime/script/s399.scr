@@ -1,0 +1,121 @@
+bgload IMA_10.jpg
+text I cannot wake up.
+text Immersed in a dark dream, I can't wake up.
+text ~
+text ---I feel a chill go down my spine.
+text Without reason, without purpose.
+text I realize I will never be able to wake from this dream.
+text "Shiki-sama, please wake up.
+text You will be late for school."
+bgload BG_40A.jpg
+music 02.mp3
+text "---------Eh?"
+text Hisui is in front of me.
+text This is my room, and there is surprisingly great weather outside.
+text "Hi.... sui?"
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text "Good morning, Shiki-sama.
+text You do not have as much time today, so please hurry to the sitting room."
+text As usual, Hisui speaks in her detached tone.
+text "Oh------h."
+text With that, everything disappeared.
+text I embrace my recently awakened but still throbbing body.
+text .... I feel relieved.
+text The awful world I was in until just now has just turned into a dream.
+text ".... Thanks.
+text If you hadn't woken me up, I might have never woken up."
+text "Shiki-sama....?
+text If you are not feeling well, please tell me so."
+text "No, that's not it.
+text ---Morning, Hisui.
+text I'm glad that you're here."
+bgload BG_40A.jpg
+setimg HIS_T02.png 62 0
+text "Eh----ah, thank you very much, Shiki-sama."
+text She blushes slightly and lowers her head.
+text "No, I'm the one who should be saying thank-----it's past seven-thirty already!?
+text Sorry, I'll get up, so please go wait in the sitting room!"
+text "Yes, I will be waiting."
+bgload BG_40A.jpg
+text Right as Hisui leaves the room, I change into my school uniform.
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+text Jumping out of bed, I scarf down a little of the breakfast Kohaku-san made and leave the mansion.
+text It all took me less than ten minutes.
+text ~
+text "I'm leaving--see you later, Hisui!"
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Yes, I will be awaiting your return."
+bgload BG_32A.jpg
+bgload BG_22A.jpg
+bgload BG_24A.jpg
+bgload BG_03A.jpg
+sound SE_03.aac 1
+text ".... I made it...."
+text I breathe out and rest my body.
+text I made it just in time before they closed the gate, but I still have to make it to class.
+bgload BG_06A.jpg
+text ".... Whew."
+text The teacher hasn't arrived in the classroom yet.
+text I try to catch my breath as I sit down.
+text .... The classroom seems more lively today than usual.
+text Tomorrow is a holiday, so everyone probably feels like today is a Saturday.
+bgload IMA_10.jpg
+music ~
+bgload BG_06B.jpg
+text School ends.
+text Since I don't have any reason to stay at school, I'll head back to the mansion.
+bgload IMA_10.jpg
+bgload BG_23B.jpg
+text ".... Yesterday's dream."
+text This is definitely the place where I saw someone get killed in my dream.
+text Even though I tried as hard as I could not to dream, I guess you can't run away from yourself.
+text "-----Kk."
+text I grind my teeth.
+text I feel pitiful about my weakness.
+text After all, it's all a dream.
+text Certainly there is something wrong with me seeing those dreams, but I think I'm still sane.
+bgload BG_22B.jpg
+text .... My old man is my old man.
+text I don't know about the Tohno blood.
+text But I don't want to become a burden on Akiha and the others while I'm sane.
+text I have to try and act as normally as possible, and try to find a way to solve all of this---
+bgload IMA_10.jpg
+bgload BG_33B.jpg
+music 03.mp3
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Welcome back, Shiki-sama."
+text As soon as I open the door, Hisui politely greets me.
+text "I'm back.
+text I'll be in my room, so it's okay if you return to whatever you were doing."
+text "Thank you.
+text I will return to cleaning the sitting room.
+text If you need anything, please call for me."
+bgload BG_33B.jpg
+text ".... Hisui is cleaning the sitting room.."
+text I don't see Kohaku-san, but she's probably sweeping the rear courtyard or going out to get groceries.
+text It appears Akiha hasn't come back yet, so I'll go back to my room.
+bgload BG_40B.jpg
+text Putting away my bag, I change out of my uniform.
+text I spend about an hour just sitting around my room.
+text All of a sudden, I hear a gurgling noise.
+text It's not a strange noise or anything.
+text It's just the sound of my stomach.
+text ".... That's right, I didn't really have a chance to eat since this morning."
+text Not wanting to be late this morning, I was only able to eat just a little of what Kohaku-san made for breakfast.
+text I thought about eating at the cafeteria, but I lost my appetite as soon as I remembered what I saw at the cafeteria yesterday.
+text ".... I wonder if I can get something to snack on before dinner...."
+text .... I really don't want to be a bother, but I'm really starving.
+text ~
+text I should---
+text ~
+choice Get Kohaku-san to make something.|Ask Hisui to make something.
+if selected == 1
+    jump s400.scr
+fi
+if selected == 2
+    jump s401.scr
+fi

@@ -1,0 +1,91 @@
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_11B.jpg
+text As soon as I step out into the hallway, I run into a familiar face.
+text "Huh?
+text What's up, Senpai?
+text Do you have some business here at the second year classrooms?"
+bgload BG_11B.jpg
+setimg CEL_T01A.png 52 0
+text "Yes.
+text Business with a second year student, to be precise."
+text Ciel-senpai approaches with a smile.
+text "Listen, I have some nice snacks here, but no one to talk to.
+text It would be a waste to eat them all by myself, so I came to catch an idle-looking person to talk to."
+text "Hmm.. Someone to talk to?
+text But there's no one left in the classroom.
+text It's the same with all the other classes, too.
+text You don't usually come to the second year classrooms anyway, do you?
+text You're on the lower floor, right?"
+text And if she wanted someone to talk to, aren't there plenty of third year classmates she could talk to?
+text She really didn't need to come all the way up here.
+text "Shouldn't you think about asking your third year classmates?
+text Conversation would probably be better."
+bgload BG_11B.jpg
+setimg CEL_T02.png 52 0
+text "Yes, but today, I'm in the mood to talk to younger guys.
+text Please don't ask for a reason, it's just on a whim."
+text ".... Well, I won't ask."
+text I probably wouldn't be able to understand even if she told me.
+text Senpai's smile disappears as she stares into my face.
+bgload BG_11B.jpg
+setimg CEL_T07A.png 52 0
+text "Are you free right now, Tohno-kun?"
+text "Well---If having nothing to do means I'm free, then I'm definitely free."
+text ~
+text Senpai grabs hold of my sleeve.
+text ~
+bgload BG_11B.jpg
+setimg CEL_T03.png 52 0
+text "Well then, you are now caught.
+text Let's go have some tea."
+text Senpai invites me with a smile.
+text There's no reason for me to decline the offer, and besides, it should be fun talking with Senpai.
+text "Sure, I'll come along, if it's okay with you."
+text "Then it's decided.
+text Alright, let's go!"
+text Still holding my sleeve, she begins walking down the hall with a light gait.
+bgload IMA_10.jpg
+bgload BG_09B.jpg
+text "Wow.
+text Our school has a room like this?
+text Could it be for the Tea Ceremony Club?"
+bgload BG_09B.jpg
+setimg CEL_T03.png 52 0
+text "Yes, it's the Tea Ceremony Club's room for now.
+text It seems like it hasn't been used up until I came though."
+bgload BG_09B.jpg
+text Senpai steps onto the tatami mat and starts preparations with a rattling noise.
+text "A club room, huh?
+text If that's the case, won't the other club members be coming?
+text It'd be bad for an outsider like me to be here, right, Senpai?"
+text "It's okay.
+text It may be the Tea Ceremony Club, but there aren't any other members except for me.
+text Thanks to that, I can use it freely during break time and after school.... here we go."
+text Smiling, Senpai begins spreading the cushions.
+text Tea is tea, but it looks like this is really going to be a serious tea ceremony.
+text To be honest, I'm a bit overwhelmed.
+text "Uh, Senpai.... I don't have the slightest clue what to do."
+text "What are you talking about?
+text I only know up to the pouring bit myself."
+text With that blunt reply, Senpai put the teapot, some cups, and some tea cakes onto a plate.
+bgload BG_09B.jpg
+setimg CEL_T03.png 52 0
+text "We are just going to have a casual conversation, so there's no need to be so formal.
+text It isn't any fun that way, is it?"
+text Smiling softly, Senpai pours tea into her own cup.
+bgload BG_09B.jpg
+text ".... Hmm.
+text I just don't get you, Senpai."
+text Mumbling, I pour my own tea.
+text I slurp some.
+text Picking up the tea cake and putting it in my mouth, I sip again at the tea.
+text I was never involved with it, but the Arima family is a prominent tea ceremony family.
+text Being raised in a household like that, I'm used to drinking tea and doing nothing.
+text Senpai looks at me with a somewhat troubled expression.
+text "What's wrong, Senpai?
+text You look a bit unhappy."
+if ciel_regard >= 2
+    jump s34.scr
+fi
+jump s89.scr

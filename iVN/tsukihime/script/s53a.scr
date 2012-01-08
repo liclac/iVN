@@ -1,0 +1,272 @@
+bgload BG_23A.jpg
+text I start walking from the mansion atop the hill towards school.
+text Like any other day, the morning is wrapped in tranquility.
+text ~
+text Autumn is almost over and winter is close by.
+text Perhaps when this vague season in between the heat of summer and the chill of winter changes,
+text maybe this transparent feeling will also change.
+bgload BG_24A.jpg
+text I see more figures of students in uniforms the closer I get to school.
+text Today is Saturday so most of them are smiling as they walk along the road.
+text Once I pass this intersection, I'll reach the front gate.
+text It will soon be a month since I came back to the Tohno mansion.
+text I've already become well used to this route by now.
+text ~
+text The traffic light turns red and I stand in front of the crosswalk.
+text ~
+text "........"
+text Every time I stop here, I remember.
+text That one time.
+text At this intersection, Arcueid was waiting for Tohno Shiki back then as she sat on the guardrail, just like she is doing now.
+text ~
+text "-----Eh?"
+text ~
+text I say without even thinking.
+text Between the cars rushing by, a scene unfolds just like before.
+bgload IMA_10.jpg
+bgload event/ARK_E02.jpg
+text "-----Wha...."
+text She's there.
+text Dressed in white, with golden hair down to her shoulders.
+text Long, slender eyebrows over crimson eyes.
+text ---Her figure I could never mistake for anyone else no matter what.
+text This figure that has already vanished long ago.
+text "--------"
+text The light turns green.
+text The students around me start moving.
+text In the midst of it.
+text I am the only one who stands still and she is the only one who notices I am here.
+bgload BG_24A.jpg
+music 03.mp3
+text She has her typical smile as she crosses the intersection.
+text "------"
+text I can't speak.
+text I'm so overwhelmed with emotion I don't even know what to do.
+text ~
+text ---Even if, this is just some sort of bad illusion,
+text I'm so happy just to see her again I could cry.
+bgload BG_24A.jpg
+setimg ARK_T01A.png 36 0
+text "Hello.
+text Are you heading to school, Student-san?"
+text .... I can't believe it.
+text The illusion even has her voice down perfectly.
+bgload BG_24A.jpg
+setimg ARK_T01B.png 36 0
+text "Shiki?
+text Hey, why are you so quiet?
+text Don't tell me you forgot about me?"
+text Those red eyes looking up at me..
+text .... There's no way I could forget.
+text But, at the same time, there's no way she can be here, alive.
+text "------"
+text I can't speak.
+text She wrinkles her eyebrows together and glares at me like an angry cat.
+bgload BG_24A.jpg
+setimg ARK_T16.png 36 0
+text "Geez, what gives.
+text I put up with not going to see you and was waiting here so long.
+text .... Don't tell me, you're angry, Shiki?"
+text "U------"
+text .... I just can't believe it.
+text This isn't an illusion in front of me.
+text It really is-----
+text ".... Ar.... cueid....?"
+bgload BG_24A.jpg
+setimg ARK_T01A.png 36 0
+text "Yes it's me.
+text ------Thank goodness.
+text I thought you became a vegetable after fighting Roa.
+text I really was worried you know."
+text "----"
+text ~
+text --Wait a minute.
+text ~
+text Um----I'm so confused, what do I say?
+text What should I be happy about?
+text Is there something I need to do?
+text I----really am just so overwhelmed I don't know.
+bgload BG_24A.jpg
+setimg ARK_T11.png 36 0
+text "Shiki....?
+text Hey, you're acting funny.
+text Your mouth is wide open, and so are your eyes.
+text .... Well, it's kind of interesting for me so I'll keep watching."
+text "----Ar, cueid."
+text "That's what I mean.
+text .... Geez, you keep just saying my name.
+text We finally managed to meet again, so can't you find anything more fitting to say?"
+text ~
+text ----Yeah, there's no mistake.
+text There's only one person who could say such ridiculous things.
+text ".... Why?"
+text "Hm?
+text I can't hear you, please say it a little louder."
+text She tells me c'mon, c'mon as she points her ear closer to me.
+text "----Why are you still alive!?"
+text I scream and voice my feelings as loud as I can.
+bgload BG_24A.jpg
+setimg ARK_T12.png 36 0
+text "Ow----Not so loud, Shiki."
+text "You.... don't say 'not so loud'!
+text Why are you alive....!
+text "I----thought you were gone, that I would never see you, that I would always------"
+text regret it.
+text But why?
+text This cheerfully, as if we only said goodbye yesterday, how can she greet me so simply....!?
+bgload BG_24A.jpg
+setimg ARK_T03.png 36 0
+text "Oh, I see.
+text I never did tell you, Shiki."
+text Arcueid drops a fist to her other hand in realization.
+text ".... Yeah, I never did tell you my reason for pursuing Roa.
+text He stole some of my power.
+text In order to take it back,I pursued him but you completely destroyed him, right?
+text And the power that was freed from Roa returned to me and I managed to come back to life."
+text "Y----you never told me about that!"
+text "No, I didn't.
+text It didn't really concern you."
+text "Y----"
+text You, why did----
+text "Anyway, I revived, but I could barely resist the vampiric impulse inside of me.
+text I probably would have done something terrible if I went to see you, so I slept until I regained my power.
+text Because of that I was able to return to normal, but it took seven days to suppress my impulse."
+text "Eh----then, then you're really okay now, Arcueid....?"
+bgload BG_24A.jpg
+setimg ARK_T09.png 36 0
+text "Of course!
+text If I wasn't, I wouldn't be here."
+text She flashes me a full smile.
+text Arcueid takes my hand.
+bgload BG_24A.jpg
+setimg ARK_T08.png 36 0
+text "You know, Shiki.
+text While I was asleep, I was really looking forward to meeting again like this.
+text Because once I did, we could go around and do so many things.
+text I was thinking it would be so nice to get better even just a little quicker."
+text Arcueid looks at me with a pure, unadulterated smile.
+text "------"
+text I'm speechless.
+text Not in a bad way----I'm just.. so happy.
+text Being able to see her smile again, all the things we can do from now on,
+text how I told Senpai that my wish was never to leave Arcueid alone again..
+text Not one----not one of them was lost.
+text "------"
+text There's so many things I want to say and tell her right now.
+text But, right now I'll just speak honestly from the heart.
+text ~
+text "----Welcome back.
+text I've.. been waiting for a long time."
+text I squeeze her hand in return, and briefly tell her just that.
+text She looks a little bewildered at first.
+bgload BG_24A.jpg
+setimg ARK_T14.png 36 0
+text ".... Yeah."
+text Saying that, she looks away in embarrassment.
+text ".... Arcueid?"
+text I call out to her.
+text After a brief pause, she faces me with a full smile.
+bgload BG_24A.jpg
+setimg ARK_T09.png 36 0
+text "Yes, I'm back.
+text I'm glad you were still yourself, Shiki."
+text "------"
+text My chest tightens.
+text If this wasn't right on the way to school, I would embrace and kiss her.
+text Her smile is just so adorable.
+bgload BG_24A.jpg
+setimg ARK_T01A.png 36 0
+text "Alright, let's go Shiki.
+text You're going to take me to many places, right?"
+bgload BG_24A.jpg
+text Arcueid releases my hand and jumps like a rabbit.
+text .... She's so radiant I can barely look at her directly.
+text "But, um----where?"
+bgload BG_24A.jpg
+setimg ARK_T08.png 36 0
+text "Anywhere.
+text Somewhere you think is fun, Shiki."
+text Smiling, Arcueid replies like it's nothing.
+text But, that's a little troubling.
+text ".... Um, you know, I do have school."
+bgload BG_24A.jpg
+setimg ARK_T06.png 36 0
+text "Hey.
+text Can't you at least spend a day with me today?"
+text Arcueid looks dissatisfied.
+text ".... Uh."
+text .... Evidently, I'm extremely weak against that face of hers.
+text .... Well, even if I went to school like this, I wouldn't be able to concentrate there, and more than anything else----I want to be with Arcueid.
+text ".... Hm, you're right.
+text Who cares about boring reputation.
+text Okay, Arcueid.
+text I will indulge your selfishness for the day, my princess."
+text "Yay!"
+bgload BG_24A.jpg
+text Bump.
+text She suddenly presses her body up against mine.
+bgload IMA_10.jpg
+bgload event/ARK_F03.jpg
+text "Hey, Shiki.
+text That night, what you were talking about with Ciel, your feelings haven't changed?"
+text She looks up imploringly at me as she asks.
+text ".... My feelings that night----what do you mean?"
+text "About you saying you loved me."
+text "------!"
+text I start to splutter.
+text It's too embarrassing for her to ask me this question when she's this close to me.
+text ".... Oh, I forgot.
+text You shouldn't eavesdrop, Arcueid."
+text "I can't help it if I overheard.
+text Anyway, c'mon, answer me.
+text Your words that night, they haven't changed?"
+text ~
+text ----Idiot.
+text I don't even need to say that.
+text ~
+text ".... Yeah, they haven't changed.
+text I can't make any guarantees, but they'll probably never change."
+text I'm so embarrassed I look up at the sky and answer.
+text Arcueid wraps her arms around mine.
+text "Oh.
+text Then you should prepare yourself, Shiki."
+text "Prepare?
+text Prepare for what?"
+text I can't help but let a tinge of uneasiness creep in my voice.
+text She holds onto my arms and speaks with a smile.
+text ~
+text ~
+text ~
+text ~
+text ~
+text "Because you promised to be with me forever.
+text Didn't I say so when we first met?
+text I'll have you take responsibility for me."
+text Then she starts to walk, still holding onto my arm.
+text She's as energetic as a little child urging me to hurry up to get to a playground.
+text ~
+text "Oh---I see.
+text Certainly I would have to prepare."
+text Speaking to no one in particular, I start to walk with her.
+text I head towards some random place, going against the flow of students going to school.
+text Where to?
+text Well, there's no place we can't go.
+text The sunlight really suits this princess of the moon accompanying me.
+text ---The weather is a perfect blue sky.
+text ~
+text Hand in hand, we walk towards a new beginning for the two of us.
+music ~
+bgload IMA_11.jpg
+bgload IMA_11.jpg
+bgload END.jpg
+gsetvar clear_ark + 1
+gsetvar cleared + 1
+gsetvar clear_ark_good + 1
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s521.scr
+fi
+if selected == 2
+    jump main.scr
+fi

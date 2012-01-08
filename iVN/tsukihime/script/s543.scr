@@ -1,0 +1,22 @@
+sound SE_03.aac 1
+bgload BG_06B.jpg
+music 03.mp3
+bgload BG_06B.jpg
+setimg OSIETE.png 0 0
+bgload BG_06B.jpg
+bgload BG_06B.jpg
+setimg CEL_T20.png 103 0
+text Thanks for waiting!
+text Time for Ciel-sensei's What & Why corner.
+text Due to popular demand, here is a supplementary lesson (number one)!
+text Oh my, Tohno-kun has gotten really serious.
+text That's a no-no.
+text Even though Akiha-san has turned on her invincible mode, you shouldn't try to kill her.
+text When it comes to killing, you are by far the expert.
+text You have some leeway, so you should just observe Akiha-san for now.
+text Well, we'll end this lesson now.
+text The conclusion of Tsukihime is near.
+text Do your best so you don't have to receive any more supplementary lessons.
+bgload IMA_10.jpg
+music ~
+jump main.scr

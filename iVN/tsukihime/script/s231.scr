@@ -1,0 +1,39 @@
+bgload BG_11B.jpg
+text I can't go that far.
+text Senpai is probably saying it out of goodwill, but I don't want to let her see me like this.
+text "--No, I think I can make it.
+text Your words are enough to fill me up."
+bgload BG_11B.jpg
+setimg CEL_T09.png 52 0
+text ".... Is that so?
+text Tohno-kun, you haven't had anything all day.
+text Are you sure you won't collapse on the way....?"
+text "Let your heart not be troubled.
+text Someone like me who's always fainting sees it coming a mile away.
+text And today, my body says I'm perfectly okay."
+bgload BG_11B.jpg
+setimg CEL_T08.png 52 0
+text ".... Well.
+text If you say so, I guess it's alright."
+text Giving somewhat of an amazed sigh, Senpai continues walking down the hallway.
+bgload IMA_10.jpg
+bgload BG_01B.jpg
+text We walk out the gate.
+text From here, we have to go our separate ways.
+text ~
+bgload BG_01B.jpg
+setimg CEL_T03.png 52 0
+text "Well then, this is goodbye for now.
+text We got here pretty quickly."
+text .... I feel the same way.
+text I was really thinking it would be better if the school were a bit bigger.
+text "Well, then, Senpai, see you tomorrow."
+bgload BG_01B.jpg
+setimg CEL_T04.png 52 0
+text "Yes, let's meet at school tomorrow."
+bgload BG_01B.jpg
+text Smiling as she responds, Senpai disappears in the opposite direction.
+text After watching her go, I head down the street towards my house.
+bgload IMA_10.jpg
+music ~
+jump s233.scr

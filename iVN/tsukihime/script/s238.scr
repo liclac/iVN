@@ -1,0 +1,40 @@
+bgload BG_06A.jpg
+text ~
+text ---I'll search at school.
+text ~
+text I know she's absent, but.. right now, this school is the only connection I have to her.
+bgload IMA_10.jpg
+bgload BG_11B.jpg
+bgload IMA_10.jpg
+bgload BG_06F.jpg
+bgload IMA_10.jpg
+bgload BG_10B.jpg
+bgload IMA_10.jpg
+bgload BG_03B.jpg
+bgload IMA_10.jpg
+bgload BG_01B.jpg
+text The sun sets.
+text Even after looking everywhere at school, there's no sign of Yumizuka Satsuki anywhere.
+text ~
+text "........ Gah."
+text I bite my lip angrily.
+text .... But it's not anger over not finding her.
+text Two days ago, I'm mad at myself for promising such a thing in the first place.
+text ~
+text ---Help me when I'm in a pinch, okay?
+text ~
+text Yumizuka said that, and I answered lightheartedly.
+text I would help, as much as I could.
+text .... Such an irresponsible answer.
+text There's really nothing I can do.
+text ~
+text She said it hurt.
+text I can't even find Yumizuka, painfully suffering in the cold darkness.
+text "---"
+text The sun is setting.
+text .... I don't want to admit it, but maybe I can only find Yumizuka after nightfall.
+text ".... I told Hisui I'd be back in the evening."
+text Perhaps it's too early.
+text I'll go back to the mansion and calmly think this through.
+bgload IMA_10.jpg
+jump s240.scr

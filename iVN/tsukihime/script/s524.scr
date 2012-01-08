@@ -1,0 +1,50 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Merci!
+text Time for the fourth period lesson.
+text .... Oh, too bad.
+text Showing your back like that in a fight, you're still no good, Tohno-kun.
+text There's too much difference in experience between an expert fighter like Ciel-san and Tohno-kun.
+text You should have acted in a way Ciel-san would not expect.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+text "Hmph, attacking someone from behind like that, it really shows your character, Ciel.
+text Are you showing your true self nyaa?"
+text ~
+text ........
+bgload IMA_14.jpg
+sound SE_12.aac 1
+text ~
+text "Unyaa!
+text You stabbed me, you just stabbed me when the camera couldn't see us, nyaaa!"
+text ~
+text ................
+bgload IMA_13.jpg
+text ~
+text "Unyaaaaaaaaaaaaaaaaa!"
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Extermination of the noisy cat has been completed.
+text Goodness, a vampire like you who takes away someone's lover has no right to say anything.
+text Now then everyone, please enjoy the rest of the main story!
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ARK_T30.png 61 0
+text "Nyaa, what is this?
+text I haven't done that yet."
+text ~
+text "Yet" means you're going to do so in the future?
+text ~
+text "Ehehe.
+text I'll leave the answer to that for later."
+bgload IMA_10.jpg
+music ~
+jump main.scr

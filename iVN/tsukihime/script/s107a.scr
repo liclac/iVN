@@ -1,0 +1,217 @@
+bgload BG_06A.jpg
+text .... Class has started already.
+text Which class was it?
+text I can't remember today's fifth period lesson.
+text ~
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text Even though I look at the blackboard and stare at the marks left behind by the teacher's chalk, I still don't know what class this is.
+text ~
+bgload IMA_11.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text ~
+text I can't read it.
+text The letters start to flow like water and mix together like some sort of hallucination.
+text ~
+sound SE_01.aac 1
+text "Ugh........"
+text I feel like I'm going to throw up.
+text Dizziness.
+text My mind starts to slide away.
+bgload IMA_10.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text Click, click.
+text Tremble, tremble.
+text Creak, creak.
+text Wobble,  wobble.
+bgload IMA_10.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+text Those noises stick out.
+text Incompatibility.
+text Where is that inconsistency coming from?
+sound SE_01.aac 1
+text I can't settle this feeling of something being out of place throughout my body.
+text It fills me to the brim.
+text As if my bones are sliding out of place in their joints.
+sound SE_01.aac 1
+text Yes, since my joints are out of place, it causes the unnatural feeling.
+text My corpse is burning unseen smoke and crumbling away.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Click, click.
+text Tremble, tremble.
+text Creak, creak.
+text Wobble, wobble.
+bgload IMA_11B.jpg
+sound SE_01.aac 1
+bgload BG_06A.jpg
+bgload IMA_10.jpg
+text I fall from my chair.
+text A girl screams.
+text I hear the footsteps of the teacher running to me.
+text I..
+text Even though I've completely passed out, I calmly watch myself from far away.
+text .... What follows is like always.
+text Collapsed from my anemia, I was carried to the clinic where I slept until I recovered.
+text Since I had a fever of over 38 degrees Celsius past seven o'clock, the school's closing time, the nurse called my house for someone to pick me up and went home.
+text ~
+text And this resulted in..
+music 01.mp3
+bgload BG_10C.jpg
+bgload BG_10C.jpg
+setimg KOHA_T01B.png 52 0
+text "Are you okay, Shiki-san?
+text You still have a fever, so please do not hesitate to lean on my shoulder."
+text ~
+text ----Yeah, that's how it is.
+text ".... No, I'm alright.
+text I can at least walk, so please don't worry."
+text Stepping away from Kohaku-san, I attempt to bluff my way out of it.
+text .... Geez.
+text It's embarrassing enough for Kohaku-san to come pick me up.
+text The day I lean on her shoulders too, I'll die.
+text "Oh that's not good, forcing yourself like that.
+text It isn't your fault that your body is weak, Shiki-san.
+text So you can ask for help a little.
+text I won't tell Akiha-sama or Hisui-chan, so it's okay to depend on me for now."
+text With a gentle smile, she takes my hand.
+text "Ah.... yes, sorry."
+text Blushing furiously, I meekly do as she says.
+text .... Certainly I might collapse if I continue to be stubborn.
+text "There is a car waiting outside, so please hold on until then."
+bgload BG_10C.jpg
+text Pulling my hand, Kohaku-san starts to walk.
+bgload IMA_10.jpg
+bgload BG_10C.jpg
+text "Ah----"
+text .... This isn't good.
+text Just walking makes me incredibly dizzy.
+text I depend upon Kohaku-san to lead me to the stairwell as I hold onto my consciousness.
+bgload IMA_10.jpg
+music ~
+bgload BG_07B.jpg
+bgload BG_11C.jpg
+text Hu----h?
+text Why----am I going up.. to.. the second.. floor?
+text "Um.... Kohaku-san.. this.. isn't.. the right way."
+text I call out to her.
+text There's no response.
+text No, not only that----I don't feel her hand, or even see her.
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+music 06.mp3
+text "Kohaku.... san?"
+text I use all of my foggy consciousness to look around me.
+text There's no one in the hallway.
+text Only the moonlight streaming from the window is vivid.
+sound SE_01.aac 1
+text "--------"
+text It comes suddenly.
+sound SE_01.aac 1
+text "Ah------"
+text The sound of my heartbeat.
+text And a chill that races up my spine.
+sound SE_02.aac -1
+sound SE_08.aac 1
+text Thump.
+text Tap.
+text ~
+sound SE_08.aac 1
+text Thump.
+text Tap.
+text ~
+sound SE_08.aac 1
+text Thump.
+text Tap.
+text ~
+text Thump.
+text Tap.
+text Thump.
+text Tap.
+text Thump.
+text Tap.
+text Tap.
+text Tap.
+text Tap.
+text Tap.
+text In the darkness, the footsteps draw closer.
+text ~
+text ---This is.
+text ~
+text This is similar to the fear I felt from that one time.
+text "Kohaku, san....!"
+text I call her name.
+text Not to call for help, but to tell her to escape, I frantically call her name.
+text "Kohaku-san, Kohaku-san, Kohaku-san....!"
+text Where is she?
+text I don't see her anywhere.
+text The footsteps are near me now.
+text ~
+text At least..
+text I want Kohaku-san to escape here unharmed.
+text "It's useless Shiki.
+text She's already done."
+text .... I hear a voice.
+text In the darkness in front of me is
+bgload BG_11C.jpg
+setimg ROA_T04A.png 14 0
+text the bandaged man who tried to kill me that night.
+text "------Ah."
+text .... Why is it..?
+text I feel like I know this person's face.
+text "You sure aren't lucky.
+text If knew it was like this, I wouldn't have waited for you in front of the mansion."
+text ~
+text .... The footsteps draw closer.
+text ~
+text "Ka.... aah."
+text I try to move.
+text But I can only totter along.
+text I guess I pushed my body too hard every day.
+text It seems like my body, at the very last moment, broke down.
+text "This is the end, so I'll tell you.
+text This is my lair now."
+bgload IMA_11B.jpg
+text I hear a stabbing sound.
+text In his hands, a knife.
+text The silver blade pierces directly into my heart.
+sound ~
+bgload IMA_10.jpg
+bgload IMA_18.jpg
+music ~
+text ----I collapse to the ground.
+text I feel death working its way from my very fingertips.
+text My mind fades away, drop by drop.
+text In that process.
+text With my fading mind, I look up at the sky.
+text I have nowhere else to look, so I just look there.
+text ~
+text The blue moon is in the night sky.
+text .... How stupid.
+text I'm about to die, but I..
+text I am charmed by such an ordinary thing.
+bgload IMA_10.jpg
+text When is this memory from?
+text In a forest like a black veil.
+text On that terrible night.
+text Just like this, I was staring only at the moon----
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s516.scr
+fi
+if selected == 2
+    jump main.scr
+fi

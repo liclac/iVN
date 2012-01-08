@@ -1,0 +1,231 @@
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text ----And there,
+bgload BG_04.jpg
+setimg ARI_T01.png 104 0
+text "Yo, Tohno.
+text You're late."
+bgload BG_04.jpg
+setimg AKI_T13A.png -24 0
+setimg ARI_T01.png 104 0
+text "Indeed; you are rather late, Nii-san."
+bgload BG_04.jpg
+text ~
+text ---For some reason, it seems that Arihiko has come to the courtyard ahead of me, and was keeping Akiha company.
+text ".... I was wondering where you've been all morning, Arihiko.
+text I guess you've been here."
+bgload BG_04.jpg
+setimg ARI_T05.png 40 0
+text "Oh!
+text I knew if I waited here after fourth period it would be worth it!"
+text Arihiko boasts, puffing out his chest.
+text .... If he's that happy, I guess I can't complain.
+bgload BG_04.jpg
+text "So, Akiha.
+text What'll we do for lunch today?
+text Did you have Kohaku-san make you a boxed lunch?"
+bgload BG_04.jpg
+setimg AKI_T13A.png 40 0
+text "Eh?
+text .... a 'boxed lunch'..?"
+text ".... Never mind.
+text I shouldn't have asked such a common thing."
+bgload BG_04.jpg
+text From the bread I bought, I offer her the best sandwich and a strawberry milk.
+text "Here, today's lunch.
+text It's better than yesterday, so eat it in comfort."
+bgload BG_04.jpg
+setimg AKI_T12A.png 40 0
+text ".... Alright."
+text Akiha timidly accepts the sandwiches and strawberry milk.
+text .... I wonder uneasily whether Akiha will ever get used to having lunch at our school.
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARI_T05.png 40 0
+text "Aw, nice, nice!
+text Hey, Tohno, nothing for me?"
+text ".... Well, yeah, for some reason there is."
+text I hand him a sausage roll and a suitable drink.
+bgload BG_04.jpg
+setimg ARI_T03.png 40 0
+text "Hey, what is this!
+text 'Balsam Pear Drink'?
+text This stuff isn't even fit for animals to drink!"
+text "Can't be helped, the rest were all gone already.
+text Well, there were some Cactus Mixer's, but that's not what you would call a drink."
+text ".... Muh.
+text I guess you still had a bit of compassion, Tohno."
+text "I have loads for anyone but you.
+text This makes us even for yesterday."
+bgload BG_04.jpg
+text Though he clicks his tongue in irritation, Arihiko puts the straw into the drink pack happily.
+text "I got a napkin for you too, Akiha.."
+bgload BG_04.jpg
+setimg AKI_T15A.png 40 0
+bgload BG_04.jpg
+text "..!"
+text Wha, what a shock.
+text Why's Akiha making such a face?
+text "Wha, what is it, Akiha?
+text Is there a bug on you?"
+bgload BG_04.jpg
+setimg AKI_T16A.png -24 0
+text ".... It's nothing at all.
+text I just thought, Nii-san and Inui-san seem to be really close."
+bgload BG_04.jpg
+setimg AKI_T16A.png -24 0
+setimg ARI_T02.png 104 0
+text "Hahaha!
+text Akiha-chan, you're giving us too much credit.
+text Tohno and I are best friends and bitter enemies, so just call us pals!"
+bgload BG_04.jpg
+setimg AKI_T21.png -24 0
+setimg ARI_T02.png 104 0
+text Arihiko laughs happily, and Akiha looks at me as if wanting to say something.
+bgload BG_04.jpg
+text ~
+text ----And then.
+text ~
+bgload BG_04.jpg
+setimg CEL_T03.png 52 0
+text "Ah, you were all here, then?"
+text Boxed lunch in hand, Senpai appears.
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg ARI_T05.png 40 0
+text "Ah, it's Ciel-senpai!
+text Today's a jackpot, right, Tohno?"
+text "...."
+bgload BG_04.jpg
+text .... Sorry, Arihiko, I can't be as easily pleased as that.
+text That's because---
+bgload BG_04.jpg
+setimg AKI_T10.png 40 0
+text ~
+text Akiha has a really scary expression right now.
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg CEL_T03.png 116 0
+text "May I join you all for lunch?"
+text Arihiko nods eagerly.
+text I don't mind either, but---
+bgload BG_04.jpg
+setimg AKI_T03A.png -24 0
+setimg CEL_T03.png 116 0
+text "No."
+text For some reason, Akiha refuses directly.
+bgload BG_04.jpg
+text The air in the courtyard is cold.
+text It's not going to be warm in October, but it's still quite cold.
+text Arihiko, who until now knew only the ladylike Akiha, gapes silently.
+text ".... Ahh."
+text Well, as an older brother, it would be bad if I didn't respond to what Akiha just said.
+text "What're you talking about, Akiha.
+text That was rude, even for a joke."
+bgload BG_04.jpg
+setimg AKI_T11A.png -24 0
+text "Nii-san, I am not joking.
+text I meant what I said."
+text "Wha---what are you saying!
+text You've only just met Senpai!
+text You've no reason to dislike her, so why..!?"
+bgload BG_04.jpg
+setimg AKI_T06.png -24 0
+text "I don't like what I don't like.
+text She and I are entirely incompatible.
+bgload BG_04.jpg
+setimg AKI_T18A.png -24 0
+text You feel the same, don't you?
+text You know there's no way we can get along, don't you, Senpai?"
+bgload BG_04.jpg
+setimg AKI_T18A.png -24 0
+setimg CEL_T04.png 116 0
+text "No, no, not at all.
+text Certainly we seem to be incompatible types, but I think I can somehow restrain myself."
+text ""---Erk.""
+text Arihiko and I pull ourselves back.
+text .... Amazing.
+text Akiha spoiling for a fight is amazing, and Senpai's smiling face turning it aside is also amazing.
+bgload BG_04.jpg
+setimg AKI_T03A.png -24 0
+setimg CEL_T04.png 116 0
+text "Hm.
+text So, you're suggesting we merely counterbalance each other, then?"
+bgload BG_04.jpg
+setimg AKI_T03A.png -24 0
+setimg CEL_T12.png 116 0
+text "To sum it up, yes.
+text My business is not with you, Akiha-san, but with Tohno-kun and Inui-kun."
+bgload BG_04.jpg
+text ~
+text Sparks crackle between the two of them.
+text It's like a face-off between a dragon and a tiger, as they used to say.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text .... At last, with the allegedly incompatible Ciel-senpai and Akiha, lunch began.
+bgload BG_04.jpg
+setimg CEL_T03.png 52 0
+text "But, I never knew Tohno-kun had a sister almost his age.
+text I always thought Tohno-kun was an only child."
+text ".... Huh?
+text Didn't I mention that I had a younger sister before?"
+bgload BG_04.jpg
+setimg CEL_T12.png 52 0
+text "Yes, I heard about a little sister living alone in the Tohno mansion."
+bgload BG_04.jpg
+text ..?
+text What, so she already knew about Akiha?
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+text "I did not know that Nii-san's friends were like you, either.
+text When did you join this school, Ciel-senpai?"
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg ARI_T01.png 104 0
+text "Mm?
+text Akiha-chan, Senpai's been here for three years.
+text It's a shame that she graduates this year."
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T01.png 104 0
+text "Really.
+text She doesn't seem accustomed to the school uniform yet, so I thought she might have transferred from another school, like me."
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg CEL_T04.png 116 0
+text "Ah, yes.. I really wanted to wear a uniform like Akiha-san's.
+text Akiha-san, is that the uniform of your last school?"
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg CEL_T04.png 116 0
+text "Yes.
+text Since the uniform here isn't to my liking, I wear the uniform from my old school."
+text ~
+text Akiha says such an outrageous thing casually.
+text .... I see.
+text I had assumed the uniform simply hadn't been made yet, but it seems she never intended to wear our school's uniform at all.
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg CEL_T03.png 116 0
+text "Ahh.
+text Well, I think this one suits your level of activity well.
+text What do you think, Tohno-kun?"
+text "Eh?
+text Uh, about what?"
+bgload BG_04.jpg
+setimg AKI_T01A.png -24 0
+setimg CEL_T01A.png 116 0
+text "About Akiha-san's uniform.
+text Which one would suit her better?"
+text ".... Which one suits her better, huh.."
+text ~
+bgload BG_04.jpg
+text I would have to say---
+text ~
+choice Akiha's current uniform suits her better.|Our school's uniform would suit her better.
+if selected == 1
+    jump s348.scr
+fi
+if selected == 2
+    jump s349.scr
+fi

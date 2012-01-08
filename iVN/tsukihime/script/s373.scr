@@ -1,0 +1,656 @@
+bgload IMA_10.jpg
+music ~
+bgload BG_33D.jpg
+sound SE_02.aac -1
+text *pant*---*pant*---*pant*----
+text Sweat drips down to the ground.
+text His knife swings at every part of my body, but I have fortunately not received any fatal wounds.
+text I am breathing hard because I move my body past its limits.
+bgload BG_33D.jpg
+setimg HAL_T02.png 33 0
+text "I don't understand----"
+text .... The enemy in front of me breathes out in annoyance.
+text "Why---why can't I kill just an ordinary human being?
+text Why is your killing ability so high, Shiki!?"
+text There is anger in his eyes.
+text He's probably irritated from all this unexpected resistance by something that should be easy prey.
+bgload BG_33D.jpg
+text My heavy breathing fills the air.
+text My chest hurts.
+text Even though I have seen his killings already in my dreams, our abilities are naturally different.
+text It's already hard enough to block his attacks, and it's almost impossible to attack his "lines".
+text ~
+text ---But.
+text If I didn't care to avoid mutual death, I could easily kill him.
+text "---Alright.
+text Enough playing around.
+text I tried to finish you off with the same weapon you had, but I shouldn't have used something I'm not used to using."
+text The enemy throws down his knife.
+text Slash.
+text The sharp, animal-like nails shine in the night.
+bgload BG_33D.jpg
+setimg HAL_T01.png 33 0
+text "So it's this after all.
+text It's really dull to use the same thing as eight years ago."
+text The enemy smiles and frees his stance.
+text ~
+text ----Thump.
+text My heart beats.
+text ~
+text My body knows I won't be able to keep up with him once he gets serious.
+text I probably won't be even able to see him attacking me.
+text The first thing I will realize, is that my body has a hole in it.
+text ----Thump.
+text ~
+text The presence of death increases.
+text The sense of impending death is upon me.
+text But, I have no fear.
+text The cracking inside my body grows proportionally with the sense of crisis.
+text Panting.
+text ~
+text Burning pain.
+text Just like a bow pulled to the limit.
+text A homicidal impulse that I cannot control.
+text Most likely---it will be released in a moment and kill SHIKI for sure.
+bgload BG_33D.jpg
+setimg HAL_T03.png 33 0
+text "So long, Shiki.
+text Akiha is mine.
+text This time, you go to hell---!"
+bgload BG_33D.jpg
+text The enemy's body disappears.
+text The strained bow is released.
+text ~
+text ---But before that,
+text someone comes in between me and SHIKI.
+sound ~
+bgload BG_33D.jpg
+setimg AKI_T11C.png 0 0
+music 09.mp3
+text "-------"
+text .... It was Akiha, with her flowing red hair.
+text Akiha stands in front of SHIKI as if to protect me.
+bgload BG_33D.jpg
+setimg HAL_T02.png 33 0
+text ".... Akiha, what are you doing?"
+text Akiha does not answer.
+sound SE_01.aac 1
+text ~
+text ----Her back.
+text With Akiha's red hair in front of me, I start feeling excited.
+text ~
+text ".... Move, Akiha.
+text I am your real brother.
+text You don't have to worry about this impostor."
+text Akiha does not answer.
+sound SE_01.aac 1
+text ~
+text ----Her back.
+text With Akiha's red hair in front of me, I start feeling excited.
+text ".... Akiha, don't make me sad.
+text You are the only important person for me."
+bgload BG_33D.jpg
+setimg AKI_T11C.png 0 0
+text ".... No.
+text I won't move."
+text Akiha shakes her head and clearly rejects SHIKI.
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg HAL_T02.png 33 0
+text ".... Akiha!"
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg AKI_T11C.png 0 0
+text "Move back.
+text If you say you are going to kill Nii-san, I will kill you first.
+text The role of the head of the Tohno family is to eliminate people like you."
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg HAL_T05.png 33 0
+text "What---what are you saying, Akiha!
+text You were waiting for me for so long.
+text I was always, always watching.
+text I came back because you were waiting for your brother.
+text I killed that old man and became free just for you.
+text But why are you protecting that impostor!?"
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg AKI_T11C.png 0 0
+text ".... Indeed, I was waiting for Nii-san.
+text But that is not you.
+text You lost against the Tohno blood and became just a killer.
+text You should have died on that day eight years ago."
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg HAL_T05.png 33 0
+text "A---Akiha, you're telling your own brother to die?
+text No, that's not right.
+text I am your only brother.
+text Listen to me, that guy is just a---"
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg AKI_T11C.png 0 0
+text "Silence....!
+text I will not allow any more insults against Nii-san.
+text I---I am not going to let you kill Nii-san again....!"
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg HAL_T05.png 33 0
+text "Aki---ha."
+text SHIKI staggers.
+text "Stop---He's just an impostor.
+text Don't betray me for such a guy, Akiha."
+text "------"
+text Akiha doesn't answer.
+text She just confronts SHIKI with fierce aggression.
+text "Akiha---are you going to betray me too, Akiha---"
+text SHIKI takes a step.
+text SHIKI looks at me---and Akiha with bloodshot eyes.
+text ".... This is the last warning.
+text Move, Akiha.
+text Can't you follow your brother's orders?"
+bgload BG_33D.jpg
+bgload BG_33D.jpg
+setimg AKI_T29.png 0 0
+text "---I will not move.
+text You are not my Nii-san....!"
+bgload BG_33D.jpg
+bgload IMA_10.jpg
+text ~
+text AHHHHHHH
+text ~
+text SHIKI screams as he jumps.
+text Not toward Akiha, but toward me.
+text "-----"
+text But, I was expecting that already.
+text I raise my knife and face my enemy.
+text But, SHIKI's nails are faster.
+text ~
+text The result will still be mutual death.
+text If that's the case, I can surely cut his "line" and slice him into pieces---
+music ~
+bgload IMA_11B.jpg
+bgload IMA_12B.jpg
+bgload IMA_10.jpg
+sound SE_05.aac 1
+text ---SHIKI's nails never reach.
+text ~
+text "A---"
+text SHIKI's soulless voice gasps.
+text "Aki, ha---"
+text SHIKI's nails slashed across Akiha's back.
+text ~
+text It's not that SHIKI aimed for her.
+text It's just that Akiha crashed into me.
+text "-----"
+text But, I felt nothing.
+text My mind has frozen.
+text Without feeling anything, my homicidal impulse drives me.
+text Akiha's body falls to the ground.
+text In that instant.
+text The instant SHIKI stops moving, I slash through his "line".
+bgload IMA_11B.jpg
+bgload BG_33D.jpg
+text .... Smell of blood.
+text It angers me that scent is the only thing I do sense.
+text The rest of my senses are paralyzed with exhaustion after all my extreme movement.
+text ~
+text Right now, I feel nothing.
+text There is Akiha covered with blood in front of me, and SHIKI's dead body is there right beside her.
+text I feel nothing, and simply stand here.
+bgload IMA_11.jpg
+bgload BG_33C.jpg
+text The lights come on.
+text It hurts my eyes as it returns me to my senses.
+text "------"
+text I look around.
+text On the floor in front of me is a path of red blood.
+text Akiha's body is not there, nor is SHIKI's.
+text "What----"
+text The knife is still in my hands.
+text I'm sure that wasn't a dream.
+text As proof, the floor is covered with blood.
+text "Akiha---you protected me."
+text I remember, and at the same same time, I feel sick.
+text I didn't want her to do that.
+text All I wanted to do was protect Akiha.
+text Why did it turn out this way---
+text "Shiki-sama."
+text Someone calls from behind.
+bgload BG_33C.jpg
+setimg HIS_T01.png 62 0
+music 01.mp3
+text "I have turned on the emergency power.
+text Akiha-sama's wounds are pretty shallow, so please do not worry."
+text "Hisui---where were you?"
+bgload BG_33C.jpg
+setimg HIS_T17.png 62 0
+text "I previously stated this.
+text When Nee-san and I arrived to help, you and Akiha-sama were on the ground.
+text .... We tried to talk to you several times, but you were in no condition to talk."
+text .... So, I just stood here while Akiha was lying injured on the ground?
+bgload BG_33C.jpg
+setimg HIS_T01.png 62 0
+text "Akiha-sama needed treatment immediately, so Nee-san and I treated Akiha-sama and then put the power back on---should we have waited for your orders?"
+text "---No.
+text You guys did the right thing.
+text I was just standing there, right?"
+text "Yes.
+text It has been about an hour since we came, but you have only been standing there."
+text ".... I.. see."
+text Not doing anything while Akiha was on the ground wounded is the worst thing I could have done.
+text Not only did I not protect her, but you could say I was actually hurting her.
+text "Hisui, is Akiha alright?"
+text "Yes, it is not that deep of a wound .... But since it is not a wound that will heal any time soon, we have her resting in her room now."
+bgload BG_33C.jpg
+setimg HIS_T17.png 62 0
+text "---Shiki-sama, what happened?
+text When we regained consciousness, all the lights in the mansion were turned off and I had apparently been unconscious in Nee-san's room.
+text It seems Nee-san and I were drugged.
+text When we came out to the lobby, you and Akiha-sama were there.
+text Nee-san said that cut on Akiha-sama is from a big animal, but that is--"
+text "What--?"
+text There's something wrong.
+text This doesn't add up.
+text "Hisui, SHIKI was not there!?"
+bgload BG_33C.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, you were standing in front of Akiha-sama."
+text "No, not me, but---"
+text I stop myself.
+text Hisui doesn't know about SHIKI.
+text She doesn't know why Akiha was hurt nor does she know I was almost killed.
+text ".... Hisui, there was only me and Akiha in the lobby....?"
+text She nods.
+text "---That guy---!"
+text He's still alive.
+text I did cut him from his shoulders along his "line", but it didn't kill him?
+text Or are vampires harder to kill than humans?
+text Either way, he's alive right now and has run away.
+text ".... No, I don't care about that right now.
+text But Akiha---"
+bgload BG_33C.jpg
+setimg HIS_T17.png 62 0
+text "Please wait, Shiki-sama.
+text Are you going to Akiha-sama's bedroom?"
+text "Of course.
+text I have to apologize to Akiha and talk to her--"
+text ".... Nee-san is currently treating her wounds.
+text I do not think Akiha-sama would be pleased to see you right now."
+text "T.... that might be true but.."
+bgload BG_33C.jpg
+setimg HIS_T09.png 62 0
+text "Please go back to your room, Shiki-sama.
+text When we finish treating her and Akiha-sama asks for you, I will come and get you."
+bgload BG_33C.jpg
+text With that, Hisui starts to walk up the stairs.
+text She probably went up to Akiha's bedroom to help Kohaku-san.
+text "........"
+text Being a guy, I can't help them.
+text All I can do for now is wait for Hisui in my room.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text ----I go back to my room and try to calm down.
+text ~
+text I have to calm down and think about many things.
+text About Akiha.
+text About myself.
+text About that guy SHIKI.
+text .... SHIKI told me that I was adopted and treated as Tohno Shiki in his place.
+text I have no intention of denying it.
+text Rather, it's very convincing.
+text Why I didn't recognize this mansion that well, why my room didn't feel like a room I knew..
+text .... The fact that I was living in with the Arimas, and why no one came to see me while I was in the hospital eight years ago.
+text .... When I was adopted ten years ago, and the two years until I got into that accident.
+text Me, Akiha, and SHIKI were raised as brothers and sister.
+text SHIKI sounded as if he knew I was adopted all along.
+text But what about Akiha?
+text ~
+text "You are not my Nii-san-----"
+text ~
+text Akiha said that to SHIKI and injured herself while protecting me.
+text .... Akiha might not know that I was adopted.
+text That's why she protected me.
+text You can't do that unless it's your real brother.
+text So-----Akiha must believe I am her true brother.
+sound SE_04.aac 1
+bgload BG_40C.jpg
+setimg KOHA_T03.png 52 0
+text "Shiki-san, can I come in?"
+text "Kohaku-san.
+text Is Akiha alright now?"
+bgload BG_40C.jpg
+setimg KOHA_T01A.png 52 0
+text "Yes, we are done treating her wounds.
+text She won't be able to walk at all for a few weeks, but there's no danger to her life."
+text "I see-------thank goodness."
+text I let out a sigh of relief.
+text If the wound she received from protecting me was worse, I don't know how I could ever talk to Akiha again.
+bgload BG_40C.jpg
+setimg KOHA_T03.png 52 0
+text "Shiki-san, Hisui-chan told me you wanted to talk to Akiha-sama?"
+text ".... Yeah, I'd prefer not to if Akiha's not feeling well, but I would really like to talk to her if I can."
+bgload BG_40C.jpg
+setimg KOHA_T01A.png 52 0
+text "If that's the case, please go ahead.
+text But please do not have a complicated conversation.
+text Akiha-sama is pushing herself and I do not want her to be mentally tired."
+text ".... I know.
+text I just want to see Akiha and thank her."
+bgload BG_40C.jpg
+setimg KOHA_T03.png 52 0
+text "Alright.
+text That should be fine.
+text Then, I'll rest for a bit.
+text Can you take care of Akiha-sama for a while?"
+bgload BG_40C.jpg
+text Kohaku-san walks out of the room, wobbling.
+text She must be tired from taking care of Akiha.
+text "............"
+text .... Alright.
+text I have to go check on Akiha.
+bgload IMA_10.jpg
+music ~
+bgload BG_46C.jpg
+text I knock on the door.
+text "Akiha.
+text It's me.
+text Can I come in?"
+text After a moment of silence.
+text ".... Yes, please come in, Nii-san."
+text I hear her weak whisper.
+bgload BG_37.jpg
+music 09.mp3
+text I go into Akiha's bedroom.
+text As she was sleeping on the bed until now, she raises herself slowly.
+text "-------"
+text .... Crap.
+text Seeing her like this causes my mind to empty.
+text There's already tension enough coming into Akiha's bedroom, and she's acting so weak that I regret it.
+text ~
+text "-------"
+text We end up just staring at each other in silence.
+text ....
+text ........
+text ..............
+text ........................ All of a sudden,
+text ~
+text "Aren't you going to sit down, Nii-san?"
+text "Oh------yeah.
+text I should sit down, huh?"
+text I take a seat in a chair.
+text Now I'm at the same height as Akiha, and my head goes even more blank.
+bgload event/AKI_E04B.jpg
+text ".... You never ask about anything, do you, Nii-san?
+text Even though I am like this, I was ready for anything."
+text Akiha says in a soft voice.
+text ".... You're right.
+text There's a lot of things I want to ask about.
+text But I'll ask all that after you get better.
+text Right now, I'm here to see how you're doing."
+text "I see.
+text But there's something I want to ask you, Nii-san.
+text I get mad easily when I don't understand something.
+text So, I can't sleep peacefully unless I hear it from you."
+text ".... Go ahead.
+text You're hurt right now, I'll answer anything."
+text "I'm sorry.
+text I'm hiding a lot of things from you, but I don't want you to hide anything from me.
+text .... I'm really selfish, aren't I?"
+text ".... Don't worry.
+text I like that part of you, too.
+text I'll let it go.
+text So, what do you want to ask about, Akiha?"
+text ~
+text Akiha is probably making me match her pace.
+text Surprising even myself, I speak kindly to her.
+text ".... Then I'll ask.
+text Nii-san, you used the word 'vampire'.
+text Is that something Ciel taught you, or is that something you concluded yourself?"
+text ".... I think it's both.
+text I don't know why, but I've been having this dream where I killed people and sucked their blood."
+text So I thought I was the killer.
+text However, Ciel-senpai proved me wrong."
+text ".... I see.
+text You were in tune with SHIKI's mind.
+text That's why-----you asked me that at school."
+text "What-----Akiha, you can tell that I am in tune with his mind....?"
+text "No, I'm just saying the possibility existed.
+text Nii-san, you might not remember, but that SHIKI is our...."
+text "Yeah, you wanna say he's our brother, right?
+text I forgot about it until just now.
+text But I remember faintly.
+text Whenever we played in the garden, you always followed us.
+text "Us" means that there's more than one, right?"
+text ~
+text Yes, when I recall my childhood, there is that contradiction.
+text I didn't recognize it, probably because the old man hypnotized me.
+text "............"
+text Akiha does not say anything.
+text .... It really seems like she doesn't know I'm adopted.
+text In that case, I do not want to say it right now and mentally attack her.
+text If I can lie to her right now, I should.
+text ".... Nii-san, you were almost killed by SHIKI eight years ago.
+text SHIKI did not have that much Tohno blood in him, but it suddenly awakened.
+text The blood of Tohno is a blood from ancient times, and it makes you give priority to your instincts rather than your reason.
+text SHIKI had that blood throughout him and attacked you, as you happened to be there."
+text .... I heard that from SHIKI.
+text That this scar on my chest is not from an accident, but from SHIKI.
+text "Everyone in the Tohno family has different abilities.
+text There's some people who eat other people like SHIKI and there's people whose abnormality is only in their brain like Father.
+text .... SHIKI attacked you and took away your blood and life.
+text SHIKI was punished by Father but he survived by taking your life."
+text ".... I don't get it.
+text What do you mean by him taking away my life....?"
+text "I should say your soul in this case.
+text I don't know how it works since I'm not SHIKI.
+text But SHIKI lived by feeding off your life.
+text I think you and SHIKI are like different people running off of one heart.
+text That's why you tune into each other easily.
+text .... If that's the reasoning, I think you can tune into me too, but I think it's because you two were really good friends."
+text "Stop it, with that guy------with a guy that hurts you?
+text Don't make me friends with him."
+text "............"
+text Akiha looks at me with a painful expression.
+text .... Her thin body.
+text Her white skin.
+text Her flowing black hair is tinged slightly red and looks very weak-------
+text "Oh yeah.
+text Akiha, what happened to your hair?
+text It was red back then, and now it's back to black.
+text What's going on?"
+text ".... I told you.
+text This is due to the Tohno blood.
+text My body does not change like SHIKI, but when my blood gets excited, my hair turns back into its original color.
+text Now that I am calm, it returned to being black."
+text ".... That's good.
+text I think you look better with black hair.
+text I think it'll be bad if your hair stayed red."
+text ...... I don't want her to be stained with something like the Tohno blood.
+text ".... Yes, I also dislike the color red.
+text I know it's just the color of my hair, but it means my body's state has changed, and I do not want to be like SHIKI-----"
+text ~
+bgload BG_37.jpg
+sound SE_05.aac 1
+text Akiha falls back in bed.
+text "Akiha------!?"
+text I support her body.
+text "Ugh-----ah.. Ohh......!!"
+text She's shaking.
+text Her breathing is difficult, as if her heart was gone.
+text She clenches her teeth in pain.
+text She sweats as if trying to expel the pain from her body.
+text "Akiha....!
+text What's wrong?
+text Do your wounds hurt!?"
+text "Ah------ah, Nii-sa-------"
+text Akiha grips the bed sheets.
+text "Sh....!
+text Hold on, I'll go get Kohaku-san....!"
+text "N,no------no one can help.. me anyways....!"
+text Akiha grabs onto my arm, still breathing hard.
+text Her slender fingers.
+text Her soft hands grip my hands strongly.
+text ~
+text "Alright----I'll stay right here, Akiha."
+text "-------"
+text I can't hear her; her voice is too choppy.
+text Akiha rages around on the bed,
+text and I realize her hair is red again.
+text "Akiha, your hair------"
+text "It's-----all, right-----This won't-------last-------long---"
+text Akiha is in serious pain.
+text Time passes by, and all I can do is hold onto her hands.
+bgload IMA_10.jpg
+bgload BG_37.jpg
+text .... After an interminable amount of time, it finally ends.
+text I'm sure it was only a few minutes, but it felt like a few hours.
+text "----"
+text She breathes normally now.
+text Her hair is still red, but it looks fainter than before.
+bgload event/AKI_E04.jpg
+text "---I'm sorry I made you watch such unpleasant things."
+text Akiha sits up.
+text .... I can easily tell she is pushing herself.
+text ".... You don't have to sit up.
+text It still hurts, right?
+text Don't try to push yourself."
+text "No, I'm alright.
+text My back has nothing to do with this.
+text This spasm is like an everyday thing."
+text ~
+text ---Her back has nothing to do with this?
+text ~
+text ".... What do you mean, everyday thing?
+text This is normal for you?"
+text "............"
+text She doesn't answer.
+text That means yes.
+text .... I can't believe it.
+text She suffers through this kind of pain all the time----?
+text ".... Why?
+text That's not right.
+text That, that's not----nor.. mal.."
+text Akiha still doesn't answer.
+text She just nods silently.
+text ".... Like you say, I'm not normal.
+text This spasm is not like your anemia.
+text This is a pain all people of the Tohno blood go through.
+text When you cannot stand this pain, you become like SHIKI."
+text "------What?"
+text "I told you, people of the Tohno line are abnormal.
+text The Tohno blood in me is strong.
+text As I grew up, it became worse and worse each day.
+text .... Now it's getting to a point where I can't help it.
+text I am like this every night."
+text Akiha just talks without holding any grudge against her blood.
+text I------understood what Akiha is saying, but at the same time, I don't want to accept it.
+text ".... What do you mean?
+text I don't get what you're saying."
+text ".... Geez.
+text Nii-san, you really are stupid."
+text Akiha laughs.
+text She smiles, looking a bit troubled.
+text "My body uses more heat than the average person.
+text So I cannot get enough energy using normal methods and I end up having to get heat directly from someone.
+text .... Like you say, I act like a vampire trying to contain myself.
+text But the more I rely on it, the more abnormal I am.
+text I'm acting more like a Tohno.
+text But without it, I have no way to control myself."
+text "Akiha------------"
+text "Do you understand?
+text I have to take away heat from something alive.
+text I am an incomplete creature.
+text That's Tohno Akiha for you, Nii-san."
+text ~
+text ------I cannot say anything.
+text But, I still manage to find something to say.
+text To not say anything right now only hurts Akiha even more.
+text ".... That's why you were sucking Kohaku-san's blood.."
+text "You knew, Nii-san..?
+text That I got blood from Kohaku?"
+text "Yeah.
+text Sorry for not telling you."
+text Akiha blushes and looks down.
+text "That's a last resort.
+text It doesn't have to be blood I take in.
+text It can be body heat, it can be mental heat.. anything with heat gives me power.
+text Blood just happens to be the most efficient method."
+text ".... So you're different from SHIKI; you're not a real vampire like him."
+text ".... Yes, I'm not like SHIKI as I can't make people like me.
+text I can only take from other people."
+text Akiha looks away from me.
+text But, that's good for me.
+text Because---it's just a matter of the difference in the kind of food you take in.
+text ".... I feel relieved.
+text You kept on telling me you're abnormal, but you're normal.
+text Unlike SHIKI, you're a normal human being.
+text That spasm you had, it won't happen if you get some blood, right?
+text Then------"
+text ".... It is true that it would not occur if I take in some blood.
+text But, I can't stand getting blood just because I want to.
+text If I get used to that, I will just be like SHIKI."
+text ".... No matter how painful it is, if it is just physical pain, I can stand it.
+text The Tohno blood awakens more at night, but it dies down in the morning.
+text So this is normal for me.
+text You don't have to look at me that way."
+text ".... You're stupid.
+text If you were in that much pain, I'll be glad to give you as much blood as you want."
+text I'm being honest.
+text If I knew Akiha was in this much pain every night, I would have given her blood every time.
+text "No, I do not want to drink anyone's blood.
+text I really do not want to drink Kohaku's blood either."
+text "Why....?
+text If your spasms go away, then it should be fine."
+text "That.... is true but,"
+text Akiha grows quiet and continues with an embarrassed tone.
+text "But I do not want to be called a vampire by you.
+text I want to stay as a human being, just like you."
+text "------------Ah."
+text I really hate how stupid I am.
+text .... I never thought about how Akiha felt.
+text About how ominous she feels about the Tohno blood.
+text About how much she thinks about me.
+text ".... Is there anything I can do for you, Akiha?"
+text "Let's see, please go rest in your room.
+text You must be tired too."
+text "........ Idiot."
+text ~
+text .... That's all I can say in response.
+text ~
+text "Don't worry.
+text Just lay down.
+text I'll stay here until you go to sleep."
+text ".... Alright.
+text If you say so, I will, Nii-san."
+bgload IMA_10.jpg
+bgload BG_37.jpg
+text .... She says this as she lies back down.
+text After time passes quietly by,
+text she falls into a gentle slumber.
+text Akiha's face looks very peaceful.
+text I stay and continue to watch her.
+bgload IMA_10.jpg
+sound SE_04.aac 1
+bgload BG_37.jpg
+text "Shiki-san, are you awake?"
+text .... I can hear Kohaku-san's voice.
+text I look at the clock to find out it's three o'clock already.
+text "I'm awake.
+text Are you here to look after Akiha, Kohaku-san?"
+text "Yes, I wanted to take her temperature.
+text I'm sorry Shiki-san, but...."
+text "Oh, sorry, I'll leave right away."
+text I get up from the chair.
+text As I leave the room, I look at Akiha one more time.
+text ".... Thank you.. and sorry, Akiha."
+text I whisper this softly as I leave her room.
+bgload IMA_10.jpg
+music ~
+text .... I let Kohaku-san take care of Akiha and I walk down the hallway.
+text Things should be fine for now, but I still feel uncomfortable.
+text I don't care that SHIKI is still alive.
+text There's only one thing that worries me.
+text .... I was watching Akiha's face while she was sleeping,
+text but her hair did not turn back to its original black no matter how long I waited.
+jump s374.scr

@@ -1,0 +1,82 @@
+bgload BG_54D.jpg
+text ----No time to waste.
+text I have to kill him before his wounds heal, or he will kill me.
+text ~
+text I take a forced breath,
+text and spur my tired body after SHIKI.
+bgload IMA_10.jpg
+bgload IMA_11B.jpg
+bgload BG_54D.jpg
+text Panting-----
+text ~
+text My breath echoes through the dark forest.
+text In this darkness, the trail of blood seems to light the way.
+text There's no way I'll let SHIKI go now.
+text The question is, can my body survive long enough?
+text Breathing heavily,
+text I run while wobbling side to side.
+text I feel my knife in my left hand.
+text The sensation of the knife firmly gripped by my hand is the only thing keeping me from passing out.
+text ~
+text "Is he.... going to the courtyard?"
+text ~
+text It looks like the trail of blood leads to the courtyard.
+text Eight years ago.
+text The place where Nanaya Shiki was killed by Tohno SHIKI.
+text .... Come to think of it, there's no better place to finish our match.
+text "-----Alright SHIKI, I'll.."
+text Kill you.
+sound SE_07.aac 1
+bgload IMA_13B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text Everything turns red.
+text "Gu-------ugh."
+text Blood accompanies my breath out of my body.
+text Blood spews out of my heart.
+text I start to pass out and----fall to the ground.
+text "What----?"
+text I don't understand.
+text I just feel pain and burning everywhere.
+text "-----What the.."
+text I look at my back.
+text There I see numerous swords stuck like wings.
+text They stick through me and up towards the sky.
+text That means..
+text This wound is fatal.
+text "Why-----?"
+text I don't understand.
+text It's not that these swords came flying at me.
+text They just suddenly seemed to sprout from inside me.
+text The sound of dripping blood.
+text It drips down the swords on my body.
+text The blood is not mine---
+text ~
+text "----Oh, that blood back then."
+text ~
+text .... The blood that spilled on me when I cut SHIKI.
+text That was still on my chest.
+text .... What a stupid mistake.
+text I knew that red swords were made from his blood---so having his blood on me is like asking him to stab me to death any time he pleases.
+bgload IMA_01.jpg
+text "------Ah."
+text I start to fade.
+text I look up at the sky in my own sea of blood.
+text ~
+text The far away moon.
+text Dark night, tall trees.
+text I am facing the same meaningless death as once before.
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s537.scr
+fi
+if selected == 2
+    jump main.scr
+fi

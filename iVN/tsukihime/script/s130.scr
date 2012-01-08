@@ -1,0 +1,31 @@
+bgload BG_06A.jpg
+text Well, if she's walking around my classroom like that, maybe she does want to see me for something.
+text ~
+text ".... I wonder.
+text She normally just walks in without hesitating."
+text Or did she finally realize it's strange for a third-year to come to a second-year's classroom?
+text ~
+text "--No.
+text That definitely can't be it."
+text Nodding to myself, I go to the hallway.
+bgload BG_11A.jpg
+text "Senpai."
+bgload BG_11A.jpg
+setimg CEL_T08.png 52 0
+text "Huh--Tohno-kun?"
+text Senpai seems rather surprised I called her and stands there with her mouth open.
+text "What are you doing?
+text Class is about to start, so why are you still hanging around here?"
+text "-----"
+text Senpai looks at me in amazement, then looks away.
+bgload BG_11A.jpg
+setimg CEL_T12.png 52 0
+text "What am I doing?
+text That is not any of your business, Tohno-kun."
+text "No--Well.. maybe it isn't."
+text "--No, I was lying.
+text It is, a little."
+bgload BG_11A.jpg
+text I thought she was looking away, but she starts sniffing me.
+text ".... Um--Senpai....?"
+jump s133.scr

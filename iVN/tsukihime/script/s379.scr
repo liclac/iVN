@@ -1,0 +1,116 @@
+bgload BG_53B.jpg
+text "------------"
+text I won't fall for that trick.
+text My body stops working properly when I listen to him.
+text If there is a way to turn back Akiha, I'll find it myself.
+text No way---no way will SHIKI, the one who turned Akiha that way, tell me.
+text "----Huh!
+text I guess you won't fall for it.
+text Alright then.
+text It's all about killing each other from now on.
+text Let's see who's the better killer."
+text SHIKI laughs, still down on the ground.
+text "------------"
+text I don't answer and instead walk straight to him.
+text About ten more meters to go.
+text I will be able to jump at him within a few seconds.
+text ".... Heh.
+text Don't tell me you think you're good just because you cut one of my arms off, Shiki."
+text "--------"
+text ~
+text One meter.
+text "I'll teach you one last thing.
+text You know everyone in the Tohno family has different powers, right?
+text I guess Akiha's good at taking heat from her surroundings.
+text Well, it's kind of like that, influencing the outside world, like an interference ability."
+text "--------"
+text ~
+text Two meters.
+text "It seems the ability to interfere with the outside world has been scarce even in the Tohno family.
+text You can say that Akiha's ability is rare.
+text Since she has such large potential, it doesn't wake up easily.
+text Any time I try to wake it up, it's like throwing a rock into the ocean.
+text The best way to use her full ability is to have someone take over her mind and control her."
+text "--------"
+text ~
+text Three meters.
+text "Well, let's put Akiha off to the side.
+text It's more important to talk about me right now."
+text "--------"
+text ~
+text Four meters.
+text "Shiki, I'm like the old man; I have no method to interfere with the outside world.
+text The vampire ability isn't my original ability.
+text This is more like a bonus that I got later.
+text My real ability is 'immortality'."
+text "--------"
+text ~
+text Five meters.
+text "Well, there are limits to my immortality, since I can't heal my own wounds.
+text Isn't it weird that this ability is called immortality?
+text But it's true that dying is hard for me.
+text My body changes its context so that it can survive whatever state it is in at that moment.
+text Humans die when they lose a large portion of their body, right?
+text That's because humans need a 'Human shape' with all the necessary parts to live as a human.
+text If they can't find a substitute for their lost part, they die.
+text Well, it might be more correct to say they cannot continue to live."
+text "--------"
+text ~
+text Six meters.
+text "But in my case, it's the opposite.
+text I don't supplement my lost parts.
+text Instead, I continue to live even if I lose an arm or all my blood.
+text My body changes its internal organs so that I can live without the parts I lost.
+text See, can't you say that this is 'immortality'?
+text I would probably live even if my head only remained.
+text .... Well, there's no way I'd want to be like that."
+text "--------"
+text Seven meters.
+text .... One more step.
+text Then, I am within reach----
+text ".... You're about to kill me, huh?
+text Well, what I want to say is this.
+text I have the ability not to influence the outside world, but rather my inner body.
+text Do you get it?
+text Even if it seems like a useless part of your body to you, for me------"
+text "--------"
+text ~
+text This is it.
+text Now, I'll-----
+bgload BG_53B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text Stab.
+text Suddenly, from my ankles to my head..
+text I am stabbed by numerous swords that popped out of the ground.
+bgload IMA_13.jpg
+text "-----I can change it to an important weapon like this.
+text You need to pay more attention.
+text There's no way I would scatter this much blood for no reason."
+text .... I.. understand.
+text How stupid of me.
+text I followed his trail of blood,
+text and walked onto a mountain of needles.
+text "I don't have the ability like you or Akiha to hurt others directly, so I have to rely on little tricks like these.
+text But if this 'someone' in my head becomes clearer, I might be able to use his ability as a vampire."
+bgload IMA_10.jpg
+text "-----I guess you can't keep yourself together anymore.
+text Then this is it.
+text You can leave the rest to me and you can go back to your grave, Shiki-----"
+text ~
+text I hear laughter.
+text It echoes through my head as my mind falls into the darkness-----
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+choice Yes.|No. 
+if selected == 1
+    jump s538.scr
+fi
+if selected == 2
+    jump main.scr
+fi
+

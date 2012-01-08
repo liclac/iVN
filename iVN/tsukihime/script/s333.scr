@@ -1,0 +1,44 @@
+bgload BG_23B.jpg
+text I walk with Akiha towards the mansion.
+text "...."
+text Frankly, it's difficult.
+text If I look beside me, I can see Akiha walking with her long hair fluttering.
+text Akiha is silent and graceful, the perfect daughter of a respected family.
+text "......"
+text Why can't I think of anything to say?
+text Even though I see Akiha at home every day, I somehow feel some tension walking home toward the mansion.
+bgload IMA_10.jpg
+bgload BG_32B.jpg
+music 01.mp3
+text We arrive at the mansion.
+text Akiha steps forward to open the gate, but as if remembering something, turns to me.
+bgload BG_32B.jpg
+setimg AKI_T01A.png 40 0
+text ".... I have one question.
+text How close are you to that person called Ciel, Nii-san?"
+text Abruptly, she asks an extremely forward question.
+text "Not especially close.
+text We're just friends from school.
+text She.. feels like someone I can talk to."
+bgload BG_32B.jpg
+text "Really?" Akiha says, turning away and going through the gates.
+bgload BG_48B.jpg
+text We cross the courtyard and arrive at the door.
+text As Hisui is not waiting at the gates and Kohaku is not sweeping the garden, there is no sign of either of them today.
+text "Ah."
+bgload BG_48B.jpg
+setimg AKI_T01A.png 40 0
+text "Yes?
+text Did you say something, Nii-san?"
+text "Well, nothing much but.. I'd like to go and take a look at the Japanese-style building you were talking about, if that's okay."
+text "----The detached building?"
+text Murmuring, Akiha's brow creases with concern.
+bgload BG_48B.jpg
+setimg AKI_T11A.png 40 0
+text "Please, do not.
+text It was sealed up many years ago.
+text Nii-san, even you are not permitted to go there."
+bgload BG_48B.jpg
+text Having stated this, Akiha goes into the mansion.
+bgload IMA_10.jpg
+jump s334.scr

@@ -1,0 +1,302 @@
+bgload BG_46C.jpg
+text ----I reach Akiha's room.
+text ~
+text The dizziness is getting unbearably stronger.
+text I put my hand in my pocket.
+text I'm lucky, as my knife is still there.
+text "------"
+text I ignore my dizziness and with the knife in my other hand, I open the door.
+bgload IMA_10.jpg
+bgload BG_36D.jpg
+music ~
+sound SE_11.aac -1
+text -----Darkness.
+text ~
+text The moonlight coming in from the window barely sheds enough light to see.
+text In the blue darkness, I see Akiha on the ground.
+text "Akiha----!"
+text I run to her and hold her up.
+text ".............."
+text Akiha does not move, so she might be unconscious.
+text But I can tell she's alive as her small chest rises and falls with her breathing.
+text But, there's something more strange.
+text Akiha's black hair.
+text It has turned into a bloody shade of red.
+text "Akiha---you're really Akiha.... right?"
+text .... The hair looks red in the darkness.
+text But, it's definitely Akiha.
+text "Akiha, hey, come on....!
+text What happen---"
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_36D.jpg
+text I hear a noise.
+text ~
+sound SE_11.aac -1
+text "------!"
+text I turn back.
+text The direction the sound came from---there's, someone standing by the moonlit window.
+text .... It seems to be someone wrapped in bandages.
+text "------Who are you?"
+text The man does not answer.
+text .... A cold chill goes through my spine.
+text I feel death in my nerves.
+text .... The person is just there, broken.
+text Abnormal eyes that seem out of this world.
+text But there is some intelligence.
+text It seems the bandaged person has both intelligence and madness.
+sound SE_01.aac 1
+text My heart beats loudly.
+sound SE_11.aac -1
+text It beats quicker.
+text All the while, my mind freezes like I was dead.
+text This feeling.
+text I know this feeling of death.
+text ~
+text ---I'm sure.
+text What's in this room right now is the world of murder I saw in my dreams.
+text "---I asked you who you are."
+text I hold my knife and stare at the person.
+text The bandaged man appears to be smiling.
+sound ~
+music 04.mp3
+text "I feel sad, Shiki.
+text You don't even remember the person you've killed?"
+text He steps toward me.
+text "-----!"
+text I back up, holding Akiha in one arm.
+text "Can't you tell, Shiki?
+text I'm the guy you killed."
+text "What are you saying-----"
+text Just listening to his voice gets on my nerves.
+text I hate him.
+text .... The hatred I was feeling since I entered the mansion is concentrated on him.
+text This hatred.
+text Is my instinctual drive to remove him a homicidal impulse?
+text My heart beats.
+text From somewhere inside me, my body screams.
+text It screams that this person must be killed.
+text ~
+text "----I see.
+text You're the vampire."
+text ~
+text Holding Akiha with one arm, I hold out my knife with the other.
+text Hahaha.
+text The man laughs as it was really funny.
+text "Don't even try.
+text I am you.
+text There's no one who can truly kill himself."
+text "W---what....?"
+text "I'm taking Akiha back.
+text She was mine to start with."
+text Another step.
+text The man comes closer.
+text "Stop----!"
+text "I won't stop.
+text I came to get everything back from you.
+text Name, position, power.. everything was mine."
+text The man opens his arms and talks proudly.
+text ".... What are you saying?
+text You---what are you?"
+text ".... You still don't remember?
+text What a guy.
+text We were such good friends eight years ago."
+text "What----"
+text ~
+text Eight years ago?
+text Such, good, friends----?
+text ".... Well, I guess you forgot it.
+text It's that old man.
+text I bet he put a strong spell on you to make you forget."
+bgload IMA_11.jpg
+bgload CMO_05.jpg
+bgload BG_36D.jpg
+text "And I bet you yourself---wanted to forget about the ugly past, Shiki?"
+text ~
+text He laughs.
+text My vision shakes.
+text Eight years ago, eight years ago, eight years ago-----
+text That's the time I was sent to the hospital from that accident.
+text That was the last time the three of us played together in this mansion.
+text That was the time-----that child was there, and all the blood----
+text "But that's all ending now.
+text It was painful for you, right, Shiki?
+text Hold on, I'll save you."
+text The man slowly takes off the bandage around his head.
+text His face-----
+text ~
+text "You.."
+bgload BG_36D.jpg
+setimg HAL_T01.png 33 0
+text "It's been a while, Tohno Shiki.
+text No, that's not your real name."
+text The face that came out from the bandage,
+text it was----not the face of that bloody child but..
+text "Tohno----SHIKI."
+text Yes, why did I forget?
+text He was with Akiha back then.
+text The third kid's name was certainly that.
+text "Yes, it's really been a long time, Nanaya Shiki.
+text You finally remembered that you were an impostor."
+text The man's---SHIKI's lips turn up into a smile and he laughs deeply.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_36D.jpg
+text "Ah-----"
+text Headache.
+text I have a headache.
+text The lid opens.
+text Which was sealed shut.
+text (By whom?)
+text I can't look at it.
+text (At what?)
+text The box of forgotten memories.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_36D.jpg
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+music ~
+music 09.mp3
+bgload CMO_05.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----He commanded me to forget everything.
+text Tohno Makihisa.
+text Nanaya Shiki was adopted by the person who made him alone.
+text Probably, because it was amusing to him that I had the same name as his son.
+text It's something that happened ten years ago.
+text I was adopted.
+text I was brought into an unknown mansion.
+text My family were always people I didn't know.
+text My life in the detached building.
+text The boy and the girl I met.
+text The big garden we played around in.
+text A hot summer day.
+text Akiha getting attacked by a shadow.
+text I could only think about helping her, and the moment I used myself as a shield----
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I was commanded to forget everything.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text By Tohno Makihisa.
+text By my own father.
+text He commanded me to live as Tohno Shiki and not Nanaya Shiki and---
+bgload IMA_10.jpg
+music ~
+music 04.mp3
+bgload BG_36D.jpg
+text "------, ........!!"
+text Dizziness, Sickness.
+text Mixed memories run through my head.
+text ~
+text Thump.
+text I can't control my body.
+text I throw Akiha on the ground, and embrace my knife as I pant for air.
+bgload BG_36D.jpg
+setimg HAL_T03.png 33 0
+text "----Is it shocking?
+text I bet it is.
+text It should have been a big shock to know that you were an impostor, since you thought you were Tohno Shiki this whole time....!"
+text SHIKI laughs.
+bgload BG_36D.jpg
+setimg HAL_T02.png 33 0
+text "But, that's nothing compared to me.
+text You know, Shiki, I was killed by the person I thought was my best friend and even had the name Tohno Shiki taken away from me.
+text You even took Akiha---my Akiha....!
+text Can you understand how I felt!?"
+text "Killed----?
+text I, you----"
+bgload BG_36D.jpg
+setimg HAL_T01.png 33 0
+text "That's right.
+text I killed you first, but the end result was, you killed me.
+text Can't you recall yet?
+text Eight years ago on that day, I lost to my blood and killed you.
+text Look at that scar on your chest.
+text I took this arm and pierced right through you."
+text "Scar on my chest----"
+text That was in an accident.
+text I was told I got that from an accident-----
+text "Yes, the old man almost killed me afterwards, though.
+text The Tohno blood finally awakened inside me, but I was imprisoned underground, and lived in the dark for eight years.
+text ---That damn old man.
+text He said he'd let me out if I returned to being a human..!
+text He thought it would be inconvenient for Tohno Shiki to be gone, so he made you into Tohno Shiki."
+text "--------"
+text .... So,
+text the adopted kid that was here ten years ago was me.
+bgload BG_36D.jpg
+setimg HAL_T02.png 33 0
+text "Do you get it, Shiki?
+text I was killed by you.
+text I'm alive right now, but you're Tohno Shiki.
+text I have no place to go back to.
+text My name as Tohno Shiki, my position, my dear sister, and even my existence was taken away by you.
+text I, as Tohno SHIKI, was killed by you, Tohno Shiki."
+text ~
+text A step.
+text He starts to walk towards me with glaring eyes.
+bgload BG_36D.jpg
+setimg HAL_T03.png 33 0
+text "Here---that's the end of the story.
+text Shiki, you should have died eight years ago.
+text You've had enough, right?
+text Let's go back to the way things were eight years ago."
+text "-----The way things were-----?"
+text "Yes.
+text I return to being Tohno Shiki, and you return----to the dead person you were!"
+bgload BG_36D.jpg
+bgload IMA_11.jpg
+bgload BG_36D.jpg
+bgload IMA_10.jpg
+bgload BG_46C.jpg
+text A big impact.
+text I was blown out to the hallway with one strike from SHIKI.
+text "A------"
+text My back strikes the wall.
+text I can't breathe.
+text My head, I---still can't think straight.
+text "Ku-----"
+text I can sense him coming.
+text SHIKI jumps out from Akiha's room.
+bgload IMA_11.jpg
+bgload IMA_14.jpg
+sound SE_12.aac 1
+text "Damn----!"
+text I can hear SHIKI.
+text His weapon also happens to be a knife, and my knife joins his in a deadly competition.
+bgload IMA_10.jpg
+music ~
+text I gasp for air.
+text I'm out of breath.
+text I still feel sick.
+text But, I don't have time to think.
+text ~
+text I----
+text ~
+choice Take off my glasses and get ready to kill.|First, I have to get us away from Akiha's room.
+if selected == 1
+    jump s371.scr
+fi
+if selected == 2
+    jump s372.scr
+fi

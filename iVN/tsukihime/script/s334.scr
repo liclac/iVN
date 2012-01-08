@@ -1,0 +1,15 @@
+bgload BG_40B.jpg
+text It's a bit past five in the evening.
+text There is about an hour of free time before dinner.
+text Between now and dinner, should I spend time in my room, or---
+text ~
+choice Go to the sitting room.|Go to the detached building.|Stay here until dinnertime.
+if selected == 1
+    jump s335.scr
+fi
+if selected == 2
+    jump s336.scr
+fi
+if selected == 3
+    jump s337.scr
+fi

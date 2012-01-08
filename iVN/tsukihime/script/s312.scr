@@ -1,0 +1,815 @@
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg STK_T04.png 53 0
+text "Ah---"
+text Yumizuka's body trembles.
+text Breathing painfully, she falls to her knees.
+bgload BG_29B.jpg
+music 06.mp3
+text A choking sound.
+text Squatting on the ground, Yumizuka coughs heavily, and she spits out a lump of blood.
+text "---Yumizuka!?"
+text This time, I do rush near her.
+text "Yumizuka, are you okay?
+text Yumizuka..!"
+text I put my hand on her heaving shoulder.
+text "Ah---"
+text I feel a chill.
+text Even through her clothes, I can feel the coldness of her body.
+text "Stupid, you're freezing!
+text What are you doing out in the open on a night like this!"
+text "---Shiki, kun.."
+text Her voice is hollow as she says my name.
+text Yumizuka collapses against me.
+text ~
+text As she pants, her warm breath brushes my skin.
+text "Yumi.. zuka?"
+text "It's okay if you don't like me, Shiki-kun.
+text Because, I really didn't understand you at all until now, either."
+text Yumizuka speaks as she coughs.
+text "It's alright, don't talk..!
+text I'll take you to a hospital..!"
+text "But, I understand now.
+text Who you are, and what you want to do.
+text I really understand now.
+text Because---"
+text "Eh---?"
+text "Because, I became like you, Shiki-kun---!"
+text Saying that, Yumizuka sinks her teeth into my neck.
+bgload IMA_11B.jpg
+text "Ah----"
+text Fading.
+text My consciousness is fading.
+text Yumizuka's fangs dig into my neck.
+text "-------"
+text I'm being drained.
+text As if all the life in my body is liquified and sucked out.
+text Without strength, there are no thoughts.
+text So, my consciousness is not fading.
+text It is simply being destroyed.
+text "-------Ah."
+text There are no thoughts.
+text I know I'll die if I stay like this, but I can't even----.
+text ~
+sound SE_01.aac 1
+bgload IMA_11.jpg
+bgload IMA_11B.jpg
+text All the same.
+text From somewhere beyond my mind, my blood begins to boil.
+text "Yumizuka----!"
+text Both my arms push her back out of pure reflex.
+bgload event/STK_E02.jpg
+text She falls right on her behind.
+text "What are----"
+text I stand up.
+text But, I can't.
+text I'm so exhausted I can barely even lift an arm.
+text Yumizuka sits, as if in a drunken stupor.
+text "Ah----"
+text I can't see her face clearly.
+text Everything dims as my consciousness fades.
+text I can't control my body either.
+text All that exists is the pain in my neck.
+text Blood gurgles forth.
+text Yumizuka's teeth marks remain in my neck.
+text And through those two deep holes, something black is being poured into my body---
+text In my veins.
+text Somewhere beyond my reach, the black thing violates my whole body.
+text As a small piece of the black thing goes through my veins, my body burns inside.
+sound SE_01.aac 1
+text "Ah---guhhhh!"
+text A pain, a pain as if my spine is about to be ripped out.
+sound SE_01.aac 1
+text "Haa---arghhh!"
+text In pain, I claw at the ground.
+text But there is no relief.
+text I cannot move since Yumizuka has drained everything out of me, and the pain pours into me like a black snake.
+text I cannot move, so the black thing crawls and twists as it pleases inside me.
+text "Haa---ah, ah---"
+text I clutch at the ground.
+text With glazed eyes, Yumizuka.. looks at.. me.
+text "Yumi.. zuka.. what have you..!"
+text "It's okay, it only hurts at first.
+text First it hurts, but when the blood mixes, it should die down."
+text "Don't worry, I won't kill you.
+text I poured my blood in properly, so you won't collapse and crumble away like those failures last night.
+text You will only look at me from now on."
+text Yumizuka whispers joyfully.
+text "What are---you talking about.. Yumizu.. ka---"
+text "I'm saying that I'm making both of us the same, Shiki-kun.
+text Sucking people's blood instead of eating normal food, nocturnal, unable to walk under the sun.
+text You're going to be a different creature."
+text ~
+text .... What is, that.
+text Ridiculous, that's just like--
+text "Yeah, like a vampire.
+text I didn't really understand how I became this way either.
+text Two nights ago, I went out to check the rumor that you were walking around in the shopping district every night, and then when I came to I was lying down in that back alley.
+text Back then, I thought it was just cold, dark, and painful."
+text "But it's strange, after a while, after my body has changed completely, I understood a lot of things.
+text My body hurts because it's being destroyed very fast, and the sunlight acts like a catalyst for that.
+text And if I want to stop the destruction, I need the genetic information of the same type of living organism as myself."
+text "Yeah, I didn't understand the logic that well, but it was plain enough what I had to do.
+text I was cold, and it was lonely by myself.
+text I didn't want to disappear, so I just grabbed a random person and sucked his blood.
+text And you know what?
+text It was really delicious!
+text The pain went away and I thought I could do anything."
+text "But, it was so nice that before I realized it, it was all gone.
+text The man was all shriveled up, like a mummy, and I felt really bad.
+text I thought to myself that I was turning into a monster, both in mind and body.
+text ---But, I had to do it in order to live.
+text Like I said, I didn't kill them because I hated them.
+text I suck blood the same way you people eat animals.
+text So I decided not to think about it too deeply."
+text "Wha---"
+text What.. is this?
+text Is it okay to kill other people in order to live?
+text That.. I..
+text "But, it seems I've become a proper vampire.
+text Tonight's meal was quite fun.
+text Until now, I've been sucking blood since I was cold and in pain, but now that I'm getting the hang of sucking blood, it's becoming more interesting.
+text You understand, don't you Shiki-kun?
+text You are a much better killer than I am."
+text "Wha---"
+text What..
+text What are you talking about, Yumizuka.
+text "I was always watching you.
+text So, I know your gentle side and your scary side.
+text I never talked to you because I didn't understand your scary side."
+text "But, I understand now.
+text You're the same as me.
+text It doesn't matter if you like or hate people.
+text You could kill anyone, right?"
+text "Don't--be ridiculous."
+text I've never even once had that thought.
+text "I'm not being ridiculous!
+text I never understood the fragile air about you, but now my body has changed, and I can understand.
+text Shiki-kun, just you being there is flirting with death.
+text There are natural-born killers in this world, but even among them, you are the best."
+text "You know, I was really happy yesterday.
+text It was the first time I was happy after becoming this way.
+text Because I finally understood you, Shiki-kun.
+text I never really knew you before.
+text Shiki-kun, you're the same, right?
+text You see someone, and for no reason, your heart throbs, and your throat goes dry."
+text "That's--a lie, that feeling----I've never."
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+setimg ARK_T22.png 36 0
+text "-----"
+text I can't say.. I never had it.
+text "See?
+text A pure homicidal impulse, without the influence of emotion.
+text Your fragile side, which I always wanted to understand."
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg STK_T10.png 53 0
+text "I forgot to say one more thing.
+text A vampire is someone whose blood has been sucked by a vampire, right?
+text That's true, you know.
+text To be precise, the person whose blood has just been sucked dies.
+text Vampires pour their own blood into their victim as they drink to turn them into their own.
+text So what was in your blood back then was my blood."
+text Standing up, Yumizuka says this with satisfaction.
+text ".... So, this is.. your.. blood, huh?"
+text The black thing that still defiles my body.
+text It's not even a mouthful, but it still causes unbelievable pain, enough to drive me to madness.
+text "Well, I guess that's long enough.
+text Stand up, Shiki-kun."
+text I hear Yumizuka's command.
+text The pain fades.
+text Feeling returns to my limbs, and I can finally stand up.
+bgload BG_29B.jpg
+setimg STK_T07.png 53 0
+text "---Good.
+text From now on, we'll always be together, Shiki-kun."
+text "...."
+text "Now, come here.
+text Come by my side, hold my hand, and make me feel better."
+text She holds out her hand.
+text ~
+sound SE_01.aac 1
+text ----Thump.
+text ~
+text My heart pounds, and my legs begin to move.
+text But they don't move forward.
+text They move backward.
+bgload BG_29B.jpg
+setimg STK_T08.png 53 0
+text "Shiki.... kun?"
+text Yumizuka's voice is perplexed.
+text ~
+sound SE_01.aac 1
+text ----Thump.
+text ~
+text My heart throbs.
+text My throat becomes dry.
+text Every nerve in my body recognizes the person in front of me as an enemy.
+text I start to breathe harder.
+text This feeling.
+text Desperately, I endure the poison of Yumizuka's blood and the boiling impulse arising in my body.
+bgload BG_29B.jpg
+setimg STK_T09.png 53 0
+text "Why..?
+text Hey, why aren't you doing what I tell you to do..?"
+text ~
+sound SE_01.aac 1
+text Thump.
+text My heart beats.
+text Is this the impulse Yumizuka was talking about just a while ago?
+text Thump, Thump.
+text My heart beats loudly,
+text as if it was repeatedly ordering me to kill.. to kill.
+text ~
+text "Shiki-kun, you---"
+text "Think straight, Yumizuka."
+text Yumizuka looks at me as I breathe painfully.
+bgload BG_29B.jpg
+setimg STK_T11.png 53 0
+text "Why---!?
+text Why didn't my blood work..!?"
+text ".... I don't know, but it does feel like there's some mud in my body."
+text That should be Yumizuka's vampire blood.
+text If a mouthful of it could make me feel this sick,
+text I can't even imagine what pain it must be for Yumizuka, whose body is filled with it.
+text ~
+text .... It hurts, she said.
+text At last, I understand what she meant.
+text ".... Let's stop, Yumizuka-san.
+text It doesn't help you to do this.
+text You're sick.
+text We have to get you to a hospital, and return your body to the way it was."
+text .... I don't want the girl who cares for me to be suffering anymore.
+text But she glares at me with eyes filled with hate.
+text "---My blood is definitely mixed with your blood!
+text So you should already be part of my body..!
+text Could it be, someone else has control over you already..!?"
+text "Like I said, I don't understand, Yumizuka.
+text All I understand is---you saying that it's dark, cold, and lonely.
+text All I remember is your smiling face two days ago, telling me to help you whenever you're in a pinch."
+bgload BG_29B.jpg
+text .... To be honest, I don't know what kind of creature a vampire is.
+text But you have to kill and suck blood to live, and if you're still in pain, then I have to try to get you back the way you were.
+text ".... Yumizuka.
+text You said it hurts."
+bgload BG_29B.jpg
+setimg STK_T09.png 53 0
+text "Yeah.
+text It still hurts even now.
+text My blood vessels are still the same as they were when I was human, so just the flow of blood hurts.
+text Delicate and weak, as they burst easily.
+text But if I drink a lot more human blood, my blood vessels will be just fine."
+text "You said, it's painful."
+text "Yes.
+text My heart is in pain.
+text I have to take people's blood in order to live.
+text I don't feel like it's a crime but it hurts.
+text I'm painfully afraid that the person I was is going to disappear.
+text But, I wouldn't be so scared if I'm not alone."
+text "You said, it's cold."
+text "Yeah.
+text I'm so cold, I feel like my fingers will freeze off.
+text But I don't think it's bad.
+text I just can't feel warmth anymore."
+text "You asked for help, desperately."
+bgload BG_29B.jpg
+setimg STK_T03.png 53 0
+text "I want help, but it's already too late.
+text I can't go back to who I used to be."
+text Yumizuka says, smiling just as she did back then.
+text "Why---why did you end up that way.."
+bgload BG_29B.jpg
+setimg STK_T10.png 53 0
+text "Why?
+text That's what I want to know.
+text When I woke up, I had this body and just had this thirst for human blood I needed to fulfill.
+text It would have been so much easier if I just died instead."
+text "But, I guess it can't be helped.
+text Like people eat animals to live, I have to eat people too."
+text "Wha---what is that..!
+text What are you talking about..!
+text Why are you saying such things, Yumizuka---"
+text Unable to accept the facts, I just shout.
+text "---"
+text Yumizuka is silent, and only shakes her head.
+text "Why..!
+text Are you saying you can't laugh and walk and talk normally again like before?
+text It.. it was only two days ago..!"
+bgload BG_29B.jpg
+setimg STK_T13.png 53 0
+text ".... That's right.
+text Just two days ago, I was a creature on your side.
+text It was like a dream.
+text I understand now that I've lost it.
+text ---Yes, it was really like a dream.
+text I would give anything to go back."
+text "Then---"
+text "But it's impossible.
+text I can't go back.
+text I have to live on like this.
+text Cold, painful, alone."
+music ~
+bgload BG_29B.jpg
+text Yumizuka looks down.
+text Her cold body trembles.
+bgload BG_29B.jpg
+setimg STK_T04.png 53 0
+text "---Help me, Shiki-kun."
+text A faint voice escapes her throat.
+text "I'm scared.
+text It's really cold, and I'm alone no matter where I go.
+text So please, help me."
+text .... I understand.
+text I remember the trifling promise I made on the way home from school two days ago.
+text ~
+text "---Yeah.
+text I'll do whatever I can."
+text ~
+text .... Really.
+text To change you back into the old Yumizuka Satsuki, I'll do anything.
+text But..
+text Her answer is very different than mine.
+bgload BG_29B.jpg
+setimg STK_T03.png 53 0
+text ".... Ahaha.
+text Oh, Shiki-kun, you're still thinking about turning me back?
+text .... Honestly, you're so kind.
+text It's a great contradiction for someone who loves to kill to be so gentle about everything else."
+text Yumizuka chuckles happily.
+text "I told you, it's impossible.
+text You can't help me like that, Shiki-kun."
+text "Wha---then, then what should I do..!
+text There's nothing else I can do.
+text I want to help you, there's nothing I can do..!"
+text "That's not true.
+text There is something you can do to help me, Shiki-kun."
+bgload BG_29B.jpg
+text Saying so, Yumizuka steps forward.
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text A chill runs through my back, sensing the danger.
+text "--How can I help you, Yumizuka?"
+text ~
+sound SE_02.aac -1
+text "It's easy.
+text You just have to become my friend..!!"
+bgload BG_29B.jpg
+setimg STK_T02.png 53 0
+text "Ch---!"
+text Red, piercing eyes stare at me, and I can't breathe.
+text ~
+text ---This is bad.
+text I realize it, but my legs are not moving.
+text "Friend, wha---"
+text "Then I won't be alone, and I won't be cold or scared.
+text No, if you will be mine, I'll be much happier than I ever was as a human---!"
+bgload IMA_11B.jpg
+text ~
+text ---THUMP.
+text ~
+text My heart beats even faster.
+text Yumizuka reaches out with her arm, straight for my neck.
+text Her speed is like a bullet.
+text But somehow, I see it perfectly---or I felt like I saw it perfectly and I drop to the ground.
+text "---Guh..!"
+text I twist my head desperately, and throw myself to the ground.
+text With a whoosh,
+text Yumizuka's arms pass over my head.
+bgload BG_29B.jpg
+text ~
+text "Haa----ah."
+text "---Can't be."
+text The target and the attacker.
+text We gaze at each other in amazement.
+text "Yumizuka, you---"
+bgload BG_29B.jpg
+setimg STK_T09.png 53 0
+text "Shiki-----kun?"
+text Yumizuka looks down at me, aghast.
+text I---I know I have to run away, but my body is still frozen.
+text ~
+text Thump.
+text ~
+text My heart rings like a bell.
+text My hand grabs the thing in my pocket, in spite of my paralyzed mind.
+text Yumizuka doesn't move.
+text Only her eyes change, from surprise to delight.
+bgload BG_29B.jpg
+setimg STK_T08.png 53 0
+text ".... I get it.
+text I thought it would be simple to get you into my possession, but---"
+text ~
+text Thump.
+text ~
+bgload BG_29B.jpg
+setimg STK_T02.png 53 0
+text "Tonight will be quite entertaining, won't it, Tohno-kun?"
+text Her red, piercing eyes are hungry for blood.
+text Her arms extend brutishly, mercilessly.
+bgload BG_29B.jpg
+text Every hair on my body stands on end.
+text Before I'm torn apart,
+text my hand takes the knife out from my pocket.
+text ~
+text Thump.
+text ~
+bgload IMA_14.jpg
+sound SE_06.aac 1
+text "-----Eh?"
+text The movement of my arm is faster than my voice.
+text With a swish, the knife slices through Yumizuka's thigh.
+bgload BG_29B.jpg
+text "Kyaaaa!"
+text Yumizuka screams shrilly.
+text ~
+text ---I look in shock at my arm.
+text ~
+text There is the bloody knife that sliced open her leg.
+text ".......... Ah."
+text My senses return.
+text My body moves.
+text ~
+text ---Before I realize it,
+text I am fleeing from Yumizuka as I tremble.
+bgload IMA_10.jpg
+music 04.mp3
+bgload BG_28B.jpg
+text I breathe wildly.
+text I just run.
+text "Why---why did I---"
+text I don't know.
+text I don't understand why or how I stabbed her.
+text Thump.
+text My heart rings out.
+text And before I knew it, I had sliced her leg with my knife.
+text *pant* *pant* *pant* *pant*---!
+text Yumizuka's blood flows over the knife.
+text The feeling of tearing flesh remains in my arm.
+text "Why---"
+text Really, why did I do such a thing?
+text I only---I only wanted to help Yumizuka Satsuki.
+sound SE_01.aac 1
+text "Guh---"
+text Somehow, remembering her face makes my heart beat louder.
+text Fear and excitement.
+text Yumizuka is trying to kill me.
+text My heart pounds in response to the danger.
+text I, Tohno Shiki, cannot compete with that creature.
+text It's like apples and humans.
+text How can the ones getting eaten oppose that which eats them?
+text It's already like that.
+text Just as Tohno Shiki eats a tomato with no opposition.. for Yumizuka Satsuki, I am no different from a tomato.
+text If she finds me..
+text If she catches me, she'll kill me.
+text ~
+text So, I am running away.
+text I run, and feel that I'm still alive.
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text I run through the night.
+text For now, I just run.
+text ~
+text ------For what?
+text ~
+text That's clear.
+text Because if I don't I'll be caught.
+text I feel the presence of Yumizuka Satsuki behind me.
+text The presence, which felt like a needle before, gets larger and looms menacingly behind me.
+bgload IMA_10.jpg
+bgload BG_25B.jpg
+text *pant* *pant* *pant*----!
+text I run to escape.
+text But who am I running from?
+bgload IMA_10.jpg
+bgload event/STK_E03.jpg
+text ~
+text .... It was a beautiful smile.
+text The smiling face of Yumizuka Satsuki remembering her days at junior high school was truly gentle.
+text ~
+text "Sh.. it..!"
+text ~
+text Such a thing, how could such a thing happen..!?
+text Yumizuka became a monster which kills people, and drinks their blood----
+sound SE_10.aac 1
+bgload BG_25B.jpg
+text "----!?"
+text Suddenly something hits my back, and I'm knocked to the ground.
+text "U---gh----uh..!!"
+text Since I fell over running, my body is covered with scrapes.
+text But my back hurts far more right now.
+text With the impact on my back like that from a weapon, breathing becomes impossible.
+text "What---"
+text I start to say it, but the words vanish.
+text ~
+text Something falls onto the ground next to me.
+text The thing that just smashed into me is rolling.
+text ~
+text "Per.. son.."
+text It was some guy, arms and legs twisted.
+text "------Ah."
+text Blood flows from the man's body.
+text Red blood flows over the asphalt, staining my body red.
+text It's..
+text a human body without a head.
+text "Ohh, I didn't mean to hit you.
+text My reflexes have improved, but I guess it's a problem if my aim is too accurate."
+text A delighted voice comes from behind me.
+text "Ah---"
+text Still on the ground, I look behind me.
+text What I see there,
+text is Yumizuka Satsuki walking, with a human head in one hand.
+bgload BG_25B.jpg
+setimg STK_T02.png 53 0
+text "I'm sorry, Shiki-kun; it hurt, right?
+text I just tried to surprise you by throwing it ahead of you."
+text As she apologizes, Yumizuka tosses the severed head away.
+text "Yumizuka, what was that---"
+text "Hm?
+text Oh, this?
+text I ran into him while I was running after you.
+text He was being a little noisy so I ripped off his mouth.
+text I tasted a little of his blood, but drunk people's blood tastes so nasty.
+text Shiki-kun, you should only choose young and healthy bodies too."
+bgload BG_25B.jpg
+text Speaking pleasantly, she approaches with a smile.
+text It's nothing like the smile from back then.
+text Bye-bye, she said.
+text There are no similarities with the person who aaced and departed back then.
+text "You---really don't think anything of killing people, Yumizuka?"
+bgload BG_25B.jpg
+setimg STK_T02.png 53 0
+text "I don't.
+text Talking humans and edible humans are different.
+text Even you make a difference between human friends and friends to be killed, right Tohno-kun?"
+text "I didn't think so at first.
+text Last night, I really hated myself too.
+text But, I had to drink blood, to ease the pain.
+text So I killed a lot of people.
+text Each time I killed someone, my body stopped hurting and my heart hurt more."
+text She stops for just a moment.
+text For a moment, Yumizuka Satsuki looks down sadly.
+text "But, I came to understand.
+text Right now it will still hurt a bit, but even that will fade.
+text Because----beyond the guilt of killing people, the wonderful feeling of taking their lives away was many times stronger.
+bgload BG_25B.jpg
+setimg STK_T08.png 53 0
+text I told you, didn't I?
+text That I will be like you, Shiki-kun.
+text Don't worry, I'll become a splendid vampire who enjoys killing, just like you."
+text Yumizuka approaches with a smile.
+bgload BG_25B.jpg
+text "-----That's a lie."
+text I say so, only to realize that even that is a lie.
+text It's such a poor lie that even I can't be deceived.
+text ~
+text ----It's hopeless.
+text She's hopeless.
+text ~
+text Yumizuka Satsuki cannot be saved.
+text Even my remaining reasoning lost to that sole conclusion.
+text "--------"
+text I stand up, grasping the knife tightly.
+text She's going to suck my blood anyway.
+text I don't plan on losing my life and becoming one of those vampires.
+text So.
+text There was only one thing to do from the beginning.
+text "---Yumizuka, I.. can't save you."
+bgload BG_25B.jpg
+setimg STK_T02.png 53 0
+text "That's not true.
+text If you just cooperate, we'll be happy together."
+text ~
+text "---"
+text No.
+text That's a twisted happiness, Yumizuka.
+text ~
+text "But.
+text I made a promise.
+text ---so I have to help you in some other way."
+text Saying so, I take off my glasses.
+music ~
+bgload BG_25B.jpg
+sound SE_02.aac -1
+text An ache floods my head.
+text For the first time,
+text I accept this vision in order to kill someone.
+text "---I see.
+text Well, I'm glad you're motivated, Shiki-kun.
+text But it's too late.
+text This race is already over."
+bgload IMA_10.jpg
+text "-----!?"
+sound SE_15.aac 1
+text "Gah---!"
+text ---What, what just happened..?
+text In an instant, Yumizuka disappears, I see her face beside me---and at that moment, something slams into my side.
+text "Ha---a, guh..!"
+text .... My back hurts.
+text Such a simple attack and I am slammed into the wall of a building?
+text "Kuh---!"
+text Grasping my knife tightly, I somehow manage to stand.
+text "Oh, you can still move?
+text You're relatively strong, aren't you, Shiki-kun?
+text Since you were always troubled by anemia, I thought you were weak."
+text Yumizuka's voice draws nearer.
+text *pant*---*pant*, *pant*
+text Breathing---my breathing is rough.
+text What is this?
+text I have made a serious mistake.
+text "It's useless to expect anything from that knife.
+text To me, you look as if you're stopped.
+text Even if you had a gun, it would be useless."
+text ~
+text Her laughing voice is full of amusement.
+text ~
+text "---Ghaa---ah."
+text That's, the mistake.
+text I can see the lines along which things break, but I'm just a human who can see that.
+text If my opponent is many times faster than me, like Yumizuka, I can't even touch those lines.
+text "Kuh---"
+text In other words,
+text against her, it's useless even if I can see these lines.
+bgload IMA_10.jpg
+setimg STK_T02.png 53 0
+text "---Ohh.
+text Well, it can't be helped.
+text I'm going to be a little rough.
+text Don't worry, if your head and heart are intact, I can do something."
+bgload IMA_10.jpg
+sound SE_15.aac 1
+sound SE_02.aac -1
+bgload IMA_10.jpg
+text "Kuh----"
+text With a crash, everything becomes black.
+text Yumizuka's hand grabbed my arm.
+text And threw me like that..
+text Like a soccer ball, I was thrown and I fall to the ground on my back.
+text "Ah----ghh----!"
+text ~
+text ----I can't see.
+text My body is in such pain, I can't see anything.
+text ~
+text "Hey now, you shouldn't be sleeping there, Shiki-kun....!"
+text "----!"
+text I roll to the side quickly.
+sound SE_05.aac 1
+text Right where I was before, Yumizuka's arms pound the ground.
+sound SE_02.aac -1
+text The sound of asphalt breaking apart reaches my ears.
+text "Ha----kk....!"
+text I force my numb body to move.
+text My vision is still pitch-black.
+text All I can feel is Yumizuka's presence.
+text "...... You....!"
+text Standing up and facing her presence, I raise my knife.
+text "I said it was useless.
+text Why can't you just accept it calmly, Shiki-kun!?"
+bgload IMA_11.jpg
+bgload IMA_10.jpg
+text Her presence nears.
+text Thump, the sound of my heartbeat.
+text It might be because I can't see anything, this time I easily slip through her grasp.
+text ~
+text "------No way."
+text ~
+text Yumizuka's surprised voice.
+text I know her back is facing me.
+text But since I can't see her, I can't do anything.
+text From there----a hostile, killing presence growing stronger.
+text "Why you----I said, don't move!!!"
+text Her voice.
+text Impending death.
+text I blindly swing my knife to meet them.
+sound SE_12.aac 1
+bgload IMA_14.jpg
+text "Kyaa----!"
+text The sound of rending flesh.
+text I just sliced her arm.
+text "Cra----Yumizuka, are you okay....!?"
+text Saying so, I hate how stupid I am.
+text Why am I worrying over someone trying to kill me----?
+text ~
+sound SE_15.aac 1
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+sound SE_02.aac -1
+text "------Ah."
+text My body.. floats.
+text I am hit from the front and fly through the air.
+bgload BG_31B.jpg
+text "Ah------"
+text My vision returns.
+text Is it because her attack was so strong?
+text ".... Back.... alley."
+text It seems I flew all the way to the back alley wall.
+text I feel the hard wall against my back.
+bgload IMA_10.jpg
+bgload BG_31B.jpg
+text "----Ah."
+text My consciousness starts to fade.
+text Still, Yumizuka mercilessly presses forward.
+text "Liar----!"
+text Her voice full of hate, she swings her arm towards me.
+text "............"
+text I can't move.
+text Since I can't move, all I can do is be killed.
+sound SE_10.aac 1
+text "............ Eh?"
+text The wall shakes.
+text Yumizuka's arm only pounded the wall next to me.
+music 08.mp3
+bgload BG_31B.jpg
+setimg STK_T12.png 53 0
+text "Liar----!
+text You said you'd help me when I was in a pinch!"
+sound SE_10.aac 1
+text Again, she starts to break areas away from me.
+text "Why?
+text Am I not good enough because I became like this?
+text But I couldn't help it....!
+text I didn't become like this because I wanted to....!"
+text Bam.
+text Bam.
+text Like a child throwing a tantrum, she keeps screaming.
+text ".... It hurts so much, it is so painful, but why won't you help me, Shiki-kun!?
+text You promised to help me, so why--"
+text ~
+sound SE_10.aac 1
+text Bam.
+text Bam.
+text Her forlorn, anguished voice.
+text In this situation where she could kill me any time..
+text For some reason, my fear of impending death starts to fade away.
+text "Shiki-kun----if you could be by my side, I could even bear this pain.
+text Why, why can't you accept me....!?"
+sound SE_10.aac 1
+bgload BG_31B.jpg
+text ~
+text .... How, foolish.
+text Her words weren't ones of hate directed at me.
+text Yumizuka Satsuki was only crying this whole time because she can't help it----
+text ~
+text ----Her voice dwindles away.
+text ~
+text Only able to move my fingers, I look at her.
+text .... How come?
+text Yumizuka looks at my unmoving body as if she was surprised.
+text .... As if,
+text she was waking from a nightmare, and regretting what she's done.
+text "----Shiki-kun, I.... never, meant to----"
+text ~
+text Her voice is trembling.
+text .... I guess she's calmed down, but her voice still sounds like she is about to cry.
+text "...... It's...... okay."
+text ~
+text ----You don't need to blame yourself like that.
+text Even if your mind and body turned into a vampire.
+text In the end, you're still just a pitiful victim.
+text In any case, I can't move.
+text Yumizuka, if you say you are so alone, in so much pain, and so cold,
+text then there is only one thing that I can do.
+text ".... It's okay, Yumizuka-san."
+text "Shiki.... kun?"
+text "You can suck my blood if you want.
+text It's a promise.... I'll be with you, okay?"
+text I think my voice was kinder then I ever was.
+text After hesitating, she quietly kneels by me and holds me.
+text "----Is it, really okay?"
+text Her voice is mingled with hesitation and happiness.
+text ".... What?
+text You came after me because you wanted to do that, right?
+text Why are you hesitating now, Yumizuka-san?"
+text "But------I really want to, but----"
+text ~
+text ----If I do that, I really will be hopeless----
+text ~
+text That last line barely escapes her lips.
+text "........"
+text .... How ironic.
+text Certainly she has become a vampire.
+text Yet in her most important part, a human heart remains.
+text Because her heart remains, Yumizuka Satsuki still feels pain over being a vampire.
+text Being human.
+text As long as that part remains human, she will be in pain.
+text "----It hurts, doesn't it?
+text So it's okay.
+text I can't help you.
+text So shouldn't we just do things your way?"
+text "...... Shiki...... kun."
+text She nods.
+text Then, she brings her lips to my neck.
+bgload IMA_10.jpg
+music ~
+bgload event/STK_E01A.jpg
+text "Ah------"
+text Disappearing.
+text The remaining heat in my body fades away quickly.
+text ~
+text Quiet.
+text Such a quiet death.
+text ~
+text I don't have any power to break free.
+text The "lines" in my vision should disappear soon too.
+jump s312a.scr

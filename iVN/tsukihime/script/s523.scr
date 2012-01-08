@@ -1,0 +1,26 @@
+bgload BG_06C.jpg
+music 07.mp3
+bgload BG_06C.jpg
+bgload BG_06C.jpg
+setimg CEL_T20.png 103 0
+text .... The third period class was a sad story.
+text You really were splendid in trying to resolve everything by yourself, but it seems to have backfired this time.
+text Consult your reliable Senpai, and please make your way through this trouble.
+text ----And!
+text For you Tohno-kuns who came here for some other reason.
+text Unfortunately, even though you were so close to the climax, your bond with Ciel-san was not deep enough.
+text I have to ask you to resubmit.
+text Please go back a long time, and make good friends with Ciel-san.
+text There are a lot of places you can do this, but the most important one is what happens on the sixth night.
+text Tohno-kun, when it came time to choose between Ciel-san or Arcueid, did you choose that idio**c woman?
+text ~
+text This is the result.
+text If you have learned your lesson, please go back to the night of day six and think again about who you should choose.
+text ~
+text ~
+text ~
+text ~
+text ............ Okay!?
+bgload IMA_10.jpg
+music ~
+jump main.scr

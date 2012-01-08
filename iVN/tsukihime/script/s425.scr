@@ -1,0 +1,2282 @@
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+text I cough violently.
+text .... Probably because I am forcing myself to talk to Kohaku-san,
+text my body doesn't even allow me to do that properly.
+bgload BG_40C.jpg
+setimg KOHA_T16.png 52 0
+text ".... Shiki-san.
+text Why don't you tell Akiha-sama that you love her?"
+text She asks the same thing again.
+text But this time, it's a little different.
+text Kohaku-san's voice seems---somewhat sad.
+text "If you do as Akiha-sama says, then you'll live.
+text Even if it's just lip service, you will die unless you do so.
+text I don't know what you're thinking, but isn't it better just to return her feelings?"
+text ~
+text ---Such a thing.
+text If I could do that, I would've already done it.
+text "---No.
+text I do love Akiha, but only as my sister and nothing more.
+text .... The one I like isn't Akiha, Kohaku-san.
+text I don't, want to lie to the one, I love the most."
+text I force the words through my ragged breathing.
+text Tick.
+text The second hand of the clock ticks in the short silence.
+bgload BG_40C.jpg
+setimg KOHA_T03B.png 52 0
+text "Oh Shiki-san, that's no good.
+text You can't even do it just this once?"
+text ".... Nope.
+text If my body is not free, I'd like at least my heart to be free.
+text If I lie just once then I'll have to continue lying.
+text If I surround the lies with more lies, then it will all end up being empty.
+text If that happens, I would---"
+text ~
+text .... That girl that had nowhere to run.
+text "----Never be able to help the one I like the most."
+text And I just look at Kohaku-san.
+bgload BG_40C.jpg
+setimg KOHA_T17.png 52 0
+text She looks away without donning her smile again.
+text ".... That is, pointless.
+text Don't you pity Akiha-sama?"
+text "Pity, Akiha....?"
+text ".... Yes.
+text Every night she walks the streets and drinks someone's blood.
+text Akiha-sama is unable to make those from whom she sucks blood like herself in the manner SHIKI-sama was, but she has the ability to steal from others."
+text "Akiha-sama knows this.
+text She knows that sucking blood is making her less human, but she doesn't stop.
+text .... She's only doing it to keep you alive.
+text So---even though she knows it's transforming her into a blood sucking demon, she continues it for your sake."
+text "Ah-------"
+bgload BG_40C.jpg
+setimg KOHA_T08.png 52 0
+text "Do you still refuse her when she does all that for you?
+text These past eight years, Akiha-sama has waited only for you."
+text "--------"
+text .... I can't answer that.
+text In the first place, I'm dying because of Akiha.
+text But I've only lived until now because of her efforts.
+text I----have a debt to her that is too large for me to ever repay.
+text "---------"
+text I can't say what is right and what is wrong.
+text But I still have something I can't give up and I can't permit.
+text .... So I know what I have to do.
+music ~
+text "----I see.
+text Akiha will go out and drink blood tonight again."
+text I raise myself up.
+text The pain runs through me like an electric shock.
+text I manage to stand up while resisting the volume of pain.
+bgload BG_40C.jpg
+setimg KOHA_T13.png 52 0
+text "Wha.... Shiki-san, what are--"
+text ".... No.
+text I can't let Tohno Akiha drink any more blood."
+bgload BG_40C.jpg
+text I laboriously take a single step.
+text Even though I may collapse at any moment, I continue forward.
+text I can at least.... make it to Akiha's room.
+text "Please wait."
+text Standing in my way,
+text Kohaku-san appears before me.
+bgload BG_40C.jpg
+setimg KOHA_T08.png 52 0
+text "You say you'll stop Akiha-sama.
+text Is that the blood of Nanaya speaking?"
+text ".... That has nothing to do with it.
+text I just want Akiha to be Akiha.
+text That is, what I, as Tohno Shiki, really feel."
+bgload BG_40C.jpg
+setimg KOHA_T13.png 52 0
+text "........ You mustn't.
+text Akiha-sama will not have any mercy on you.
+text You realize it already.
+text The Akiha-sama from before no longer exists."
+text ~
+text .... I know that.
+text That shimmering mirage behind her.
+text That thing is driving her away from being Akiha.
+text The way Akiha is now, she will see me as completely useless if I don't accept her.
+text "Even still---I must stop her.
+text I'm, her brother, after all."
+bgload BG_40C.jpg
+setimg KOHA_T16.png 52 0
+text "................"
+text Kohaku-san doesn't say anything.
+bgload BG_40C.jpg
+text I push my way through to the desk.
+text Inside is what I brought from the Arimas, only a few things.
+text I take my knife out of the drawer.
+text .... And I see that which I haven't yet returned.
+music 07.mp3
+text "Kohaku-san."
+text Gripping the final remnants, I walk.
+bgload BG_40C.jpg
+setimg KOHA_T13.png 52 0
+text ".........."
+text Kohaku-san just stands there.
+text ".... This might be the end, so here."
+text I hold out the white ribbon in my hand.
+text "It's a little late, but I'm giving it back.
+text Sorry.
+text You went through such trouble to give it to me, and I never even used it."
+text ~
+text .... I don't know if my feelings were able to come out through my words.
+text And as gentle as I can,
+text I place the ribbon of promise into her hand.
+bgload BG_40C.jpg
+setimg KOHA_T09B.png 52 0
+text "-----------"
+text The sound of gasping.
+text She stands stock still like a doll, just staring in amazement at the ribbon in her hand.
+text ~
+text "...... You knew, Shiki-san?"
+text ~
+text ".... Not right away.
+text It was only just recently.
+text .... I really should have realized it as soon as I came back."
+bgload BG_40C.jpg
+text Yeah.
+text I should've realized it after I returned to the mansion and Kohaku-san said "Welcome back."
+text Even still, she smiled when I asked if she was one of the children who was here back then.
+text ~
+text ".... I, don't have the right, but thanks.
+text I really was happy that you waited here for me."
+text ~
+text .... For eight years.
+text Those were the words I always wanted to say as Tohno Shiki.
+bgload event/KOHA_E06.jpg
+text Tears.
+text Her face.
+text Her face is neither sad nor happy, but a single line flows down.
+text .... I don't know what it means.
+text ~
+text But, naturally.
+text I hold her body close to mine.
+text .... I can feel her warmth.
+text My raging heart seems to become strangely calm from it.
+text ".... Kohaku-san.
+text I'll stop Akiha, so you get away with Hisui.
+text .... And you don't have to come back.
+text .... You've been locked in this mansion for ten years.
+text You can be free, and---you don't have, to force yourself, to smile---"
+text ~
+text "Shiki-san, everything, you.."
+text ~
+text Her lips mouth the word "knew".
+text I didn't want her to say those words, so I close her mouth with my own.
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---It was really just an instant.
+text Just a touch, a fleeting kiss, but unforgettable.
+music ~
+bgload BG_40C.jpg
+text I raise my head.
+text I release her.
+text In place of the doll-like Kohaku-san, I smile with all of my heart.
+text ~
+text "Well.
+text It was really short, but living here with you was a lot of fun.
+text ----Yeah.
+text I really like you the best, Kohaku-san."
+text ~
+text ---Let's do this.
+text The only thing left is to stop Akiha.
+text ".............. No, stop."
+text As I move to open the door, her voice rings out to me.
+text "............ No, Shiki-san.
+text You can't stop Akiha-sama like that."
+text ".... Eh?"
+text I turn around---
+bgload BG_40C.jpg
+setimg KOHA_T16.png 52 0
+text "Shiki-san---you have to stop Akiha-sama."
+text Kohaku-san stands there, not with a smile, but with a truly sad face.
+text "Kohaku-san---why?"
+text Why does she look like she's about to burst into tears?
+text "Shiki-san.
+text Did you really mean that?"
+text She looks directly at me.
+text Her eyes implore me to confirm what I said about liking her.
+bgload BG_40C.jpg
+text "--------"
+text I nod.
+text Kohaku-san shuffles over to me and holds my hand.
+text .... How long were we like this?
+text Kohaku-san doesn't say anything.
+text After holding my hand like a child, she smiles once more and places my hand against her chest.
+music 08.mp3
+bgload BG_40C.jpg
+setimg KOHA_T03B.png 52 0
+text "If that's the case, then please make love to me.
+text If you do that, then you should be fine without Akiha-sama's help."
+text "Wha----make love.. what are you-"
+text "I'm talking about having sex.
+text Hisui-chan and I were both brought to this mansion for that purpose you know."
+text Kohaku-san says such a thing with her usual smile as if discussing the weather.
+text "S-sex, but that....!"
+text It's too sudden, my voice comes out weird.
+text "Yes.
+text You may not know this, but we are called Synchronizers.
+text Simply speaking, we can project ourselves into someone else and increase their powers.
+text But it only works if.... the person is of the opposite gender.
+text Akiha-sama is a woman so we could not Synchronize.
+text That's why she had to drink my blood to form a fake bond."
+text "---------"
+text Thump.
+text My body heat rises.
+text It isn't the wildness of my heart earlier.... it is the true feelings of Tohno Shiki coming to light.
+text ".... B.. but, that, is---"
+bgload BG_40C.jpg
+setimg KOHA_T12.png 52 0
+text "You're unable to return her feelings, right?
+text So there's no other way.
+text Please, have me.
+text If we exchange our bodily fluids then I'll be able to help your condition.
+text If you do so, you can return to normal without Akiha-sama's help."
+text "Uu........"
+text .... I really can't ask for anything more.
+text If I won't be a burden to Akiha, she won't have to drink any more blood.
+text And really, I want Kohaku-san too.
+text "--------"
+text But.
+text I still feel there's something wrong about this.
+bgload BG_40C.jpg
+setimg KOHA_T03B.png 52 0
+text "Shiki-san, were you lying when you said you liked me?"
+text Kohaku-san saying that with a smile---I start to lose control.
+text "---It wasn't a lie.
+text I.. always wanted you----"
+bgload BG_40C.jpg
+setimg KOHA_T12.png 52 0
+text "Then please let me give you strength.
+text If you don't, you'll die and be unable to stop Akiha-sama."
+text Saying that,
+text she embraces my hand tighter onto her chest.
+text Tender, yet firmly elastic.
+text Feeling the breasts of a young woman causes my head to spin.
+text "---------"
+text ~
+text .... I understand.
+text Kohaku-san is just continuing her act.
+text I understand that she's just using me.
+text But still---that's something important to me.
+text ~
+text ".......... Is this alright?
+text Are you really okay with this, Kohaku-san?"
+text "Yes.
+text Because I love you too, Shiki-san."
+text ~
+text ---I know that smile is fake.
+text ~
+text But.. I believe the words.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text I want to believe in those words.
+bgload BG_40C.jpg
+text .... I draw her close to me.
+text When I kiss her, it's a violent, passionate, stealing kiss, completely different than before.
+music ~
+bgload IMA_10.jpg
+text ~
+text I don't know how long it's been.
+text Her tender lips.
+text I push my mouth against hers as if stealing her breath and hold her tightly against me.
+text "----------"
+text My capacity for logic has gone out the window.
+text My mind is completely empty, without any serious thinking to fill it.
+text All I can think about is making this moment last forever.
+text "----------Ah."
+text But my body is at its limit.
+text My legs sway beneath me.
+text The arms embracing Kohaku-san fall to my sides, and I lean completely against her.
+text ".... Goodness, now look what happened, Shiki-san.
+text That's what happens when you push yourself."
+text ~
+text My body is about to fall onto the floor.
+text ~
+text "Please lie on the bed.
+text I'll make you feel a lot better soon."
+bgload BG_40C.jpg
+music 05.mp3
+text I fall onto the bed.
+text I can't even move.
+text Even breathing is painful as the world warps around me like a smothering blanket.
+text "......"
+text .... Crap.
+text In this condition, I can't even embrace Kohaku-san.
+text Even though I can get better if I do what Tohno Makihisa did, if my body doesn't move, I can't even do that----
+text ".... Please relax.
+text Just stay like that and I'll do all the work."
+text She puts her knees on the floor.
+text From my vision.
+text Kohaku.
+text Disappears.
+text ".... Kohaku.. san....?"
+text The only response is the sound of something clattering from my hips.
+text "-------Ah."
+text My breath stops as I realize it's the sound of my belt being removed.
+text The sound and feel of my zipper being lowered.
+text "H, hey---Kohaku.. san....!"
+text "................"
+text No answer.
+text Instead, Kohaku-san just carefully pulls back my underwear and bares me.
+text "------------!"
+text My body feels warm all over.
+text Not from excitement, but from embarrassment as Kohaku-san stares at my manhood.
+text .... Certainly I couldn't hide myself if I wanted to do this, but still---this wasn't what I expected.. I only thought about the actual sex.
+text "Kohaku-san, that---"
+text ".... Yes.
+text We have to start here if you want to get better."
+text Her breath touches my skin.
+text .... My shaft rises in response.
+text "Ah............"
+text I hear her gasp.
+text She gingerly sets my swelled manhood free from my pants with her little finger.
+text "------Kohaku.. san-----"
+text Just a light touch.
+text It was only her little finger, but the sensation races through my entire shaft.
+text "Hm.... now now, Shiki-san.
+text .... Don't fight it.
+text Just relax."
+text She chides me as she begins to wrap her hand around me.
+text Her fingers slowly begin to squeeze.
+text ~
+text Their coldness shoots right through me.
+text "Ha----ah, ah-----"
+text My blood starts to gather up.
+text The embarrassment crumbles away as a gasp escapes my throat.
+text "Yes.... you can moan more."
+text Whoo.
+text As if cooling something off, Kohaku-san blows air over me.
+text "Mm---------!"
+text Thump.
+text With that, I become completely erect.
+bgload IMA_11.jpg
+bgload event/KOHA_H01.jpg
+text "Haha.... What's this?
+text You're really healthy right here, Shiki-san."
+text Her voice is sweet as she lightly rubs her nose against me.
+text It's a different.. sensation than her fingers.
+text As if trying to take in every nuance of my smell, Kohaku-san stimulates all around me with her nose.
+text "Hm.... Shiki-san, you're so cute.... Your smell is very faint but you're so large and handsome."
+text After sniffing, she slowly reaches out her tongue and touches my tip.
+text It's just for an instant, but the feeling of her wet tongue touching me sends a shock through my body.
+text "Ah------"
+text The gathering heat at the base of my rod causes me to speak without thinking.
+text That heat.
+text ".... Haha.... You've finally warmed up, I see."
+text She happily brings a finger down to check.
+text Her fingers start to move.
+text Those four fingers start to caress me gently up and down.
+text Her delicate kneading causes me to harden even more.
+text The swelling increases as if to escape the caress of her fingers.
+text Not letting anything escape, her four fingers are joined by her tightly gripping thumb.
+text ".... Ah.... you're really turned on, Shiki-san."
+text Kohaku says half-amazed, half-dreamily.
+text I look at the slit on the tip of my tool and see it already dripping.
+text "--------"
+text My face turns red.
+text I turn away, embarrassed, but Kohaku's flushed face moves forward and sniffs the oozing fluid.
+text ".... Hm.... things will start to feel even better."
+text My dry pole starts to overflow.
+text Her cute fingers now covered in that licentious fluid, Kohaku starts to stroke me earnestly.
+text ~
+text .... Sliding, sliding, slide slide sliding.
+text "Ha---ah, -----!"
+text I can't hold back my gasps.
+text Even though it is simply rising and falling, her strangely flexible fingers ensure the sensations are not that simple.
+text Her vivacious fingertips seem to be sucking my very skin.
+text "Hehe.... Shiki-san, you're amazing.
+text You're still growing."
+text "No...... That.. you are.. Kohaku---"
+text .... That's right.
+text Her fingers are stranger.
+text She's the one who.. is shaping me.. as if.. I was clay---
+text "Sto.... Kohaku.. san---you don't.. have to.. do that---"
+text .... I don't.. even care about anything else right now.. it feels that good.. but.... this isn't exactly what I wanted.
+text I thought I would be holding her.
+text This is.. a little different---
+text "It's.. enough---so you.. can stop now---"
+text Holding back my passion racked gasps, I barely manage to say that.
+text But she.. her fingers.. do not.. stop.
+text Her tongue, so red it looks like it's painted with fire, takes a lick.
+text "-------!?"
+text The pleasure causes me to clench my jaw in shock.
+text She looks up at me with glazed eyes.
+text "Not yet.... not yet, Shiki-san.
+text This boy here tells me it isn't enough."
+text Her red tongue traces a line up my shaft.
+text It glides from my testicles to the very top of my tower.
+text "Ah.... m, u.... hu.... ah."
+text Her breath swirls around me.
+text The wild exhalations seem to burn with the same fire as I do.
+text "Mm.... more, you need to be more excited----"
+text Her tongue swirls around my tip.
+text .... It seems almost poisonous.
+text Even though it's so cute, its glossy, serpentine surface lengthens.
+text Red tongue.
+text It just creeps around my shaft like swirling blood.
+text "--------"
+text With just that,
+text it feels so good.. I may even.. pass out.
+text "Aahh---isn't.. that.. enough?"
+text I don't even know what I'm saying now.
+text She pushes down into the opening of my dripping shaft with the back of her tongue.
+text "Eh---ah, ah----!?"
+text The back of her tongue feels completely different.
+text She continues to caress me with her fingers while pushing down with her tongue.
+text Not just up and down, but side to side, sliding, pushing, pulling----
+text "Ha, ah---stop.. Kohaku.. I'm coming----!"
+text ~
+text My shaft tightens.
+text The heat rises from the base of my shaft, and I can't hold it back anymore.
+text Kohaku's fingers stop it completely.
+text Her little finger, only holding me up until now, becomes an iron vice which stops the advance of my semen.
+text "Ko.. haku------what.. are---"
+text "Hm.... not yet.... you have to wait.... this is your very last bit.. so please.. release.. inside of me."
+text .... Her fingers separate.
+text As if begrudging me every drop, she kisses my convulsing shaft.
+text She lightly places her hands on my body.
+bgload BG_40C.jpg
+text "Ah----"
+text I fall back.
+text Kohaku quietly places herself over me.
+text "Nn........ Tight......!"
+text Her hips fall.
+text Guiding my member into her sweet passage, Kohaku drops onto me.
+text "----------"
+text I can't see anything.
+text The sound of me entering Kohaku reaches my ears.
+text That sensation.
+text I can feel this warmth at my tip.
+text It reaches down my shaft and my world spins in pleasurable upheaval.
+bgload event/KOHA_H02.jpg
+text ".... Ha.... ah.... mm........!"
+text Kohaku tries to hold back a cry but her breathing becomes labored.
+text Are her eyes closed because she's trying to hold back pain?
+text Exalting in the contact, Kohaku starts to bring me inside of her.
+text "---------"
+text Everything is still dark.
+text I---I don't know what just happened.
+text I look, but I can't see anything.
+text All I know for sure is that I can feel Kohaku.
+text Warm.
+text No, hot.
+text Her insides are tight and continually pull me further in.
+text To be honest, I feel that I have to congratulate myself for not releasing already.
+text This is completely different than her tongue and fingers.
+text Something feels strange.
+text Is it my semen?
+text Is it her wetness?
+text The feeling of immersion and a tickling sensation coming from what feels like a multitude of soft folds.
+text ".... Mm.... Shiki-san, you're so.... hard.. please---"
+text ~
+text Sliding.
+text ~
+text Her hips gradually lower.
+text Her wetness flows all over me.
+text "---------"
+text I still can't see clearly.
+text .... What's going on?
+text She's lowering her body, but it feels like it's rising.
+text Exalting in the sensation of our rubbing skin.. I want to hold Kohaku.. whose face is clouded as if resisting something.. closer to me.
+text ---So how come?
+text My body is drowning in pleasure, but my mind seems to have stopped.
+text .... I don't get it.
+text Don't I want her?
+text This feels so good, so why---
+text "---N----too much----"
+text Her hips stop.
+text I feel something hard inside of her tightening body with the tip of my manhood.
+text .... I can feel her tightening all the way to my very base.
+text I am almost completely inside of her.
+text Her hands push down on my chest as if stopping herself from going any further.
+text She breathes hard, as if she was in pain.
+text She doesn't lift her hips, as if she merely wants to wrap herself around me.
+text ~
+text ~
+text .... I realize even her anguished face is just too beautiful.
+text I really do love Kohaku.
+text "Ah.... just.. a little more------"
+text Kohaku's voice.
+text With a final thrust she begins to move downwards.
+text Her skin and mine fuse and she leans down against me.
+bgload event/KOHA_H03.jpg
+text A brief spasm.
+text My shaft, now fully embedded within her, voices its pleasure.
+text "Ah---a.... all of it.. inside me."
+text She leans her body against my chest.
+text Kohaku's face is full of ecstasy.
+text "----------"
+text Seeing that face, I lose myself completely.
+text ~
+text I feel her breasts through her kimono.
+text Her delicate, slender body contrasts with her licentiously spread legs and I almost pass out.
+text "Ahaha.... If I do this, I can be really close to your face."
+text Kohaku looks up at me from my chest.
+text "--------Kohaku.. san."
+text ".... Yes, you don't have to hold back any longer.
+text Please, like this.... give me as much as you want."
+text "--------"
+text .... But.
+text This feels so good, but I can't even hold her.
+text .... I understand my uneasiness from before.
+text Because I love her so much---I can't just do anything as clinical as just "exchanging bodily fluids."
+text "No Kohaku-san.
+text I can't---"
+text ".... Hm.... well then, I'll just have to move then."
+text "Ah---------"
+text Not stopping to hear my response, she starts to move her hips.
+bgload event/KOHA_H02.jpg
+text "Hey------, ah, ahh------!"
+text My entire body shivers.
+text With me still inside of her, she rocks her hip in a circle.
+text Impaled as she is, she can't move around too much.
+text It feels like hundreds of tongues are licking all around me, and that number multiplies as the sensation of her moving overwhelms me.
+text "Ah----Ko.. Koha.. ku------!"
+text I close my mouth and resist as hard as I can, but that mouth keeps strangling me with pleasure.
+text "Ha----ah, ah............!!"
+text I want to die.
+text No, if I die here, I won't even care because it feels that good.
+text My manhood feels like it's in a dimension of pure pleasure.
+text The nucleus of pleasure rotates inside of Kohaku's body.
+text "-----,--,,------, ..........!"
+text I can only breathe.
+text "Mm.... Shiki-san, please, .... use your.. hips---"
+text Engulfed in pleasure, Kohaku-san asks for the impossible.
+text The heightening aaces of sensation crash through my head---
+text "Ah---yes, there---Shiki-san, any time you want----"
+text Her hair flutters freely.
+text As she asks, I raise my hips.
+text "-----,--,,------,"
+text I can't breathe.
+text ---I want to release it all.
+text Everything is building to a head, but I can't release.
+text She tightens around me so much I can't let anything out.
+text .... There really must be something wrong with me.
+text This incredible pressure isn't painful.
+text That pressure mounts around the center of my shaft.
+text The skin around me is rather soft, so it isn't like it hurts.
+bgload event/KOHA_H03.jpg
+text "How is it.... Shiki-san, does it feel good....?"
+text Kohaku speaks with a bewitching voice.
+text "-----,--"
+text That goes.. without saying------
+text ".... Mm.... then I guess that's a yes...."
+text Her hips stop.
+text "Ah-------"
+text .... I'm saved.
+text With this I won't have to---
+text "-----, ..........!"
+text Instantly.
+text With all the force of before, she tightens again.
+text "Ha------ah, gah........!"
+text My hips rise.
+text Kohaku looks down at my face.
+text ~
+text "---Aha, come inside me!"
+text ~
+text Her voice rises like that of an innocent child.
+bgload IMA_11.jpg
+text That which I held back for so, so long rushes forth.
+text More than I thought possible for one spurt.
+text And.. it is all released inside of her.
+bgload BG_40C.jpg
+text ~
+text Ah----ahh----ahh----ahhh.
+text The sound of my breathing is all that echoes in the room.
+text Kohaku gets off of me and places her hand against my forehead.
+text "Thank goodness, your body temperature has returned.
+text I guess we really are compatible with each other.
+text Usually, if you have previous bonds like me, once isn't enough."
+text She sounds extremely happy.
+text ~
+text ~
+text ~
+text *pant*----*pant*----*pant*---
+text .... Certainly, my body is completely different than before.
+text Even though I'm breathing hard from exertion, for the first time in days I can move as freely as I want to.
+text "That is so fortunate.
+text But you're tired, right?
+text I was worried I wouldn't accept you with just one attempt.
+text It seemed more than once for you right now would have been life threatening."
+text Straightening her kimono, she moves away from the bed.
+text She seems truly happy that I returned to normal.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text *pant*-------*pant*--------*pant*
+text But, I'm not happy at all.
+text "Please rest until I return with some new clothes.
+text My powers will not work completely right away, so please just relax."
+text Kohaku goes to leave the room.
+text I can't resist seeing her smile like that.
+text "Kohaku-san---!"
+text "Eh-------?"
+text I get up from bed and grab her hand.
+text "----------"
+text I don't say anything, I just hold her slender hand in mine.
+bgload BG_40C.jpg
+setimg KOHA_T03B.png 52 0
+text "....?
+text Is there something wrong, Shiki-san?"
+text "---------"
+text I look down and grit my teeth.
+text Her warmth flows through my hand.
+text If I let her go, maybe it will never have been real.
+text Even I know that I'm betting my life by trying to stop Akiha.
+text ~
+text .... I only have now.
+text I can only love her for real right now.
+text So I don't want something like that.
+text "--------Don't go."
+text "Eh, Shiki-san....?"
+text ".... This won't work, Kohaku.
+text It wasn't enough."
+text Looking down and blushing furiously, I tell her what I feel.
+bgload BG_40C.jpg
+setimg KOHA_T13.png 52 0
+text "Ah.... I, I'm sorry....!
+text I knew just once would not be enough to accept you.
+text Forgive me for making you say that.
+text Please wait, I will do it again in an easier---"
+text Kohaku looks distraught.
+text "No, that's already done.
+text My body has recovered.
+text .... It isn't my body that hasn't had enough, it's my heart."
+bgload BG_40C.jpg
+setimg KOHA_T09B.png 52 0
+text "Huh....?
+text Your heart?"
+text Kohaku's expression grows confused.
+text "Um---Shiki-san, it didn't feel good?"
+text With a serious look she asks me this unbelievable question.
+text But now is not the time to be embarrassed.
+text "That's not it at all....!
+text Um.... uh, it felt really good.
+text I'm being completely honest."
+bgload BG_40C.jpg
+setimg KOHA_T15.png 52 0
+text "Ahaha.
+text Shiki-san, you look so cute when you blush."
+text Kohaku smiles happily.
+bgload BG_40C.jpg
+setimg KOHA_T03B.png 52 0
+text "So what wasn't enough?
+text I don't understand what you're saying."
+text ".... Isn't it obvious?
+text What we did couldn't be called making love.
+text I didn't want to do it like that."
+bgload BG_40C.jpg
+setimg KOHA_T13.png 52 0
+text ".... I don't get it.
+text I think that was the best method for exchanging bodily fluids.
+text And you have recovered, right?"
+text "I said, that's not it....!
+text When you said what we had to do, I was incredibly happy.
+text .... I was so happy that I even forgot all about Akiha.
+text I---like you so much that I couldn't care about anything else.
+text I don't care about Synchronizing or anything like that.
+text I just want to hold you."
+bgload BG_40C.jpg
+setimg KOHA_T09B.png 52 0
+text "------------"
+text "It did feel good, but I don't like that.
+text It was only me, you didn't get to feel good, right?
+text .... I don't have that much experience, but I want you to feel as good as I did.
+text That's why it wasn't enough.
+text I just want to show you how much I like you.
+text .... This has nothing to do with Synchronizing, I just want to be with you."
+text I grip her hand tighter.
+text She looks up at me in surprise.
+bgload BG_40C.jpg
+setimg KOHA_T14.png 52 0
+text "Ah----I.. when you you say it like that, there's a problem.
+text I.. I've.... never done.. that."
+text Her face turns bright red as she says this.
+bgload BG_40C.jpg
+text Her previously dry hand suddenly becomes wet.
+text As close as I am, I can hear her heart pounding.
+text .... I finally realize something.
+text Until now, she's never slept with anyone out of love.
+text Tohno Makihisa looked at her only as a tool.
+text Kohaku simply accepted that role, too.
+text "............"
+text I can't believe it.
+text She was forced to do this almost every day, but she really---she really didn't know the real meaning behind two people sleeping together.
+text "---Kohaku-san.
+text I.. I want to see you naked."
+bgload BG_40C.jpg
+setimg KOHA_T10.png 52 0
+text "N, no....!
+text What are you saying, all of a sudden, Shiki-san........!!"
+text Her whole body turns red as she shouts.
+text ".... I see.
+text I didn't really want to think of it this way, but what you did before was just an obligation.
+text .... You're right, you can't get naked in front of someone you don't even like."
+bgload BG_40C.jpg
+setimg KOHA_T17B.png 52 0
+text "Ah................"
+text She shifts her gaze away as her blush deepens.
+text She looks impossibly cute as she mumbles something in response, fidgeting with the edge of her Kimono.
+text ".... Um, that's not true.
+text My body is dirty, so I don't, want to show you, Shiki-san...."
+text "I don't think so.
+text That's not true at all.
+text Even if it was, I would still think you're beautiful."
+text I pull her closer.
+bgload BG_40C.jpg
+text "-------!"
+text I press her up to my chest.
+text After enjoying that moment, I move around behind her and begin to nuzzle the base of her neck.
+text "Ah------Shiki.. san-------"
+text ~
+text .... There's no stopping now.
+text Holding her trembling body, I began to tease her neck with my tongue.
+bgload IMA_10.jpg
+bgload event/KOHA_H04.jpg
+text After drawing a smooth glassy line, I kiss her gently.
+text "Mm------"
+text A faint sigh.
+text Her face still painted red, she silently accepts everything I do.
+text ".... What's this?
+text Your skin, it's so clean.... so beautiful."
+text I continue licking her fine porcelain skin.
+text ".............."
+text Her eyes remained closed as she shudders slightly.
+text .... Maybe it really is her first time having someone treat her like this.
+text Her reactions are nothing like the seductive voluptuousness earlier.
+text For some reason---I feel this strong urge to tease her.
+text "Mm---you're sensitive here....?"
+text I whisper to her from behind.
+text "...................."
+text With her mouth closed, she just shakes her head back and forth.
+text She answers one way, but her body responds another.
+text ".... Oh really?
+text Then it's okay if I do this."
+text I press my lips tightly against her neck.
+text I let my tongue firmly play all along her neck.
+text "...... Ah...... Shiki.... sa...... n......"
+text Her lips shake.
+text While still tasting her skin, I place my hands on her shoulders and begin to slide her kimono off.
+text "............"
+text As expected, she silently offers no resistance.
+text Swish.
+text Her kimono clears her shoulders.
+text ".........., ........"
+text Her lips tighten.
+text .... She's probably embarrassed.
+text She still offers no resistance as she trembles.
+text Not in satisfaction---but in anticipation.
+text ".... Kohaku.
+text You want this, right?"
+text ".......... Ye.......... yes........"
+text She speaks softly, as if she doesn't want to be heard.
+text Her kimono drapes to the side.
+text "----------"
+text Only one thought enters my mind---she really is beautiful.
+text Her fine white skin.
+text The vivid lines of her collarbone.
+text Her trembling white breasts.
+text Her white skin is now tinged a pale shade of red.
+text Seeing her with her eyes closed in embarrassment and lips slightly open with unease makes me love her even more.
+text "...... Ah...... Shiki.. san."
+text Her voice rises.
+text I instantly wrap my fingers around her exposed breasts, giving them a light squeeze.
+text .... Hot.
+text My fingers sink into her tender flesh.
+text Just touching them sets my brain afire.
+text ".... Mm.... Shiki-sa.. n.... What.. are you.. doing?"
+text That's an odd question.
+text "What am I doing?---I'm making love to you."
+text I grip harder.
+text Her tender mounds shiver in response as I knead them.
+text ".... Ooh, ah......"
+text She suddenly throws her head back and arches her back.
+text The fun has just started, and her nipples have already become as hard as bullets.
+text ".... I don't.... believe it.... Shiki-san, I---"
+text Lips shaking, she desperately holds her voice back.
+text My teasing fingertips sense the rising heat of her body.
+text I can hear her panting.
+text Her breathing--it's the same as when she was riding on top of me.
+text "....?
+text Kohaku, your breasts are sensitive too....?"
+text "Eh.... no, that's----not it."
+text Her words trail off as she gasps for breath.
+text "Haa...... ah, this is strange.... I---"
+text "Yeah.
+text You sound so.. horny."
+text "Ah---------"
+text Kohaku's blush deepens.
+text Reveling in her reactions, I lick her neck once more.
+text "......!
+text Shiki.. san...... That.. tickles---"
+text ".... What's this?
+text You said you weren't sensitive here.
+text So, I wonder if I do this--"
+text Holding her writhing body close to mine, I release my hold on her breasts.
+text "Mm--------"
+text Kohaku gasps in response.
+text And then---I take my thumb and forefinger and squeeze a delicate pink nipple.
+text "Ah, ahhh........!!"
+text Her body jolts.
+text My fingers move harder.
+text Sensing her enjoyment, they twist even harder, and I use my nails this time.
+text ".... Mm, haa...... oh.... ah---"
+text Kohaku exhales forcefully.
+text This time it seems like it is almost painful.
+text ".... Kohaku-san, is this...."
+text I didn't really think it, but---
+text "Is this the first time you've felt this good....?"
+text "Ah............"
+text She stops breathing for an instant.
+text Still looking down in embarrassment, she gives a slight nod.
+text ".... I'm sorry.
+text I.. feel strange.
+text I know I should be servicing you, but---just your touch, makes my head spin----"
+text She breathes out again.
+text As if trying to force out all the heat in her body, she takes another breath.
+text "This is strange, isn't it---I've never.. felt.. this way.. before.
+text .... Nothing is happening and.. my body.. is still so hot---Shiki.. san.. what did.. you do.. to me?"
+text Her voice hesitates and falters.
+text I realize that she isn't even standing on her own.
+text She leans against me and I feel that if I let go, she will collapse.
+text Her arms and legs hang loosely to the sides.
+text ".... Be honest, does this feel good Kohaku-san?"
+text "...................."
+text She nods, ashamed.
+text ".... I see.
+text Then, it'll get even better.
+text Kohaku-san, let's get rid of the rest of your clothes.
+text "Ah.......... n, no........"
+text I pretend not to hear her soft denial.
+text ~
+text Untying her obi while holding her---I quickly get rid of what's in the way of my body and hers.
+bgload BG_40C.jpg
+text ---Her naked body is truly spectacular.
+text ~
+text Seeing her bashful face and her tender, delicate curves causes me to lose control.
+text "Um.... Shiki-san, you're not.. going to take off your clothes?"
+text .... What she says is only natural.
+text But being naked now would expose that which has been yearning for quite some time.
+text "Soon.
+text Here, come to the bed."
+text Walking to the bed, I lay down on my back.
+text I undo my zipper and my swollen manhood immediately springs out.
+text "----------"
+text I hear her sudden gasp.
+text She's probably surprised to see it erect so quickly.
+text "Hey, Kohaku.
+text I need to pay you back, so come here."
+text I invite her over, still pointing at her without my finger.
+text "............ Yes."
+text She gets on the bed while breathing rapidly.
+text It's just like before.
+text She goes to ride on top of me, face-to-face.
+text "Ah, not like that.
+text Put your ass here, Kohaku."
+text "Eh---Shiki-san, what are you doing......!?"
+text Kohaku tries to escape but my arms are much faster.
+text I grab onto her hips and jerk them towards my face.
+bgload IMA_10B.jpg
+text "Shi.. Shiki-san, what are..............!"
+text "I told you, I'm paying you back.
+text It's your turn to feel pleasure."
+text "Eh...... a, mm---------"
+text Grabbing her tender cheeks, I lower her hips.
+text ~
+text Before my eyes,
+text in place of the ceiling, Kohaku's most private place looms over me.
+text "...... Mm."
+text I lift my face between her legs.
+text .... Just seeing her from this angle makes my heart feel like it will explode.
+text Her delicious, white thighs.
+text And between them, her swollen lips.
+text I feel like sweet honey would pour from these passionate petals if coaxed by my tongue.
+text The sensuous curves of her bottom add another dimension of captivation in addition to her bewitching thighs.
+text "Ah.......... Shiki.. san-----"
+text Kohaku's voice quivers.
+text She must be embarrassed at having herself so open to me.
+text Drip.
+text A drop of her juice splashes onto my forehead.
+text ".... Mm.... Kohaku, you're really getting into this."
+text "................"
+text She doesn't say anything.
+text All I can hear is her ragged, desperate breathing.
+text ~
+text I assail her with my tongue.
+text I narrow my tongue and penetrate her flowery gate.
+text Slide.
+text Her pale pink folds part to accept me.
+text .... I feel the passion burning inside her.
+text I enter only the slightest bit, as if only to taste her dewing liquids.
+text "Huah------oh, nnaah..............!"
+text ~
+text Her hips jerk upwards.
+text Pushing down to prevent her escape, this time I caress the outside surface.
+text My tongue rolls up and down.
+text Lapping up her flowing juices.
+text ~
+text ".... Ah.... Haa, mm........"
+text ~
+text Her breathing becomes even more wild.
+text It harmonizes with the sound of me licking her wetness.
+text Her breathing reaches its crescendo.
+text ~
+text .... I lose myself completely as I give her pleasure.
+text All of a sudden, a shock runs up my spine.
+bgload event/KOHA_H07.jpg
+text "------Ko.. haku."
+text My tongue that was diligently massaging Kohaku stops.
+text ".... Ah...... m, Ha...... Ah."
+text .... Her breath swirls around my erection.
+text A new sound of moist flesh.
+text Now it isn't just me expressing my love physically.
+text "Ha.... Shiki-san---so warm."
+text Kohaku begins to hungrily lick at the tip of my shaft.
+text "--------"
+text My back arches as the sensation courses through me.
+text For a moment, I stop licking her and revel in the ecstasy her tongue gives me.
+text "N.... mm, ah.......... oh."
+text With sweet, short gasps, she slowly plays her tongue along my skin.
+text She licks only at my very tip.
+text Hesitatingly, haltingly, slowly.
+text "Ko.. haku----it feels.. so good."
+text I resume.
+text My breathing increases in depth as her wetness rains down on me.
+text "Mm........!
+text .... Haa.... ah, ha.... Shiki-san, M.... more...."
+text Faintly whispering, she grabs me with both hands.
+text She gently pulls my slippery pole.
+text She starts to caress me with her tongue once more.
+text "Ha------kkk..........!"
+text This time, she doesn't hold back.
+text Completely different than before, she doesn't use any special technique.
+text She only follows the instinctual urges of her body.
+text This sets my body on fire---far more than any special technique.
+text "Ah.... nnn.... aah.... oh----"
+text Her breathing continues its ragged procession.
+text Does she enjoy caressing me that much?
+text Her sweet juices continue to flow unhindered from her passionate tunnel.
+text "Mm-----, haaa."
+text I drink every last drop of that sensuous nectar.
+text .... There's a reason for this.
+text Kohaku, who is caressing me.
+text Kohaku, who is filling me with pleasure.
+text I don't want to miss a single drop of anything coming from her.
+text That's why I gather it all.. with my tongue.. with my hand.
+text The sound of meeting flesh echoes through the room.
+text Not just the rubbing of our passionate places, but our whole bodies melting together.
+text ~
+text Her breasts glide across my stomach.
+text Her arms touching my sides, her legs resting by my head and shoulders.
+text Sliding, sliding, sliding.
+text ~
+text Rubbing.
+text Sweat, her wetness, my semen, our bodies.
+text Kohaku gasps continually---her wildness spreads to me.
+text "-----I can't, take this."
+text Feeling my limit near, I look down.
+text Kohaku traces her fingers along my shaft and licks them clean with her red tongue.
+text ~
+text ---I wish this could go on forever, but I know it can't last.
+text The swelling in my loins becomes a burning cyclone.
+text "----Kohaku, lie down."
+text I tell her gently.
+text ".... Eh.... lie down....?"
+text She doesn't seem to understand but moves to do as I said.
+text She lies down flat on her back.
+text Propping myself above her in perfect symmetry, I admire the view before me.
+bgload event/KOHA_H06A.jpg
+bgload event/KOHA_H06B.jpg
+text "........ Ah........"
+text Crossing her arms bashfully, she looks up at me.
+text .... Her skin still enflamed with passion, the beating in her chest paints her cheeks red.
+text ".... Shiki.... san.
+text My, heart.... is racing."
+text She speaks in a small voice, almost to herself.
+text ".... I know.
+text Kohaku-san, you look like a little girl."
+text I speak the first thing that pops in my head.
+text Still blushing, she nods in response.
+bgload event/KOHA_H05.jpg
+text ".... This is, strange.
+text I've done this, so many times.... but I never had this incredible tightness in my chest."
+text Of course.
+text The one she slept with never had any feelings for her at all.
+text ".... I see.
+text Is it.. bad?"
+text "............ No.
+text I am.... so happy.
+text It---it makes me scared."
+text Her voice is full of hesitation.
+text This isn't the perpetually smiling Kohaku.
+text I think this is her true self.
+text I don't want to steal this lovely moment.
+text "But, I'm just as embarrassed.
+text .... Just having you look at me like this, my body---it's never been this hot before."
+text ".... You shouldn't be.
+text I just love looking at you.
+text .... But it can't be helped.
+text I just love you so much.
+text I want you to feel good too."
+text "................ Stop.
+text Shiki-san, you can say those things so easily.
+text But I'm so embarrassed---I don't even know how to smile at a time like this."
+text Still blushing, she looks directly at me.
+text ~
+text ----Thump, Thump.
+text My blood starts to race.
+text ~
+text There is no more need for words.
+text "------Kohaku."
+text I lower my body.
+text She shyly positions herself to accept me with her arms still crossed.
+text I spread her legs apart and lower my hips.
+text "Mm......"
+text I didn't even touch her yet and her face tightens in pain.
+text .... She really doesn't know how to respond.
+text Her pained expression is a mix of uneasiness and longing.
+text ".... Kohaku, here I come."
+text "................"
+text She nods silently.
+text I hold myself right in front of her.
+text .... Between her legs.
+text Both of her thighs quiver uncontrollably as liquid anticipation flows freely from her lovely well.
+text My saliva has mixed with her wetness.
+text Sliiiiide.
+text I begin moving.
+text ~
+text "Ah........!"
+text ~
+text Her body reacts sensitively.
+text My tip has been well lubricated by her saliva as well.
+text Entering is not a problem.
+text Our flesh begins its dance as my tip clears her lower lips.
+bgload event/KOHA_H06B.jpg
+text "....!
+text Mm, oh....!"
+text Kohaku's body rises and falls.
+text .... Is she nervous?
+text She's much tighter than before.
+text I can only enter tip-deep, unable to go further.
+text ".... Kohaku, are you okay....?"
+text ".... Ye.... ye.. s.... I want you, Shiki.. san---"
+text Her hands strongly gripping the bed sheets, she looks up at me with moist eyes.
+text "-------"
+text I start moving again.
+text I thrust my hips violently as if to break her tightness.
+text "....!
+text Ah, ha-----oh-----!"
+text She raises her head.
+text Thump.
+text My pulse runs through my body at full-speed.
+text .... Kohaku's tightened flesh transforms into numerous, squeezing folds.
+text "------"
+text This sensation is almost torture.
+text There's something wrong with the way she feels.
+text The sharp, burning pleasure seems to come not from my testicles, but from behind and rockets up my spine.
+text "Tss.... ah, ha, ah------!"
+text Resisting it, I move my hips.
+text .... No matter what, I'm going to penetrate to her center.
+text I begin to thrust in and out of her, not yet reaching her center.
+text ~
+text Thrust, squeeze, thrust, squeeze.
+text The sounds of our fluids and flesh mingle into a glorious cacophony.
+text "----...... Ko.. haku--------!"
+text "Y, yes---Shiki-san, I----oh, ah, ahh......!"
+text Her back starts to arch.
+text At the same time, the pressure increases.
+text The pleasure causes me to grit my teeth in desperation.
+text She hasn't climaxed yet, so no matter what, I can't end it now.
+text .... But, really, why does it feel this good?
+text Inside of her is a world of contradiction.
+text She's flowing so much, but she's gripping me like iron.
+text Her undulations and spiraling rotations cause aaces of pleasure to crash into me.
+text Every coiling of her tender skin feels completely different.
+text "Ah---gg, ah..........!"
+text Despite this, I force myself to continue without giving in to the sensations assailing me.
+text "N, ngh, ah-----!"
+text .... Her sweet voice.
+text But, she isn't.. the only one.. resisting something.
+text In other words, I am..
+text This sensation.
+text Kohaku's warm envelopment----
+bgload event/KOHA_H08.jpg
+text "-----Ha-----ah, ........!"
+text ~
+text Not buckling under the weight of the feeling welling up within me, I resume moving my hips.
+text "M, ah, mm........!"
+text ~
+text Her body springs upward desperately.
+text "-------"
+text Our bodies are still fused together.
+text I thrust even harder.
+text "Ha, ah....!
+text Shiki.. san---more.. gently---!"
+text Betraying her words, her body writhes and assails me with a passion that threatens my sanity.
+text "Ha-----ah, Koha.. ku----!"
+text Slide.
+text Slide.
+text Slide.
+text I go crazy.
+text I move in to receive the ecstasy; I move out to escape the euphoria.
+text "Ha........, ah, n........!"
+text An endless dance.
+text Our fluids coat each other's bodies.
+text "Haa, ah....!
+text Deeper---deeper..........!!!"
+text More.
+text Stronger.
+text Until I reach her center.
+text I can't stop until I touch every bit of her---!
+text "Ha-----AH........!!"
+text I savagely pierce her, as if I can't hold anything back.
+text "Hwa----ah, Shiki.. sannnnnnn!"
+text Her voice gradually becomes drowned completely in passion.
+text .... Her spread legs wrap fiercely around my back and push me deeper in.
+text "No---stop, I'll-----I'm.... ha, ahhh......!!!!"
+text She doesn't seem to have much energy left.
+text I clasp her hands and desperately resist the nearing finish----
+text "Ha---ha----ah, ha----!"
+text A jolt runs through me.
+text It strikes deep into my very brain.
+text "Ha---n, ah, ha-----!?"
+text But---finally, I penetrate to her full depths.
+text Her figure now writhes in ecstasy.
+text ~
+text The cycle continues.
+text Having won my prize, I thrust to her very core, over and over and over.
+text "A----oh---Shiki.. sa.. n----!"
+text I sink.
+text Kohaku rises up to meet me.
+text "Ha----Kohaku, I'm gonna come---!"
+text I grit my teeth.
+text "Yes---!
+text Come-come inside me, Shiki----!"
+text "----------!"
+text I thrust my hips forth with all my strength.
+bgload IMA_11.jpg
+bgload event/KOHA_H08.jpg
+text "---Ngh, n, AhaaAaAa----!"
+text ~
+text One last push.
+text Thump!
+text My convulsing shaft explodes as I climax deep inside of her.
+text ~
+text "Ha---ah.... Ah-------"
+text ~
+text Kohaku's lips open and close, open and close.
+text ----And.
+text She falls completely drained to the bed.
+bgload IMA_10.jpg
+music ~
+bgload BG_40C.jpg
+text "-----------Ah."
+text My body presses down against her.
+text ---She lies unmoving, as if sleeping.
+text .... Aren't I the same?
+text I'm exhausted.
+text My body still hasn't fully received all its energy---and the pleasure was so immense.
+text I ran my body past its limits, and I lay there, collapsed.
+text "........ I'm sleepy."
+text I catch my breath next to her.
+text .... My consciousness gets hazy.
+text Kohaku's profile moves in rhythm with her breathing.
+text "...................."
+text And with just that---I feel relaxed.
+text I lie on my back and stare at the ceiling blankly.... I can't let myself fall asleep now as it'll be a waste.
+text I want to keep feeling her soft breath, and I resist the urge to sleep----
+bgload IMA_10.jpg
+bgload IMA_11.jpg
+bgload BG_40D.jpg
+music 08.mp3
+text I blankly stare at the ceiling as I continue lying in bed.
+text Kohaku is nestled beside me.
+text .... I can only hear her breathing softly.
+text She's probably asleep.
+text "------"
+text I reach out and clench my hand into a fist.
+text "---Alright."
+text I don't feel any more pain or dullness.
+text .... It feels like her warmth is still around me.
+text It hasn't gone through me completely, but I can feel my energy gradually increasing.
+text Soon I'll be able to move as I wish.
+text It's no use hurrying to Akiha's room, so until then---I want to quietly linger here with Kohaku-san.
+text "-----Shiki-san."
+text .... Close nearby.
+text I hear Kohaku-san's voice.
+text ".... Ah, please don't answer.
+text I just want to say something.
+text It's just my spoken thoughts, so please just listen."
+text Her voice is strangely calm.
+text ".........."
+text I nod quietly and continue to stare at the ceiling.
+text I can feel her gaze shift towards me.
+text ".... I'm not the girl that you think I am.
+text I don't have a sense of self of my own, even now may simply be just another act."
+text "................"
+text "A long time ago, I was always quiet.
+text I never understood why people smiled or frowned or could ever discover the meaning behind it.
+text .... But I think that I did have a self.
+text Until I was brought to this mansion, I really was alive."
+text ".... After coming here, I was forced to know unbearable pain.
+text I think that is what destroyed my true self.
+text I just became this doll that was just there.
+text It was more bearable, and it was the only way I could survive."
+text "But, even though I did that, it didn't solve anything.
+text So--I searched for a purpose and started to act to fulfill my purpose.
+text I was a doll without any identity, so I if I wore the right clothes, I could become anyone.
+text .... But, even if I became someone else, it was just an act.
+text I could laugh or cry.
+text But I could not understand if I was really happy or really sad."
+text ".... Isn't it funny?
+text In order to protect myself I cast away my identity and became just a doll.
+text But the more of that I do, the more broken I become.
+text I became good at acting, an expert at lying, and could deceive anyone with my smile.
+text But as I try to fulfill my purpose like that, I keep losing my self that I wanted to protect.
+text Just what is happiness?
+text What is this thing called sadness?
+text .... I became unable to even remember the meaning of pain itself."
+text "But when I would remember one thing, my heart would become agitated.
+text When I would remember that boy who disappeared eight years ago, I would get this feeling I could not understand.
+text That boy who was always playing in the garden who knew nothing about me yet invited me with his eyes.
+text I didn't like him or hate him, I was just scared.
+text .... After trying so hard and becoming a doll that could endure the pain, I felt like I would realize it was all an illusion when I watched that boy."
+text ".... When that boy lost his life in the garden, I was watching by the window.
+text He died saving a girl that was not even related to him by blood.
+text I couldn't pull my eyes from that scene.
+text The reflection of my face in the mirror was terrifying.
+text .... That was the first time I ever hated anyone.
+text Because I really was frustrated.
+text I hated him and only him.
+text I hated him to the point of tears.
+text ".... I don't hate Makihisa-sama.
+text I really didn't feel anything at all towards him.
+text .... Towards SHIKI-sama who killed that boy, or Akiha-sama who was saved by that boy, I didn't feel anything at all."
+text "---I guess I was just taking it out on someone.
+text Because I couldn't understand why he did that.
+text I just kept watching his discarded, bloody body.
+text .... Did he value someone more precious than his own life?
+text Otherwise he would never have protected Akiha-sama like that.
+text But.... if he could do that, why didn't he ever help me?
+text Why----why were the people around me not as kind as he was?"
+text ".... I don't know what that feeling was.
+text But in my emotionless days, only that boy was shining."
+text ~
+text Slowly, Kohaku lifts herself up.
+bgload event/KOHA_E07.jpg
+text "But, that's it.
+text I don't understand this feeling right now.
+text I am very happy right now, but that just might be another charade, right?
+text Hey, is it alright, Shiki-san?
+text Believing in me, someone who doesn't know if she loves you like you do me."
+text "Didn't I say it before?
+text I don't even know what kind of person I am.
+text Since I'm just a doll, I can become any Kohaku that I wish.
+text So, this Kohaku that you say you love, it isn't me, it's just----"
+text ~
+text It just might be another pretend Kohaku.
+text ~
+text She speaks with a satisfied smile and a aacering voice.
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----But.
+text That can never be true.
+bgload event/KOHA_E07.jpg
+text ".... That's not true.
+text Acting, faking, that doesn't have anything to do with it.
+text You are you.
+text .... A truly mean-hearted person can't pretend to be truly kind.
+text No matter how you act, you are still the same inside, Kohaku-san."
+text ~
+text .... That's right.
+text Even if it is just an act, Kohaku-san seems like she is having so much fun.
+text That means she is enjoying that role.
+text It was her dream that could become real if she really wished for it.
+text ".... Yeah, even if everything was just a lie.
+text I would still like the another, new Kohaku-san.
+text Definitely."
+text "----------"
+text Kohaku-san nods happily.
+text "That's true.
+text I thought you'd say that."
+text Her lips draw close.
+text "Eh-----"
+text She launches a surprise attack and kisses me.
+text Her tongue slides into my mouth.
+text I feel something hard.
+text ~
+text "Uu----mph."
+text Something descends down my throat.
+text "H, hey---Kohaku-san, what did you make me swallow-----?"
+bgload IMA_11.jpg
+bgload event/KOHA_E07.jpg
+text ........ Huh?
+text Something, feels.... so good.
+text The ever-present pain in my body fades and drowsiness floods over me---
+text "Hey, Shiki-san.
+text I just have one last question for you.
+text Which 'Kohaku' do you like the best?"
+text Her close, yet so distant voice.
+text "Mm-----"
+text I feel faint.
+text Even still.... I have to answer her.
+text ".... I don't, know.
+text .... But, I like this Kohaku."
+text I speak as if in a dream.
+text She looks at me in total surprise.
+text ~
+text "Yes.
+text I liked this Kohaku the best, too."
+text ~
+text With an unmatchable smile, she quietly stands up.
+music ~
+bgload BG_40D.jpg
+text The sound of a kimono being changed into.
+text She must be out of bed and putting it on.
+text ~
+text "Well then, Shiki-san.
+text I have to take responsibility for what I have done."
+text ~
+text With a smile---one completely different than up until now, her true smile, she leaves the room.
+text "---What are, you doing, Kohaku----"
+text ~
+text My consciousness flickers off and on.
+text .... What's, going on?
+text My body has finally healed, but this time my mind, is, fading----
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text "What am I doing......!?"
+text I rouse myself awake.
+text ---Kohaku.
+text What did she say to me when she left!?
+text ~
+text --I have to take responsibility for what I have done--
+text ~
+text ".... You've got to be kidding me....!
+text Why did she--"
+text Why does she try to do everything herself....!?
+text There isn't any need to continue acting or hide anything.
+text I would do anything for her, so why---why is she still trying to go alone?
+text Forcing me to sleep---was she just worrying about me..........!?"
+text "It's really---beginning to piss me off---"
+text I get up from bed.
+text .... The desk is so far away.
+text ".... Damn it.... what kind of drug, did she, give me.
+text .... I have to go, to her room once and---"
+text I have to clean out her room and take all her medicine away---
+text "Aah...... ah, ah----"
+text I somehow walk and collapse onto the desk.
+text On top is my knife.
+text I must have put it there after taking it out of the drawer----
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text ".........."
+text Crap.
+text I fell asleep again.
+text .... What is this strong drowsiness?
+text No matter how hard I try to fight it, it won't help.
+text "...... Damn it...... Kohaku-san, I'll pay you back for this----"
+text I grab the knife.
+text Kachink!
+text It flies open.
+text I take it and---
+text ~
+text Man, this is gonna be extremely painful.
+text ~
+text ---Thinking that, I slice into the nail of my middle finger.
+text "Gggah---------------!"
+text The acute, slicing pain drives straight into my brain.
+text "Ha---take that!"
+text I pull the knife back out from my nail.
+text Every time my finger feels pain, the sleepiness goes away.
+text Wrapping my finger with a handkerchief, I stop the bleeding.
+text "........ Well, if it's like this."
+text It won't stop me from gripping my knife.
+text .... All I really need to do is hold it, anyway.
+text I don't even need the physical strength required to cleave through things.
+text "Damn it, don't do anything foolish, Kohaku--!"
+text I jam the knife in my pocket and fly out of the room.
+text I can't let Kohaku-san and Akiha face each other.
+text If I can't prevent that, then something that can never be taken back will happen---
+bgload IMA_10.jpg
+bgload BG_36D.jpg
+text I burst through the door.
+text "Kohaku-san........!"
+text .... There isn't anyone in the room.
+text Neither Kohaku-san nor Akiha.
+text "------Are they next door!?"
+text I run to the bedroom, but they aren't there, either.
+text "Where----where did they go?"
+text I run my gaze to the clock.
+text It says---past midnight.
+text It's already tomorrow.
+text "-----No way."
+text When did that happen?
+text I knew that I lost track of time when I was making love to Kohaku-san, but I didn't think it was this late already.
+text "By this time, Akiha has----"
+text Gone out on the streets to drink blood.
+bgload IMA_10.jpg
+bgload BG_32D.jpg
+text I leave the mansion.
+text There is no time to waste.
+text Kohaku-san left to stop Akiha.
+text But I don't think Akiha will listen to anything Kohaku-san has to say.
+text .... Akiha isn't normal right now.
+text If worst comes to worst, she'll see Kohaku-san as an obstacle that needs to be removed.
+text "It can't be----the school....?"
+text ~
+text That dream of drinking someone's blood I once had after SHIKI was killed by Akiha.
+text I don't know how it happened, but if that was what Akiha was watching, that means Akiha has made the school grounds her feeding place, just like SHIKI.
+text Then---at this time, Akiha, who's a blood sucking demon, won't be anywhere else but there---
+bgload IMA_10.jpg
+bgload BG_01C.jpg
+music 09.mp3
+text ---And I return to the place.
+text ~
+text It's quiet.
+text The giant building bathed in moonlight does not look like a building that holds hundreds of students.
+text ~
+text ---For a long time.
+text ~
+text It looks just like a monolithic tombstone abandoned long ago, forgotten by memory, forgotten by time.
+bgload IMA_11B.jpg
+bgload BG_01C.jpg
+text "-------"
+text My head starts to throb lightly.
+text I ignore it and go through the gates.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_03C.jpg
+text My headache multiplies in intensity the instant I step inside.
+text My whole world aacers.
+text My heart wakens.
+text My fingers shiver in anticipation of battle.
+text "------She's here."
+text How vile.
+text Only the smell of blood sticks to the air.
+text The air is full of heat and burns on my skin.
+text The wind is dead.
+text The stagnant air transforms into a red cage of decay.
+text I see countless red strands of hair when I look past my glasses.
+text The red hair permeates the school grounds and the building like the web of a thousand-year-old spider, not a hole anywhere to let its prey escape.
+text "Akiha---you---"
+text ~
+text This place is already a different world.
+text It's not a world any human should enter.
+text ~
+text "Have you gone that far?"
+text ~
+text My headache does not go away.
+text The sharp pain of my cut fingernail.
+text My heart lifts up a rhythm of delighted sobs.
+bgload BG_03C.jpg
+text I take off my glasses and grip my knife.
+text .... How long has it been since I faced these "lines"?
+text I never thought I would take off the glasses I received from Sensei of my own free will.
+text I didn't think even in my dream that I'd be using them to face my little sister.
+text "-------"
+text I don't have time to complain.
+text Everything is set.
+text All that's left is for me to cut through this Red Lock of Hair.
+music ~
+bgload IMA_10.jpg
+bgload BG_10C.jpg
+music 04.mp3
+text ~
+text ~
+text ---Burning.
+text Entering inside, the temperature is even hotter.
+bgload IMA_10.jpg
+bgload BG_07B.jpg
+text ~
+text ~
+text ~
+text ~
+text -----Burning.
+text I know what this heat is.
+text I saw it in the dream.
+text The vampire that attacked a young woman entered the school grounds, and then----
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text --------Burning.
+text Dragging that body, went into that place.
+text That room that the killer SHIKI was once using.
+text The silver moon looks down like a snake at the accused.
+bgload IMA_10.jpg
+bgload BG_06C.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----------Burning.
+text In this classroom.
+music ~
+text ".......... Akiha."
+text Nausea fills me as soon as I enter.
+text In between the desks lie the collapsed bodies of girls.
+text One, two...... three.
+text All of them have completely lost consciousness.
+text On their necks are trails of blood.
+text In the middle of it all, that red haired "monster" is laughing.
+music 09.mp3
+bgload BG_06C.jpg
+setimg AKI_T28.png 0 0
+text "Oh, Nii-san.
+text You couldn't wait until tomorrow?"
+text She greets me without a trace of malevolence.
+text ~
+text ---Thump.
+text ~
+text That impulse assails me as soon as I see her.
+text I desperately suppress the urge with all my strength.
+text "-----"
+text The moonlight streaming through the window illuminates her.
+text ~
+text ---Thump.
+text ~
+text I haven't moved a step since I entered the room.
+text .... My instincts scream at me that this is bad.
+text That thing is something beyond what I expected.
+text The Akiha that exterminated SHIKI pales in comparison to this.
+text "I'm surprised.
+text You aren't supposed to be able to walk, yet you forced yourself to come see me.
+text .... I'm happy.
+text I guess you finally understand my feelings."
+text Her voice is full of happiness.
+text ~
+text ----Thu, mp.
+text ~
+text My reason cries out.
+text Tohno Shiki cannot win against that thing.
+text So you can't make it angry.
+text Don't let it be your enemy.
+text If you do that, you will surely be annihilated.
+text ----Thum, p.
+text ~
+text Even still---I can't run away now.
+text ~
+text "---Akiha, where is Kohaku-san?"
+text ~
+bgload BG_06C.jpg
+setimg AKI_T11C.png 0 0
+text The air itself stiffens from her overpowering presence.
+text She grinds her teeth in displeasure.
+text "She's over there.
+text I don't know what she was thinking, but she's now receiving her punishment for raising a hand against me."
+text She looks to the wall beside me.
+text "----?"
+text I follow her gaze.
+bgload BG_06C.jpg
+text ~
+text On the wall---is the crucified form of Kohaku-san.
+text "Wha------"
+text Her body is floating in mid-air.
+text No, it would look like that for someone else.
+text ~
+text But----
+sound SE_01.aac 1
+text ----Thu, mp.
+text ~
+text My eyes can see what is tying her.
+text Her body is pinned against the wall by something like red hair.
+text ~
+text The hair creakingly tightens around her arms and legs.
+text .... Has she passed out?
+text Her head is hanging down---she really looks like a butterfly caught in a spider's web.
+bgload BG_06C.jpg
+setimg AKI_T28.png 0 0
+text "Don't you find it strange?
+text Suspending herself to the wall like that is quite a feat, don't you think?"
+text Akiha giggles.
+text "But don't worry Nii-san.
+text I don't kill cats that bite me once.
+text After she receives her punishment, I will forgive her."
+text "Wha------"
+text ~
+text ----Thum,p.
+text ~
+text Everything goes hazy.
+text Kohaku's anguished figure and Akiha's red figure match up and all rational thought is disappearing---
+text "But let me warn you.
+text I don't care for pets that bite me.
+text I guess it doesn't belong to me anymore in my heart.
+text So there won't be a second time.
+text I have no need for those that aren't mine.
+text .... Hey, Nii-san.
+text I can be very cruel to those who betray me."
+text The sound of tightening reaches my ears.
+text The red hair binding Kohaku-san's arms and legs tightens even further, as if to rip her limbs off.
+text "Akiha, you----!"
+bgload BG_06C.jpg
+text I run towards the wall.
+text The hair binding Kohaku-san cannot be touched.
+text .... This is just an extension of her hair, only what Akiha is imagining.
+text By putting Kohaku-san in her sight, Akiha is trapping Kohaku-san to the wall with her willpower.
+text ----Th, um, p.
+text ~
+text .... The flowing power looks like red hair.
+text That is something she can't even see.
+text I think suddenly.
+text Weren't my eyes designed specifically for this sort of thing from the beginning?
+text And by facing death so many times, haven't they discerned the very concept of death----
+text "Tch-----!"
+text Whatever, that doesn't matter right now.
+text If I can see it, then there isn't anything I can't cut.
+text I can't let this red hair do what it wants to Kohaku-san..........!
+sound SE_13.aac 1
+bgload IMA_14.jpg
+text ----I swing my knife.
+text Maybe it's because my heart is beating so fast.
+text My knife swings out with a speed that surprises even me.
+text It doesn't feel like I'm cutting through something.
+text My knife glides through the red hair with speed and accuracy, as if I was merely reaping the air for harvest.
+text Before I realize it,
+text I have sliced through all the hair binding Kohaku-san in one breath.
+bgload BG_06C.jpg
+text Her body falls.
+text "-------"
+text I catch her and touch her cheeks.
+text She's still warm.
+text Her breathing is weak but it isn't stopped.
+text .... I can only see a few "lines" on her body.
+text I let out a sigh of relief.
+text I place her down on the floor.
+text ---Thank goodness. If anything happened.... thank goodness she is safe.
+text "Nii-san----what, was that just now----"
+text .... Her voice is shaking.
+text I spin to face her, still gripping my knife in one hand.
+bgload BG_06C.jpg
+setimg AKI_T29.png 0 0
+text "---------"
+text She looks at me and gasps.
+text Bringing her hand to her mouth in disbelief, she looks at my eyes.
+text "----What beautiful----blue, eyes."
+text "........ ?"
+text "How come---?
+text You shouldn't have any strength like that left----"
+text Amazement permeates her voice.
+text "Did.... you.."
+text Akiha trembles.
+text "Nii-san, you----made a contract with Kohaku?"
+text Her voice quivers.
+text It isn't full of hatred, but more like sorrow.
+text ".........."
+text ".... This can't be.
+text Then that means you chose not me, but---"
+text She staggers.
+bgload BG_06C.jpg
+text She leans against the window with eyes full of stunned surprise.
+text Her face is pale and she looks like she will vomit---
+text "Uu...... ah, eh------agh!"
+text ~
+text ---No, she does.
+music ~
+text "Ah----, ghuu................!"
+text She vomits as if crying.
+text Her red hair fluttering, she hides her anguished face as she continues vomiting.
+text It's almost as if she was letting out her screams.
+music 04.mp3
+text ~
+text "---Thief Cat!
+text I should have killed you."
+text ~
+text "That's right," she says as she stares at Kohaku-san's collapsed figure.
+text She then laughs strangely from the bottom of her heart.
+bgload BG_06C.jpg
+setimg AKI_T28.png 0 0
+text "Is this what you plan on doing, Nii-san?
+text You come here to betray me and then come after me?
+text .... Incredible.
+text You weren't satisfied with betraying me once, but you ask for help from Kohaku and came to kill me again.
+text How thorough you are."
+text Her laughing voice fills the room.
+text The temperature of the room rises with it.
+sound SE_01.aac 1
+text ----Thu, m, p.
+text ~
+text On one hand, my heart is raging forth and on the other hand, my reason is screaming warnings at me.
+text The commands of "kill" and "escape" clash together.
+text "Stupi---that isn't it....!
+text I didn't come here to kill you....!"
+text "Liar.
+text You slept with Kohaku, didn't you?
+text Then you don't need my help anymore, do you?
+text So isn't that why you came here?"
+text "What did I just say....!
+text I said I didn't come here to kill you, only to stop you from drinking any more blood......!
+text You were doing this to help me, right?
+text So you don't have to anymore.
+text .... My body is fine again.
+text As long as Kohaku-san is near, I----"
+text "You intend just to cast me off now?
+text Hah.... I really must look stupid.
+text I thought of you so dearly, I loved you this much----but you don't even think of me."
+text "Cast you off?
+text Don't say stupid things like that.
+text .... You are very dear to me.
+text What---whatever you want, I---"
+text I can't say the words "will do them."
+text I know what it is she wants.
+text But, I can't do that.
+text I can't betray Kohaku-san again.
+bgload BG_06C.jpg
+setimg AKI_T31.png 0 0
+text "---Liar.
+text I have no need for someone like you."
+text ~
+text The entire room screams.
+text The air is burning.
+text Her red hair expands without limit.
+text This, is overwhelming, power.
+music 06.mp3
+text "Ah--------"
+text I start to stagger.
+text Unconsciously, my legs move back.
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text "I told you, Nii-san.
+text I have no need for pets that bite me once."
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text Thump.
+text ".... Nii-san.
+text For me, you really were the most important person in the world.
+text But that is all over.
+text Because, however much I yearn for you, if I can never have you, then aren't you just an eyesore?"
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text Thump.
+text Thump.
+text "---So, I will kill you, Nii-san.
+text You are the most important thing to me, so I will not let anyone else have you."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+sound SE_01.aac 1
+text ---Thump.
+text Thump Thump Thump Thump....!
+bgload BG_06C.jpg
+text "A---Aki, ha."
+text I can't breathe.
+text The air in the room is like a furnace, burning the inside of my lungs.
+text All around Akiha is that shimmering mirage.
+text My heart.
+text Even now, the impulses still fight between escaping and killing.
+bgload BG_06C.jpg
+setimg AKI_T28.png 0 0
+text "Geez, what's the matter, Nii-san?
+text I'm being generous here.
+text If I became serious, then it would be all over, so I have to let you do at least a little bit, right?
+text Here, won't you come slash at me like you did when you saved Kohaku?"
+text "Tss..........!"
+text Her smile doesn't fade.
+text The murderous feeling in the air almost makes me want to puke.
+text Akiha, is completely----
+text ".... I see, you're pretty weak, Nii-san.
+text You can't even bring yourself to kill me.
+text But I'm different.
+text I can't help but want to kill you.
+text .... Because I've been holding back for so long.
+text Your blood, your flesh, your warmth, your shape, everything.
+text I always dreamed about making them completely mine and mine only."
+bgload BG_06C.jpg
+text While she shakes, while her body shakes with each word, she smiles with pleasure.
+text ---My heart feels like it has gone crazy.
+text ~
+text This thing before me, it's already---no longer the Tohno Akiha from before.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_06C.jpg
+text I get a headache.
+text It feels like it will split apart.
+text The pain drives any thoughts out of my head.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I'm about to go crazy.
+text ~
+text My head.
+text If my head hurts this much, I will---
+text I will go crazy and feel like, fighting Akiha to the death----
+bgload BG_06C.jpg
+setimg AKI_T28.png 0 0
+text "Well then, let's fight to the death, Nii-san.
+text The Tohno and Nanaya families have always had that connection.
+text There's no need to hold back, right?"
+text ~
+text She takes a step closer.
+text Her red hair around the floor shakes.
+text "I don't care if you can't even do that.
+text A spew of lies like you should just die here."
+bgload BG_06C.jpg
+text She spits these last words.
+text Like the time she killed SHIKI, she stares at me.
+text ~
+music ~
+text "--------!"
+text The ground jumps up at me.
+text That which cannot be seen, the red thing that looks like a fiery aura, tries to engulf me.
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+sound SE_02.aac -1
+text "-------"
+text The sound of something striking the ground echoes through the hallway.
+text "-------Huh?"
+text .... There's something wrong.
+text The instant before I was to be enveloped by that fiery aura, my body instinctively sensed the danger and jumped back.
+text I took a giant leap backwards and jumped again once I landed.
+text With that, I made it this far.
+text "Ah........, ahh."
+text My breathing goes wild.
+text This speed isn't natural.
+text I was so fast that I disappeared from Akiha's vision in an instant.
+text If I didn't do that, there was no way I could have escaped that fiery aura.
+text In that dream, Akiha plundered SHIKI's body with just her stare.
+text .... I am in the same position SHIKI was.
+text Akiha only needs to look while I need to close in.
+text There's too much difference in our abilities.
+text "No---!
+text I said I didn't want to fight you......!"
+text ~
+text ----THROB!
+text ~
+text My headache increases.
+text It feels like my head's going to split in two and grow wings.
+text The burning red aura flows out from the classroom door.
+text She is transforming the entire air into pure vermillion and comes out into the hallway after me.
+text ~
+text About a classroom's length lies between me and her.
+bgload BG_11C.jpg
+setimg AKI_T11C.png 0 0
+text "Amazing.
+text Just what kind of body do you have, Nii-san?"
+text ~
+text Her hair aaces around.
+text The air in the hallway starts to increase without limit.
+text ~
+text "Even if it is night, disappearing from my view like this is strange.
+text .... Your legs really are amazingly fast.
+text It isn't that you are hiding your body behind anything, you're just moving faster than my eyes can track."
+text My forehead throbs.
+text My headache multiplies in intensity.
+text ~
+text "But, that is over as well.
+text I won't make the same mistake, and you can't escape my vision here."
+text ~
+text ---Certainly this is worse than the classroom.
+text The stairs are a long way behind me.
+text No matter how fast I run, Akiha will simply seize my back with her fiery aura.
+text But if I run into another classroom, I'll just be a caged rat.
+text She'll probably destroy my arms and legs one by one, like pulling the legs off a bug.
+bgload BG_11C.jpg
+setimg AKI_T28.png 0 0
+text "First---that's right.
+text I'll destroy those wonderful running legs of yours....!"
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text Her eyes fixate on my legs.
+text The air itself smells of burning.
+bgload BG_11C.jpg
+text "------"
+text I jump back.
+text The air around me turns to that fiery aura and wraps around my arms and legs.
+text I swing my knife.
+text What I see is satisfactory.
+text This headache tears at my right brain.
+text ~
+text Slice.
+text I slice apart the red hair with the air around it.
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg AKI_T29.png 0 0
+text "K---------!"
+text Akiha moans and stares at me full of hatred.
+text "----------"
+text But I am also in pain.
+text Even though I sliced it apart quickly, my arms and legs feel a lingering burning sensation.
+text My headache gets worse and it feels like it really will split apart.
+text "Again---why can you do such things........!!?"
+bgload BG_11C.jpg
+text She walks over towards me staggering.
+text She must think that it doesn't work because she cannot focus on my distant figure.
+text .... Well, that's probably right.
+text Her power works proportionally to the clearness of her vision.
+text Because we're in a building in the middle of the night, her fiery aura is slow in catching me.
+text If it was daytime, her vision and the fiery aura would probably be the same speed.
+text If that was the case, I wouldn't be able to kill that aura fast enough.
+text "Gg......!"
+text I pull back with the burning still in my legs.
+text Akiha follows.
+text Since we are cautious of each other, we keep our distance as we shift down the hallway.
+text ~
+text ------And then.
+text ~
+text A figure emerges from the classroom we were just in.
+music ~
+sound ~
+text "-------"
+text My mind freezes.
+text My headache and my heartbeat disappear.
+text ~
+text ---This can't be happening.
+text ~
+text Why did you come out?
+text Why couldn't you stay passed out in the classroom?
+text ~
+music 08.mp3
+text "-----Akiha, sama."
+text ~
+text Akiha turns to face the voice behind her.
+text ~
+text ---I feel despair creeping all around me.
+text "Please stop.
+text If you do this, you will only hurt yourself, Akiha-sama.... Even if you keep drinking blood and go insane like SHIKI-sama, you will still suffer."
+text Swaying, aacering.
+text Like she will collapse at any moment, Kohaku-san walks towards Akiha.
+text "------Stop!"
+text My outcry can't reach her.
+text To get to Kohaku-san, I have to go past Akiha.
+text How---can I do that?
+text ".... You can still make it, Akiha-sama.
+text But if you kill Shiki-san, you really will---turn into a Tohno demon."
+text "...................."
+text Akiha looks at me and Kohaku-san.
+text And then---
+bgload BG_11C.jpg
+setimg AKI_T11C.png 0 0
+text "It's too late.
+text I already am a blood sucking demon.
+text I won't listen to what you have to say anymore.
+text Suffer?
+text You don't know anything about what I'm feeling so don't try and lecture me about it, Kohaku.
+bgload BG_11C.jpg
+setimg AKI_T28.png 0 0
+text This feels wonderful.
+text I can understand what SHIKI was feeling.
+text This is the first time I've ever felt this kind of freedom.
+text So I can't go back now."
+text "You're wrong....!
+text That is only what you are telling yourself.
+text Isn't it just that you killed SHIKI-sama and Shiki-san found out about everything, so you want to make everything like it never happened....?
+text But that is something you cannot do.
+text No matter how crazy you may act, you're really----"
+bgload BG_11C.jpg
+setimg AKI_T29.png 0 0
+text "Silence........!
+text Don't try and act like a good person after setting us up to kill each other....!"
+text ~
+text Akiha's hair dances in the air.
+text This is entirely different than the amount of power she directed against me.
+text ~
+text "You must be satisfied.
+text Just like you planned, Nii-san and I are fighting to the death.
+text Your revenge is now complete, right?"
+text "Ah--------"
+text Kohaku-san's words are cut off.
+bgload BG_11C.jpg
+setimg AKI_T28.png 0 0
+text "I see, Nii-san doesn't know.
+text That Kohaku was merely manipulating you so that you won't be confident in yourself, Nii-san."
+text Akiha directs her gaze towards me as if she was winning a debate.
+text "Didn't you think it was strange?
+text Going to sleep early every night, having your memories obscured, that was all Kohaku's doing.
+text She prepared you drugs instead of medicine.
+text And then all she had to do was whisper in your ear while you were high.
+text 'You are the killer stalking the streets' was all she had to say."
+text "And after making you a killer, she tried to get you to kill me.
+text No, even if you didn't become the killer, you just had to walk the streets at night.
+text While she made this elaborate play pitting you and I against each other, Kohaku prepared everything with a smile.
+text In order to carry out her revenge against the Tohno family, Kohaku deceived even you, who had no connection to this, and completed the situation we are in right now."
+music ~
+text ".............."
+text ~
+text ---Yeah, it seems so clear now.
+text That's why Kohaku-san would always appear at the right time, always telling me what I wanted to know, always giving me medicine when I couldn't sleep.
+text But, still.
+bgload BG_11C.jpg
+setimg AKI_T11C.png 0 0
+text "For Kohaku, you and I were just pieces to complete her play.
+text Don't you understand?
+text To Kohaku, you are nothing more than a tool......!
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg AKI_T30.png 0 0
+text But still, but still you choose her over me....!?"
+text .... Yes.
+text Akiha says this tearfully.
+text ~
+text ---But, still.
+music 07.mp3
+text ~
+text "........ I knew.
+text All of that, I already knew it, Akiha."
+bgload BG_11C.jpg
+text "----Eh?"
+text ~
+text A questioning voice.
+text I wonder which of them said it?
+text "About Kohaku using me, I knew that a long time ago.
+text .... But, that doesn't matter.
+text I love Kohaku-san.
+text So no matter what she does---I just believe in her."
+bgload BG_11C.jpg
+setimg KOHA_T09B.png 52 0
+text "---------"
+text A gasp.
+text She really is surprised.
+text With distant, longing, unreaching eyes, she looks at me.
+bgload BG_11C.jpg
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text "--Ha.
+text Ahaha, ha."
+text Akiha's dry, doll-like laugh.
+bgload BG_11C.jpg
+setimg AKI_T29.png 0 0
+text ".... Then I'm just some sort of clown?
+text Rejected by the one I love the most who is being used as a tool by the one he loves instead?
+text Still----you still want to steal him from me!
+text Don't be ridiculous, Kohaku....!!!!"
+bgload BG_11C.jpg
+text "Akiha--------!"
+text Her hair starts to flow.
+text ~
+text ---I run.
+text Even if Akiha ends up killing me, even if I can't make it, I don't care.
+text I run and I reach out my hand.
+text ~
+text But, I knew the cruel reality.
+text That the instant she walked out of that classroom.
+text ~
+text ~
+text That my hand, will never make it, to her.
+bgload event/KOHA_E08.jpg
+text A sickening sound.
+text Akiha's hair pierces Kohaku's chest like a spear.
+text Shocked, no, as if she was accepting it, she didn't even try to dodge.
+text She collapses.
+text Her kimono aacers in the air as if it was all in slow-motion.
+text My brain doesn't want to confirm it and lags behind the flow of time.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I was just taking it out on someone.
+text I remember those words.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I couldn't understand why he did that.
+text Did he value someone more precious than his own life?
+text She, always wanted, to become, that precious someone.
+text But that did not happen, so she lived alone.
+text And as if saying this is the only result that she could end up in.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---If he could do that, why didn't he ever help me?
+text ............ That sin.
+text Not just eight years ago, but it returns even in this instant.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---I thought it was so strange.
+text Why----why were the people around me not as kind as he was---
+text Her falling body.
+text In that instant.
+text Even with her eyes clouding over---I see Kohaku smiling at me, or so I think.
+music ~
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+music 04.mp3
+text "-----------"
+text My legs stop.
+text I can't speak, I can't breathe.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text My piercing headache is the only thing that continues.
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text "----Hmph.
+text A fitting end for a Thief Cat."
+text Akiha laughs.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+bgload BG_11C.jpg
+setimg AKI_T27.png 0 0
+text This piercing headache.
+text "I can't go back.
+text I killed SHIKI, even Nii-san rejected me.
+text Then, I have nowhere else to go.
+text I'm free now, so there shouldn't be any pain."
+text She faces me.
+text The air burns again.
+text Her hair coils around her like a snake.
+text It seems like every one of them has a mind of its own.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text This piercing headache.
+text Headache.
+text ~
+text "----Didn't you want to kill me?"
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text This headache.
+text Headache.
+text Headache.
+text Headache.
+text ~
+text "Not Kohaku-san---wasn't I the one you wanted to kill, Akiha?"
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_11C.jpg
+text Headache.
+text Headache.
+text Headache.
+text Headache.
+text Headache.
+text Headache.
+text I'm angry.
+text I'm angry.
+text I'm angry.
+text At myself, who could not save her.
+text At myself, who's still living right now.
+text At Akiha, who could not save her.
+text At Akiha, who's still living right now.
+bgload BG_11C.jpg
+setimg AKI_T28.png 0 0
+text "What, did you want to die quickly, Nii-san?
+text Well, I wouldn't forgive her even if she apologized.
+text I would have killed her sooner or later.
+text Because it's not like she had any reason to live.
+text She was broken a long time ago, so isn't it doing her a favor to throw her away?"
+text ~
+text -----I see.
+text If someone breaks, then it's a favor for them if you throw them away.
+text ~
+text So-------
+text ".......... You, aren't Akiha."
+text ~
+text She isn't the Akiha that I know.
+text I was just refusing to acknowledge that she was already possessed by the mirage so long ago.
+text ~
+text "Fine, Akiha, as you wish."
+text ~
+text Eight years ago.
+text Like when we ran in the garden.
+music ~
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "C'mon----let's begin our fight to the death."
+text My headache stops.
+text Tohno Shiki dies.
+text Nanaya Shiki saunters out of the dark night.
+bgload BG_11D.jpg
+text I visually gauge the distance between me and my enemy.
+text It is about ten meters.
+text I need two steps to get into knife range.
+text To ensure a kill, I need to take three steps.
+text There isn't any cover in the hallway and it's not big enough to hide myself by moving around.
+text Even if I use the walls or the ceiling, I will have difficulty avoiding her gaze.
+text Even if I take two steps, Akiha can easily fix her eyes on me in one motion.
+text That is the situation.
+text From this distance, I will die faster since she will be slightly faster.
+bgload BG_11D.jpg
+setimg AKI_T11C.png 0 0
+text "---I see.
+text You're finally in the mood, Nii-san."
+bgload BG_11D.jpg
+text Akiha takes a step forward.
+text Even though it's dark, with this distance, she can see me clearly.
+text Another step.
+text If she takes another step, that will be my signal.
+text Do I kill her now or pull back?
+text If I make a mistake, I will end engulfed in Akiha's hair like SHIKI in that dream.
+text ~
+text ----Another footstep.
+text ~
+text "------"
+choice ----Kill her now.|----Pull back for now.
+if selected == 1
+    jump s426.scr
+fi
+if selected == 2
+    jump s427.scr
+fi

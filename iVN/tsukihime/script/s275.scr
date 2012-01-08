@@ -1,0 +1,7 @@
+bgload BG_01A.jpg
+text "...."
+text No, I get the feeling that I won't be able to see Senpai by waiting here.
+text If Senpai doesn't feel like seeing me, she'll leave as soon as she sees me.
+text I should go to the classroom first and think about what to do.
+bgload IMA_10.jpg
+jump s277.scr

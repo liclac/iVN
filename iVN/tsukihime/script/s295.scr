@@ -1,0 +1,76 @@
+bgload BG_47.jpg
+text I leave the mansion.
+text .... What the hell is going on?
+text Even though there's no one around, I can feel the presence of people.
+text Buildings.
+text From the houses around me, I sense people.
+text *pant*----*pant*------
+text ~
+text With all these people here, I won't be able to hold back again.
+text Somewhere---I have to go somewhere without any people around or I'll never be able to calm down.
+text Where no one is.
+text Where there's no residences nearby.
+text ~
+text .... Somewhere, where even if I go crazy again, I won't cause anyone any trouble.
+bgload IMA_10.jpg
+bgload BG_27B.jpg
+text .... *pant*.... *pant*......
+text There's no one else in the park.
+text There's no houses nearby.
+text .... No one's supposed to be here, but I still can't calm down.
+text No matter how far away they are, there are houses all around here.
+text I can see the lights of town in the distance, too.
+text "It doesn't, exist."
+text Yeah, it doesn't exist.
+text There's no place in a city where you can't sense any presence of humans.
+text There's really no place where I can truly be alone in this civilized city.
+text "Damn-----it."
+text All around me.
+text So many people all around me.
+text If I walk just a little, I can catch all the prey I want.
+text ~
+bgload IMA_11B.jpg
+bgload BG_27B.jpg
+text "Shut---up."
+text My head hurts.
+text Even though I finally don't see the "lines" anymore, I'll start to see them again like this.
+text "----Eh?"
+text Wait, Shiki.
+text Isn't this strange?
+text Because it's not like I was seeing these "lines" because I was excited.
+text Those "lines" are things I can't help but see when I don't have my glasses on.
+text So even if I'm calmed down, I would still see them if I don't have my glasses on.
+text But I have dropped my glasses---
+text "----They're.. here."
+text I bring my fingers to my face and find out my glasses were there all along.
+text In other words,
+text Even if I wear the glasses Sensei gave me, I cannot control my eyes anymore.
+text "Ha---haha."
+text I am hit with the truth.
+text Just like Roa said, I just didn't realize that I was already insane.
+text That night.
+text Ever since that time when I wanted from the bottom of my heart to kill that bastard who was disgracing Ciel.
+text ".... Oh.... then, the headache from that time was...."
+text The headache from when I was fighting Roa.
+text When I saw those "lines" of death even when I don't remember taking off my glasses, and when I got Ciel-senpai to go find them for me.
+text ~
+text Since that time, I---even when I wore my glasses, regardless of what my intentions, I've been able to see those "lines".
+text ".... Senpai.... knew."
+text No, she probably just didn't tell me.
+text So as not to worry me, she lied to protect my mistaken perceptions.
+text ".... I see.... Sen.... pai."
+text She told me to talk to her if anything happened.
+text I've already memorized her phone number.
+text "Phone---"
+text There's a payphone nearby.
+text But---what am I going to do by calling her?
+text No one can heal my body.
+text Even Ciel-senpai can't heal what's inside me.
+text ~
+choice I can't let her see me like this.|But still, I want to hear her voice.
+if selected == 1
+    jump s296.scr
+fi
+if selected == 2
+    jump s297.scr
+fi

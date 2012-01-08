@@ -1,0 +1,51 @@
+bgload BG_40C.jpg
+sound SE_11.aac -1
+text Left by myself, I lie on my bed.
+text This house from eight years ago..
+text My blood relative from eight years ago..
+text It feels a little like they belong to someone else.
+text *sigh*
+text ".... I wonder what's going to happen to me now?"
+text Grumbling to no one in particular, I fall asleep.
+bgload IMA_10.jpg
+text ~
+text Awooooo.
+text ~
+text ---I hear the aace-like sound of something's voice.
+text ~
+text Awooooo.
+text ~
+text ---Something is howling.
+text It's too sharp and high-pitched to be a stray dog.
+text ~
+text Awooooo.
+text ~
+text ---It echoes in my eardrums.
+text Is it howling at the moon?
+text ~
+text Awooooo.
+text ~
+text ---This doesn't feel right.
+text The beastly howling is beginning to give me a headache.
+text ~
+text Awooooo.
+text ~
+text ---It doesn't stop.
+text ~
+text Awooooo.
+text ~
+text Awooooo.
+text ~
+text Awooooooooooooooo---
+bgload BG_40D.jpg
+text ".... Argh, just shut up already!"
+text ~
+text I wake up.
+text I can hear the sound of a dog barking outside the window.
+text The clock indicates it is just past eleven.
+text This is more than just a neighborhood nuisance.
+text "Damn, I can't sleep like this!"
+text The dog's howling comes from somewhere near the mansion's fence.
+text ~
+text .... It doesn't seem like I can go back to sleep at this rate.
+jump s47a.scr

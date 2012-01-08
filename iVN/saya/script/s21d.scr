@@ -1,0 +1,264 @@
+sound yoh05_1.aac 1
+music ~
+
+text ~
+text Squish.
+
+setimg kouji01.png 10 0
+
+text ~
+text At the sudden noise, Kouji freezes and stares down the hall.
+text It was a wet sound, like someone dragging their feet through a swamp--and it came from the room at the end of the hall.
+text ~
+text Something is there - something that can make noise.
+
+music music/fumi02.mp3 1
+
+text ~
+text Moving silently and keeping his light and gun at the ready, Kouji creeps in the direction of the sound.
+
+sound yoh05_2.aac 1
+
+text ~
+text Squish, squish....... Now it sounds strange, like someone squeezing mud through their fingers, and, as he gets closer, Kouji begins to hear some kind of animal's labored breathing.
+text ~
+text Could it be Fuminori? No, that's impossible. 
+text He should be holding his breath somewhere, waiting for a chance to ambush Kouji, not carelessly making noise.
+text ~
+text As he proceeds, the strange sound coming through the cracks in the concrete walls becomes clearer and clearer.
+ 
+sound voice/40/000405.aac 1
+text ".......uH.......uH.......uH......"
+
+bgload bg04ni0.jpg
+
+text ~
+text Kouji finds himself standing at the entrance to a room.
+text It's filled with a thick, viscous darkness, just like every other room that he's passed.
+text There is more than just darkness, however. Something is definitely...... there.
+text He can hear pained breathing, like that of a wounded animal, and what sounds like sobbing--
+text ~
+text --Sobbing?
+
+setimg kouji05_2.png 10 0
+
+sound voice/40/000502.aac 1
+text "......Who's there?" Kouji whispers into the darkness.
+text ~
+text Now that he's given away his position by speaking, he might as well turn on his light. 
+text For some reason, however, Kouji hesitates to do something so irreversible.
+text ~
+text Sobbing--the last time I heard her voice--on the phone, she was--sobbing-- 
+text ~
+text The wheezing suddenly stops, as though whatever it is is holding its breath.
+text And then--
+sound voice/40/000605.aac 1
+text "--KoUJi...... KuN?"
+text ~
+text A whisper comes out of the darkness. Though not a human voice - not by any measure - it speaks some blasphemous semblance of human words.
+ 
+bgload bg04ni0.jpg
+setimg kouji05_1.png 10 0
+
+text ~
+text A nightmarish flash of insight connects the dots in Kouji's mind.
+text ~
+sound voice/40/000702.aac 1
+text "......Tsukuba?"
+text ~
+text It can't be.
+text Tsukuba Yoh doesn't sound like that. She doesn't smell like that.
+text ~
+sound voice/40/000805.aac 1
+text "--KoUJi......KuN--pLeAse--KilL....... mE--"
+text ~
+text If it's not Yoh, then how does it know Kouji's name? Why is it begging him for help?
+
+sound saya07_2.aac 1
+
+text ~
+text Even so, it can't be Yoh. She's human. She wouldn't be slithering around like whatever slimy creature is hiding in the darkness.
+text ~
+sound voice/40/000905.aac 1
+text "--It HurTs--iT aLWayS HurTs--tHis...... BoDy--
+text ~
+sound voice/40/000905_2.aac 1
+text SaVe mE--KoUJi-KuN--"
+text ~
+text The thing wriggles closer to Kouji.
+text His reason cries out, imploring him to switch the light in his left hand on before it's too late - or to turn and run, if he cannot.
+text However, Kouji is unable to accept either choice. He can only call out in vain to the amorphous shape in the darness.
+text ~
+sound voice/40/001002.aac 1
+text "Are you Tsukuba? Hey...... Are you really Tsukuba!?"
+sound voice/40/001105.aac 1
+text "--LeT Me dIe--No--MorE--PleAse--KilL meeEE--"
+
+sound 05_1.aac 1
+
+text ~
+text Something soft and slimy slides over Kouji's toes.
+text Instinct completely overrides his will, forcing him to turn on his light and shine it at his feet.
+
+music ~
+bgload ffffff.jpg
+
+text ~
+text The white beam reveals everything - the merciless truth that finally shatters Kouji's sanity.
+
+music music/s09_2.mp3
+sound voice/40/001202.aac 1
+bgload cg/43_1.jpg
+
+text ~
+text Terror wipes his mind of everything but two words - "gun" and "trigger" - looping endlessly through his head.
+text His right index finger responds with absolute obedience.
+
+sound 114_1.aac 1
+bgload cg/43_2.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~
+text There is an instant of tremendous light and sound, both more intense than he expected, and then the destructive forces are swallowed up by the darkness.
+text His ears are still ringing from the bang--but he hears a weak voice coming from the shadows again.
+text ~
+sound voice/40/001305.aac 1
+text "......iT...... HuRts......."
+text ~
+sound voice/40/001402.aac 1
+text "Uwaah! Ahhhhhhhh!"
+text ~
+text Kouji screams and desperately pulls the trigger again and again, believing that salvation can come only from his own finger.
+
+sound 114_2.aac 1
+bgload cg/43_1.jpg
+delay 30
+bgload cg/43_2.jpg
+delay 30
+bgload cg/43_1.jpg
+delay 60
+sound 114_2.aac 1
+bgload cg/43_2.jpg
+delay 30
+bgload cg/43_1.jpg
+delay 60
+sound 114_2.aac 1
+bgload cg/43_2.jpg
+delay 30
+bgload cg/43_1.jpg
+
+text ~
+text Light and darkness, silence and explosion - they dance their dance three more times.
+text Kouji doesn't even need to aim, of course. His terrifying enemy is right at his feet, far too close to miss.
+text ~
+text Ryouko warned him about how many bullets were left in the revolver, but that information has already been driven from his mind.
+
+sound 44.aac 1
+
+text ~
+text Even after the cold, heavy gloom wraps itself around him once more, Kouji keeps pulling the trigger like a man possessed, paying no attention to the clicking of the empty, worthless revolver.
+
+sound 26.aac 1
+bgload bg04ni0.jpg
+
+text ~
+text As though his panic-stricken body has just realized how strange it is to be standing on two legs, Kouji loses his balance and goes down hard on his backside.
+text Still frightened out of his mind, he keeps firing the empty gun from a sitting position. 
+text He knows no other way to erase the memory of thetext thing that he saw for a moment in the beam of his maglite.
+text ~
+text The light, which fell from his hand during the attack, is now lying on the floor, pointing in a completely different direction.
+text All four bullets delivered by Kouji's finger must have hit their target, enough destruction to kill any human four times over - and they were his last card to play.
+text ~
+text Which means that he is now sitting alone in the pitch-black darkness with no way to defend himself - and, just as he realizes this--
+
+sound 05_4.aac 1
+
+text ~
+text A mass of cold, rotting flesh rolls onto him like a tidal wave.
+
+bgload cg/44.jpg
+
+text ~
+sound voice/40/001505.aac 1
+text "ItHurtsIthuRTsithurtsIThurtsitHURTSiThUrTsItHuRtSitHuRtSIThURTsIThURTSITHURTSITHURTSSSSS!!"
+text ~
+text He can no longer even scream as he's pushed onto his back. 
+text With fear seizing his throat in its iron grip, Kouji struggles desperately against the thing as it crawls up his body towards his face.
+text ~
+sound voice/40/001602.aac 1
+text "Hii......hii......hii......!!"
+text ~
+text Covering his face with his left hand, he scrabbles wildly along the floor with his right, searching for a way out that doesn't exist.
+text Devoid of everything but primal fear, his mind has regressed to that of a feral animal.
+
+bgload bg04ni0.jpg
+
+text ~
+text And that, perhaps--is why, when his right hand closes around something hard at the last moment, he is able to instinctively recognize it as a weapon.
+text Putting every ounce of strength into his arm, Kouji swings the heavy object in his hand at the creature on top of him.
+
+sound kouji04_1.aac 1
+bgload ffffff.jpg
+delay 30
+bgload bg04ni0.jpg
+
+text ~
+text With the wet sound of a water cushion being struck with a blunt object, Kouji's attacker rolls off of him.
+text As soon as he is able to move freely, Kouji leaps to his feet and grabs his new weapon with both hands, as though it's a charm to ward off evil. 
+text For the first time, he realizes that he's holding part of a rusty steel pipe.
+text ~
+sound voice/40/001705.aac 1
+text "......iI......Ii......iI......"
+text ~
+text It's sobbing again.
+
+bgload cg/05.jpg
+
+sound voice/40/001802.aac 1
+text "Ahhhhhhhhh!!"
+text ~
+sound kouji04_1.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/05.jpg
+
+text With a cry that's part terrified scream, part enraged roar, Kouji raises the steel pipe and brings it crashing down on the cowering creature.
+text He hears a wet sound and feels the blood-chilling sensation of its thick, soft flesh absorbing the blow.
+text These combine to evoke a physiological loathing in him that wipes his mind of all but the urge to destroy.
+text ~
+sound voice/40/001902.aac 1
+text "Shit! Shiiiiiit!!"
+text ~
+
+sound kouji04_2.aac 1
+bgload ffffff.jpg
+delay 30
+bgload cg/05.jpg
+
+text Consumed by the same desperation with which he kept firing the empty gun, Kouji rains blow after blow down on his enemy.
+text After the tenth blow, it stops sobbing; after the twentieth blow, it stops moving; 
+text And, after the thirtieth blow, it begins to feel and sound more and more like he's beating some viscous liquid.
+text ~
+
+music ~
+bgload bg04ni0.jpg
+sound ~
+
+text Kouji doesn't stop thrashing the creature until he realizes - or rather, recovers enough of his mind to realize - that, whatever it might have been, it is no longer anything but a lifeless corpse.
+text The pipe in his hand, covered with unidentifiable fluids and filth, suddenly feels unbearably heavy.
+
+music music/s01.mp3
+
+if badend == 1
+	jump s21e.scr
+fi
+
+text ~
+sound voice/40/002006.aac 1
+text "You still haven't seen the most damning part of all of this."
+text ~
+text Ryouko's voice plays back in his head. Now, at last, he knows how merciful her warning was. 
+text Now that his eyes are as open as hers, he is able to laugh disdainfully at his own foolishness.
+
+jump s21e.scr

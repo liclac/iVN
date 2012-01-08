@@ -1,0 +1,738 @@
+bgload 000000.jpg
+delay 120
+music music/s02.mp3
+bgload ba03no0.jpg
+sound 64.aac 1
+
+text Yoh is determined to talk to him today.
+text Nothing will happen as long as she continues to hesitate, and putting it off will only make her suffering last longer.
+text It's time to show courage once again.
+
+bgload 000000.jpg
+delay 80
+bgload cg/07.jpg
+
+text ~
+text Yoh's fourth period on Thursdays is biology, and this is her one chance to see Fuminori.
+text ~
+text Because it's a required course with many students, the lecture is held in a large hall that can seat over two hundred. 
+text But since the room is usually only about half full, it's rarely difficult for Yoh to find the seat she wants.
+text ~
+text Yoh prefers to sit near the center, where it's easiest to hear the professor. 
+text Most of the students congregate in this area for the same reason.
+text Fuminori usually sits next to her, although it's not always possible when there's no seat available. 
+text Yoh has resigned herself to this as representing the distance still between them, but they still always try to sit as close as possible.
+text ~
+text The classroom isn't crowded today, so Yoh is able to set her bag on the seat next to her without bothering anyone.
+text ~
+text When the professor arrives at the usual time to start class, however, there's still no sign of Fuminori.
+text ~
+text After waiting for about ten minutes, Yoh furtively casts her glance around the room.
+text ~
+text He's there. 
+text Fuminori must have come in without her noticing, because he's sitting alone in the far back corner of the room.
+text Did he miss Yoh when he came in? No, that's impossible. 
+text In the first place, no serious student would willingly sit in such an inconvenient place.
+text ~
+text Feeling miserable, Yoh slides her bag back over to herself.
+
+bgload 000000.jpg
+delay 80
+bgload ba02no0.jpg
+
+sound 40_1.aac 1
+text Fuminori is out the door the moment class ends, and Yoh text barely manages to catch up to him before he disappears down the hallway.
+sound voice/6/000105.aac 1
+text "Sakisaka-san!"
+text ~
+text At the sound of his name, Fuminori stiffens as though he was just bellowed at.
+
+setimg fumi06.png -60 0
+
+sound voice/6/000200.aac 1
+text "......What is it?" he turns to her and says, though he seems reluctant to do so.
+text ~
+text Now that they're face to face, Yoh is painfully aware of how much weight Fuminori has lost. 
+text His sunken eyes and protruding cheekbones are a far cry from the features familiar to her. 
+text She wonders whether he's under a lot of stress, or perhaps not getting enough nutrition. 
+text Maybe it's both.
+text ~
+text He looks more tense than he should be; like he's irritated, or even frightened of something. 
+text His eyes move restlessly from point to point, and he refuses to look Yoh in the eye.
+text Just looking at him makes Yoh's chest ache with sadness. 
+text What could have changed him so?
+text ~
+text Today, she reminds herself, relighting the flame of courage in her heart.
+sound voice/6/000305.aac 1
+text "Um, I have something to talk to you about. Do you...... have some time?"
+
+music ~
+bgload 000000.jpg
+delay 80
+bgload ba05no0.jpg
+sound 122_1.aac 1
+
+text The courtyard is empty and silent, no one willing to sit on a bench and chat in the cold November air.
+
+setimg fumi06.png -60 0
+
+sound voice/6/000400.aac 1
+text "So what is it?"
+text ~
+text --Don't you remember? Yoh almost blurts out, but she manages to keep herself from being so blunt.
+
+bgload cg/09.jpg
+
+sound voice/6/000505.aac 1
+text "Sakisaka-san, you've been acting strange recently. I'm...... worried about you."
+sound voice/6/000600.aac 1
+text "Maybe you're right. A lot's happened, after all."
+text ~
+text He smiles like it's nothing, but even that seems stiff and forced.
+text He's even standing precisely one pace farther away than he used to while talking to her.
+
+music music/s04.mp3
+
+sound voice/6/000705.aac 1
+text "Is that really all?"
+sound voice/6/000800.aac 1
+text "Do you think there's something more?"
+text ~
+text Yoh manages to keep from flinching at the hardness in his voice.
+sound voice/6/000905.aac 1
+text "It's like...... you're struggling with something."
+sound voice/6/001000.aac 1
+text "......"
+text ~
+text Rather than answer, Sakisaka grinds his toe into the dead grass at his feet. 
+text Fearing that her determination might flag, Yoh lets the words come as they may.
+sound voice/6/001105.aac 1
+text "It's like you're trying to bear some unimaginable weight, but the struggle is breaking you......
+sound voice/6/001105_2.aac 1
+text That's how you look to me."
+sound voice/6/001200.aac 1
+text "Oh really," Fuminori mutters through clenched teeth, no longer even trying to deny it or change the topic. 
+text This brush-off is an even clearer signal of rejection than his earlier evasiveness.
+text But Yoh's determination is strong. Today, at least, she won't back down.
+sound voice/6/001305.aac 1
+text "It's times like these," she implores, trying to convey the sincerity of her feelings for him, "that you need your friends."
+
+bgload bp02me0.jpg
+
+sound voice/6/001405.aac 1
+text "I really feel bad about what happened to your family.
+sound voice/6/001405_2.aac 1
+text But...... you're not alone. You have Tonoh-kun, and Oumi-chan, and--
+sound voice/6/001405_3.aac 1
+text you have me."
+
+bgload cg/09.jpg
+
+text Yoh can no longer stop the words from pouring out. 
+text She fears that if she does not release all of the myriad emotions pent-up inside her, they will be lost forever.
+
+bgload bp01me0.jpg
+
+sound voice/6/001505.aac 1
+text "I think we can help you, so that you don't have to carry everything by yourself."
+sound voice/6/001505a.aac 1
+text "Even if we can't do anything, talking to us might make you feel a little better."
+sound voice/6/001505b.aac 1
+text "I want to help you, Sakisaka-san! The others all feel the same--"
+
+music ~
+bgload ffffff.jpg
+delay 30
+bgload ba05no0.jpg
+setimg fumi05.png -60 0
+
+sound voice/6/001600.aac 1
+text "Stop it!" Fuminori shouts, silencing Yoh's entreaty.
+text ~
+text She had promised herself that she wouldn't back down, but Fuminori's expression was terrible enough to shatter her resolve.
+
+music music/s07.mp3
+
+text ~
+text The look in his eyes is not anger, or any other warm-blooded emotion. 
+text It is hate - murderously cold hate.
+
+bgload ba05no0.jpg
+setimg fumi06.png -60 0
+
+sound voice/6/001700.aac 1
+text "Oh yeah, I just remembered that I still haven't given you an answer."
+text ~
+text --He remembers.
+text He remembers, yet still he has treated her with such coldness.
+text That alone is more than enough of an answer for Yoh. 
+text If his words tear her heart to shreds any further, she won't be able to bear it.
+text ~
+sound voice/6/001800.aac 1
+text "I never saw you in any particularly special way before. When you expressed your feelings for me, I wasn't sure how to respond.
+sound voice/6/001800_2.aac 1
+text I didn't know how I really felt about you, after all."
+sound voice/6/001905.aac 1
+text "Sakisaka-san......"
+sound voice/6/002000.aac 1
+text "But now I can give you a clear answer. I've had plenty of time to think it over, you know.
+sound voice/6/002000_2.aac 1
+text --Tsukuba-san, I hate you. I don't even want to look at you."
+text ~
+text I mustn't cry, Yoh tells herself, but too late to stop the tears pouring from her eyes.
+text ~
+sound voice/6/002100.aac 1
+text "I suppose it's too much to hope that I never see you again. We do go the same school.
+sound voice/6/002100_2.aac 1
+text So would you mind at least never talking to me again? I'm quite sick of you."
+text ~
+sound voice/6/002205.aac 1
+text "How can you be so......" Yoh inadvertantly whispers.
+
+bgload ba05no0.jpg
+setimg fumi01.png -60 0
+
+text Fuminori twists his lips into a horribly cruel smile.
+text ~
+sound voice/6/002300.aac 1
+text "You should calm down a little, seriously. I bet you were just egged on by Oumi and Kouji, right? 
+sound voice/6/002300_2.aac 1
+text You can play at having a crush all you want, but leave me out of it."
+text ~
+text That's all Yoh can take.
+text ~
+text Even after shedding tears in front of him, she absolutely refuses to let him hear her cry. 
+text Any disgrace would be preferable to breaking down here.
+ 
+sound 39.aac 1
+
+text ~
+text So she runs, fleeing breathlessly from the courtyard with Fuminori smiling coldly at her back.
+
+music ~
+bgload 000000.jpg
+delay 90
+music music/s03.mp3
+bgload ba05no1.jpg
+
+text ~
+text Oumi was the first to catch sight of Yoh and Fuminori leaving for the courtyard.
+text Reluctant to interrupt them, but still unwilling to leave them alone, Kouji and Oumi ended up watching the whole thing from the shadows.
+
+setimg oumi02.png 150 0
+
+sound voice/6/002404.aac 1
+text "That asshole......"
+text ~
+text Throughout the exchange, Oumi was clearly itching to jump out and punch Fuminori in the face. 
+text Knowing her temper, Kouji kept firm hold of her sleeve until the end. 
+text If he hadn't, she might very well have done it.
+text ~
+text Fuminori leaves after Yoh, his every step seeming to take an act of willpower. 
+text Kouji sighs heavily into the once more empty courtyard, but the bitter taste in his throat won't go away.
+
+setimg kouji01.png 10 0
+
+sound voice/6/002502.aac 1
+text "What's wrong with him......"
+text ~
+text Even for Kouji, Fuminori's treatment of Yoh is unforgivable. 
+text However, the first thing that he feels is confusion.
+text Kouji and Fuminori are old friends, having known each other since before college. 
+text As far as Kouji knows, Fuminori has never been so cruel before.
+text There's no question that the accident changed him.
+
+bgload ba05no1.jpg
+setimg kouji01.png 10 0
+setimg oumi04.png 150 0
+
+text ~
+sound voice/6/002604.aac 1
+text "Kouji, are you going to just let this go?"
+
+bgload ba05no1.jpg
+setimg kouji02.png 10 0
+setimg oumi04.png 150 0
+
+sound voice/6/002702.aac 1
+text "I don't want to, but what can we do?"
+
+bgload ba05no1.jpg
+setimg kouji02.png 10 0
+setimg oumi02.png 150 0
+
+sound voice/6/002804.aac 1
+text "Something better than peeping!" Oumi shouts, clearly infuriated.
+text ~
+sound voice/6/002904.aac 1
+text "I won't be satisfied until I give him a piece of my mind."
+
+bgload ba05no1.jpg
+setimg kouji13.png 10 0
+setimg oumi02.png 150 0
+
+sound voice/6/003002.aac 1
+text "That won't make Tsukuba feel better."
+
+bgload ba05no1.jpg
+setimg kouji13.png 10 0
+setimg oumi01.png 150 0
+
+sound voice/6/003104.aac 1
+text "But it'll at least make me feel better!"
+text ~
+text Yoh and Oumi are best friends, just like Kouji and Fuminori, and it was the relationship between Kouji and Oumi that brought Fuminori and Yoh together. 
+text Just as it is natural for Oumi to be worried about her friend, it is also natural for her to be angry with Fuminori.
+
+bgload ba05no1.jpg
+setimg kouji13.png 10 0
+setimg oumi02.png 150 0
+
+sound voice/6/003204.aac 1
+text "I'm going to talk to Sakisaka-kun by myself. You don't have to come."
+
+bgload ba05no1.jpg
+setimg kouji15.png 10 0
+setimg oumi02.png 150 0
+
+sound voice/6/003302.aac 1
+text "......You serious?"
+
+bgload ba05no1.jpg
+setimg kouji15.png 10 0
+setimg oumi04.png 150 0
+
+sound voice/6/003404.aac 1
+text "You go take care of Yoh. She's probably really hurt......
+sound voice/6/003404_2.aac 1
+text After she's finished crying, she'll need someone to be nice to her."
+
+bgload ba05no1.jpg
+setimg kouji02.png 10 0
+setimg oumi04.png 150 0
+
+sound voice/6/003502.aac 1
+text "Wait, shouldn't we switch jobs?"
+
+bgload ba05no1.jpg
+setimg kouji02.png 10 0
+setimg oumi03.png 150 0
+
+sound voice/6/003604.aac 1
+text "You know my personality. If I try to comfort her, I'll just end up making it a lot worse."
+
+bgload ba05no1.jpg
+setimg kouji03.png 10 0
+setimg oumi03.png 150 0
+
+sound voice/6/003702.aac 1
+text "......Yeah, you have a point."
+
+bgload ba05no1.jpg
+setimg kouji03.png 10 0
+setimg oumi04.png 150 0
+
+sound voice/6/003804.aac 1
+text "What's that supposed to mean?"
+
+bgload ba05no1.jpg
+setimg kouji11.png 10 0
+setimg oumi04.png 150 0
+
+sound voice/6/003902.aac 1
+text "Anyway, just don't go too far."
+
+bgload ba05no1.jpg
+
+text ~
+text Ending the conversation before Oumi's mood gets any worse, Kouji heads off to find Yoh.
+
+music ~
+bgload 000000.jpg
+delay 120
+music music/s01.mp3
+bgload bj01me0.jpg
+
+text ~
+text I feel awful, miserable - but also refreshed.
+text I've finally crossed the line.
+text ~
+text I knew it would come crashing down like this sooner or later. 
+text Having become unable to feel anything but disgust for other people, there was no way I could hope to maintain the relationships I'd had before the accident.
+text ~
+text Today's incident will definitely get back to Kouji and Oumi, and everyone will be convinced that Sakisaka Fuminori has had a major change of character. 
+text Honestly, I don't care any more. 
+text At least I probably won't be institutionalized for this. 
+text I just need to avoid acting any stranger than I already have.
+text ~
+text If this puts a rift between me and the others, good. 
+text Just thinking about the stress I'll avoid makes me feel like a weight has been lifted from my shoulders. 
+text I'm fed up with them sticking their noses into my life. 
+text It's like they don't care that they make my gut turn just by being near me.
+text ~
+text I've been terrified of them until now, but today I struck fear into one of them. 
+text On one hand, thinking about this is a relief...... 
+text But I'm not entirely without remorse for what happened.
+text The person I just chased off with the verbal equivalent of a nuclear bomb used to be my friend Yoh. 
+text Even if my senses don't believe it, my mind accepts the theory. 
+text I don't have any particular grudge against Yoh herself, and I didn't want to hurt her.
+text ~
+text In retrospect, perhaps I should have just outright refused to talk to her.
+text ~
+text Yoh -- She was an attractive woman, and I certainly didn't think badly of her. 
+text To be honest, though, I was annoyed when Kouji and Oumi tried to stick us together for the fun of it. 
+text It felt like I was being toyed with, and Yoh seemed totally oblivious to the fact that she was dancing to their tune. 
+text Her cluelessness was irritating.
+text ~
+text That said, I knew that none of them meant any harm. 
+text Back then, I didn't have any reason to hurt others just to get my way. 
+text If having a casual relationship with Yoh would keep our circle of friends together, I was willing to make that compromise.
+text ~
+text Now, however, there's no room in my heart for the tolerance necessary to just go with the flow.
+text If merely talking to someone is an unbearable ordeal, how can I be expected to show kindness?
+text ~
+text These ruminations have left me exhausted. 
+text I want to return to Saya as soon as possible, but thinking about the packed trains and crowded downtown streets between here and home saps my will.
+text Catching sight of a nearby bench, I sit down and close my eyes to the horrors of the world. 
+text I can't do anything about the stink or the noise, but at least I can manage to calm my nerves enough to rest.
+
+music ~
+bgload 000000.jpg
+delay 120
+music music/s04.mp3
+
+text When I regained consciousness in the T University hospital ward, the world was as dark as it is now.
+text I hadn't regained my sight, even though my eyes and optical nerves were fine.
+text It must have been an aftereffect of the accident.
+text ~
+text Blindness was a shock, but now I know that my suffering then was nothing. 
+text After all, my senses of hearing, touch, taste, and smell were all fine at the time.
+text The real tragedy began when my sight returned.
+text ~
+
+bgload bb04me0.jpg
+
+text The one small mercy was that I was able to come to terms with the terrible accident and my neurosurgery while still blind.
+text ~
+text I panicked when I first saw the nightmarish hospital and the bloodcurdling shapes of the doctors and nurses, but I soon guessed the cause.
+text It chills me to think of what might have happened if I had recovered my sight along with my consciousness. 
+text Suddenly awakening in what can only be described as Hell, I would have no doubt lost my mind instantly.
+text ~
+text Soon my disorder spread to the senses of touch, taste, and smell. 
+text In the human sensory structure, sight is far more powerful than any of the other senses.
+text The taste of my food, the feel of my bedsheets, the fragrance of my get-well flowers -- all became as unbearably foul as my eyes said they should be.
+
+music ~
+
+text ~
+text Eventually, when even the voices of the doctors became unrecognizable as human, I decided to kill myself. 
+text I didn't believe for a second that I could come to terms with this new world.
+text ~
+text At least, not until I met Saya.
+
+bgload 000000.jpg
+
+text ~
+text One night when I was trying to think of a painless way to die, I found myself succumbing to sleep.
+text Drifting between the nightmares in my dreams and the nightmare of reality, I didn't notice her enter my room.
+
+music music/s05.mp3
+bgload cg/08.jpg
+
+text ~
+text Suddenly there was a face staring curiously down at me from next to my bed.
+text The face was not covered in pus, slime, or earthworm-like feelers. 
+text It had smooth white cheeks, round eyes, a lovely little nose...... all things I had never expected to see again. 
+text The face was that of a girl, undeniably human and positively glowing with beauty.
+text ~
+sound voice/7/000100.aac 1
+text "Ahh--" I sighed in admiration, savoring the first peace and joy since regaining my sight.
+text ~
+text Apparently, she had not expected such a reaction.
+sound voice/7/000201.aac 1
+text "Aren't you afraid of me?"
+text ~
+text Looking at the clock, I saw that it was exactly three in the morning, not a time for a young girl to be wandering around a hospital. 
+text Even someone with no imagination would likely have thought her a ghost.
+text I, however, wouldn't have cared if she had been a ghost. 
+text Either way, she was a godsend.
+sound voice/7/000300.aac 1
+text "Who--are you? Why are you here--?"
+sound voice/7/000401.aac 1
+text "I'm Saya. I'm looking for my dad."
+text ~
+text I assumed that she was the daughter of one of the night-shift nurses or other patients. 
+text It was unusual, but not unthinkable for such a child to be wandering around. 
+text Rather, it was the hospital security's fault for not locking the doors properly.
+sound voice/7/000501.aac 1
+text "It's no fun if you're not scared."
+sound voice/7/000600.aac 1
+text "Wait--!" I cried, desperate to keep her from leaving. 
+text It was only after she turned around that I realized I hadn't thought of what to do next.
+sound voice/7/000701.aac 1
+text "Well?"
+text ~
+text Her eyes drew me into their depths, healing my soul to its core. 
+text Through the white haze clouding my mind, I struggled to form a coherent sentence.
+sound voice/7/000800.aac 1
+text ~
+text "......I shouldn't do this to a girl, but you're the only one I can ask......"
+text ~
+text No longer concerned with propriety, I let the words come pouring out of my mouth.
+sound voice/7/000900.aac 1
+text "Will you...... let me hold your hand?"
+text ~
+text Saya first looked confused, but then smiled like she'd just found a new toy. Her smile was like the sun.
+text ~
+sound voice/7/001001.aac 1
+text "You're strange," she said, holding out her slender white hand. "No one's ever asked me anything like that."
+text ~
+text Ever so carefully, as though catching snowflakes in my hand, I placed my palm against hers.
+text ~
+text I could clearly feel her human warmth and the softness of her delicate fingers. 
+text She was there, just beyond the palm of my hand.
+text Thinking back on the joyful tears I shed then, I know that that was the moment I was saved from my fate.
+sound voice/7/001100.aac 1
+text "This is the first time in half a month that I've touched someone and...... felt them as human."
+text ~
+sound voice/7/001201.aac 1
+text "......?"
+text ~
+sound voice/7/001300.aac 1
+text "I can't touch anyone else. I was in an accident, and as an aftereffect...... I can't see people as human."
+sound voice/7/001401.aac 1
+text "Hmm....... how mysterious."
+sound voice/7/001501.aac 1
+text "You're interesting," she said, winding her fingers gently around mine. "Can I come back tomorrow night?"
+sound voice/7/001600.aac 1
+text "Yes, of course! But...... are you alright with that?"
+sound voice/7/001701.aac 1
+text "Sure. The night belongs to me."
+
+bgload 000000.jpg
+delay 80
+bgload bb04me0.jpg
+
+text ~
+text And so our nightly rendezvous began.
+text Saya came to my room every night at 3 A.M., skillfully taking advantage of the duty nurse's shift-change.
+text I was astonished to learn that she was living in hiding inside the hospital.
+
+bgload cg/08.jpg
+
+sound voice/7/001801.aac 1
+text "It's so big that I never run out of hiding places," she said, answering my surprise with a nonchalant smile.
+text ~
+text She told me that she had been living in the suburbs with her father, a doctor teaching at the hospital, but had found herself all alone when one day he stopped coming home.
+text ~
+text After tiring of waiting for her father at home, Saya had decided one night to sneak into the hospital, where she'd lived for over two months while searching for his whereabouts.
+text ~
+sound voice/7/001900.aac 1
+text "Don't you have to go to school?"
+sound voice/7/002001.aac 1
+text "No, Dad taught me everything I need to know. I'm really smart, you know."
+text ~
+text She was a strange girl. 
+text While she looked and talked like an innocent child, she also had the ability to hide from adults and feed herself. 
+text Perhaps her lack of common sense was due to her youth, but the sharp intelligence and deep knowledge she periodically exhibited were not those of a child.
+text ~
+text But such minor things were of no concern to me. 
+text To me, Saya was the only other human in a world gone mad. 
+text Her existence meant far more to me than the standards of society.
+
+bgload bb04me0.jpg
+setimg saya12.png 80 0
+
+sound voice/7/002100.aac 1
+text "Isn't it dangerous here? Have you ever thought you might be found?"
+
+bgload bb04me0.jpg
+setimg saya21.png 80 0
+
+sound voice/7/002201.aac 1
+text "Nope, never. I don't have to worry about finding food here, and it's a lot more fun than staying in Dad's house by myself."
+
+bgload bb04me0.jpg
+setimg saya03.png 80 0
+
+sound voice/7/002301.aac 1
+text "I looked through the patient lists and found the ones who have mental problems," Saya continued, grinning mischievously.
+sound voice/7/002301_2.aac 1
+text "Sometimes I sneak into their rooms late at night and scare them. Even if they raise a big fuss, no one believes what mental patients say.
+sound voice/7/002301_3.aac 1
+text They just brush it off as a bad dream."
+text ~
+text Her confession reminded me that the hospital was famous for its ghost stories.
+text Who could have imagined that there was actually a real girl impishly roaming these hallways?
+sound voice/7/002400.aac 1
+text "So that's why you came to my room at first?"
+
+bgload bb04me0.jpg
+setimg saya05_1.png 80 0
+
+sound voice/7/002501.aac 1
+text "Yeah. --Sorry, are you mad?"
+text ~
+text While her pranks were hardly praiseworthy, I couldn't bring myself to scold her for the very thing that had brought us together.
+sound voice/7/002600.aac 1
+text "You shouldn't do it anymore. Will you come talk to me at night instead?"
+
+bgload bb04me0.jpg
+setimg saya13.png 80 0
+
+sound voice/7/002701.aac 1
+text "Yeah! That's more fun for me, too!"
+
+bgload 000000.jpg
+delay 80
+bgload cg/10.jpg
+
+text With extreme care, I was able to conceal my sensory disorder.
+text It was glaringly obvious that the doctors had no way to cure me, and the fact that I had just undergone a new treatment clearly still in the trial-and-error stage made me even more cautious.
+text ~
+text How much interest would the doctors show in a patient exhibiting such an unusual side effect? 
+text As a medical student, it was easy for me to imagine the clinical coldness of the researchers. 
+text For the sake of my dignity, I was not about to become a pitiful guinea pig.
+text ~
+text And so I hid my everyday discomfort and loathing behind a mask of normalcy, convincing the doctors that any signs of stress were merely a result of hospitalization.
+text Saya was my support. 
+text Looking forward to her nightly visits was the only thing that gave me the strength to overcome my daily torture.
+text Having hope can make an enormous difference in a patient's progress. 
+text With the aid of my secret nurse, I recovered at a pace that left the doctors stunned.
+
+bgload 000000.jpg
+delay 80
+bgload bb04me0.jpg
+
+text ~
+text On the last night before my release, I summoned my courage and asked her:
+sound voice/7/002800.aac 1
+text "Are you--going to stay in this hospital forever?"
+
+setimg saya20_1.png 80 0
+
+sound voice/7/002901.aac 1
+text "Yeah. I couldn't learn anything about my Dad, but I don't have anywhere else to go. I guess I'll stay as long as I can hide."
+text ~
+text In other words, she had no reason to stay either.
+text ~
+text I decided to take the plunge, timidly asking:
+sound voice/7/003000.aac 1
+text "Why not...... stay at my house?"
+
+bgload bb04me0.jpg
+setimg saya01.png 80 0
+
+sound voice/7/003101.aac 1
+text "Eh?"
+sound voice/7/003200.aac 1
+text "My family's gone, so I have plenty of rooms. You won't need to hide, and it's not a bad place to live--"
+
+bgload bb04me0.jpg
+setimg saya17.png 80 0
+
+sound voice/7/003301.aac 1
+text "You want me to live with you?"
+text ~
+text I didn't have the courage to ask her what she thought of that, so I hastily offered a deal.
+text ~
+sound voice/7/003400.aac 1
+text "In exchange, I'll help you look for your father! I'll find him no matter what!"
+
+bgload bb04me0.jpg
+setimg saya19.png 80 0
+
+sound voice/7/003501.aac 1
+text "......I think that'll be hard," Saya said, looking a little embarassed.
+text ~
+sound voice/7/003601.aac 1
+text "Dad probably did something bad and had to leave the hospital.
+sound voice/7/003601_2.aac 1
+text We can't get the police involved. You'll have to be as discrete as possible."
+sound voice/7/003700.aac 1
+text "I'll do whatever it takes! I--"
+text ~
+text Unable to control myself, I finally spoke the truth.
+text ~
+sound voice/7/003800.aac 1
+text "--I don't want to be apart from you."
+
+bgload bb04me0.jpg
+setimg saya14.png 80 0
+
+text At first she looked bewildered, but, after considering it, she said,
+
+bgload bb04me0.jpg
+setimg saya25.png 80 0
+
+sound voice/7/003901.aac 1 
+text "......Give me a little time to think."
+
+bgload bb04me0.jpg
+
+text ~
+text That said, she left my room earlier than usual.
+
+sound door_close.aac 1
+music ~
+bgload 000000.jpg
+delay 80
+bgload bb02me0.jpg
+
+text ~
+text On the day of my release, I managed to smile as I accepted the hideous, foul-smelling celebratory bouquet.
+text ~
+text The flesh-beasts calling themselves Kouji, Yoh, and Oumi came to pick me up. 
+text They had come to see me any number of times during my stay, but it never got easier to see my old friends changed so horribly.
+text My sudden tears of despair drew suspicion, but I managed to explain them away as tears of joy.
+text ~
+text As we walked through to Kouji's car through the halls, lobby, and parking lot, I desperately averted my eyes from the grotesque world and looked for Saya. 
+text But she was nowhere to be seen.
+text ~
+text I stared through the car window at the hospital fading in the distance, praying for a last glimmer of hope.
+text But Saya never appeared.
+
+bgload 000000.jpg
+delay 80
+music music/s11.mp3
+bgload bc01me0.jpg
+
+text ~
+text After Kouji and the others dropped me off in front of the house I'd grown up in, I took another look at my surroundings.
+text I'd never moved, having lived my entire life in this one house. 
+text There had been no other place for me to call home, but now -- everything had mercilessly changed.
+
+bgload bc07me0.jpg
+
+text ~
+text As I walked from the gate to the front door, I looked over the garden and trees. 
+text I had many memories of childhood there, and I could feel them being defiled by the twisted, festering shapes before me.
+
+bgload bc03me0.jpg
+
+text ~
+text There was nothing familiar left in the house, nothing to evoke fond memories. 
+text What I had once called home was now a whole other world.
+sound voice/7/004000.aac 1
+text "......I have no home," I whispered with a smile of self-pity.
+
+bgload 000000.jpg
+delay 80
+bgload cg/31.jpg
+
+text ~
+text Ascending to the second floor, I found my room utterly unrecognizable.
+text And sitting on the bed, curled up like an abandoned cat, was Saya.
+text As I stood there in shock, she looked timidly up at me and in a tiny, weak voice said:
+sound voice/7/004101.aac 1
+text "Can I...... really stay?"
+
+sound 50.aac 1
+bgload 000000.jpg
+
+text ~
+text I responded by sweeping her into my arms, embracing her tightly so that she wouldn't escape.
+text Saya did not resist.
+
+music ~
+jump s04.scr

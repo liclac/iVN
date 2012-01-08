@@ -1,0 +1,396 @@
+bgload BG_40C.jpg
+text .... I'm happy she's so worried about me.
+text But I can't break my promise with Arcueid.
+text Yesterday, she waited three hours for me.
+text That's not the whole reason, but with just my usual anemia, I don't want her to keep on waiting.
+text ".... Alright.
+text I'll go to sleep for today."
+text saying that, I lie down.
+bgload BG_40C.jpg
+setimg AKI_T17B.png 40 0
+text "Really....?
+text You're not going to sneak out of the room later?"
+text ".... Hey now.
+text Do you think I could sneak out in this shape?"
+text "----Yes, come to think of it, that is true."
+text Akiha breathes out and visibly relaxes.
+bgload BG_40C.jpg
+setimg AKI_T01B.png 40 0
+text "Hisui, tell Kohaku that Nii-san is awake.
+text Nii-san, what about dinner?"
+text ".... Oh yeah.
+text No, tell Kohaku-san I'm sorry, but I don't think I can eat right now.
+text I'm just going to go to sleep."
+text ".... I understand.
+text Then Hisui, tell Kohaku that."
+text Still looking downcast, Hisui nods and leaves the room.
+bgload BG_40C.jpg
+setimg AKI_T12B.png 40 0
+text "Then I will go back to my room.
+text If anything happens, please call for me.
+text No matter what time it is, I'll come right away."
+bgload BG_40C.jpg
+bgload BG_40D.jpg
+text Akiha turns off the lights and leaves the room.
+text ".... Sorry, Akiha."
+text Saying that, I lift myself up.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40D.jpg
+text "Ggh......"
+text Just lifting myself up causes my consciousness to swim.
+text .... This isn't like my normal anemia.
+text I know that, but I can't keep Arcueid waiting forever.
+text Knowing her, even if I left her there, she'll wait forever.
+text I wobble to my desk.
+text I take my knife out of the drawer and put on my jacket.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_40D.jpg
+text "Heh.... dang, like this, I really, won't be able to, sneak out."
+text .... I have to gather up my strength just a little more until I can at least run comfortably or Hisui will find me and take me back to my room.
+text ".... Sorry Arcueid.
+text It looks like I'll be even later than last night."
+text I sit down on the floor.
+text One hour.
+text If I rest for another hour, I'm sure I can leave----
+bgload IMA_10.jpg
+music ~
+bgload BG_28B.jpg
+text I make it to the park before midnight.
+text In the end, even after waiting an hour my body still hadn't recovered, so it took me an hour to get there.
+bgload BG_29B.jpg
+text I pant heavily.
+text As my chest heaves rapidly, I look around me.
+text Night hangs over the park.
+text Near the place we decided to meet, there's a white figure standing.
+text ~
+text ".... I knew she'd be waiting."
+text I let out a large breath.
+text It seems like Arcueid notices I'm here.
+text She walks straight towards me.
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+music 09.mp3
+text "Hey Shiki, it's already two hours past the agreed time.
+text What were----"
+bgload BG_29B.jpg
+setimg ARK_T13.png 36 0
+text She cuts off as soon as she sees my face.
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Hey, what's wrong, Shiki....?
+text Your face is so pale, and I can't even sense life in you.
+text This isn't normal."
+text "Yeah, my anemia acted up again.
+text It happens like that every now and then, nothing to be surprised about.
+text .... more importantly, sorry for making you wait for two hours."
+bgload BG_29B.jpg
+setimg ARK_T14.png 36 0
+text "Eh----No, I really don't mind, but.... Shiki, for you to come out in your condition is just weird."
+text Even though she was really angry earlier, now it seems she's really worried.
+text "----I made a promise, didn't I?
+text I said I'd help you, so I'm not going to skip out on you."
+text ".... That makes me happy but.... Shiki, you don't seem to understand your body at all."
+text "You don't need to tell me that, Arcueid.
+text I've been carrying this recurring anemia for eight years now, I'm pretty sure I understand my body."
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "----No.
+text You don't understand how unstable your life is.
+text I sensed it earlier, but now I know clearly.
+text Shiki, you are always standing close to death.
+text I don't know if it's a reaction to your Mystic Eyes of Death Perception or not, but you are walking on the thin line in between life and death.
+text Saying that your anemia this time isn't a big deal because it wasn't a big deal before is a big mistake."
+text She looks directly into my eyes coldly.
+text "Look, Shiki.
+text Your resistance to death by external means is higher than that of most people.
+text That is probably because you've already faced death once before.
+text But on the other hand, you almost have no resistance to death from internal causes.
+text That anemia of yours, it wouldn't be strange if you die from it."
+text "Wha---What are you saying?
+text Are you saying I'll get killed by something like a cold?"
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Shiki, I'm trying to warn you seriously!
+text I'm glad you came, but you have to think about your health first!
+text So just go back for now and rest!"
+bgload BG_29B.jpg
+text She draws me closer to her.
+text She really must be worried about me because she's totally defenseless as we get closer.
+text "Ah----"
+text Before I can pull back, her chest touches mine.
+text ~
+sound SE_02.aac -1
+text .... Thump.
+text My head is assailed with another different kind of dizziness than usual.
+text All the things I didn't realize before, the softness of her breasts, the whiteness of her skin, her beautiful, golden hair, her womanly charm.
+text "Arcueid----Please, get away."
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "What, you're saying you can't trust the word of a vampire like me?"
+text "Why are you saying that all of a sudden, idiot?
+text There's no way I won't trust you."
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Liar.
+text Then why can't you look at me?"
+text "Could you get away from me because of a personal issue?
+text .... I'm a guy, so if you get this close, it's a little, troubling."
+bgload BG_29B.jpg
+text Giving a small voice of surprise, Arcueid steps back.
+sound ~
+text ~
+text ----Whew.
+text ~
+text For the time being, the racking dual dizziness brought about by my anemia and Arcueid subsides.
+bgload BG_29B.jpg
+setimg ARK_T14.png 36 0
+text I guess she finally realized our situation, and she looks at me embarrassedly.
+text "-------Uh."
+text That idiot.
+text Seeing her do that, makes me think she's incredibly cute.
+text This is, troubling.
+text "I--said stop."
+text I mumble that quietly, so not be heard.
+text Those words are not directed to her, but to me for being excited by her.
+text ~
+text .... There really is something wrong.
+text No matter how pretty she is, she's a vampire.
+text Just what am I thinking, forgetting something like that?
+text "----Anyways, I'm not that beat to have you start worrying about me.
+text Besides, if I was attacked like I was last night again, I might really die.
+text So I can't take my time doing this."
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Eh--?
+text Shiki, what did you just say?"
+text "I said if I was attacked like I was last night again, I might really die.
+text He is trying too, so we have to find him as soon as possible----"
+text ~
+text Saying that, I suddenly remember.
+text ".... I forgot.
+text Last night, I was attacked by one of those Dead."
+text "Last night?
+text After we parted!?"
+text "Yeah.
+text He was entirely wrapped in bandages and was waiting for me by the mansion."
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+text Arcueid's expression suddenly turns serious.
+text ".... I can't believe it.
+text How could you forget something so important?"
+text ".... Uh."
+text I couldn't help it.
+text I've been through stranger things today.
+text ".... Oh well.
+text More than that, please tell me in detail what happened, Shiki."
+text With serious eyes, Arcueid interrogates me on what happened.
+text "Um, let's see--"
+text ~
+text I calm down and I describe as clearly as I can what happened last night.
+text ~
+text .... But, I don't tell her that the bandaged man was seeing the "lines of death".
+text I can't prove it, so maybe it might have been just my mistake.
+bgload IMA_10.jpg
+music ~
+bgload BG_29B.jpg
+text ".... Yeah, that's how it was------"
+text Finishing my explanation, I read Arcueid's expression.
+bgload BG_29B.jpg
+setimg ARK_T05B.png 36 0
+text From when I started until now, her eyes remained sharp without any gentleness.
+text "So what is it Arcueid?
+text That bandaged man, and that person wearing those robes like some priest, are they enemies of yours?"
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+music 01.mp3
+text ".... Yes.
+text Both of them are 'enemies'.
+text I don't know just who or what that bandaged man is, but that woman wearing those Catholic robes, I have an idea about."
+text She narrows her eyes as if she was in a bad mood.
+text No, she looks less like she was in a bad mood and more like she's irritated.
+text "I may know the person who helped you, Shiki.
+text .... Man.
+text If it's really her, she'll probably be able to find the enemy before me."
+text She bites her lip vexedly.
+text "Wait a minute.
+text I didn't say that person was a woman though."
+text "No, there's no mistake.
+text That woman is the only agent given authority to hunt heretics alone and who uses Black Keys that combine the Cremation Rite and the Steel Shell Effect."
+text Her irritability is almost like hostility.
+text Even when she spoke about Nrvnqsr, her voice was never saturated with emotion to this extent.
+text ".... Arcueid.
+text Um, that person who helped me, is she a vampire....?"
+text "Of course not.
+text She's a member of those who see vampires as their enemy.
+text It doesn't exist in this country, but there is an organization that considers vampires or beastmen as heretics and goes around killing them.
+text The one who helped you was the most troublesome of that kind, Exorcists.
+text ".... But that's strange.
+text The Burial Agency wouldn't have sent an agent this soon."
+text Arcueid speaks softly to herself.
+text I can't understand what the hell she's talking about.
+text "Exorcist?
+text .... Um, like a priest or something?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Eh?
+text Hm, it's not wrong, but it's not quite right either.
+text Well, it would take a long time to explain, so just know for now that there are those who go around exterminating vampires."
+text "............"
+text Um, she tells me to just understand, but..
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "More importantly, why did you fight?
+text You said you'd team up with me, but you never said you'd fight by yourself."
+text She glares at me.
+text ~
+text .... She seems seriously concerned about my safety----
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "That's not fair Shiki!
+text Keeping it a secret, having all that fun by yourself!"
+text ~
+text ----or not.
+text ".... Now how did you jump to that insane conclusion!?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Huh?
+text You weren't trying to hide your monopoly on prey from me?"
+text She says something so absurd with a straight face.
+text "Idiot, that's not it at all.
+text .... Fighting him was just a turn of events.
+text Just a turn of events.
+text I don't plan to fight with The Dead or vampires without you."
+text ".... Oh?
+text What kind of turn of events?"
+text "My sense of justice as a normal person.... or something like that.
+text I kind of regret it now."
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "Justice?"
+text She tilts her head as if to say "What's that?"
+text .... Yeah, I was painfully shown yesterday it is just a justification.
+bgload BG_29B.jpg
+text ----Back then.
+text ~
+text When I realized there was a figure in front of me, there was only fear.
+text That thing----that guy, I knew right away he wasn't normal, but all I could do was tremble.
+text And then, I brought out my knife to meet him and began a fight to the death.
+text .... You can't kill someone using a cheap notion like justice.
+text People kill to preserve their own life.
+text That's the most primitive, simple logic of the beasts.
+text ~
+text That logic---at that time, if that person resembling Senpai hadn't come, I probably would have executed that action without hesitating----
+text ".... Arcueid.
+text That person who came to help me, can you tell me a little more about her?"
+bgload BG_29B.jpg
+setimg ARK_T05B.png 36 0
+text "There's nothing more to tell, she's an Inquisitor for the Church.
+text What I said earlier, the group that's like a nemesis to all vampires.
+text This Burial Agency, not so much exorcists as murderers, no, killing machines, are a specialized group responsible for dealing with heretics----I'm very surprised that their eyes reach even in the Far East."
+text Arcueid crosses her arms while deep in thought.
+text She looks devoid of emotion, entirely different from before.
+text ---She's serious.
+text She might be thinking more seriously about this than the enemy she's after.
+text ".... Arcueid.
+text I don't quite understand, but those exorcists hunt vampires, right?
+text Then aren't you their target too?"
+text I ask her that because I'm a little worried.
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "Eh---?
+text Of course not.
+text They are only natural enemies of the Dead Apostles.
+text We don't fundamentally mess with each other, so there cannot even be a fight.
+text But----if she is who I think she is, then she has to be armed with the Seventh Holy Scripture.
+text There is the danger of her getting there first."
+bgload BG_29B.jpg
+text ".... Getting there first....?"
+text I can't quite grasp what she's saying.
+text I don't get the details, but it seems like Arcueid doesn't appreciate the emergence of this person who resembles Senpai entering the stage.
+text ".... Well, I guess it doesn't concern me.
+text Well then, now that we're calmed down, shall we begin?
+text I didn't come here for nothing, so maybe we should find at least one of The Dead."
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Geez, what are you saying with such a pale face?
+text We got off topic because you said something weird, but didn't I tell you to pay more attention to your body!?"
+text Arcueid glares at me.
+text .... I didn't think she was before, but she does seem honestly concerned about me.
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "Okay?
+text Your body is more unstable than most people's, so if you don't rest at a time like this, you're risking your life.
+text You pass out a lot, not because of anemia, but because your body understands it's in danger.
+text Your body senses the danger before you do, so it stops working to prevent your body from getting any worse."
+text "Eh----for real?"
+text "There's no reason for me to lie, right?
+text Anyway, I warned you.
+text Whether you believe me or not is up to you, Shiki."
+bgload BG_29B.jpg
+text ".... Up to me?
+text Well, I don't think there's any reason for you to lie to me...."
+text As I speak, I sink deep into thought.
+text I always thought I passed out because my body was weak from anemia, but now she's saying it's because my body is trying to protect me like a safety switch?
+text What is this?
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Anyway, we won't go investigating tonight.
+text I don't think the enemy will reappear until his wound is healed, and if he appeared by your house without using The Dead, that means he doesn't have any left."
+text She says this all severely.
+text ~
+text .... If she says so, I can't argue.
+text In the first place, it's impossible for me to go look for vampires by myself.
+text ".... Alright.
+text If you say so, Arcueid, I'll rest for tonight."
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, please do.
+text Not only did you get attacked last night, but your body is so weak now.
+text It'll be troublesome if you don't sleep tonight and return to your normal self by tomorrow."
+text ".... I see.
+text It's true that I can't really help you in this condition.
+text Okay, I'll get myself fixed by tomorrow."
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "No, that's not it.
+text It's boring talking to you when you're like this, so I just want you to be back to normal, that's all."
+text She almost seems disappointed.
+text .... I knew it was useless to try and understand her.
+bgload BG_29B.jpg
+text "I'll be heading back to the mansion.
+text See you tomorrow, Arcueid."
+text Raising a hand, I start my walk back.
+text "Hey, Shiki."
+text Arcueid stops me.
+text ".... What?
+text Is there something else?"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Should I escort you home?"
+text She averts her gaze and speaks hesitantly.
+text ~
+text ----In her own way, she really is worried about what happened last night.
+text Thinking that, I guess it's not that bad..
+text "Oh----"
+text Before I can say "Yeah", I suddenly stop.
+text Wait.
+text Wait.
+text Aren't you forgetting your vow you made just now, Shiki?
+text No matter how pretty she is, Arcueid is a vampire.
+text I can't forget that.
+text If I relate myself to Arcueid more than necessary----I feel I'll cross a line that I should never cross.
+text "Cut it out.
+text I don't need to be worried by you.
+text Don't do things that don't suit you, stupid."
+text "Ah----yeah."
+text Just a little----for just an instant, Arcueid looks down, but then raises her head.
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "Then, see you tomorrow!"
+text aacing her hand goodbye energetically, the white-clothed vampire walks off into the darkness of the night.
+bgload BG_29B.jpg
+bgload IMA_10.jpg
+music ~
+jump s107.scr

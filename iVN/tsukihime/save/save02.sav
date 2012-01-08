@@ -1,0 +1,14 @@
+<save>
+  <script><file>script/s31.scr</file><position>39</position></script>
+  <date>18:12 2011/04/29</date>
+  <variables>
+    <var name="ciel_regard" type="int" value="2" />
+    <var name="selected" type="int" value="3" />
+  </variables>
+  <state>
+    <music>Y· </music>
+    <background>background/BG_06B.jpg</background>
+    <sprites>
+    </sprites>
+  </state>
+</save>

@@ -1,0 +1,100 @@
+bgload BG_40B.jpg
+text .... That's right.
+text She's been taking care of me since yesterday, so if I have time to fool around, I ought to go help Hisui.
+bgload IMA_10.jpg
+bgload BG_46B.jpg
+music 01.mp3
+text ---Well then.
+text Hisui said she'd be cleaning the mansion, but where could she be?
+text ~
+bgload IMA_10.jpg
+bgload BG_33B.jpg
+text I go down to the lobby.
+text She wasn't in the hallway on the second floor, so maybe she's in the sitting room?
+text ~
+bgload BG_34C.jpg
+text .... Not here.
+text ~
+bgload BG_35.jpg
+text ........ Not here.
+text ~
+bgload BG_46B.jpg
+text ............ Not here.
+text ~
+bgload IMA_10.jpg
+text ................ Not here.
+bgload BG_33B.jpg
+text She's not anywhere on the first floor.
+text The only place I haven't been are the locked recreation rooms, the guest rooms, and the salon where Akiha is right now.
+text ".... I guess she's on the second floor then."
+text It is a big mansion, so there's probably a bunch of places I haven't looked.
+text Psyching myself up, I start up the stairs.
+bgload IMA_10.jpg
+bgload BG_46B.jpg
+music ~
+text I go up the stairs and glance down the hallway.
+text And then,
+text I see Hisui's silhouette standing by the window in the east hall of the mansion.
+bgload IMA_10.jpg
+bgload event/HIS_E04.jpg
+music 09.mp3
+text "Hisu--"
+text My voice dies in my throat.
+text In the middle of the hallway.
+text In the twilight, between light and shadow, Hisui stands motionless.
+text "------"
+text .... I can't.. speak.
+text Something about her seems.. dangerous.
+text ~
+text Hisui lingering in the gloom of this western-style mansion.
+text She seems so incredibly beautiful; but at the same time, a chill runs through me, as if I were looking at a ghost.
+text ~
+text She doesn't even move a finger.
+text She simply stares out the window.
+text "------"
+text That window.
+text Is that the same one she watched us from back then?
+text "Hisu----i"
+text I can't do anything but stare in fascination.
+text I'm so dumbstruck I can't speak, or even blink.
+text I can only watch her.
+text ~
+text ----And then.
+text Her eyes, still like that of a doll's, suddenly turn towards me.
+text "Shiki-sama, is something wrong?"
+text "Ah---no, nothing, I just, um...."
+text "?"
+text Hisui tilts her head in curiosity.
+text That seems to break the mysterious spell I was under.
+text "I was looking for you because I had some free time and thought I'd give you a hand.
+text For some reason, I couldn't find you, but I made it."
+text " .... I see.
+text But Shiki-sama, there is no need for you to do that.
+text Please return to your room."
+text "Hmmm......"
+text I thought it would turn out like this, Hisui doesn't want me to do any work.
+text "But Hisui, I don't have anything else to do.
+text I don't like just doing nothing, so I thought I ought to pitch in."
+text "Shiki-sama, you may say that, but there is no longer any work that you might assist me with.
+text The only thing that remains is to arrange Akiha's bedroom.
+text No males are allowed to enter Akiha's bedroom.
+text Not even you, Shiki-sama."
+text "Hmmmm........"
+text Well, that's definitely true.
+text .... But, it is a little cruel.
+text She didn't have to emphasize that last part.
+text "Please excuse me, I have to finish my duties."
+bgload BG_46B.jpg
+text Her footsteps echo in the air and she goes into Akiha's bedroom.
+text ".......... Sheesh."
+text I can't just go into a girl's bedroom because I have free time.
+text ".... Oh well, I guess I'll go back to my room."
+text I turn on my heels.
+text Before doing so, I get curious about the window Hisui was staring out of.
+text "Huh---isn't that Kohaku-san in the courtyard?"
+text You can see the whole courtyard from this window.
+text Was Hisui looking out into the courtyard from this window just as she did when she was a child....?
+bgload IMA_10.jpg
+music ~
+setvar hisui_regard + 1
+jump s216.scr

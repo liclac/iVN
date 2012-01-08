@@ -1,0 +1,104 @@
+bgload IMA_10.jpg
+bgload BG_11A.jpg
+text I go up to the fourth floor.
+text Akiha's class is first year, class one.
+text I speak to a student leaving the classroom, and ask her to call Akiha.
+text "Tohno-saaan, your brother's here!"
+text .... The girl I stopped calls out to Akiha quite directly.
+bgload BG_11A.jpg
+setimg AKI_T21.png 40 0
+text "Do you need something, Nii-san?"
+text Akiha comes out with a sullen expression.
+text "-------"
+text Well, this is troubling.
+text Kohaku-san told me to apologize, but after hearing her story, it's a little troubling.
+text "If you don't need anything, I'll go back to my classroom."
+text "---No, there's something.
+text It's.. well, I mean.."
+bgload BG_11A.jpg
+setimg AKI_T03A.png 40 0
+text "What is it, already?
+text The break time is short, so if you want to say something then please hurry and say it."
+text ".... Well, it's just.."
+text ~
+text ---Alright already!
+text I've come this far, so I can't be shy about it!
+text "I'm.. I'm sorry about this morning..!"
+bgload BG_11A.jpg
+setimg AKI_T13A.png 40 0
+text "Eh?
+text ---Ni, nii-san..?"
+text "I came to say that this morning was my fault, and that from tomorrow on I'll be good, so please forgive me, Akiha..!"
+bgload BG_11A.jpg
+setimg AKI_T16A.png 40 0
+text "It's.. there's not much to forgive, it didn't really bother me.."
+text "That's fine, I just wanted to apologize.
+text I'll see you later, sorry for taking your time!"
+bgload IMA_10.jpg
+text "---Ah, wait, Nii-san!"
+text ~
+text Akiha calls after me.
+text But right now I'm too embarrassed to even look back, so I run straight back to my own classroom.
+music 03.mp3
+bgload BG_06A.jpg
+text .... It's lunchtime.
+text Since I just went and apologized to Akiha, it feels kind of awkward to have lunch with her.
+text However.
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Yo, Tohno.
+text Let's hurry up and go to the courtyard.
+text Akiha-chan is waiting."
+text .... Says one guy.
+text Besides, I can't leave her by herself.
+text .......... *sigh*
+text I let out a big sigh and leave the classroom with Arihiko.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+text Akiha isn't here yet.
+text Since Ciel-senpai will be coming too, I guess we'll eat on the grass instead of on the bench.
+bgload IMA_10.jpg
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg CEL_T03.png -12 0
+text "I'm here.
+text Hey, Akiha-san isn't here yet?"
+bgload BG_04.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T01.png 104 0
+text "Yeah, she should be here any minute now----hey, Tohno, did something happen between you and Akiha-chan?"
+bgload BG_04.jpg
+text Arihiko asks, elbowing me in the side.
+text .... Why is he so perceptive all of a sudden?
+text "Ah, there she is.
+text Akiha-chan, over here!"
+text Arihiko aaces his hands around.
+text Akiha comes onto the grass looking a bit puzzled.
+bgload BG_04.jpg
+setimg AKI_T12A.png -24 0
+text "I'm sorry I'm late.
+text I received an invitation to have lunch with my classmates, and it took some time to decline their invitations."
+bgload BG_04.jpg
+setimg AKI_T12A.png -24 0
+setimg ARI_T01.png 104 0
+text "Don't worry, we just got here too.
+text Here, sit here."
+bgload BG_04.jpg
+text Arihiko pats the grass.
+text After hesitating for a moment, Akiha sits down next to me.
+bgload BG_04.jpg
+setimg AKI_T16A.png 40 0
+text ".........."
+text Akiha says nothing.
+text "-------"
+text Not knowing what to say, I remain silent.
+bgload BG_04.jpg
+bgload BG_04.jpg
+setimg CEL_T03.png 52 0
+text "What is it, you two?
+text It's weird to eat lunch like this in silence."
+text "Uh-----"
+text I know that, I just don't know what to say.
+bgload BG_04.jpg
+setvar akiha_regard + 1
+jump s358.scr

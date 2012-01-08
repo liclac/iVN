@@ -1,0 +1,53 @@
+bgload BG_40B.jpg
+text ---I'll go help Kohaku-san.
+text ~
+bgload IMA_10.jpg
+bgload BG_42B.jpg
+music 03.mp3
+text I go out to the courtyard and see Kohaku-san holding a broom.
+text I suppose she is done with the rear courtyard, and is now humming in the courtyard while sweeping the leaves.
+bgload BG_42B.jpg
+setimg KOHA_T06.png 52 0
+text "Huh?
+text What is the matter, Shiki-san, coming out to the courtyard at this time?"
+text "Ah.... Nothing.
+text I was just bored, so I thought I'd come help you.
+text Are you done already?"
+text "Yes, I just finished the rear courtyard.
+text Since there was some time before I had to prepare dinner, I thought I should sweep the courtyard as well."
+text It seems Kohaku-san is rather industrious, as she has already taken care of most of the leaves.
+text ".... I guess I'm no help.
+text Kohaku-san, you almost cleaned up all the leaves in the whole courtyard already."
+text "Yes, taking care of the garden has always been my job.
+text Taking care of the garden in the rear courtyard, the woods, and the maples to the south are also my responsibility."
+text "Wow, your job is not just to take care of the flower bed, but also the woods?"
+text .... Hold on a minute here.
+text Does that mean..?
+text "Um, Kohaku-san.
+text There is this huge tree in the middle of the woods.
+text Do you take care of that too?"
+bgload BG_42B.jpg
+setimg KOHA_T18.png 52 0
+text "No, how could I, Shiki-san?
+text That tree has been at the mansion for a long time.
+text I can't take care of something that big."
+text As if she was having a lot of fun, Kohaku-san smiles happily.
+bgload BG_42B.jpg
+setimg KOHA_T03.png 52 0
+text "But that tree is very important.
+text From the second floor of the mansion in the hallway, you can see that tree very well.
+text As a child, I would use it as a landmark to find many things."
+text "I see---I too have memories of that tree, although it was just once."
+text .... But it seems like there isn't any meaning to it anymore.
+text The girl from that time---Hisui didn't think much about the promise we made.
+text It was eight years ago, so I guess it can't be helped if she thinks differently now.
+text "Ah, it's almost time.
+text Well then, Shiki-san, when it's time for dinner, please come to the dining room."
+bgload BG_42B.jpg
+text With that, Kohaku-san disappears, her footsteps echoing in the air.
+text I'm sure all the ingredients are set, and all that remains is preparing the food.
+text ".... I guess I should head back to my room."
+text After staring a little more at the big tree in the middle of the woods, I leave the courtyard.
+bgload IMA_10.jpg
+music ~
+jump s390.scr

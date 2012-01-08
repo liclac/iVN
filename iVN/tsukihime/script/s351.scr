@@ -1,0 +1,438 @@
+bgload BG_40B.jpg
+text ----That's right.
+text Since I'm always in her debt, I'll go and help Hisui out.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_33B.jpg
+text "I'm home, Hisui, You look busy; what are you doing?"
+bgload BG_33B.jpg
+setimg HIS_T01.png 62 0
+text "Ah---welcome home, Shiki-sama.
+text I am going to take these to Makihisa-sama's room."
+text Hisui is surrounded by dozens of books.
+text Though each of them is light, a dozen of them is pretty heavy.
+text There must be at least fifty books around her.
+text It's not too much, but I don't think Hisui's slender arms are up to the task.
+text "The old man's room, huh.. that's on the west wing of the first floor, isn't it?"
+text Saying so, I pick up a pile of books.
+bgload BG_33B.jpg
+setimg HIS_T07.png 62 0
+text "You must not, Shiki-sama.
+text I will take care of this, so you should go and rest in your room."
+text "It's fine, it's fine.
+text If I just lay around in my room my body'll go dull, so I thought I'd repay you by helping out a bit."
+text "However----"
+text ".... But these are heavy, aren't they?
+text What's Akiha thinking, making you do this kind of heavy labor?"
+bgload BG_33B.jpg
+setimg HIS_T05.png 62 0
+text "Ah----"
+text "You go on to the old man's room; I'll bring the books, you can sort them out once they're there.
+text Everyone should work where they'll be the most use, right?"
+bgload BG_33B.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes.
+text Well then, please do, Shiki-sama."
+bgload BG_33B.jpg
+text Apologizing, Hisui goes up the stairs.
+text ---Alright.
+text Now I've just got to get this mountain of books up to the second floor.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text "Ohh.. this is the old man's room, huh?
+text Hisui, is it okay if I take a look at some of the books?"
+bgload BG_41.jpg
+setimg HIS_T04.png 62 0
+text "Yes.
+text I think it is alright if they are not locked up."
+bgload BG_41.jpg
+text Hisui is placing the books onto a bookshelf.
+text She's busily going back and forth, arranging the books by genre.
+text ".... What does she mean by locked up?
+text Maybe there's a lock on the desk drawer or something."
+text I take the handle of the drawer on the old man's desk.
+text As I pull, I feel a click.
+text "She's right, it is locked."
+text The old man's already dead, so what is it protecting?
+text "-----"
+text Hisui isn't looking.
+text There's a letter opener on his desk.
+text It's the perfect opportunity.
+text "........"
+text I lower my glasses a little, and look at the desk.
+text "-----There."
+text Silently, I cut the lock.
+text "---What, only papers?"
+text There's only a bundle of old papers in the drawer.
+text I take out a sheet and look at it.
+text ~
+text "Huh?
+text This is.. our family tree."
+text ~
+text There's no mistake.
+text After Tohno MAKIHISA, the names Tohno SHIKI and Tohno AKIHA are written.
+text But there's---
+text ".... No way.
+text That old man adopted a son ten years ago.. ah, but he passed away shortly thereafter."
+text Ten years ago, that would mean I was just in elementary school.
+text That long ago, it's only natural that I wouldn't remember.
+text "But, the heads of the household have had pretty short lifespans.
+text My old man died before he was fifty, and before that, before thirty in an accident.. Wow, before that, eighteen years of age, suicide..!?"
+music ~
+music 06.mp3
+text ~
+text ----No, wait a second.
+text No matter how you look at it, this is strange.
+sound SE_01.aac 1
+text Looking through the family tree, all members of the Tohno household have died strangely.
+text Madness.
+text Accidents.
+text Murder.
+text Disappearances.
+text Still birth.
+text .... Not one of them lived a long life or died peacefully.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text "Wha........"
+text This entire document is filled with horrible fates.
+text Even worse, most of the deaths are death by madness.
+text Taking one's own life.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+sound SE_02.aac -1
+text "Ah----"
+text The light seems to fade.
+text I feel as if blood is collecting in the back of my head.
+text My limbs feel weak, and breathing becomes impossible.
+bgload BG_41.jpg
+setimg HIS_T08.png 62 0
+text "Shiki-sama..!"
+text Hisui.. Hisui runs toward me.
+text ---Somehow I hold myself up, grabbing onto a bookshelf.
+bgload BG_41.jpg
+setimg HIS_T25.png 62 0
+music ~
+text "Shiki-sama!
+text Hold on, Shiki-sama..!"
+text Hisui's worrying voice.
+text But her hands never touch my body.
+text "It's alright.. I just, felt a little sick for a moment, so.."
+bgload BG_41.jpg
+setimg HIS_T12.png 62 0
+text "Shiki-sama, please do not push yourself..!
+text Please, sit down.
+text As pale as your face is, you should not be trying to stand..!"
+text .... That's, new.
+text Hisui is becoming frantic, calling out to me.
+text "Yeah.. I'm okay.. so.."
+text I try to regain my senses.
+text But the dizziness doesn't fade.
+text ~
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text My vision flickers red and black.
+text White.
+text I gaze at the nape of Hisui's neck, a terribly warm white.
+text "-----Ah."
+text It's captivating.
+text If my body could move properly, I would seize Hisui's body and----
+bgload IMA_11B.jpg
+text The black vision from my anemia all of sudden turns deep red.
+text Hisui's, white neck.
+text Last night's crimson dream.
+text ~
+text ---From the night of killing.
+text Painful pleasure, as if my heart would rip itself out.
+bgload BG_41.jpg
+sound ~
+text "Kuhh..!"
+text Unable to bear it, I pull back from Hisui.
+bgload BG_41.jpg
+setimg HIS_T07.png 62 0
+text "Shiki-sama..?"
+text "No.. it's alright.. I'm alright, so, just leave me alone."
+bgload BG_41.jpg
+setimg HIS_T17.png 62 0
+text "I refuse.
+text You do not seem to realize the state of your body, Shiki-sama.
+text With.. with your body like this, I cannot leave you alone."
+text And Hisui approaches.
+bgload BG_41.jpg
+text ---Bad.
+text This is, bad.
+text If she comes within reach of my hands, I'm afraid I don't know what I'll do.
+text "I'm fine, so go, Hisui..!"
+bgload BG_41.jpg
+setimg HIS_T17.png 62 0
+text "I cannot listen to you.
+text Shiki-sama, please, calm down."
+text ~
+sound SE_02.aac -1
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text .... So, stop.
+text It's dangerous if you come near me.
+text I told you not to come near me.
+text Why.
+text Why won't this woman listen to me?
+text ~
+bgload IMA_10.jpg
+text ---Why does she get in my way.
+text Why does it never go the way I want..!
+bgload BG_41.jpg
+text "Shut up..!
+text Don't you understand I'm telling you to get away, Hisui!"
+sound SE_05.aac 1
+text "Ah---"
+text ~
+text A dull, thumping sound.
+text Hisui is thrown against the bookshelves, her face distorted in pain.
+text ~
+text "Ah---"
+text .... Her expression causes my sanity to return.
+text The dizziness fades quickly.
+text After just a moment, all dizziness disappears, leaving only a feeling of guilt.
+text "--I'm sorry.
+text What was.. I.."
+bgload BG_41.jpg
+setimg HIS_T21.png 62 0
+text "-------------"
+text Hisui looks down, not meeting my gaze.
+text "---Hisui, I'm---I'm sorry, I don't know why I did such a thing.."
+bgload BG_41.jpg
+setimg HIS_T26.png 62 0
+text "I apologize.
+text I disobeyed your orders, and caused you discomfort."
+text ".... No, I'm the one who should apologize.
+text I did something horrible to you.."
+bgload BG_41.jpg
+setimg HIS_T21.png 62 0
+text "Shiki-sama, please return to your room.
+text You are tired; if you rest, I believe you will recover immediately."
+text "-----"
+text Hisui will not show me her face.
+text ".... I understand; I'll go back to my room.
+text I'm sorry, Hisui."
+text There's no answer.
+text I leave the room behind, being crushed by self-loathing.
+bgload IMA_10.jpg
+bgload BG_40C.jpg
+music 01.mp3
+text ---After dinner, I return to my room.
+text ~
+text I fall on the bed, and remember Hisui's face.
+text "----"
+text I don't understand.
+text Why I felt that way, and why I did that.
+text Back then..
+text Looking at Hisui's neck, I was lusting.
+text Just like in last night's dream, I wanted to bite into her neck.
+text But, I can't even think about that right now.
+text ~
+text Last night's dream, and myself a while ago.
+text I feel like there's someone inside me that isn't me.
+text "----"
+text I touch my neck.
+text Those who are bitten by a vampire become vampires in turn, they say.
+text ".... That's stupid.
+text I'm walking around in the daytime, after all."
+text .... Yes, it's impossible.
+text It was just dizziness and my fading consciousness contributing to the imagination.
+text What happened with Yumizuka is burnt into my mind, so I think I just remember it when I suffer from anemia.
+text "Like Hisui said, maybe I'm just tired."
+text .... Perhaps.
+text I should hurry up and get to sleep, and rest my tired body.
+bgload IMA_10.jpg
+music ~
+sound SE_01.aac 1
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Hot.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----My body, once aroused,
+text can't be calmed with something like sleep.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----So.
+text Tonight too, I shall relieve my thirst.
+bgload BG_47.jpg
+bgload IMA_10.jpg
+bgload BG_24C.jpg
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text It seems I went into town at night.
+text It seems like I'm waiting with bloodshot eyes for someone to pass by.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Again.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Suddenly, I see a face reflected in the window.
+text The eyes are bloodshot, and the face looks quite insane.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----This dream, again.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text It seems I found my prey.
+text I bring it down without a chance to scream, without it even realizing it has died.
+sound SE_01.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I'm seeing this nightmare again.
+bgload IMA_10.jpg
+bgload IMA_12B.jpg
+bgload BG_31B.jpg
+text Taking the dead body, and the sound of biting into the throat.
+text A gurgling sound.
+text Drinking the blood flowing out of the rended neck, my thirst is quenched.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The same scene as last night.
+text Getting bored with just blood, I take the hand of the dead body and bite off the fingers one by one.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The same scene as last night.
+text Getting bored with just the fingers, I take the limbs of the dead body, and bite them off one by one.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The same scene as last night.
+text Then,
+text an obstruction appears.
+text I throw the dead body aside and jump.
+text Someone.
+text Someone is watching me.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Is it different from last night..?
+bgload IMA_02.jpg
+text Something like a vast nail is flying through the air.
+text To dodge it, I leap aside.
+text I run up the side of a building, and jump from rooftop to rooftop.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----The figure in black chases the vampire.
+text From rooftop to rooftop.
+text From shadow to shadow.
+text The figure follows.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----It can't be helped.
+text It can't be helped, it murmurs.
+text And tonight's meal ended.
+bgload IMA_10.jpg
+sound SE_02.aac -1
+bgload IMA_11.jpg
+text "Shiki-sama----?"
+text ~
+text ----A voice.
+text ~
+text "Please get a hold of yourself, I will bring you a drink right away..!"
+text ~
+text ----The sound of running footsteps.
+bgload BG_40A.jpg
+text "Ah----"
+text I awaken from the nightmare.
+text ".... My own room."
+text I am definitely in my own room.
+text Just lying in bed, and morning has come.
+text .... I saw that dream again.
+text The dream of sucking someone's blood.
+text Though I know it's just a dream, it still feels terribly real.
+text My hands retain the feel of ripping meat; my nose, the smell of fresh blood..
+text "---What's happening to me?"
+text I touch my neck gently.
+text .... Yumizuka's bite marks are long gone.
+text I'm still a normal human being.
+text I don't want to drink people's blood, and I don't have a problem with the sun.
+text "----Ah."
+text No.
+text Yesterday, I..
+text What did I think when I saw Hisui's neck?
+text ---Her white neck.
+text From the bottom of my heart, I wanted to drink the blood flowing in there----
+jump s353.scr

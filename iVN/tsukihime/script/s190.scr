@@ -1,0 +1,51 @@
+bgload IMA_10.jpg
+text ----I'll check in the alley she was in last night.
+text If she's running away from people, that's the only place I can think of.
+bgload BG_30B.jpg
+text I still have no control over my breathing.
+text I run with all my strength from the park.
+text My heart screams from overexertion.
+text Ignoring it, I continue to run to find her as soon as possible.
+bgload BG_31B.jpg
+text "----Arcueid!"
+text As soon as I get to the alley, I call out her name.
+text "You're here, aren't you?
+text Come out, Arcueid....!"
+text Under the moonlight, my solitary voice echoes in the alley.
+text ".... Arcueid....!
+text Please, come out....!"
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... There's no response.
+text There's only an empty loneliness here.
+text "Damn........!"
+text Arcueid isn't here.
+text Then where else is there?
+text ~
+text I can't find her running around aimlessly.
+text At this rate I'll never----never see her again.
+text "------"
+text No, I'm not done yet.
+text I still haven't fulfilled my promise with Arcueid.
+text ~
+text The promise to help her defeat the vampire, and the promise to meet tonight so we can fight together.
+text ".... Pro.... mise...."
+text .... That's right.
+text There's still our promise.
+text Even if it's just one-sided, I----even if it's just me, I'll fulfill our promise.
+bgload IMA_10.jpg
+bgload BG_29B.jpg
+text I return to the park.
+text Our promise still remains here.
+text Our unfulfilled promise for tonight remains here.
+text ~
+text ----So,
+text If I can't break this promise, and if she thinks it's important too,
+text ~
+text Arcueid will come back here.
+text I can only continue to believe in her and wait here.
+bgload IMA_10.jpg
+jump s193.scr

@@ -1,0 +1,445 @@
+bgload BG_25B.jpg
+text ----I can't do something that dangerous.
+text ~
+text If I went into an alley like that, no one can come to help me.
+text There's something wrong with me wanting to go in there just because I heard a noise.
+text It is getting late and I should head back.
+bgload IMA_10.jpg
+music 01.ogg
+bgload BG_48D.jpg
+text I return to the mansion without meeting anyone.
+text The lights around the mansion are all off.
+text Somehow, I hadn't realized I would be coming back so late.
+text Akiha--Akiha will surely be angry with me, I think as I put my hand on the heavy doors.
+bgload IMA_10.jpg
+bgload BG_33D.jpg
+text .... There's no one in the lobby.
+text It is late after all.
+text Akiha, Hisui and Kohaku-san are most likely fast asleep in their rooms.
+text ~
+text ".... I couldn't find you after all, Yumizuka-san."
+text But I know she has to be somewhere.
+text Then----for sure, she will come to school tomorrow.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text I return to my room silently so as not to wake Akiha and the others.
+text It's getting late.
+text To get ready for tomorrow, I have to hurry up and go to sleep.
+bgload IMA_10.jpg
+music ~
+bgload IMA_11.jpg
+bgload BG_40A.jpg
+music 02.ogg
+text .... I feel as if someone is calling my name as I wake up.
+text ~
+text "Mn........"
+text A little warmth returns to my body.
+text I look around suspiciously and see an unfamiliar figure by my bed.
+text "Oh----Hisui."
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Yes.
+text Good morning Shiki-sama."
+text Hisui bows.
+text "Ah, right----yeah, morning Hisui."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text I get up as I answer.
+text This is my room, and just like yesterday, Hisui came to wake me up.
+text "Thanks.
+text I'll change and head to the sitting room, so you can go back to what you were doing."
+bgload BG_40A.jpg
+setimg HIS_T16.png 62 0
+text "Yes.
+text Then I will be waiting in the sitting room."
+bgload BG_40A.jpg
+text Hisui bows her head and walks to the door.
+text Tap, tap, tap.
+text Her footsteps are louder than normal.
+text She reaches the door and then turns around.
+bgload BG_40A.jpg
+setimg HIS_T08.png 62 0
+text "Shiki-sama, forgive me for asking such a question.
+text What time did you return last night?"
+text ~
+text ----Yesterday.
+text If I recall correctly, I went out looking for Yumizuka-san and returned after not finding her----
+text ~
+text ".... Sorry.
+text Something caught my attention and I came back late.... Um, I will be prompt from now on so it would be great if you could overlook it this time...."
+bgload BG_40A.jpg
+setimg HIS_T01.png 62 0
+text ".... No, it is not necessary for you to say such a thing, Shiki-sama.
+text It is the duty of us servants to work in accordance with the schedule of our masters.
+bgload BG_40A.jpg
+setimg HIS_T09.png 62 0
+text However, I humbly request that you at least contact us.
+text Whatever the circumstances, you should still be able to let us know."
+text "----You're right.
+text Sorry.
+text I'll keep my promise from now on."
+text "I understand.
+text Then please excuse me."
+bgload BG_40A.jpg
+text ".... That was rare.
+text Hisui seemed pretty angry."
+text She's always so expressionless, it seemed she really gets angry when she does get angry.
+text .... As if I did something really terrible.
+text "----Well then, time to get up."
+text After changing out of my pajamas and into my school uniform, I head to the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+text I find Akiha and Hisui there.
+text Kohaku-san is probably in the kitchen cooking my breakfast.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Good morning, Nii-san."
+text Sitting on the sofa, Akiha greets me and looks at my expression.
+text ".... Ah, morning.
+text Sorry about last night."
+text Returning her greeting, I head to the dining room.
+text There really isn't that much time for me to stay and chat with Akiha--and I myself don't really feel like talking to anyone at all.
+text "Nii-san, I would like to speak with you a little--is that alright?"
+text "Speak with me?
+text I don't really mind."
+text I sit on the sofa across from Akiha.
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text "This is cutting straight to the heart of the matter, but what were you doing last night?
+text Hisui says you returned late at night.
+text Nii-san, you know about our eight o'clock curfew, correct?"
+text Akiha asks me with a direct stare.
+text "Sorry for breaking the curfew.
+text A classmate of mine seemed to be having a lot of trouble so I went looking for her.... Well, all I ended up doing was walk around.
+text I apologize for being late, but it isn't a big deal."
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "Just walking the streets IS something.
+text You are still a minor, so please do not wander out late at night.
+text Even if you weren't, there have been a lot of disturbances going on."
+text ".... Maybe I am a minor, but I don't do anything dangerous.
+text I don't care for drinking or anything like that.
+text You can just relax.
+text And I'm a guy after all.
+text Walking around town at night isn't dangerous."
+bgload BG_34A.jpg
+setimg AKI_T02.png 40 0
+text "What are you saying?
+text Please say those kind of words after you can go a week without anemia.
+text I shouldn't have to say this, but you shouldn't strain your body.
+text You might plan on walking around energetically, but you'll end up collapsing all of a sudden.
+text What would you do then?"
+text "Ah------that may be true, but.."
+text Akiha seems to be worrying about me.
+text When I think about it that way, I start to feel that maybe last night was a little selfish----
+bgload BG_34A.jpg
+setimg AKI_T21.png 40 0
+text "Goodness.
+text If you do that what would others think?
+text For the eldest son of the Tohno family to collapse late at night in town, the rumors would make me so embarrassed I couldn't even go to school."
+text "Uh------that may be true, but.."
+text .... Akiha seems to be worrying about herself.
+text I start to think I was stupid for thinking last night was selfish.
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text "Anyway, please keep the curfew tonight.
+text If you break it again, I will have to hand down a punishment on you as head of the household."
+bgload BG_34A.jpg
+text Akiha whirls around quickly and exits the room.
+text ".... Punishment, Akiha?"
+text I think it was a joke, but she certainly sounded serious.
+text "Shiki-saaaan, breakfaaaast!"
+text Kohaku-san's voice rings out from the dining room.
+text I rise and head towards the dining room.
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, around what time will you be returning today?"
+text "Yeah, today is Saturday so I'll be back early.
+text I don't know what Akiha will do if I get back late either."
+text Yeah.
+text To be honest, it's a little scary.
+text "I understand.
+text Well then, please be attentive and take care of yourself."
+bgload BG_32A.jpg
+setimg HIS_T16.png 62 0
+text She gives her customary bow.
+bgload BG_32A.jpg
+text After Hisui sees me off, I leave the mansion.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+music 03.ogg
+text ----As I arrive at my classroom I look for Yumizuka-san.
+text She isn't in the group of girls.
+text She hasn't come yet?
+text Or maybe----
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Yo.
+text are you looking for something Tohno-kun?"
+text .... The familiar face of my friend appears from the side like a crab.
+text "Yeah.
+text I'm in the middle of looking, so don't get in my way, Arihiko."
+text "Oh reeeeally?
+text If you're looking for Sacchin, it's useless.
+text It seems she'll skip school today too."
+text Arihiko giggles meaningfully.... He seems to have seen right through me.
+text ".... What's this Sacchin thing?"
+text "Sacchin is Sacchin.
+text Miss Yumizuka was taken in by the police last night and is now under house arrest.
+text Takada-kun told me while he was eating chocolate."
+text "Eh----Yumizuka-san returned home?"
+text Something seems a little out of place.
+text "Hey.
+text If you don't believe me ask Takada-kun.
+text He seems to be one of Yumizuka's neighbors."
+text "---------"
+text I look around to my classmate nearby.
+text As usual, Takada-kun is eating chocolate.
+text He looks like he's doing his best impression of Santa Claus as he munches while walking.
+text .... Quite the interesting person for a side character.
+text ".... No, I'll pass.
+text Takada-kun isn't one to spread rumors so it's most likely true."
+text "Yeah.
+text A lot of girls have gone by to visit her and Kunifuji went this morning to her house.... Well, it seems like Yumizuka will have a rough time for a while."
+bgload BG_06A.jpg
+text Arihiko returns to his chair with a difficult expression.
+text ~
+sound SE_03.aac 1
+text ----The homeroom bell rings.
+text ~
+text Still feeling a bit vague about it all, I wait for Kunifuji-sensei's arrival.
+music ~
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text .... Our teacher Kunifuji didn't come.
+text Classes started without homeroom and the Saturday class ended quickly.
+text My classmates exit the room hastily.
+text Those with club activities go to the cafeteria while those without any hurry on home to spend the rest of their Saturday elsewhere.
+text "--------Well then."
+text There's no need to laze around here.
+text I should go back to the mansion and think about what to do from there.
+text I stand out of my chair.
+text ~
+text ----And then,
+text ~
+text "Will Second Year, Third Class Tohno Shiki-kun please report to the Staff Room immediately."
+text Says the intercom announcement.
+text ".... What's this?
+text I didn't do anything to be called up."
+text Tilting my head out of question, I leave the classroom.
+bgload IMA_10.jpg
+music 01.ogg
+text ----Come to think of it, maybe it is natural.
+text The school was bound to find out it I was walking around late at night in my school uniform.
+text My school is second-rate but still oriented towards attending university so there are a lot of troublesome rules.
+text .... After being sternly warned by the student guidance counselor, I end up writing an essay of apology.
+bgload BG_08B.jpg
+text "............ It's getting late, Kunifuji-sensei."
+text I mutter to myself in the empty room.
+text The teacher told me he would come back after an hour.
+text .... It's half-past six already.
+text It seems Akiha will scold me once more.
+text "-----Fine.
+text I'll be heading back now."
+text I announce this to the teacher who isn't here in an attempt to convince myself and stand up.
+bgload IMA_10.jpg
+bgload BG_06C.jpg
+text Of course, the classroom is empty.
+text I walk over to my desk to take the bag in my hand and exit to the hallway.
+music ~
+text ~
+text "Good evening, Tohno-kun."
+text ~
+text Suddenly, someone calls my name.
+text "---------!?"
+text I whirl around instantly.
+text ~
+text ----In the dark, unlit classroom.
+text Yumizuka Satsuki sits with her back to the blue moonlight.
+text "Eh----Yumizuka, san?"
+bgload BG_06C.jpg
+setimg STK_T10.png 53 0
+text "What a coincidence.
+text You are still here Tohno-kun?
+text Don't tell me you were in the guidance counselor's room?"
+text "Ah----yeah.
+text Just a little unpleasantness there----"
+text "I see.
+text You know, I was called there about last night too.
+text I was in the very next room."
+text She smiles as she says so.
+text A gentle, carefree smile like before.
+text "--------"
+text So why is it?
+text For no reason, a chill runs up through my spine.
+text "I see.. it was you next door.
+text Huhu, the school rooms are narrow so you can somehow understand what is going on next door.
+text Your live body warmth or your breathing.. it would have been nice for me to enjoy it longer."
+text Our eyes meet.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_06C.jpg
+text Swaying.
+text Stretching.
+text This instability as if the floor was bending.
+bgload BG_06C.jpg
+setimg STK_T10.png 53 0
+text "But it's great timing.
+text I.. have a request for you Tohno-kun.
+text Is it alright?"
+text "Uh----sure, I'll do it if I can."
+text "Really?
+text Then I'll ask.
+text Tohno-kun, can you go out with me?"
+text ----?
+text Well, if that's it.. sure.
+text "Sure, do you have something you need to buy?
+text I don't think there's too many good stores open right now though."
+bgload BG_06C.jpg
+setimg STK_T09.png 53 0
+text "................"
+text She looks at me blankly.
+text .... Huh?
+text It seems like I was a little off.
+bgload BG_06C.jpg
+setimg STK_T03.png 53 0
+text "Oh, that's not it Tohno-kun.
+text I'm not asking you to take me out shopping.
+text I'm asking you to go out with me like a lover."
+text Yumizuka-san giggles happily.
+text "Eh------"
+text After.. such a sudden confession.. my brain.. doesn't seem to work.. properly.
+text "Wait a second.
+text Yumizuka-san, I----"
+text I'm happy, but..
+text To be told this all of a sudden, I----
+music ~
+bgload IMA_10.jpg
+sound SE_01.aac 1
+bgload BG_06C.jpg
+music 04.ogg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Well----no-----problem----right?
+text "Yeah.... there's, no problem.. I think."
+bgload BG_06C.jpg
+setimg STK_T03.png 53 0
+text "Really!?
+text Yay!
+text Then I'll call you Shiki-kun from now on!
+text I'm so glad.
+text I was worried that you might hate me for saying that.
+text .... Yeah.
+text Maybe I didn't need to use the teacher to make sure you stayed late."
+text She mumbles.
+text I don't quite grasp what she said.
+bgload BG_06C.jpg
+setimg STK_T07.png 53 0
+text "Hey Shiki-kun.
+text I really used a lot of courage to tell you.
+text Did you know how scared I was, Shiki-kun?"
+text She looks at me directly.
+text Her eyes.
+text Why.. do her eyes look red----and as if I was asphyxiated, my brain stops working.
+text "----Yeah.
+text You did well, Yumizuka-san."
+text ".... Yeah.
+text So, hey.
+text Maybe I should get a reward from you, Shiki-kun?
+text I've been waiting so long----I want you to do it, Shiki-kun."
+text "Do what?"
+bgload BG_06C.jpg
+setimg STK_T03.png 53 0
+text "Simple.
+text I want you to kiss me, Shiki-kun."
+bgload IMA_11B.jpg
+bgload BG_06C.jpg
+text ----This isn't good.
+text ~
+text Somewhere in my mind, something screams at me in warning.
+text ~
+text ----So..?
+text ~
+text I don't care about that.
+text If she----if Yumizuka-san wants it, what's wrong with it?
+text We are lovers----so isn't it normal?
+text ".... Alright.
+text Don't move, Yumizuka-san."
+bgload BG_06C.jpg
+setimg STK_T02.png 53 0
+bgload BG_06C.jpg
+text I walk towards Yumizuka-san.
+text The dry sounds of my footsteps.
+text I walk in between the desks to draw closer to the girl by the window.
+text .... As I do,
+text I see the bodies of many female students collapsed in between the desks as if they were hidden.
+text Blood flows from each of their necks.
+text But still----I couldn't care less about them.
+text ----Yumizuka-san doesn't move.
+text ~
+text Grabbing both her arms, I press my lips to hers emotionlessly.
+bgload IMA_11B.jpg
+bgload BG_06C.jpg
+text ~
+text ".... Huhu.
+text With this, you are mine Shiki-kun."
+text ~
+text Her whisper sounds incredibly evil.
+text "Ah-------rghh....!?"
+text I collapse onto the floor.
+text A splashing sound.
+bgload BG_06C.jpg
+text I didn't notice it before, but the floor is splattered with blood.
+text Under the desks lie the discarded corpses of my classmates strewn about.
+text "Wha------"
+text I try to stand up using my arms but I fall back down again.
+text There's no strength in my body.
+text Heat.
+text The heat, suddenly turns cold.
+text "Relax Shiki-kun.
+text I won't make you like them.
+text All you have to do is listen to my voice just like this."
+text ~
+text ----Her cold voice.
+text I don't understand at all what she's doing.
+text Even though I don't understand anything, I know this is so wrong it makes me nauseous.
+text "Ghh--------!"
+text I strain my arms and legs as I crawl on the floor.
+text But even that was stopped with her voice.
+text "No.
+text You can't get away.
+text I won't let you get away.
+text .... C'mon.
+text First we have to expand my world.
+text You'll help me won't you?
+text You broke your promise to help me whenever I was in a pinch, so you have to listen to whatever I say from now on."
+text She chuckles.
+bgload IMA_11B.jpg
+text .... My distant heartbeat.
+text The fragrance of the blood drenching the floor makes me dizzy.
+text So, if I ever do wake up again, then..
+text I realized my body will never feel warm again.
+text ~
+text In the moonlit classroom,
+text Yumizuka Satsuki slowly bites into Tohno Shiki's neck.
+bgload IMA_10.jpg
+music ~
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s532.scr
+fi
+if selected == 2
+    jump main.scr
+fi

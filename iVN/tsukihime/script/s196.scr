@@ -1,0 +1,10 @@
+bgload BG_08B.jpg
+text --I'll go back to the mansion.
+text ~
+text It's not like I've given up on Arcueid, but without any leads, I don't think I could find her.
+text Then instead of running around blindly, I should go back to the mansion and think calmly about what I can do.
+text ".... Is that all I can do?"
+text I am pained by my lack of ability to do anything.
+text But right now, it is all I can think of.
+bgload IMA_10.jpg
+jump s198.scr

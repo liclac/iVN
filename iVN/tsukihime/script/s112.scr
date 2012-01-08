@@ -1,0 +1,223 @@
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "I understand.
+text Then, I will no longer ask about this.
+text But, please refrain from doing anything like this ever again.
+text Nii-san, you are the eldest son of the Tohno family; if you do not understand your position better, it will be very troubling."
+text "--Hey, that has nothing to do with this.
+text Besides, you're the successor to the Tohno family, so it doesn't really matter what I do.
+text If you're so worried about the future of the Tohno family, you should go find a husband appropriate for the Tohno household."
+bgload BG_34A.jpg
+setimg AKI_T12A.png 40 0
+text "-----"
+text ....?
+text For some reason, Akiha descends into silence.
+text "What's wrong?
+text Are you feeling alright, Akiha?"
+bgload BG_34A.jpg
+setimg AKI_T06.png 40 0
+text "--It's nothing.
+text If you have enough time to worry about me, please pay more attention to yourself.
+text You have your chronic anemia to worry about, Nii-san."
+text "...... Hmph."
+text .... Well, it is true that I frequently collapse from anemia.
+text "Anyway, please do not leave the mansion by yourself often.
+text Even without that, the city is dangerous recently.
+text Someone like you, who meanders about in a daze is just asking to be attacked by that serial killer."
+text "Serial killer?--Oh, those serial killings."
+text ~
+text Those serial killings where nine victims have been found.
+text Their bodies were all drained of blood, so they call it the modern day vampire, but--
+text "Oh, that's okay.
+text Those incidents, they won't ever happen again."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "----Huh?"
+text "It means the vampire isn't around anymore.
+text That killer--is caught already."
+text "Is that so....?
+text Nii-san, how do you know about that?"
+text "Well, I just happened to see it, but for sure, such things will not happen again."
+bgload BG_34A.jpg
+text .... Yeah, at least there won't be any more people killed by Nrvnqsr.
+text These past two days spent with Arcueid.. so many things happened I really can't say just what is right and what is wrong.
+text But, the simple truth remains--I can say it was all for the best.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Nii-san----?
+text What happened?
+text You suddenly seem very happy."
+text Akiha looks strangely at my face.
+text "It's nothing.
+text I just feel that it's finally, finally over."
+text A smile unconsciously creeps over my lips as I answer.
+bgload IMA_10.jpg
+music ~
+bgload BG_33A.jpg
+text It's half past seven.
+text Akiha left twenty minutes earlier than me, by car!
+text After eating Kohaku-san's delicious breakfast, I decide to head for school.
+bgload IMA_10.jpg
+bgload BG_32A.jpg
+text Hisui walks with me to the gate, carrying my bag.
+text "Well, I'll be going.
+text Thanks for seeing me off, Hisui."
+text Hisui wordlessly hands me my bag.
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama, around what time will you be returning?"
+text "You don't trust me either?
+text It's okay.
+text I'll definitely be back in the afternoon."
+text "--I understand.
+text Then please be careful on your way."
+text Hisui bows deeply.
+text Feeling a bit embarrassed about it, I leave the mansion's gate.
+bgload IMA_10.jpg
+bgload BG_24A.jpg
+text At the intersection there are only the figures of my fellow high school students.
+text No young woman sitting on the guardrail like that one time.
+text "--Well, of course."
+text I probably won't ever see her again.
+text First of all, her goal was to execute the vampire, and with Nrvnqsr gone, there's no reason for her to stay around here any longer.
+text ~
+text --Just a little bit, in my chest.
+text ~
+text Things like regret.. and lingering affection.
+text It is true she only brought trouble, but even still.... it was fun being with her.
+text ".... What, am I stupid?"
+text I almost got killed.. What part of that would make me feel lingering affection?
+text The wounds from last night still hurt.
+text .... Remember back to when you almost became Nrvnqsr's food.
+text You certainly don't want something like that to ever happen again.
+sound SE_03.aac 1
+text ~
+text The school bell rings.
+text "----Crap, I'll be late."
+text Shaking off my idle thoughts, I run to the school gate.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_06A.jpg
+text I fly into my classroom.
+text It's still five minutes before class, so it's very noisy inside.
+text ~
+text "--Whew."
+text I take a breath and head to my seat.
+text With this much time left, I didn't even need to run at all.
+text "Yo, Duke of Delinquency."
+text "......"
+text From behind, I hear the voice I never look forward to.
+bgload BG_06A.jpg
+setimg ARI_T05.png 40 0
+text "What's going on, Tohno?
+text I never heard you were skipping class.
+text It's a lot of trouble.
+text You have to tell me when you skip school and go play!"
+text Arihiko says those preposterous words with an unbelievably happy expression.
+text ".... Why should I have to tell you when I don't go to school?"
+bgload BG_06A.jpg
+setimg ARI_T01.png 40 0
+text "Isn't it obvious?
+text When you don't show, neither does Senpai, so it's bad unless I think of something ahead of time."
+text .... What's bad for this guy?
+text "But seriously--What happened?
+text Since middle school, you've had anemia, but never skipped school.
+text Well, you did that cool trick several times, leaving as soon as you arrived."
+text "It's kind of like that.
+text I made it to the intersection and felt bad, so I went back home."
+text "Hmmm.. Both you and Yumizuka seem to be acting like bad students lately."
+text "--Well, I'm guilty as charged, but.... is something wrong with Yumizuka-san?"
+text "Her?
+text She's been absent lately.
+text She was always such an honor student, so I think she might have been stressed out.
+text But I bet she can't call a raise 'cause she has a bad hand."
+text ".........."
+text Arihiko's words are always.. very unique.
+sound SE_03.aac 1
+text The homeroom chime rings out.
+text ~
+text "Well, I'm off.
+text Since you skipped Saturday, make sure you study hard today."
+text Arihiko leaves the room quickly.
+text In other words, he's going to skip class today.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text Morning classes end.
+text With the bell announcing lunchtime, half the people in the classroom clear out.
+text ".... Well then, what should I do?"
+text Arihiko isn't here, so I should take my time and eat lunch.
+bgload BG_06A.jpg
+setimg CEL_T12.png 52 0
+text "Oh?
+text Tohno-kun, you're by yourself?"
+text "Yeah----Senpai, did you come here to eat?"
+bgload BG_06A.jpg
+setimg CEL_T07A.png 52 0
+text "Yes, I thought I would eat with everyone so I hurried over here, but----"
+text She stares.
+text Without any warning, she looks at my face intently.
+bgload BG_06A.jpg
+text ~
+text I don't know what she's thinking, but she suddenly draws close to me.
+text "Hey--Se, Senpai....?"
+text She's right next to me.
+text Almost embracing distance.
+text Something would be wrong with my heart if it wasn't beating quickly.
+bgload BG_06A.jpg
+setimg CEL_T07A.png 52 0
+text "------"
+text Senpai doesn't say anything.
+text She only stands right next to me----and sniffs.
+text "----Huh?"
+text .... What is she doing?
+text Senpai then gets away.
+bgload BG_06A.jpg
+text ".... Um, Senpai?"
+bgload BG_06A.jpg
+setimg CEL_T07A.png 52 0
+text "Tohno-kun, did something happen?"
+text She asks me with a serious look.
+text To be blunt, I don't know what's going on.
+text "Something.... uh, like what?"
+bgload BG_06A.jpg
+setimg CEL_T08.png 52 0
+text "I don't know.
+text I don't know, that's why I'm asking."
+text She looks up at me as if she was angry.
+text "Nothing--I'm just as always.
+text Do.. do I seem strange today?"
+bgload BG_06A.jpg
+setimg CEL_T09.png 52 0
+text "Hmmm, I'm not sure either.
+text I just thought so, so perhaps I was just imagining things."
+text "......?"
+text I tilt my head in confusion.
+bgload BG_06A.jpg
+setimg CEL_T01A.png 52 0
+text "Well, shall we get lunch?
+text You are eating at the cafeteria today, right Tohno-kun?
+text If we don't hurry, the seats will all be taken."
+text "Ah, yeah.
+text You're eating at the cafeteria too, Senpai?"
+text "Yes, I want to eat something good today."
+text She grins and pulls me by the hand as she starts walking.
+bgload IMA_10.jpg
+text In the end, I talk with Senpai about the athletic festival in two weeks and the culture festival shortly thereafter over lunch.
+text ~
+text .... To tell the truth, Senpai saying, "I want to eat something good," and ordering curry leaves more of an impression in my mind than what we talked about.
+music ~
+bgload BG_06B.jpg
+text Classes end and school is over.
+text Well, what should I do now?----
+text ~
+choice Go into the city and look for her.|Space out in the classroom.|Just return to the mansion and rest.
+if selected == 1
+    jump s113.scr
+fi
+if selected == 2
+    jump s114.scr
+fi
+if selected == 3
+    jump s115.scr
+fi

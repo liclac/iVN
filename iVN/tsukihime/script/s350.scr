@@ -1,0 +1,74 @@
+bgload BG_06B.jpg
+music 01.mp3
+text School ends.
+text Let's go meet Akiha at the first year classrooms.
+text ~
+bgload BG_10B.jpg
+text .... But just as I leave the classroom, I run into her.
+bgload BG_10B.jpg
+setimg AKI_T01A.png 40 0
+text "Ah, Nii-san.
+text Are you going somewhere?"
+text "No, I was just on my way to get you.
+text What about you?
+text Are you on your way anywhere?"
+bgload BG_10B.jpg
+setimg AKI_T16A.png 40 0
+text "No.
+text I just thought I might go home with you, Nii-san, so I came here.."
+text "I see.
+text It's lucky we didn't miss each other.
+text Well then, let's go.
+text Kohaku-san and Hisui are waiting."
+bgload BG_10B.jpg
+setimg AKI_T09.png 40 0
+text "You're right.
+text Let's go home, Nii-san."
+bgload IMA_10.jpg
+bgload BG_23B.jpg
+text "Oh, that's right, there's a question I've been wanting to ask you, Akiha."
+bgload BG_23B.jpg
+setimg AKI_T12A.png 40 0
+text "A question for me..?"
+text "Yeah.
+text Why did you have that dislike for Senpai?
+text Did you know her already, by any chance?"
+bgload BG_23B.jpg
+setimg AKI_T01A.png 40 0
+text "No, I met her for the first time yesterday.
+text My dislike for her is simply psychological, so you don't need to worry about it."
+text "Psychological?
+text What do you mean?"
+bgload BG_23B.jpg
+setimg AKI_T21.png 40 0
+text "I mean, I can't control how I feel.
+text It's the same as how you felt about father, so please don't worry about it."
+text "---Hold on, Akiha.
+text I just disliked the old man, I didn't hate him."
+bgload BG_23B.jpg
+setimg AKI_T13A.png 40 0
+text "I don't hate her, either.
+text .... I suppose I exaggerated things today.
+text I'll reflect on it, so please look leniently upon the affair at lunchtime."
+text ".... Right.
+text I guess that's okay, then."
+bgload BG_23B.jpg
+text .... Well, I guess it might not be a problem.
+text Ciel-senpai often comes by at lunch, so if relations between Akiha and her are bad, it'd be a problem.
+text At this rate, with Akiha saying things like this, me and Arihiko might not end up on pins and needles on the sidelines----
+bgload IMA_10.jpg
+music ~
+bgload BG_40B.jpg
+text "----Ahh."
+text I toss my bag on the desk, and sit down on the bed.
+text Well, what should I do?
+text It seems Akiha has lessons, and as soon as we got back, she went somewhere by car.
+text .... That's right, Hisui and Kohaku-san were busily walking about too.
+text ~
+choice Go and help Hisui.|Go and help Kohaku-san.
+if selected == 1
+    jump s351.scr
+fi
+if selected == 2
+    jump s352.scr
+fi

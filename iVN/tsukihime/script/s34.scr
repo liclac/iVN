@@ -1,0 +1,115 @@
+bgload BG_09B.jpg
+setimg CEL_T08.png 52 0
+text "Eh?
+text Ah, um, I was just a little surprised at how calm you were about all of this, Tohno-kun."
+text "Really?
+text Well, my family is a strict one, so I'm used to these kinds of things.
+text More importantly, Senpai, didn't you have something you wanted to talk to me about?"
+text "I do.
+text The continuation of what we were talking about during lunch."
+text ".... What we were talking about during lunch.. you mean about my family?"
+text Senpai nods to indicate a yes.
+bgload BG_09B.jpg
+setimg CEL_T02.png 52 0
+text "If you don't mind, I would like to hear more about it.
+text I was curious about it since we stopped halfway."
+text ".... It's not that I mind, but hearing about my family isn't very interesting.
+text It'd be a waste of time."
+bgload BG_09B.jpg
+setimg CEL_T03.png 52 0
+text "I don't mind if it's not interesting, I just want to hear about it."
+text ".... Hmm, you sure are eccentric, Senpai."
+text "Maybe I am," Senpai laughs.
+music ~
+bgload BG_09B.jpg
+setimg CEL_T01A.png 52 0
+music 02.mp3
+text "Alright, then.
+text Let's continue from before.
+text You said you moved to your home.
+text What do you mean by that?"
+text Senpai asks, full of curiosity.
+text .... Well, the conversation this afternoon must've been pretty fragmented for Senpai, since she didn't know any of the circumstances.
+text "---Let's see.
+text Basically, I'm a guy who's been disinherited.
+text I was seriously injured after getting caught up in a traffic accident when I was nine years old.
+text The injuries themselves somehow healed, but after that, I easily collapsed from anemia and threw up my food.
+text That's why I was entrusted to my relatives, the Arimas, while I recuperated."
+bgload BG_09B.jpg
+setimg CEL_T07A.png 52 0
+text "Uh, so in other words, the Arimas have been your parents who raised you since you were nine, right?"
+text "That's right.
+text I knew my old man hated me for some reason and that once I had been entrusted to the Arimas, I would never go back home.... Go back to the Tohno mansion, that is.
+text That's why, well, I thought I'd just continue to live as a son of the Arimas forever.
+text That's what I thought, but my old man kicked the bucket recently.
+text That's when they told me to return to the mansion, now that my old man is no longer there, and I finally agreed to them."
+text ~
+text ---And that, pretty much, is my domestic situation.
+text ~
+text I end my story like that.
+text Ciel-senpai gives a little nod silently.
+text ".... May I just ask one thing?"
+text "Mm?
+text Sure, if I can answer it.
+text Go ahead."
+text ".... Alright, then I'll ask.
+text Did you dislike your previous family?"
+text ~
+text My previous family---The Arimas who had raised me as my parents?
+text My mother and father who weren't my real parents,
+text and the unfamiliar building which without a doubt was home to strangers.
+text But completely regardless of that---
+text "No, I liked them.
+text They were people who didn't care that I wasn't related to them by blood.
+text They were so warm to me that I felt bad about being depressed all by myself.
+text And for them to love me no matter what.... I didn't think it was a bad thing."
+text ---I was loved by these people.
+text ~
+text That's why soon, even one day sooner,
+text I have to truly become family to them---
+text I had been telling myself those words since I was young.
+text .... Since a very, very long time ago.
+text Over and over, I swore, till I would practically pass out.
+text ".... Um, just like Arihiko said, I didn't have a single complaint about the Arima family.
+text They treated me well, and I think I responded to their affection, too.
+text Between us, even though I knew we were just playing at being family, even if it was all just an act, I didn't feel any pain."
+text No, I was happy instead.
+text In a way, I had considered the Arima parents and me to be the ideal nuclear family.
+text "---But it was no good, was it?"
+text ".... Yeah.
+text Despite everything, there was a line I couldn't cross.
+text 'This isn't your real family....' No matter what I did, I couldn't get those words out of my head.
+text I knew I should have been ignoring it, but I just couldn't do it.
+text I don't know if you'd call it a childhood experience, but it had already become like a curse to me.
+text Somehow, no matter where I was, I felt like a stranger to my family."
+bgload BG_09B.jpg
+setimg CEL_T09.png 52 0
+text Senpai is silent.
+text Avoiding my gaze, she huddles her shoulders apologetically.
+text "See?
+text It was boring after all, right?
+text That's why I said it would be a waste of time."
+bgload BG_09B.jpg
+setimg CEL_T03.png 52 0
+text "No, that's not true.
+text It was a very meaningful story."
+text Senpai forces a smile to try and defuse the situation.
+bgload BG_09B.jpg
+setimg CEL_T02.png 52 0
+text "But it was a little surprising, because I had thought of you as an easy-going person."
+text "Hmm.... well, I basically am a pretty easy-going person.
+text It's my personal philosophy to enjoy the present as much as possible.
+text People are happier enjoying what is to come rather than being concerned about what happened before, right?"
+text Well actually, that was an opinion I had inherited from Arihiko.
+bgload BG_09B.jpg
+setimg CEL_T04.png 52 0
+text "Enjoy what is to come?
+text That sounds nice."
+text Senpai sips her tea with a very gentle smile.
+bgload BG_09B.jpg
+text I follow Senpai's example and place my lips on the cup.
+text With a slurp, the bitter tea washes down my throat with just a hint of sweetness.
+bgload IMA_10.jpg
+music ~
+setvar ciel_regard + 1
+jump s36.scr

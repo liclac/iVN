@@ -1,0 +1,182 @@
+bgload event/AKI_E05A.jpg
+text *pant* *pant* *pant*
+text ~
+text I can't breathe properly.
+text Senpai's eyes don't even appear interested in my death.
+text Her dagger is poised directly in front of my heart.
+text A situation where I'm a second away from being killed.
+text *pant* *pant* *pant* *pant*
+text ~
+text "That's odd.
+text You've killed so many people, yet you are frightened to die yourself."
+text Her voice, tinged with disgust.
+text Her eyes, rimmed with contempt.
+text ~
+text Her dagger, ready to kill me.
+bgload IMA_13B.jpg
+text I will be killed.
+text I will be killed.
+text I will be killed.
+text I will be killed.
+text I WILL be killed.
+text I WILL BE KILLED.
+text Then.
+bgload IMA_13B.jpg
+text If I kill.
+text If I kill.
+text If I kill.
+text If I kill.
+text IF I Kill.
+text IF I KILL.
+text It's alright?
+bgload BG_10F.jpg
+text "------Ha------ha, ah."
+text ~
+text I.
+text ~
+text "Goodbye.
+text Please die here, Tohno-kun."
+text ~
+text Can hardly.
+text ~
+text "----Haha----a----ha, ha----"
+text ~
+text Breathe.
+bgload IMA_10.jpg
+sound SE_13.aac 1
+bgload IMA_12B.jpg
+text But, I was faster.
+text Before she can plunge her dagger deeply into me, my knife runs through the 'line' on Senpai's neck.
+text ~
+text "A--------"
+text ~
+text Which one of us said that?
+text The sound of a head hitting the ground and the sound of gurgling.
+text The neck, "neck", / face?
+text / it rolls, rolls, rolls, rolls.
+bgload IMA_13B.jpg
+music 04.mp3
+text "Ah------eh?"
+text ~
+text But, that's strange.
+text It had to have been the same time.
+text But only I am alive.
+text Senpai's head, HEAD, is the only thing rolling and rolling and rolling.
+text "Haha----a!"
+text ~
+text In other words.
+text From the very beginning,
+text Senpai never.. intended.. to kill me.
+text ~
+text "A, haa, a, haahaahaahaa, haha!"
+text ~
+text My throat seems stuck.
+text Senpai's body is so red.
+text The hallway gets wet.
+text Red paint coats everything.
+bgload BG_10F.jpg
+text "Haha----"
+text Once someone is decapitated, it seems they add a different function.
+text Spurting.
+text Like a sprinkler, spraying red blood everywhere.
+text ~
+text "Ha, haha------ha."
+text ~
+text My whole body is now crimson.
+text More than my knife, from my hair to my shoes, it's sickeningly speckled red.
+text "----What's this?
+text This isn't a big deal."
+text ~
+text Yeah, it really not a big deal.
+text I thought there would be something more, but I only have this floating feeling.
+text ~
+text "If it's like this.. my dreams were more.."
+text ~
+text Lively and real.
+text I stand up and start walking.
+text My feet splash with each step.
+text Before me lays the head of the woman named Ciel.
+text Her eyes seem to stare at me.
+text ~
+text "How stupid, Senpai.
+text I don't know how much confidence you had, but there's nothing that can't die."
+text ~
+text So, it was your mistake.
+text Mistake.
+text Mistake.
+text Mistake.
+text Mistake.
+text No.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text What's mistaken is everything.
+text The illusion is over.
+text Even though I desperately denied it until now, this confirms it.
+text I am just a killer.
+text With my own hands, I destroyed what shouldn't have been destroyed.
+text The foundations of my being are crumbling away.
+text ~
+text "Kk----what's this, Yumizuka?
+text It's just like you said."
+text ~
+text I start to laugh.
+text It seems I have gone insane.
+text The truth that I am the killer seems so funny to me.
+bgload IMA_10.jpg
+bgload IMA_18.jpg
+text Outside the window, the far, distant moon shines.
+text My vision has turned red with no signs of returning normal.
+text But my mind on earth has been swapped with that from some other planet.
+text The years of accumulated perceptions exceedingly enumerate towards unknown equations of evolution.
+text Nothing is even remotely the same.
+text You can not tell the difference between the crimson you see and the crimson I see.
+text Alas.
+text It seems I am broken.
+text ~
+text ~
+text ~
+text Or was everything just a humorous lie from the beginning?
+text In that case, please let it all disappear tomorrow.
+text ~
+text ~
+text ~
+text ~
+text ~
+text .... The stage set in the dark forest begins.
+text I don't quite understand, but if I am a killer, I must act like a killer.
+text To begin with, let's go out into town and continue my dreams.
+bgload IMA_10.jpg
+text I catch a random person.
+text I take them to the alley and wait for the person to awaken.
+text ~
+text After a while, the person's eyes open.
+text As gently as possible, I offer a welcome with both arms spread wide.
+bgload BG_31B.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----Now then,
+text welcome to this wonderful killing chamber.
+bgload IMA_12B.jpg
+music ~
+bgload IMA_10.jpg
+bgload IMA_10.jpg
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s536.scr
+fi
+if selected == 2
+    jump main.scr
+fi

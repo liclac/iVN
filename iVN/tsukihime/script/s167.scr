@@ -1,0 +1,75 @@
+bgload BG_40A.jpg
+text "----"
+text I glance at the clock.
+text It's already past nine.
+text I'm late as it is, but it's not too late yet.
+text "No, I'd better not.
+text I'll help you, but I can't let that affect my daily life.
+text I've already decided we'll only work at night."
+bgload BG_40A.jpg
+setimg ARK_T04.png 36 0
+text ".... Oh?"
+text Looking like she wants to complain, she stares at me.
+text "Well, you have a point.
+text You're helping me to protect your way of living, so it wouldn't make any sense to go out of your normal life to do so."
+text She takes in my point rather easily.
+text .... She's emotional yet logical, I guess that would be like her.
+bgload BG_40A.jpg
+setimg ARK_T06.png 36 0
+text "You can enjoy your life all you want.
+text As long as you don't forget your promise, there's no problem."
+bgload BG_40A.jpg
+text Saying that, she walks over to the window.
+bgload BG_40A.jpg
+setimg ARK_T03.png 36 0
+text "Later.
+text If it happens again tonight, I'll kill you."
+bgload BG_40A.jpg
+text ~
+text Arcueid tells the truth jokingly as she disappears.
+text Jumping out the window, she bounds from tree branch to tree branch.
+text "........ She was pretty angry."
+text But, school is important for me too.
+text I spend the nights with her, so I think it's alright if I relax during the day.
+text "Well then, shall I go to school?"
+text Because I slept all night, my body's completely recovered.
+text I have to quickly change into my uniform and sneak out so Hisui and Kohaku-san don't see me.
+bgload IMA_10.jpg
+music ~
+bgload BG_24A.jpg
+bgload IMA_10.jpg
+bgload BG_24A.jpg
+text "Hm----"
+text I'm a little dizzy.
+text .... It's probably the after-effects of yesterday.
+text My body feels a bit heavy and I have a slight headache.
+text ".... Well, I guess this much is okay."
+text Just a small amount of dizziness.
+text I can always take it easy once I sit down at my desk in school.
+text I get myself together and jog towards school.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text ----*sigh*
+text I manage to make it into class before third period.
+text Looking around, Arihiko's seat is empty.
+text He's probably absent, but that means today will be quiet.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text Lunch time.
+text It looks like Arihiko's not coming.
+text .... Inui Arihiko and Yumizuka Satsuki are the two people absent today.
+text Yumizuka Satsuki has caught a cold or something and she will be absent for a while.
+text ".... Senpai doesn't seem to be coming too, so I guess I'll eat by myself."
+text I say that, but I'm not hungry.
+bgload IMA_11.jpg
+bgload BG_06A.jpg
+text .... What is it?
+text I didn't feel so good to begin with, but after coming to school, I feel a lot worse.
+text It's not just my body feeling heavy.
+text The scar on my chest is irritating; it's an annoying sensation.
+text ".... Maybe I shouldn't have come to school."
+text .... For a brief moment, I see the worrying faces of Hisui and Akiha in my mind.
+text Being worn out by just sitting, I start to feel a strange uneasiness.
+bgload IMA_10.jpg
+jump s107a.scr

@@ -1,0 +1,61 @@
+music 03.mp3
+bgload BG_11B.jpg
+text I walk through the hallway bathed in sunset with Senpai.
+text While talking about pointless things, we walk as slowly as possible.
+text ~
+text There's such a wonderful atmosphere here.
+text ---Thinking back, I spent the night in Senpai's room.
+text Back then, my mind was filled with the fact that I killed someone, and after that, I forgot about it when I was with Arcueid.
+text .... If it wasn't for that one night, I don't think I would be here today as I am now.
+text She doesn't bring it up, but I wonder what she thinks about that night.
+text .... Did it feel like she was just lending a hand to a depressed lowerclassman?
+text Like picking up an abandoned puppy cast out in the rain?
+text ".... Senpai, um--"
+bgload BG_11B.jpg
+setimg CEL_T01A.png 52 0
+text "Yes?"
+text Senpai looks over to me.
+text .... Right when I was going to ask about that night,
+text ~
+text Guruuuuuu.
+text ~
+text My stomach interrupts, growling audibly.
+text No, not 'growling'.. it's more like a roar.
+text "............ Uhhh."
+bgload BG_11B.jpg
+setimg CEL_T12.png 52 0
+text "............"
+text The silence is a little uncomfortable.
+text ".... Tohno-kun, it seems you're hungry."
+text "---I guess so.
+text Geez, do I get hungry even when I don't have an appetite?"
+text I let out a sigh.
+text Looking at me, Senpai smiles.
+bgload BG_11B.jpg
+setimg CEL_T01A.png 52 0
+text "Of course.
+text Being human means you have to eat to live."
+text "No doubt.
+text .... Come to think of it, I'm really starving."
+text .... I hadn't realized it, but skipping breakfast and lunch really did take quite a bit out of me.
+text I don't think I can last until dinner, so I should buy some bread on the way back-----
+bgload BG_11B.jpg
+setimg CEL_T03.png 52 0
+text "Tohno-kun, here."
+text Senpai presents me a pouch of cloth she is holding.
+text I think it's her lunch.
+bgload BG_11B.jpg
+setimg CEL_T02.png 52 0
+text "It's partly eaten, but is that okay?"
+text Blushing a bit, Senpai says this embarrassedly.
+text .... That's right, Senpai only ate half of her lunch today.
+text Finishing someone else's half-eaten lunch is a little embarrassing.
+text I----
+text ~
+choice No. I refuse to do something so embarrassing.|I don't care. I'll nod.
+if selected == 1
+    jump s231.scr
+fi
+if selected == 2
+    jump s232.scr
+fi

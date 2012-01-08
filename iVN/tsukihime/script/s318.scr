@@ -1,0 +1,166 @@
+bgload BG_34A.jpg
+text To be honest, Kohaku-san has the hardest job because she has to prepare the feast for the four of us.
+text I don't think I can be that much help in cooking, but I'll go see Kohaku-san.
+text ~
+bgload IMA_10.jpg
+bgload BG_35.jpg
+text The kitchen has already become a battlefield.
+text On each counter there is a mountain of ingredients, and I get the urge to turn around and go back as soon as I enter.
+bgload BG_35.jpg
+setimg KOHA_T02.png 52 0
+text "Shiki-san, is there anything I can do for you?"
+text Kohaku-san peeks her head through.
+text ".... No, I was thinking maybe I could help or something----"
+text But, it seems like I've entered a world where I shouldn't be.
+bgload BG_35.jpg
+setimg KOHA_T01A.png 52 0
+text "Ah, that really helps.
+text To tell the truth, I was thinking of going to ask you for some help."
+text "R, really....?
+text But, I don't really have any cooking skills, so I'm unsure if I can even help, Kohaku-san."
+bgload BG_35.jpg
+setimg KOHA_T05.png 52 0
+text "Not at all, it is something anyone can do.
+text Come on, please lend me a hand."
+bgload BG_35.jpg
+text Kohaku-san takes my hand and pulls me with her.
+text "........"
+text Not really understanding what's going on, I end up helping Kohaku-san.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+text .... After calming down a bit, I realize that the kitchen is actually pretty small for a mansion so large.
+text They probably had a much bigger galley when there were many people living in the mansion, but with just Akiha, Hisui, Kohaku-san and I, they had this smaller kitchen prepared.
+text ~
+bgload BG_35.jpg
+setimg KOHA_T02.png 52 0
+text "Here, please wash your hands and use this apron."
+text I don't know whose tastes this is a reflection of, but she hands me an apron that says "Quiet Unsociable Person" on it.
+text "I'll start you off with a simple task, Shiki-san.
+text When it's all done, I have another task just for you."
+bgload BG_35.jpg
+text Kohaku-san is in a good mood.
+text ----First, I have to take the shells off all these shrimp.
+text Whick, whick, whick.
+text The sound of a knife lightly hitting the cutting board.
+text Nnnnn~.
+text Kohaku-san's humming fills the kitchen.
+text ....
+text ........
+text ............
+text She must be immersed in cooking because she doesn't say much.
+text As for me, I actually enjoy peeling the shrimp, and keep on peeling the skin.
+bgload IMA_10.jpg
+bgload event/HIS_E01.jpg
+text "------"
+text .... You know, this really brings back memories.
+text Before the incident and before I left the mansion, I played like this several times with Kohaku-san and Akiha.
+text We were young then, and we didn't even think about how we were of the opposite gender.
+text We were just in this spacious mansion, and all we knew was the continuous fun of every day.
+text We played around so much, we forgot about all the things that bothered us before.
+text .... Or maybe.
+text Maybe, in order to forget the bothersome past, we tried to pass our days with as much fun as possible.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+bgload BG_35.jpg
+setimg KOHA_T01A.png 52 0
+text "Shiki-san, you really have taken a liking to peeling those shrimp, haven't you?"
+text "Eh?
+text No, not really, why do you ask?"
+bgload BG_35.jpg
+setimg KOHA_T05.png 52 0
+text "Because you look like you're having so much fun.
+text You know Hisui-chan, her eyebrows would always be so scrunched up by the time she gets done."
+text "Really?
+text I'm surprised.
+text She looks like the type that would do it without complaint."
+bgload BG_35.jpg
+setimg KOHA_T18.png 52 0
+text "Yeah, for some reason, Hisui-chan is poor at cooking.
+text But she is really great at cleaning and arranging things."
+text "Is that so?
+text I always felt that both you and Hisui could do anything."
+bgload BG_35.jpg
+setimg KOHA_T02.png 52 0
+text "If that was true I would be very happy.
+text But both Hisui-chan and I are merely normal, so we have our faults too.
+text Hisui-chan's sense of taste is a little strange, so even when she makes things that she thinks are delicious, for Akiha-sama or I, it tastes really strange."
+text I see, so that's why Hisui doesn't cook.
+text Hisui's sense of taste is a little odd; Kohaku-san.... what's her fault, I wonder?
+text ".... Well, come to think of it, you and Hisui are different in your own ways.
+text Kohaku-san, you were always cheerful, while Hisui stayed in the mansion back then."
+text "Oh, did I look that cheerful?
+text I thought I was always watching you all though."
+text "Yeah, I remember.
+text You would always run around with us, but you would tell us to stop doing dangerous things and look out for us."
+music 09.mp3
+text .... Ah, I really do remember.
+text Playing tag in the courtyard of the mansion.
+text Trying as hard as we could to catch my old man's carp in the pond.
+text "Hey, remember that time, the time where we left the mansion from the gate, right?
+text We didn't know the way to get back, and you ended up calling the mansion and one of the mansion's servants had to come pick us up."
+bgload BG_35.jpg
+setimg KOHA_T03.png 52 0
+text "Yes, and after that Makihisa-sama really did yell at you.
+text Everyone was playing with you, but somehow you ended up being the only one.
+text We did so many things, but in the end, you always saved Akiha-sama and me from getting in trouble."
+text ~
+text She giggles as she speaks aloud nostalgically.
+text ".... What's this?
+text Talking about old times, I really feel like I have returned now."
+text That's right.
+text I really don't have too many memories of this mansion, but talking about old times honestly makes me feel nostalgic.
+text But, my memories aren't just happy ones.
+text ".... But, I did treat Hisui poorly."
+text .... That girl who was always in the corner of my heart.
+text In the end, I was never able to have a true conversation with that girl by the window.
+text ".... That girl, she was always watching us from the window.
+text Always, it struck me.
+text That lonely face looking down, I always thought it would be great if she could come and play."
+text But still, before I left the mansion, she gave me that one parting gift.
+text "That's right.
+text She was always shy even then, so I never knew what she was thinking.
+text I always thought if Hisui-chan was happy, it wouldn't matter what happened to me."
+text "Oh?
+text Kohaku-san, you really are a good older sister."
+text I'm feeling happy, so I give an answer like that.
+text ~
+text "Ah."
+text ~
+text All of a sudden,
+text with a short sound, Kohaku-san lifts her hand.
+text I can see she cut her finger with the kitchen knife.
+music ~
+text "Ko, Kohaku-san, your finger....!"
+text "Eh?"
+text After I say that, she seems to have realized she cut her finger.
+bgload BG_35.jpg
+setimg KOHA_T07.png 52 0
+text "Ah, that's true."
+text "'That's true'?
+text Hey, Kohaku-san!?"
+text I don't believe this.
+text Even I could see that the cut is really deep, but Kohaku-san is still slow-paced.
+text "How embarrassing.
+text I am supposed to be such a good chef.
+text Ahaha!"
+text Kohaku-san gives her normal laugh.
+text "This is no laughing matter.
+text We have to take care of it right away....!"
+text "It's fine.
+text It isn't life threatening or anything."
+text "But doesn't it hurt?
+text It's cut pretty bad!"
+text "No, not at all.
+text If I think it doesn't hurt, then it won't hurt.
+text If I think this isn't my finger, and that it's just a finger of some doll, then I won't feel pain, right?"
+text "Wha----"
+text With a smile, Kohaku-san says something pretty outlandish.
+text Well I'm sure if you think that way, it won't hurt as much, but you can't get rid of it all.
+text "Look, let's just get it taken care of!
+text I'm a little weak when it comes to blood, so if I have an anemic fit right here, it'll be your fault, Kohaku-san....!"
+text "I see, then I should take care of it right away.
+text Well then, Shiki-san, excuse me for a moment."
+bgload BG_35.jpg
+text The whole time her smile never cracks, and giving me a bow with her head, she leaves the kitchen.
+bgload IMA_10.jpg
+jump s321.scr

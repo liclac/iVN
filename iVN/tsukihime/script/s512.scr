@@ -1,0 +1,51 @@
+sound SE_03.aac 1
+bgload BG_06A.jpg
+music 03.mp3
+bgload BG_06A.jpg
+setimg OSIETE.png 0 0
+bgload BG_06A.jpg
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text Bonjour!
+text This corner is for the unlucky Tohno-kun, who easily ended up in a Dead End again.
+text It is time for "Teach me, Ciel-sensei!"
+text ~
+text Now, we will start second period.
+text This time, we will present the first "Shakes 'n Shivers Animal Land" from the series that gives detailed observation of wild animals.
+bgload BG_06A.jpg
+setimg ARK_T30.png -3 0
+setimg CEL_T20.png 103 0
+text "Sensei, I have a question before that.
+text That name sounds really stupid.
+text In Japanese, you can read your name as Chiel."
+text ~
+text Question denied.
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ----Now then, Tohno-kun.
+text I think it's good to be prudent, but this time, it seems to have backfired.
+text Basically, you are a hero, so a little recklessness will be forgiven.
+text It will be forgiven, but in a case with an absurd animal like a shark, I guess you couldn't do much.
+text You'll just have to abandon Arcueid this time around.
+bgload BG_06A.jpg
+setimg ARK_T31A.png -3 0
+setimg CEL_T20.png 103 0
+bgload BG_06A.jpg
+setimg ARK_T31B.png -3 0
+setimg CEL_T20.png 103 0
+text "Heeeeyyy!
+text I don't want to hear that from Chiel!"
+text ~
+text ---Abandon her!
+bgload BG_06A.jpg
+setimg CEL_T20.png 103 0
+text ~
+text "Kyaah!
+text No violence!"
+text ~
+text Anyhow, please prepare yourself to explore the hotel alone.
+text Inside, you'll find a whole animal kingdom.
+text As the representative of mammals, let's show the beasts what we've got.
+bgload IMA_10.jpg
+music ~
+jump main.scr

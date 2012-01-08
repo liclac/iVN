@@ -1,0 +1,309 @@
+bgload BG_34A.jpg
+text Kohaku-san has a lot to do, but I'm sure Hisui is much busier.
+text I should try and pay Hisui back for everything she's done, so I'll go help her.
+bgload IMA_10.jpg
+bgload BG_33A.jpg
+music 03.mp3
+text I head out to the lobby and run into Hisui right away.
+text She must be tidying things up, because there's a cloth and a feather duster at her feet.
+text ~
+text "Hisui, can I have a minute?"
+bgload BG_33A.jpg
+setimg HIS_T01.png 62 0
+text "Shiki-sama?
+text Did you not return to your room?"
+text "No, I won't.
+text You and Kohaku-san seemed so busy, I feel bad just lounging around and doing nothing."
+text "............"
+text Hisui just looks at me silently.
+bgload BG_33A.jpg
+setimg HIS_T08.png 62 0
+text ".... Shiki-sama.
+text I do not believe this is the case, but are you asking me if you could help me with my duties?"
+text "------Uhhh."
+text She struck first.
+text "What do you mean?
+text Isn't it alright?
+text Cleaning this huge mansion by yourself is hard, so let me help just a little bit, please?"
+bgload BG_33A.jpg
+setimg HIS_T01B.png 62 0
+text "You say that, but there is not so much that I require assistance.... Actually, I can say that since Nee-san is not here, I have an easier time."
+text "?
+text Huh?
+text Cleaning is easier.. when Kohaku-san isn't here?"
+bgload BG_33A.jpg
+setimg HIS_T26.png 62 0
+text "Ah--no, well, I mean--that......"
+bgload BG_33A.jpg
+text Did she accidentally let something slip out?
+text She looks down as she stammers for an excuse.
+text .... It's something I don't see everyday, so I smile at her.
+bgload BG_33A.jpg
+setimg HIS_T04.png 62 0
+text ".... Um, Shiki-sama.
+text What I said just now.... Nee-san, um...."
+text Flustered, she tries to tell me not to tell Kohaku-san.
+text "Oh, so what you said right now can't be told to Kohaku-san.
+text I see, I got it."
+text I have to tell Kohaku-san about it.
+bgload BG_33A.jpg
+setimg HIS_T13.png 62 0
+text ".... Shiki-sama.
+text Um, I think you should try not to show what you are thinking."
+text "Hm?
+text I'm not really thinking anything at all."
+text ".................."
+text Hisui just looks at me.
+text .... Perhaps what she said just now might be more of taboo for Kohaku-san than I thought it was.
+text "I understand; I won't tell her, so please stop looking at me like that."
+bgload BG_33A.jpg
+setimg HIS_T22.png 62 0
+text ".... I remember now.
+text Even long ago, you would always do pranks and tease others for no reason.
+text Are you perchance planning on doing something devious like you did back then, Shiki-sama?"
+text "No, not really.
+text I just wanted to see how your face looked if you were a little distressed, that's all."
+bgload BG_33A.jpg
+setimg HIS_T08.png 62 0
+text "............"
+text .... Crap.
+text Why do I blurt out the truth like that?
+bgload BG_33A.jpg
+setimg HIS_T09.png 62 0
+text "Shiki-sama.
+text I still have duties remaining to finish, so if you have free time, please go help Nee-san.
+text As you say, I am very busy so I can not keep you company."
+bgload BG_33A.jpg
+text Hisui turns away and starts to clean the flower vases.
+text .... It seems that even though I wanted to help, I made her angry.
+text ".... Um, Hisui?"
+bgload BG_33A.jpg
+setimg HIS_T09.png 62 0
+text "Yes, what is it?"
+text But Hisui still responds courteously, so I think she's really nice.
+text "About before--ah, if you don't want to answer, you don't have to.
+text Well, Kohaku-san is always sweeping in the courtyard, and she doesn't really clean in the house that often.
+text Does it have anything to do with what you said earlier?"
+bgload BG_33A.jpg
+setimg HIS_T05.png 62 0
+text "Eh.... Yes, it, is related, somewhat...."
+bgload BG_33A.jpg
+setimg HIS_T04.png 62 0
+text "Please do not tell Nee-san.
+text She is rather self-conscious of her lack of ability."
+text "?
+text Lack of ability?
+text Kohaku-san doesn't lack in ability; she's a wonderful cook, and knows so much about medicine, right?"
+bgload BG_33A.jpg
+setimg HIS_T05.png 62 0
+text "That is, um.... everyone has things suited and not suited for them.
+text Nee-san really seems to enjoy herself when cleaning, but she is too rambunctious and is very dangerous when she tries to do cleaning and maintenance in the mansion."
+text "--Dangerous, Hisui?
+text Putting it that way, is.."
+text That doesn't seem to fit Hisui either.
+bgload BG_33A.jpg
+setimg HIS_T13.png 62 0
+text "Shiki-sama, you do not understand, so it is easy for you to say that.
+text Nee-san has tried to excuse the breaking of several items all in the name of cleaning, and not just ten or twenty times.
+text If she becomes serious, her cleaning becomes more like a whirlwind.
+text She has that sort of.. talent."
+text As she speaks, I can almost see a fiery aura form around Hisui.
+text .... It seems that she has been the victim of Kohaku-san's cleaning many times.
+text ".... I see.
+text I'm--quite surprised."
+bgload BG_33A.jpg
+setimg HIS_T05.png 62 0
+text ".... Yes.
+text Nee-san knows about it too.
+text After Akiha-sama and I discussed it, we decided and told her it was better for her to work outside in the garden or do other non-cleaning chores.
+text She was very down and disheartened back then."
+text ".... Well, if she did break things and was told not to clean, I guess she would be a little disappointed...."
+text Um, I still can't quite picture that happy Kohaku-san looking down.
+bgload BG_33A.jpg
+setimg HIS_T23.png 62 0
+text "So, please do not discuss cleaning indoors with Kohaku-san, Shiki-sama.
+text If Nee-san doesn't do that, then she is really fine--"
+bgload BG_33A.jpg
+bgload BG_33A.jpg
+setimg KOHA_T02.png 116 0
+text "Yes?
+text Did you call me?"
+text ""!?""
+text Hisui and I both freeze.
+text Speak of the devil.. Kohaku-san walks in from the kitchen.
+bgload BG_33A.jpg
+setimg HIS_T04.png -2 0
+setimg KOHA_T02.png 116 0
+text "Nee-san--is there something you need?"
+bgload BG_33A.jpg
+setimg HIS_T04.png -2 0
+setimg KOHA_T03.png 116 0
+text "Yes, I needed another hand, so I thought maybe Shiki-san could come help me."
+text Smiling, Kohaku-san faces me.
+text "But, it seems I was too late.
+text Shiki-san, please continue helping Hisui-chan."
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T03.png 116 0
+text "Nee-san.
+text Shiki-sama is not really helping me at the moment."
+text Hisui responds very matter-of-factly.
+text .... Well, that's how it is.
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T01A.png 116 0
+text "Ah, is that so?
+text Then Shiki-san, are you free?"
+text "---That's right.
+text If you need another hand, I'll lend you one.
+text But, I'm not sure if I'd be any help.
+text I don't ever cook or anything."
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T05.png 116 0
+text "Not at all, it is something anyone can do.
+text Come on, please lend me a hand."
+bgload BG_33A.jpg
+setimg HIS_T01.png -2 0
+text Kohaku-san takes my hand and pulls me with her.
+bgload BG_33A.jpg
+setimg HIS_T04.png -2 0
+text "-------"
+text Hisui watches it all silently.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+text .... The kitchen is smaller than I expected.
+text They probably had a much bigger galley when there were many people living in the mansion, but with just Akiha, Hisui, Kohaku-san and I, they had this smaller kitchen prepared.
+bgload BG_35.jpg
+setimg KOHA_T02.png 52 0
+text "Here, please wash your hands and use this apron."
+text I don't know whose tastes this is a reflection of, but she hands me an apron that says "Quiet Unsociable Person" on it.
+text "I'll start you off with a simple task, Shiki-san.
+text When it's all done, I have another task just for you."
+bgload BG_35.jpg
+text Kohaku-san is in a good mood.
+text First, I have to take the shells off all these shrimp.
+text Whick, whick, whick.
+text The sound of a knife lightly hitting the cutting board.
+text Nnnnn~.
+text Kohaku-san's humming fills the kitchen.
+text ....
+text ........
+text ............
+text ................
+text ....................
+text ...................... She must be immersed in cooking because she doesn't say much.
+text As for me, I actually enjoy peeling the shrimp, and keep on peeling the skin.
+bgload IMA_10.jpg
+bgload event/HIS_E01.jpg
+text "------"
+text .... You know, this really brings back memories.
+text Before the incident and before I left the mansion, I played like this several times with Kohaku-san and Akiha.
+text We were young then, and we didn't even think about how we were of the opposite gender.
+text We were just in this spacious mansion, and all we knew was the continuous fun of every day.
+text We played around so much, we forgot about all the things that bothered us before.
+text .... Or maybe.
+text Maybe, in order to forget the bothersome past, we tried to pass our days with as much fun as possible.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+bgload BG_35.jpg
+setimg KOHA_T01A.png 52 0
+text "Shiki-san, you really have taken a liking to peeling those shrimp, haven't you?"
+text "Eh?
+text No, not really; why do you ask?"
+bgload BG_35.jpg
+setimg KOHA_T05.png 52 0
+text "Because you look like you're having so much fun.
+text You know Hisui-chan, her eyebrows would always be so scrunched up by the time she gets done."
+text "Really?
+text I'm surprised.
+text She looks like the type that would do it without complaint."
+bgload BG_35.jpg
+setimg KOHA_T02.png 52 0
+text "Yeah, for some reason, Hisui-chan is poor at cooking.
+text But she is really great at cleaning and arranging things."
+text ".... Oh?
+text I seem to have heard, something like that, before."
+text Yeah, just now, actually, and from Hisui.
+text " .... Well, come to think of it, you and Hisui are different in your own ways.
+text Kohaku-san, you were always cheerful, while Hisui stayed in the mansion back then."
+text "Oh, did I look that cheerful?
+text I thought I was always watching you all though."
+text "Yeah, I remember.
+text You would always run around with us, but you would tell us to stop doing dangerous things and look out for us."
+music 09.mp3
+text .... Ah, I really do remember.
+text Playing tag in the courtyard of the mansion.
+text Trying as hard as we could to catch my old man's carp in the pond.
+text ~
+text "Hey, remember that time, the time where we left the mansion from the gate, right?
+text We didn't know the way to get back, and you ended up calling the mansion and one of the mansion's servants had to come pick us up."
+bgload BG_35.jpg
+setimg KOHA_T03.png 52 0
+text "Yes, and after that Makihisa-sama really did yell at you.
+text Everyone was playing with you, but somehow you ended up being the only one.
+text Shiki-san, no matter how much you got yelled at, you always said it was your own fault.
+text .... Oh it is so nostalgic.
+text We did so many things, but in the end, you always saved Akiha-sama and me from getting in trouble."
+text She giggles as she speaks aloud.
+text ".... What's this?
+text Talking about old times, I really feel like I have returned now."
+text That's right.
+text I really don't have too many memories of this mansion, but talking about old times honestly makes me feel nostalgic.
+text But, my memories aren't just happy ones.
+text ".... But, I did treat Hisui poorly."
+text .... That girl who was always in the corner of my heart.
+text In the end, I was never able to have a true conversation with that girl by the window.
+text ".... That girl, she was always watching us from the window.
+text Always, it struck me.
+text That lonely face looking down, I always thought it would be great if she could come and play."
+text But still, before I left the mansion, she gave me that one parting gift.
+bgload BG_35.jpg
+setimg KOHA_T02.png 52 0
+text "That's right.
+text She was always shy even then, so I never knew what she was thinking.
+text I always thought if Hisui-chan was happy, it wouldn't matter what happened to me."
+text "Oh?
+text Kohaku-san, you really are a good older sister."
+text I'm feeling happy, so I give an answer like that.
+bgload BG_35.jpg
+music ~
+text "Ah."
+text All of a sudden,
+text with a short sound, Kohaku-san lifts her hand.
+text I can see she cut her finger with the kitchen knife.
+text "Ko, Kohaku-san, your finger....!"
+text "Eh?"
+text After I say that, she seems to have realized she cut her finger.
+bgload BG_35.jpg
+setimg KOHA_T07.png 52 0
+text "Ah, that's true."
+text "'That's true'?
+text Hey, Kohaku-san!?"
+text I don't believe this.
+text Even I could see that the cut is really deep, but Kohaku-san is still slow-paced.
+text "How embarrassing.
+text I am supposed to be such a good chef.
+text Ahaha!"
+text Kohaku-san gives her normal laugh.
+text "This is no laughing matter.
+text We have to take care of it right away....!"
+text "It's fine.
+text It isn't life threatening or anything."
+text "But we can't just leave it alone!
+text Geez, cutting it like that, doesn't it hurt....!?"
+text "No, not at all.
+text If I think it doesn't hurt, then it won't hurt.
+text If I think this isn't my finger, and that it's just the finger of some doll, then I won't feel pain, right?"
+text "Wha----"
+text With a smile, Kohaku-san says something pretty outlandish.
+text Well I'm sure if you think that way, it won't hurt as much, but you can't get rid of it all.
+text "Look, let's just get it taken care of!
+text I'm a little weak when it comes to blood, so if I have an anemic fit right here, it'll be your fault, Kohaku-san....!"
+text "I see, then I should take care of it right away.
+text Well then, Shiki-san, excuse me for a moment."
+bgload BG_35.jpg
+text The whole time her smile never cracks, and giving me a bow with her head, she leaves the kitchen.
+bgload IMA_10.jpg
+setvar hisui_regard + 1
+jump s321.scr

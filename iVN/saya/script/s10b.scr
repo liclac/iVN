@@ -1,0 +1,126 @@
+bgload bc04me0.jpg
+
+text ~
+text On that terrifying day when I first opened my eyes after the accident, what would my answer have been?
+text When I think back on this day many years from now, will I wish that my answer had been different?
+text ~
+text It doesn't matter; here, at this moment, there is no doubt in my mind.
+sound voice/21/000100.aac 1
+text "Who was that?" I ask Saya, looking at the unidentifiable pieces of the monster.
+sound voice/21/000201.aac 1
+text ".....A man living next door. I don't know his name, though."
+sound voice/21/000300.aac 1
+text "Oh, so it was Suzumi-san."
+text ~
+text He wasn't a stranger, of course. I'd spoken with him any number of times, and had even been friendly with him before the accident.
+text And now I've killed him with my own two hands.
+text ~
+text --I feel little.
+text Suzumi-san, the kindly painter who lived next door, is but a distant memory.
+text The pieces of meat around me, on the other hand, belonged to a loathsome creature whose mere existence was nauseating. 
+text Only by killing the vermin could I find relief.
+text He complained about my yard being filthy or something, didn't he? The swine. 
+text It doesn't matter what Saya did. He wasn't worth keeping alive anyway - good riddance.
+text ~
+text These are my honest feelings.
+text Even with a man's blood covering my hands, I am completely calm.
+text Now I know what I lost in the accident. Saya says that I can take it back, but I know that I cannot. 
+text It is gone forever, like the life of the man called Suzumi.
+sound voice/21/000400.aac 1
+text "Hey, Saya...... No doctor could possibly fix my condition, you know."
+sound voice/21/000501.aac 1
+text "......Fuminori?"
+sound voice/21/000600.aac 1
+text "You can do easily what no human is capable of -- you're not human, are you?"
+sound voice/21/000701.aac 1
+text "......"
+text ~
+text Saya looks away, her expression unreadable.
+text ~
+text Everything appears warped to my eyes - only Saya looks normal. I thought that she was somehow unique.
+text However, I was wrong. I see her just as I do everything else: as something completely different than what she really is.
+text Saya is who she is because of who I am -- just like I said a few minutes ago. It's nothing to be surprised about.
+text ~
+text I stand and walk over to Suzumi's dismembered corpse.
+sound voice/21/000800.aac 1
+text "I read this manga a long time ago...... It was about a man who recovered from an accident only to find that he could no longer see the world as it was. Kind of like me."
+text ~
+text I finally realize that, even though the stench of these monsters' flesh turns my stomach, their blood and guts smell pretty good - in fact, I know this fragrance quite well.
+sound voice/21/000900.aac 1
+text "He saw people as rocks and robots as beautiful women.
+text ~
+sound voice/21/000900_2.aac 1
+text And so he fell in love with a robot that wasn't even remotely human."
+text ~
+
+sound 92.aac 1
+
+text I retrieve the cleaver, pick up one of the pieces of Suzumi's body, and start removing the skin and tendons.
+text ~
+text Ahh, just as I thought.
+text The stuff underneath looks exactly the same as what Saya and I have been eating.
+sound voice/21/001000.aac 1
+text "Hey, this looks pretty good. Why don't we eat it?"
+sound voice/21/001101.aac 1
+text "Fuminori......"
+sound voice/21/001200.aac 1
+text "Oh, sorry. You're in no mood for that now, are you?
+sound voice/21/001200_2.aac 1
+text Now that it's dead, though, meat is meat. It'd be a waste to throw it away, wouldn't it? Let's get it in the fridge."
+sound voice/21/001301.aac 1
+text "Is that...... alright with you?"
+sound voice/21/001400.aac 1
+text "Sure," I answer easily. There is no longer any room for doubt in my mind, after all.
+text ~
+sound voice/21/001500.aac 1
+text "Also, his wife and daughter are probably next door. They might cause trouble when he doesn't come home...... I think we'd better hunt them down before they go to the police."
+sound voice/21/001601.aac 1
+text "Is that...... really what you want?" Saya asks again, this time with a trace of fear in her voice.
+text ~
+text I guess I still haven't convinced her of my sincerity.
+sound voice/21/001700.aac 1
+text "--So, at the end of this manga, the man who fell for something inhuman gave up his own humanity for the sake of their love.
+sound voice/21/001700_2.aac 1
+text A happy ending, don't you think?"
+sound voice/21/001801.aac 1
+text "Fuminori......"
+sound voice/21/001900.aac 1
+text "As long as we're together, I don't need anything more. Everything is fine the way it is."
+
+sound 32.aac 1
+bgload cg/22.jpg
+
+text ~
+text Tossing the knife and meat aside, I pull Saya into my arms once more.
+sound voice/21/002000.aac 1
+text "I can say it now, can't I? Saya--I love you."
+text ~
+text As Saya tries to wipe away the tears that keep flowing from her eyes, I can no longer see any hint of fear in her face.
+text ~
+sound voice/21/002101.aac 1
+text "I don't want you to regret this...... I don't, but......"
+text ~
+text I have sworn my oath, and Saya has accepted it. We have nothing to be afraid of now. Saya will never need to cry again.
+text ~
+sound voice/21/002201.aac 1
+text "......Even so, I'm happy. I guess I'm pretty selfish, aren't I?"
+sound voice/21/002300.aac 1
+text "I don't mind. I'll always indulge your selfishness, Saya."
+
+bgload bc04me0.jpg
+
+text ~
+text Filled with contentment, we exchange a smile and set to the task of cleaning the room.
+text A single person produces a lot more meat than I expected. Speaking of which, I seem to remember doing something similar before.
+sound voice/21/002401.aac 1
+text "About the other two -- I think he killed them. I heard their screams."
+sound voice/21/002500.aac 1
+text "Well, that makes things easier."
+text ~
+text After we finish here, we should go gather the meat from the Suzumi house. That should be enough to hold us for a while.
+text But, can we pack it all into the refrigerator......?
+text ~
+text Of course. We can just use the refrigerator next door.
+
+music ~
+jump s11.scr

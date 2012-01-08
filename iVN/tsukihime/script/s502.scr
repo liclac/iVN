@@ -1,0 +1,272 @@
+bgload BG_01B.jpg
+text I don't have anything to do, so I hurry up and leave school.
+text .... Come to think of it, I hadn't left the school by the main entrance since the entrance ceremony.
+text "I guess this'll be the way to and from school from now on since I live in the mansion.."
+bgload IMA_10.jpg
+bgload BG_24B.jpg
+text Leaving from the main gate, I come to the intersection that leads to the residential district.
+text This is the point at which the paths to the city and the residential district, where the mansion is, part----
+text ~
+music 03.mp3
+bgload BG_24B.jpg
+setimg STK_T01.png 53 0
+text "Oh, it's Tohno-kun."
+text Suddenly, I run into Yumizuka.
+text "Hey, it's Yumizuka-san."
+text Yumizuka-san looked at me, bewildered.
+text "Uh.. Yumizuka-san?
+text Is there something on my face?"
+text "Um, I was wondering what you were doing here, Tohno-kun.
+text Isn't your house in the other direction?"
+text "Ah.. Well, it was until yesterday, but I'm living somewhere else starting today.
+text From now on, I'll be living at the place at the end of that residential district, on top of the hill."
+bgload BG_24B.jpg
+setimg STK_T07.png 53 0
+text "Ah, so that's what you were talking about this morning."
+text Yumizuka claps her fist and hand together in understanding.
+text .... Well, all flattery aside, that gesture seems incredibly cute.
+text ".... That's right.
+text I guess there's no point hiding it from you, since you already know.
+text I'm leaving my guardians, the Arimas, and going back to my real house today."
+bgload BG_24B.jpg
+setimg STK_T13.png 53 0
+text "Your real house.. You mean the Tohno-san mansion?"
+text "Yeah.
+text I don't think it really suits me, either."
+bgload BG_24B.jpg
+setimg STK_T01.png 53 0
+text "I see.
+text You're really a prince on top of a hill, after all.
+text It was a secret only Inui-kun and I knew, but now I guess everyone's going to find out."
+text With a faint smile, Yumizuka casts her gaze into the distance.
+text She looks out at the horizon, as if looking at the Tohno mansion, off in the distance on top of the hill.
+text "But will you be alright?
+text Even if it is your house, you've been away for eight years, right?
+text Aren't you afraid, or worried?"
+text "Yeah.
+text I'm actually kind of uneasy.
+text I never liked that mansion to begin with, and now it's going to feel like someone else's house too.
+text But still---"
+text ~
+text .... I can't lead a carefree life on my own and leave my sister Akiha there all by herself.
+text No matter how uneasy I am, I have to return to the mansion.
+text "---In the end, it's still my home.
+text I think it's only natural for me to go back."
+text ".... I see.
+text Ah, sorry for stopping you, Tohno-kun.
+text You must be in a hurry, right?"
+text "No, not really.
+text I was just having a stroll on the way home."
+text "Ah.. I see."
+bgload BG_24B.jpg
+text For some reason, Yumizuka looks downcast and falls silent.
+text ".... What's wrong, Yumizuka-san?
+text Are you feeling sick?" I ask her.
+text But she continues to stare downwards without raising her head.
+text "...."
+text I can't just leave her there, so I continue to stand there, looking at her.
+text ~
+text ---And then.
+bgload BG_24B.jpg
+setimg STK_T07.png 53 0
+text "U.. um!"
+text "Yeah, what?"
+text "Um.. uh.. I'm going home along the same way as you, until we reach the hill.."
+text "Really?
+text Then let's go together for part of the way."
+text ".... Eh?"
+text Yumizuka's eyes widen and she stands there stiffly for a moment.
+bgload BG_24B.jpg
+setimg STK_T03.png 53 0
+text "Y.. yeah!
+text You're right.
+text We're going back the same way, so it wouldn't be strange for us to go together for part of the way, right!?"
+text She says this all with an excessively cheerful voice and comes right beside me.
+text "Just at the right time, too.
+text I'm not too familiar with the streets around here, so would you mind guiding me?"
+bgload BG_24B.jpg
+setimg STK_T07.png 53 0
+text "Sure.
+text Then, let's go down this street.
+text It's a back street that leads all the way to the street on the hill."
+bgload BG_24B.jpg
+bgload IMA_10.jpg
+bgload BG_23B.jpg
+text ---I walk home while chatting with Yumizuka.
+text ~
+text Talking to Yumizuka isn't anything particularly special, but it is enjoyable in a peaceful kind of way.
+text .... Yumizuka Satsuki has a gentle air about her, and I feel safe when I'm with her.
+bgload BG_23B.jpg
+setimg STK_T03.png 53 0
+text "---Huhu."
+text While we are talking, Yumizuka suddenly laughs as if she had remembered something.
+text "What is it, all of a sudden?
+text Did I say something funny?"
+text "No, that's not it.
+text It's just that starting tomorrow, I'll be taking the same route to school as you."
+text She laughs, looking truly happy.
+text That honest, smiling face is enough to also make me happy as I watch her.
+bgload BG_23B.jpg
+text .... I didn't realize it up until now.
+text Even putting her looks and mannerisms aside, Yumizuka Satsuki is kind of cute.
+text I am slowly beginning to understand why the boys in our class had been so worked up over her for so long now.
+text Our conversation ceases.
+text I'm simply fascinated by Yumizuka's smile and the two of us fall silent.
+text Without saying anything, we walk towards the residential district in the sunset.
+text Suddenly---
+music ~
+bgload event/STK_E03.jpg
+text ~
+text "Hey, do you remember what happened during the winter vacation of our second year of middle school?"
+text ~
+text Yumizuka murmurs.
+text "....?"
+text I tilt my head to one side.
+text The winter vacation of the second year of middle school was when I had applied to stay for extra lessons at school because I felt bad about staying at the Arimas.
+text I remember it well enough, but I still don't understand why she had asked me about it.
+text "Just as I thought.
+text Someone like Tohno-kun would never have remembered."
+text Disappointed, Yumizuka's shoulders droop.
+text "There were two sports sheds at our middle school, remember?
+text One was a new shed used by the big clubs, and the other one was an old one used by the smaller clubs like Badminton.
+text The old shed had a certain problem where the alignment of the door was bad, so there were often times when it wouldn't open."
+text Old shed.. That little concrete building at the back of the gymnasium..?
+text "Ah, that shed.
+text The one which they stopped using after some students got trapped inside."
+text "Yeah, that's the one.
+text The students were second years from the Badminton club."
+text "----Ah!"
+text ~
+text Yes, something like that did happen.
+music ~
+music 07.mp3
+bgload IMA_10.jpg
+bgload IMA_06.jpg
+text It was early in the new year, on a cold winter's day.
+text The first three days of the new year having passed, I had applied for extra lessons and requested to stay behind at school and help out because I felt bad about staying at the Arimas.
+text But even that was only until five in the evening.
+text It had become dark, and I was forced out of the the classrooms as all the teachers were going home.
+text The middle of winter.
+text Even if it was only five, the surroundings really had darkened.
+text The weather report had predicted snow for that day, and the cold was extra harsh.
+text And so, just when I had decided to head straight home for the day, I heard a banging sound from the old shed and I went to check things out.
+text ---Is anyone in there?
+text ~
+text I asked, and I heard the voices of several female students in reply from inside the shed.
+text They had been trapped in there for two hours.
+text While packing up the club equipment, they had closed the door because of the cold, and now it wouldn't open again.
+text They couldn't open the door no matter what, and wanted me to call one of the teachers for help.
+text .... But the teachers had all gone home.
+text Even if I were to call them now on the phone, it'd at least take another hour.
+text The cold on that day was truly terrible.
+text In the kind of cold that should have prompted snow, I thought it would be cruel to leave those girls stuck in the shed wearing only their PE uniforms for another hour.
+text After some hesitation, and confirming that no one else was around, I took off my glasses and cut the "line" on the shed door.
+text The door opened, and about five female students, eyes red from crying, poured out---
+bgload IMA_10.jpg
+bgload BG_23B.jpg
+text ".... Come to think of it, there was something like that.
+text But I'm surprised you know about it.
+text The captain of the badminton club who had been trapped had told me, 'This has to do with the club's survival, so don't tell anyone else.' It was almost like she was threatening me."
+text "Oh, Tohno-kun!
+text You had no interest in knowing who was trapped inside there, did you?
+text ~
+text Listen.
+text I was one of those badminton club members."
+text Yumizuka sounds like she's pouting.
+text Eh.. So in other words..
+bgload event/STK_E03.jpg
+text "---I still remember it well.
+text When I think about it now, it was only being trapped inside a shed, but at the time, it was cold and dark, and I was really worried.
+text Everyone thought we were going to freeze to death like that.
+text My stomach was growling from hunger, too.
+text I was just about to collapse."
+text "Hmm.. That must have been rough."
+text I can't really empathize with her, so I give a half-hearted response.
+text Unconcerned, Yumizuka continues her recollections, bringing up old events anew.
+text "And just when everyone was trembling, you came along and asked, 'Is anyone in there?' in your usual unexcited voice.. and then the captain got angry and shouted, 'Can't you tell just by looking!?'.. Do you remember?"
+text "Yeah, I remember.
+text There was a loud bang when she threw a bat at the door.
+text I was really surprised."
+text "That's right!" Yumizuka says, laughing.
+text "But when we heard all the teachers had gone home, we really lost all hope.
+text We couldn't stand being there for even a minute longer, and we had to face the prospect of being trapped until the next day.
+text Just when we were thinking about how miserable the world was, you knocked on the door and said 'I might be able to open the door, if you can keep it a secret.'"
+text "Yeah.
+text And then I heard another bang, and someone said, 'If it opened that easily, we wouldn't be suffering in here!' She was really angry."
+text "Ahaha.
+text Yeah, the captain felt responsible for us getting trapped, so she didn't have much patience to spare.
+text But soon after that, the door opened.
+text Everyone was happy that the captain's knocking with the bat must have worked and ran outside, but I was watching you, standing by the door."
+text Yumizuka looks at me warmly.
+text .... But that only troubles me.
+text To me, it meant nothing, so I can't really appreciate her gratitude.
+text "I was crying really hard at that time.
+text My eyes just felt like they were swelling up, and they looked terrible.
+text What do you think you said when you saw me like that?"
+text "I don't know.
+text What did I say?"
+text .... I really don't remember, so I ask, as if it were something someone else had done.
+text Despite this, Yumizuka still looks at me happily.
+text "You put your hand on my head, and said 'Hurry up and go home, and eat some Ozouni'.
+text I was a little embarrassed because I was trembling so much from the cold."
+text "...."
+text "Hmm." I knit my brows.
+text I don't know what I meant back then.
+text "I think you meant for me to warm up my body by having some Ozouni."
+text ".... I see.
+text It was right after New Year's, after all."
+text .... That does sound like the stupid kind of thing I would say.
+text Now that it's put to me like this, I regret not having picked something better to say.
+text "Back then I thought, there are plenty of reliable people at school, but if I ever really need to be saved, it will be someone like Tohno-kun who saves me."
+text "You're exaggerating.
+text Look, it's like how a baby chick thinks the first human it meets is its mother.
+text I just happened to help you."
+text "That's not true..!
+text Ever since then, I really believed that you'd come and help me no matter what the problem was."
+text Her expression is quite resolute.
+bgload BG_22B.jpg
+text "You're giving me too much credit, Yumizuka-san.
+text I'm not that reliable of a person."
+bgload BG_22B.jpg
+setimg STK_T07.png 53 0
+text "It's alright.
+text That's what I believe, so let me keep believing it."
+text She pronounced while staring straight at me, and I am too embarrassed to offer a rebuttal.
+text "--Well, I guess you can believe what you want."
+bgload BG_22B.jpg
+setimg STK_T03.png 53 0
+text "Isn't that right?
+text So If I'm ever in a pinch, you'll come and help me, right?"
+text Yumizuka asks me, smiling.
+text .... To be honest, that would be kind of troubling.
+text Despite what she thinks, I'm not the sort of guy who can do everything.
+text I'm not.. but when she faces me with that smile, I don't want to destroy that faith she has in me.
+text "Yeah.
+text If it's within my power, I'll help you."
+text "Yep!
+text Thank you, Tohno-kun.
+text I know it's a bit late to say this, but I was really happy because of what you said to me back then."
+bgload BG_22B.jpg
+text So saying, Yumizuka suddenly stops.
+text Naturally, I stop too.
+bgload BG_22B.jpg
+setimg STK_T13.png 53 0
+text "I've always wanted to talk with you like this, Tohno-kun."
+text ~
+text Somewhere in her voice was a hint of wistfulness.
+text Perhaps it's because of the red light from the sunset, but somehow, Yumizuka looks lonely.
+text ~
+text ".... What do you mean?
+text You can talk to me anytime."
+text "No, I can't.
+text Inui-kun is always around you, and besides.. I can't become someone like you, Tohno-kun."
+text With that reserved answer, Yumizuka draws away from me.
+bgload BG_22B.jpg
+setimg STK_T03.png 53 0
+text "Well, my house is this way, so I'll see you at school tomorrow."
+text "Bye-bye!" Smiling, Yumizuka aaces her hand and begins walking down another street.
+bgload BG_22B.jpg
+bgload IMA_10.jpg
+music ~
+setvar flg6 + 1
+jump s36.scr

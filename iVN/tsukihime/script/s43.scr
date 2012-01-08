@@ -1,0 +1,414 @@
+bgload IMA_10.jpg
+bgload BG_34B.jpg
+music 02.mp3
+text When I get to the sitting room, Akiha is relaxing there alone.
+text There's no sign of Kohaku-san or Hisui.
+text There are two teacups on the table, and Akiha is using one of them.
+bgload BG_34B.jpg
+setimg AKI_T09B.png 40 0
+text "Oh?
+text Do you drink tea after meals, too, Nii-san?"
+text "Ah, no.. nothing like that.
+text I just thought I'd come and talk to you."
+text My expression tells her, "I'll go away if I'm bothering you."
+bgload BG_34B.jpg
+setimg AKI_T04B.png 40 0
+text "Then, please, sit down.
+text Is tea alright for you?"
+text "Ah, sure; I'll have anything that's nice."
+text I actually prefer Japanese tea, but I'll keep that bit of selfishness to myself.
+text Akiha takes the teapot and pours transparent red tea into another teacup.
+text "Thank you."
+text I sit on the sofa, and raise the teacup to my mouth.
+text .... Before my eyes is the cool and collected Akiha, and it makes me a bit uneasy.
+text I came to talk to her, but to be honest, I really don't know what to say now that she's in front of me.
+bgload BG_34B.jpg
+setimg AKI_T01B.png 40 0
+text "Nii-san?
+text You're very quiet.
+text Didn't you come to talk to me?"
+text Akiha stares.
+text The atmosphere is not so much that of a younger sister, but more like that of an unfamiliar young lady.
+text It's not one in which I can speak freely.
+text "Well.. I was just wondering, what you have been doing for the past eight years."
+bgload BG_34B.jpg
+setimg AKI_T03B.png 40 0
+text "It goes without saying.
+text With Nii-san not around, father's attention turned solely to me."
+text Akiha glares in complaint.
+text It seems that the last eight years are a taboo subject.
+bgload BG_34B.jpg
+setimg AKI_T18B.png 40 0
+text "And what about you?
+text What have you been doing for eight years?
+text I sent many letters, but didn't receive a single reply."
+text ".... Ack."
+text I choke involuntarily.
+text Certainly, Akiha sent many letters.
+text But I never replied.
+text I was a poor correspondent, but at the bottom of my heart I wanted to sever all links with the Tohno mansion, and that made me reluctant to write to Akiha.
+bgload BG_34B.jpg
+setimg AKI_T04B.png 40 0
+text "Well, don't worry about the letters.
+text Even if you had answered, I'm sure father would never have allowed the replies into the house.
+text More importantly, how do you feel, returning to the mansion for the first time in eight years?
+text It has changed very little.. though there was some restoration work done."
+text "-----"
+text In spite of Akiha's words, the mansion still feels completely unknown to me.
+text Eight years ago, I was just a child.
+text Even if I remember the mansion a little, I feel like I'm in someone else's house and it's very unsettling.
+bgload BG_34B.jpg
+setimg AKI_T01B.png 40 0
+text "Nii-san?"
+text "Ah, no, I was just lost in thought for a moment.
+text Um, you say this mansion's changed very little, but it's pretty unsettling for me.
+text Though this sitting room and the lobby are kind of familiar, I can't really remember the corridor, nor my room."
+text "Really.. I guess eight years is a long time."
+text ~
+text I guess that's it.
+text It's like half my life so far.
+text I can't really expect to have clear memories.
+text "Well, it's been eight years so it doesn't feel right, but I think I'll get used to it.
+text I'll be thankful if you overlook my poor manners for a while."
+bgload BG_34B.jpg
+setimg AKI_T03B.png 40 0
+text "Please, don't be ridiculous.
+text I can hardly look any more leniently upon Nii-san's manners than I do already."
+text "Buh..!"
+text Ugh.... That was close.
+text I almost sprayed the tea I was drinking.
+text At supper, Akiha's look sent me into a cold sweat after all I did was use the wrong knife.
+text ".... I see.
+text You were being lenient back then.."
+bgload BG_34B.jpg
+setimg AKI_T21B.png 40 0
+text "Yes.
+text I am making concessions appropriate to your abilities.
+text Nii-san has been brought up by the Arimas, after all.
+text As Aunt Keiko comes from a branch family, a certain amount of laissez-faire was permitted, and you were spoiled, Nii-san.
+text The result is the supper we had a while ago."
+text "Well, it can't be helped, can it?
+text We never really thought I'd be returning here."
+text ".... Is that so?
+text You almost sound like you didn't want to return, Nii-san."
+text "Don't be stupid, it's not like that.
+text I may have had my doubts, but I couldn't just leave you alone here, could I?
+text What kind of brother would I be then?"
+bgload BG_34B.jpg
+text ~
+text Yes.
+text That's the reason I returned.
+text If it weren't for Akiha, I would never have returned----
+text "Since I heard nothing for almost eight years, I always wondered whether you were alright on your own.
+text I came back to the mansion because I was worried about you."
+text Looking a little off to the side, I put my honest feelings into words.
+bgload BG_34B.jpg
+setimg AKI_T16B.png 40 0
+text "Ah.. well, then, thank--"
+text "But I guess I was just worrying over nothing.
+text In the past eight years, you seem to have grown strong.
+text I'm relieved, but a little disappointed."
+text ~
+text No, a bit is saying too little.
+text Since I only had the image of the calm Akiha back when she was small, the sharp Akiha right now seems like a different person.
+bgload BG_34B.jpg
+setimg AKI_T01B.png 40 0
+text "---Really?
+text I'm sorry I didn't meet Nii-san's expectations."
+text Akiha's eyes are scary.
+text .... Crap, I think I may have said too much again.
+bgload BG_34B.jpg
+setimg AKI_T03B.png 40 0
+text "Well then, Nii-san.
+text How was life at the Arima residence?"
+text Akiha asks, still with the frightening expression.
+text I feel like I'm under terrible pressure, even though I'm only talking to my younger sister.
+text "Nii-san?
+text Did you hear what I said?"
+text "I heard.
+text Life at the Arimas, right?
+text It was normal, there were no real problems.
+text It seems it was more suited for me living there, too."
+bgload BG_34B.jpg
+setimg AKI_T01B.png 40 0
+text "That's not what I meant.
+text How was your health?
+text I have heard you collapsed a lot from your chronic anemia."
+text "Ah, yeah, I did for about a year after I left the hospital, but I'm okay now.
+text I only have problems occasionally, about once a month.
+text I'm certainly not frail enough to be worried about."
+text Bluffing, I strike my chest with its scar.
+text Akiha nods in serious assent.
+text "But Nii-san, you've also started wearing glasses.
+text After going to the hospital, did your eyesight fail, also?"
+text "...."
+text .... I see.
+text Akiha doesn't know I wear glasses or why I wear them.
+text I can't just explain the lines along which things break, or that they don't appear when I wear these glasses.
+text "Well, it's nothing.
+text My eyes became a little strange after the accident.
+text But it's not like my eyesight's gone bad, so it's not really a serious problem."
+bgload BG_34B.jpg
+setimg AKI_T12B.png 40 0
+text "Really.. I was.. well, I was surprised when I saw you a while ago.
+text I didn't know you had started wearing glasses, Nii-san."
+text "Really?
+text You seemed pretty calm back then."
+bgload BG_34B.jpg
+setimg AKI_T03B.png 40 0
+text "Of course.
+text I was meeting you for the first time in eight years; I couldn't let you see me acting strange."
+text Akiha's brow creases sullenly.
+bgload BG_34B.jpg
+sound SE_04.aac 1
+bgload BG_34B.jpg
+setimg KOHA_T03.png -12 0
+text "Akiha-sama?
+text The bath is ready; what should I do?"
+bgload BG_34B.jpg
+setimg KOHA_T03.png -12 0
+setimg AKI_T04B.png 104 0
+text "Really?
+text Thank you, Kohaku.
+text I'll go soon, so go ahead."
+bgload BG_34B.jpg
+setimg KOHA_T02.png -12 0
+setimg AKI_T04B.png 104 0
+text "Ah, is that alright?
+text After all, you're relaxing with Shiki-sama.
+text Shiki-sama might run away, but the bath won't.
+text Please relax a little longer."
+text "It's fine.
+text We weren't talking about anything important anyways."
+bgload BG_34B.jpg
+setimg KOHA_T02.png -12 0
+text Akiha stands, and walks past Kohaku-san into the lobby.
+bgload BG_34B.jpg
+text Kohaku-san follows Akiha.
+text ~
+text Left alone in the sitting room, I finish the tea.
+text Akiha and Kohaku-san seem to be heading to the bath, so I guess I'll go back to my room.
+text ".... Hang on.
+text Akiha and Kohaku-san aren't going to take a bath together, are they..?"
+text No, I bet they are.
+text Then maybe Kohaku-san would be washing her back..?
+text Of course, with another girl, that's no problem, but..
+bgload BG_34B.jpg
+setimg AKI_T18B.png 40 0
+text "---Well, you are free to imagine whatever you wish, Nii-san, but.."
+text "----!"
+text Akiha returns with amazing timing.
+bgload BG_34B.jpg
+setimg AKI_T03B.png 40 0
+text "Don't force Hisui to do stupid things.
+text Unlike Kohaku, she doesn't really get jokes."
+text ~
+text Akiha's looks accusingly as if she sees my thoughts.
+text I'm surprised..
+text Maybe this mansion has some listening devices.
+text ".... Wait, what are you doing back here?
+text Weren't you taking a bath with Kohaku-san?"
+text "I forgot to tell you something about the bath.
+text Nii-san, the large bathroom we used a long time ago isn't used anymore.
+text It would be too much for Hisui and Kohaku to take care of, so it has been closed up."
+text ".... Large bathroom?"
+text Was there such a place?
+text I splutter a bit.
+text Unable to remember, I make a doubtful face.
+text Akiha's brows knit terribly.
+text "The bath in the courtyard.
+text You don't even remember that?"
+text .... Well, now that she mentions it, I guess there was such a thing.
+text ".... But, this is a European-style mansion.
+text Isn't such a thing a little out of place?"
+bgload BG_34B.jpg
+setimg AKI_T01B.png 40 0
+text "Father half-liked the Japanese-style of architecture.
+text That is why the detached building is Japanese-style as well.
+text "Anyway, if you want to have a bath, please use your own; the second bathroom behind the lobby is yours, Nii-san."
+text With that, Akiha leaves.
+bgload BG_34B.jpg
+text ~
+text ".... Alright."
+text With Akiha gone, there's no point in staying in the sitting room.
+text I'll have a bath, too, and return to my room.
+bgload IMA_10.jpg
+music ~
+bgload BG_40C.jpg
+text "Ah---"
+text When I return to my room, my bed has been made.. I guess Hisui did it when I was gone.
+text "I'm glad she did, but it's really more than I deserve."
+text I scratch my cheek.
+text ~
+text -------Then.
+sound SE_04.aac 1
+text "Are you there, Shiki-sama?"
+text I can hear Hisui's voice along with a knock at the door.
+text "Yeah, I'm here.
+text Come in."
+bgload BG_40C.jpg
+setimg HIS_T16.png 62 0
+text "Excuse me."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+music 01.mp3
+text "Good evening.
+text Thanks for making my bed, Hisui."
+text Hisui quietly nods in acceptance.
+text ".... Urgh."
+text Just as I thought, I'm not used to this.
+text ".... Uh.. is there anything else you want to tell me?"
+text "No, nothing from me, but Akiha-sama has instructed me to answer any questions you may have."
+text ".... I see.
+text There are many things I want to ask, but I'll probably get to know them as I continue to live here...."
+text Yeah.
+text What I want to know right now before I sleep is---
+text "Is it true that the curfew here is seven?"
+text "Yes.
+text The main gate is locked at seven, and all the entrances to the mansion are to be locked at eight.
+text It is also a rule that one must try not to go walking around in the mansion after ten."
+text "Not even walking around in the mansion?
+text .... Well, I've got no complaint with that, but isn't that kind of harsh?
+text Akiha and I aren't children, so I don't think you have to go that far."
+text ".... Indeed.
+text It is a rule, however, so please abide by it.
+text You are aware of the recent disturbances at night, are you not, Shiki-sama?"
+text ~
+text .... Yeah, that vampire thing Arihiko was talking about.
+text Well, as long as something like that is happening, I guess it's better to be safe than sorry.
+text "What else.. Oh, do you mind if I ask an off-topic question?"
+text "Yes, what is it?"
+text "I'd like to know what kind of work you and Kohaku-san do around here."
+text "I am here to serve your needs and my sister Kohaku is to serve the Lady Akiha-sama.
+text In our spare time, we do the maintenance chores around the mansion.
+text Is there anything more you would like to know?"
+text ".... To serve.. So that's what it is after all."
+text My shoulders suddenly feel heavier.
+text It seemed completely natural to Akiha when she said it, but I'm nothing more than a normal high school student.
+text I have no interest in having a girl close to my age serving me, at least for now.
+text ".... By serving me, you mean you're a personal servant?"
+text "Yes.
+text Please do not hesitate to give me any instructions."
+text ".... Well, I get it.
+text Going by how Akiha was talking about you, it doesn't seem like I can dismiss you, so I'll just obediently let you serve me.."
+text "Is there anything in particular you would like?"
+text "Nothing in particular, but could you stop calling me 'Shiki-sama'?
+text To be honest, I get chills down my back when I hear it."
+text "But Shiki-sama, you are my master."
+text "That's what I'm saying I hate.
+text I've been living a normal life up until yesterday.
+text I have no desire to start living a life where a girl my age addresses me with '-sama'."
+text "I see." Hisui's response was less than enthusiastic.
+text "Just call me Shiki, and in exchange, I'll call you Hisui.
+text Let's do away with the formalities and be more casual with each other."
+text Still expressionless, Hisui lowers her eyebrows as if she's being troubled.
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text "But, you are my employer."
+text "It's not like I'm hiring you.
+text You're the one doing the things I can't, so you're the great one."
+text "I see." Hisui gives another unenthusiastic reply.
+text .... It looks like I won't be able to talk her into it in just one day.
+text "---Anyhow, that's how it is.
+text Don't be so formal towards me.
+text I'll be grateful if you'd tell that to your sister Kohaku-san, too."
+bgload BG_40C.jpg
+setimg HIS_T16.png 62 0
+text "Very well, as you say, Shiki-sama."
+text Expressionless, Hisui bows her head.
+text ~
+text She completely failed to understand.
+text ~
+text "I will be leaving now.
+text Please rest now for tonight."
+bgload BG_40C.jpg
+text Bowing, Hisui puts her hand on the doorknob.
+text ~
+text ---Oh, I forgot to ask something.
+text ~
+text "Ah, hold on for a second."
+text Running towards the door, I put my hand on Hisui's shoulder before she leaves.
+bgload IMA_11.jpg
+bgload BG_40C.jpg
+text In an instant---Hisui's arm pushes away my arm with incredible momentum.
+text With a 'whack!', she slaps my hand away and leaps back.
+bgload BG_40C.jpg
+setimg HIS_T10.png 62 0
+text "Eh---?"
+text It's so sudden, that's the only thing I can say.
+text Hisui is expressionless, but she glares at me fiercely.
+text "Eh.. Did I just do something wrong?"
+bgload BG_40C.jpg
+setimg HIS_T28.png 62 0
+text "Ah.."
+bgload BG_40C.jpg
+setimg HIS_T26.png 62 0
+text ".... I am very sorry.."
+text Hisui's voice sounds very nervous.
+text ".... I am not used to being touched.
+text Please forgive me."
+text Hisui's shoulders are faintly trembling.
+text I feel like I just did something really terrible.
+text "Ah.. Yeah, I'm sorry."
+text I apologize without thinking.
+text I don't understand why myself.
+text I just feel sorry for Hisui and I lower my head.
+bgload BG_40C.jpg
+setimg HIS_T04.png 62 0
+text "------"
+text Hisui says nothing.
+text I get the feeling her stare is calm again.
+bgload BG_40C.jpg
+setimg HIS_T23.png 62 0
+text "---You have nothing to apologize for, Shiki-sama.
+text I am the one to blame."
+text "No, well, maybe, but I just.."
+bgload BG_40C.jpg
+setimg HIS_T01.png 62 0
+text I scratch my head.
+text Hisui stares at me, pausing only to blink for a second.
+text "Um.. What was it you wanted to ask me, Shiki-sama?"
+text That's right.
+text I stopped Hisui because I wanted to ask her something.
+text "Oh, I wanted to ask about Akiha.
+text Doesn't she go to a boarding school?"
+text "That was only during middle school, Shiki-sama.
+text From this year onwards, Akiha-sama has special permission to attend school from home."
+text "Eh.. You mean she goes to school from here?"
+text "Yes, but it is uncommon for her to come home before dusk like today.
+text Akiha-sama has practice up until dinner, so she is always home before seven.
+text "Practice?---Practice what?"
+text "Today is Thursday, so she would have had violin practice."
+text "----Eh?"
+text "Usually, she is able to return before dinner on weekdays, so if you have anything to say to Akiha-sama, please let Nee-san know after dinner."
+bgload BG_40C.jpg
+text Hisui bows to say goodbye, and leaves the room.
+text "Violin practice.."
+text What on earth is that?
+text She's not some upper-class lady or anything, so why should she have to do something as bothersome as---
+text ~
+text ".... Oh wait, she is an upper-class lady."
+text ~
+text Yes.
+text Come to think of it, my sister, Tohno Akiha, is a natural born upper-class lady.
+text In my memories, she was always the obedient, ever-uneasy sister constantly following me around.
+text As a child, she was always quiet, never having even the courage to express her own desires.
+text She was a frail girl who would always live in fear of a scolding from our father.
+text ~
+text "---Yeah, people really do change after eight years."
+text After eight years, I've become the me I am now.
+text Akiha has become the person she is right now, too.
+text ---Eight years is a long time.
+text It's half of our lives up until now.
+text I was absent from this mansion during that vital period where a child becomes an adult.
+text ~
+text ".... I'm sorry, Akiha."
+text I think things would have been better if I had been with her during those eight years.
+text I unknowingly mumble an apology.
+bgload IMA_10.jpg
+music ~
+setvar akiha_regard + 1
+if flg6 >= 1
+    jump s46.scr
+fi
+jump s47.scr

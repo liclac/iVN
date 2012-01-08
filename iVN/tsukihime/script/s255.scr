@@ -1,0 +1,63 @@
+bgload BG_29B.jpg
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text ~
+text ---I'd die before I'd say it.
+text ~
+text "Arcueid, it doesn't concern you, so leave me alone."
+text I look away from her and refuse.
+text But Arcueid keeps saying "Come on, come on," over and over.
+text "Come on, tell me.
+text You can at least tell me who you dreamed about."
+text She asks like a curious kid.
+text Every time I turn away she keeps jumping in front of me, saying "Come on, come on."
+bgload BG_29B.jpg
+text ".... Please, just let it go.
+text There was something wrong with that dream.
+text .... Even now, that---"
+text I don't know why I saw that dream.
+text Arcueid says it's my greatest desire, but I don't want to think that's what it was.
+text ~
+bgload BG_29B.jpg
+setimg ARK_T11.png 36 0
+text "Oh, maybe it turned into a nightmare?
+text She does tend to write the story to her liking when fond of her target.
+text She's only a novice, so I guess it couldn't be helped."
+text Arcueid thinks aloud.
+text "....?
+text Writes the story to her liking?
+text What do you mean?"
+text "I'm saying she interprets your desire in her own way.
+text That dream familiar I sent you is just a child, so she likes to play pranks."
+text "----I see."
+text .... That's a relief.
+text That's right, that dream---It couldn't have been what I wanted.
+text I let out a sigh of relief.
+text With this, my innocence has been proved but---
+text "Arcueid.
+text Why did you send me such a thing?
+text That's too much even for harassment."
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Hmph.
+text I wouldn't harass you.
+text I sent you the dream familiar to thank you for defeating Nrvnqsr.
+text I really am grateful to you, so I thought it'll be great if it made you happy."
+text "Thank me?---Well, I'm happy you were grateful, but.."
+text But no matter what, I'll pass on that sort of thanks.
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "Oh come on.
+text Are you saying you can't accept a person's goodwill?"
+text ".... Hey, you're not a person, you're a vampire, Arcueid."
+bgload BG_29B.jpg
+setimg ARK_T14.png 36 0
+text ".... That's.... true but."
+text Arcueid slumps her shoulders.
+text .... How do I say this.. Arcueid is very open in expressing her emotions.
+text Being happy, being angry, she changes her expressions so quickly---it's actually kind of charming.
+text ~
+text .... I said she was a vampire, but..
+text she really does seem like a human; enough to even make me forget that fact.
+music ~
+jump s256.scr

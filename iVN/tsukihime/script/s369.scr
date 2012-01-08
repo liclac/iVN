@@ -1,0 +1,19 @@
+bgload BG_33D.jpg
+text ------It has to be the west wing on the second floor.
+bgload IMA_10.jpg
+bgload BG_40D.jpg
+text "------"
+text .... If I say so myself, I've never felt so stupid before in my entire life.
+text The west wing on the second floor only has my room, the others being mostly empty.
+text It's on the same floor, but Akiha's room is exactly opposite of mine, in the east wing----
+bgload IMA_10.jpg
+text I race down the hallway.
+text The heated air and sense of foreboding seem to stretch over the dark of night like glass.
+text ~
+text ----*pant*, *pant*, *pant*.
+text ~
+text Breathing heavily, I dash down the hallway.
+text .... My back hurts.
+text This terrible feeling in the air gets heavier as I draw near Akiha's room.
+setvar akiha_regard - 1
+jump s370.scr

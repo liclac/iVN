@@ -1,0 +1,153 @@
+bgload BG_06A.jpg
+text --Even still, I need to get at least some nutrition.
+text ~
+text I'm already prone to passing out as it is; and if I don't push myself to eat, I'll probably just pass out.
+text "Sorry, go ahead and eat.
+text I gotta go buy food."
+text "Oh yeah?
+text Guess I'll start eating without you."
+bgload BG_06A.jpg
+text I leave Arihiko happily unsealing his sandwich behind me as I exit the classroom.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text I buy some bread and some milk, and then go back.
+text Arihiko and Ciel-senpai are already over at my desk by the window.
+bgload BG_06A.jpg
+setimg CEL_T03.png -12 0
+text "Oh, Tohno-kun.
+text I'm joining you guys."
+bgload BG_06A.jpg
+setimg CEL_T03.png -12 0
+setimg ARI_T02.png 104 0
+text "Ah, no, no.
+text You don't have to mind much.
+text We're pretty happy when you can join us.
+text Isn't that right, Tohno?"
+text Is Arihiko that pleased just to be with Senpai?
+text He happily asks me for agreement.
+text Well, for once we do seem to be in agreement.
+text "That's right.
+text You really helped me out by coming, Senpai.
+text I don't know what I would've done if I had to eat while staring at this guy's face."
+text I answer lightheartedly and take my seat.
+bgload BG_06A.jpg
+text Senpai's eating from a large lunchbox and Arihiko is long since finished with his sandwich.
+text "...... Alright."
+text I take a bite from my bread.
+text I still have no appetite, so I forcefully wash it down with some milk.
+text ~
+text Arihiko holds a lively conversation with Senpai since they are both done with lunch.
+text They talk about the strange events like serial murders and whatnot, which really does not help my appetite.
+bgload BG_06A.jpg
+setimg ARI_T01.png 104 0
+text "Really?
+text They haven't found all those missing people yet?"
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T01.png 104 0
+text "It seems that way.
+text There was even another new report this morning.
+text Inui-kun, didn't you see the news this morning?"
+text "Nah, I don't have time to do anything in the morning so I didn't watch it."
+text "That's no good you know, staying up late at night.
+text You shouldn't walk around at night, there's some scary people out there."
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T02.png 104 0
+text "That's no problem.
+text I'm a scary person myself."
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T02.png 104 0
+text "Well, you might be right.
+text Inui-kun, you do seem like a shady character."
+text "Ahahaha." The two of them laugh.
+text ~
+text .... Hm, Ciel-senpai might be serious, but Arihiko probably said that as a joke.
+text "Hahaha." Arihiko's eyes twitch as he smiles.
+text Anyway, I can't exactly ignore their conversation.
+text "---Senpai.
+text You mentioned a new report--what is it....?"
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T02.png 104 0
+text "In the news this morning, a young woman who went shopping last night--about our age--and she went missing.
+text Her house is close to the park, I heard."
+text ".... Oh, close to the park."
+text ~
+text As soon as I say that, the contents of my stomach threaten to rise up.
+text --Last night.
+text ~
+text That unknown girl who just by chance was by the park, was destroyed by that irrational violence.
+text Missing might be a better description than dying, since she was devoured without even so much as a hair left.
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T03.png 104 0
+text "That makes her the ninth victim, no, the tenth?
+text Damn, what an amazing pace, all in a single month."
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T03.png 104 0
+text "Yes, but I hear last night's disappearance was a little different from the other ones.
+text The families of all the other girls who disappeared noticed it a short time later."
+bgload BG_06A.jpg
+setimg CEL_T01A.png -12 0
+setimg ARI_T03.png 104 0
+text "By the way, you didn't watch the morning news either Tohno-kun?
+text Don't tell me you're not a morning person either?"
+text ".... Hmm.
+text I wouldn't say I'm a morning person, but I'm not terrible in the morning either.
+text But, leaving that matter aside, I still won't be able to watch it for a while.
+text At my house, there's no TV."
+bgload BG_06A.jpg
+text Senpai and Arihiko stare blankly.
+bgload BG_06A.jpg
+setimg CEL_T08.png -12 0
+text "No TV--Your house is.. that big mansion, right?"
+bgload BG_06A.jpg
+setimg CEL_T08.png -12 0
+setimg ARI_T03.png 104 0
+text "Heh, there's no way you don't have a TV in that mansion.
+text I won't let you say you don't have one in your room, being a student and all."
+text "No, there really isn't one.
+text My old man always said there was no need for such brainwashing machines.
+text There's a small one in Kohaku-san's room, but I'm not about to barge into a girl's room in the morning."
+text If I want to get the news, I just have to rely on a newspaper.
+bgload BG_06A.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T03.png 104 0
+text "Tohno-kun, what do you mean by a girl?"
+bgload BG_06A.jpg
+setimg CEL_T07A.png -12 0
+setimg ARI_T04.png 104 0
+text "You can't just say that and get away with it, Tohno."
+text They're both glaring at me.
+text I slap my hand over my mouth, but it's far too late.
+text "Uh, um--simply put, just that there's a servant at my house named Kohaku-san."
+bgload BG_06A.jpg
+setimg CEL_T12.png -12 0
+setimg ARI_T04.png 104 0
+text "Huh, a servant?
+text You're really lucky to have a girl around you at all times to take care of your every need."
+text "That's not it!
+text There isn't anyone to take care of the mansion, so we have to hire people to do it.
+text Whether she's male or female is entirely irrelevant."
+text "Oh reeeeallly?
+text Hey Inui-kun, doesn't Tohno-kun sound real intimate with this Kohaku-san?
+text "Yeah yeah, he looked so happy when he said her name.
+text I wanted to ask before, but just what kind of a life does Tohno lead right now?"
+bgload BG_06A.jpg
+text They trade glances.
+text "...... Ugh."
+text I choke on the bread I'm eating.
+text Arihiko, even Ciel-senpai with her cool glance, interrogates me with bizarre intensity.
+bgload BG_06A.jpg
+setimg CEL_T04.png -12 0
+text "Tohno-kun, there is still plenty of time left.
+text Please tell us all about your life at the mansion."
+text She approaches with a smile that won't seem to let me get away.
+text ".........."
+text ~
+text Just thinking about the twenty minutes or so I have left to live through this makes my head spin.
+bgload IMA_10.jpg
+jump s228.scr

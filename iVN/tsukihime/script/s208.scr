@@ -1,0 +1,13 @@
+bgload BG_06A.jpg
+text ---I was about to ask, but I didn't think the teacher would tell me.
+text ~
+text If she did run away from home like Arihiko said, it's her business.
+text Besides, there isn't a teacher on the planet who'd answer a classmate who just casually asked "Has Yumizuka-san run away from home?"
+text ".... Yeah, it's not like it's been confirmed yet or anything."
+text Maybe Yumizuka was just late.
+text It would be a better idea to see how things go for a little while longer before asking the teacher.
+bgload IMA_10.jpg
+if flgP >= 1
+    jump s209.scr
+fi
+jump s210.scr

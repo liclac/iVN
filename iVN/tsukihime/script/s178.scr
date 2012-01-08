@@ -1,0 +1,321 @@
+bgload BG_28B.jpg
+music 01.mp3
+text The hand of the clock ticks by.
+text It's been two hours since we came here.
+text ~
+text "----Phew."
+text I've started to settle down and there's nobody around now.
+text The night starts to deepen.
+text "Arcueid, is it alright now?"
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "Yeah, it's alright."
+text She agrees with me, but she doesn't really seem enthused yet.
+text "You've been acting strange since before, Arcueid.
+text Is there something wrong?"
+text "----Not really.
+text I was just concerned about that bandaged man you told me about."
+text Arcueid sighs as she ponders to herself.
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "Oh, that's right.
+text Shiki, last night someone hit on me here."
+text "----Huh?"
+bgload BG_28B.jpg
+setimg ARK_T11.png 36 0
+text "I'm saying, some guy started to talk to me here."
+text ".... No, I heard you.
+text I thought you said you were thinking about that bandaged man though."
+bgload BG_28B.jpg
+setimg ARK_T03.png 36 0
+text "I was, that's why I remembered.
+text Just like when you were attacked, someone started to talk to me."
+text ".... I see.
+text Well, that's good.
+text Just looking from the outside, you are a beautiful person so if you were waiting around by yourself, it is entirely natural for a guy to talk to you."
+text I give a serious response.
+text Sometimes, I'm a little too honest.
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "You think so?
+text I thought it was an enemy at first, but I remembered you saying something before about how I always stand out.
+text So after studying him briefly, I saw he was just a human."
+text ".... Wait a minute.
+text Don't tell me you did something to the guy trying to hit on you?"
+bgload BG_28B.jpg
+setimg ARK_T14.png 36 0
+text "No, I didn't do anything.
+text I just talked with him a little bit and made him forget about it.
+text .... But if I didn't remember what you said, I might have."
+text "I see.
+text Good job, Arcueid.
+text I guess even you can make distinctions."
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Of course.
+text It would have to take someone like you to make me angry."
+text She seems to say this with some amusement.
+text .... Well, it's natural for someone to get mad if they were killed.
+bgload BG_28B.jpg
+text I sigh as I glance around the park.
+text .... A month ago.
+text If those serial murders never started occurring, there would still be young couples around and the figures of students hanging out.
+text But now, the only ones talking here are me and Arcueid.
+text ~
+text I calmly think about my current situation.
+text Since when did Tohno Shiki step off onto the path of such a world----?
+music ~
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "Ah.
+text Hey, see."
+text Arcueid suddenly calls out to me.
+text "What, did something happen?"
+bgload BG_28B.jpg
+setimg ARK_T09.png 36 0
+text "Yeah.
+text See?
+text Look at the clock.
+text It's time."
+text She points to the park's clock while giving a full smile.
+text Looking----it's ten o'clock now.
+bgload BG_28B.jpg
+music 08.mp3
+text The promised time.
+text The promise backed only by words, to meet here at ten o'clock at night.
+text ~
+text .... Last night.
+text The promised time I couldn't keep.
+text "--------"
+text My words get stuck in my throat.
+text Why does such a trivial thing suddenly cause my chest to tighten?
+text ~
+text Why.. does such a trivial thing make her so happy?
+text .... I really don't understand.
+text I spent all day with her today.
+text But it never felt like she was really a vampire.
+text ".... Let me ask you something."
+text ~
+text ----Stop it, Shiki.
+text ~
+bgload BG_28B.jpg
+setimg ARK_T09.png 36 0
+text "Yeah, what is it?"
+text ".... Are you.."
+text ~
+text ----Don't ask her that.
+text ~
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Um, am I what?"
+text ".... Really a vampire?"
+text ~
+text ----What kind of answer are you hoping for?
+bgload BG_28B.jpg
+setimg ARK_T12.png 36 0
+text "A vampire?--what's with that all of a sudden, Shiki?"
+text "It's not all of a sudden.
+text I was just thinking."
+text I look away.
+bgload BG_28B.jpg
+setimg ARK_T11.png 36 0
+text "Huh?
+text I can't tell if you're really stubborn or not.
+text I don't really mind, but that's pretty insulting.
+text Tell me why you're asking that."
+bgload BG_28B.jpg
+text There's no reason.
+text But----at the same time, there's no real proof she's a vampire either.
+text So----
+text ".... Well, you said you don't even like to see blood.
+text What kind of vampire is that?
+text You even said you weren't a full vampire, but a vampire that hasn't sucked blood isn't a vampire, is it?"
+text ~
+text ----That's not it.
+text Isn't it just that Tohno Shiki, deep inside, wishes she wasn't a vampire?
+bgload BG_28B.jpg
+setimg ARK_T06.png 36 0
+text "Shiki.
+text Stand up."
+text Arcueid approaches the park bench.
+text I stand up.
+text ~
+text "----"
+text Our eyes meet.
+text We're about two meters apart.
+text ~
+text Arcueid gives a huge sigh, and suddenly grins.
+bgload BG_28B.jpg
+setimg ARK_T08.png 36 0
+text "I guess you're right.
+text I even thought about it myself.
+text I wondered, is Arcueid Brunestud really a vampire?
+text Ahaha," she laughs.
+text ~
+text .... That's a relief.
+text I thought this question would insult her----but thankfully, she seems to have taken it as a joke.
+text ~
+text "----Yeah.
+text You really don't look like a vampire at all."
+text "Ahaha," Arcueid laughs again.
+text "Then, shall we try?"
+text ~
+text She says this, still smiling.
+text "Try----eh?"
+bgload BG_28B.jpg
+setimg ARK_T01A.png 36 0
+text "Shall we see if I can really drink blood?
+text If I could, can you give me a prize, Shiki?"
+text "Wha----"
+text With that smile still on her face, she takes a step closer.
+bgload BG_28B.jpg
+music ~
+bgload IMA_02.jpg
+text Tap, tap.
+text Her footsteps echo in the air.
+text ~
+text I know she's joking.
+text Still----I can't move, at all.
+text "Wa----"
+text --it.
+text But I can't even finish.
+text It's not her power----but me who stops.
+text ~
+text Closer.
+text One step.
+text Another step.
+text Looking down, bit by bit.
+text I----not even able to lift a single finger, am transfixed by her lips----
+bgload IMA_10.jpg
+text "Shiki, you said I wasn't a full vampire, but...."
+text ~
+text A sweet voice that seems to echo in the back of my head.
+text Another step, and the footsteps stop.
+text ~
+text ---You know, drinking blood is very easy.
+text ~
+text I hear that voice right by my ear.
+bgload event/ARK_E05A.jpg
+sound SE_02.aac -1
+text Her body weight presses up against me.
+text ~
+text "------"
+text ~
+text My throat freezes and I can't even speak.
+text I can only feel her breath on my neck.
+text ~
+text ----It's hot like a burning fire.
+text "Ar-----"
+text I stop calling her name.
+text With my own will, I stop.
+text Because I know if I call out her name, she'll pull away.
+text "------"
+text Her breath is so close.
+text Her white fingers on my shoulders are trembling.
+text ~
+text ----She's, scared.
+text ~
+text My mind is blank and I'm not scared at all.
+text But, Arcueid is the only one shaking.
+text I can't see her face.
+text Just the swirling of her breath around my neck, and the feel of her trembling body against mine.
+text ~
+text It changes from a weak breeze to heavy breathing.
+text "Ar---cueid?"
+text "It was------supposed to be a joke."
+text Her voice shakes.
+text The fingers on my shoulder cease their trembling.
+text ~
+text Instead----they dig into my shoulders like a bird's talons.
+text "Gah-----!"
+text A pained gasp escapes me.
+text But her claws do not let up.
+text They sink in as if not allowing me to escape.
+text "Arc----I'm sorry, I guess I joked around too much.
+text I'm sorry----so can you, let go?"
+text "Shi----ki."
+text Her fingers don't move.
+text ~
+text ----This isn't good.
+text My mind screams in warning and I gather up all my strength.
+text My arms move to push her away.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Before that,
+text Pain shoots through my shoulders.
+text "............!!!"
+text My arms can't move at all.
+text Her vice-like grip on my shoulders cause my arms to go numb.
+text "----,----,--------"
+text .... I can feel her breath grow even wilder against my neck.
+text Maddening.
+text Her teeth almost touch my neck.
+bgload IMA_11.jpg
+text "N----No....!"
+text ~
+text After the grip increases one more time from her white fingers,
+text Arcueid flies back, practically screaming.
+sound ~
+bgload BG_28B.jpg
+music 09.mp3
+text Panting fills the air.
+text ~
+text Hard breathing echoes through the park.
+text My ragged breathing-----Arcueid's trembling breaths.
+text "Shi------ki."
+text Her entire body shaking, she gasps as if to suck in the entire atmosphere as she stares in disbelief at her two hands.
+text ~
+text Her white fingertips are now dripping with my blood.
+text The redness flows from her fingers to her palms, and then along her arms.
+text "Ah----"
+text She looks at it, and seems to be on the verge of collapse.
+text ".... Arcueid, just now, was----"
+text I call out to her.
+text Looking up from the blood on her hands, she meets my gaze.
+bgload BG_28B.jpg
+setimg ARK_T18.png 36 0
+text "Shi----ki?"
+text ".... Yeah, I'm here.
+text Just now, was----a joke, but it seems like it went a little far."
+text I say that, wanting to let this end just as a joke.
+text But I guess it didn't work out.
+text "Shiki----I, just----"
+text Her eyes lose sanity.
+text "Got----very thirsty----"
+text Her convulsions become deeper, and even now----she seems like she'll crumble to the ground.
+text "Please----go home, Shiki."
+bgload BG_28B.jpg
+text "Hey, Arcueid....!?"
+text With that, she starts to run.
+text She disappears fast.
+text Not like she ran before, where she was taking me into account.
+text With a speed I couldn't even match if I sprinted with all my strength, she vanishes into the night towards the city.
+text "----Wha.."
+text She thinks I can just go back after seeing her like that?
+text "That idiot----where is she going when she's in that much pain....!?"
+text I can't just go back home.
+text ~
+text Even though I don't know where to find her, I start to run after her into town.
+bgload IMA_10.jpg
+music ~
+bgload BG_25B.jpg
+text ----I don't see her anywhere.
+text The city is too big, and it's nearly impossible for a single person to track her down when she leaves no trace behind.
+text I'd be much more likely to find her if I predict where she's going to go rather than blindly searching.
+text ~
+text Then----
+text ~
+choice Go to Arcueid's apartment.|Look in the commercial district.|The school, perhaps?
+if selected == 1
+    jump s179.scr
+fi
+if selected == 2
+    jump s180.scr
+fi
+if selected == 3
+    jump s500.scr
+fi

@@ -1,0 +1,469 @@
+bgload 000000.jpg
+delay 120
+music music/s02.mp3
+sound 59_1.aac 1
+bgload ba01no0.jpg
+
+text ~
+text ....................
+
+bgload cg/13.jpg
+
+sound voice/12/000102.aac 1
+text "Nothing."
+sound voice/12/000205.aac 1
+text "......"
+text ~
+text This is the third day that they haven't been able to get in touch with Oumi.
+text There's no sign of her having returned to her apartment, and even her family doesn't know anything. 
+text Her parents have already filed a missing persons report.
+text ~
+sound voice/12/000302.aac 1
+text "Well, you know her. She'll probably just pop up somewhere like nothing happened."
+sound voice/12/000405.aac 1
+text "......Yeah, I hope so......" Yoh replies with a gloomy expression. 
+text She's worried about Oumi, of course, but the incident with Fuminori three days ago must still be weighing on her mind as well.
+text ~
+text Yoh hasn't seen Fuminori since then, and Fuminori hasn't made any effort to approach them. 
+text Four people used to meet in this cafeteria between classes, but now there are only two.
+sound voice/12/000505.aac 1
+text "Hey, Tonoh-kun, let's keep thinking. Isn't there somewhere Oumi-chan might have gone?"
+sound voice/12/000602.aac 1
+text "No......" Kouji answers evasively, "I checked them all already."
+text ~
+text It's a lie, of course. 
+text Kouji knows where Oumi planned to go that evening, but he doesn't want to bring Fuminori up in front of Yoh.
+
+sound 36.aac 1
+
+text ~
+text Their awkward silence is mercifully broken by the bell signaling the start of the next period.
+sound voice/12/000702.aac 1
+text "Well, I've gotta go."
+sound voice/12/000805.aac 1
+text "......Yeah."
+
+bgload ba01no0.jpg
+
+text ~
+text If Kouji isn't mistaken, Yoh is supposed to have class next period too, but she continues to sit there like she's in a trance.
+text Unable to come up with anything to say, he reluctantly leaves the cafeteria.
+
+sound 35.aac 1
+bgload 000000.jpg
+delay 80
+bgload ba02no0.jpg
+
+text ~
+text Both Oumi's disappearance and Yoh's depression worry Kouji, and both problems lead back to the exact same place.
+sound voice/12/000902.aac 1
+text What the hell is Fuminori doing......? 
+text ~
+text When Oumi went missing, the first thing Kouji did was question Fuminori. 
+text The last time he'd seen Oumi was just before she'd stormed off to give Fuminori a piece of her mind, after all.
+text ~
+text Fuminori had responded with blunt, unequivocal denial, and had acted as though he hadn't the slightest idea why Oumi would have gone to his house. 
+text Perhaps that was only natural, as he was unaware that Oumi and Kouji had witnessed him reduce Yoh to tears.
+text ~
+text In the first place, did Oumi actually make it to Fuminori's house? 
+text She had been riding a wave of emotions when she'd left, and might very well have calmed down and changed her mind halfway there.
+text Or perhaps she ran into trouble on the way?
+text ~
+text Kouji concluded - or, more accurately, convinced himself - that one of these possibilities was the truth, subconsciously denying the one remaining possibility.
+text ~
+text In other words, the possibility that Fuminori was lying; that he had met Oumi, and was involved with her disappearance......
+text ~
+text When questioned by the police, Kouji only told the truth about Oumi's destination up to the district and train station, maintaining that he had no idea where she'd planned to go after that.
+text ~
+text He wanted to cooperate with the search, of course, but knew that Oumi couldn't have made it to Fuminori's house. 
+text Fuminori said so himself, didn't he? 
+text In that case, he'd told the police everything they needed to know.
+text Not wanting to get the still-fragile Fuminori involved, he forced himself to accept this flimsy logic.
+text ~
+text But now, the conflict has built up inside Kouji without his notice, and only formless suspicion towards Fuminori cycles through his mind.
+text ~
+text Kouji is deep in thought, paying no attention to his surroundings, but perhaps that is what allows him to catch sight of his friend's back through the crowd of milling students.
+
+bgload cg/26.jpg
+
+sound voice/12/001002.aac 1
+text Fuminori? 
+text ~
+text At first, Kouji assumes that he's headed to the lecture hall, but it soon appears that he is instead going home.
+text Strange; there should be required classes for medical students in the afternoon.
+text Though he is initially surprised, Kouji's hesitation lasts for only a second.
+text Kouji follows his friend, taking care to stay far enough behind that he won't be noticed.
+
+music ~
+bgload 000000.jpg
+delay 120
+music music/s07.mp3
+sound 118.aac 1
+bgload cg/14.jpg
+
+text ~
+text Fuminori wasn't going home, as became obvious when he boarded a train heading in the opposite direction.
+text Kouji's next guess was that he was going to see his doctor at the T University Hospital, but Fuminori rode straight through the closest station.
+sound voice/12/001102.aac 1
+text Where's he going......? 
+text ~
+text At first, Kouji felt awfully foolish, rebuking himself for tailing his friend like this, but his conscience fell silent as Fuminori's actions became more mysterious.
+text The stranger it gets, the closer Kouji feels to discovering the truth behind Fuminori's sudden transformation. 
+text Any knowledge would be welcome, no matter how slight.
+text ~
+text Even Kouji is beginning to think that there must be something more behind Fuminori's change than the accident alone. 
+text He wants a more satisfying answer, one that will help him decide whether or not Fuminori can be trusted.
+
+bgload 000000.jpg
+sound 119.aac 1
+
+text ~
+text Fuminori gets off at a small station in a nondescript suburban area. 
+text Kouji follows, trying not to lose sight of him amidst the other disembarking passengers.
+
+bgload bk01no0.jpg
+
+text ~
+text The station has neither a traffic circle nor a shopping street in front of it; the area is quite desolate, possessing only a small bookstore, convenience store, and market. 
+text It is easy for Kouji to keep Fuminori in view.
+
+bgload bl01no1.jpg
+
+text ~
+text Fuminori seems to know these streets, clearly intent on a single goal as he hurries through the residential neighborhood. 
+text Carved out of the hills, the area has many slopes, and here and there remain steep inclines and wooded areas that escaped assimilation. 
+text Kouji, who moved to Tokyo to attend school, is amazed that such a quiet place exists less than an hour out of the city.
+
+bgload bl01no0.jpg
+
+text ~
+text Before long, Fuminori reaches a house. 
+text Without ringing the bell or even knocking on the door, he vanishes inside as though sucked into a vacuum, leaving Kouji to wonder how Fuminori can treat the house as his own.
+
+bgload be01no0.jpg
+
+text ~
+text After waiting to see if Fuminori will come back out, Kouji approaches the gate and checks the nameplate.
+text ~
+text Ougai.
+text ~
+text Kouji has never heard of anyone by that name among Fuminori's acquaintances.
+text Next, his attention is drawn to the thick wad of leaflets sticking out of the mail slot, which, coupled with the general dilapidated feel of the place, suggests that it has been long since abandonded.
+
+bgload bl01no0.jpg
+
+text ~
+text A small playground about two blocks away provides an adequate vantage point from which to watch the front of the Ougai home. 
+text Fortunately, it does not appear to be the sort of house that has a rear exit.
+text Chiding himself for not stocking up on cigarettes, Kouji settles down on a bench to begin his stakeout.
+
+bgload 000000.jpg
+delay 80
+bgload bl01re0.jpg
+
+text ~
+text One hour passes, and then another, but there remains no sign of movement around the Ougai residence as twilight settles upon the neighborhood.
+text After Kouji's one pack of cigarettes runs out, the stakeout becomes a battle against mounting impatience. 
+text He kills time by redialing Oumi on his cell and sending her short text messages, but his efforts are as futile as he knew they would be.
+
+music ~
+bgload 000000.jpg
+delay 80
+bgload bl01re0.jpg
+
+text ~
+text When the sky begins to turn deep blue and the streetlights come on, Fuminori finally emerges from the house and heads back towards the station with the same hurried stride.
+text ~
+text After some brief consideration, Kouji decides that right now, investigating the house is more important than tailing Fuminori.
+
+bgload be01re0.jpg
+
+text ~
+text He rings the doorbell just to make sure. 
+text Receiving the expected silence in response, he checks to make sure no one is watching and turns the doorknob.
+text The door is not locked.
+
+sound 18.aac 1
+bgload 000000.jpg
+sound 93.aac 1
+delay 80
+sound 29_1b.aac 1
+bgload be02da0.jpg
+
+text ~
+text The moment he enters the house, thick, stale air fills Kouji's nostrils. 
+text Redolent of mold and dust, it is the unmistakable smell of a house that has long lain untouched.
+text There is also a faint hint of something indescribable in the air, something reminiscent of damp sewers and fetid cisterns.
+text ~
+text Flipping the light switch does nothing. 
+text The power must be dead, or perhaps cut off.
+
+sound 23.aac 1
+bgload be02ca0.jpg
+
+text ~
+text Kouji uses his oil lighter to illuminate the immediate area. 
+text In the thick dust covering the floor, he can clearly see several brand-new trails of footprints that could have only been made by shoes - they must be Fuminori's. 
+text Showing an equal lack of reservation, Kouji also enters with his shoes on.
+
+sound kouji05_1.aac 1
+bgload 000000.jpg
+delay 80
+sound 67a.aac 1
+bgload be05ca0.jpg
+
+text ~
+text The lighter's flickering flame pushes back the deathly silence and gloom of the house.
+text Kouji is surprised to see evidence of life remaining; everything from furniture to tableware and appliances is intact. 
+text Nothing seems to be missing.
+text ~
+text The thickness of the dust suggests that the house has been empty for several months, which means that the owner must have left with little more than the clothes on his back. 
+text Could he have gone on a long vacation?
+
+sound 93.aac 1
+
+text ~
+text The calendar in the den is still turned to April.
+text Empty and silent, yet still exhibiting signs of the life that was once lived there, the house reminds Kouji of a passenger ship resting at the bottom of the sea. 
+text In the graveyard-like quiet, a sinister thought suddenly runs through his head.
+text ~
+text No one is living here, but that doesn't necessarily mean that the owner left. 
+text Maybe he was killed, and his rotting corpse is right under my feet--
+text ~
+text Kouji finds himself wanting a stronger light. A maglite in his hand would make him feel a lot better.
+
+bgload 000000.jpg
+delay 80
+sound kouji07_1.aac 1
+bgload be03ca0.jpg
+
+text ~
+text Following what appear to be Fuminori's footprints, Kouji ascends to the second floor, where he begins to catch the scent of paper in the stale air.
+text It is the smell of old books, instantly familiar to anyone who has worked in an antique bookstore or library.
+
+bgload 000000.jpg
+delay 80
+music music/s03.mp3
+bgload be04ca0.jpg
+
+text ~
+text The second floor turns out to be a study, its towering shelves packed with such a vast number of books that Kouji fears for the stability of the floor. 
+text As a medical student himself, he is able to discern at a glance that this study belongs to a medical professional, and a high-level one at that.
+text Judging by the content of the books, a smorgasboard of technical volumes far beyond a simple student, the owner must be more interested in research than clinical medicine.
+text ~
+text It appears that Fuminori spent most of his time here, the scattered dust making it clear that he was searching for something.
+text He seems to have focused on going through the desk and file cabinet, as the contents of their drawers are in obvious disarray.
+text ~
+text A small pile of books on a side table catches his eye. 
+text Being next to the desk, they must have been the most frequently read. 
+text What sort of books they are could shed some light on the person who worked here--
+text ~
+text Kouji frowns as he examines the three books. 
+text The old, leather-bound Western tomes are not scientific texts, but rather the kind of books you would expect to see in a glass case at a rare book store.
+text The titles are equally mysterious. 
+text Traite des Chiffres appears to be about semiotics, but Ars Magna et Ultima is some kind of treatise on...... divination?
+text And then there's the Voynich Manuscript, which appears to be a sort of picture book.
+
+sound 70.aac 1
+
+text ~
+text When he pages through it, however, he finds line after line of utterly incomprehensible characters. 
+text Maybe it's some kind of cipher.
+text ~
+text Whatever they are, they clearly have nothing to do with medicine, refuting Kouji's earlier guess that Mr. Ougai was a doctor.
+text ~
+text Looking down, Kouji suddenly notices the glint of something black and metallic underneath the chair.
+text A pocket-sized maglite, quite out of place among all these dusty books. 
+text Fuminori must have brought it in.
+
+music ~
+bgload be04li0.jpg
+
+text ~
+text With slight relief, Kouji exchanges his lighter for the maglite. 
+text Its tiny body emits a powerful white beam that casts away the darkness.
+text His courage restored, he decides to explore the rest of the house.
+
+bgload be03li0.jpg
+
+sound voice/12/001202.aac 1
+text "......Hm?"
+text ~
+text Kouji notices something strange, something that was not visible in the lighter's weak flame.
+
+sound 29_1b.aac 1
+
+text The slime.
+text ~
+text Especially thick on the doorknobs and stair banisters, these are no mere handprints. 
+text Dark, slimy stains are everywhere, like someone had their hands wrapped in greasy cloth.
+text Looking closer, he sees what appear to be places where slime was splashed low on the walls and near the floor. 
+text It's almost as if a wet mop was run violently across the floor.
+
+setimg kouji01.png 10 0
+
+sound voice/12/001302.aac 1
+text "......"
+
+text ~
+text Are these more remnants of Ougai's life? No, these marks are much too strange. 
+text Kouji begins to feel sick as he finds himself imagining the denizen of this place wandering around with filthy water dripping from its entire body.
+
+music music/fumi02.mp3
+bgload 000000.jpg
+sound 07.aac 1
+
+text ~
+text Finding the bedroom next to the study, Kouji checks the closet on a hunch.
+text He finds two empty suitcases - not what one would leave behind when going on a long vacation.
+text A sudden chill runs through him. 
+text So whoever was living here is still somewhere inside the house--
+
+sound kouji05_1.aac 1
+bgload be03li0.jpg
+
+text ~
+text Supressing the urge to flee, Kouji goes back downstairs to check the first floor.
+text ~
+text If he finds a corpse, he'll have to call the police right away. 
+text He can get away with trespassing if he reports it first, but if they find the body later, it'll be awfully hard to explain his fingerprints all over the house.
+
+bgload 000000.jpg
+delay 80
+bgload be05li0.jpg
+
+text ~
+text The maglite reveals the den to be covered in even more slime than the rest of the house. 
+text The sofa looks as though it was dredged from the bottom of a swamp.
+
+bgload 000000.jpg
+delay 80
+bgload be06li0.jpg
+
+text ~
+text In the kitchen, Kouji takes one look at the sink and decides not to get any closer. 
+text He doesn't want any more fuel for his imagination.
+text ~
+text He reaches the door to the bathroom.
+text A common scene from TV dramas flashes through his head: a suicide with slit wrists floating in a bathtub filled with water.
+text And wasn't there a movie where a hitman butchers his victim's body in a bathroom......?
+ 
+music ~
+sound 73.aac 1
+
+text ~
+text Kouji steels himself and opens the door slowly, shining his light into the ceramic bathtub that appears from the darkness like a white ghost.
+
+bgload 000000.jpg
+delay 80
+music music/s09.mp3
+bgload be07li0.jpg
+
+text ~
+text Dried flesh and blood clinging to curved rib bones has turned the inside of the tub black.
+text ~
+text Kouji puts one hand against the wall to steady himself as his legs threaten to buckle. 
+text Something is wrong, he realizes as he desperately tries to get his thoughts in order.
+text Bones - but they're too small, and there are too many of them.
+text ~
+text They aren't human.
+
+bgload cg/15_1.jpg
+sound kouji06.aac 1
+
+text ~
+text After taking several deep breaths to calm himself, Kouji enters the bathroom and examines the tub.
+text ~
+text The tub is half filled with small bones piled on top of each other like fallen leaves. 
+text Too small to be human, they appear to be from small animals like dogs, cats, mice, and sparrows.
+text Even so, the quantity is mind-boggling. 
+text How many corpses would it take to produce this many bones?
+text ~
+text The bones have all been separated from each other, and it doesn't appear that the bodies were just thrown into the tub and left to rot.
+text This is made clear by the many groove-like impressions left in each bone -- marks left by teeth biting through flesh.
+text ~
+text Kouji's sanity won't let him consider the possibility that a human could have done this.
+text The owner of this house must have been keeping some sort of carnivorous animal as a pet, giving it the bones of small animals to eat and disposing of the remains in the bathtub.
+text But why not dispose of the leftovers properly? 
+text They could have just been thrown out with the garbage. 
+text Or was there something keeping him from leaving the house?
+text ~
+text The momentary relief Kouji felt when he realized that the bones weren't human is once again under attack by the ever-deepening mystery permeating this house.
+text ~
+text And just what the hell was Fuminori doing here?
+
+music ~
+bgload cg/15_2.jpg
+
+sound voice/12/001400.aac 1
+text "What are you doing, Kouji?"
+
+bgload be06li0.jpg
+
+sound voice/12/001502.aac 1
+text "!?"
+text ~
+text Kouji whirls around, his penlight revealing Fuminori's expressionless face.
+sound voice/12/001600.aac 1
+text "You're trespassing, Kouji."
+sound voice/12/001702.aac 1
+text "So...... are you," Kouji replies, barely managing to speak over the pounding of his heart.
+
+music music/s04.mp3
+
+text ~
+text Fuminori pushes past Kouji and looks nonchalantly into the bathtub, as though there's nothing strange about a tub filled with bones.
+sound voice/12/001800.aac 1
+text "I know the owner of this house. I was just asked to find something."
+sound voice/12/001902.aac 1
+text "You know them...... since when? Who are they?"
+text ~
+text Kouji doesn't want to believe that the old, friendly Fuminori could have had contact with the denizens of this house.
+sound voice/12/002000.aac 1
+text "I'll introduce you one of these days," he says, turning to leave without even looking at Kouji. "I owe them my life, after all."
+sound voice/12/002102.aac 1
+text "Hey, Fuminori......!"
+
+bgload be05li0.jpg
+setimg kouji15.png 10 0
+
+text ~
+text With his heart finally beating normally again, Kouji runs after Fuminori.
+sound voice/12/002202.aac 1
+text "Wait, are they the reason you've gotten so strange all of the--"
+
+bgload be02da0.jpg
+setimg fumi06.png -60 0
+
+text ~
+text Standing in the entrance, Fuminori glares coldly at Kouji over his shoulder.
+text The utter lack of emotion in his eyes gives Kouji pause.
+sound voice/12/002300.aac 1
+text "You followed me, didn't you, Kouji?"
+sound voice/12/002402.aac 1
+text "......"
+
+sound 79.aac 1
+
+text ~
+text With no possible excuse, Kouji can only swallow under Fuminori's piercing stare.
+sound voice/12/002500.aac 1
+text "That's a nuisance. I'll ask you not to do it again."
+sound voice/12/002602.aac 1
+text "--Fine."
+
+sound 82_2.aac 1
+bgload be02da0.jpg
+
+text ~
+text Fuminori walks away without another word, leaving Kouji alone in the entrance.
+text ~
+text Until this moment, there was still a part of Kouji that wanted to consider Sakisaka Fuminori a close friend.
+text Now, however, there is only ice cold terror.
+text ~
+text Does the Fuminori he knew no longer exist? 
+text Was the person who just stared Kouji down an impostor wearing Fuminori's skin?
+text Kouji has begun to believe that it might be so.
+
+music ~
+jump s06.scr

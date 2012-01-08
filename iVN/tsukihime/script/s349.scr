@@ -1,0 +1,36 @@
+bgload BG_04.jpg
+text "I think our school's uniform would match her well.
+text See, Akiha already looks mature enough, so you don't have to force her to wear such a prim and proper----"
+bgload BG_04.jpg
+setimg AKI_T03A.png 40 0
+text ~
+text "----Uh, well, maybe sweeping away the old image and a fresh change might be nice."
+bgload BG_04.jpg
+text .... Danger!
+text Danger!
+text It would be better if I just don't force myself to say things too much.
+bgload BG_04.jpg
+setimg ARI_T01.png 104 0
+text "Hm?
+text Is that how it is?
+text Well, Akiha-chan is a beauty, so I think even in a blazer she would look good."
+bgload BG_04.jpg
+setimg AKI_T04A.png -24 0
+setimg ARI_T01.png 104 0
+text "That's surprising.
+text Do you not like our school uniform, Inui-kun?"
+text "Hm, it's not that I don't like it, it just isn't sexy enough, or at least it's kind of bland.
+text When you get girls at the level they are in our school all in the same uniform, everyone will start to look the same and iiiooooooowww!?"
+bgload BG_04.jpg
+setimg CEL_T04.png -12 0
+setimg ARI_T01.png 104 0
+text "Oh, I'm sorry Inui-kun.
+text My hand slipped."
+text Ciel-senpai laughs gently as she drives her elbow into Arihiko's side at a sharp angle.
+text ~
+text ........ This is depressing.
+text I have to live through this stressful situation for almost ten more minutes........
+music ~
+bgload IMA_10.jpg
+setvar akiha_regard - 1
+jump s350.scr

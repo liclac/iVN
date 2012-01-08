@@ -1,0 +1,97 @@
+bgload event/ARK_H03.jpg
+text ----I can't do it.
+text I can't do anything she doesn't want again.
+text Once, I gave in to this headache and I killed her.
+text ~
+text That's why, never again.
+text I can't lose to myself and make Arcueid cry.
+text Even if this headache tears me apart, I won't do it----
+bgload IMA_11.jpg
+sound ~
+bgload BG_31B.jpg
+music 09.mp3
+text "Ha----ah!"
+text I pull back from her body.
+text The headache disappears and my heart returned to normal.
+text The urges rampaging in my heart have also disappeared and I finally start to comprehend what I just did.
+text "----What----have I.."
+text I can't believe it.
+text But the memory is all too clear.
+text How I pushed her down.
+text How I choked her and held my knife over her.
+text .... and the disgraceful things I did afterwards.
+text "------"
+text I don't know what to say.
+text Arcueid adjusts her clothes and stands up.
+text I----don't know how to apologize.
+text Just saying sorry.. how can that make it up?
+text "----Arcueid, I----"
+bgload BG_31B.jpg
+setimg ARK_T10.png 36 0
+text "Don't worry about it.... I'm the one who should apologize."
+text She looks away uncomfortably.
+text "Wha--what are you saying?
+text I was the one who did something wrong.
+text If only----I had been stronger, that never would have happened."
+bgload BG_31B.jpg
+setimg ARK_T17.png 36 0
+text "No.
+text I don't think it was something you could have resisted because you saw my 'Mystic Eyes'."
+text "Eh----?
+text Mystic Eyes?
+text Like, Nrvnqsr's eyes....?"
+bgload BG_31B.jpg
+setimg ARK_T10.png 36 0
+text ".... Exactly.
+text I wasn't sane earlier.
+text I was so thirsty, I couldn't control myself.
+text That's why----I found some of The Dead, and tried to replace that urge with the urge to destroy to stave it off.
+text Back then, I was unable to hold myself back----so that's why you saw my Mystic Eyes when you came."
+text ".... Certainly I felt odd from the time I saw your golden eyes----but that's just that.
+text I, with my own will--"
+text "No, that's wrong.
+text Shiki, my Mystic Eyes of Enchantment completely captivate whoever looks upon them.
+text .... I think that's why you started to feel all those sexual desires."
+text "--That----can't be right."
+text Because even if she wasn't controlling me.
+text I, I might, still like her.
+text "Anyway, this was all because of my carelessness.
+text .... I'm sorry, Shiki.
+text I manipulated your body without any regards to your feelings."
+bgload BG_31B.jpg
+text Her gaze shift away as she says this.
+text .... Being apologized to like this hurts my heart.
+text Because I didn't feel like I was manipulated at all.
+text Rather----it seems like I used it to obey my own lust.
+text "Arcueid, I----"
+bgload BG_31B.jpg
+setimg ARK_T17.png 36 0
+text "Don't apologize.
+text .... Shiki, this was all an accident.
+text I'll forget about it, so please forget about it too.
+text I think it's better for the both of us that way."
+bgload BG_31B.jpg
+text Saying that, she starts to walk quietly.
+text ".... Arcueid....?"
+bgload BG_31B.jpg
+setimg ARK_T22.png 36 0
+text "----I think this is enough for tonight.
+text I killed all these Dead tonight, so it's probably useless to search any further."
+text ".... That's fine, but what do we do with that mountain of dead bodies?
+text If someone finds it, there'll be trouble."
+text "There's no need to worry.
+text Once something becomes a vampire and dies, it won't leave a trace.
+text Those who refused to return to the Earth become ash to be scattered in the wind once they die.
+text They will return and disperse on their own in a while."
+bgload BG_31B.jpg
+text Without turning around, she disappears from the alley with weak steps.
+text "............"
+text I can't stop her now.
+text I still feel the sensation of Arcueid on both my hands.
+text "----Idiot.
+text What a stupid idiot I am."
+text I groan to myself.
+text In the alley which became a stage of tragedy, I look up at the moon in remorse.
+bgload IMA_10.jpg
+music ~
+jump s183.scr

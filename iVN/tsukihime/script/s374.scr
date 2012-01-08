@@ -1,0 +1,1681 @@
+bgload BG_33C.jpg
+music 01.mp3
+text @Day 11
+text ~
+text ~
+text Letting Kohaku-san take care of Akiha, I come down to the first floor.
+text I can't treat Akiha's wounds.
+text So, I want to help her in some other way.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text If I search the old man's room, I might be able to find something to help her.
+text He was the head of the Tohno family after all.
+text He should have recorded some way to fight against the Tohno blood.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text "Damn-------I guess I can't find it that easily."
+text I sit down and take a breath.
+text The old man's library is really big and it takes a lot of time to look through each book.
+text Besides, most of them are just educational reports and it looks like information on the Tohno family isn't here.
+text The only thing I found was this journal-like book that belonged to the old man.
+text "........ I see.
+text This looks to be a record of the time after I was taken into the Arima household."
+text I flip through the pages.
+text ~
+text -------And then,
+text I see Akiha's name and I turn back.
+text "Let's see.... Report on Akiha's spasms----what is this?"
+text I start reading it carefully.
+text .... The old man looked at it this way: Akiha became one of strong Tohno blood right after I left.
+text To live, Akiha needs more heat than a normal person.
+text If you say that the heat Akiha needs is ten, food only gives her six or seven, and the extra heat she needs is the reason for her body's extra burden.
+text The problem is why she needs that much heat to stay alive in the first place.
+text .... It looks like it took the old man some time to figure it out.
+text After a few years worth of pages, the answer is finally written down.
+text "Half of her life....?"
+text ~
+text .... I don't think I get what he means.
+text It says that out of all the energy she has, she is using only half of it.
+text To rephrase it so it's easier to grasp, it's like she's moving around normally while using only half of her body.
+text But of course, it's impossible to do that.
+text That's why Akiha's body consumes heat from some other source to try to make up for that.
+text But no human can do that; it's superhuman power.
+text The more she needs heat from her surroundings, the more the Tohno blood awakens as it grows less and less human.
+text "............"
+text What's written after that looks like Akiha's growth record.
+text I read on, but find the information becoming less and less useful to me.
+text I throw the diary onto the table.
+text "---Damn, even if you know the reason, it's no help if you don't write down the way to fix it.
+text Stupid old man."
+text .... Or was it impossible for even the old man to find a way to help her?
+text ".... But only half her energy?
+text I wonder what she's doing with the other half...."
+text It seems simple.
+text If Akiha can use all of her energy for herself, then she wouldn't have to take in heat from someone else.
+text "-------"
+text .... I don't think there's anything else for me to find here.
+text I should go outside and let myself unwind----
+bgload IMA_10.jpg
+bgload BG_44B.jpg
+text .... I'm worried about Akiha.
+text When I look up, I realize I'm at the detached building.
+text I didn't feel like going back to my room, so I naturally came here instead of the mansion.
+bgload IMA_10.jpg
+bgload BG_45C.jpg
+text I go in.
+text I sit down on the tatami and stare at the ceiling.
+text ~
+text ----------*sigh*
+text I let out a deep breath.
+text .... I feel relaxed in here.
+text This was my room when I was a kid.
+text ".... This was the room Akiha came to when I was sick."
+text I start to remember little by little.
+text When I was adopted ten years ago.
+text When I lived in this room, and the days I spent playing with Akiha and SHIKI.
+text ".... He was saying 'Nanaya'."
+text Nanaya.
+text Written as "seven nights" in Japanese?
+text I guess it's my real last name, but it doesn't really matter now.
+text A kid named Nanaya Shiki was eliminated eight years ago.
+text His last name, his real name, even his memories.
+text ~
+text I can't even remember my parents' faces.
+text I don't want to remember those things anyway.
+text ".... I see, this knife is not the old man's but really my----"
+text I take the knife out of my pocket.
+text "Nanaya" is written on the handle.
+text In that regard, this was really my true father's.
+text Tohno Makihisa had some human emotions after all.
+text He should have eliminated everything that would lead me to Nanaya Shiki, but he still left me this knife.
+text ~
+text ---And then.
+text Something drips onto my hand.
+text "----What?"
+text I feel my cheeks.
+text .... Why?
+text I'm not happy or sad, but..
+text "That's weird---why am I crying?"
+text There's no reason to.
+text But I cannot stop crying.
+bgload IMA_10.jpg
+music ~
+bgload BG_45C.jpg
+text .... I wonder how long it's been.
+text Night should have gone by.. it must be almost sunrise.
+text ".... It's Sunday today, huh?"
+text Well, even if it was a weekday, I would have skipped school and stayed with Akiha.
+text Because it's Sunday, it's more convenient.
+text "Kohaku-san said she should stay in bed."
+text .... How depressing.
+text I don't know how many weeks it will take for Akiha to heal.
+text "---What can I do until she gets better---"
+text I don't even have to think about it.
+text I must find and kill him, once and for all.
+text He's not human anymore.
+text .... No, even if he is, even if people tell me I'm a murderer, I can't let SHIKI stay alive.
+sound SE_09.aac 1
+text "....?"
+text Someone comes into the building.
+text Could it be Kohaku-san?
+text I hear small, light footsteps getting closer, until finally, the sliding door opens.
+bgload BG_45C.jpg
+setimg AKI_T01C.png 0 0
+music 08.mp3
+text -----I can't believe it.
+text It's Akiha.
+text "Akiha, are you.... alright?"
+text ".... Yes, my wounds have healed now."
+text Healed....?
+text No way.
+text That wound wasn't anything that would heal in a night.
+text Besides, Kohaku-san said it would take weeks to heal.
+text To heal that fast is not human---
+text "-----Ah."
+text Then I finally realize it.
+text .... No, I wish I didn't.
+text That Akiha's hair is still red.
+bgload BG_45C.jpg
+setimg AKI_T12C.png 0 0
+text ".... It's exactly what you think it is, Nii-san.
+text My wound is healed--a wound which wouldn't heal this quickly for a normal person."
+text Akiha's hair is red in the morning sunlight.
+text ---But I have no interest in that.
+text "--What are you saying Akiha?
+text If your wound's healed, that should be good enough.
+text I hate the Tohno blood, but if it helps out like this, then it's, it's a good thing--"
+text ".... You don't have to force yourself.
+text I didn't come here to be a bother to you.
+text I came to tell you a few things while I'm still sane."
+text ~
+text "What----"
+text She said while she is sane------
+text "Listen to me, Nii-san.
+text I've been lying to you for so long now.
+text There's no way for me to make up for that, but I have to at least tell you the truth.
+text I cannot disappear like this----"
+text ~
+text Akiha's eyes shine as if she's about to cry.
+text .... If she looks at me that way, there's no way I could stop her.
+text ".... Alright.
+text I'll listen.
+text But, Akiha, I'll stay as Tohno Shiki no matter what you tell me.
+text .... Maybe you don't have to tell me at all.
+text All the same----do you still want to tell me about it?"
+text "Nii-san, you...... know?"
+text ".... SHIKI likes to talk a lot, and he told me most of it while you were unconscious.
+text But, if you want to tell me about it, I'll listen.
+text If you tell me yourself, I think it would help me understand."
+text Akiha looks aghast for a moment, and then she bites her lip and looks at me.
+bgload BG_45C.jpg
+setimg AKI_T01C.png 0 0
+text "Nii-san.
+text You were adopted ten years ago from the Nanaya family.
+text .... I don't know why Father adopted you, but he introduced you to us as our new family member."
+text Akiha squints as if pained and continues on.
+text "I've heard that the Nanaya family was the total opposite of our kind.
+text .... There are those like the Tohno family with mixed blood, and then there are those who oppose them."
+text "Nii-san, you wouldn't like it if there were lions and tigers in your school, right?
+text We humans tend to eliminate people who are different from us or anyone who is superior to us.
+text .... It's pretty easy to understand why, if you think about it.
+text It's not that they eliminate the 'different people' because they hate them.
+text Instead, it is because if these 'different people' were in our society, it would endanger the lives of normal people.
+text So, there will always be those who eliminate the non-humans."
+text "---The Nanaya family was special among those who stood against the non-humans.
+text They didn't use magic, but instead relied purely on their own abilities.
+text .... The Tohno family became special by introducing inhuman blood into their bloodline.
+text The Nanaya family became special through willpower and determination.
+text Tohno and Nanaya were enemies, but we were actually close, in a way, just by our nature."
+text "So if you happen to have any special powers, it's not from the blood of Tohno but from Nanaya.
+text It's written in your blood to kill anything that is inhuman.
+text .... Nii-san, there WAS that time when you ran away from me, remember?
+text I realized it then.
+text The Nanaya blood in you is still working, and it reacted to me."
+text ----She's talking about that night.
+text She's right.
+text I did feel a homicidal impulse when I saw Akiha's red hair.
+text I thought I was a killer for that reason, but that means----
+bgload BG_45C.jpg
+setimg AKI_T12C.png 0 0
+text "Yes, you only feel that way towards abnormal people like me and SHIKI.
+text But, that's why you were like death to us.
+text .... Even though the people of Nanaya have stopped their work, I think it was still a threat just to have their blood around."
+text "................"
+text Why?
+text Suddenly my heart is beating very loud.
+text I have a very bad feeling about this.
+text I cannot let Akiha go on.
+text .... No, it's more that I don't want to hear it from her.
+text "It's alright.
+text .... You don't have to go on.
+text It's already over, so there's no point.
+text It has nothing to do with me or you."
+text "But Nii-san---"
+text "I don't care about the Nanaya family.
+text I don't know them.
+text If you're the head of the Tohno family, you should only worry about the Tohno family."
+text "--------"
+text Akiha bows her head and gives a reluctant nod.
+bgload BG_45C.jpg
+setimg AKI_T01C.png 0 0
+text ".... Then, let's talk about us.
+text Nii-san and I, and SHIKI, we were raised as true siblings.
+text You and SHIKI got along so well I was kind of jealous of you guys.
+text But everything went wrong when 'that' happened to SHIKI."
+text ".... Eight years ago, SHIKI's Tohno blood awakened.. and he killed me."
+text ".... Yes.
+text But your life was saved.
+text Things didn't end that easily, though.
+text We took care of SHIKI, but we couldn't kill the eldest sibling of the Tohno family.
+text We're a pretty powerful family, socially, so we couldn't just tell everyone that our eldest son, the only successor, died.
+text "So Father came up with it.
+text Let Nii-san be Tohno Shiki, and let SHIKI be the adopted son who died in an accident."
+text Akiha speaks these words as if hoping they will damn Tohno Makihisa.
+text ---So that's it.
+text ~
+text SHIKI and I reversed roles.
+text The one that was killed lived on, and the one who did the killing died.
+text That's the relationship between SHIKI and I.
+bgload BG_45C.jpg
+setimg AKI_T12C.png 0 0
+text ".... I'm sorry.
+text Nii-san---the boy named Shiki no longer exists.
+text He died eight years ago.
+text It wasn't just the end of his life, but the end of his existence.
+text His name, past, household, and even his memories.
+text There's nothing left anywhere.
+text Eight years ago, when you took the place of Tohno SHIKI, Father got rid of everything."
+text "That's why you were taken to the Arimas.
+text To the outside world, Tohno's eldest son had to be alive, but since there is no Tohno blood in you, you couldn't be the successor.
+text Father explained that your body was weakened by the accident, so he sent you to the Arimas."
+text ".... I didn't agree.
+text I even held a grudge against Father for letting you go for a stupid reason like that.
+text I guess it's because I told him that I wanted you back so many times, but Father finally came out and told me you were adopted.
+text And he told me never to let you come close to our house.
+text .... Father didn't take into account what kind of cruel things he was doing to you, and he lied to me shamelessly until the day he died."
+text Akiha's story ended there.
+text It might be because she hid these facts from me for so long, but Akiha's story sounded more like a confession.
+bgload BG_45C.jpg
+setimg AKI_T01C.png 0 0
+text ".... That's the whole story.
+text So now you know.
+text You know you're not really my brother.
+text You're not---part of this rotten family."
+text About to cry.
+text Akiha's voice sounds like she's about to cry.
+text ".... I'm sorry, Akiha.
+text I wasn't your real brother, but I still acted like it, and I caused trouble for you."
+text "What.... Nii-san....?"
+text "But I'm already a part of this family.
+text I might not be your brother, but can I still stay here?
+text I don't want to leave you ever again."
+text "A------------"
+bgload BG_45C.jpg
+setimg AKI_T24C.png 0 0
+text Akiha puts her hands over her mouth and bites back whatever words were about to come out.
+text ~
+bgload BG_45C.jpg
+text After a long silence,
+text Akiha sadly shakes her head.
+text ".... I see, you're right.
+text It was wrong for me to ask that.
+text I've been a terrible brother anyway."
+bgload BG_45C.jpg
+setimg AKI_T30.png 0 0
+text "N---No....!
+text That's not true....!"
+text ~
+text ---I can't.. believe it.
+text Akiha---Akiha's crying.
+text "Nii-san---you're my only Nii-san....!
+text I've watched you since I was just a little girl....!"
+text ".... It's nice for you to say that, but that's because you didn't know.
+text You didn't know I wasn't your brother."
+text "I knew it from the beginning....!
+text I knew that you were adopted, that you weren't really my brother.
+text I knew all that....!
+text But I didn't care.
+text From the time you first called my name, I---"
+bgload BG_45C.jpg
+text Thump.
+text Still crying, Akiha falls against me.
+text "Aki----ha."
+text I put my hands on her slender shoulders.
+text Is that her heartbeat echoing in my ears, or mine?
+text She's so close.
+text Akiha's body is so close to me that I could put my arms around her if I wanted to---
+text ".... You, knew?"
+text Since she was a child.
+text All this time, she knew that I wasn't her real brother.
+text ".... Why didn't you tell me, Akiha?
+text I'm not your brother after all."
+text ~
+text .... A small silence.
+text Akiha looks up.
+text ~
+text ".... Because I wanted to be with you."
+text "If I didn't tell you.. if we stayed brother and sister.. we could stay together.
+text Since I'm not human, since I'm too different from you, we can't stay together....!?"
+text ~
+text Akiha clenches her eyes shut and hits me in the chest.
+text "But---if we were brother and sister, I thought we could still be together.
+text No matter how much you hated me, no matter how much you ignored me, it would be okay if we could just stay together....!"
+text ~
+text Smack.
+text The sound of her hitting my chest again.
+text "Isn't it weird....?
+text I was born into such a powerful family but I wasn't allowed to ask for anything.
+text Since I'm different, since I'm not like everyone else, I was going to be trapped inside this mansion and live without knowing anyone from outside.
+text That's what I was ready for, but you destroyed it all."
+text As if trying to drive out everything she kept inside all these years, Akiha hits my chest again and again.
+text "If Nii-san---if Nii-san didn't show up, I could have lived like that my whole life....!
+text But I became weak and.. and became a liar.
+text I lied to you and I lied to myself.
+text I thought if I kept on lying about us being brother and sister, then I wouldn't want---anything else---"
+text ~
+text ----Hearing this stabs my heart with pain.
+text ~
+text Such a small lie.. but to protect that little lie, Akiha has fought against so much--until finally it became too much, leaving her crying like she is now.
+text "Akiha---I.."
+text "You were my only Nii-san for all this time.
+text I could never accept anybody else as my Nii-san, let alone love anybody else.
+text I can't do anything about this feeling....!'
+text ~
+text Smack.
+text Akiha hits my chest once more and grows quiet.
+text A long silence.
+text "Sorry," murmurs Akiha, momentarily breaking the silence.
+text "-------"
+text My heart stutters at that single word.
+text .... Akiha was alone with her pain all this time.
+text She was in pain because she knew everything--that I was adopted, that I was raised as Tohno Shiki, everything.
+text .... She's now once again that young, black-haired girl who was always crying and apologizing to me when I was a kid.
+text ~
+text ---Come to think of it.
+text ~
+text Akiha was always apologizing to me.
+text A small, nearly infinitesimal happiness for Akiha.
+text Yet she still made up an elaborate story to protect it.
+text That story itself was the barrier pushing her back, but it was also her one source of happiness.
+text "Akiha---I"
+text ".... No, I'm sorry.
+text I've been selfish, but this is the last time, so you don't have to worry."
+text Akiha pushes away from me.
+text She's not crying anymore.
+text The "normal" Akiha is here now.
+text "What do you mean this is the last---Akiha?"
+bgload BG_45C.jpg
+setimg AKI_T11C.png 0 0
+text ".... Look, Nii-san.
+text My hair won't turn back anymore."
+text Akiha looks at me, not sad, but rather letting me take in the truth of this statement.
+text ~
+text .... Her hair remains that dull, bloody red.
+text So.. the Tohno blood is in control of her, just like it was with SHIKI.
+text "What---that's just for now, right....!?
+text Besides, you're still Akiha, so it's not a problem."
+text "No, I know my own body.
+text I know I can't go back.
+text So this is the end of my lie.
+text Nii-san, you shouldn't be close to a monster like me.
+text You should escape this place and live on as Nanaya Shiki."
+bgload BG_45C.jpg
+text Akiha bows her head and steps back.
+text .... I don't know anything about this Nanaya Shiki.
+text I have no attachment to that name now.
+text No, even if I did, such a thing----would be unimportant, compared to Akiha.
+text "---You idiot."
+text I grab Akiha's arms.
+text "Hey---N.. Nii-san...."
+text She pushes back.
+text Always acting so strong.. but always lonely.
+text .... She caught me.
+text Come to think of it, she caught me a long time ago.
+text "Listen Akiha, I don't care what anyone says.
+text I am your brother.
+text No matter what happens, it doesn't matter if we're not related by blood.
+text I'm your brother."
+text ".... Thank you Nii-san.
+text .... But I...."
+text "But!
+text Even if I wasn't, I'd stay beside you.
+text Even if you're not my sister, you're still important to me.
+text I won't let anyone else hurt you."
+text I pull her into my arms.
+text "........ Ah."
+text "I love you as my sister."
+text I hold her tightly.
+text "But.. I love you as a woman even more.
+text Isn't that reason enough to stay with you?"
+text "--------"
+text Her breath catches in her throat.
+text Everything stops.
+text .... I can hear her heartbeat.
+text Our bodies warm up all the way down to our fingertips.
+text ----And then.
+text As if there was never any doubt, we kiss---
+bgload event/AKI_H01.jpg
+text "Oh------"
+text She refuses a bit at first.
+text "Mm, Ah------"
+text But soon I feel her full weight pressing against me.
+text It's just a normal kiss--far from what anyone would call passionate.
+text And yet, it still blows my mind.
+text Akiha's lips are cool and soft.
+text It feels like we might melt into each other.
+text ~
+text My mind stops working as I feel her warm breath against my lips.
+text ~
+text ---I can come up with many reasons why I shouldn't.
+text But.. I want Akiha right now.
+text ~
+text I want to take her trembling body in my arms and make her all mine---
+bgload IMA_10.jpg
+bgload BG_45C.jpg
+text After a long time, our lips part.
+text Akiha still rests her body against mine.
+text ~
+text ".... I'm so happy."
+text ~
+text Her voice is so soft I almost miss it.
+text It was just a kiss, but she really does look happy.
+text "Akiha---"
+text I put my hands on her shoulders.
+text .... It's not that I came up with anything.
+text As if it's the most natural thing in the world, I gently kiss Akiha's neck.
+text "........ Nn."
+text Her body shakes.
+text But not with disgust or rejection.
+text .... Does Akiha feel the same as I do?
+text Maybe, if I'm thinking it's natural to want to touch Akiha, she might be thinking the same thing about me.
+text "Akiha---do you want to do it?"
+text I ask her.
+text I know I could have said it better, but I can't think of anything fancy right now.
+text ".................... Yes."
+text Akiha nods.
+text Just this simple gesture makes me more excited than I've ever been.
+text ".... But Nii-san.
+text Can you do me a favor first....?"
+text "A favor....?"
+text "Um.... I just thought this might be.."
+text She looks down at the tatami.
+text "I see.
+text It would probably hurt on the tatami.
+text .... But what should we do?"
+text .... I don't think I can hold back if she wants to go all the way back to the mansion.
+text If I can, I want to make love to Akiha right here in this room.
+text ".... Nii-san, there's a futon in there...."
+text Akiha points at the closet.
+text "Um.... it's clean.
+text We use it when I get blood from Kohaku."
+text "If that's the case, you should have told me earlier.
+text Hold on, I'll get it."
+text I pull away from Akiha and take the futon out of the closet.
+text I lay it in the middle of the room and turn to face Akiha once again.
+text ~
+text ----And.
+text Akiha sits in front of the futon, placing her fingers on the tatami, and gives me a formal bow.
+text ".... Then, I hope you will treat me kindly, Nii-san."
+text Her face and tone are entirely serious, even though her cheeks are flushed bright red.
+text "---Akiha."
+text I move closer and put my hands on her shoulders.
+text .... Such slender shoulders.
+text I want to see and feel her smooth white skin.
+text ".... Can I take off your clothes?"
+text I move my hands from her shoulders to her waist.
+text And.
+text "Uhh--------!"
+text Akiha shakes herself and looks up at me.
+text ".... No, I can do it myself...."
+text Her voice is shaking.
+text She is probably embarrassed about showing herself to someone else.
+text Akiha stands up and gets back from me as she puts her hands on her shirt's lowest button.
+text "............ Nii-san, Um............"
+text She blushes and looks away.
+text ".... Please don't laugh."
+text Her voice is no more than a whisper as she slowly pulls her shirt off of her shoulders.
+bgload BG_45C.jpg
+setimg AKI_T22.png 40 0
+text Now in her underwear, Akiha looks away in embarrassment.
+text I don't know why.
+text She told me not to laugh, but Akiha's body is more beautiful than anything I've ever seen.
+text "You have nothing to be embarrassed about.
+text Akiha, you're beautiful."
+text I say honestly.
+text This seems to embarrass her even more, and she tenses from head to toe.
+text "Akiha....?
+text You don't want to do it with your brother after all?"
+text ".... No, that's not it.. but.. I...."
+text Akiha continue to look down, covering her chest with both hands.
+text ".... I have small breasts, so I was scared you might not like them."
+text Akiha is blushing so hard that even her ears are turning red.
+text "---!!"
+text .... Man.
+text It had to have taken a lot of courage for her to say that.
+text And yet, she managed to force her words out, looking to me expectantly for a reply.
+text "I see.
+text You have small breasts, huh?"
+text I say this as brightly as I can.
+text ".........."
+text Akiha does not answer, but keeps hiding her breasts with her hands.
+text "I really can't tell like this, though.
+text You'd have to lower your hands and take your underwear off before I could really judge for myself."
+text "Take my underwear off....?
+text Are you telling me to get naked, Nii-san....?"
+text "Well, we can't do it unless we get naked, right?
+text Here, I'll take my clothes off first, would that make it easier?
+text What I can see already is beautiful, so I want to see every last inch of you."
+text "............"
+text Akiha hesitates.
+text Even though she wants to make love, I guess she still has some qualms about exposing herself.
+text .... I can't understand how women think.
+text "Well, I guess it's not impossible to do it like that.. but would it really be so bad to show me your body?"
+text "Uh-----no, it's just embarrassing, and um.... it's not that I don't want to."
+text She answers awkwardly.
+text Her voice is so weak that I can't help but tease her.
+text "Well, I don't really mind if you want it that way, but there's a couple of problems.
+text If we do it like that, your underwear will get dirty and Kohaku-san will definitely be able to tell what happened."
+text "Oh----"
+text I guess Akiha didn't think that far ahead.
+text "I don't have any second thoughts about this, but we're still brother and sister to most people, so if Kohaku-san finds out.. it would be kind of awkward, don't you think?"
+text "Um, yes.. then what should we do, Nii-san?"
+text Akiha shifts nervously from one foot to the other.
+text I can tell that she wants to make love right now rather than risk having Kohaku-san find out.
+text "Well, we should work on trying to keep this a secret.. so we should both get undressed."
+text "Uh---that's what you said in the first place, Nii-san!"
+text "Of course.
+text I told you you're beautiful.
+text There's nothing to be ashamed of.
+text Besides, I really don't care about Kohaku-san.
+text I just want to see your body.
+text But if you don't want to, I'll just go back to the mansion."
+text "Go back---"
+bgload BG_45C.jpg
+text Akiha looks down and lets out a deep sigh.
+text ".... Geez, sometimes you act like a spoiled brat, Nii-san."
+text "I am spoiled, in a way.
+text I may say what I want, but there haven't been many things I've wanted.
+text .... So I guess, this is the first time I've ever wanted something this bad."
+text "-----"
+text Akiha doesn't say anything.
+text But she quietly slips her fingers into the top of her panties.
+bgload IMA_11.jpg
+music ~
+music 05.mp3
+bgload event/AKI_H02.jpg
+text Slowly, she pulls them off.
+text They fall silently to the floor, leaving Akiha's white skin exposed to my eyes.
+text "Is this alright, Nii-san?"
+text Akiha averts her eyes and moves her hands out of the way.
+text "------"
+text I can't say anything.
+text White body.
+text Her body is perfect, and completely unlike a man's body.
+text ~
+text The skin is white, yet bearing a faint tinge of red, as though she is still embarrassed by her nudity.
+text Everywhere I look, I see curves--and not just her waist.
+text Even her legs are sleek and well-toned.. it blows my mind.
+text ".... Nii-san, please don't stare at me like that."
+text ".........."
+text As if I would ever heed that request.
+text Like Akiha said, her breasts are small.. but they are really well suited to the rest of her.
+text Her body is as well proportioned as a doll's.
+text She's perfect in every way.
+text She doesn't need bigger breasts.
+text ~
+text My heart pounds in my chest.
+text I'm sure Akiha's heart is beating loudly too, but my heartbeat would drown hers with ease.
+text "------Ah."
+text My throat loosens enough to let out a low sigh.
+text White skin.. her hair draping down her slender neck.. even though it has a faint hint of red, the beauty of her body is unparalleled.
+text Her sculpted brows quiver with embarrassment, and her eyes clench shut just a bit tighter.
+text Her blushed face, her closed lips,
+text ~
+text her flat stomach, her tempting belly button.
+text .... But more than anything, it's what waits for me between Akiha's legs that truly drives me wild.
+text "Akiha---um, you really----"
+text You really are beautiful.
+text I can't express it with words, but her naked body is so beautiful that I want to yank her into my arms and crush her against me until neither of us can breathe.
+bgload BG_45C.jpg
+text ".... Oh."
+text Akiha blushes and puts a hand over her mouth.
+text It's a different kind of blush than the ones before.
+text "What?
+text What is it, Akiha?"
+text ".............."
+text Instead of answering, Akiha simply stares.
+text "?"
+text I follow her gaze.
+text ~
+text ---And.
+text Akiha is staring at my naked body.
+text .... Not just me, but she is looking at my manhood, which has grown hard from looking at her perfect body.
+text "---Oh."
+text .... I feel uncomfortable.
+text It's not that I'm embarrassed, but it's really awkward to have her see me this hard already.
+text "............"
+text Akiha slowly comes closer, never taking her eyes off of my hardness.
+text .... My towering rod is grotesque and menacing compared to the beauty of her body.
+text "Well, Akiha.. This is, um---"
+text ".... I know.
+text I was just a bit surprised, since this is the first time I've ever seen a man's.. you know...."
+text Akiha stares at me in utter fascination.
+text ".... When I think that this is Nii-san's, it makes me think it's kind of cute.. Ah, what am I saying?"
+text Akiha mumbles as if talking to herself.
+text ~
+text ---And the sound of her voice erodes my restraint.
+text "Akiha---"
+text "Kya---!?"
+text I grab her by the arms and pull her up against me.
+text Finally skin to skin, we share a breathless embrace.
+text My manhood is touching Akiha's stomach.
+text Arm to arm, chest to chest.
+text My groin and Akiha's stomach touch.
+text "Mm...... Ah."
+text Akiha's body moves.
+text My shaft reacts to Akiha's body heat, growing harder still.
+text "Akiha---"
+text I hold her even tighter.
+text The sensation of my rod pressing against her stomach makes me feel hazy and drugged.
+text "Mm.... Nii-san, your body is so hot."
+text We're only holding each other, but Akiha is already breathing hard.
+text .... Just as I'm getting excited from this position, Akiha also seems to be turned on by feeling my hardness against her stomach.
+text "Akiha---I'm going to make love to you now."
+text Akiha nods.
+text "Oh.... but Nii-san.... this is my first time, so...."
+text Embarrassed, she mumbles.
+text She says she doesn't know what to do.
+text "---It's my first time too.
+text Don't worry.
+text I'll back off if it hurts too much.
+text .... So let me lead for now."
+text Akiha mumbles an agreement.
+text ---I can feel her body getting hotter.
+text ~
+text We sit on the futon, still holding each other, and I slowly begin exploring her body.
+bgload IMA_10.jpg
+text I move behind her and gently bite her ear.
+text Putting it between my lips, I carefully saw my teeth back and forth--a kind of foreplay before the foreplay.
+text "------!!"
+text And.
+text Just with that, Akiha's voice stops in her throat.
+text "Akiha....?"
+text "Ha---Ah, mm, Ah....!"
+text My voice doesn't reach her.
+text I just bit her ear.. is that her weak spot?
+text "Akiha, are your ears that sensitive?"
+text "Um---no, it's not that but.."
+text Akiha's body jerks as I nibble her earlobe.
+text .... It's a bit strange.
+text I'm being as gentle as I can, but Akiha seems to be reacting like I'm treating her roughly.
+text Is she this tense because it's her first time?
+text "Akiha, relax.
+text If you're like this when I'm barely touching you, I don't know if you'll be able to take it when we actually do it."
+text "Mm----I.. know---don't worry.. just do what you want, Nii-san---"
+text Akiha leans back against me, still breathing hard.
+bgload event/AKI_H03.jpg
+text "Hmmm---!!"
+text Her back arches violently.
+text All I did was put my hands on her breasts, but she's so tightly wound she's nearly breaking her spine.
+text ".... Wow, they really are small."
+text "Ah...."
+text "But they're soft and firm.
+text See, if I do this, my fingers get pushed right back."
+text Applying some pressure with the tips of my fingers..
+text .... I squeeze her small breasts.
+text "Aaaaaaa......!"
+text Akiha cries out.
+text Her skin molds around my fingers.. her breasts are incredibly firm.
+text "Mm.. Ah.... Nii-san, mmk, please, don't---be.. too.. rough---"
+text Akiha's voice is starting to heat up.
+text Her body has been hot for some time.
+text "---Your breasts really are cute.
+text They're so cute, I think I have to play with them some more."
+text Leaning over her shoulder, I slowly run my tongue across her breast.
+text "Aaaa......!!"
+text Akiha gasps and grabs my hands.
+text "Ah, hwaa---Nii-san, why.. do.. you.. like.. my.. breasts.. so.. much----"
+text Akiha's body shudders.
+text I'm only licking one of her breasts, but sweat is pouring off of her as if she was on fire.
+text "Ha---it's really hot in here."
+text .... I'm not very hot myself, but it definitely feels warmer in here.
+text Probably because Akiha is generating enough heat for both of us.
+text "Nii-san, please don't touch me like that.
+text They're so small.. they're more like a little girl's."
+text Akiha breathes hard and tries to stop me from touching her breasts.
+text "............"
+text Of course, I have no intention of stopping.
+text I squeeze her right breast, which easily fits in the palm of my hand.
+text "---Mm, Huu, Hauaaaaaa....!!"
+text She arches her back.
+text Of course, this makes her breast stick out more, letting me squeeze it even harder.
+text "Ha, ah, ahhh, ahhh, ahhhh....!!"
+text Instead of being soft and spongy, Akiha's breasts have a nice, taut firmness to them.
+text .... Like Akiha said, they are more like the breasts of a little girl than a woman--making them almost painfully cute.
+text "Mm.... N, Nii-san---"
+text "See Akiha, even though they're small, you still like it when I touch them.
+text Your nipples are as hard as rocks."
+text To illustrate my point, I capture her nipples between my fingers.
+text "Naaaaaaaaaaa......!"
+text Akiha's face turns bright red and her entire body shakes.
+text Embarrassment and pleasure fight for dominance in her slender body.
+text ~
+text Squeeze.
+text I continue to squeeze her hard nipples.
+text "Ahh---ha, Ah.
+text Ah.
+text AH-----"
+text ~
+text Nibble.
+text Before she can stop me, I wrap my teeth around her right nipple and bite down.
+text "Nku---!!"
+text Akiha falls onto me.
+text But I continue to bite, driving her crazy.
+text "Ahhh---H,ha, ha,ha, h, ahh----"
+text I pinch her hard nipples over and over.
+text ".... Hah.... Nii-san---please, stop---ah, naaaaaaaaaaa......!!"
+text Instead of stopping, I bite a little harder.
+text Her red hair flies from side to side.
+text Her body is so hot it's almost volcanic.
+text ~
+text ---I pull away for a moment to survey my work.
+text The futon under us is already soaking wet.
+text "Hah, hah, hah, hah---Ah, Nm, hwa-----"
+text .... I'm just touching her, but she acts like I'm already inside of her.
+text ".... Is it good?"
+text "Huh---N,no---Ah, hau----"
+text .... Akiha is breathing so hard I can barely understand her.
+text I can't be sure, but maybe---
+text "I see.
+text If it doesn't feel good when I touch your breasts, I'll just try another place."
+text "Huh---did.. you.. say.. something.. Nii-san?"
+text "I did.
+text I told you I was going to do this."
+text Turning her over, I lick Akiha's back.
+text ~
+text ---Then.
+text "Aaaaaaa-----!!"
+text Akiha arches away as if my tongue is burning her.
+text "Ah---Haaa---Nii-san, what.. are you doing---!?"
+text "All I did was lick your back.. you don't like that?"
+text ".... No, it tickles.. and I'm scared."
+bgload BG_45C.jpg
+text I let my arms fall to my sides.
+text "-----"
+text .... I'm completely speechless.
+text No wonder she screamed so loud when I touched her ear.
+text I guess.. Akiha is more sensitive--much more sensitive.. than a normal person.
+text "Akiha, tell me the truth--do you feel good?"
+text "-----"
+text Akiha's face turns bright red.
+text .... I don't even have to wait for her answer.
+text ".... Man.... I didn't know you were this sensitive.
+text Um.. are you this sensitive all the time?"
+text "Uh---um.... I don't know, but I guess it's different right now.
+text When I think of you touching me, my heart starts pounding really hard and my body gets all hot---"
+text ---Crap.
+text That's so hot I want to shove her down on the futon and finish what I started.
+text But Akiha was just injured.
+text I can't push her past her limits.
+text ".... Akiha, do you want to quit for today?"
+text "What.... Nii-san?"
+text Akiha looks surprised.
+text ".... You don't want to be with me, Nii-san?"
+text "No, how can you even say that!!?
+text I really want to--right now!!
+text But you're so sensitive, I don't know what will happen if I keep going.
+text Plus, you said this is your first time.. I feel like I could break you if I keep g---"
+text ~
+text ---My explanation is cut off..
+text .... because Akiha's mouth has closed over mine.
+text "Nii-san."
+text "Aki---ha."
+text "You told me it would be alright.. so please don't stop."
+text "Akiha---but I.."
+text ".... Please.
+text If you think you'll break me, then break me.
+text I'll endure any pain you give me."
+text Akiha stares directly into my eyes.
+text .... Her unaacering gaze forces me to make up my mind.
+text ".... You're sure it's alright?
+text I don't think I can quit once I start.
+text .... I want you too much."
+text "----I don't care.
+text .... I want you too, Nii-san."
+text Akiha's eyes are watery as she waits for me to make the next move.
+text "Akiha----"
+text If she really wants this.
+text There's no way I can hold myself back.
+text ~
+text I lunge forward.
+text "Ah----"
+text Akiha lets out a sharp cry and falls back on the futon.
+text .... Her heated body.
+text Her heated, sweating body bends pliantly around my fingers.
+text ".... You're already wet enough down here.
+text I guess I don't have to do anything else to get you ready."
+text "Nii-san, why do you---say such embarrassing things?"
+text Akiha blushes.
+text .... Akiha hasn't seemed to have figured out that the reason I say those things is because I want to see her reaction.
+text "Hmm---I better check to make sure.
+text Akiha, spread your legs.
+text I can't see you like this."
+text I grab her tightly closed legs.
+text "Hey---Nii-san, no---"
+text "No more waiting.
+text Let me see you right now."
+text "Kyaa---!?"
+text I grab her ankles and pull her legs roughly apart.
+text "No--please don't look......!!"
+text Akiha tries to struggle, but I hold her firmly.
+text I put my face down close to her delicate pink folds.. and take a deep, satisfying whiff.
+text "!!!
+text W-what are you doing, Nii-san!!"
+text "I'm smelling you.
+text You don't like it?"
+text "Of course I don't like it....!!
+text Besides, you don't have to, because, all you have to do is.. take your and.. mine and...."
+text She's babbling.
+text I guess Akiha only knows the basics of sex.
+text ".... That's true, but you have to do other things first or it'll hurt."
+text .... Although, if she's this wet already, I don't think I'll have to worry about it.
+text "For example, you have to let it get used to being touched.. like this---"
+text I part her delicate lips and slowly extend my tongue.
+text "Ahaaaaaa---!?"
+text Akiha's body nearly shoots off of the futon.
+text "Amazing.. you're just as wet inside."
+text "N-Nii-san, no---it's dirty--"
+text "No--it's not dirty at all.
+text It's warm.. and delicious."
+text ~
+text Lick.
+text I lap up the juices slowly oozing out of her.
+text "Ahh---Nn, fwa.... Ahhhh----!"
+text I up the ante by pushing my tongue inside.
+text "Naa-----Haaaaaaaaaaa........!!"
+text .... Unlike a hard penis, tongues aren't that strong.
+text I can't really fill her this way, so I just move it around, exploring everything within my reach.
+bgload event/AKI_H10.jpg
+text "Ha----nn.
+text Sto.. Nii-san, no, stop----Nha....!!"
+text Akiha's body arches back.
+text Every time she bucks, her red hair dances on her shoulders.. it is possibly the most erotic sight I've ever seen.
+text The wispy hair by my mouth is much thinner than the hair on her head.
+text Below that small thatch of fuzz I spy a small swelling of flesh, its red tip looking as if it simply aches to be touched.
+text ".... Hmm."
+text Obligingly, I give it a soft lick.
+text This point is like the head of a man's penis--far more sensitive than any other part.
+text "---------!!"
+text Akiha's legs tense.
+text "Mm-----Ahhh, haa---n."
+text Her body shakes.
+text With one touch of my tongue, Akiha's beautiful body dances.
+text "Ahaa----Nii-san, I---"
+text Akiha must be feeling too good to think, as she can't seem to focus on me.
+text "........"
+text There's no point in putting it off any longer.
+text Besides, I can't hold on anymore.
+text "Akiha---I'm putting it in now."
+text I lower my hips, leading my head to her waiting entrance.
+text "Urgh-----!"
+text I haven't even put it in yet.
+text I just touched her with the tip, and her body is trembling.
+text .... I don't know what will happen if I put it in.
+text But I want her so bad, I don't think I can stop.
+text "------"
+text As gently as I can,
+text I slowly push myself inside.
+bgload event/AKI_H04.jpg
+text "Ahwaaaaa..........!!!!"
+text Akiha shudders violently.
+text Her breathing grows more and more labored as I ease myself further inside.
+text "Mm, Ah, ah,ah---Ahh, Ah........!"
+text She clutches the sheets, wadding up huge fistfuls of fabric.
+text And her teeth grind as she fights the pain.
+text "Akiha, does it hurt?"
+text "Y---yes.. but I.. can.. still.. stand.. it---"
+text Her answer comes in pieces.
+text "--------"
+text I find my own voice leaving as well.
+text .... She's so tight.
+text Just as Akiha is hurting from me pushing into her, I'm hurting from how tight she is inside.
+text ~
+text It's wet.
+text Yes, it's very wet.. but it's so tight that it's hard to move.
+text It's like her inner walls are trying to push me out.
+text That feeling.
+text Her soft tunnel is snug around my shaft, squeezing me like a fist and almost making me pass out.
+text ".... You...."
+text I was trying to make Akiha comfortable and relaxed until now, and I wasn't THAT excited yet, but..
+text Now that I'm partway in, I'm about to explode.
+text "Shit----"
+text No, not yet.
+text I can't finish so soon.
+text I clench my ass and try to push the rest of the way in.
+text "Nku......!
+text Ou.. Ouch, Nii-san, it's.. too.. big---!"
+text Akiha arches back.
+text My shaft must feel like it's tearing her apart.
+text I'm trying to go as slowly as I can, but it still seems really painful for her.
+text Akiha's movements become rough and erratic as the pain assails her.
+text "Ah---ahh, Aaau, Naaaaaaaaaaaaa!"
+text I push further in.
+text Reaching Akiha's unexplored depths as if I had always been meant to.
+text "Nmm---Ha, Na, Auuuuuuuuuuu!!"
+text Akiha's voice is more like a scream now.
+text But as her pain increases, so does my pleasure.
+text That's how good it feels inside her.
+text ~
+text I sink.
+text I sink my hot shaft slowly into her resisting hole.
+text "Nku.... Ha, ah, ha---Nii-san.. it's.. so hot....!"
+text "This is just the beginning, Akiha....!"
+text She's not the only one feeling hot.
+text It's so hot inside her passage that it feels like I'm going to melt into her.
+text "Akiha, I'm going in---!"
+text I push in a bit more.
+text And I feel something that I can't push through.
+text "Ya------"
+text Akiha's walls keep squeezing me.
+text "Hah----Nii-san---"
+text Akiha grits her teeth in preparation of the pain to come.
+text ".... Akiha, are you sure about this?"
+text "---Yes.. it has to be you, Nii-san."
+text .... I don't need to hear anything else.
+text Trying to make the pain as brief as possible, I surge forward.
+text "----------!"
+text Her body jerks.
+text Akiha's ass grinds back against the futon in a futile attempt to escape the pain.
+bgload event/AKI_H05.jpg
+text "Nm---Ah, Nku, Haa----!"
+text I feel something slimy running down my thigh.
+text The liquid flowing from Akiha now has a faint red tinge mixed with it.
+text But I keep moving.
+text ~
+text I push in.
+text ~
+text "-----!
+text Ah, ah, ahhhhhhhh---!"
+text Akiha's stomach bulges a bit.
+text Proof that I am now deep inside of her.
+text "Hah, hah, hah, hah, hah---"
+text I move my hips back and forth, loving every noise our joined bodies make.
+text "Aj---Ah, auuuuu!"
+text I can't hear Akiha.
+text She must still be in pain.
+text It has to be more pain than pleasure for her right now.
+text "Hah, hah, hah, hah----"
+text .... But it's the exact opposite for me.
+text The more it hurts for Akiha, the tighter her passage grips me.
+text ~
+text There's no way..
+text .... no way I can stop myself now.
+text "Nn......!
+text Nii-san---!"
+text I move.
+text "Sto---Nii-san, it hurts-----!"
+text I keep moving.
+text ~
+text It's so soft inside her.
+text It's warm, and tight.. and I feel like I could explode at any second.
+text "Ah, Nha--Aaaa, aa---!"
+text I hear Akiha.
+text .... And I finally realize something.
+text She has tears in her eyes.
+text "Ku------!"
+text But I still can't stop.
+text I thrust in harder.
+text Then----
+text "Nku....!
+text Hah, fwa, Nii-san---I, I----!"
+text Akiha's back arches like a bow.
+text She squeezes me so tight I can hardly move.
+bgload IMA_11.jpg
+text "----Ku, A........!"
+text I've reached my limit.
+text As Akiha falls back on the futon, I know that I can't contain myself for even one more second.
+text I quickly pull out of her spasming walls.
+text ~
+text Splash.
+text My seed splashes out.
+text Instead of going inside of her, it sprays all over Akiha's gorgeous body.
+bgload BG_45C.jpg
+text "Ha.... A,ah----"
+text Akiha's arching spine finally relaxes.
+text She slumps weakly on the futon.
+text Her red hair spreads all over the tatami, looking like a fatally wounded, but achingly beautiful animal.
+text "Hah----hah----hah----"
+text Though I'm not as bad as Akiha, I still have trouble getting my breath to calm.
+text Akiha---lies still on the futon, still flushed.. and with tears still glittering in her eyes.
+bgload event/AKI_H06.jpg
+text .... I hope it's only from the pain of losing her virginity.
+text The tears are still there.
+text ".... Nii-san, you did it outside."
+text Akiha's voice and expression are dream-like and hazy.
+text Her body is covered in my essence.
+text Akiha does not seem to care, making no move to clean herself as she lies still on the futon.
+text "Akiha.... does it still hurt?"
+text "Uh----Yeah, a little, but I'm alright now."
+text ".... I see.
+text Sorry.
+text I told you I was going to be gentle, but you were just too cute---"
+text I just did it all for myself.
+text ".... No, it's alright.
+text It did hurt, but I was more happy.
+text Now, even if I have to die I---have no regrets."
+text "W---what are you saying......!
+text I told you I don't care which 'Akiha' you are.
+text I don't care if your hair stays red.
+text If you want blood, I'll give you all you want.
+text I want to be with you when you're in pain.
+text .... Besides, I haven't had enough of you.
+text I want to be with you more.
+text So don't say things like that.
+text Aren't we going to be together from now on?"
+text "Nii-san-----"
+text Akiha doesn't say anything.
+text ~
+text .... For a while,
+text only our body heat passes between us.
+text Until.
+text "Nii-san, can you do your cute little sister just one favor?"
+text Akiha speaks brightly.
+text "Yeah, okay.
+text I'll do anything I can."
+text "Thank you.
+text Then please promise me this: If I ever turn into something.. else, please kill me with your own hands."
+text Just like that.
+text She says it like it's nothing.
+text "Wha----"
+text I can't speak.
+text I---don't see why she has to bring that up right now.
+text ".... What do you mean?
+text Do you think I'd make that kind of promise?"
+text "Yes, because you're the most important person in my life.
+text It's natural to have the one you love most next to you when you die, isn't it?
+text Or are you planning to skip out on my funeral, too, Nii-san?"
+text "Wha----that has nothing to do with what we're talking about."
+text "It's no different.
+text .... Nii-san, my hair might not go back, but that's not a big problem.
+text .... What I'm afraid of is that I'll go insane like SHIKI.
+text Father became mentally ill at the age of forty.
+text So if I live on, I might become like that too."
+text ".... That wouldn't happen.
+text And even if it does, it's a long time from now.
+text Besides---if it does happen, I'll---"
+text ".... Thank you, but anybody with the Tohno blood in their veins will die when it happens.
+text When the Tohno blood grows too strong, you kill yourself.
+text .... That's how it's been all along.
+text If you've completely changed, you can't go back unless you die.
+text Everyone who has changed has gone insane.
+text I wouldn't even know myself, and I'd cause pain to anything I laid my eyes on.
+text .... What's scary about it is that you can't even kill yourself when you get like that."
+text "---So Nii-san..
+text I have to ask the person I love the most.
+text Because I trust you more than anyone.. because I only have you, I can only let you take care of me.
+text I don't want to cause suffering to someone I don't know while I'm out of my mind.
+text If I did that, the old Tohno Akiha would be completely destroyed."
+text "Akiha---that's...."
+text ".... So kill me.
+text One day, when I've completely changed, if you still love me.. kill me--for my sake, if no one else's.
+text Before I do something I'd regret, so that I can stay myself even then.
+text While I am still just your sister."
+text "-------"
+text .... I grit my teeth.
+text This is why she was crying.
+text Not because she's happy about us being together right now.
+text But because one day..
+text She knows that one day in the future, this happiness is going to be nothing but a memory.
+text That's why she's crying.
+text "You-----"
+text .... I feel anger welling up inside of me.
+text How can she say things like that so easily?
+text ~
+text "You idiot-----"
+text Anger at the Tohno blood for forcing such a fate on her.
+text ~
+text "Why do you have to------"
+text Anger at myself for not promising her, even if it turned out to be a lie----
+bgload IMA_10.jpg
+bgload event/AKI_H07.jpg
+text "Hmmm----!?"
+text I kiss her.. hard.
+text Our third kiss is not one of love.
+text It's a wild kiss to quiet her down.
+text "Akiha--------!"
+text Unlike the previous kiss, it is deep and passionate.
+text "Ha-----Mm------"
+text Akiha is a bit hesitant at first, but finally extends her tongue, letting it brush against mine.
+text Our tongues dance as our saliva mixes and flows together.
+text The feeling of her snakelike tongue makes rational thought impossible.
+text .... It feels like our tongues are melting into each other.
+text Being with her feels so good that it even seems like my tongue is in my way.
+text My skin, my mind, even the fact that I'm human gets on my nerves.
+text "Mm........ Nii-san......"
+text It must be the same for her, as she swallows my saliva and replaces it with her own.
+text Gulp.
+text Instead of melting into each other, we settle for exchanging saliva.
+text Akiha sucks wildly on my lips.
+text "Ha--Nn, ku-----"
+text I breathe hard.
+text Like Akiha's before, my head goes blank.
+text ~
+text .... Really.
+text I'm furious about what she said.
+text "Mm.... Ha........"
+text I let her mouth go.
+text She takes a deep breath.
+text ".... Nii-san....?
+text What is it?
+text We were just talking."
+text "I don't want to talk anymore.
+text I'm too mad right now."
+text I lift her body off the futon.
+text "Nii-san---?
+text What are you mad about?"
+text "A lot of things--like your pessimistic attitude.. not being able to laugh it off, everything.
+text But what really pisses me off is that you were thinking about dying when I was trying so hard to please you."
+text "What---?"
+text "It wasn't that good for you after all, huh?
+text I'm so mad that I'm going to make you feel good!"
+text With that, I bury my face between her breasts.
+text I don't know if she really liked it the last time.
+text But I still put my mouth there and suck.
+text "Nmmm-----!"
+text Akiha jerks back.
+text "N-Nii-san---I did feel good when---Naaa!?"
+text I rub around her waist.
+text She averts her eyes from just that.
+text "Ah----Nii-san, are.. we.. still going.. to.. do.. more---?"
+text "We are.
+text I bet your body's used to it.
+text You'll feel much better this time.... I'm going to do it until you can't think about anything else!"
+text "What.... do you mean that, Nii-san....?"
+text "Yeah, I'm mad.. so I'm not going to be gentle like last time."
+text "No, I mean.... is it really going to feel better this time....?"
+text .... She blushes in spite of what she's asking.
+text "---Didn't it hurt last time?
+text I thought you didn't want to do it again because it hurt you so much."
+text "Well...... it did hurt, but it also felt good.
+text .... I thought sex was supposed to be like that, but---"
+text ~
+text Am I wrong?
+text Her eyes ask.
+text She's so cute it makes me smile.
+text "It only hurts in the beginning.
+text Then it just feels good.
+text So if I do this---"
+text "-----!!"
+text I raise one of her legs and put my hands on her hips.
+text Then---I pull her hips down on my lap.
+text "N-Nii-san----?"
+text ".... Akiha, I love you."
+text I tell her.
+text "So I'll do anything you want me to.. but lay off the crap you were talking about earlier.
+text I want to be with you as long as I live."
+text "Oh........"
+text ".... Come on.
+text I'll make it feel so good you won't even think of something like that again."
+text "Nii-san----"
+text In this position,
+text it's easy for me to put it into her.
+text There's no reason for me to go easy on her now.
+text Holding her tightly against my lap, I push further up inside of her.
+bgload event/AKI_H08.jpg
+text "Nhaa--------!?"
+text Akiha arches back wildly.
+text I don't put it in slowly like earlier.
+text I just push it in as hard as I can.
+text "Ha----Ah, Nii-san, it hurts---!"
+text Akiha puts her arms around my shoulders.
+text I ignore her complaints and pull out.. but only far enough to ram myself back in.
+text "-----!"
+text Jerking motion.
+text My shaft pushes easily into her wet tunnel.
+text "Mm---Ah, Ha, Nm, Ah----"
+text This position reaches deep into her, making her shake all over.
+text "N-Nii-san----You.. lied....!!"
+text Akiha is panting so hard I can barely understand her.
+text "You.. said.. it wouldn't.. hurt.. anymore---"
+text She sounds a little upset.
+text But she's hotter inside than ever before, and her juices are practically pouring onto the futon.
+text "I'm lying?
+text So you're telling me it.. doesn't feel better than last time?"
+text "Nha-----!"
+text I push up again.
+text As hard as I can.
+text ".... Ha.... mm, ah, nn---"
+text Her arms tighten around my shoulders.
+text Once I'm all the way inside, I stop moving so that she's not entirely out of it.
+text She's breathing hard, just from having me inside her.
+text "Nii-san, this, position---"
+text "Yeah, it's really embarrassing, isn't it?
+text What do you think people would say if they saw you in a position like this?"
+text "--------"
+text Akiha's face turns bright red.
+text "N-Nii-san....!
+text If you know I don't like it, please let me down....!"
+text Akiha tries to pull away.
+text But I have no intention of letting her go.
+text ".... Akiha, I'm going to do it just like this.
+text Hold on to me if you don't want to fall over....!"
+text "Wha---Nku!?"
+text I grab her waist.
+text With one hand, I raise her legs even higher.
+text Her body arches back, but that only makes it easier for me to move.
+text "Mm.
+text Aahhhhhhhhh----!"
+text In this position, Akiha might be feeling good just from me putting it in.
+text "Akiha-----!"
+text That's the signal.
+text I pull out, then quickly push back in.
+text "Ou--!
+text Nii-san, ple-please stop---!"
+text Akiha cries louder.
+text But not loud enough to make me stop.
+text ~
+text Making a lot of noise,
+text I keep thrusting.
+text "Hi---Fwa, ah, au, hauuuu!!"
+text Akiha tightens around me.
+text "Ah---Nii-san, Nku, I---!"
+text As I push up.
+text "What---it feels, fn, mm, aahhhh........!"
+text I feel her heat.
+text ~
+text I can hear the wet sounds rising between us.
+text Akiha's fluids leak out.
+text "It----It hurts, but---"
+text Squeeze.
+text Akiha's arms and insides clutch at me.
+text "Ha, fwa, ah, ah-----!"
+text I push as far into her as I possibly can.
+text Akiha's body jerks with every thrust.
+text "Nii-san---it's.. so good."
+text From anger or joy, I'm not sure which..
+text .... Akiha starts to cry.
+text ".... It's.. really.. different---!"
+text Akiha holds me tighter, moaning raggedly as I continue to move.
+text "Hah, hah, hah, Ah---"
+text Like Akiha, I can't keep myself from groaning with pleasure.
+text Of course it's different this time.
+text I'm going as hard as I can, and she's different inside, too.
+text "Mmm---Akiha, I'm going to go.. harder---!"
+text As I keep pushing in and out of her, I look for ways to make it better.
+text It's already tight inside of her.
+text Her walls suck and pull as my shaft goes in and out of her, seemingly trying to keep me inside.
+bgload IMA_11.jpg
+bgload event/AKI_H09.jpg
+text "Nm---Nii-san, I---!!"
+text "---........!!"
+text Every stroke feels better than the last.
+text Her body is so hot my mind shorts out just from touching it.
+text I wonder---if it's as good for her as it is for me.
+text "-------"
+text Unconsciously, I caress her perfect ass.
+text As my fingers roam over her firm skin, I tentatively ease her cheeks apart.
+text "Hya-----!?"
+text Akiha jumps, not backward, but straight up.
+text "Nii-san, not-----there----!"
+text .... Slowly, I push my middle finger into her tight anus.
+text "Nm, mmmmmm!!"
+text Everything tightens up.
+text Her clenching muscles feel as if they are trying to break my finger.
+text "N-no, Nii-san, please---stop, Nku......!"
+text In spite of her words, Akiha's body is writhing with delight.
+text "Ha----Nn, ah, ahn, ah, fua---!"
+text Maybe it's because she is so wet,
+text but her pain is entirely gone, leaving only pleasure behind.
+text "Gu----!"
+text I keep moving my hips.
+text On and on, in and out.. as if this moment could keep going forever.
+text "Ah, Nha, ah, ha----!"
+text Akiha's body shudders.
+text Her arms wrap around me.
+text "Nm, ha, ha, haa, haaa-----!"
+text Her hair tickles me everywhere it touches.
+text Unable to resist, I bite down on one of her cute little nipples.
+text "Ha-----Aahhhh, Nii-san---!!"
+text The continual stimulation of my driving shaft coupled with my attack on her nipple.. seems to be too much for Akiha to take.
+text ~
+text With a weak moan, she lets go.
+text And collapses onto the futon.
+bgload IMA_10.jpg
+bgload event/AKI_H12.jpg
+text "----"
+text I lay on top of her, following her down.
+text So instead of having to push up, we've returned to the most basic of positions.
+text "Nn----Akiha-----"
+text I brace myself over her and keep on moving.
+text She isn't the only one out of control.
+text I'm so driven by pleasure that I can't think of anything but coming.
+text "Nn, fuaaaa------!"
+text Akiha gets no respite from my frantic thrusting.
+text Her eyes and lips are sticky with tears and saliva.
+text "Nii-san, I.. I.. no----!"
+text Her arms wrap around my back.
+text Honestly, I'm at my limit.
+text "Akiha---I'm going to......!"
+bgload event/AKI_H10.jpg
+text "Mm, mm, mmmmmmmm......!!"
+text Akiha doesn't hear me.
+text Her mind is on the constant, unyielding pleasure I'm giving her.
+text "Ha, ah, ahh, aahhhhhhhhh..!!"
+text "Nn---!!"
+text ~
+text Push.
+text I put all my power into one, final stroke.
+text "Fwa, ah, ah, ahhhhhhh----!!"
+text Akiha's body arches back.
+text "Ha----a."
+text I feel it.
+text I'm about to explode.. my hot sperm is about to erupt, sending everything I am shooting into Akiha.
+text "Kua----"
+text I try to pull out like I did earlier.
+text ~
+text ---Then.
+text ~
+bgload IMA_11.jpg
+bgload event/AKI_H11.jpg
+text "Nii-san----!"
+text Akiha grabs hold of me.
+text "Please---stay like this......!"
+text "Akiha----"
+text Her arms wrap tight around my back.
+text I can't refuse.
+text "---I'm gonna come, Akiha!"
+text "---Yes---inside me......!!"
+text ---I've passed the pinnacle.
+text With an animalistic growl.
+text "----!!"
+text "Naaaaaaaaa....!!"
+text ~
+text I come.
+text Akiha shivers with each jet of sperm I shoot deep inside of her.
+text Unconsciously,
+text her arms tighten their hold on me.
+bgload IMA_11.jpg
+music ~
+bgload BG_45C.jpg
+text "Ah-----Ah, ah."
+text Completely spent, I practically fall on top of her.
+text "Ha.... hah, hah, hah----"
+text I can hear her panting in time with mine.
+text "Aki-----ha."
+text I hold her.
+text We're both shuddering and coated with a film of sweat, but I don't care.
+text "........ Was it.. good.. this time..?"
+text "---------"
+text Akiha can only nod.
+text ~
+text .... With that, I really am drained.
+text I fall onto the futon and close my eyes.
+bgload IMA_10.jpg
+text .... It might be because I was moving nonstop since yesterday.
+text I am really sleepy.
+text ~
+text ".... Nii-san....?"
+text I hear Akiha's voice.
+text But I don't have the energy to reply.
+text ".... Are you going to sleep?
+text Hey, Nii-san?"
+text .... I told you I don't have the energy to reply.
+text Can't you just let me sleep, Akiha?
+text ".... Well, yeah, but.. can I sleep with you....?"
+text .... I don't mind.. but don't you want to wash up?
+text I would think you'd want to take a shower or something.
+text ".... You want me to go wash myself?
+text Alright, I'll go.
+text Wait here.
+text This bathroom still works."
+text ~
+text .... Akiha's body moves away from mine.
+text And I fall into a deep sleep.
+music 09.mp3
+text ".... Nii-san, please don't forget about our promise."
+text ~
+text I can hear a voice.
+text ".... There are worse things than death.
+text So---please keep our promise."
+text ~
+text I can hear a voice, even though I'm asleep.
+text "I'm sorry.... I have to say this.
+text But sometimes, death is the only salvation."
+text ~
+text This must be a dream.
+text "I do not want to trust anyone else.
+text So please---don't forget, no matter what happens."
+text ~
+text .... What a bad dream.
+text I'll never be able to forget it.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text If I could,
+text I wish I could forget it---
+music ~
+bgload IMA_11.jpg
+text "Nii-san, wake up, Nii-san."
+text ~
+text ---I hear Akiha's voice.
+text ~
+text "Nii-san, Nii-san.
+text You have to wake up.
+text You can't be sleeping when the sun's about to set."
+text ~
+text ---Weird.
+text I can hear Akiha's voice.
+text ".... Oh, that's enough.
+text How can you sleep so like that when I want you to wake up!?"
+text ~
+text ---Someone squeezes me.
+text Instantly, I'm awake.
+bgload BG_45B.jpg
+music 03.mp3
+text "Ouchhh......!"
+text I wake to a sharp pain in my arm.
+text ---Then.
+text ~
+bgload BG_45B.jpg
+setimg AKI_T21C.png 0 0
+text "Oh.... Good morning, Akiha."
+text "................"
+text Akiha looks mad, and I can tell she has something to say.
+text .... From the shape of the red mark on my arm, the pain I felt was her pinching me.
+text "Akiha, that really hurts!
+text What did you do?"
+bgload BG_45B.jpg
+setimg AKI_T03C.png 0 0
+text "Nothing.
+text You wouldn't wake up, so I gave you a little pinch."
+text "You didn't have to do that, I would have woken up if you had just said to."
+bgload BG_45B.jpg
+setimg AKI_T18C.png 0 0
+text Uh.. Akiha is staring at me in disbelief.
+bgload BG_45B.jpg
+setimg AKI_T21C.png 0 0
+text "Really, Hisui was right.
+text You don't remember anything when someone tries to wake you up."
+text "What---did you try to wake me up just now, Akiha?"
+bgload BG_45B.jpg
+setimg AKI_T03C.png 0 0
+text "Yeah, I called your name a bunch of times and--you don't even remember, do you?"
+text "Um.... Yeah, I'm sorry but I don't remember."
+bgload BG_45B.jpg
+setimg AKI_T18C.png 0 0
+text "I understand.
+text Next time, I'll get right to hitting you.
+text If you don't want that to happen, try to wake up on time."
+text .... I guess I left her alone too long while I was sleeping.
+text Seeing how mad she is, I'd guess she's been up for more than an hour.
+text ".... Geez, I can't help it.
+text I was tired from everything that happened yesterday.
+text I was attacked by you at school, and when I came home, I had to fight SHIKI, then I had to look after you, and then.. you know.. 'that'.
+text I should be sleeping all day after all that."
+bgload BG_45B.jpg
+setimg AKI_T24C.png 0 0
+text "'That'?
+text Nii-san------"
+bgload BG_45B.jpg
+text Seeming to recall what we did, Akiha blushes.
+text .... She is so cute.
+text Seeing that blush makes me want to tease her even more.
+text "What?
+text You were holding on to me so tight.
+text Don't tell me you didn't like it....?"
+bgload BG_45B.jpg
+setimg AKI_T24C.png 0 0
+text "Um---uh, um----well."
+text She mumbles while looking down at the floor.
+text "It's alright.
+text If you don't like it, I won't force you to do it.
+text I guess we can just have a 'pure' relationship from now on."
+text "Um...... Nii-san, I, well----"
+text "What, I don't understand what you're trying to say."
+text .... Crap.
+text I can't hold a straight face.
+text Just looking at her makes me want to burst out laughing.
+text "Um.... but it's not that I dislike it, but.."
+text "Oh, I see.
+text So you don't really like it then?
+text Okay, I'll restrain myself from now on."
+bgload BG_45B.jpg
+setimg AKI_T16C.png 0 0
+text "Oh---but, I guess.. I do like it, but---"
+text Akiha looks away as she answers.
+text "I see, but you keep saying 'but'.."
+bgload BG_45B.jpg
+setimg AKI_T13C.png 0 0
+text "I.. I can't help it.
+text I couldn't think back then.
+text I couldn't really tell if it was good or bad."
+text "Alright, then let's do it again to find out for sure.
+text I want to take off your clothes myself this time."
+bgload BG_45B.jpg
+setimg AKI_T24C.png 0 0
+text "Oh----------"
+bgload BG_45B.jpg
+text Akiha stares at me with her cheeks blazing.
+text .... After she stares at me for a second, she purses her lips and shakes her head.
+bgload BG_45B.jpg
+setimg AKI_T12C.png 0 0
+text ".... Nii-san, please put your clothes on.
+text It's almost sunset and we have to go back to the mansion."
+text "It doesn't matter.
+text This is part of the mansion.
+text I want to stay here with you all day.
+text Or don't you like that idea?"
+bgload BG_45B.jpg
+setimg AKI_T13C.png 0 0
+text "No, I feel the same way!
+text .... But I was thinking that it hurts here and I want to do it on a real bed......"
+text Even though her voice is a bit angry, what she's saying is so cute.
+text It makes me want her even more.
+text "---Alright, fine.
+text To be honest, I was thinking when I was watching you recover that I wanted to sleep in that bed with you."
+bgload BG_45B.jpg
+setimg AKI_T24C.png 0 0
+text "............"
+text Akiha nods.
+bgload BG_45B.jpg
+text ~
+text ---Alright, let's hurry up.
+text Let me get my clothes on and we'll go back to the mansion.
+bgload IMA_10.jpg
+bgload BG_54B.jpg
+text We leave the detached building and make our way into the garden.
+text Like Akiha said, the sun is setting and the garden is filled with red.
+text ~
+text "---Hey Akiha, what do you think Kohaku-san is doing?"
+bgload BG_54B.jpg
+setimg AKI_T16C.png 0 0
+text ".... Hmm, well.
+text Kohaku.... might have figured it out.
+text She's usually a little oblivious, but sometimes, she's really cunning---"
+text "........ Hmmm."
+text .... It doesn't feel like I did anything wrong, but still.. talking about this feels a bit awkward.
+text Knowing Kohaku-san, she might actually be happy and congratulate us, but I have no idea how Hisui will react.
+text ~
+bgload IMA_10.jpg
+bgload BG_54B.jpg
+text "---Huh?"
+text Just slightly,
+text I feel a headache.
+text "Cu........"
+text I stop.
+text Akiha keeps walking.
+text ~
+text "Akiha, hold on a sec----"
+text ~
+text I call out to her.
+text She turns around.
+bgload BG_54B.jpg
+setimg AKI_T15C.png 0 0
+text That face.
+text Before I can stop myself.
+music ~
+text ~
+text ~
+text ~
+bgload IMA_11B.jpg
+bgload BG_54B.jpg
+sound SE_06.aac 1
+text I fall to the ground.
+sound SE_01.aac 1
+text "Nii-san----!"
+text Akiha runs toward me.
+text But she never makes it.
+text Because she is stopped by.. him.
+text ~
+text "SHIKI--!!
+text You!!
+text How dare you do that to Nii-san....!!"
+text ~
+text Akiha lashes out, but she can't break his hold.
+text That guy.... SHIKI, grabs Akiha's neck and starts to squeeze.
+sound SE_01.aac 1
+text "Ah-------"
+text After several frantic seconds, Akiha's head nods forward.
+text SHIKI holds her unconscious body and looks down at me contemptuously.
+bgload BG_54B.jpg
+setimg HAL_T02.png 33 0
+sound SE_02.aac -1
+text ".... You did it.
+text You really took everything from me."
+text If curses were real, they would probably sound just like that.
+text ~
+text SHIKI looks down at me, his teeth gritting.
+text .... I can't move.
+text My energy seems to be escaping through my back.
+text There's only a little pain.. pain and the certainty that I might die here.
+text I can feel my shirt slowly being soaked with my own blood.
+text ~
+text In my back.
+text A knife is planted like some kind of alien wing.
+text "SHI...... KI"
+text "Don't misunderstand, Shiki.
+text Akiha doesn't really love you.
+text She loves her 'brother'.
+bgload BG_54B.jpg
+setimg HAL_T03.png 33 0
+text Yeah---for that I may have to thank you.
+text Isn't that right, Akiha?
+text Please forgive me for being such a weakling.
+text I never realized how much you loved me.
+text If I was smarter, you wouldn't have had your purity taken away by such a pathetic loser."
+text .... SHIKI puts his face near Akiha.
+text Since she's unconscious, she can't resist.
+bgload BG_54B.jpg
+setimg HAL_T01.png 33 0
+text ".... Yes, it doesn't matter if we're brother and sister.
+text I love you more than anything."
+text SHIKI walks toward me, still holding onto Akiha.
+text "This time.. this time, I'll make sure to kill you so you won't come back, Shiki.
+text Akiha has this strain on her body because she's keeping you alive."
+text ".... Strain.... on her, body....?"
+text "Oh?
+text You didn't know?
+text Akiha kept you alive back then by giving you half of her life force.
+text Haven't you ever wondered about it?
+text No human can survive with a hole that big in their chest."
+text "Eight years ago that day,
+text Akiha regenerated you by giving you half of her life.
+text She's supplementing the life I took away from you with part of her own.
+text There's no way you could have survived if it wasn't for that."
+text ~
+text ---Sharing.. her.. life?
+text ~
+text "That's why Akiha can't manage her own body.
+text She's suffered all this time.. for you.
+text As long as you live, she'll keep on suffering.
+text ---I will alleviate that suffering now."
+text SHIKI walks toward me.
+text My body will not move.
+text I can feel myself starting to black out.
+bgload IMA_11.jpg
+text ---Half of her life.
+text ~
+text .... I hear the sound of a sword sticking into the ground.
+text SHIKI screams.
+text ~
+text ---The reason for Akiha's spasms in the old man's diary.
+text ~
+text "---Tohno-kun.
+text I'll treat you right away--hold on....!"
+text ~
+text ---This body.. this body that should have died.
+text ~
+text .... Someone lifts me up.
+text And takes me somewhere.
+text .... But I can't care about what's happening now.
+text ~
+text ---What an ugly truth to have to face.
+text It turns out that I..
+text ~
+text I was the reason Akiha has been suffering all this time----
+bgload IMA_10.jpg
+sound ~
+jump s375.scr

@@ -1,0 +1,1083 @@
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg KOHA_T01A.png 52 0
+text "Shiki-san, I hate to ruin your fun, but would you like some breakfast?
+text It is almost time, so I thought I should make some."
+text "Oh, I forgot.
+text .... I'm not so much hungry as I am thirsty though."
+bgload BG_34A.jpg
+setimg KOHA_T04.png 52 0
+text "Oh, that won't do, Shiki-san.
+text You collapsed yesterday so you need to eat to regain your strength.
+text Even if you don't feel like eating, you should have some food."
+bgload BG_34A.jpg
+text "Uh...."
+text What she says is true, but I just don't feel like it right now.
+text After seeing that dream, I can't bring myself to eat.
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+text ".... Nee-san.
+text If Shiki-sama does not feel well, I do not think you should force him."
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T04.png 116 0
+text "Hisui-chan, you are too indulgent when it comes to Shiki-san----huh?"
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+setimg KOHA_T09.png 116 0
+text "Shiki-san, you're not feeling well again this morning?"
+text Kohaku-san stares at me.
+text As if on cue, Hisui and Akiha add their serious stares on me as well.
+text .... I guess I really can't go on fooling myself.
+text "---To tell the truth, I do feel a little under the weather.
+text I can eat, but could you make it something I don't need to chew?
+text I feel pretty bad, and I can't really taste anything."
+bgload BG_34A.jpg
+setimg HIS_T01.png -2 0
+text After telling the truth, Kohaku-san says "Oh, I see," and looks a little downcast.
+text .... As the one in charge of cooking, she probably feels something about what I said.
+bgload BG_34A.jpg
+setimg HIS_T04.png -2 0
+text ".... Um, Shiki-sama?
+text I think you are not feeling well because there was a change in your environment.
+text So, if the mansion is not suitable for you, maybe you should go back and live with the Arima family for a while....?"
+text "............"
+text Hisui's opinion is driven by a sincere concern about my health.
+bgload BG_34A.jpg
+text .... Ever since I came back, my life has been strange.
+text Since that promise from eight years ago has apparently been forgotten; maybe it's better for my health if I go back and live at the Arimas.
+text ".... Yeah.
+text That may be good too.
+text Although I've only been here for a week, if I don't seem to get used to it soon, I'll leave for a while and go regain my health."
+text "Well, that may be jumping the gun a little bit," I add.
+text ~
+text ---And then.
+text Suddenly, Akiha stands up from her sofa.
+bgload BG_34A.jpg
+setimg AKI_T09.png 40 0
+text "Oh, that will not do, Nii-san.
+text You finally came back, so please do not leave again.
+bgload BG_34A.jpg
+setimg AKI_T08A.png 40 0
+text If you say you are going to leave one more time, I will kill you, Nii-san."
+bgload BG_34A.jpg
+text Akiha smiles as she says that joke and disappears towards the lobby.
+bgload BG_34A.jpg
+setimg KOHA_T03.png 52 0
+text "Hisui-chan.
+text It's time for Akiha-sama to go to school, please accompany her to the door.
+text I'll be taking care of Shiki-san's breakfast."
+text With a simple "yes", Hisui walks after Akiha.
+text "Well then, I'll make you something easy for you to eat.
+text Please wait just a moment."
+bgload BG_34A.jpg
+text Kohaku-san walks quickly toward the kitchen.
+text "-------"
+text I sit on the sofa, dumbstruck.
+text ~
+text ---I will kill you, Nii-san.
+text ~
+text .... Those words won't leave my head.
+text It's probably because even though it was a joke, it didn't sound like a joke to me.
+bgload IMA_10.jpg
+music ~
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text ---Noon arrives.
+text As usual, Arihiko is skipping school.
+text ~
+text "I guess I'll go to the cafeteria."
+text I don't feel like eating by myself here.
+text Maybe if I go to the lively cafeteria, my appetite may pick up.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text As expected, the cafeteria is full of people.
+text After waiting in a long line, I buy the tried and true meal set A and walk to a table.
+text Listening to the voices of everyone else, I begin to eat.
+text ~
+text ----And then.
+text ~
+text For a moment, I see a terrible image.
+text "....?
+text Is it the television screen?"
+text I gape at the large television mounted on the wall at the end of the cafeteria.
+text At my school, they record the morning news and replay it at lunch.
+text I just stare dumbfounded at the news broadcast that is several hours late.
+music 04.mp3
+text "----No way.."
+text I watch the news in amazed horror.
+text Shown in the television is the alley that I saw last night in my dream.
+text The newscaster is talking.
+text On the screen, the words "Vampire Serial Killer's New Victim" appears in bloody lettering.
+bgload IMA_11B.jpg
+bgload BG_50.jpg
+text .... It appears that the girl was saved.
+text The girl is in the hospital recovering from having her blood drained.
+text She is still unconscious.
+text Chances of recovery are unknown.
+text .... The identity of who attacked and stole her blood is also unknown.
+text The picture of the girl on the television is unmistakably that girl from last night.
+text ~
+text ---That means there's one thing that isn't unknown.
+text The criminal who attacked her is, without a doubt----
+bgload IMA_11B.jpg
+bgload BG_50.jpg
+text "------"
+text I start to feel faint.
+text "How...... come?"
+text That was a dream.
+text It had to be a dream.
+text But in reality, the same person in my dream, had her blood sucked out the same way in my dream.
+text "That vampire should be gone already."
+text I killed Yumizuka with my own hands.
+text Those killings, they shouldn't be happening anymore.
+text "I----killed?"
+text Yes, I killed.
+text Just like the time when I killed Yumizuka.
+text While breathing hard, last night, that woman I've never met---
+bgload IMA_13.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Didn't I tell you, Shiki-kun?
+text It's useless to resist it.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text What are you talking about?
+text You're more of a killer than I am.
+bgload BG_50.jpg
+text "Ugh---"
+text Resisting the urge to throw up, I get up from my seat.
+bgload IMA_10.jpg
+text ~
+text I can't go back to class.
+text I find myself running into the city.
+bgload BG_31A.jpg
+text ---I come to the place I saw in my dream.
+text ~
+text There are several policemen around the area, and tape reading "Police Line Do Not Cross" is stretched across the alley.
+text "---Exactly the same."
+text Without a doubt, this is the place I went to in my dream.
+text ---No, it wasn't a dream.
+text I can't delude myself into thinking it is a dream any longer.
+text "......"
+text Even if I stay here longer, the cops will only stare at me.
+text .... I can't go back to school now, so I guess I'll go back to the mansion.
+bgload IMA_10.jpg
+music ~
+bgload BG_33A.jpg
+sound SE_11.aac -1
+text Since it's not even two o'clock yet, Hisui isn't waiting in the lobby.
+text ".........."
+text I can say I got lucky.
+text I don't feel like seeing anyone right now.
+text I glance at my reflection in the window.
+text The pale face looks like a completely different Tohno Shiki.
+text ~
+text My self that seems like another person.
+text That dream that seemed like it belonged to another person.
+text That which cannot be noticed,
+text the traces of the killing that only remains in my memory.
+bgload IMA_10.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text Dizziness.
+text Before me, my vision goes black.
+bgload BG_33A.jpg
+text "No----!
+text I'm not the same as my old man........!!!"
+text Desperately fending off the dizziness, I try to stay upright.
+text "------My old man."
+text I can go to my old man's room, and I can find out about his illness.
+text If I do that, I can confirm that I'm not the same.
+text If I am the same----there might be a way to help myself.
+bgload IMA_10.jpg
+text .... His room is on the first floor in the western part of the mansion, next to Kohaku-san's room.
+text It was fortunate that I left school early.
+text At this time, no one else is around.
+text I pull out my knife and take off my glasses.
+text I try to cut the "line" of the door's lock and put my glasses back on.
+text ~
+text The room was not locked.
+bgload BG_41.jpg
+text My old man's room is just like it always was.
+text Nearly all of the rows of books are educational reports, and nothing catches my attention.
+text What I want right now is my old man's journal or notes.
+text The old man was extremely methodical.
+text There certainly has to be something like that lying around here somewhere---
+text ".... Of course, they're not just lying about where anyone can see them."
+text Maybe they're locked away somewhere.
+text I should probably look in these desk drawers first.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text This isn't time to be fooling around.
+text Taking off my glasses, I look at the "lines".
+text Using my knife, I cut the "lines" on the drawer.
+text Inside, there appears to be some old documents bundled together and what seems to be a journal.
+text First, I look at the old documents.
+text ".... This is, my family tree?"
+text Definitely.
+text Right after Tohno MAKIHISA is written Tohno SHIKI and Tohno AKIHA.
+text And right after that, the word "Nanaya" is written there.
+text ~
+text "Eh.... my old man, he adopted a son ten years ago?
+text .... Ah, but he passed away shortly thereafter."
+text Ten years ago, that would mean I was just in elementary school.
+text That long ago, it's only natural that I wouldn't remember.
+text "Let's see.... the heads of the household have had pretty short lifespans.
+text My old man died before he was fifty, and before that, before thirty in an accident.. before that, eighteen years of age, with suicide---"
+text ~
+text ----No, wait a second.
+text No matter how you look at it, this is strange.
+music 06.mp3
+sound SE_01.aac 1
+text Looking through the family tree, all members of the Tohno household have died strangely.
+text Madness.
+text Accidents.
+text Murder.
+text Disappearances.
+text Still birth.
+text .... Not one of them lived a long life, or even died peacefully.
+sound SE_01.aac 1
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text ~
+text "Wha........"
+text This entire document is filled with horrible fates.
+text Even worse, most of the causes of death are madness.
+text Most of these ended up taking their own lives.
+text "That's strange---all of this is strange."
+text But I can't exactly place my finger on it.
+text ".... Next is.... my old man's journal."
+text I pick up the journal which has a relatively new binding.
+text ~
+text ----Thump, Thump.
+text ~
+text My heart starts to pound.
+text My heart seems to understand that I shouldn't be opening this.
+text But I can't turn back now.
+text Swallowing hard, I open my old man's journal.
+bgload IMA_10.jpg
+bgload BG_41.jpg
+text ~
+text ------There is a demon lurking inside the Tohno bloodline.
+text ~
+text The opening statement is in those lines.
+text And that isn't just a simple metaphor.
+text The ancestors of the Tohno were a mixed breed of "something nonhuman" and human.
+text We, being their descendants, also have this element of "something nonhuman" in our blood.
+text ~
+text In regards to our blood..
+text There are those with strong and those with weak nonhuman blood.
+text Those with weak nonhuman blood can live their lives as ordinary people, but those with strong nonhuman blood can never live a normal life.
+text Those with strong Tohno blood are born with special powers.
+text It could be a body that is resistant to death,
+text it could be an ability to move things without touching them,
+text or it could be fangs used to take bodily fluids from other people.
+text ~
+text This blood.
+text When this blood becomes too strong, the members of the Tohno family start to gradually lose their sanity.
+text The majority of those become demons that feed on human flesh.
+text So, the head of the Tohno household carries the responsibility of punishing those who have turned into such a monster.
+text "--------"
+text It's messed up.
+text My old man, what was he trying to say?
+text Writing so seriously about something that's more like a fairy tale.
+text ~
+text -----The journal turns more into the old man's rant.
+text ~
+text The date is roughly nine years ago.
+text The handwriting starts to get erratic.
+bgload BG_41.jpg
+text I am no longer able to suppress my raging blood.
+text I was able to obtain an orphan from a family of Synchronizers, so this should help me strengthen my mind.
+text However, it really is only a matter of time before I go insane.
+text .... It is terrifying.
+text When I come to, I find that I can't even remember half of the day.
+text During that time, I'm forcing my inversion impulse on that child.
+text ~
+text If this keeps up,
+text it is only a matter of time before I completely lose my sanity and turn into a beast.
+text I don't even know how much time I have left to remain as myself.
+text No.
+text If that child is here, then I can probably last for a few more years.
+text But that child will not be able to bear that.
+text After that child breaks, I will have to take my own life.
+text ~
+text .... It is incredibly ironic.
+text I eliminated so many things in order to preserve myself, but in the end, I will probably have to commit suicide.
+text Or maybe this is the curse of the Nanayas.
+text I end up adopting his son, but I guess I could not lift their grudge with such a thing.
+text But, I can't make up for the events of the past.
+text If death is waiting for me, then I must accept it when the time comes.
+text But until then---I must protect my children.
+text Akiha's blood is weak.
+text Unless she wishes it herself, she does not have to suffer the same fate.
+text ~
+text The problem is SHIKI.
+text That child is incredibly close to me.
+text More than anything else, I do not want that child to suffer my fate.
+text .... If the Tohno blood is unnatural, I need to distance him as much as possible from the Tohno name and see how he will fare----
+bgload BG_41.jpg
+text I let out a deep breath and expel the air from my lungs.
+text I take a break from reading.
+text .... It makes me sick.
+text The contents of my old man's journal are so far away from reality that it's plain weird.
+text ~
+text My old man didn't just have manic-depression.
+text Rather, he just became violent without his knowing.
+text Just like Tohno Shiki right now.
+text "----That's strange."
+text But, that isn't what concerns me.
+text He writes SHIKI and AKIHA strangely.
+text Looking back to the family tree, I see that he writes "Akiha" using the Chinese characters for "Autumn Leaves", while "SHIKI" is written using the characters for "Four Seasons".
+text "The characters for 'Four Seasons' can certainly be pronounced as 'SHIKI', but the characters in my name are 'Intention' and 'Esteemed'."
+text I have a feeling that thinking too hard about that will be bad, but my train of thought does not stop.
+text ".... What are these 'Synchronizers'?
+text Maybe the adopted child?"
+text But, I feel that's wrong too.
+text Anyway, I've only read half-way through all of this.
+text If I read through it completely, I might come up with a solution.
+text But---do I really want to find out?
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_41.jpg
+text "......"
+text ~
+text ------I feel like vomiting.
+text ~
+text I can't stay standing.
+text Hurry.
+text I must hurry back to my room and sleep; it feels like there is something wrong with my head.
+text ~
+text But still, I decide to go back reading the journal.
+text ---The rest of it seems to be a record of some sort.
+text ~
+text The date starts in the summer of eight years ago, and about a month after that.
+text "........"
+text I don't understand it yet, but I continue to look through it.
+bgload BG_41.jpg
+text ~ Month ~ Day
+text ~
+text My son SHIKI succumbed to his Tohno blood.
+text SHIKI, he killed my adopted son who happened to be there.
+text (The adopted son is the heir of the house Nanaya. I guess it is a blessing in all the unfortunate events that he isn't in the same family as the Synchronizers, like Kohaku and Hisui.)
+text SHIKI's inversion impulse is terrible.
+text So it was determined that he must be eliminated.
+text I have my duty as the head of the Tohno household, but killing my own son is so difficult.
+text The Tohno blood is stronger in SHIKI than in AKIHA.
+text Talking about potential, I feel an older origin in Akiha's blood, but SHIKI's Tohno blood runs much stronger.
+text I assume that is why SHIKI inverted before he became an adult.
+text SHIKI's powers are "immortality" and "fusion".
+text SHIKI could not manage the awakened powers and as a result, killed the adopted Nanaya child, taking his life.
+text I have to say it was a superb job for using his powers for the first time.
+text ~ Month x Day
+text ~
+text Both SHIKI and the adopted son managed to escape death.
+text ~ Month ~ Day
+text ~
+text The problem of maintaining appearances to normal society still remains.
+text SHIKI has killed the adopted Nanaya child.
+text I have covered up the incident, but SHIKI cannot be shown to the public.
+text The wound I gave him hasn't healed and his figure has transformed.
+text He is not in a condition to be brought in front of others as Tohno SHIKI.... he cannot be called a human either.
+text ~
+text The Nanaya child still lives.
+text As long as he lives, I've decided to use him.
+text If there are any disagreements, I would like to hear them.
+text Complementarity.
+text The Nanayas are a family that produces killers.
+text If that adopted son happens to stay alive, the link between him and SHIKI may corrupt SHIKI's mind.
+text Even if SHIKI regains his sanity, I cannot deny the possibility of the Nanaya child's influence turning him into a killer.
+text ~
+text To prevent this from occurring, we must have him somewhere where we can keep an eye on him.
+text But we cannot allow him near the Tohno mansion either.
+text I should have him raised by an appropriate branch of the family.
+text ~ Month x Day
+text ~
+text .... The Tohno blood that has awakened within SHIKI.
+text Maybe it is because he was so close to death, but he has regained his sanity like before.
+text But I don't know if something will cause him to invert again.
+text Even though it tears me apart, I cannot allow SHIKI near the Tohno mansion either.
+text I place him in the care of a trusted servant.
+text ~ Month x Day
+text ~
+text I put my adopted son from the Nanaya family into the care of another branch of our family.
+text AKIHA hates me.
+text AKIHA has lost both of her brothers at the same time, so I suppose it is only natural.
+text ~ Month X Day
+text ~
+text I start to raise Akiha as the next head of the household.
+text AKIHA has more than enough talent to carry out her duties as the head of the household.
+text SHIKI may have the ability of "Immortality",
+text but Akiha has the power to "plunder."
+text (As siblings, both of them have the ability to share and take life energy.)
+text It is regretful.
+text If only she had been born ten years ago, I would have been able to eliminate the Nanayas without the help from the Kishimas.
+text But I have to be careful.
+text Her ability to "plunder" is a double-edged sword.
+text She might plunder someone's entire concept while plundering their heat.
+text Like me--I have to teach her how not to attract the curse of an enemy.
+text ~ Month X Day
+text ~
+text AKIHA tried to visit the Arima residence.
+text I cannot let her and my adopted son see each other.
+text I placed her in a boarding school so that her freedom is limited.
+text ~ Month X Day
+text ~
+text Recently, my condition has been getting worse.
+text It seems like the daughter of the Synchronizers is not enough now.
+text ~ Month X Day
+text ~
+text .... For the first time in a long time, I've come back to my self.
+text How many months has it been since I last picked up this pen?
+text There probably will not be a next time.
+text I will have to finish writing here.
+text I gave instructions for this to be given to my daughter AKIHA after my death.
+text I don't know if AKIHA will ever read this, but if she does read it, it is to be destroyed.
+text That is my only request for my daughter to fulfill.
+bgload BG_41.jpg
+text "-------What is this?"
+text The child adopted ten years ago.
+text I completely forgot about that.
+text .... I killed him?
+text That summer day eight years ago, when I received that wound.
+text ~
+bgload CMO_05.jpg
+bgload BG_41.jpg
+text .... He, killed me?
+text That summer day eight years ago, when I received this wound.
+text "-----"
+text Nausea wells within me.
+text I feel sick.
+text That memory that I had forgotten until now runs through my head.
+sound SE_01.aac 1
+bgload IMA_11B.jpg
+bgload BG_41.jpg
+text ~
+text "------"
+text .... I understand.
+text Everything has been written down, so I have to accept it.
+text Besides, everything falls into place.
+text The reason I was adopted by the Arimas.
+text The reason I was disinherited as the eldest son.
+text It's nothing.
+text In other words, I---Shiki was only a replacement for the one named SHIKI.
+text "---What is, this?"
+text Cursing myself, I toss the journal to the side.
+text .... There's no need for me to investigate any further.
+text Staying here any longer is just a waste of my time.
+bgload IMA_10.jpg
+music ~
+bgload BG_40B.jpg
+text ---The day ends.
+text ~
+text Collapsed on my bed, I just keep on thinking about the same thing.
+text .... Thinking calmly, there were only two things I found out from that journal.
+text That I am not a part of the Tohno family.
+text That the Nanaya lineage turns out a large number of killers.
+text I don't have any blood ties to Tohno Makihisa.
+text In other words, those dreams of murder have to be my own.
+text If that is the case, there's only one thing left to do.
+text ~
+text ----I hear voices coming from the lobby.
+text ~
+text ".... I wonder if Akiha is back."
+text I get up from bed.
+text I want to hear the truth from Akiha.
+bgload IMA_10.jpg
+bgload BG_46B.jpg
+text "-----"
+text Gathering up my courage, I knock on the door.
+text "Akiha, I want to talk."
+text "Eh, Nii-san?
+text Please come in."
+text Her voice is bright and cheerful.
+text Taking a breath to compose myself, I open the door.
+bgload IMA_10.jpg
+bgload BG_36C.jpg
+bgload BG_36C.jpg
+setimg AKI_T04B.png 40 0
+text "It certainly is rare for you to come to my room like this, Nii-san."
+text Just like this morning, Akiha has a smile on her face.
+text Seeing that, I just stand there wordlessly, wanting to go back.
+text .... I guess after all,
+text I have felt that my self as Tohno Shiki and my sister, Tohno Akiha, are important to me.
+text ~
+text ----But still.
+text There is something I have to ask her.
+text "Akiha----"
+text "Yes, what is it Nii-san?"
+text Akiha appears to be looking forward to a fun conversation.
+bgload BG_36C.jpg
+text "------"
+text Gritting my teeth, I look her seriously in the eye.
+text "Please tell me about the Nanaya family.
+text I think I have a right to know."
+text "--------"
+text In that instant, Akiha freezes like a puppet whose strings were cut.
+music 08.mp3
+bgload BG_36C.jpg
+setimg AKI_T11B.png 40 0
+text "-------"
+text Akiha wordlessly stares at me.
+text "If you won't answer, then I'll rephrase my question.
+text My old man---Tohno Makihisa had two personalities, right?
+text And not just him.
+text Almost all members of the Tohno family have some sort of illness.
+text .... I used to think that's what I had.
+text But, that's wrong.
+text My anemia came from that incident eight years ago.
+text Because I.."
+text "I know.
+text You were adopted by the Tohno family, right?"
+bgload BG_36C.jpg
+text Saying that,
+text she smiles for some reason.
+text "Akiha---?"
+text Akiha slowly and elegantly walks to the window as if she was in a play.
+text The curtains billow in the breeze.
+text Placing her hand on the window, she turns around.
+bgload event/AKI_E07A.jpg
+text "Nii-san, you were adopted by the Tohno family.
+text Your real name is Nanaya Shiki.
+text As you say, your health condition is due to that accident eight years ago.
+text You appear to know already that the members of the Tohno family are different than most humans."
+text Akiha succinctly says the thing that I would have had the most difficulty asking.
+text ".... Akiha.
+text That----"
+text "It is okay.
+text It was only a matter of time, and I did not like hiding it.
+text Now that you know, there is no need.
+text .... No, maybe there never was a need.
+text Then there's no need to put up with any of this."
+text ~
+text "Is that not right, Nii-san?"
+text ~
+text Akiha says this with her voice full of confidence.
+text "Akiha.
+text So like I thought, I---"
+text "Yes.
+text You are the one Father adopted ten years ago, but you do not remember it.
+text Do you remember the SHIKI who used to play with us?"
+text "------No.
+text I don't."
+text "That's right.
+text It is because Father hypnotized you."
+text ".... SHIKI was someone who could not resist his Tohno blood.
+text You may not remember it, but that day eight years ago, you protected me from SHIKI.
+text You sacrificed yourself to protect me from the bloodthirsty SHIKI.
+text That is how you were killed by SHIKI and SHIKI was killed by Father.
+text It is the duty of the head of the Tohno household to dispose of those who are no longer human."
+text "....?
+text Killed?
+text But I'm still alive, right?"
+text "---Yes.
+text By a miracle, you survived.
+text You remember what happened afterwards, right?
+text You were taken to a hospital and the day you returned, you were adopted by the Arima family.
+text That is when Father hypnotized you.
+text You were not fully healed so your heart and mind was weak.
+text So you easily believed what Father told you."
+text ".... I see.
+text Then, that's enough.
+text If you understand, then there is no more need to talk.
+text I'm not a member of the Tohno family, right?
+text Then, you don't---have to force yourself to call me brother."
+text Soon.
+text Soon I, an outsider, should leave this place.
+text ".... Don't get me wrong, Nii-san.
+text I do not call you Nii-san for the sake of society.
+text Do you not remember?
+text Even before you were killed by SHIKI, I called you Nii-san.
+text It had nothing to do with you being adopted.
+text I knew from the very beginning you were not my true brother.
+text And you accepted that too.
+text So---no matter what you think, you are Tohno Shiki.
+text So please stay here in this mansion."
+text Akiha's words make me happy.
+text But, I don't understand.
+text Why does she accept me, an outsider?
+text "---Why?
+text I'm not even your real brother."
+text ".... Goodness, after I have said all this, you still do not understand?
+text You are the only one I will call Nii-san.
+text Even if you do not wish it, I just want you by my side.
+text Because, I love you, Nii-san."
+sound SE_01.aac 1
+text "Wha------"
+text Akiha says something totally unbelievable.
+text I'm happy that she likes me as her brother.
+text But, as long as this situation remains----I can't be here.
+text ".... No, I'm not the kind of person you think I am.
+text You see SHIKI as a killer, but I---I'm just a killer like him."
+text "A killer, what do you mean?"
+text "............"
+text ~
+text I can't keep it a secret any longer.
+text Everything I did up until now----the dream I had last night, the bloodstains I can not explain, and that dream where Akiha killed me.
+text ".... I can't trust myself.
+text I thought those were just dreams.
+text But my old man wrote that the Nanaya were a family that produced killers.
+text If I become like SHIKI, I don't know what I will do to you, Akiha."
+text I lay it all out to her from the bottom of my heart.
+text But, after blinking in surprise, she tries not to laugh.
+text "Wha, what's so funny?
+text This isn't a joke.
+text .... You may not believe me, but I really have dreams of sucking people's blood....!"
+text Akiha is still giggling.
+text .... What is this?
+text She makes me look stupid, worrying about all of this.
+text "Yeah, it is funny.
+text See, you can't be a vampire.
+text Because you are from the Nanaya family, your blood is only human.
+text Besides, the Nanayas are not killers.
+text .... Certainly from Father's point of view, they are, but the only ones that the Nanaya feel a homicidal impulse towards are nonhumans.
+text So what you saw had to be just dreams.
+text And even those dreams are probably SHIKI transmitting to you, so it isn't that you want to see them."
+text .... SHIKI transmitted them?
+text Come to think of it, my old man did write something about that.
+text SHIKI stole some of my life, so there is like a link between us.
+text ".... I see.
+text Then who is killing on the streets right now?
+text Even if what I saw was just a dream, there are victims showing up on the streets in reality---"
+text ~
+text ---The killer is real.
+text I feel like I've met him before.
+text Or was that a dream too?
+text No, putting that off to the side.
+text If there's a killer on the streets, then---
+text ".... SHIKI is still alive....?"
+text "Eh?"
+text Akiha, who was just giggling until now, becomes serious.
+text "Akiha.
+text In my old man's journal, he wrote that SHIKI was still alive.
+text In other words---"
+text "Father's journal....?"
+text Akiha tilts her head, curious.
+text "My old man wrote that SHIKI and I were connected.
+text Then maybe what I saw were really his dreams."
+text .... No, it's more likely what he's actually doing.
+text ".... That may be a possibility.
+text Father's death was suspicious, and it did seem like someone was being raised in the underground cell."
+text ".... Wait a minute, Akiha.
+text Do we have such a thing like an underground cell here?"
+text "Oh, of course.
+text There are a lot of members of the Tohno family who lose their sanity, so it is only natural to lock them away before they can hurt the outside world, right?
+text Well, that isn't all it is used for.
+text When I got in trouble, Father would lock me up down there."
+text For some reason, Akiha sounds like she is having fun.
+text .... A chill runs down my spine.
+text ".... I get it.
+text We'll stop talking about it.
+text We have to do something about SHIKI, though.
+text If SHIKI really is wandering the streets killing people, then we have to stop him."
+text "Is that so?
+text We really do not have to concern ourselves about him, do we?
+text Is it not the job of the police to take care of killers?"
+text "Wha----Akiha, what are you saying?
+text He's killing people, but he is your brother.
+text He has to pay for his crime, but still---"
+text ".... Goodness, Nii-san.
+text You are really too nice of a person."
+text Taking a breath, she brushes her hair back.
+text "You are my only relative.
+text I do not care about SHIKI, so you do not have to worry about him."
+text "No, we can't just do that.
+text Do you think the police can catch him so easily?
+text And before then, there will be more victims!"
+text "I will not do anything.
+text That is, not our responsibility."
+text She says this and looks me directly in the eye.
+text "Hey, let's not speak of these matters any longer.
+text Talking about murder and killers is boring, isn't it?"
+text "Wha-----"
+text I try to tell her that it has to do with our family, but I can't.
+text .... Her eyes pierce into me deeply.
+text Staring at me like that, her eyes seem to take away my resolution.
+text "It seems you understand.
+text Well then, will you return to your room?
+text I just came back from school so there are things I have to do."
+text "-----"
+text .... Like Akiha says, there isn't anything else to talk about.
+text Still not convinced, I turn away from her.
+bgload BG_36C.jpg
+text I go to leave her room.
+text ~
+text ----And all of a sudden,
+text from behind me, a voice tells me to stop.
+text ".... What is it?
+text Aren't we done talking Akiha?"
+bgload BG_36C.jpg
+setimg AKI_T01B.png 40 0
+text "-------"
+text Akiha stares at me silently.
+text "---Nii-san.
+text You are the most important thing to me.
+text If I had lost my memories of you over these eight years, I would not be who I am.
+text .... Because you were here, I was able to be myself.
+text You are more important to me than myself, so I wanted you to like me, always."
+text True sincerity.
+text Akiha looks at me like I'm the only thing she sees.
+text "But that is just a selfish request, right?
+text This family and I are just a burden to you.
+text That is why I always feared that you would distance yourself from me.
+bgload BG_36C.jpg
+setimg AKI_T09B.png 40 0
+text But that's just me worrying, right?
+text Because you came back here.
+text Because you came back for my sake."
+text ~
+text She says happily.
+text .... Seeing her smile, my chest hurts.
+text " .... That's right.
+text I came back because I could not leave you alone here.
+text But now, I'm beginning to think I was wrong."
+text I did come back because I wanted to watch over her.
+text But, she's wrong.
+text Her eyes are so sincere that I can't lie.
+text "But, Akiha.
+text That isn't the only reason why I came back.
+text I---"
+text ~
+text I came back for the sake of the child I made a promise with.
+text That is something that's even more precious than my feelings towards Akiha, and something I can't lie about.
+bgload BG_36C.jpg
+setimg AKI_T06B.png 40 0
+text "Stop it.
+text I do not want to hear it.
+text You came back, so that is that.
+text So anything else---such as your feelings, I do not need."
+bgload BG_36C.jpg
+text She looks away.
+text Akiha looking down like that just---for no real reason, seems very dangerous.
+text "Go back to your room.
+text Please do not look like that in front of me, Nii-san."
+text "............"
+text Not knowing what to say, I silently leave her room.
+bgload IMA_10.jpg
+music ~
+bgload BG_40C.jpg
+text The night wears on, and it's almost midnight.
+text It's already way past the time I would usually go to sleep.
+text I lie down and look up at the moon through the window.
+text "........"
+text The night goes by without me sleeping.
+text It isn't that I'm scared of seeing another dream of murder.
+text The killer SHIKI wandering the streets.
+text The somehow dangerous looking Akiha.
+text Thinking of that, I cannot sleep and just look up at the moon.
+text "........ I'm so thirsty."
+text The last time I drank anything was about four hours ago at dinner.
+text I don't want to endure it, so I go to the kitchen to get something to drink.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+text I down a cup of water in one gulp.
+text Why is it so delicious?
+text ".... That's odd.
+text I was just thirsty."
+text The sensation of fluid going down my throat is just like it was last night in my dream.
+text "Hm....?
+text Someone's coming."
+text I can hear the footsteps coming closer.
+text Soft, small footsteps that barely echo in the deep night.
+text ~
+bgload BG_35.jpg
+setimg HIS_T01.png 62 0
+text ".... Shiki-sama?
+text What are you doing this late at night?"
+text "Hisui?
+text I was just thirsty so I thought I'd get something to drink."
+bgload BG_35.jpg
+setimg HIS_T17.png 62 0
+text "Shiki-sama.
+text If that is the case, please call for me.
+text At night, you should be resting in your room.
+text .... Walking around here at night is not good."
+text Hisui speaks plainly.
+text "....?"
+text There's something wrong with her words.
+text Telling me it's not good to walk around at night means she's telling me not to get out of my room at night.
+text .... No, more than that.
+text Hisui and Kohaku-san have worked here since they were very young.
+text So---it would not be strange for them to know that I was adopted.
+music 01.mp3
+text ".... Hisui.
+text There is something that I want to ask.
+text Is it okay?"
+bgload BG_35.jpg
+setimg HIS_T01.png 62 0
+text "Yes.
+text If that is the case, then let us go back to your room.
+text This is not somewhere to be having a conversation."
+text "No, this is fine.
+text It is just something small, anyway."
+text "-----?"
+text Hisui tilts her head.
+text "........"
+text I take a deep breath.
+text If she doesn't know, then asking her will be revealing a secret.
+text But, I don't intend to hide it anyway.
+text "I'll make it short.
+text Did you know that I was adopted?"
+text "--------"
+text Her shoulder shakes.
+text .... That tells me that she did know.
+text ".... I see.
+text If you know, then Kohaku-san must know too.
+text What's this?
+text This really isn't a secret after all."
+text "Shiki-sama, that is---"
+bgload BG_35.jpg
+setimg HIS_T17.png 62 0
+text She says that as she lowers her eyes.
+text ".... I am so very sorry.
+text Even if you are adopted, there is no doubt that you are the eldest son of the Tohno family.
+text Akiha-sama accepts you as her relative and you are mine and Nee-san's master."
+text ".... Thanks.
+text If you say that, then I believe that I can stay here."
+bgload BG_35.jpg
+setimg HIS_T13.png 62 0
+text "Shiki-sama.... Please do not say things like that.
+text This really is your true home."
+text "I know.
+text That's what I think too.
+text Even though it was for a short while, what happened here when I was a child is very important to me.
+text I can't throw it away."
+bgload BG_35.jpg
+setimg HIS_T04.png 62 0
+text Hisui looks visibly relieved.
+text ".... But I still want to know.
+text Before I came here, um.... it was Nanaya..?
+text If you know, could you tell me what kind of child I was?"
+text ".... I am sorry.
+text Other than that you were the eldest son of the Nanaya line, I do not know.
+text Makihisa-sama completely destroyed all the records."
+text .... I see.
+text Well, if he made me act as Tohno Shiki, then all the records of me as Nanaya Shiki probably were destroyed.
+bgload BG_35.jpg
+setimg HIS_T01.png 62 0
+text "But Shiki-sama, Nee-san may know something."
+text "Huh....?
+text Hisui, why would Kohaku-san know anything?"
+text "Nee-san took care of Makihisa-sama ever since she was young.
+text She may know more about the Tohno family than even Akiha-sama does."
+text "............?"
+text Come to think of it, Kohaku-san did say that she was Makihisa's servant.
+text But I thought that was just to take care of his condition once in a while.
+text .... I didn't realize she was his servant from that young of an age.
+text ".... That Kohaku-san?
+text .... Since she played with us everyday, I just can't picture her being near my old man all the time------"
+text .... To be honest, Hisui seems like she was more suited for that.
+text Always looking down at me, Akiha, and Kohaku-san from the inside of the mansion.
+text ".... Is that true?
+text But that's odd.
+text Why would my old man tell Kohaku-san all the things he would not even tell Akiha?"
+text "No, I do not think he told her directly.
+text Since Nee-san was always near Makihisa-sama's room in the mansion, I believe she had many chances to overhear Makihisa-sama thinking out loud."
+text "-------Always near my old man?"
+text ~
+music ~
+text But.
+text But that's what Hisui, who stayed in the mansion all the time, did---
+text "Wait.
+text Kohaku-san was always with my old man as a child?"
+bgload BG_35.jpg
+setimg HIS_T25.png 62 0
+text "Ah----"
+bgload BG_35.jpg
+setimg HIS_T26.png 62 0
+text Hisui looks down.
+text ~
+text ---Something just went wrong here.
+text ~
+text The feeling of inconsistency comes back and everything falls back into place.
+text Kohaku-san knew about the promise that only Hisui should know about.
+text Hisui forgot about the promise made eight years ago.
+text But it might just be..
+text That I just reversed their roles in my memory.
+text If that's true then----
+text ".... Hisui.
+text I'll ask one more time, but do you remember about eight years ago?"
+bgload BG_35.jpg
+setimg HIS_T17.png 62 0
+text "---Yes.
+text About how I gave you that ribbon, right?"
+text ".... That's right.
+text After I left my room, you stopped me by the entrance and gave me a ribbon.
+text Do you remember what color it was?"
+text "It was white, but what about it?"
+text ~
+text There is nothing wrong with her answer.
+text But, she is already wrong.
+text "------"
+text Thud.
+text The power drains from my legs and I collapse onto the chair.
+music 09.mp3
+text "-----How--"
+text How could I have been so wrong up until now?
+bgload BG_35.jpg
+setimg HIS_T23.png 62 0
+text "Shiki-sama....?"
+text "---That's wrong Hisui.
+text I was given the ribbon under that tree in the garden.
+text Not by the entrance."
+text "---------"
+text Hisui gasps and falls into silence.
+bgload BG_35.jpg
+text "Why----"
+text I don't get it.
+text Why did Kohaku-san try to trick me?
+text Why---why didn't she just tell me that she was the one I made the promise with?
+bgload BG_35.jpg
+setimg HIS_T26.png 62 0
+text "Shiki-sama---please do not tell Nee-san about this.
+text If she finds out, she will have nowhere else to go."
+text All of a sudden,
+text Hisui says this.
+text "If she finds out that I knew you two changed places?"
+text She silently nods.
+text ".... Then it was you who played with us, and Kohaku-san---was the one in the mansion, right?"
+text She silently nods.
+text "Why....?
+text Why did you act like you traded places?
+text There's no point.
+text Or were you guys playing around with me?"
+bgload BG_35.jpg
+setimg HIS_T21B.png 62 0
+text "It was not our intent to deceive you, Shiki-sama.
+text We cannot even fully describe it ourselves how it came to be."
+text ".... It started eight years ago.
+text After you were adopted by the Arima family, I think I just became calmer than before.
+text Nee-san tried to cheer me up by acting very happy, and then, we gradually traded our roles."
+text "But why.... why did it happen....?
+text Hisui.... you were always so energetic."
+text ".... That is not true.
+text I am naturally not active.
+text But when you were there, I tried to follow you as hard as I could."
+text "----------"
+bgload IMA_10.jpg
+bgload event/HIS_E01B.jpg
+text .... Yeah, I remember.
+text That girl who was always cheerful, always smiling.
+text The most free-spirited, who would always worry over us, who put up with the most, who acted like Kohaku-san would, if she was younger.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+text ".... Really?
+text I think you would be cheerful even if I wasn't there.
+text That was your character.
+text Trust me since I, the one who followed after you, am saying this."
+bgload BG_35.jpg
+setimg HIS_T04.png 62 0
+text ".... Yes.
+text Those days were very fun.
+text I think those were the best two years of my life."
+bgload BG_35.jpg
+setimg HIS_T21B.png 62 0
+text "But something crumbled after you left, Shiki-sama.
+text Akiha-sama started to hate Makihisa-sama, and Makihisa-sama became very strict with Nee-san.
+text The happy days were then over.
+text I gradually became very quiet and could not even work anymore."
+text "So Nee-san took over for me.
+text Smiling like I always used to, running around like I used to.
+text In turn, I took over Nee-san's old role.
+text .... That was the easiest for me.
+text At the same time, it fulfilled Nee-san's only wish."
+text ".... Kohaku-san's wish....?"
+text I don't understand what she said.
+text Only that Hisui really thinks about Kohaku-san.
+text That is the only thing I could feel.
+text "Hisui.
+text What do you mean by her wish?"
+bgload BG_35.jpg
+setimg HIS_T17.png 62 0
+text ".... Nee-san always wanted to be like me.
+text But for my sake, she held back.
+text I think it is just an act for her to work in my place.
+text She pretends to be me and kills her own will.
+text She is just a doll that only acts like a 'Hisui from the past'."
+bgload BG_35.jpg
+setimg HIS_T26.png 62 0
+text ".... I was scared of that Nee-san.
+text Nee-san lost her identity and I realized that she was just living by acting out someone's role.
+text .... I think that if I go back to my old self, Nee-san will return to her old, true self.
+text .... Nee-san said this when we first traded places."
+bgload IMA_10.jpg
+bgload event/HIS_E02B.jpg
+text ~
+text ~
+text ~
+text ~
+text It's okay, Hisui-chan.
+text Until you become cheerful again, I will take your place.
+text So no matter when, once you are cheerful again, I will give you back your role.
+bgload IMA_10.jpg
+bgload BG_35.jpg
+bgload BG_35.jpg
+setimg HIS_T17.png 62 0
+text "----I was scared of those words and I thought that I should return to my self right away.
+text .... But then, by accident, I saw her walking around happily in the garden.
+bgload BG_35.jpg
+setimg HIS_T21B.png 62 0
+text .... Nee-san really looked happy.
+text .... I did not know I looked that way back then, but she really was happy.
+text And all she was doing was walking by herself."
+text "Nee-san was only pretending to be 'Hisui'.
+text Even still, she looked so happy.
+text So---Nee-san just does not realize it, but I understood that Nee-san always wanted to be like that.
+text I just could not destroy that."
+bgload BG_35.jpg
+text .... Biting her lip, Hisui holds back her tears in silence.
+bgload BG_35.jpg
+setimg HIS_T17.png 62 0
+text ".... Shiki-sama.
+text Please let Nee-san stay the way she is.
+text .... If you do not, she will lose her place."
+text .... I can only nod to her words.
+text But that definitely is not the correct choice.
+text Kohaku-san has to pretend to be the Hisui from the past, and Hisui has to pretend to be the Kohaku-san from the past to protect that.
+text ---Hisui has been watching Kohaku-san who only knows how to live a lie, but still says she will live with her.
+text That---has to be so difficult.
+bgload BG_35.jpg
+setimg HIS_T13.png 62 0
+text "Shiki-sama.
+text Please promise me that you will not say anything to Nee-san."
+text ".... Fine.
+text But, Hisui, are you okay with this?"
+text "................"
+text Hisui doesn't answer.
+text .... Full of conflicting emotions, I get up from the chair.
+text All I can do is leave the downcast Hisui behind in the kitchen.
+bgload IMA_10.jpg
+music ~
+bgload BG_33D.jpg
+text "-------?"
+text Going back to my room, I notice that the door is open.
+text ".... Did someone go outside?"
+text .... Hisui must still be in the kitchen.
+text That means that it's either Kohaku-san or Akiha.
+text "............"
+text To be honest, I want to sleep.
+text My body and my heart are tired; I feel like I could collapse if I don't sleep.
+text Just tonight.
+text I feel like if I don't sleep, I'll break.
+text I should----
+text ~
+choice Go look outside.|Just go back to my room.
+if selected == 1
+    jump s420.scr
+fi
+if selected == 2
+    jump s421.scr
+fi

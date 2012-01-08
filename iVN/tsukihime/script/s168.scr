@@ -1,0 +1,22 @@
+bgload BG_32A.jpg
+text "Does that clear it up?
+text Then let's go.... Arcueid, do you have anywhere in mind?"
+bgload BG_32A.jpg
+setimg ARK_T03.png 36 0
+text "Hmm, I don't know so I'll let you decide.
+text Just take me wherever?"
+bgload BG_32A.jpg
+text .... So she told me we're going somewhere and now it's this?
+text Oh well--I'm not sure what kind of place she likes, but I'll take her to a good hangout place.
+text Well then--
+text ~
+choice Go for the usual, take her to the movie theater.|She'll probably like somewhere such as a back alley, right?|I don't really know, so let's go to the park for now.
+if selected == 1
+    jump s169.scr
+fi
+if selected == 2
+    jump s170.scr
+fi
+if selected == 3
+    jump s171.scr
+fi

@@ -1,0 +1,1140 @@
+bgload BG_11C.jpg
+sound SE_02.aac -1
+text "Heee----!"
+text SHIKI lunges with a cry.
+text His black shape explodes forward like a firework.
+text "Ts--!"
+text Akiha and Kohaku-san both turn.
+text But, it's hopeless.
+text They'll never make it.
+text The black shape isn't going for Akiha.
+text SHIKI lunges not at Akiha, but at Kohaku-san who stands next to her.
+text ~
+text ---He knows.
+text ~
+text Just like how I am able to move right now because of Hisui's power,
+text he knows that Akiha's overwhelming power is possible through Kohaku-san's help.
+text "Kohaku......!"
+text Akiha's voice cannot stop it.
+text "Hee--eeeeeee!"
+text SHIKI raises his voice, and with his arm thrusting like a spear, aims for Kohaku's face.
+text ~
+sound ~
+bgload IMA_11B.jpg
+bgload IMA_10.jpg
+sound SE_06.aac 1
+text The sound of pierced flesh.
+bgload event/HIS_E06.jpg
+sound SE_02.aac -1
+text "------"
+text My voice dies in my throat.
+text Splat!
+text The sound of blood spurting forth.
+text Kohaku-san's face is splattered, with the redness, of, Akiha's blood.
+text ".... Akiha-sama....?"
+text "Aa----"
+text The sound of coughing.
+text Akiha tries to speak, but blood is the only thing that pours from her mouth.
+text That means,
+text the majority of her blood vessels have been destroyed, and all she can do is regurgitate blood.
+text "--------"
+text I can't speak.
+text My mind is empty.
+text That is,
+text the same as SHIKI, who has just impaled Akiha.
+text "----Aah.."
+text SHIKI pulls back his arm.
+text ~
+bgload BG_11C.jpg
+text "Uuu?"
+text A thud.
+text Akiha's body falls down on Kohaku-san.
+bgload BG_11C.jpg
+setimg HAL_T05.png 33 0
+text "Uwaaaaaaaaaaaa!?"
+text SHIKI swings his blood stained arm around wildly.
+text Every time he aaces it around, Akiha's blood paints the wall and ceiling.
+text "AAAAAa, AA, AAAAAAAAAA!"
+text ~
+text SHIKI shakes his arm desperately.
+text ~
+text "AAA, Aki, Akiha, Akiha is, Akiha?"
+text ~
+text SHIKI suddenly stops moving.
+text SHIKI stares at Akiha's blood-drenched body, then looks at his blood-soaked arm--then bolts down the hallway as if running from something.
+bgload BG_11C.jpg
+sound SE_08.aac 1
+sound SE_08.aac 1
+sound SE_08.aac 1
+sound SE_08.aac 1
+text His footsteps lead upstairs.
+text SHIKI has run to the rooftop.
+text ~
+text ----But that,
+text I don't care about that.
+text "Akiha...... Akiha----!"
+text Still unable to think, I run to her.
+text Kohaku-san is still standing in a daze, her amber eyes nothing more than jewels devoid of emotion.
+text ~
+text ----I
+text crouch down next to Akiha's body.
+bgload event/HIS_E07A.jpg
+music 07.mp3
+text Akiha just lies on the floor, powerless, with terribly calm eyes.
+text "Akiha....!"
+text I can't tell her--it's alright.
+text Even with my glasses on---I, can, see, them.
+text "Akiha--Akiha!"
+text These are the only words that I can think of.
+text Akiha----with her calm, gentle eyes, looks up at me.
+text ".... Nii-san.... why, are you, here....?"
+text She coughs.
+text More blood trickles from her mouth.
+text "--------!"
+text .... I can see them.
+text The lines of death on her body are spreading across her body with gruesome speed.
+text This is.. fatal.
+text The fact that she's still alive must simply be due to her unnatural Tohno blood.
+text "God---damn it, why....!?"
+text ~
+text Even though---I understand death better than anyone else, I don't want to believe it.
+text ~
+text "Don't move....!
+text I'll help you right away....!"
+text ~
+text Taking off my shirt, I put it on Akiha's chest.
+text Trying to cover up her wound, I tie it up.
+text The blood soaks the shirt in matter of seconds.
+text It doesn't do anything.
+text As if trying to hold off my weeping emotions, I push against it.
+text ~
+text ---All I can do is push.
+text "Hey.... answer me."
+text In a daze.
+text Akiha says this to me like she does not see me pushing against her wound.
+text "Nii-san, why, are, you here?
+text I'm curious, so I can't rest until I know.
+text Things I don't understand, they make me angry--you know that, right?"
+text "-------"
+text "Oh yeah, that's right," I nod.
+text Her wound keeps bleeding.
+text The shirt is too soaked, it can't stop the bleeding.
+text Damn it---this crappy shirt.
+text Why does it have to soak so fast?
+text I'm pissed.
+text At the useless shirt, my useless self.
+text Really, really, not being able to stop just one wound, I---
+text ".... Stupid.
+text Why, you ask?
+text This is my school.
+text Even though it's late, it's not that strange for me to be here."
+text ~
+text I hold back my tears.
+text I answer as best as I can.
+text "Ah, I see----this isn't like me at all.
+text I didn't.. even.. think of that at all.."
+text Akiha sounds satisfied.
+text She doesn't even seem to be in pain.
+text Only, her body warmth starts to disappear.
+text Like pure white ice melting under the sun.
+text Does she understand what is happening, or maybe it is because she does understand---she speaks normally as if we were talking during breakfast.
+text "Hey, did you hear about what we were talking about?"
+text "---Yeah, sorry, but I heard."
+text "O, oh.
+text You know now.
+text .... I'm such an idiot, letting you hear it, the person I didn't want to let hear the most."
+text "Don't speak....!
+text It's okay, so relax.
+text Please...... please."
+text I roll up my shirt and tie it around her body.
+text I know it's useless.
+text But, if I don't do anything, I don't think I can stay sane.
+text "--I'm sorry.
+text I, I've deceived you all this time.
+text I've kept secrets about many, so many things."
+text ".... It's okay.
+text I don't care about it.
+text So please--"
+text "Nii-san--you are not my real brother.
+text I was.. a, horrible, woman.
+text I wanted you, to always, always be by my side, so I.. told.. all those, stupid, lies."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text So this is my punishment.
+text ~
+text With her trembling lips,
+text Akiha says those words clearly.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text The blood doesn't stop.
+text I'll go crazy at this rate.
+text ".... I knew.
+text I already knew.
+text So don't worry about it."
+text I grip her hand tightly.
+text ~
+text She takes a deep breath.
+text Akiha gives a strange smile.
+text ~
+text ".... Nii-san, you knew?
+text .... Then, I didn't, have to, hold back."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ----I really am an idiot.
+text Her lips shape those words.
+text She should have said it.
+text She should have voiced it.
+text But Akiha, did not do so.
+bgload event/HIS_E07B.jpg
+text ".... Akiha?"
+text There is no reply.
+text What I am holding right now is not breathing.
+text ~
+text "Hey!"
+text There is no response.
+text What I am holding is what used to be Tohno Akiha.
+text ~
+text "Say something!"
+text There will never be an answer.
+text What I am holding has closed her eyes calmly----
+text "Akiha----!!!"
+text I shake her body.
+text Even though---I understand better than anyone else, that it has no meaning.
+bgload BG_11C.jpg
+music ~
+bgload BG_11C.jpg
+setimg HIS_T17.png 62 0
+text ".... Shiki-sama, please---"
+text Hisui places her hand on mine.
+text "----Ah.."
+text Without even realizing it, I was making her body dirty.
+text I---like an idiot, I made her body dirty.
+text "----"
+text Quietly, I place her on the floor.
+bgload BG_11C.jpg
+text ~
+text ----The school building is horribly quiet.
+text ~
+text Hisui and I are wordlessly frozen.
+text Only---only Kohaku-san seems to have regained the power to move.
+bgload BG_11C.jpg
+setimg KOHA_T01C.png 52 0
+text "I wonder where SHIKI-sama went to?"
+bgload BG_11C.jpg
+text ~
+text ----SHI, KI.
+text ~
+text Those words catapult my consciousness back.
+bgload BG_11C.jpg
+setimg HIS_T08.png 62 0
+text "Nee-san, don't say that now---"
+text "No---Kohaku-san is right."
+text I stand up.
+text It's a good thing---it really is a good thing I brought my knife.
+bgload BG_11C.jpg
+setimg HIS_T28.png 62 0
+text "P.... please stop, Shiki-sama....!
+text You, you don't have to do such a dangerous thing.
+text SHIKI will not last long with that wound anyways."
+text ".... No.
+text Akiha went that far since she could not let SHIKI, the killer, be alive any longer.
+text For Akiha's sake, I can't leave him be."
+bgload BG_11C.jpg
+text I say this as I push her away.
+text That's a lie.
+text More than that just cause----
+text ~
+text "I have to settle this with him here and now."
+text ~
+text ----I hate him.
+text To put it simply, I just want to kill him.
+text "Don't follow me.
+text Both of you stay here and take care of Akiha."
+text ~
+text Kohaku-san nods.
+bgload IMA_18.jpg
+text Hisui uneasily watches me as I run up the stairs.
+music 09.mp3
+bgload IMA_02.jpg
+text The rooftop.
+text The moon hangs in the sky.
+text That wild beast is crouching on the concrete.
+text "----SHIKI."
+text I remove my glasses.
+text I look at his "death".
+text *pant*---*pant*---*pant*---!
+text ~
+text Crouching, SHIKI is biting his own arms.
+text There--exists no trace of sanity.
+text Perhaps what happened caused him to go insane.
+text "............"
+text That pisses me off.
+text I---I am not able to lose my sanity for Akiha's sake.
+text Underneath the moonlight.
+text Even though I've known him for so long, I take my first step towards the enemy I just met tonight.
+text "SHIKI---Akiha is dead."
+text "Ah-----"
+text SHIKI looks at me with bloodshot eyes.
+text His face is half gone, but he still isn't dead.
+text The powers of those of Tohno blood---Shiki's power is "immortality".
+text That must mean it is harder for him to die, more likely for him to live on.
+text "Ha.."
+text That's funny.
+text For me, that means nothing.
+text "You look ugly."
+text "SHUT.... UP!"
+text SHIKI gets up with a sharp breath.
+bgload event/HAL_E01.jpg
+text "SHUT, UP!
+text SHUT U--P.
+text SHUT UP!"
+text Like a broken record, he repeats the same thing.
+text "SHUT UP, SHUT UP, SHUT UP, SHUT UP, SHUTUPSHUTUP, SHUTUPSHUTUP, SHUTUPSHUTUPSHUTUP, SHUTUPSHUTUPSHUTUP SHUTUPSHUTUP------!!!!"
+text "............"
+text "Just shut the hell up!"
+text Panting furiously, SHIKI just shouts.
+text "You're always, always noisy!
+text What kind of grudge do you have against me!?
+text Why are you always getting in my way!?"
+text SHIKI screams around while staggering around.
+text I---
+text ~
+text "What---are you.."
+text ~
+text ---I don't get it.
+text "Just shut up!
+text Just leave me alone--don't look inside me, don't use my dreams......!!
+text You, you, you, you're always watching me, that's why I'm so full of uneasiness!"
+text SHIKI claws at his head.
+text "Wha----"
+text .... I never even thought about that.
+text I've always seen him, tracking him in my dreams.
+text But..
+text It never even occurred to me how SHIKI would feel about being tracked.
+text ".... Get out.
+text Get out of me.
+text Get out of my house, get out of my name.
+text You're in my way, you're in my way, you're in my way, I'll!!!!"
+text SHIKI is screaming like a child.
+text ".... Hmph.
+text Same goes for you."
+text I raise my knife.
+text I never thought to understand him in the first place.
+text ~
+text I---I came here for a deathmatch.
+text "Fine, let's fight to the death!
+text All those who get in my way are my enemy.
+text I'll kill you all.
+text You, you, Akiha, Kohaku!
+text Just like that old man who wanted to lock me up till I died, I'll kill you all....!"
+text SHIKI screams like a raving lunatic.
+text His figure really is ugly.
+text "HA, HAHA, HAHAHAHAHAHAHAHA!"
+text And then.
+text SHIKI attacks me head on.
+music ~
+bgload IMA_10.jpg
+sound SE_06.aac 1
+bgload IMA_14.jpg
+bgload IMA_18.jpg
+text ---Because of his fight with Akiha, SHIKI does not have a functional body.
+text ~
+text So, it was easy.
+text SHIKI runs---or so he thinks, and I avoid his arm, which is swung slower than walking speed.
+text I slice the "line" from the top of his head to his abdomen.
+text ~
+text "Gi--"
+text Thud.
+text SHIKI's body loses power and collapses onto mine.
+text "See, it's simple.
+text Your lines are too clear."
+text SHIKI's death looked like an iron shaft was sticking out of his head.
+text ~
+text "See.
+text That's what I meant by ugly."
+text ~
+text "Ha...... haha, ha."
+text SHIKI just laughs.
+text There, no intelligence exists.
+text "AHA, HAHAHA, AHAHAHAHAHAHAHAHAHA!"
+text Laughing, and dying.
+text His arms leaning on me fall to the ground.
+text SHIKI dies.
+text Before he does, he looks up at me, curiously.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "------Who.. are you?"
+sound SE_01.aac 1
+text ".... Eh?"
+text "Who--are you?"
+text "What are you saying?
+text I'm the Tohno Shiki you were always targeting."
+text "Ah, I see.
+text You're Shiki."
+text ~
+text SHIKI collapses to the ground.
+text ~
+text "What's this?
+text ----You look nothing.. like what I heard."
+text SHIKI collapses and his body disperses into the wind.
+bgload IMA_10.jpg
+bgload IMA_01.jpg
+music 09.mp3
+text ~
+text ------It's over.
+text ~
+text With this, it's over.
+text But, I don't feel anything.
+text I won't feel those splitting headaches, I can return to life as normal--but I don't feel happy.
+text What I've lost, is far greater.
+text ~
+text ----But, what is over?
+text ~
+text "----Why?"
+text I feel dizzy.
+text SHIKI's last words won't fade away.
+text Something did end.
+text But I don't know what ended, or in the beginning, what I was trying to end.
+text "--------"
+text I look up at the moon.
+text In the vague darkness, my heart is enthralled.
+text Until Hisui came, I just stood in dumb amazement, standing in the moonlight.
+bgload IMA_10.jpg
+music ~
+bgload IMA_03.jpg
+music 02.mp3
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text The next week passed like it was just a dream.
+text Just like SHIKI's dead body, Akiha's remains dissolved into nothingness.
+text The whole affair did not leak out to the public and was taken care of by the people of the Tohno family.
+text ~
+text I stayed in the mansion, becoming the successor to the Tohno household in Akiha's place.
+text For now, it is just in name, but I guess it's not something that can be determined easily.
+text Since SHIKI died, my body returned to health and I'm allowed to lead a normal life.
+text As for everything else, only a little has changed since before.
+text My happy school life without Akiha.
+text My life at the mansion with Hisui and Kohaku-san.
+text ~
+text I, Tohno Shiki, think the whole incident that occurred after I came to the mansion ended.
+text ~
+text ~
+text However.
+text There is still a matter that I have to take care of.
+music ~
+bgload BG_53.jpg
+text If I think about it, there was a slight discrepancy.
+text It was something so small that if I didn't question it, I would never have noticed.
+text That night.
+text If SHIKI did not leave those words before he died.
+text .... The discrepancies between my memories, and what Kohaku-san and Hisui told me.
+text ~
+text SHIKI had a grudge against Makihisa.
+text ~
+text SHIKI had a grudge against the old man because he was going to be locked away his entire life, even though my old man wanted to return SHIKI to the mansion as early as possible.
+text ~
+text SHIKI thought of me as the target of revenge, but he never showed up in front of me and he did not even know what I looked like.
+text And one more thing.
+text That one dream, where SHIKI was violating that one doll-like girl.
+text ~
+text That.. is probably----.
+bgload IMA_03.jpg
+music 08.mp3
+text A clear holiday afternoon.
+text I told Hisui to go shopping.
+text I asked her for a lot, so she shouldn't be back until evening.
+text ~
+text The only ones in the mansion are me and her.
+text I leave in her room a note that says I want to talk to her.
+text It is almost the promised time.
+text I have to go to that place.
+bgload CMO_20.jpg
+text When I get there, she is already there, waiting for me.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Lovely weather, isn't it, Shiki-san?"
+text I nod.
+text She smiles cheerfully at me.
+text ~
+text "You realized it, didn't you, Shiki-san?"
+text ~
+text I nod.
+text Her smile does not fade.
+bgload CMO_20.jpg
+text Always.... her smile does not go away no matter what happens.
+text Come to think of it, the expressionless Hisui actually showed a lot of different feelings.
+text From the outside, she appeared to be a heartless doll, but her heart was not a doll's.
+text However--what about this girl?
+text The always, ever smiling Kohaku.
+text No matter what happens, always a smile, like a person with the heart of a doll.
+text Even when Akiha died, that smile did not fade--her smile that is just like a mask.
+text ~
+text ----That smile.
+text ~
+text ".... Kohaku-san.
+text You're the one who made SHIKI go crazy, right?"
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Yes."
+text "And the reason you were sharing your blood with Akiha, was to make her not human?"
+text "Yes."
+text "And you lied to SHIKI, and made him attack innocent people."
+text "Yes."
+text "When we were small, the one watching us from a distance wasn't Hisui, it was you, Kohaku."
+text "Yes."
+text "Back then, you intentionally distracted Akiha!"
+text "Yes."
+text "And then you suggested that I kill SHIKI!"
+text "Yes."
+text ".... All of it, all of it is how you planned it out, Kohaku....?"
+text Still smiling, she nods.
+bgload CMO_20.jpg
+setimg KOHA_T19.png 52 0
+text "That's right.
+text All of it was something I wished would happen, Shiki-san."
+text Still, she smiles.
+text I feel a chill and unknowingly take a step back.
+text "Why---why, did you do these things?"
+text "Oh my.
+text You know already.
+text There are only one or two reasons why I would do all of this."
+text ".... Revenge.."
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Ah, I think that's it.
+text For the sake of revenge, I decided that every one of the Tohnos should die."
+text "Revenge.... Is it because like me, you had your parents killed by Tohno Makihisa?"
+text "Oh, don't be silly.
+text Hisui-chan and I were orphans.
+text We don't even know what our parents looked like."
+text "So why!?"
+text "Who knows.
+text I don't even remember how I felt back then.
+text All I know is the reason."
+text "Reason?
+text What reason?"
+text "Let's see.. such as getting abused by Makihisa-sama?
+text That is the reason why Hisui-chan and I were adopted in the first place.
+text In order to stay human, he needed our abilities as Synchronizers.
+text Shiki-san, you've done it with Hisui-chan, right?
+text It is said that sexual intercourse is the best way to share energy."
+text "------"
+text ~
+text I--knew that already.
+text Then that means--in other words--
+bgload CMO_20.jpg
+setimg KOHA_T05B.png 52 0
+text "Makihisa-sama was really pushed to his limits.
+text I think he was too desperate to consider my age.
+text I was chosen first for a simple reason.
+text He probably thought that since I wasn't talkative and was quiet, I wouldn't resist like the energetic Hisui-chan would have."
+text Even now, her smile, does not fade.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Makihisa-sama wasn't really a bad person.
+text Only sometimes, he would turn violent because of his Tohno blood.
+text So, for those times, he had me ready in his room, and he let those feelings out on me.
+text I guess it is called sexual abuse.
+text But I don't really remember much of it.
+text It was just like a daily routine for him to want me, so if I tried to remember something like that, my brain would explode, wouldn't it?"
+text "Oh, but I remember clearly the first time it happened.
+bgload CMO_20.jpg
+setimg KOHA_T05B.png 52 0
+text It was on my eighth birthday.
+text Makihisa-sama said he had a present for me, so I quietly but excitedly went into his room."
+text As if she is having fun, she gives her usual laugh.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Every day, he got a little worse.
+text But that couldn't really be helped.
+text I was merely a child, so my abilities as a Synchronizer weren't fully developed.
+text That's why he needed Hisui-chan's help too.
+text But, since I was the older sister, I just thought I shouldn't allow her to cry."
+text "So, I took in everything Makihisa-sama wanted to do.
+text I asked him not to touch Hisui-chan because I would take everything myself.
+text He was probably ashamed and agreed to my request.
+text He probably also thought it was better that as few people knew about this secret as possible."
+text "That's how I came to stay in Makihisa-sama's room, our relationship a secret from everyone else.
+text During that time, I was able to think about things a little bit, I think.
+text I always thought about how to get away, how to run away with Hisui-chan.
+text But I didn't know where to go, and the more I submitted my body to Makihisa-sama, the more I broke down.
+text Eventually, I got tired of thinking and I realized that if I didn't think, it wouldn't hurt."
+bgload CMO_20.jpg
+setimg KOHA_T19.png 52 0
+text "I am just a doll.
+text A doll doesn't know pain.
+text A doll doesn't think.
+text I endured Makihisa-sama thinking like that.
+text Then, it mysteriously did not hurt as much as before.
+text Makihisa-sama's breath didn't make me sick, his arms were just like warm meat, and even if he strangled my neck or kicked me in the stomach, it seemed like he was doing it to someone else.
+text And every day got a little easier."
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Shiki-san, I wanted Hisui-chan to stay clean.
+text For her sake, I could endure any kind of abuse.
+text But, it was so hard.
+text Not Makihisa-sama's abuse.
+text I couldn't understand you, and that made me scared."
+text ~
+text "Scared.... of me?"
+text ~
+text "Yes.
+text The way you played innocently was like a different world to me.
+text I looked out the window to see all of you play when Makihisa-sama wasn't looking."
+text "I didn't understand any of that.
+text I didn't understand why you did those pointless things.
+text It was strange for me to think so since it was just another world and I couldn't be involved in it.
+text I wasn't jealous of you, and I didn't hate the Tohno children.
+text All I did was stare at all of you, while having this unknown feeling.
+text But, I was afraid that feeling would turn me back into a human."
+text "And two years later, you were killed by SHIKI-sama.
+text You probably don't remember it, but SHIKI-sama was trying to kill Akiha-sama.
+text But you suddenly came, and you shielded Akiha-sama.
+text You weren't related to her, and you had everything stolen from you by the Tohno family, but you still died protecting her."
+text "At that time, I was watching Akiha-sama, who was holding onto your dead body painfully but happily.
+bgload CMO_20.jpg
+setimg KOHA_T05B.png 52 0
+text Oh, maybe I made up my mind back then.
+text That it would suit Akiha-sama for her to die just like you did."
+text "Wha----!"
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "Wait, Shiki-san.
+text If you want to know the reason, you have to be patient."
+text "......"
+text I stop my rush towards her.
+text "Days later, you were brought back to the mansion and you were going to be adopted by the Arimas.
+text That was really a secret, but I overheard it from Makihisa-sama.
+text That's how I knew you would be leaving.
+text I didn't have time to tell Akiha-sama or Hisui-chan.
+text When I thought that I couldn't see that boy again, without even getting to talk to him----my legs strangely moved, and I ran down the hallway and found him, but I couldn't think of anything to say.
+text So I gave him my ribbon, the only thing that I owned."
+text "I heard that the Tohno family members were going to terminate SHIKI-sama soon after that.
+text Makihisa-sama didn't want to kill his own son, so he secretly locked him away underground.
+text He said SHIKI-sama would return to normal and asked me to take care of him."
+text "............"
+bgload CMO_20.jpg
+text Oh, of course--that's how it was.
+text So that dream was real.
+text It wasn't that I wanted to abuse Hisui or Kohaku-san.
+text That--was in reality.
+text SHIKI.. did that to her----
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "After gaining some freedom from Makihisa-sama, I became a little happy.
+text But, it was the same.
+text SHIKI-sama was just like his father and only used me to let out his feelings."
+bgload CMO_20.jpg
+setimg KOHA_T19.png 52 0
+text "I think that had to have been what destroyed my last emotions.
+text I desperately thought about how I could break free from everything.
+text Then, I easily came up with a solution.
+text The whole Tohno family just had to disappear.
+text If not only Makihisa-sama but SHIKI-sama did those painful things, then that's the only possible thing to do, right?
+text And when I realized that, I laughed for the first time in years.
+text I was surprised that it was so simple and I didn't even realize it before."
+text "From that time, I was able to start moving on my own.
+text The hardest thing for me was to find a reason to move.
+text A doll can't move by itself.
+text Without a spring or strings, it can't act like a human.
+text So, once I found a reason, everything became simple.
+text All I needed to do was to place mistrust between them by making SHIKI-sama reject Makihisa-sama.
+text SHIKI-sama said that he wanted to drink blood, so I gave him mine and told him that he wasn't a bad person and I kept him the way he was."
+text "When SHIKI-sama became sick, I took care to make special medicine for him.
+bgload CMO_20.jpg
+setimg KOHA_T15.png 52 0
+text Oh, it's the same as the one I gave you.
+text You know those morning glories in the garden behind the mansion?
+text They are called Chosen morning glories and have three kinds of mental effects.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text In simple terms, it's a drug that makes people hallucinate.
+text Once they are unconscious, they listen to what I tell them, and when they wake up, they don't remember a thing.
+text Quite convenient, don't you think?
+text Because I was educated to become Makihisa-sama's personal doctor, I know a lot about these sorts of things."
+text "With things like that, SHIKI-sama went crazy at my convenience.
+text After that, it was even easier.
+text I secretly told Akiha-sama to look inside Makihisa-sama's room around midnight, and she finally found out about our relationship.
+text Since then, Akiha-sama felt guilty and it became easier to do a lot of things."
+bgload CMO_20.jpg
+setimg KOHA_T19.png 52 0
+text "Well, I didn't expect her to protest against him right away though.
+text But because Akiha-sama pressed the issue, I was released from Makihisa-sama soon after.
+text .... I thought that I wouldn't be free until SHIKI-sama killed Makihisa-sama, but I was freed four years earlier, actually.
+text From then on, I became a normal servant and traded places with Hisui, who became silent.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text Oh, but don't worry since I was the one who took care of SHIKI-sama and Makihisa-sama.
+text Hisui-chan was always clean of everything."
+bgload CMO_20.jpg
+text Smiling, she ends her story.
+text ~
+text ".........."
+text I don't know what to say.
+text Even if Tohno Makihisa was the main cause,
+text the one who wished it to turn out this way, and made it turn out this way is this girl before me.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "But Shiki-san.
+text I didn't hate Akiha-sama or SHIKI-sama.
+text I didn't even want to do it.
+text Those are my true feelings."
+text "------"
+text .... How can she say that now?
+text "But, there wasn't anything else I could do.
+text Without a purpose like that, I couldn't live.
+text A doll cannot move on its own.
+text Without anything to guide it, it can't move."
+text "But still--"
+text .... That is unforgivable.
+text "There wasn't anything I ever wished from my heart.
+text But it's strange.
+text Everyone seriously accepts what I say.
+text Just the words of a ten-year-old child can manipulate their feelings.
+text Aren't coincidences scary?"
+text ~
+text Kohaku giggles.
+text ~
+text "--Are you satisfied, Kohaku?"
+text "I don't know.
+text I'm merely a doll that doesn't feel happiness or sadness."
+text I thought she'd say that.
+bgload CMO_20.jpg
+text .... Before me is a human that is a doll.
+text A girl whose emotions were exhausted so long ago.
+text Nothing remains.
+text Telling herself that she is a doll that doesn't feel any pain.
+text More than half of her really believes it.
+text That's why injuries don't hurt her.
+text SHIKI and Akiha died, but she doesn't feel happy or sad.
+text ~
+text She is just,
+text an empty shell manipulated by strings.
+bgload CMO_20.jpg
+setimg KOHA_T14.png 52 0
+text "But----"
+text "Eh?"
+text "But, there was just one strange thing."
+text Really just a little bit.
+text She said that as her eyes trailed off into the distance.
+text "Akiha-sama protected me in the end.
+text I knew there was a fifty-fifty chance she would do that.
+text I stayed close to her for that reason.
+text Revealing Makihisa-sama's abuse and devotedly helping Akiha-sama who was slowly turning nonhuman.
+text ---Yes that's right.
+text Really, I knew she would die protecting me."
+text That smile.
+text Even though she is smiling, she looks really sad, as if she's--
+text ~
+text "But----I was really surprised at the time.
+text Why is she protecting me?
+text Why is she protecting me, risking her life?"
+text ~
+text ---She looks like she might burst into tears.
+bgload CMO_20.jpg
+setimg KOHA_T03B.png 52 0
+text "I still don't actually understand if I was actually happy or sad when Akiha-sama died.
+text But when I wake up in the morning, I take tea to her room even though I know she is gone.
+text Isn't this strange?
+text Even though there's no one in that room anymore."
+bgload CMO_20.jpg
+music ~
+text She takes something out.
+text The sound of moving cloth.
+text Holding something long wrapped in cloth, she aims for her chest.
+text ~
+text A shining blade reflects the sunlight.
+text ~
+text "Ko----!"
+text I run.
+text But, she is much faster.
+text ~
+text ---A small sound.
+text ~
+text And she collapses to the ground.
+bgload event/HIS_F01.jpg
+music 07.mp3
+text She stabs herself, and falls to the ground.
+text Even though I ran, it's already too late.
+text It has pierced her heart.
+text ~
+text My mind reels.
+text ~
+text ----Without reason.
+text "Wha--why......!?"
+text I hold her in my arms.
+text Fresh blood blossoms from her chest like a flower.
+text Her smile still does not fade.
+text ~
+text ~
+text ----On the contrary,
+text it seems indescribably pitiful.
+text "Hang in there..!
+text Why, why did you do that..!"
+text "Because revenge was the only thing I could do----I can only disappear when it's all over.
+text I tried to find new springs, but I could never find one, and time ran out."
+text She smiles.
+text ~
+text That.. for no reason at all----
+text "What the hell is that?
+text What are you saying..!"
+text I look at the wound like I did to Akiha.
+text ~
+text ---She won't make it.
+text ~
+text It has pierced her heart.
+text ~
+text "......"
+text Why?
+text There was no reason---I just can't bear the sadness.
+text .... She's looking up to the blue sky with thinned eyes.
+text Under the tree in the courtyard.
+text Eight years ago, when I was leaving this mansion, the place where the girl who was just looking out the window gave me a ribbon as a present.
+text ~
+text This is..
+text where we promised to meet again, under this big tree.
+text "That ribbon, it was my favorite."
+text ~
+text She speaks lightly.
+text ~
+text "That's why I asked you to return it when we met again.
+text But you didn't keep your promise, Shiki-san."
+text ~
+text "But--that.."
+text I was mistaken, and thought it was Hisui's----
+text "I made a little bet with myself.
+text That if that boy noticed that I switched places with Hisui-chan----then I would quit everything."
+text "Wha---what is that?
+text Are you trying to make me responsible for it at the end..!"
+text As I shout, my hand desperately tries to stop her bleeding.
+text But, death truly is miserable.
+text Ruthless, and accurate, without even a delay or the failure of a single second.
+text The clock of her life counts down to zero.
+text "Damn it, don't be ridiculous!
+text What the hell do you mean you made a bet!?
+text Because of you Akiha was, Akiha was----"
+text ~
+text I frantically try to stop the bleeding.
+text Sad, without a reason.
+text The tears flow from my eyes.
+text "Huh?
+text You're crying, Shiki-san."
+text "---Well excuse me!
+text Damn it!
+text I know it's your fault, damn it, so why do I----"
+text ~
+text That's right---
+text ~
+text "Kohaku, I still don't want you to die, damn it....!"
+text Tears flow down.
+text She smiles again.
+text "Shiki-san, you are too kind.
+text But please don't worry about it.
+text I'm just a doll, so I don't feel pain or fear."
+text "That again---why do you---"
+text "But it is much easier this way.
+text Being a human, everything is painful and it hurts too much.
+text But no one saved me, I couldn't escape."
+text She exhales slightly.
+text She closes her eyes and remembers.
+text "I just remembered something.
+text .... It was when I was a child.
+text I was scared and hurt, but more scared of dying.
+text Tohno Makihisa was huge, like a demon out of a story book.
+text The mansion was too big, like a haunted house.
+text Every day was cold, and it was my daily routine to cry and scream.
+text But if I raised my voice, it got worse, so I had to endure it all."
+text "But, my sister was playing outside.
+text She was laughing under the sun by easily jumping out the window of the haunted house, where I could not get out, no matter how much I wished for it.
+text .... Come to think of it, everything was sad.
+text That's why.
+text That's why I wanted to become a doll that didn't feel pain."
+text The bleeding doesn't stop.
+text With her eyes still closed, she remembers the childhood filled only with pain.
+text "I don't like pain.
+text That's why I thought it would be better to become a doll."
+text ~
+text "Ko.... haku?"
+text ~
+text "And gradually, my body stopped generating a pulse.
+text Blood vessels turned into tubes one by one.
+text Blood vanished like vapor.
+text My heart, everything, just crafted parts.
+text If I did that, there would be no more pain, right?"
+text "Wha................"
+text I can't say anything.
+text A girl who thought she was a doll.
+text A girl who couldn't live without thinking that she was a doll.
+text Kohaku had no other means of salvation but to maintain an illusion that she really was a doll.
+text "That's why, even if you are this kind, there is no need for tears.
+text It's just a doll breaking."
+text Kohaku still keeps her eyes closed.
+text ~
+text ---No, that is wrong.
+text I grasp her hand, and shake my head in refusal.
+text "No..!
+text Kohaku, you are human.
+text You can't be a doll..!
+text Kohaku, you're alive, you're a living human being..!
+text As proof, you are bleeding red blood right now!"
+text "Ah, that's right."
+text She laughs again.
+text ".... Right?
+text You're a normal girl who liked Akiha, was always worried about Hisui, and laughed when we talked about stupid things.
+text So----"
+text ~
+text Even if she wished it and caused the deaths of Akiha and SHIKI..
+text ~
+text "--Kohaku, there was no reason for you to die."
+text Increasing my grip, I say these words from the bottom of my heart.
+text ".... Huhu.
+text Shiki-san, you are just the boy I thought you would be.
+text I.... finally got to speak to you."
+text ~
+text Her heartbeat.
+text Her heartbeat surges like it is a grand finale.
+text Her chest rises and falls.
+text .... Her closed eyes open.
+text At the very end.
+text ~
+text She looks at the deep, distant blue sky.
+text ~
+text "I see---I guess it was only an illusion after all."
+text She coughs up blood.
+text ~
+text ----It hurts.
+text She whispers softly.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text "That's why--I wanted to be a doll."
+bgload IMA_05.jpg
+text Then, she passes away.
+text The hollow eyes endlessly look into the blue sky.
+text Not a fake smile, but a quiet and very sad face.
+music ~
+bgload IMA_10.jpg
+bgload BG_48A.jpg
+music 02.mp3
+text ----Leaving my room, I head towards the gate.
+text ~
+text After a quiet meal together, we leave the garden behind.
+bgload BG_32A.jpg
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Please be careful, Shiki-sama.
+text It has become cold recently, so do not strain yourself."
+text "Yeah.
+text Don't strain yourself either, Hisui."
+text Taking my bag from Hisui, I turn my back to the mansion.
+bgload BG_32A.jpg
+text The road is long, as if it goes on forever.
+text The gently sloping road, and the blue sky that might suck me in.
+text I see an illusion.
+text The road, like a ladder, heading to the sky, trying to reach the clear, blue sky.
+text ~
+text ---I see that, and for no reason.
+text I remember that sorrowful affair.
+text "--------Hisui."
+bgload BG_32A.jpg
+setimg HIS_T01.png 62 0
+text "Yes.
+text What is it, Shiki-sama?"
+text ".... Mm, tomorrow is the start of winter break, right?
+text I'll come straight home, so how about we go to town?
+text I have something I want to talk about, too."
+text "Huh--?
+text To town?"
+text "Yeah.
+text Once it is winter vacation, let's take a trip somewhere.
+text .... Well, I don't know where yet, so I was thinking of letting you decide."
+bgload BG_32A.jpg
+setimg HIS_T26.png 62 0
+text Hisui stands there in silence.
+text .... That's right.
+text Hisui doesn't leave the mansion for herself.
+text Kohaku-san was always the one to take care of things outside, so Hisui never left for eight years.
+text ~
+text .... It isn't that I don't like that fact.
+text Only, it's just that,
+text I wanted to go somewhere new with Hisui and wanted to increase our fun memories so we won't lose against all the sad memories.
+text "What do you think?
+text If you don't want to, I don't mind either way."
+bgload BG_32A.jpg
+setimg HIS_T03.png 62 0
+text "----No, if I get to be with you, it would make me very happy.
+text I--will look forward to it."
+text "I see.
+text Then, I'll be back before noon.
+text Please be waiting in some regular clothes.
+text Then we'll figure out what to do.... and maybe a terrible guy might come along too, but we'll deal with it then if it happens."
+bgload BG_32A.jpg
+setimg HIS_T23.png 62 0
+text Hisui tilts her head questioningly, but agrees.
+text .... When I go to school, I will end up asking for suggestions from Arihiko, but considering him, he will want to come along.
+text ~
+text ---Well, that's that.
+text I can ask his sister to come along too and going with a lot of people might not be bad either.
+bgload IMA_03.jpg
+text "Well, I'm off.
+text Thanks for sending me off, Hisui!"
+text Saying that, I run down the hill.
+text The road is long, and continues into the town.
+text I run under the clear blue sky and feel the warmth of Hisui's gaze on my back.
+music ~
+bgload BG_48A.jpg
+music 08.mp3
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text And, I see him off.
+text This daily task done, I close the gate.
+text The only one left in the mansion is me.
+text Nee-san and Akiha-sama are no longer here.
+text And it seems that no new servants or masters will be coming.
+text His sister left him this mansion and some money.
+text Since the money that is used to maintain this place will be paid by the members of the branched Tohno family, it seems we will not have to leave here anytime soon.
+text ---Once vacation starts, do you want to take a trip?
+text ~
+text I decided to nod to those words.
+text .... Ever since that day, I forbade myself from leaving this mansion.
+text Ever since I found out Makihisa-sama was using Nee-san like that in my place, I hated going outside.
+text Isn't it natural?
+text Nee-san did that so I would stay clean.
+text So, I had to stay clean, no matter what.
+text I would not let any male touch me.
+text I would never touch the fingers of the gender that used my sister like that.
+text I thought it would be better if I was just like a machine.
+text If I went outside, I would get dirty, so it would be better if I stayed inside.
+text If I locked myself away in the sterile mansion, I would never become dirty.
+text Because Nee-san protected me.
+text I thought the only thing I could do was become like a doll, staying pretty forever.
+text ~
+text ".... But, I will end that, will I not?
+text I am thinking of going outside, Nee-san."
+bgload IMA_10.jpg
+bgload BG_42A.jpg
+text Once it gets close to noon, I change my clothes.
+text .... It's been years since I last wore my own clothes.
+text Pushing my hands through the sleeves, I am amazed at how light it is.
+text That maid uniform I got used to so much, compared to these light regular clothes, is really heavy.
+text "--------Ah."
+text ~
+text A wind blows.
+text The hair ribbon that was in my hand flies off.
+text It is white.
+text It was a lone memory that a girl gave to him a long time ago.
+bgload event/HIS_F03.jpg
+music 07.mp3
+text The ribbon flies up and up.
+text Riding the wind, as if it was never there before, it vanishes into the forest.
+text ~
+text "Wait, that was----"
+text ~
+text I try to chase after it, and I stop.
+text That was the girl's ribbon.
+text It is not mine, so I guess I have to at least give that back to her.
+text In my hand, I hold a promise.
+text That awaited promise of the girl who gave that ribbon still lives inside of me.
+text ~
+text ~
+text ~
+text So---just that ribbon, at least.
+text I think it tried to return to the place the girl dreamed of.
+text "--------"
+text Promises are fulfilled.
+text If he thought I was that girl, then I will have to fulfill her dream.
+text Like how I love him.
+text That girl had to have always loved him too.
+text Come to think of it, we really were sisters alike each other.
+text Nee-san and I traded places, but Nee-san really did a perfect job of acting out my part.
+text That carefree smile.
+text Those straightforward emotions.
+text And that fleeting experience of love with him, those were all real.
+text Even though it was just an elaborate play, Nee-san really did love him when she played my role.
+text She played my part perfectly, and she loved him from the bottom of her heart.
+text .... Long ago.
+text As if watching a dream that girl always wished and waited for.
+text "That's why, Nee-san.
+text That's why I have to return to myself."
+text ~
+text I don't think I can do it right away, but I can do it gradually.
+text Maybe I won't be able to behave exactly as I was back then, but with all my strength----I must fulfill her dream, as I am right now.
+text After the boy left, Nee-san acted like me because she wanted to do that.
+text .... Her dream was always to be Hisui and to love Tohno Shiki.
+text So I will grant her dream.
+text For the sake of my childhood dream, and for Nee-san's dream, I will always---always be by his side.
+text "Ah------"
+text ~
+text I hear noisy voices in the distance.
+text .... It seems like he has returned, but it is noisy.
+text .... He is not alone, but it looks like he brought some friends.
+text ~
+text --A voice calls my name.
+text ~
+text Checking myself in the reflection off a window, I hurry to the entrance.
+bgload IMA_03.jpg
+text ~
+text ---The sky, the infinite deep, blue, sky.
+text ~
+text Hisui greets the long-awaited boy, takes delight in such normal things, and returns a smile.
+text That is something that will continue tirelessly, day after day.
+text The long-awaited peaceful world.
+text ~
+text I have been waiting for it for so, so long.
+text Always believing that one day I would be flying freely, I always stood by the window, looking up at the deep sky.
+text That one day, wings would sprout from this world.
+text And wings would sprout from this back.
+text And I will smile like Nee-san with that boy.
+text ~
+text ------This is what the little girl,
+text so long ago,
+text dreamed of------
+bgload IMA_10.jpg
+music ~
+bgload IMA_10.jpg
+bgload FIN.jpg
+gsetvar clear_hisui + 1
+gsetvar cleared + 1 
+gsetvar clear_hisui_true + 1
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s530.scr
+fi
+if selected == 2
+    jump main.scr
+fi

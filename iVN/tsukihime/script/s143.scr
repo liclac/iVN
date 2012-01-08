@@ -1,0 +1,114 @@
+if flg7 >= 1 
+    jump s144.scr
+fi
+if flg8 >= 1
+    jump s145.scr
+fi
+
+bgload CMO_05.jpg
+text Back then, the whole mansion was like a giant playground.
+text ~
+text The garden, a deep forest.
+text The house, a tall castle.
+text ~
+text We played in our own little world, which would take days to explore.
+text Every day was fun.
+text No one thought about ever growing up,
+text and we believed that days and nights would always be the same.
+text ~
+text It was just a childhood spent playing like puppies.
+text We got along wonderfully, and were the best of playmates.
+text Whenever I turned back, Akiha would be there, aacing her hands and hiding shyly.
+text Yes, always the same.
+text At that time, the mansion was a giant playground.
+text ~
+text The garden, a deep forest.
+text The house, a tall castle.
+text ~
+text We played in our own little world, which would take days to explore.
+bgload IMA_11.jpg
+text I slowly awaken and open my eyes.
+text The morning light wraps around me and my sleepiness starts to lift.
+text ~
+text As the last vestiges clear,
+text I sense that I had a very nostalgic dream.
+bgload BG_40E.jpg
+text "-------"
+text As soon as I open my eyes, I start to see those terrible things jump into my vision.
+text My head stabs with pain.
+text "Gg----"
+text I scramble for the glasses by my pillow and put them on.
+bgload BG_40A.jpg
+music 02.mp3
+text I take in some air.
+text After taking a few deep breaths, I manage to calm down.
+text "Why did I----so early.."
+text See those lines so clearly this early in the morning?
+text It's difficult to see the lines of death in buildings.
+text It's usually hard to see them, and seeing them so clearly like I just did now is rare.
+text "........"
+text What's more, I even saw those "points".
+text I think my headache is getting worse too.
+text Sensei said these eyes would attract things that weren't good.
+text I think Arcueid and these vampires are certainly not good.
+text So, maybe it's all affecting my eyes and making them stronger.
+text ~
+text "----Can't be."
+text I'm probably just tired.
+text "Huh----?"
+text Come to think of it, Hisui isn't here.
+text It's already past seven.
+text Normally she would have already come in and woke me up.
+text ~
+text ".... Maybe Hisui slept in."
+text But I see my freshly prepared uniform on my desk.
+text "What's this?
+text Maybe she had some other duties."
+text I'm a little curious, but I guess it doesn't concern me.
+text I don't have time this morning, so I should just hurry up, change and go to the sitting room.
+bgload IMA_10.jpg
+bgload BG_34A.jpg
+music ~
+text "------Ah."
+text As I go from the lobby towards the sitting room, I realize I forgot something terribly important.
+text I open the door and stand there, without taking a single step forward.
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text Akiha is in the sitting room.
+text Kohaku-san is nearby and the two of them are drinking tea silently.
+bgload BG_34A.jpg
+text ~
+text Normally she would say,
+text "Good morning, Nii-san,"
+text no matter how angry she might be, but she doesn't even look at me this morning.
+text "Ah...... uh."
+text It goes without saying.
+text Arcueid's coming here last night has some very lasting repercussions.
+text Akiha's irritation is permeating the air.
+text You could practically cut the tension with a knife.
+text ~
+music 02.mp3
+bgload BG_34A.jpg
+setimg KOHA_T01A.png 52 0
+text "Good morning, Shiki-san."
+text .... Well, it seems like she's remained unaffected, at least.
+text "Ah.. yeah, good morning Kohaku-san."
+text Raising a hand to Kohaku-san, I enter the sitting room.
+bgload BG_34A.jpg
+bgload BG_34A.jpg
+setimg AKI_T03A.png 40 0
+text Akiha glares at me as I shuffle into the sitting room.
+text ~
+text ---Ugh, I'm not going to succumb to this silent pressure!
+text ~
+bgload BG_34A.jpg
+choice I should smooth things over with a cheerful greeting.|I won't do something stupid, so just greet her normally.|No, no
+if selected == 1
+    jump s146.scr
+fi
+if selected == 2
+    jump s147.scr
+fi
+if selected == 3
+    jump s148.scr
+fi

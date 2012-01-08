@@ -1,0 +1,22 @@
+text ~
+text ----swallowed.
+text ~
+text With a splashing sound, I am engulfed in the surging, heaving aace.
+text An oppressive invasion.
+text It violates, assaults, and dissolves.
+text "--------"
+text Flesh, spirit, soul.. all disappearing.
+text I am not killed.
+text It's more accurate to say I've been melted and absorbed as a part of this black aace.
+text I observe the me that is me disappear in the black aace----
+bgload 
+bgload END.jpg
+text !
+text Will you take 'Ciel-sensei's lesson'?
+choice Yes.|No.
+if selected == 1
+    jump s513.scr
+fi
+if selected == 2
+    jump main.scr
+fi

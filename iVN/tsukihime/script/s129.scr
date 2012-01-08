@@ -1,0 +1,56 @@
+bgload BG_01A.jpg
+text ----I arrive thirty minutes earlier than usual.
+text The figures of students around the school gate are sparse.
+text It seems I'm the only one who's arrived at this odd time.
+bgload BG_03A.jpg
+text On the school grounds, the athletic clubs are holding their practices.
+text .... I'm not in any clubs right now, but truthfully, I like to move around a lot.
+text I know that I have some athletic ability, at least enough to be proud of.
+text ~
+text But, I can't join any clubs.
+text My body always has this recurring anemia so I would just be a bother----and my doctor has told me that I should not exercise frequently.
+text Since middle school, I've been asked more than a few times to join a club.
+text But I always have to say "it's not my thing" and refuse.
+text Every time I refused----I felt a sense of separation.
+text That might have been..
+text a subconscious wall that told me I will never be able to mix in with the people on the other side.
+text "........"
+text Ah, that's enough.
+text This really isn't my thing.
+text I'll stop thinking such thoughts and hurry on to the classroom.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+music 03.mp3
+text "Huh----?"
+text I thought I was the first one, but it seems like some of my classmates are already here.
+text "Yo, you're early Tohno."
+text "Morning.
+text This class seems to have a lot of people with spare time."
+text "Nah.
+text Our practice just got over with.
+text Those that come here this early who aren't in clubs are usually only those with daily duties."
+text ~
+text I see.
+text That does makes sense, now that he mentions it.
+text Greeting those around me, I take my seat.
+text It's half an hour before homeroom.
+text It's not a bad idea to just watch my classmates arrive.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+text The classroom starts to get busy around seven fifty.
+text "----Huh?"
+text I think I saw Senpai in the hallway.
+text "She's down at the first year hallway again----what is she doing?"
+text Maybe she came to see me?
+text Then----
+text ~
+choice I'll go into the hallway and talk to her.|No, it probably doesn't concern me so I'll just watch from here.|An opening! I'll surprise her from behind!
+if selected == 1
+    jump s130.scr
+fi
+if selected == 2
+    jump s131.scr
+fi
+if selected == 3
+    jump s132.scr
+fi

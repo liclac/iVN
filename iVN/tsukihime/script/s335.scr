@@ -1,0 +1,122 @@
+bgload BG_40B.jpg
+text ---If I go to the sitting room, there should be someone there.
+text ~
+text Being with company is surely more pleasant than being alone.
+bgload IMA_10.jpg
+music 03.mp3
+bgload BG_34C.jpg
+text I enter the sitting room and see Kohaku-san.
+bgload BG_34C.jpg
+setimg KOHA_T02.png 52 0
+text "Ah, Shiki-san.
+text What can I do for you?
+text Supper isn't for another hour."
+text "No, I came here to relax, not for a meal.
+text I hope I'm not intruding?"
+text "Oh, no, please come in.
+text Let's see.."
+bgload BG_34C.jpg
+bgload BG_34C.jpg
+setimg HIS_T23.png 62 0
+text "Nee-san, about the detached building.."
+text "Hi.
+text Sorry to intrude, Hisui."
+bgload BG_34C.jpg
+setimg HIS_T01.png 62 0
+text ".... Welcome home, Shiki-sama.
+text I am sorry I was not able to welcome you home."
+text "It's okay, don't worry about it.
+text I'm sorry for not saying hi as soon as I got back."
+bgload BG_34C.jpg
+setimg HIS_T02.png 62 0
+text "-------"
+text Hisui's cheeks become faintly red.
+text Little by little, I'm coaxing expressions out of her.
+text I'm pleased.
+bgload BG_34C.jpg
+bgload BG_34C.jpg
+setimg KOHA_T01A.png -12 0
+text "Excellent timing.
+text Hisui-chan, would you prepare a drink for Shiki-san?"
+bgload BG_34C.jpg
+setimg KOHA_T01A.png -12 0
+setimg HIS_T01.png 126 0
+text "Yes.
+text Shiki-sama, what would you like to drink?"
+text "Hm.
+text Since it's before dinner, I guess just tea would be great.
+text I only came down to chat, so I don't want to be any trouble."
+text "Please wait a moment, then."
+bgload BG_34C.jpg
+bgload IMA_10.jpg
+bgload BG_34C.jpg
+text Hisui returns with three teacups, and time passes by slowly and silently.
+text ~
+text "Ah, by the way, Hisui, you were talking about the detached house earlier?"
+bgload BG_34C.jpg
+setimg HIS_T01.png 62 0
+text "Yes.
+text Did you have a question about it?"
+text "Mm, not particularly, but Akiha was saying no one can go there anymore.
+text Did something happen there while I was gone, by any chance?"
+bgload BG_34C.jpg
+bgload BG_34C.jpg
+setimg KOHA_T02B.png 52 0
+text "No, nothing like that.
+text It merely houses servants' quarters, so there's no reason for you to go there, Shiki-san."
+text "Servant's quarters....?"
+bgload BG_34C.jpg
+setimg KOHA_T03B.png 52 0
+text "Yes.
+text Although it's only me and Hisui-chan now, a little while ago there were more than ten servants working in the mansion.
+text Since there isn't room for so many people in the mansion, the detached building was built."
+bgload BG_34C.jpg
+bgload BG_34C.jpg
+setimg HIS_T09.png 126 0
+text "Nee-san---you must not speak about this."
+bgload BG_34C.jpg
+setimg KOHA_T11.png -12 0
+setimg HIS_T09.png 126 0
+text "Ah."
+bgload BG_34C.jpg
+text Hisui says this, and Kohaku-san looks around guiltily.
+text .... There is no sign of Akiha.
+text Kohaku-san lets out a sigh of relief.
+bgload BG_34C.jpg
+setimg KOHA_T04B.png 52 0
+text "Shiki-san!"
+text "Ah.. Yes, what is it..?"
+text ".... Our talk just now is a secret!"
+text Kohaku-san grips my hand hard.
+text "Ah, yeah---I won't tell Akiha about it."
+bgload BG_34C.jpg
+setimg KOHA_T03B.png 52 0
+text "Yes, thank you."
+text Kohaku-san sighs with relief once more.
+text It seems like Akiha forbids talking about the detached building.
+bgload BG_34C.jpg
+text ----But, why?
+text The detached building that used to be the servants' quarters.
+text Akiha doesn't want people to go there.
+text "Hey, Kohaku-san.
+text How long has the detached building been unused?"
+bgload BG_34C.jpg
+setimg KOHA_T11.png -12 0
+text "Uhhh.. Hisui-chan?"
+bgload BG_34C.jpg
+setimg KOHA_T11.png -12 0
+setimg HIS_T01B.png 126 0
+text "........"
+text Hisui silently shakes her head.
+text It seems that even this cannot be spoken of.
+text "What?
+text Is it a secret?"
+bgload BG_34C.jpg
+setimg KOHA_T11.png -12 0
+setimg HIS_T01.png 126 0
+text "---Yes.
+text Talking about the detached building would be bad for your health, Shiki-sama."
+text And with that final response, talk of the detached building ceases.
+bgload IMA_10.jpg
+music ~
+jump s338.scr

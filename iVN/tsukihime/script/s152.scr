@@ -1,0 +1,35 @@
+bgload BG_06A.jpg
+text ----I'll ignore her.
+text ~
+text If I just run down to her and people see me, it'll be a problem.
+text No matter what she does, if I act like a stranger, it won't hurt me.
+text .... Well, tonight she'll probably say "Why did you ignore me?" But, it can't be helped.
+text All I want is for the school to remain peaceful and not do anything.
+bgload IMA_10.jpg
+bgload BG_06A.jpg
+sound SE_03.aac 1
+text It's lunchtime.
+text I'm not in the mood for bread for lunch, so I'll go to the cafeteria.
+text ".... Huh?"
+text I feel like I forgot something, but, whatever.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text The cafeteria is in chaos as usual.
+text Most of the tables are filled, so if I don't hurry, I won't have a seat.
+text "Ah, Senpai."
+text I see Ciel-senpai sitting in a group.
+text Are those her friends from class?
+text While talking with a group of girls, she's seriously eating curry udon.
+text ~
+text .... Come to think of it, she's always eating a "curry-something".
+text "She, really likes curry, I guess."
+text I'll have to ask her about it.
+text "......"
+text But, something pulls at me.
+text I feel like I've forgot something important.
+text Something, dangerous if left alone.
+text ~
+text ".... Well, if I don't remember, it can't be that important."
+text Even though it seems really important, I just turn all my attention to my lunch for now.
+bgload IMA_10.jpg
+jump s153.scr

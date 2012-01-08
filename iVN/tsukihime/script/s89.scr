@@ -1,0 +1,69 @@
+bgload BG_09B.jpg
+setimg CEL_T08.png 52 0
+text "Eh?
+text Ah, um.. I was just a little surprised at how calm you were about all of this, Tohno-kun."
+text "Really?
+text Well, my family is a strict one, so I'm used to these kinds of things.
+text More importantly, Senpai, didn't you have something you wanted to talk to me about?"
+bgload BG_09B.jpg
+setimg CEL_T03.png 52 0
+text "Yes.
+text I haven't thanked you for this morning yet, so I thought I'd take care of you for a bit like this."
+text Senpai makes her incredulous statement with a soft smile.
+text "T-take care of me?
+text That's not how you use the phrase 'take care' in Japanese, Senpai."
+text "Oh, really?
+text You mean people don't say 'taking care' when they're showing someone hospitality in order to thank them?"
+text "---No, they don't.
+text I don't think it's a mistake, exactly, but it's not quite right either."
+text "Hmm.
+text These manners-related phrases sure are difficult, aren't they?
+text I suppose I shouldn't try to use them if I'm not familiar with them."
+text Senpai laughs embarrassedly.
+text "No, not at all.
+text They say manners come from the heart, after all.
+text As long as you have the right feelings, it's just a trivial error."
+bgload BG_09B.jpg
+text Senpai's eyes snap in my direction as she stares at me.
+text .... Her gaze is so serious I feel like I just became some kind of rare animal in a zoo.
+text "Um.... Senpai?
+text Did I just say something rude?"
+bgload BG_09B.jpg
+setimg CEL_T07A.png 52 0
+text "............"
+text Senpai continues to stare at me.
+text "Um...... Senpai?"
+text For some reason, I feel incredibly embarrassed.
+text "------It really does suit you well, Tohno-kun.
+text Being younger yet calmer than me.. you're impertinent."
+text Senpai glares at me.
+text .... I don't understand how her mind works at all.
+text "------I'm sorry.
+text It was kind of arrogant for me to speak like that."
+bgload BG_09B.jpg
+setimg CEL_T08.png 52 0
+text "Yes, it was so impertinent I was moved."
+text She lowers her shoulders with a sigh and she sips her tea.
+bgload BG_09B.jpg
+setimg CEL_T03.png 52 0
+text "I've become curious about you, Tohno-kun.
+text Please, talk to me.
+text It can be about anything."
+text Senpai straightens her posture, with an attitude like a teacher looking at her student.
+text "........"
+text It doesn't seem like I can refuse.
+text ".... Well, okay, but it's not going to be very interesting if we're just going to talk about me, Senpai."
+text Senpai responds with a smile.
+text .... I've got no choice.
+text It's not like me, but I suppose I'll talk to her about school------
+bgload IMA_10.jpg
+text In the end, Senpai was happy to listen no matter what I talked to her about.
+text It was surprising to see her get so worked up when we were talking about middle school.
+text Apparently, Senpai had never been on a school trip.
+text "That sounds nice, everyone going on a trip together," she said, her eyes twinkling.
+text It was quite an impressive sight.
+text ~
+text At any rate, I held a one-sided conversation for an hour, but it made me rather tired.
+text With Senpai's permission, I decide to head home.
+music ~
+jump s36.scr

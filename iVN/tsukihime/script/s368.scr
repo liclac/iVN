@@ -1,0 +1,15 @@
+bgload BG_33D.jpg
+text -----The very back of the east wing on the second floor.
+text ~
+text That's where Akiha's room is.
+bgload IMA_10.jpg
+text .... I run up the stairs.
+text The heated air and sense of foreboding seem to stretch over the dark of night like glass.
+text ~
+text ----*pant*, *pant*, *pant*.
+text ~
+text Breathing heavily, I reach the top of the stairs and walk down the hallway.
+text .... My back hurts.
+text This terrible feeling in the air gets heavier as I draw near Akiha's room.
+setvar akiha_regard + 1
+jump s370.scr

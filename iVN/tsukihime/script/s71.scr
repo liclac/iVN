@@ -1,0 +1,23 @@
+bgload BG_34A.jpg
+text "Akiha.
+text About Kohaku-san.."
+bgload BG_34A.jpg
+setimg AKI_T01A.png 40 0
+text "Yes?
+text What about Kohaku?"
+text "She's a really nice person, isn't she?
+text I was just scolded by her in the hallway.
+text 'You won't grow without eating breakfast!' she said."
+bgload BG_34A.jpg
+setimg AKI_T04A.png 40 0
+text "Hmmmn.
+text That sounds like something she would say.
+text Do you like Kohaku, Nii-san?"
+text "Eh---No, that's not what I mean.
+text I was just surprised because I was never scolded like that when I was at the Arima household.
+text Thanks to her, it doesn't seem like I'll be able to skip breakfast from now on."
+text "That's right.
+text You are anemic after all, so it would not do you good to skip breakfast."
+text The dizziness isn't really linked to my diet, but I just nod obediently.
+bgload BG_34A.jpg
+jump s73.scr

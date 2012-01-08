@@ -1,0 +1,394 @@
+bgload BG_29B.jpg
+music 09.mp3
+text It's probably because of all the recent murders, but it's only ten o'clock and there's no one in the park.
+text The empty night hangs overhead.
+text There, a white figure stands.
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "Shiki!"
+text As soon as she sees me, Arcueid angrily yells at me.
+text "Hey, what time do you think it is?
+text You're twenty minutes late!"
+text "........"
+text It seems she came here right on time.
+text "Yeah, sorry.
+text I left before ten o'clock, but it took some time trying to leave the mansion without Akiha noticing.
+text I'll definitely be on time the next time, so please forgive me."
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "---Geez.
+text You don't seem to realize we are going to go killing."
+text Arcueid practically pouts.
+text Don't tell me, she was waiting long before the promised time?
+text "Arcueid.
+text Since what time were you waiting for me?"
+text "Me?
+text I came here as soon as I woke up, so----"
+text "Hmm," Arcueid thinks this over.
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "----Probably since seven o'clock."
+text "Seven?
+text You were waiting for more than three hours?"
+text What in the world was she thinking, coming three hours early?
+text "It seems I'm strange."
+text As if truly amazed, Arcueid mumbles to herself.
+text "---Well, I'm partly to blame because I was late, but don't you have some issues too?
+text If you come before the agreed time, then of course you'll have to wait."
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "Hey---that's something entirely different.
+text The fact you were late doesn't change."
+text ".... Well, that is true.
+text But, why did you wait three hours?
+text If you had that much time, couldn't you have just gone back to your room?"
+bgload BG_29B.jpg
+setimg ARK_T16.png 36 0
+text "I.. don't know why either.
+text It somehow was fun and while I was thinking it was nice waiting for you, it was already ten o'clock."
+text "?
+text Fun?
+text Why?"
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "Who knows.
+text Didn't I say I didn't understand it myself?
+text .... Maybe because you killed me.
+text At that time, something broke that couldn't be healed.
+text I think it's strange myself, but I can't understand what's broken inside me."
+text "........ Uh."
+text Having her say that is very troubling.
+text Having sliced her into seventeen pieces, if she says there's something wrong, all I can do is to apologize.
+text "---It's okay.
+text We don't have much time, so we can't waste time talking about pointless things, Shiki."
+text Yeah, saying that really helps me out.
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "But, if you're ever late again, I'll just have to go to your house and pick you up.
+text You're the one who couldn't keep the promise, so you have no complaints, right?"
+text "Stu---no way!
+text I'll keep it, but random unfortunate circumstances like today could happen at any time.
+text If I'm late, that'd be the last thing you should do!
+text Look, don't come to my house even if it's a mistake.
+text --What's more, Akiha doesn't know about all this, so please don't make things more complicated than it is!"
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Hmm?
+text .... Akiha?
+text Your sister that doesn't look at all like you?"
+text "You've said a little too much, but yes."
+text "I see.
+text You're that scared of your little sister?"
+text "---Shut up.
+text I just don't want to worry her.
+text .... At the very best, I'm a bother to her, so I don't want to tire her out even further."
+text "Hmm.
+text You really are sweet to your sister, Shiki."
+text "I'm basically nice to everyone.
+text Well, recently there's been an exception to that."
+bgload BG_29B.jpg
+setimg ARK_T08.png 36 0
+text "Ahaha, that's me!"
+text ".... You're always dense.
+text That was an insult, not a compliment."
+text "Not at all.
+text To you, I'm an exception, right?
+text How could I not like that?"
+text She smiles again.
+text A child's smile, bright and carefree.
+text ~
+text "......"
+text If I keep seeing that, I'll lose all my venom.
+text "---I'm tired all of a sudden.
+text Let's start looking for the vampire, Arcueid."
+bgload BG_29B.jpg
+setimg ARK_T01A.png 36 0
+text "Yes, it's about time.
+text Then we'll start walking around town---"
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "Shiki.
+text I want you to take off your glasses, but is that alright?"
+text "Take off my glasses?
+text .... Why?"
+text "It's hard to notice them with just me.
+text I can sense the presence of humans and non-humans, but that won't help me find the vampire.
+text All I can sense is the presence, but with your eyes, you can quickly tell between living and dead things.
+text So it's a waste if we don't use what we have, right?"
+text ~
+text "-----"
+text .... Certainly I can understand what she's saying.
+text But, taking off my glasses means---
+text "I know.
+text Even I could feel your eyes getting stronger these past few days.
+text And if you keep doing this, it may not be good for your health.
+text I'm still saying despite that.
+text But, the choice lies up to you, so I'm not going to force you.
+text If you think it's alright to do so, take your glasses off and follow me."
+bgload BG_29B.jpg
+text .... Take off my glasses and walk around town?
+text I haven't done that since I received these glasses eight years ago.
+text In the first place, the things I see without my glasses give me such a headache, it'd be easy to imagine what would happen if I walked around town.
+text ~
+text But still.
+text Just like Arcueid who keeps going even though her wound hasn't healed, Tohno Shiki should do the same and pay back his debt----
+text "Arcueid, I---"
+text ~
+text ---I'm fine, isn't it just a headache?
+text Compared to the pain her body must be feeling, this is nothing.
+text ~
+text "It's fine, I can take off my glasses.
+text It's a small price to pay to make our search easier."
+bgload BG_29B.jpg
+setimg ARK_T10.png 36 0
+text "---I see.
+text Then let's go, Shiki."
+bgload BG_29B.jpg
+text Arcueid turns around and starts walking.
+text I take off my glasses as I follow her.
+bgload IMA_10.jpg
+bgload BG_26A.jpg
+text .... I follow Arcueid.
+text I haven't walked in scenery so riddled with lines since my hospitalization back then.
+text ~
+text "----"
+text ~
+text Strangely enough, I don't get a headache.
+text It seems just seeing them won't cause it.
+text It's not the thin lines in the buildings, but seeing the "lines" on the people walking by makes me sick.
+text Before, I thought they were just lines that were easy to cut along.
+text But now I know they are the "death" of things.
+text That's why I feel disgust first.
+text It's not that those figures of people scribbled over with lines are disgusting.
+text Just seeing---that humans are an existence so close to death makes me feel like throwing up.
+bgload IMA_10.jpg
+text .... We walk the nighttime streets.
+text Arcueid doesn't say anything, she just continues to stride forth resolutely.
+text ~
+text We walk for hours in the midst of town.
+text In the end, we don't see one aberration, not one person wrapped in "death".
+music ~
+bgload BG_29C.jpg
+bgload BG_29C.jpg
+setimg ARK_T04.png 36 0
+text "Shiki, you can put your glasses back on.
+text It seems like no matter how much we search tonight, it'll be useless."
+text Arcueid concludes with a sigh.
+bgload BG_29B.jpg
+music 01.mp3
+text I put my glasses back on.
+text My vision returns back to normal and I relax.
+text "Useless?
+text Is it okay to just decide that all of a sudden?
+text We've only looked everywhere once, right?"
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "No, just once is enough.
+text The presence of The Dead tends to linger around a place.
+text I haven't sensed any of them around at all, so there aren't any that are active."
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+text ".... The enemy is alert now that most of his Dead are defeated.
+text Seriously, he really is a coward.
+text I was so prepared to finish it all tonight, but it appears he still wants to play hide and seek."
+text Arcueid bites her lip, dissatisfied.
+text "You look like you're in a bad mood, Arcueid."
+text "Of course I am.
+text You went through such trouble to help me, but it's all meaningless now."
+text "--Well, I don't really mind.
+text If you're that dissatisfied, I don't mind going out to look again.
+text Maybe if I concentrate more we can find something."
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "That's no good.
+text I can't strain you any more."
+text "Strain?
+text I'm not really straining."
+text "You are.
+text You might not realize it, but if you abuse your brain anymore, you might end up disabled."
+text "....?
+text Disabled?
+text Who?"
+text "You.
+text ---That's right, you don't exactly know how your eyes work."
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "Okay?
+text You said yourself it was easier to see the death of living things than non-living things, right?
+text Basically, it's a problem of the circuitry of your brain.
+text The death of things.
+text Being able to see that cause and effect, it's closer to reading than seeing."
+text ".... Everything has a main reason, the one source.
+text Um, it's the same thing that a German scientist called the Akashic Record.
+text In other words, in the core of all phenomenon, there is something that "records all things".
+text It's less of a record than an "existence", so it isn't information.
+text It just exists.
+text It doesn't have any purpose in and of itself, or any direction.
+text It's like a root swirl from which flows out all reasons."
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "Things in this world flowed from that, derived from that, and preserve their current form.
+text You and I, vampires and humans, we all originated from that.
+text .... Things became more complex and separate, and cannot return to that original source, the beginning.
+text But you understand that there exists "The One", right?
+text But, no matter how different a form something takes from the great source, it is still a derivative.
+text So even if it is only a slender line, there is a thread connecting to the source."
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "The source of all things, the record that records the beginning and the end of all things.
+text Being connected to that means knowing the end of all things.
+text Originally the brain has the ability to control reception and transmission, but most humans close off all of these circuits except for themselves.
+text But, there are those people who have their circuits open latently.
+text Without a single use of Magic Circuits, there are humans who, despite not being a transcendental race, have the potential to create transcendent phenomenon.
+text "Magi classify them as being psychics.
+text While still human, they are mutants who are born with Magic Circuits.
+text ---Such as, without any learning of the occult, someone who can see the 'death of things'."
+bgload BG_29B.jpg
+text ~
+text "------"
+text .... Um, I'm sorry, Arcueid.
+text It appears I can't understand this kind of conversation at all.
+bgload BG_29B.jpg
+setimg ARK_T04.png 36 0
+text "It's okay if you can't understand.
+text But what I want to tell you is you shouldn't try to see things that are hard to see.
+text Probably, if you want to, you can see the "death" of non-living things.
+text But in order to do that, your brain has to open its circuits from the classification of living things to the classification of non-living things in order to understand.
+text ---That is normally an impossible process.
+text As a result, it overloads your brain, and you'll end up being useless."
+bgload BG_29B.jpg
+text "Useless---you mean, these eyes won't be able to perceive death anymore?"
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text "---Of course not.
+text Hey Shiki, what happens to an engine that blows up from overload?"
+text "It goes to the junk yard.
+text Once an engine breaks, you can't use it agai----"
+text ~
+text Oh, that's it.
+text In other words, the headache I get from seeing death is like the screaming of an engine that is working too fast.
+text "------"
+bgload BG_29B.jpg
+setimg ARK_T02.png 36 0
+text "You understand?
+text If you can just see it, it won't be a problem.
+text But stop trying to see things you can't perceive.
+text The blood vessels in your brain will burst, and it'll all be over."
+text ~
+text .... I'm speechless.
+text I've been living like this without realizing the seriousness of it all.
+bgload BG_29B.jpg
+setimg ARK_T01B.png 36 0
+text "You really have to thank the magus who gave you those glasses.
+text Most psychics use their abilities without realizing how dangerous they are and end up disabling themselves.
+text .... Well, those kinds of people are often incompatible with society, so maybe that's just for the best."
+bgload BG_29B.jpg
+text "-----"
+text ~
+text ---It seems like that's the reason I'm here.
+text I'll let you go back to living the life you had before.
+text ~
+text Sensei said that, and gave me these glasses.
+text .... I have so much to thank her for, my chest tightens.
+text That person, in so many ways, really did save me---
+music ~
+bgload IMA_11B.jpg
+bgload BG_29B.jpg
+sound SE_01.aac 1
+text "H, uh---?"
+text I feel a, sharp sensation.
+text Not pain, but something strange, like an itch.
+bgload BG_29B.jpg
+setimg ARK_T03.png 36 0
+text "Shiki?"
+text "What---what is this?"
+text It was really only just for an instant, but it was like something was in my chest.
+bgload BG_29B.jpg
+sound SE_01.aac 1
+text "Hm---?"
+text Not understanding, I place my hand inside my shirt.
+text ~
+text ---Wetness.
+text ~
+sound SE_02.aac -1
+bgload IMA_11B.jpg
+bgload BG_29B.jpg
+text Something.
+text Something is sticking to my chest, like ink.
+text "What is this.... something's, wet?"
+text I pull out my hand from my shirt.
+text On my open palms,
+bgload IMA_13B.jpg
+bgload BG_29B.jpg
+text is bright red blood.
+bgload IMA_13B.jpg
+bgload BG_29B.jpg
+text "Eh------"
+text Sting.
+text Another strange sensation.
+text It takes me a horribly long time to understand that it's coming from the old scar on my chest.
+bgload BG_29B.jpg
+setimg ARK_T13.png 36 0
+text "Shiki, that----"
+text "Yeah.... that's weird.
+text It doesn't hurt and it's not even an open wound----but there's blood all over my chest."
+text ~
+text It's so, red.
+text A beautiful, unmuddied, red that steals my eyesight.
+text ~
+text "Well, it doesn't hurt so it's gotta be okay.
+text It seems to have stopped bleeding, so there's no need to----"
+bgload BG_29B.jpg
+setimg ARK_T06.png 36 0
+text Arcueid stares dumbfounded at my hand.
+text No, more accurately,
+text she stares at the red blood coating my hand.
+text "----Arcueid?"
+text "--------"
+bgload BG_29B.jpg
+text Arcueid doesn't respond.
+text She just, starts to breathe heavier.
+text Pant, pant.
+text As if she is trying to withstand pain.
+text "Hey, Arcueid....!
+text What's wrong?
+text Does your wound hurt....!?"
+text I grab her shoulders.
+text ----And then,
+text she jumps back as if she was trying to escape.
+sound ~
+bgload BG_29B.jpg
+setimg ARK_T20.png 36 0
+bgload BG_29B.jpg
+text "----"
+text She stares at me like I am an enemy.
+text ".... Ar.... cueid?"
+bgload BG_29B.jpg
+setimg ARK_T07.png 36 0
+text "Shi------ki?"
+text ~
+text Short, clipped.
+text Her voice even contains enmity.
+text ~
+bgload BG_29B.jpg
+setimg ARK_T10.png 36 0
+text "I----never thought, about it."
+text ....?
+text She averts her gaze awkwardly.
+text "What's wrong?
+text You're acting strange.
+text You still haven't recovered yet?"
+text ".... Perhaps.
+text It seems I pushed myself too hard.
+text So, I'll go back now."
+text "----Ah, yeah.
+text I guess we'll call it a night."
+text ".... Yeah.
+text I'll be waiting here tomorrow."
+bgload BG_29B.jpg
+text Not looking me in the eye, Arcueid leaves quickly.
+bgload IMA_10.jpg
+if flg9 >= 1 
+    jump s158.scr
+fi
+jump s157.scr

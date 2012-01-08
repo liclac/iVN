@@ -1,0 +1,81 @@
+bgload BG_11B.jpg
+text ~
+text Never mind that and just eat.
+text I believe kindness should always be accepted.
+text "---I'll take it.
+text I'm hungry, so if you don't mind, I'll eat it."
+text Yeah, even if it's a bit past the expiration date, I wouldn't mind.
+bgload BG_11B.jpg
+setimg CEL_T04.png 52 0
+text "Then let's go to the tea ceremony room.
+text If we go there, I can get you some tea."
+bgload BG_11B.jpg
+text Senpai trots off down the hallway.
+music ~
+bgload IMA_10.jpg
+bgload event/CEL_E02B.jpg
+music 02.mp3
+text "Thanks for the meal."
+text I bring my hands together briefly and start to dig in to Senpai's lunch.
+text Munch, munch.
+text I eat without restraint while Senpai stares at me.
+text Munch munch.
+text Munch.
+text Munch.
+text Munch.
+text Munch.
+text Munch.
+text Munch.
+text Munch.
+text "----Mm."
+text I gulp some tea.
+text Senpai keeps watching me.
+text "Does it taste good?"
+text "Mm, it's cold and not very good."
+text .... I think that comment was a little too honest myself, but it's my personality, so I can't change it.
+text Senpai gives a small laugh as she looks directly into my eyes.
+text "Tohno-kun, you have quite a philosophic outlook."
+text She says this kindly.
+text ".... Huh?
+text I don't get you, Senpai.
+text Saying something like that all of a sudden."
+text "But it's true.
+text Normally, people wouldn't eat another person's half-eaten lunch like that.
+text But you don't seem to mind what others think of you, do you?"
+text "---?
+text Really?
+text I'm not that self-conscious."
+text ~
+text I just live honestly.
+text But, if living life without caring what others think is philosophical, then this person is much more of a philosopher than I am.
+text If it was me---I could never mend the splints in the courtyard that everyone else ignores all by myself.
+text "In my opinion, I think you're more philosophical than I am, Senpai.
+text You're always living at your own pace.
+text It feels so good just to watch."
+text I speak openly.
+text Of course it was a compliment, but Senpai says "Oh, I see," and slumps in disappointment.
+text "Um.... Senpai?
+text Did I say something bad?"
+text "--Yes.
+text Because normally, that's what they call an old spinster.
+text I'm a girl, so hearing that is a shock."
+text .... Hmmm.
+text For Senpai, that must mean she's acting old rather than being philosophical.
+text "Oh yeah?
+text So does that mean I'm acting like an old man now?
+text Well excuse me, I'm just a high school student bravely facing the dangers of life."
+text "Ah, but you can't deny it.
+text Because a sitting cushion and a cup of tea really suit you.
+text Always calm, you seem like a retired man."
+text Senpai giggles.
+text .... I wanted to hear I was more a guy that looks good in Japanese clothing, but if Senpai says a retired man, then maybe that isn't a bad thing.
+text "Oh.
+text Well then, fellow old-timer, how about we have a long chat over a cup of tea?"
+text "I'd love to keep you company, Shiki-san."
+text With a beaming smile, Senpai pours some tea into my tea cup.
+bgload IMA_10.jpg
+text An hour passes.
+text We talk together until five-thirty, then we walk out the gate before it closes and go our separate ways at the intersection.
+music ~
+setvar ciel_regard + 1
+jump s233.scr

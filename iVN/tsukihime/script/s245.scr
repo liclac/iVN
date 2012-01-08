@@ -1,0 +1,35 @@
+bgload BG_06A.jpg
+text Senpai can't be mad at anything else other than the incident this morning.
+text .... Senpai didn't seem angry this morning, but if she is angry, then I probably shouldn't go meet her.
+text ".... Yeah, maybe I should just go to the cafeteria today."
+text "Yeah, do that.
+text C'mon, hurry up.
+text There's only enough space for half the people using the cafeteria."
+text Arihiko takes me by the arm and pulls me off.
+bgload IMA_10.jpg
+bgload BG_50.jpg
+text I sit next to Arihiko and eat my lunch.
+text My school's cafeteria has a television, and for better or worse for our education, they play back the morning news they recorded this morning.
+text At any rate, the news they are playing back is talking about a drunk customer stabbing to death a convenience store employee, something that makes me not want to go to a convenience store for at least a few days.
+bgload BG_50.jpg
+setimg ARI_T04.png 40 0
+text "What a dangerous world we live in.
+text Indiscriminate serial killers, drunken people stabbing people.
+text A man can't even feel safe playing around at night anymore."
+text Arihiko seems like he is seriously watching the news.
+text ".... Well, certainly it is dangerous.
+text But at least those serial killings won't happen anymore, so things should be like usual."
+text "Oh really?
+text Did they catch the serial killer?"
+text "No, they haven't caught him.."
+text ~
+text ---But Nrvnqsr is no longer in this world.
+text ~
+text So the stupid title of the modern day vampire killings shouldn't be showing up in the news anymore and there will be no more of those meaningless killings.
+text "Anyway, those terrible incidents won't happen anymore; There won't be any more victims, and the streets will be back to normal."
+text "Hmmmh, I didn't know.
+text I guess I should watch the news more often."
+text Making a strained face, Arihiko earnestly stares at the news.
+bgload IMA_10.jpg
+music ~
+jump s249.scr

@@ -1,0 +1,94 @@
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+music 03.mp3
+text For the time being, we go into town.
+text All that's left is to branch off the main street and go to the empty alley----
+bgload BG_25A.jpg
+setimg ARK_T01A.png 36 0
+text "Huh?
+text What is it, Shiki?"
+text "Nothing.
+text It's different that normal, so I was just a little confused."
+text "?"
+bgload BG_25A.jpg
+text Arcueid perplexedly cocks her head to the side.
+text .... It seems like she doesn't notice at all.
+text I can feel the weight of stares all around me.
+text Just walking down the street causes people all around to cast glances at us.
+text .... It doesn't need to be said, but it's probably because Arcueid really stands out.
+text I'm a little aware of it, but everyone else's reactions make me even more conscious of it, and it's a bit troubling.
+text Arcueid acts just like she normally does, but since I can't help but be overwhelmed by her femininity, I can't seem to make any meaningful conversation.
+bgload BG_25A.jpg
+setimg ARK_T04.png 36 0
+text "Hey, do you hear me Shiki?
+text I'm asking you where we're going."
+text "We're almost there so hold on.
+text We're going somewhere you can relax."
+bgload IMA_10.jpg
+bgload BG_31A.jpg
+text ~
+text ----And we arrive at the alley.
+text "Here we are.
+text People don't normally come by here, so you can relax here----"
+bgload BG_31A.jpg
+setimg ARK_T06.png 36 0
+text "................"
+text Huh----?
+text Her gaze suddenly turns heartless, almost deadly.
+text "Arcueid....?
+text Don't tell me, you're not happy with this place....?"
+text "................"
+text .... She seems so angry she can't even speak.
+text "That's odd.... You're a vampire, so I thought you would like a place like this better than somewhere crowded----"
+bgload BG_31A.jpg
+setimg ARK_T07.png 36 0
+text "----------!"
+text The light in her eyes sharpens.
+text .... This isn't good.
+text This might be the first time I've seen her this angry.
+bgload BG_31A.jpg
+text Giving a deep sigh, Arcueid looks up again.
+bgload BG_31A.jpg
+setimg ARK_T09.png 36 0
+text "Hey, Shiki.
+text What kind of a joke is this?"
+text "Ah----uh."
+text Frightening.
+text Her smiling face is really frightening.
+text "No, um.... I'm really sorry.
+text I really messed up."
+text I bring my hands together and implore forgiveness.
+text She keeps smiling.
+bgload BG_31A.jpg
+setimg ARK_T08.png 36 0
+text "That's right, there's really nothing to do here.
+text The only thing we could do here is to replay the time we first met."
+text ~
+text When we first met!?
+text That means----
+text ~
+text "Yeah, the results may turn out a little different from back then, but that might be fun too, right Shiki?"
+text ~
+text ~
+text ----This is a threat.
+text She counterattacks with a smile.
+text ".... I said I'm sorry.
+text I'll make it up to you, so please stop smiling like that.
+text I'll take you somewhere better."
+bgload BG_31A.jpg
+setimg ARK_T11.png 36 0
+text "Really?
+text I was getting in the mood for it too."
+text She looks disappointed.
+text .... I really must contemplate my actions.
+text Even though Arcueid is a vampire, I must have been really stupid to take her to an alley for a date....
+bgload IMA_10.jpg
+bgload BG_25A.jpg
+text For four hours..
+text Appropriate for the ball of curiosity that is Arcueid, we end up going to the department store in front of the station.
+text It seems like Arcueid made me take her there just to trouble me, but somewhere along the way, I guess it started to be pretty fun for her and she became happy again.
+text It was a little tiring, but I think it was a good time.
+bgload IMA_10.jpg
+music ~
+setvar ark_regard - 1
+jump s172.scr

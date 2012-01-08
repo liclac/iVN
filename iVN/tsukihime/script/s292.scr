@@ -1,0 +1,132 @@
+bgload BG_40E.jpg
+bgload IMA_11B.jpg
+bgload BG_40E.jpg
+text *pant*, *pant*, *pant*----
+text ~
+text I see.
+text This impulse.
+text This impulse that tries to drive me insane while leaving me conscious.
+text ~
+text This is,
+text This is Roa.
+text But why?
+text I was always sane.
+text Until I came back to this mansion, I really was normal.
+text ~
+text I hear heavy knocking on the door.
+text But I can't open it.
+text If I open it, it will be completely over.
+bgload IMA_11.jpg
+bgload CMO_13.jpg
+bgload BG_40E.jpg
+text "Ah-----"
+text I finally understand.
+text That dream was the memory of the Roa one generation before mine.
+text Locked up in her room, killing both her parents, ruling over her town as a vampire, the final memories of someone I don't know.
+text "------"
+text .... There's no way out.
+text This is not a problem that can be solved by killing myself.
+text This is nothing that can be helped.
+text I understand that previous person's feelings.
+text Even if I die, the only thing to die would be my will.
+text Then the will of Roa would take over my body completely.
+text If that happened---things would get much worse.
+text ~
+text "Ha---haha, ha."
+text .... In the first place, I don't have the slightest intention of killing myself.
+text "Shiki-sama, please open up, Shiki-sama!"
+text I hear her voice from behind the door.
+text ~
+text .... It almost sounds like it was in another language.
+text So far away.
+text Just one.
+text It's just one sheet of wood between us.
+text ~
+text But it seems as far away as the moon and the stars.
+bgload IMA_10.jpg
+music ~
+bgload BG_40E.jpg
+sound SE_11.aac -1
+text It's now ten in the morning.
+text Hisui gave up and went back.
+text Akiha and Kohaku-san came and took turns knocking but I ignored them.
+bgload IMA_10.jpg
+bgload BG_40E.jpg
+text Twelve o'clock.
+text .... I'm hungry.
+text But, I'm still fine.
+text I pull the sheets over me and hug my shaking body.
+bgload IMA_10.jpg
+bgload BG_40E.jpg
+text Two o'clock.
+text .... I'm dying of thirst.
+text I've lost all sense of time.
+text It feels very calm.
+text But as if I was taking stimulants, my body wants to rage around.
+bgload IMA_10.jpg
+bgload BG_40E.jpg
+text ~
+text Four o'clock.
+text .... More knocking.
+text A name being called out.
+text Whose voice is that?
+text Whose name are they calling?
+text I can't tell.
+bgload IMA_10.jpg
+bgload BG_40E.jpg
+text ~
+text ~
+text Five o'clock.
+text It slowly starts to get dark.
+bgload IMA_10.jpg
+bgload BG_40E.jpg
+text ~
+text ~
+text ~
+text Six o'clock.
+bgload IMA_10.jpg
+bgload BG_40F.jpg
+text ~
+text ~
+text ~
+text ~
+text Seven o'clock.
+bgload IMA_10.jpg
+bgload BG_40F.jpg
+text ~
+text ~
+text ~
+text ~
+text ~
+text Eight o'clock.
+bgload IMA_10.jpg
+bgload BG_40F.jpg
+sound SE_04.aac 1
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ---Someone, comes by.
+text "Shiki-san, I've brought you dinner.
+text You haven't had anything since this morning, so you'll collapse you know."
+text ~
+text Kohaku's voice.
+text She knocks on the door.
+text ~
+text "Geez, if that's how it is, I'll get you to at least eat."
+text A rattling sound.
+text Not knocking, but the sound of a lock opening.
+text "Huhuhu, time to use my secret weapon, the master key!"
+text "----Ah."
+text ~
+text The lock unlocks.
+text ~
+choice No, I have to turn Kohaku-san away.|I'll just have her leave the food in here.
+if selected == 1
+    jump s293.scr
+fi
+if selected == 2
+    jump s294.scr
+fi

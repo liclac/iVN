@@ -1,0 +1,31 @@
+bgload BG_32A.jpg
+text ".... Let's see, isn't it because you hate me?
+text I haven't been able to meet you on time, and I've done a lot of horrible things to you."
+text ~
+text .... Leaving my feelings about Arcueid aside, I calmly analyze the situation.
+bgload BG_32A.jpg
+setimg ARK_T10.png 36 0
+text "----Is that so?
+text This is the first time I've ever felt emotion towards someone, so I don't really understand it myself...."
+bgload BG_32A.jpg
+text After being quiet for a few moments, she raises her head.
+bgload BG_32A.jpg
+setimg ARK_T14.png 36 0
+text ".... Um, Shiki, do you hate me....?"
+text ~
+text And asks me such a question.
+text "M, me....?
+text I, um----"
+text "............"
+text Arcueid stares at me silently.
+text "I----I don't hate you, that's why I'm helping you."
+text .... For now, that's the honest truth.
+bgload BG_32A.jpg
+setimg ARK_T03.png 36 0
+text ".... I see.
+text Then maybe I feel the same way too."
+text Arcueid gives an ambiguous nod.
+text I'm not sure if she understands.
+bgload BG_32A.jpg
+setvar ark_regard + 1
+jump s168.scr

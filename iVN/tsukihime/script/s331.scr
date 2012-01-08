@@ -1,0 +1,201 @@
+bgload BG_06B.jpg
+text I don't know how to face Akiha once I get home to the mansion.
+text So, I sit and think right here before I go home.
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text It looks like no ideas are forthcoming.
+text Before I knew it, the classroom was empty.
+text "---I guess I'll go home."
+text What a waste of time.
+text If I had time to think, it would have been more productive if I just faced Akiha without any plans.
+bgload IMA_10.jpg
+bgload BG_11B.jpg
+text "Tohno-kun!"
+text Someone calls my name as I step out into the hallway.
+bgload BG_11B.jpg
+setimg CEL_T03.png 52 0
+text "Thank God you're still here.
+text Um, are you going home right now?"
+text "Umm, something like that.
+text Since I don't have anything to do, I was thinking of just going straight home.
+text Are you heading home too, Senpai?"
+text "Yes, since I don't have anything I have to do, I was thinking of going shopping."
+text "I see, shopping.
+text You mean by the station?"
+bgload BG_11B.jpg
+setimg CEL_T02.png 52 0
+text "No, it's on sale here."
+text Senpai starts to talk weird again.
+text ".... Here--you mean here?"
+bgload BG_11B.jpg
+setimg CEL_T04.png 52 0
+text Yes, says Senpai with a big smile.
+text ".... What's on sale here?"
+bgload BG_11B.jpg
+setimg CEL_T02.png 52 0
+text "This."
+text Senpai points with her finger.
+text Only my face is in her slender finger's way.
+text "You mean, me?"
+bgload BG_11B.jpg
+setimg CEL_T01A.png 52 0
+text "Yes, since you're still here, I've decided to buy your time.
+text So let's go home together, Tohno-kun."
+text Senpai tugs at my arm and starts to walk.
+text "W-wait a second, I'm glad we can go home together, but isn't your house in the opposite direction of mine?
+text Did you come by just to walk together to the gate?"
+text "No, I'm going to go shopping by the station, so we'll walk together for a while."
+text "I see, then we will be walking together for a while---wait, what are you shopping for anyways?"
+bgload BG_11B.jpg
+setimg CEL_T12.png 52 0
+text "Well, I thought since it's starting to get cold, I should buy some heating equipment."
+text "Heating equipment, huh.. I think it's a bit too early for that, but I guess autumn goes by quickly.
+text So what are you buying?
+text An air conditioner?"
+bgload BG_11B.jpg
+setimg CEL_T08.png 52 0
+text "A high schooler can't afford an air conditioner.
+text So, I was thinking of buying the cheap, efficient, traditional Japanese craft, Kotatsu-san."
+text I never knew kotatsu was a traditional Japanese craft.
+text With that aside.
+text "----Senpai, you were going to talk me into carrying your stuff, right?"
+bgload BG_11B.jpg
+setimg CEL_T12.png 52 0
+text "That's not true.
+text I just thought we could walk together for a bit, and you could accompany me while I shop."
+text ".... And you would say this to me after shopping.
+text Tohno-kun, I can't carry such a heavy load!"
+bgload BG_11B.jpg
+setimg CEL_T10A.png 52 0
+text "Hey.
+text Tohno-kun, I wouldn't ask you to do such a thing.
+text Even if I did, I'd ask in a much more roundabout manner."
+text "You're right.
+text Either way, I'd tell you I wouldn't want to do it."
+bgload BG_11B.jpg
+setimg CEL_T04.png 52 0
+text "Ahaha, it's alright.
+text I would never ask you to do such a thing."
+text "I know you're not that kind of a person, Senpai."
+text We laugh together for a while.
+text We were laughing together for a while, but Senpai suddenly drops her shoulders.
+bgload BG_11B.jpg
+setimg CEL_T09.png 52 0
+text ".......... Meanie."
+text Oh no, I guess I made too much fun of her.
+text She was relying on me, so maybe I should have cooperated with her a bit more.
+text "---Alright.
+text If you'll buy me lunch next time, I'll do the carrying or anything else you want me to do."
+bgload BG_11B.jpg
+setimg CEL_T08.png 52 0
+text "You don't have to help me if you don't want to.
+text I just thought it might be a bit too heavy for me alone."
+text "What are you saying?
+text There's no way you'll be able to carry it with your weak arms.
+text I'll go.
+text You said you'll buy my time, Senpai.
+text I'll work for lunch, so take advantage of that all you want."
+bgload BG_11B.jpg
+setimg CEL_T05.png 52 0
+text "--Alright.
+text I'll take your kind words and I'll rely on you today."
+text "Yeah, rely on me all you want."
+text I hit my arm to appeal to her that I have some power in there.
+text Senpai laughs and starts to walk.
+bgload BG_11B.jpg
+setimg CEL_T03.png 52 0
+text "Oh, I wanted to ask you one thing before that."
+text "What?"
+text "Can I bring you a bentou for lunch?"
+text Of course.
+text I found myself nodding even before I thought about it.
+bgload IMA_10.jpg
+bgload BG_03B.jpg
+text We exit to the school grounds.
+text There's no one out here except for the track team.
+bgload BG_03B.jpg
+setimg CEL_T09.png 52 0
+text "There's less after school activity now."
+text Senpai says this regretfully.
+text Due to that vampire incident, most of the after school clubs have been cancelled and the only guys that are left are the track team.
+text .... But that incident will not occur again.
+text Since Yumizuka is no longer alive, there will be no more victims.
+text But I bet no one would believe me even if I said that.
+text ".... You're right.
+text There's been several victims, so I guess the parents had a say."
+text "I feel a bit down.
+text I liked that after school atmosphere."
+bgload BG_01B.jpg
+text We exit to the gate.
+text "Huh-?"
+text At the same time, I face an unexpected person.
+bgload BG_01B.jpg
+setimg AKI_T21.png -24 0
+text "Geez, you go home late too, Nii-san."
+text "A, Aki-"
+text As I start to finish with "ha", Senpai comes along.
+bgload BG_01B.jpg
+setimg AKI_T21.png -24 0
+setimg CEL_T01A.png 116 0
+text "Tohno-kun?"
+text Senpai calls me as I stand still.
+bgload BG_01B.jpg
+setimg AKI_T01A.png -24 0
+setimg CEL_T01A.png 116 0
+text It seems that Akiha understood the fact that Senpai and I were going home together.
+text She stares at Senpai and me as if criticizing us.
+text "Akiha---what are you doing?"
+text "I thought I would go home with you, Nii-san."
+text Akiha answers while staring at me coldly.
+text "Tohno-kun, is that your little sister?"
+text Senpai glances at Akiha.
+text They don't say it directly, but both Senpai and Akiha tell me with their eyes to "Introduce me to this person".
+text ~
+text -------*sigh*
+text It seems like this is going be a really tiresome job.
+text "Senpai, this is my younger sister, Akiha.
+text She transferred to our school just today."
+text Akiha bows to Senpai.
+text "I see.
+text Hello.
+text My name is Ciel and I'm a friend of Tohno-kun."
+bgload BG_01B.jpg
+setimg AKI_T11A.png -24 0
+setimg CEL_T01A.png 116 0
+bgload BG_01B.jpg
+setimg AKI_T11A.png -24 0
+setimg CEL_T07A.png 116 0
+text .... What's going on?
+text Senpai and Akiha just stare at each other, saying nothing.
+text "Akiha, I'm going to go shopping with Senpai today, so-"
+bgload BG_01B.jpg
+setimg AKI_T01A.png -24 0
+setimg CEL_T07A.png 116 0
+text "Is that true, Senpai?"
+text .... Before I could tell her to go home, Akiha questions Senpai.
+bgload BG_01B.jpg
+setimg AKI_T01A.png -24 0
+setimg CEL_T04.png 116 0
+text "Yes, but I'll do so on another occasion.
+text Tohno-kun, you should be nicer to your sister."
+bgload BG_01B.jpg
+setimg AKI_T01A.png -24 0
+text "Bye" says Senpai, and she walks away from us.
+text "------Hey."
+text Senpai leaves without giving me a chance to stop her.
+text "Let's go home, Nii-san.
+text It will get dark soon."
+text Akiha says this as if nothing happened.
+bgload IMA_10.jpg
+if flgL >= 1
+    jump s333.scr
+fi
+jump s332.scr
