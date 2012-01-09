@@ -45,7 +45,7 @@
 	
 	AVAudioPlayer *musicPlayer, *soundPlayer;
 	
-	double fontSize, soundVolume, musicVolume;
+	int fontSize, soundVolume, musicVolume;
 	BOOL started;
 }
 

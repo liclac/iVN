@@ -1,15 +1,11 @@
 <html>
 	<head>
 		<script type="text/javascript">
-			var bodyLoaded = false;
-			
 			var bufferSize = 500;
 			var counter = 0;
-			var buffer = new Array();
 			
 			function __addLine(string)
 			{
-				if(!bodyLoaded) { buffer[buffer.length()] = string; return; }
 				var newP = document.createElement("p");
 				newP.textContent = string;
 				
@@ -33,19 +29,8 @@
 			
 			function __setFontSize(fz)
 			{
-				document.body.fontSize = fz;
+				document.body.style.fontSize = fz;
 				window.scrollTo(0, document.body.scrollHeight);
-			}
-			
-			function _onLoad()
-			{
-				bodyLoaded = true;
-				for(var line in buffer)
-				{
-					__addLine(line);
-				}
-				
-				return "[" + buffer + "]";
 			}
 		</script>
 		<style type="text/css">
@@ -80,7 +65,7 @@
 			}
 		</style>
 	</head>
-	<body onload="_onLoad()">
+	<body>
 		
 	</body>
 </html>

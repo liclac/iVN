@@ -52,7 +52,7 @@
 								<string key="NSFrame">{{21, 16}, {384, 288}}</string>
 								<reference key="NSSuperview" ref="902591616"/>
 								<reference key="NSWindow"/>
-								<reference key="NSNextKeyView" ref="37546664"/>
+								<reference key="NSNextKeyView" ref="403466816"/>
 								<string key="NSReuseIdentifierKey">_NS:541</string>
 								<int key="IBUIContentMode">1</int>
 								<bool key="IBUIUserInteractionEnabled">NO</bool>
@@ -61,9 +61,10 @@
 							<object class="IBUIWebView" id="403466816">
 								<reference key="NSNextResponder" ref="902591616"/>
 								<int key="NSvFlags">292</int>
-								<string key="NSFrame">{{21, 16}, {384, 288}}</string>
+								<string key="NSFrameSize">{426, 320}</string>
 								<reference key="NSSuperview" ref="902591616"/>
 								<reference key="NSWindow"/>
+								<reference key="NSNextKeyView" ref="37546664"/>
 								<string key="NSReuseIdentifierKey">_NS:693</string>
 								<object class="NSColor" key="IBUIBackgroundColor">
 									<int key="NSColorSpace">1</int>

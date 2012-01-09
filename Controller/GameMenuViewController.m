@@ -44,12 +44,12 @@
     [super viewDidLoad];
 	
 	fontSizeSlider.value = *fontSize;
-	soundVolumeSlider.value = *soundVolume*soundVolumeSlider.maximumValue;
-	musicVolumeSlider.value = *musicVolume*musicVolumeSlider.maximumValue;
+	soundVolumeSlider.value = *soundVolume;
+	musicVolumeSlider.value = *musicVolume;
 	
-	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)[fontSizeSlider value]];
-	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)[soundVolumeSlider value]];
-	musicVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)[musicVolumeSlider value]];
+	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([fontSizeSlider value])];
+	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([soundVolumeSlider value])];
+	musicVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([musicVolumeSlider value])];
 }
 
 - (CGSize)contentSizeForViewInPopover
@@ -88,20 +88,20 @@
 
 - (IBAction)actionChangeFontSize:(id)sender
 {
-	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)[fontSizeSlider value]];
-	*fontSize = [fontSizeSlider value];
+	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([fontSizeSlider value])];
+	*fontSize = (int)round([fontSizeSlider value]);
 }
 
 - (IBAction)actionChangeSoundVolume:(id)sender
 {
-	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)[soundVolumeSlider value]];
-	*soundVolume = [soundVolumeSlider value]/[soundVolumeSlider maximumValue];
+	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([soundVolumeSlider value])];
+	*soundVolume = (int)round([soundVolumeSlider value]);
 }
 
 - (IBAction)actionChangeMusicVolume:(id)sender
 {
-	musicVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)[musicVolumeSlider value]];
-	*musicVolume = [musicVolumeSlider value]/[musicVolumeSlider maximumValue];
+	musicVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([musicVolumeSlider value])];
+	*musicVolume = (int)round([musicVolumeSlider value]);
 }
 
 - (IBAction)actionBack:(id)sender

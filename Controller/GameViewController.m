@@ -55,13 +55,13 @@
 	
 	[[NSUserDefaults standardUserDefaults] registerDefaults:[NSDictionary dictionaryWithObjectsAndKeys:
 															 [NSNumber numberWithDouble:12], kDefaultsKeyFontSize,
-															 [NSNumber numberWithDouble:16/16], kDefaultsKeySoundVolume,
-															 [NSNumber numberWithDouble:8/16], kDefaultsKeyMusicVolume,
+															 [NSNumber numberWithDouble:16], kDefaultsKeySoundVolume,
+															 [NSNumber numberWithDouble:8], kDefaultsKeyMusicVolume,
 															 nil]];
 	
-	fontSize = [[NSUserDefaults standardUserDefaults] doubleForKey:kDefaultsKeyFontSize];
-	soundVolume = [[NSUserDefaults standardUserDefaults] doubleForKey:kDefaultsKeySoundVolume];
-	musicVolume = [[NSUserDefaults standardUserDefaults] doubleForKey:kDefaultsKeyMusicVolume];
+	fontSize = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyFontSize];
+	soundVolume = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeySoundVolume];
+	musicVolume = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyMusicVolume];
 	
 	textView.backgroundColor = [UIColor colorWithWhite:0 alpha:0.25];
 	textView.opaque = NO;
@@ -384,10 +384,23 @@
 					[novel relativeToAbsolutePath:[@"background" stringByAppendingPathComponent:background]]];
 	if(img != nil)
 	{
-		scaleFactor = CGSizeMake(backgroundImageView.frame.size.width/img.size.width,
+		/*scaleFactor = CGSizeMake(backgroundImageView.frame.size.width/img.size.width,
 								 backgroundImageView.frame.size.height/img.size.height);
 		MTLog(@"Scale: %@", NSStringFromCGSize(scaleFactor));
+		backgroundImageView.image = img;*/
+		
+		CGFloat scale = backgroundImageView.frame.size.width/img.size.width;
+		scale = round(scale*4)/4;
+		scaleFactor = CGSizeMake(scale, scale);
+		//CGFloat aspect = round((img.size.width/img.size.height)*4)/4;
+		MTLog(@"Scale: %@", NSStringFromCGSize(scaleFactor));
 		backgroundImageView.image = img;
+		
+		CGFloat width = img.size.width*scaleFactor.width;
+		CGFloat height = img.size.height*scaleFactor.height;
+		backgroundImageView.frame = CGRectMake((backgroundImageView.superview.frame.size.width - width)/2,
+											   backgroundImageView.superview.frame.origin.y + ((backgroundImageView.superview.frame.size.height-height)/2),
+											   width, height);
 	}
 	
 	[img release];
@@ -487,9 +500,9 @@
 
 - (void)actionMenuClosed
 {
-	[[NSUserDefaults standardUserDefaults] setDouble:fontSize forKey:kDefaultsKeyFontSize];
-	[[NSUserDefaults standardUserDefaults] setDouble:soundVolume forKey:kDefaultsKeySoundVolume];
-	[[NSUserDefaults standardUserDefaults] setDouble:musicVolume forKey:kDefaultsKeyMusicVolume];
+	[[NSUserDefaults standardUserDefaults] setInteger:fontSize forKey:kDefaultsKeyFontSize];
+	[[NSUserDefaults standardUserDefaults] setInteger:soundVolume forKey:kDefaultsKeySoundVolume];
+	[[NSUserDefaults standardUserDefaults] setInteger:musicVolume forKey:kDefaultsKeyMusicVolume];
 	[[NSUserDefaults standardUserDefaults] synchronize];
 	
 	musicPlayer.volume = musicVolume;

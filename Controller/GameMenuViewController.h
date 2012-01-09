@@ -18,7 +18,7 @@
 	UISlider *fontSizeSlider;
 	UISlider *soundVolumeSlider;
 	UISlider *musicVolumeSlider;
-	double *fontSize, *soundVolume, *musicVolume;
+	int *fontSize, *soundVolume, *musicVolume;
 	
 	UIPopoverController *padPopoverController;
 }
@@ -31,7 +31,7 @@
 @property (nonatomic, retain) IBOutlet UISlider *soundVolumeSlider;
 @property (nonatomic, retain) IBOutlet UISlider *musicVolumeSlider;
 
-@property (nonatomic, assign) double *fontSize, *soundVolume, *musicVolume;
+@property (nonatomic, assign) int *fontSize, *soundVolume, *musicVolume;
 
 @property (nonatomic, retain) UIPopoverController *padPopoverController;
 
