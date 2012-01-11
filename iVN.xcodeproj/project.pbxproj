@@ -12,8 +12,9 @@
 		224BA2C714B1D25F009E9BF4 /* LoadingViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 224BA2C614B1D25F009E9BF4 /* LoadingViewController~iPad.xib */; };
 		224BA2CB14B1D42D009E9BF4 /* LoadingBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 224BA2CA14B1D42D009E9BF4 /* LoadingBackgroundView.m */; };
 		22543E8314B2052000F410B4 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22543E8114B204E400F410B4 /* CoreText.framework */; };
+		227A071114BB7936009ABF0A /* Comic-Sans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 227A071014BB7936009ABF0A /* Comic-Sans.ttf */; };
 		22AF491B14B06E8E00913FAF /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491914B06E8E00913FAF /* MainWindow-iPad.xib */; };
-		22AF491D14B071F800913FAF /* GameMenuViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491C14B071F800913FAF /* GameMenuViewController~iPad.xib */; };
+		22AF491D14B071F800913FAF /* GameViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491C14B071F800913FAF /* GameViewController~iPad.xib */; };
 		22AF491F14B07A0A00913FAF /* GameMenuViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491E14B07A0A00913FAF /* GameMenuViewController~iPad.xib */; };
 		22AF492114B085DA00913FAF /* SaveLoadPageViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF492014B085DA00913FAF /* SaveLoadPageViewController~iPad.xib */; };
 		22AF492314B0860200913FAF /* SaveLoadViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF492214B0860200913FAF /* SaveLoadViewController~iPad.xib */; };
@@ -128,9 +129,10 @@
 		224BA2C914B1D42D009E9BF4 /* LoadingBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingBackgroundView.h; path = View/LoadingBackgroundView.h; sourceTree = "<group>"; };
 		224BA2CA14B1D42D009E9BF4 /* LoadingBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoadingBackgroundView.m; path = View/LoadingBackgroundView.m; sourceTree = "<group>"; };
 		22543E8114B204E400F410B4 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		227A071014BB7936009ABF0A /* Comic-Sans.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comic-Sans.ttf"; sourceTree = "<group>"; };
 		22AC73EC14AFBB1E0018C79F /* SaveLoadDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaveLoadDelegate.h; path = Protocols/SaveLoadDelegate.h; sourceTree = "<group>"; };
 		22AF491A14B06E8E00913FAF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
-		22AF491C14B071F800913FAF /* GameMenuViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "GameMenuViewController~iPad.xib"; path = "Controller/GameMenuViewController~iPad.xib"; sourceTree = "<group>"; };
+		22AF491C14B071F800913FAF /* GameViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "GameViewController~iPad.xib"; path = "Controller/GameViewController~iPad.xib"; sourceTree = "<group>"; };
 		22AF491E14B07A0A00913FAF /* GameMenuViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "GameMenuViewController~iPad.xib"; path = "Controller/GameMenuViewController~iPad.xib"; sourceTree = "<group>"; };
 		22AF492014B085DA00913FAF /* SaveLoadPageViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "SaveLoadPageViewController~iPad.xib"; path = "Controller/SaveLoadPageViewController~iPad.xib"; sourceTree = "<group>"; };
 		22AF492214B0860200913FAF /* SaveLoadViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "SaveLoadViewController~iPad.xib"; path = "Controller/SaveLoadViewController~iPad.xib"; sourceTree = "<group>"; };
@@ -439,6 +441,7 @@
 				8FC5DB8413DAFCBB008FDB71 /* slideRight.png */,
 				8FC5DB8513DAFCBC008FDB71 /* slideTop.png */,
 				8FC5DB7A13DAE2D3008FDB71 /* Sazanami-Gothic.ttf */,
+				227A071014BB7936009ABF0A /* Comic-Sans.ttf */,
 				8F1089CA13D857DC0014DAAC /* iVN-Info.plist */,
 				8F1089CB13D857DC0014DAAC /* InfoPlist.strings */,
 				8F1089CE13D857DC0014DAAC /* main.m */,
@@ -665,7 +668,7 @@
 				8F59527C13D97B350064ACA8 /* GameViewController.h */,
 				8F59527D13D97B350064ACA8 /* GameViewController.m */,
 				8F59527E13D97B350064ACA8 /* GameViewController.xib */,
-				22AF491C14B071F800913FAF /* GameMenuViewController~iPad.xib */,
+				22AF491C14B071F800913FAF /* GameViewController~iPad.xib */,
 				8FC7C0B513DD8B6D00A5E60C /* GameMenuViewController.h */,
 				8FC7C0B613DD8B6D00A5E60C /* GameMenuViewController.m */,
 				8FC7C0B713DD8B6D00A5E60C /* GameMenuViewController.xib */,
@@ -786,13 +789,14 @@
 				8F1DC63B13F562C50097DAB3 /* gear.png in Resources */,
 				8F1DC63C13F562C50097DAB3 /* gear@2x.png in Resources */,
 				22AF491B14B06E8E00913FAF /* MainWindow-iPad.xib in Resources */,
-				22AF491D14B071F800913FAF /* GameMenuViewController~iPad.xib in Resources */,
+				22AF491D14B071F800913FAF /* GameViewController~iPad.xib in Resources */,
 				22AF491F14B07A0A00913FAF /* GameMenuViewController~iPad.xib in Resources */,
 				22AF492114B085DA00913FAF /* SaveLoadPageViewController~iPad.xib in Resources */,
 				22AF492314B0860200913FAF /* SaveLoadViewController~iPad.xib in Resources */,
 				224BA2C714B1D25F009E9BF4 /* LoadingViewController~iPad.xib in Resources */,
 				22B509F414B33C4E000559FB /* index.html in Resources */,
 				2212A59414B9A5B6004529C5 /* README.markdown in Resources */,
+				227A071114BB7936009ABF0A /* Comic-Sans.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

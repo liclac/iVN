@@ -31,6 +31,13 @@
 			{
 				document.body.style.fontSize = fz;
 				window.scrollTo(0, document.body.scrollHeight);
+				return "[" + document.body + ", " + document.body.style.fontSize + "]";
+			}
+			
+			function __setFont(f)
+			{
+				document.body.style.fontFamily = (f == 0 ? "Helvetica" : "Sazanami Gothic");
+				return "[" + document.body + "], [" + document.body.style.fontFamily + "]";
 			}
 		</script>
 		<style type="text/css">
@@ -59,8 +66,8 @@
 			body
 			{
 				color:#fff;
-				text-shadow:0 5px 5px #000;
 				font-family:"Sazanami Gothic";
+				text-shadow:0 5px 5px #000;
 				padding:0 10px 10px 10px;
 			}
 		</style>

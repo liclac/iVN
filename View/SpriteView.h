@@ -17,13 +17,13 @@
 @interface SpriteView : UIView
 {
 	Sprite *sprite;
-	CGSize scale;
+	CGFloat scale;
 }
 
 @property (nonatomic, retain) Sprite *sprite;
-@property (nonatomic, assign) CGSize scale;
+@property (nonatomic, assign) CGFloat scale;
 
-- (id)initWithFrame:(CGRect)frame sprite:(Sprite *)sprite scale:(CGSize)scale;
+- (id)initWithFrame:(CGRect)frame sprite:(Sprite *)sprite scale:(CGFloat)scale;
 - (void)unload;
 
 @end

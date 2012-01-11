@@ -54,12 +54,14 @@
     // Do any additional setup after loading the view from its nib.
 	
 	[[NSUserDefaults standardUserDefaults] registerDefaults:[NSDictionary dictionaryWithObjectsAndKeys:
-															 [NSNumber numberWithDouble:12], kDefaultsKeyFontSize,
-															 [NSNumber numberWithDouble:16], kDefaultsKeySoundVolume,
-															 [NSNumber numberWithDouble:8], kDefaultsKeyMusicVolume,
+															 [NSNumber numberWithInteger:12], kDefaultsKeyFontSize,
+															 [NSNumber numberWithInteger:VNFontOptionModern], kDefaultsKeyFont,
+															 [NSNumber numberWithInteger:16], kDefaultsKeySoundVolume,
+															 [NSNumber numberWithInteger:8], kDefaultsKeyMusicVolume,
 															 nil]];
 	
 	fontSize = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyFontSize];
+	font = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyFont];
 	soundVolume = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeySoundVolume];
 	musicVolume = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyMusicVolume];
 	
@@ -67,7 +69,6 @@
 	textView.opaque = NO;
 	textView.userInteractionEnabled = NO;
 	[textView loadRequest:[NSURLRequest requestWithURL:[[NSBundle mainBundle] URLForResource:@"index" withExtension:@"html"]]];
-	[textView setFontSize:fontSize];
 	
 	interpreter = [[ScriptInterpreter alloc] initWithNovel:novel];
 	interpreter.delegate = self;
@@ -77,10 +78,6 @@
 
 - (void)viewDidUnload
 {
-    [self setBackgroundImageView:nil];
-	[self setTextView:nil];
-	[self setGameView:nil];
-	[self setSidebarView:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -93,6 +90,8 @@
 	{
 		started = YES;
 		[interpreter processNextCommand:nil];
+		[textView setFont:font];
+		[textView setFontSize:fontSize];
 	}
 }
 
@@ -102,11 +101,8 @@
     return UIInterfaceOrientationIsLandscape(interfaceOrientation);
 }
 
-- (void)dealloc {
-    [backgroundImageView release];
-	[textView release];
-	[gameView release];
-	[sidebarView release];
+- (void)dealloc
+{
     [super dealloc];
 }
 
@@ -384,20 +380,13 @@
 					[novel relativeToAbsolutePath:[@"background" stringByAppendingPathComponent:background]]];
 	if(img != nil)
 	{
-		/*scaleFactor = CGSizeMake(backgroundImageView.frame.size.width/img.size.width,
-								 backgroundImageView.frame.size.height/img.size.height);
-		MTLog(@"Scale: %@", NSStringFromCGSize(scaleFactor));
-		backgroundImageView.image = img;*/
-		
 		CGFloat scale = backgroundImageView.frame.size.width/img.size.width;
-		scale = round(scale*4)/4;
-		scaleFactor = CGSizeMake(scale, scale);
-		//CGFloat aspect = round((img.size.width/img.size.height)*4)/4;
-		MTLog(@"Scale: %@", NSStringFromCGSize(scaleFactor));
+		scaleFactor = round(scale*4)/4;
+		MTLog(@"Scale: %f", scaleFactor);
 		backgroundImageView.image = img;
 		
-		CGFloat width = img.size.width*scaleFactor.width;
-		CGFloat height = img.size.height*scaleFactor.height;
+		CGFloat width = img.size.width*scaleFactor;
+		CGFloat height = img.size.height*scaleFactor;
 		backgroundImageView.frame = CGRectMake((backgroundImageView.superview.frame.size.width - width)/2,
 											   backgroundImageView.superview.frame.origin.y + ((backgroundImageView.superview.frame.size.height-height)/2),
 											   width, height);
@@ -430,6 +419,7 @@
 	vc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;
 	vc.gameVC = self;
 	vc.fontSize = &fontSize;
+	vc.font = &font;
 	vc.soundVolume = &soundVolume;
 	vc.musicVolume = &musicVolume;
 	if([[UIDevice currentDevice] isPad])
@@ -498,17 +488,22 @@
 	[self dismissModalViewControllerAnimated:YES];
 }
 
-- (void)actionMenuClosed
+- (void)actionSettingsChanged
 {
-	[[NSUserDefaults standardUserDefaults] setInteger:fontSize forKey:kDefaultsKeyFontSize];
-	[[NSUserDefaults standardUserDefaults] setInteger:soundVolume forKey:kDefaultsKeySoundVolume];
-	[[NSUserDefaults standardUserDefaults] setInteger:musicVolume forKey:kDefaultsKeyMusicVolume];
-	[[NSUserDefaults standardUserDefaults] synchronize];
-	
 	musicPlayer.volume = musicVolume;
 	soundPlayer.volume = soundVolume;
 	[textView setFontSize:fontSize];
+	[textView setFont:font];
 	[self updateOffset];
+}
+
+- (void)actionSettingsClosed
+{
+	[[NSUserDefaults standardUserDefaults] setInteger:fontSize forKey:kDefaultsKeyFontSize];
+	[[NSUserDefaults standardUserDefaults] setInteger:font forKey:kDefaultsKeyFont];
+	[[NSUserDefaults standardUserDefaults] setInteger:soundVolume forKey:kDefaultsKeySoundVolume];
+	[[NSUserDefaults standardUserDefaults] setInteger:musicVolume forKey:kDefaultsKeyMusicVolume];
+	[[NSUserDefaults standardUserDefaults] synchronize];
 }
 
 @end

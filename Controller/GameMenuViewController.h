@@ -19,6 +19,7 @@
 	UISlider *soundVolumeSlider;
 	UISlider *musicVolumeSlider;
 	int *fontSize, *soundVolume, *musicVolume;
+	VNFontOption *font;
 	
 	UIPopoverController *padPopoverController;
 }
@@ -28,14 +29,17 @@
 @property (nonatomic, retain) IBOutlet UILabel *soundVolumeLabel;
 @property (nonatomic, retain) IBOutlet UILabel *musicVolumeLabel;
 @property (nonatomic, retain) IBOutlet UISlider *fontSizeSlider;
+@property (nonatomic, retain) IBOutlet UISegmentedControl *fontSegment;
 @property (nonatomic, retain) IBOutlet UISlider *soundVolumeSlider;
 @property (nonatomic, retain) IBOutlet UISlider *musicVolumeSlider;
 
 @property (nonatomic, assign) int *fontSize, *soundVolume, *musicVolume;
+@property (nonatomic, assign) VNFontOption *font;
 
 @property (nonatomic, retain) UIPopoverController *padPopoverController;
 
 - (IBAction)actionChangeFontSize:(id)sender;
+- (IBAction)actionChangeFont:(id)sender;
 - (IBAction)actionChangeSoundVolume:(id)sender;
 - (IBAction)actionChangeMusicVolume:(id)sender;
 - (IBAction)actionBack:(id)sender;

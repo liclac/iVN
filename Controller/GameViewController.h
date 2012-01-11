@@ -18,6 +18,7 @@
 
 #define kBufferSize 500 //Same as VNDS's Buffer Size
 #define kDefaultsKeyFontSize @"fontSize"
+#define kDefaultsKeyFont @"font"
 #define kDefaultsKeySoundVolume @"soundVolume"
 #define kDefaultsKeyMusicVolume @"musicVolume"
 
@@ -37,7 +38,7 @@
 	UIView *sidebarView;
 	NSInteger lineCount;
 	
-	CGSize scaleFactor;
+	CGFloat scaleFactor;
 	
 	CGPoint touchOrigin;
 	CGFloat originalOffset;
@@ -46,6 +47,7 @@
 	AVAudioPlayer *musicPlayer, *soundPlayer;
 	
 	int fontSize, soundVolume, musicVolume;
+	VNFontOption font;
 	BOOL started;
 }
 
@@ -64,7 +66,8 @@
 - (IBAction)actionToggleText;
 - (IBAction)actionLoad;
 - (IBAction)actionSave;
-- (void)actionMenuClosed;
+- (void)actionSettingsChanged;
+- (void)actionSettingsClosed;
 - (void)actionExit;
 
 - (void)writeLine:(NSString *)text quickly:(BOOL)quickly;

@@ -17,8 +17,8 @@
 
 typedef enum
 {
-	VNFontOptionModern,
 	VNFontOptionClassic,
+	VNFontOptionModern,
 } VNFontOption;
 
 #define VNNotificationSaveLoaded @"__NotificationSaveLoaded"

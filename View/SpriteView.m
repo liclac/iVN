@@ -12,7 +12,7 @@
 @implementation SpriteView
 @synthesize sprite, scale;
 
-- (id)initWithFrame:(CGRect)rect sprite:(Sprite *)aSprite scale:(CGSize)scale_
+- (id)initWithFrame:(CGRect)rect sprite:(Sprite *)aSprite scale:(CGFloat)scale_
 {
     if((self = [super initWithFrame:rect]))
 	{
@@ -31,10 +31,10 @@
 {
 	//[sprite.image drawAtPoint:sprite.point];
 	CGSize imageSize = sprite.image.size;
-	CGRect imageRect = CGRectMake(floor(sprite.point.x*scale.width),
-								  floor(sprite.point.y*scale.height),
-								  floor(imageSize.width*scale.width),
-								  floor(imageSize.height*scale.height));
+	CGRect imageRect = CGRectMake(floor(sprite.point.x*scale),
+								  floor(sprite.point.y*scale),
+								  floor(imageSize.width*scale),
+								  floor(imageSize.height*scale));
 	[sprite.image drawInRect:imageRect];
 }
 

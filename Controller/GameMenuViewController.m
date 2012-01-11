@@ -11,13 +11,14 @@
 
 @implementation GameMenuViewController
 @synthesize gameVC;
+
 @synthesize fontSizeLabel;
-@synthesize soundVolumeLabel;
-@synthesize musicVolumeLabel;
-@synthesize fontSizeSlider;
-@synthesize soundVolumeSlider;
-@synthesize musicVolumeSlider;
-@synthesize fontSize, soundVolume, musicVolume;
+@synthesize soundVolumeLabel, musicVolumeLabel;
+
+@synthesize fontSizeSlider, fontSegment;
+@synthesize soundVolumeSlider, musicVolumeSlider;
+
+@synthesize fontSize, soundVolume, musicVolume, font;
 @synthesize padPopoverController;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -46,6 +47,7 @@
 	fontSizeSlider.value = *fontSize;
 	soundVolumeSlider.value = *soundVolume;
 	musicVolumeSlider.value = *musicVolume;
+	fontSegment.selectedSegmentIndex = *font;
 	
 	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([fontSizeSlider value])];
 	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([soundVolumeSlider value])];
@@ -59,12 +61,6 @@
 
 - (void)viewDidUnload
 {
-    [self setFontSizeLabel:nil];
-    [self setFontSizeSlider:nil];
-    [self setSoundVolumeLabel:nil];
-    [self setMusicVolumeLabel:nil];
-    [self setSoundVolumeSlider:nil];
-	[self setMusicVolumeSlider:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -76,13 +72,8 @@
     return UIInterfaceOrientationIsLandscape(interfaceOrientation);
 }
 
-- (void)dealloc {
-    [fontSizeLabel release];
-    [fontSizeSlider release];
-    [soundVolumeLabel release];
-    [musicVolumeLabel release];
-    [soundVolumeSlider release];
-	[musicVolumeSlider release];
+- (void)dealloc
+{
     [super dealloc];
 }
 
@@ -90,23 +81,32 @@
 {
 	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([fontSizeSlider value])];
 	*fontSize = (int)round([fontSizeSlider value]);
+	[gameVC actionSettingsChanged];
+}
+
+- (IBAction)actionChangeFont:(id)sender
+{
+	*font = [sender selectedSegmentIndex];
+	[gameVC actionSettingsChanged];
 }
 
 - (IBAction)actionChangeSoundVolume:(id)sender
 {
 	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([soundVolumeSlider value])];
 	*soundVolume = (int)round([soundVolumeSlider value]);
+	[gameVC actionSettingsChanged];
 }
 
 - (IBAction)actionChangeMusicVolume:(id)sender
 {
 	musicVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([musicVolumeSlider value])];
 	*musicVolume = (int)round([musicVolumeSlider value]);
+	[gameVC actionSettingsChanged];
 }
 
 - (IBAction)actionBack:(id)sender
 {
-	[gameVC actionMenuClosed];
+	[gameVC actionSettingsClosed];
 	if(padPopoverController == nil) [self dismissModalViewControllerAnimated:YES];
 }
 

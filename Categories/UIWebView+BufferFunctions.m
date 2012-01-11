@@ -23,7 +23,12 @@
 
 - (void)setFontSize:(NSInteger)size
 {
-	[self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFontSize(%d)", size]];
+	MTLog(@"'%@'", [self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFontSize(%d)", size]]);
+}
+
+- (void)setFont:(VNFontOption)font
+{
+	MTLog(@"'%@'", [self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFont(%d)", font]]);
 }
 
 @end
