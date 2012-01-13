@@ -10,10 +10,9 @@
 
 @implementation UIWebView (BufferFunctions)
 
-- (void)addLine:(NSString *)string_
+- (void)addLine:(NSString *)string
 {
-	NSString *string = ([string_ length] > 0 ? [string_ stringByReplacingOccurrencesOfString:@"\"" withString:@"\\\""] : @"");
-	MTLog(@"%@: '%@'", string, [self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__addLine(\"%@\")", string]]);
+	[self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__addLine(\"%@\")", string]];
 }
 
 - (void)clearBuffer
@@ -23,12 +22,12 @@
 
 - (void)setFontSize:(NSInteger)size
 {
-	MTLog(@"'%@'", [self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFontSize(%d)", size]]);
+	[self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFontSize(%d)", size]];
 }
 
 - (void)setFont:(NSString *)font
 {
-	MTLog(@"'%@'", [self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFont(\"%@\")", font]]);
+	[self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__setFont(\"%@\")", font]];
 }
 
 @end
