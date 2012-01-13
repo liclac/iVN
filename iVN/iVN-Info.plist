@@ -33,6 +33,8 @@
 	<key>UIAppFonts</key>
 	<array>
 		<string>Sazanami-Gothic.ttf</string>
+		<string>Osaka.ttf</string>
+		<string>OsakaMono.ttf</string>
 	</array>
 	<key>UIFileSharingEnabled</key>
 	<true/>
@@ -49,8 +51,6 @@
 	<array>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationPortrait</string>
 	</array>
 </dict>
 </plist>

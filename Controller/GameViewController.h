@@ -14,7 +14,7 @@
 @class SoundEngine;
 @class Novel;
 @class Sprite;
-@class TextPaneView;
+@class Archive;
 
 #define kBufferSize 500 //Same as VNDS's Buffer Size
 #define kDefaultsKeyFontSize @"fontSize"
@@ -22,7 +22,7 @@
 #define kDefaultsKeySoundVolume @"soundVolume"
 #define kDefaultsKeyMusicVolume @"musicVolume"
 
-@interface GameViewController : UIViewController <ScriptInterpreterDelegate,ChoiceDelegate,SaveLoadDelegate>
+@interface GameViewController : UIViewController <ScriptInterpreterDelegate,ChoiceDelegate,SaveLoadDelegate,UIWebViewDelegate>
 {
 	ScriptInterpreter *interpreter;
 	SoundEngine *soundEngine;
@@ -44,15 +44,12 @@
 	CGFloat originalOffset;
 	BOOL moved, choiceOpen;
 	
-	AVAudioPlayer *musicPlayer, *soundPlayer;
-	
 	int fontSize, soundVolume, musicVolume;
-	VNFontOption font;
+	NSString *font;
 	BOOL started;
 }
 
 @property (nonatomic, retain) ScriptInterpreter *interpreter;
-@property (nonatomic, retain) SoundEngine *soundEngine;
 @property (nonatomic, retain) Novel *novel;
 @property (nonatomic, retain) IBOutlet UIImageView *backgroundImageView;
 @property (nonatomic, retain) NSMutableArray *spriteViews;
@@ -72,7 +69,6 @@
 
 - (void)writeLine:(NSString *)text quickly:(BOOL)quickly;
 - (void)updateOffset;
-- (void)playSound:(NSString *)filename onMusicChannel:(BOOL)music loops:(NSInteger)loops fromSave:(BOOL)fromSave;
 - (void)loadBackground:(NSString *)background fadeTime:(NSTimeInterval)time fromSave:(BOOL)fromSave;
 - (void)addSprite:(Sprite *)sprite fadeTime:(NSTimeInterval)time fromSave:(BOOL)fromSave;
 

@@ -7,7 +7,7 @@
 			function __addLine(string)
 			{
 				var newP = document.createElement("p");
-				newP.textContent = string;
+				newP.textContent = (string.length > 0 ? string : '\u00A0');
 				
 				if(counter >= bufferSize)
 				{
@@ -31,19 +31,29 @@
 			{
 				document.body.style.fontSize = fz;
 				window.scrollTo(0, document.body.scrollHeight);
-				return "[" + document.body + ", " + document.body.style.fontSize + "]";
+				return "[" + document.body.style.fontSize + "]";
 			}
 			
 			function __setFont(f)
 			{
-				document.body.style.fontFamily = (f == 0 ? "Helvetica" : "Sazanami Gothic");
-				return "[" + document.body + "], [" + document.body.style.fontFamily + "]";
+				document.body.style.fontFamily = f;
+				return "[" + document.body.style.fontFamily + "]";
 			}
 		</script>
 		<style type="text/css">
 			@font-face {
 				font-family: "Sazanami Gothic";
 				src: url(Sazanami-Gothic.ttf) format("truetype");
+			}
+			
+			@font-face {
+				font-family: "Osaka";
+				src: url(Osaka.ttf) format("truetype");
+			}
+			
+			@font-face {
+				font-family: "Osaka Mono";
+				src: url(OsakaMono.ttf) format("truetype");
 			}
 			
 			p

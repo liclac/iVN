@@ -13,6 +13,6 @@
 - (void)addLine:(NSString *)string;
 - (void)clearBuffer;
 - (void)setFontSize:(NSInteger)size;
-- (void)setFont:(VNFontOption)font;
+- (void)setFont:(NSString *)font;
 
 @end

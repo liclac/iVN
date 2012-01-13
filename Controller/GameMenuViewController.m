@@ -8,6 +8,7 @@
 
 #import "GameMenuViewController.h"
 #import "GameViewController.h"
+#import "FontSelectionViewController.h"
 
 @implementation GameMenuViewController
 @synthesize gameVC;
@@ -15,7 +16,7 @@
 @synthesize fontSizeLabel;
 @synthesize soundVolumeLabel, musicVolumeLabel;
 
-@synthesize fontSizeSlider, fontSegment;
+@synthesize fontSizeSlider, fontButton;
 @synthesize soundVolumeSlider, musicVolumeSlider;
 
 @synthesize fontSize, soundVolume, musicVolume, font;
@@ -47,7 +48,8 @@
 	fontSizeSlider.value = *fontSize;
 	soundVolumeSlider.value = *soundVolume;
 	musicVolumeSlider.value = *musicVolume;
-	fontSegment.selectedSegmentIndex = *font;
+	[fontButton setTitle:*font forState:UIControlStateNormal];
+	[fontButton.titleLabel setFont:[UIFont fontWithName:*font size:[UIFont systemFontSize]]];
 	
 	fontSizeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([fontSizeSlider value])];
 	soundVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([soundVolumeSlider value])];
@@ -86,8 +88,12 @@
 
 - (IBAction)actionChangeFont:(id)sender
 {
-	*font = [sender selectedSegmentIndex];
-	[gameVC actionSettingsChanged];
+	FontSelectionViewController *vc = [[FontSelectionViewController alloc] initWithStyle:UITableViewStyleGrouped];
+	vc.delegate = self;
+	vc.modalPresentationStyle = UIModalPresentationFormSheet;
+	//[self.navigationController pushViewController:vc animated:YES];
+	[self presentModalViewController:vc animated:YES createNavigationController:YES];
+	[vc release];
 }
 
 - (IBAction)actionChangeSoundVolume:(id)sender
@@ -115,6 +121,17 @@
 	if(padPopoverController == nil) [self dismissModalViewControllerAnimated:NO];
 	else [padPopoverController dismissPopoverAnimated:NO];
 	[gameVC actionExit];
+}
+
+- (void)fontSelectionDismissedWithNewFont:(NSString *)fontName
+{
+	//Retaining/Releasing like this mutes analysis warnings about leaks
+	[fontName performSelector:@selector(retain)];
+	[*font performSelector:@selector(release)];
+	*font = fontName;
+	[fontButton setTitle:fontName forState:UIControlStateNormal];
+	[fontButton.titleLabel setFont:[UIFont fontWithName:fontName size:[UIFont systemFontSize]]];
+	[gameVC actionSettingsChanged];
 }
 
 - (void)popoverControllerDidDismissPopover:(UIPopoverController *)popoverController

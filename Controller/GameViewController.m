@@ -8,6 +8,7 @@
 
 #import "GameViewController.h"
 #import "ScriptInterpreter.h"
+#import "SoundEngine.h"
 #import "Novel.h"
 #import "Command.h"
 #import "Sprite.h"
@@ -26,7 +27,7 @@
 @implementation GameViewController
 @synthesize gameView;
 @synthesize sidebarView;
-@synthesize interpreter, soundEngine;
+@synthesize interpreter;
 @synthesize novel, backgroundImageView, spriteViews, textView;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
@@ -54,24 +55,29 @@
     // Do any additional setup after loading the view from its nib.
 	
 	[[NSUserDefaults standardUserDefaults] registerDefaults:[NSDictionary dictionaryWithObjectsAndKeys:
-															 [NSNumber numberWithInteger:12], kDefaultsKeyFontSize,
-															 [NSNumber numberWithInteger:VNFontOptionModern], kDefaultsKeyFont,
+															 [NSNumber numberWithInteger:[UIFont systemFontSize]], kDefaultsKeyFontSize,
+															 @"Sazanami Gothic", kDefaultsKeyFont,
 															 [NSNumber numberWithInteger:16], kDefaultsKeySoundVolume,
 															 [NSNumber numberWithInteger:8], kDefaultsKeyMusicVolume,
 															 nil]];
 	
 	fontSize = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyFontSize];
-	font = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyFont];
+	font = [[NSUserDefaults standardUserDefaults] objectForKey:kDefaultsKeyFont];
 	soundVolume = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeySoundVolume];
 	musicVolume = [[NSUserDefaults standardUserDefaults] integerForKey:kDefaultsKeyMusicVolume];
 	
 	textView.backgroundColor = [UIColor colorWithWhite:0 alpha:0.25];
 	textView.opaque = NO;
 	textView.userInteractionEnabled = NO;
+	textView.delegate = self;
 	[textView loadRequest:[NSURLRequest requestWithURL:[[NSBundle mainBundle] URLForResource:@"index" withExtension:@"html"]]];
 	
 	interpreter = [[ScriptInterpreter alloc] initWithNovel:novel];
 	interpreter.delegate = self;
+	
+	soundEngine = [[SoundEngine alloc] initWithNovel:novel];
+	[soundEngine setVolume:soundVolume forChannel:VNSoundChannelSound];
+	[soundEngine setVolume:musicVolume forChannel:VNSoundChannelMusic];
 	
 	spriteViews = [[NSMutableArray alloc] init];
 }
@@ -86,13 +92,6 @@
 - (void)viewDidAppear:(BOOL)animated
 {
 	[super viewDidAppear:animated];
-	if(!started)
-	{
-		started = YES;
-		[interpreter processNextCommand:nil];
-		[textView setFont:font];
-		[textView setFontSize:fontSize];
-	}
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
@@ -139,17 +138,15 @@
 - (void)interpreter:(ScriptInterpreter *)si processSOUND:(Command *)command
 {
 	//MTMark();
-	[self playSound:[command.parameters objectAtIndex:0] onMusicChannel:NO
-			  loops:([command.parameters count] > 1 ? [[command.parameters objectAtIndex:1] integerValue] : 0)
-		   fromSave:NO];
+	[soundEngine playSound:[command.parameters objectAtIndex:0] onChannel:VNSoundChannelSound
+					 loops:([command.parameters count] > 1 ? [[command.parameters objectAtIndex:1] integerValue] : 0)];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processMUSIC:(Command *)command
 {
 	//MTMark();
-	[self playSound:[command.parameters objectAtIndex:0] onMusicChannel:YES
-			  loops:0 //Loops are ignored on the music channel anyways
-		   fromSave:NO];
+	[soundEngine playSound:[command.parameters objectAtIndex:0] onChannel:VNSoundChannelMusic
+					 loops:0];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processTEXT:(Command *)command
@@ -244,21 +241,20 @@
 {
 	MTMark();
 	
-	//Loop through all the lines and write them to the text area
-	//>>textView.text = nil;
-	[textView clearBuffer];
-	lineCount = 0;
-	for(NSString *line in buffer) [self writeLine:line quickly:YES];
-	[self updateOffset];
-	
 	//Update Background & Music
 	[self loadBackground:novel.currentState.background fadeTime:0 fromSave:YES];
-	[self playSound:novel.currentState.music onMusicChannel:YES loops:0 fromSave:YES];
+	[soundEngine playSound:novel.currentState.music onChannel:VNSoundChannelMusic loops:0];
 	
 	//Update Sprites
 	//NOTE: Due to `self.scaleFactor` being calculated in -[loadBackground:fadeTime:fromSave:], the sprites have to be loaded afterwards
 	for(SpriteView *view in spriteViews) [view removeFromSuperview];
 	for(Sprite *sprite in novel.currentState.sprites) [self addSprite:sprite fadeTime:0 fromSave:YES];
+	
+	//Loop through all the lines and write them to the text area
+	[textView clearBuffer];
+	lineCount = 0;
+	for(NSString *line in buffer) [self writeLine:line quickly:YES];
+	[self updateOffset];
 }
 
 
@@ -302,46 +298,6 @@
 
 
 #pragma mark - Interface
-- (void)playSound:(NSString *)filename onMusicChannel:(BOOL)music loops:(NSInteger)loops fromSave:(BOOL)fromSave
-{
-	AVAudioPlayer *player = (music ? musicPlayer : soundPlayer);
-	[player stop];
-	[player release];
-	
-	if([filename isEqualToString:@"~"])
-	{
-		if(music) musicPlayer = nil;
-		else soundPlayer = nil;
-	}
-	else
-	{
-		NSError *error = nil;
-		NSString *path = [novel relativeToAbsolutePath:[@"sound" stringByAppendingPathComponent:filename]];
-		AVAudioPlayer *newPlayer =  [[AVAudioPlayer alloc]
-									 initWithContentsOfURL:[NSURL fileURLWithPath:path]
-									 error:&error];
-		if(music)
-		{
-			novel.currentState.music = filename;
-			newPlayer.volume = musicVolume;
-			musicPlayer = newPlayer;
-		}
-		else
-		{
-			[newPlayer setNumberOfLoops:loops];
-			newPlayer.volume = soundVolume;
-			soundPlayer = newPlayer;
-		}
-		
-		if(error != nil) MTLog(@"%@ -> %@: %@", filename, path, error);
-		else
-		{
-			MTLog(@"Playing %@ %@", (music ? @"Music" : @"Sound"), filename);
-			[newPlayer play];
-		}
-	}
-}
-
 - (void)writeLine:(NSString *)text quickly:(BOOL)quickly
 {
 	MTLog(@"%@", text);
@@ -416,7 +372,9 @@
 - (void)actionMenu:(UIButton *)sender
 {
 	GameMenuViewController *vc = [[GameMenuViewController alloc] init];
-	vc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;
+	UINavigationController *nc = [[UINavigationController alloc] initWithRootViewController:vc];
+	nc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;
+	nc.navigationBarHidden = YES;
 	vc.gameVC = self;
 	vc.fontSize = &fontSize;
 	vc.font = &font;
@@ -424,13 +382,14 @@
 	vc.musicVolume = &musicVolume;
 	if([[UIDevice currentDevice] isPad])
 	{
-		UIPopoverController *popover = [[UIPopoverController alloc] initWithContentViewController:vc];
+		UIPopoverController *popover = [[UIPopoverController alloc] initWithContentViewController:nc];
 		vc.padPopoverController = popover;
 		popover.delegate = vc;
 		[popover presentPopoverFromRect:sender.bounds inView:sender permittedArrowDirections:UIPopoverArrowDirectionDown animated:YES];
 		[popover release];
 	}
-	else [self presentModalViewController:vc animated:YES];
+	else [self presentModalViewController:nc animated:YES];
+	[nc release];
 	[vc release];
 }
 
@@ -482,16 +441,16 @@
 
 - (void)actionExit
 {
-	[soundPlayer stop];
-	[musicPlayer stop];
+	[soundEngine stopChannel:VNSoundChannelMusic];
+	[soundEngine stopChannel:VNSoundChannelSound];
 	[novel.currentState reset];
 	[self dismissModalViewControllerAnimated:YES];
 }
 
 - (void)actionSettingsChanged
 {
-	musicPlayer.volume = musicVolume;
-	soundPlayer.volume = soundVolume;
+	[soundEngine setVolume:soundVolume forChannel:VNSoundChannelSound];
+	[soundEngine setVolume:musicVolume forChannel:VNSoundChannelMusic];
 	[textView setFontSize:fontSize];
 	[textView setFont:font];
 	[self updateOffset];
@@ -500,10 +459,19 @@
 - (void)actionSettingsClosed
 {
 	[[NSUserDefaults standardUserDefaults] setInteger:fontSize forKey:kDefaultsKeyFontSize];
-	[[NSUserDefaults standardUserDefaults] setInteger:font forKey:kDefaultsKeyFont];
+	[[NSUserDefaults standardUserDefaults] setObject:font forKey:kDefaultsKeyFont];
 	[[NSUserDefaults standardUserDefaults] setInteger:soundVolume forKey:kDefaultsKeySoundVolume];
 	[[NSUserDefaults standardUserDefaults] setInteger:musicVolume forKey:kDefaultsKeyMusicVolume];
 	[[NSUserDefaults standardUserDefaults] synchronize];
+}
+
+
+#pragma mark - Text View
+- (void)webViewDidFinishLoad:(UIWebView *)webView
+{
+	[textView setFont:font];
+	[textView setFontSize:fontSize];
+	[interpreter processNextCommand:nil];
 }
 
 @end
