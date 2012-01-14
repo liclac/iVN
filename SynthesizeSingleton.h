@@ -12,6 +12,12 @@
 //  appreciated but not required.
 //
 
+#if __llvm__
+	#define __SYNSIN_RELEASE_TYPE oneway void
+#else
+	#define __SYNSIN_RELEASE_TYPE void
+#endif
+
 #define SYNTHESIZE_SINGLETON_FOR_CLASS(classname) SYNTHESIZE_SINGLETON_FOR_CLASS_SHORTNAME(classname, classname)
 
 #define SYNTHESIZE_SINGLETON_FOR_CLASS_SHORTNAME(classname, shortname) \
@@ -60,7 +66,7 @@ static classname *shared##classname = nil; \
 	return NSUIntegerMax; \
 } \
  \
-- (void)release \
+- (__SYNSIN_RELEASE_TYPE)release \
 { \
 } \
  \

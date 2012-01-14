@@ -33,3 +33,17 @@ A 'Version 2.0' is currently in very early stages of development. This version w
 Feel free to branch the repo and add your own changes for me to pull back - this is a work in progress and there are always things that can be done better.
 
 If you have ideas, questions, bugs or words of encouragement, please tell me! You can contact me at [*@uppfinnarn*](http://twitter.com/uppfinnarn) on Twitter or by email at *uppfinnarn (at) gmail (dot) com*.
+
+## External Dependencies
+Building the iVN Source requires these libraries to be present in the correct locations:
+
+* [MacaroniTools](https://github.com/uppfinnarn/MacaroniTools)
+A toolkit containing useful macros and utility categories.
+
+* [TouchXML](https://github.com/TouchCode/TouchXML)
+A Lightweight XML Processing library used for reading XML Save Files
+*(Note: iVN Uses a not yet merged [branch](https://github.com/uppfinnarn/TouchXML), that mutes a Compiler Warning)*
+
+* [SSZipArchive](https://github.com/samsoffes/ssziparchive)
+Objective-C Wrapper around the C-Based MiniZip utility to compress and decompress ZIP archives.
+*(Note: iVN Uses a not yet merged [branch](https://github.com/uppfinnarn/ssziparchive), that adds support for a Progress Delegate)*

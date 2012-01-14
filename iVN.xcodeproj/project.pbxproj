@@ -130,6 +130,7 @@
 		22098A3C149D2F2300ED6131 /* Archive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Archive.h; path = Model/Archive.h; sourceTree = "<group>"; };
 		22098A3D149D2F2300ED6131 /* Archive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Archive.m; path = Model/Archive.m; sourceTree = "<group>"; };
 		2212A59314B9A5B6004529C5 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
+		2223D71414C20A0700500DB1 /* SSZipArchiveDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchiveDelegate.h; sourceTree = "<group>"; };
 		2223F45614C0AC7E00C9E469 /* Osaka.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Osaka.ttf; sourceTree = "<group>"; };
 		2223F45A14C0AD0900C9E469 /* OsakaMono.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = OsakaMono.ttf; sourceTree = "<group>"; };
 		224BA2C614B1D25F009E9BF4 /* LoadingViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "LoadingViewController~iPad.xib"; path = "Controller/LoadingViewController~iPad.xib"; sourceTree = "<group>"; };
@@ -707,6 +708,7 @@
 				8FC7C0A113DD68A500A5E60C /* Readme.markdown */,
 				8FC7C0A213DD68A500A5E60C /* SSZipArchive.h */,
 				8FC7C0A313DD68A500A5E60C /* SSZipArchive.m */,
+				2223D71414C20A0700500DB1 /* SSZipArchiveDelegate.h */,
 			);
 			name = SSZipArchive;
 			path = ../SSZipArchive;
@@ -984,6 +986,7 @@
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				INFOPLIST_FILE = "iVN/iVN-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.2;
@@ -1012,6 +1015,7 @@
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				HEADER_SEARCH_PATHS = /usr/include/libxml2;
 				INFOPLIST_FILE = "iVN/iVN-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.2;

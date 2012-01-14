@@ -34,77 +34,81 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 	novels = [[NSMutableArray alloc] init];
 	
 	NSFileManager *fileManager = [[NSFileManager alloc] init];
-#if TARGET_IPHONE_SIMULATOR
-	NSString *resourcePath = [[NSBundle mainBundle] resourcePath];
-#else
-	NSString *resourcePath = [[NSBundle mainBundle] documentsPath];
-#endif
-	NSArray *contents = [fileManager contentsOfDirectoryAtPath:resourcePath error:nil];
-	for(NSString *filename in contents)
+	
+	NSArray *paths = [[NSArray alloc] initWithObjects:[[NSBundle mainBundle] resourcePath], [[NSBundle mainBundle] documentsPath], nil];
+	for(NSString *resourcePath in paths)
 	{
-		NSString *path = [resourcePath stringByAppendingPathComponent:filename];
-		BOOL isDir = NO;
-		
-		[fileManager fileExistsAtPath:path isDirectory:&isDir];
-		
-		if(!isDir && [[path pathExtension] isEqualToString:@"zip"])
+		NSArray *contents = [fileManager contentsOfDirectoryAtPath:resourcePath error:nil];
+		for(NSString *filename in contents)
 		{
-			NSString *outPath = [resourcePath stringByAppendingPathComponent:
-								 [filename substringToIndex:[filename length]-4]]; //4 = length of ".zip"
-			MTLog(@"Unzipping %@ to %@", path, outPath);
-			[delegate collection:self willUnzipFile:filename];
+			NSString *path = [resourcePath stringByAppendingPathComponent:filename];
+			BOOL isDir = NO;
 			
-			NSError *error = nil;
-			[SSZipArchive unzipFileAtPath:path toDestination:outPath overwrite:YES password:nil error:&error];
-			if(error) MTLog(@"Novel Unzip Error: %@", error);
-			[fileManager removeItemAtPath:path error:NULL];
-			[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"__MACOSX"] error:nil];
+			[fileManager fileExistsAtPath:path isDirectory:&isDir];
 			
-			if(!error && [fileManager fileExistsAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"]])
+			if(!isDir && [[path pathExtension] isEqualToString:@"zip"])
 			{
-				NSString *soundPath = [outPath stringByAppendingPathComponent:@"sound.zip"];
-				NSString *soundOut = [outPath stringByAppendingPathComponent:@"sound"];
+				NSString *outPath = [resourcePath stringByAppendingPathComponent:
+									 [filename substringToIndex:[filename length]-4]]; //4 = length of ".zip"
+				MTLog(@"Unzipping %@ to %@", path, outPath);
+				[delegate collection:self willUnzipFile:filename];
 				
-				[delegate collection:self willReadSoundFromNovel:[outPath lastPathComponent]];
-				[SSZipArchive unzipFileAtPath:soundPath
-								toDestination:soundOut
-									overwrite:YES password:nil error:&error];
-				[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"] error:NULL];
-				if(error) MTLog(@"Sound Unzip Error: %@", error);
+				NSError *error = nil;
+				[SSZipArchive unzipFileAtPath:path toDestination:outPath overwrite:YES password:nil error:&error];
+				if(error) MTLog(@"Novel Unzip Error: %@", error);
+				[fileManager removeItemAtPath:path error:NULL];
+				[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"__MACOSX"] error:nil];
 				
-				NSString *sound2Path = [soundOut stringByAppendingPathComponent:@"sound"];
-				BOOL sound2IsDir = NO;
-				BOOL sound2Exists = [fileManager fileExistsAtPath:sound2Path isDirectory:&sound2IsDir];
-				if(sound2Exists && sound2IsDir)
+				if(!error && [fileManager fileExistsAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"]])
 				{
-					NSArray *s2contents = [fileManager contentsOfDirectoryAtPath:sound2Path error:NULL];
-					for(NSString *name in s2contents)
-					{
-						[fileManager moveItemAtPath:[sound2Path stringByAppendingPathComponent:name]
-											 toPath:[soundOut stringByAppendingPathComponent:name]
-											  error:NULL];
-					}
+					NSString *soundPath = [outPath stringByAppendingPathComponent:@"sound.zip"];
+					NSString *soundOut = [outPath stringByAppendingPathComponent:@"sound"];
 					
-					[fileManager removeItemAtPath:sound2Path error:NULL];
+					[delegate collection:self willReadSoundFromNovel:[outPath lastPathComponent]];
+					[SSZipArchive unzipFileAtPath:soundPath
+									toDestination:soundOut
+										overwrite:YES password:nil error:&error];
+					[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"] error:NULL];
+					if(error) MTLog(@"Sound Unzip Error: %@", error);
+					
+					NSString *sound2Path = [soundOut stringByAppendingPathComponent:@"sound"];
+					BOOL sound2IsDir = NO;
+					BOOL sound2Exists = [fileManager fileExistsAtPath:sound2Path isDirectory:&sound2IsDir];
+					if(sound2Exists && sound2IsDir)
+					{
+						NSArray *s2contents = [fileManager contentsOfDirectoryAtPath:sound2Path error:NULL];
+						for(NSString *name in s2contents)
+						{
+							[fileManager moveItemAtPath:[sound2Path stringByAppendingPathComponent:name]
+												 toPath:[soundOut stringByAppendingPathComponent:name]
+												  error:NULL];
+						}
+						
+						[fileManager removeItemAtPath:sound2Path error:NULL];
+					}
 				}
+				
+				path = outPath;
+				filename = [path lastPathComponent];
+				isDir = YES;
 			}
 			
-			path = outPath;
-			filename = [path lastPathComponent];
-			isDir = YES;
-		}
-		
-		MTLog(@"%d: %@", isDir, path);
-		
-		if(isDir)
-		{
-			//Skip folders that are not novels
-			if(![fileManager fileExistsAtPath:[path stringByAppendingPathComponent:@"info.txt"]]) continue;
+			MTLog(@"%d: %@", isDir, path);
 			
-			MTLog(@"%@", filename);
-			Novel *novel = [[Novel alloc] initWithDirectory:filename];
-			[novels addObject:novel];
-			[novel release];
+			if(isDir)
+			{
+				//Skip folders that are not novels
+				if(![fileManager fileExistsAtPath:[path stringByAppendingPathComponent:@"info.txt"]])
+				{
+					MTLog(@"Couldn't find info.txt in %@", path);
+					continue;
+				}
+				
+				MTLog(@"%@", filename);
+				Novel *novel = [[Novel alloc] initWithDirectory:filename];
+				[novels addObject:novel];
+				[novel release];
+			}
 		}
 	}
 	
