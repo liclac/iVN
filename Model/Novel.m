@@ -101,7 +101,6 @@
 	NSString *dirPath = [path stringByAppendingPathComponent:dir];
 	
 	//Attempt to load from a Zip File first
-	MTLog(@"Zip Path: %@", [dirPath stringByAppendingPathExtension:@"zip"]);
 	unzFile zipFile = unzOpen([[dirPath stringByAppendingPathExtension:@"zip"] UTF8String]);
 	if(zipFile != NULL)
 	{
@@ -118,7 +117,6 @@
 					int readBytes = 0;
 					if((readBytes = unzReadCurrentFile(zipFile, buffer, fileInfo.uncompressed_size)) >= 0)
 					{
-						MTLog(@"Uncompressed Size: %d, Read: %d", (NSInteger)fileInfo.uncompressed_size, readBytes);
 						data = [[NSData alloc] initWithBytes:buffer length:readBytes];
 					}
 					free(buffer);
