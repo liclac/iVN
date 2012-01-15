@@ -28,9 +28,15 @@ iVN doesn't just read VNDS games, it can also both read and write it's save file
 
 ## Fonts
 iVN allows you to use any font built into iOS, and also includes these nonstandard ones:
-* *Sazanami Gothic* - The original VNDS's default font
-* *Osaka Mono* - Apple-developed Japanese typeface recommended by [Phlebas](http://twitter.com/#!/PhleBuster)
-* *Osaka* - Variable Width version of Osaka Mono
+
+* *Sazanami Gothic*
+- The original VNDS's default font
+
+* *Osaka Mono*
+- Apple-developed Japanese typeface recommended by [Phlebas](http://twitter.com/#!/PhleBuster)
+
+* *Osaka*
+- Variable Width version of Osaka Mono
 
 ## External Dependencies
 Building the iVN Source requires these libraries to be present in the correct locations:
