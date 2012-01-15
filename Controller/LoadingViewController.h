@@ -11,8 +11,10 @@
 @interface LoadingViewController : UIViewController
 {
 	UILabel *subtitleLabel;
+	UIProgressView *progressBar;
 }
 
 @property (nonatomic, retain) IBOutlet UILabel *subtitleLabel;
+@property (nonatomic, retain) IBOutlet UIProgressView *progressBar;
 
 @end

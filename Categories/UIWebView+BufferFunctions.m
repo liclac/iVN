@@ -12,7 +12,10 @@
 
 - (void)addLine:(NSString *)string
 {
-	[self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__addLine(\"%@\")", string]];
+	//NOTE: We must encode the line with UTF-8 before sending it to JS-land.
+	//      Not doing this will break Japanese text, such as that in the beginning of Saya no Uta (s01.scr)
+	NSString *utf8string = [string stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
+	[self stringByEvaluatingJavaScriptFromString:[NSString stringWithFormat:@"__addLine(\"%@\")", utf8string]];
 }
 
 - (void)clearBuffer

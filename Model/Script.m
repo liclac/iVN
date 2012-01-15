@@ -10,44 +10,29 @@
 #import "Command.h"
 
 @interface Script(Private)
-- (void)loadFromFile;
+- (void)loadFromString:(NSString *)string;
 @end
 
 @implementation Script
-@synthesize path, absPath, commands, labels;
+@synthesize localPath, commands, labels;
 
-- (id)initWithContentsOfFile:(NSString *)aPath absPath:(NSString *)theAbsPath
+- (id)initWithData:(NSData *)data encoding:(NSStringEncoding)encoding localPath:(NSString *)localPath_
 {
-    if ((self = [super init]))
+	if((self = [super init]))
 	{
-		path = [aPath retain];
-		absPath = [theAbsPath retain];
-    }
-    
-    return self;
+		localPath = [localPath_ retain];
+		
+		NSString *string = [[NSString alloc] initWithData:data encoding:encoding];
+		[self loadFromString:string];
+		[string release];
+	}
+	
+	return self;
 }
 
-- (NSMutableArray *)commands
+- (void)loadFromString:(NSString *)string
 {
-	if(commands == nil) [self loadFromFile];
-	return commands;
-}
-
-- (NSMutableDictionary *)labels
-{
-	if(labels == nil) [self loadFromFile];
-	return labels;
-}
-
-- (void)loadFromFile
-{
-	/**
-	 * Load the contents of the script file, split the lines and create command objects from them.
-	 * Note the use of [NSCharacterSet newlineCharacterSet] rather than @"\n": this way you don't have to worry about
-	 * "\r" characters lying about. Plus it's good practice to use Character Sets rather than string literals where it makes sense.
-	 */
-	NSString *contents = [NSString stringWithContentsOfFile:absPath encoding:NSUTF8StringEncoding error:NULL];
-	NSArray *lines = [contents componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]];
+	NSArray *lines = [string componentsSeparatedByCharactersInSet:[NSCharacterSet newlineCharacterSet]];
 	
 	commands = [[NSMutableArray alloc] initWithCapacity:[lines count]];
 	labels = [[NSMutableDictionary alloc] init];
@@ -73,7 +58,7 @@
 		[command release];
 	}
 	
-	MTAssert([unclosedIfs count] == 0, @"Unclosed IF in file %@", path);
+	MTAssert([unclosedIfs count] == 0, @"Unclosed IF in file %@", localPath);
 	[unclosedIfs release];
 }
 

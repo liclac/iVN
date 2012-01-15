@@ -371,7 +371,7 @@
 	else
 	{
 		MTALog(@"Invalid IF-operator in %@: '%@' --> %@ %@ %@",
-			   novel.currentState.script.path, command.string, leftValue, operator, rightValue);
+			   novel.currentState.script.localPath, command.string, leftValue, operator, rightValue);
 		retval = NO;
 	}
 	

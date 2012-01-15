@@ -9,7 +9,7 @@
 #import "LoadingViewController.h"
 
 @implementation LoadingViewController
-@synthesize subtitleLabel;
+@synthesize subtitleLabel, progressBar;
 
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
@@ -38,7 +38,6 @@
 
 - (void)viewDidUnload
 {
-    [self setSubtitleLabel:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -51,7 +50,6 @@
 }
 
 - (void)dealloc {
-    [subtitleLabel release];
     [super dealloc];
 }
 @end

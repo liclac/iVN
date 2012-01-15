@@ -23,6 +23,7 @@
 @synthesize directory, path, info;
 @synthesize saves, gvars;
 @synthesize scripts, currentState;
+@synthesize encoding;
 
 - (id)initWithDirectory:(NSString *)theDirectory
 {
@@ -53,28 +54,11 @@
 	 * Instead use "whatever = [value retain]" or similar
 	 */
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	NSFileManager *fm = [[NSFileManager alloc] init];
-	NSString *scriptPath = [self relativeToAbsolutePath:@"script"];
-	NSArray *scriptFiles = [fm contentsOfDirectoryAtPath:scriptPath error:NULL];
-	
-	scripts = [[NSMutableDictionary alloc] initWithCapacity:[scriptFiles count]];
-	for(NSString *file in scriptFiles)
-	{
-		Script *script = [[Script alloc] initWithContentsOfFile:[@"script/" stringByAppendingPathComponent:file]
-														absPath:[scriptPath stringByAppendingPathComponent:file]];
-		[scripts setObject:script forKey:[@"script/" stringByAppendingPathComponent:file]];
-		[script release];
-	}
-	MTLog(@"\n%@", scripts);
-	[fm release];
+	NSError *error = nil;
+	NSString *infoString = [[NSString alloc] initWithContentsOfFile:[self relativeToAbsolutePath:@"info.txt"]
+													   usedEncoding:&encoding error:&error];
+	[infoString release];
+	if(error != nil) encoding = NSUTF8StringEncoding;
 	
 	saves = [[NSMutableDictionary alloc] init];
 	for(NSInteger i = -1; i < kSaveSlots; i++)
@@ -99,11 +83,19 @@
 	return [path stringByAppendingPathComponent:relativePath];
 }
 
+- (NSData *)contentsOfResource:(NSString *)resource
+{
+	NSData *data = [[NSData alloc] initWithContentsOfFile:[path stringByAppendingPathComponent:resource]];
+	return [data autorelease];
+}
+
 - (void)loadScriptWithName:(NSString *)name
 {
-	Script *script = [scripts objectForKey:[@"script/" stringByAppendingPathComponent:name]];
+	NSString *localPath = [@"script/" stringByAppendingPathComponent:name];
+	Script *script = [[Script alloc] initWithData:[self contentsOfResource:localPath] encoding:encoding localPath:localPath];
 	[currentState reset];
 	currentState.script = script;
+	[script release];
 }
 
 - (Variable *)variableForName:(NSString *)name

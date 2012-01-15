@@ -4,8 +4,9 @@
 			var bufferSize = 500;
 			var counter = 0;
 			
-			function __addLine(string)
+			function __addLine(string_)
 			{
+				var string = decodeURIComponent(string_);
 				var newP = document.createElement("p");
 				newP.textContent = (string.length > 0 ? string : '\u00A0');
 				
@@ -81,6 +82,7 @@
 				padding:0 10px 10px 10px;
 			}
 		</style>
+		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 	</head>
 	<body>
 		

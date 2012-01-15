@@ -18,6 +18,7 @@
 		227A071114BB7936009ABF0A /* Comic-Sans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 227A071014BB7936009ABF0A /* Comic-Sans.ttf */; };
 		229EBC2014BE27E900BD1C5D /* SoundEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 229EBC1F14BE27E900BD1C5D /* SoundEngine.m */; };
 		229EBC2F14BF053D00BD1C5D /* FontSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 229EBC2E14BF053C00BD1C5D /* FontSelectionViewController.m */; };
+		22AD06DE14C2C9E0009EF12C /* CTools.c in Sources */ = {isa = PBXBuildFile; fileRef = 22AD06DD14C2C9E0009EF12C /* CTools.c */; };
 		22AF491B14B06E8E00913FAF /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491914B06E8E00913FAF /* MainWindow-iPad.xib */; };
 		22AF491D14B071F800913FAF /* GameViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491C14B071F800913FAF /* GameViewController~iPad.xib */; };
 		22AF491F14B07A0A00913FAF /* GameMenuViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 22AF491E14B07A0A00913FAF /* GameMenuViewController~iPad.xib */; };
@@ -145,6 +146,8 @@
 		229EBC2D14BF053C00BD1C5D /* FontSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FontSelectionViewController.h; path = Controller/FontSelectionViewController.h; sourceTree = "<group>"; };
 		229EBC2E14BF053C00BD1C5D /* FontSelectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FontSelectionViewController.m; path = Controller/FontSelectionViewController.m; sourceTree = "<group>"; };
 		22AC73EC14AFBB1E0018C79F /* SaveLoadDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaveLoadDelegate.h; path = Protocols/SaveLoadDelegate.h; sourceTree = "<group>"; };
+		22AD06DD14C2C9E0009EF12C /* CTools.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = CTools.c; sourceTree = "<group>"; };
+		22AD06E014C2C9ED009EF12C /* CTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CTools.h; sourceTree = "<group>"; };
 		22AF491A14B06E8E00913FAF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		22AF491C14B071F800913FAF /* GameViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "GameViewController~iPad.xib"; path = "Controller/GameViewController~iPad.xib"; sourceTree = "<group>"; };
 		22AF491E14B07A0A00913FAF /* GameMenuViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "GameMenuViewController~iPad.xib"; path = "Controller/GameMenuViewController~iPad.xib"; sourceTree = "<group>"; };
@@ -462,6 +465,8 @@
 				8F1089CB13D857DC0014DAAC /* InfoPlist.strings */,
 				8F1089CE13D857DC0014DAAC /* main.m */,
 				8F1089D013D857DC0014DAAC /* iVN-Prefix.pch */,
+				22AD06E014C2C9ED009EF12C /* CTools.h */,
+				22AD06DD14C2C9E0009EF12C /* CTools.c */,
 				22B509F314B33C4E000559FB /* index.html */,
 			);
 			name = "Supporting Files";
@@ -900,6 +905,7 @@
 				229EBC2014BE27E900BD1C5D /* SoundEngine.m in Sources */,
 				229EBC2F14BF053D00BD1C5D /* FontSelectionViewController.m in Sources */,
 				225183D614C06B550023C95B /* SoundChannel.m in Sources */,
+				22AD06DE14C2C9E0009EF12C /* CTools.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

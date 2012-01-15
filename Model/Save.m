@@ -117,7 +117,7 @@
 		
 		//Script State
 		MTLog(@"%@ %d %d", state, state.position, state.textSkip);
-		[saveContents appendFormat:@"  <script><file>%@</file><position>%d</position></script>\n", state.script.path, state.textSkip];
+		[saveContents appendFormat:@"  <script><file>%@</file><position>%d</position></script>\n", state.script.localPath, state.textSkip];
 		
 		//Date
 		[self saveDate];
@@ -283,7 +283,8 @@
 			int y = [[[spriteE attributeForName:@"y"] stringValue] intValue];
 			NSString *path = [[spriteE attributeForName:@"path"] stringValue];
 			
-			Sprite *sprite = [[Sprite alloc] initWithPath:path absPath:[novel relativeToAbsolutePath:path] point:CGPointMake(x, y)];
+			//Sprite *sprite = [[Sprite alloc] initWithPath:path absPath:[novel relativeToAbsolutePath:path] point:CGPointMake(x, y)];
+			Sprite *sprite = [[Sprite alloc] initWithPath:path data:[novel contentsOfResource:path] point:CGPointMake(x, y)];
 			[state.sprites addObject:sprite];
 			[sprite release];
 		}

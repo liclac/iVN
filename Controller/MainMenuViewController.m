@@ -13,6 +13,8 @@
 #import "SettingsViewController.h"
 #import "LoadingViewController.h"
 
+#import "CTools.h"
+
 @implementation MainMenuViewController
 @synthesize table;
 @synthesize thumbnailImageView;
@@ -149,11 +151,22 @@
 				   ^{[[Collection sharedCollection] loadCollectionWithDelegate:self];});
 }
 
-- (void)collection:(Collection *)collection willUnzipFile:(NSString *)filename
+- (void)collection:(Collection *)collection willUnzipFile:(NSString *)filename count:(NSInteger)count
 {
-	MTLog(@"%@", filename);
+	[self collection:collection willUnzipFileNumber:0 outOf:count from:filename];
+}
+
+- (void)collection:(Collection *)collection willUnzipFileNumber:(NSInteger)number outOf:(NSInteger)total from:(NSString *)from
+{
+	MTLog(@"%d/%d", number, total);
+	NSInteger padding = numdigits(total);
 	dispatch_async(dispatch_get_main_queue(), ^{
-		loadingVC.subtitleLabel.text = [NSString stringWithFormat:@"Decompressing file '%@'...", filename];
+		float progress = (float)number/(float)total;
+		loadingVC.subtitleLabel.text = [NSString stringWithFormat:@"Decompressing file %*d/%-*d from %@... (%d%%)",
+										padding, number, padding, total, [from lastPathComponent],
+										(NSInteger)(progress*100)];
+		loadingVC.progressBar.hidden = NO;
+		loadingVC.progressBar.progress = progress;
 		[loadingVC.view setNeedsDisplay];
 	});
 }

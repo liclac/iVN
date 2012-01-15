@@ -32,6 +32,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 {
 	[novels release]; //Security Device; it should already be nil
 	novels = [[NSMutableArray alloc] init];
+	tmpUnzipDelegate = delegate;
 	
 	NSFileManager *fileManager = [[NSFileManager alloc] init];
 	
@@ -51,15 +52,14 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 				NSString *outPath = [resourcePath stringByAppendingPathComponent:
 									 [filename substringToIndex:[filename length]-4]]; //4 = length of ".zip"
 				MTLog(@"Unzipping %@ to %@", path, outPath);
-				[delegate collection:self willUnzipFile:filename];
 				
 				NSError *error = nil;
-				[SSZipArchive unzipFileAtPath:path toDestination:outPath overwrite:YES password:nil error:&error];
+				[SSZipArchive unzipFileAtPath:path toDestination:outPath overwrite:YES password:nil error:&error delegate:self];
 				if(error) MTLog(@"Novel Unzip Error: %@", error);
 				[fileManager removeItemAtPath:path error:NULL];
 				[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"__MACOSX"] error:nil];
 				
-				if(!error && [fileManager fileExistsAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"]])
+				/*if(!error && [fileManager fileExistsAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"]])
 				{
 					NSString *soundPath = [outPath stringByAppendingPathComponent:@"sound.zip"];
 					NSString *soundOut = [outPath stringByAppendingPathComponent:@"sound"];
@@ -86,7 +86,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 						
 						[fileManager removeItemAtPath:sound2Path error:NULL];
 					}
-				}
+				}*/
 				
 				path = outPath;
 				filename = [path lastPathComponent];
@@ -114,6 +114,16 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 	
 	[fileManager release];
 	[delegate collectionDidFinishUpdating:self];
+}
+
+- (void)zipArchiveWillUnzipFile:(NSString *)path globalInfo:(unz_global_info)header
+{
+	[tmpUnzipDelegate collection:self willUnzipFile:[path lastPathComponent] count:header.number_entry];
+}
+
+- (void)zipArchiveWillUnzipFileNumber:(NSInteger)number outOf:(NSInteger)total fromFile:(NSString *)path fileInfo:(unz_file_info)header
+{
+	[tmpUnzipDelegate collection:self willUnzipFileNumber:number outOf:total from:[path lastPathComponent]];
 }
 
 @end

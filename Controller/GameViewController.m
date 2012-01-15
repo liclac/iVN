@@ -70,7 +70,10 @@
 	textView.opaque = NO;
 	textView.userInteractionEnabled = NO;
 	textView.delegate = self;
-	[textView loadRequest:[NSURLRequest requestWithURL:[[NSBundle mainBundle] URLForResource:@"index" withExtension:@"html"]]];
+	NSData *indexData = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"index" ofType:@"html"]];
+	[textView loadData:indexData MIMEType:@"text/html" textEncodingName:@"utf-8" baseURL:[[NSBundle mainBundle] resourceURL]];
+	[indexData release];
+	//[textView loadRequest:[NSURLRequest requestWithURL:[[NSBundle mainBundle] URLForResource:@"index" withExtension:@"html"]]];
 	
 	interpreter = [[ScriptInterpreter alloc] initWithNovel:novel];
 	interpreter.delegate = self;
@@ -128,9 +131,7 @@
 	CGPoint point = CGPointMake([[command.parameters objectAtIndex:1] integerValue],
 								[[command.parameters objectAtIndex:2] integerValue]);
 	NSString *path = [@"foreground" stringByAppendingPathComponent:[command.parameters objectAtIndex:0]];
-	Sprite *sprite = [[Sprite alloc] initWithPath:path
-										  absPath:[novel relativeToAbsolutePath:path]
-											point:point];
+	Sprite *sprite = [[Sprite alloc] initWithPath:path data:[novel contentsOfResource:path] point:point];
 	[self addSprite:sprite fadeTime:time fromSave:NO];
 	[sprite release];
 }
@@ -332,8 +333,9 @@
 	if(!fromSave)
 		for(SpriteView *spriteView in spriteViews) [spriteView fadeOutWithDuration:time];
 	
-	UIImage *img = [[UIImage alloc] initWithContentsOfFile:
-					[novel relativeToAbsolutePath:[@"background" stringByAppendingPathComponent:background]]];
+	/*UIImage *img = [[UIImage alloc] initWithContentsOfFile:
+					[novel relativeToAbsolutePath:[@"background" stringByAppendingPathComponent:background]]];*/
+	UIImage *img = [[UIImage alloc] initWithData:[novel contentsOfResource:[@"background/" stringByAppendingPathComponent:background]]];
 	if(img != nil)
 	{
 		CGFloat scale = backgroundImageView.frame.size.width/img.size.width;

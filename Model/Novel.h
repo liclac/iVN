@@ -32,6 +32,8 @@
 	
 	NSMutableDictionary *scripts;		//Script objects for all objects in the novel; keys are NSStrings with self-relative paths
 	State *currentState;				//The current State
+	
+	NSStringEncoding encoding;			//Encoding for text in the novel
 }
 
 @property (nonatomic, retain) NSString *directory, *path;
@@ -43,6 +45,8 @@
 @property (nonatomic, retain) NSMutableDictionary *scripts;
 @property (nonatomic, retain) State *currentState;
 
+@property (nonatomic, assign) NSStringEncoding encoding;
+
 /**
  * Creates a Novel that reads it's data from the specified directory.
  * @param path to the novel's directory, relative to the application bundle
@@ -51,11 +55,22 @@
 
 /**
  * "Translates" a path relative to the novel directory, such as "script/main.scr", into an absolute path.
+ * DEPRECATED: Use ::contentsOfResource: instead, as this function does not support zipped resources.
  * 
  * @param relativePath the relative path to translate
  * @return an absolute path to the file the relative path points to
  */
 - (NSString *)relativeToAbsolutePath:(NSString *)relativePath;
+
+/**
+ * Gets the contents of a Resource.
+ * This function will load zipped resources if available,
+ * otherwise fall back to normal filesystem resources.
+ * 
+ * @param resource the Relative Path of the Resource to be loaded, ex. 'script/main.scr'
+ * @return the contents of the requested Resource, or nil if it could not be loaded
+ */
+- (NSData *)contentsOfResource:(NSString *)resource;
 
 /**
  * Loads the script for the given name, or throws an exception if it doesn't exist.

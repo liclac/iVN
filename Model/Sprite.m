@@ -9,17 +9,15 @@
 #import "Sprite.h"
 
 @implementation Sprite
-@synthesize path, absPath, image, point;
+@synthesize path, image, point;
 
-- (id)initWithPath:(NSString *)aPath absPath:(NSString *)abPath point:(CGPoint)aPoint
+- (id)initWithPath:(NSString *)path_ data:(NSData *)data point:(CGPoint)point_
 {
 	if((self = [super init]))
 	{
-		path = [aPath retain];
-		absPath = [abPath retain];
-		point = aPoint;
-		valid = YES; //Assume that the source file is valid until it's proven not to be
-		MTLog(@"%@ %@", path, absPath);
+		path = [path_ retain];
+		point = point_;
+		image = [[UIImage alloc] initWithData:data];
 	}
 	
 	return self;
@@ -28,18 +26,6 @@
 - (void)unload
 {
 	self.image = nil;
-}
-
-- (UIImage *)image
-{
-	//Lazy-load the image
-	if(image == nil && valid)
-	{
-		image = [[UIImage alloc] initWithContentsOfFile:absPath];
-		if(image == nil) valid = NO;
-	}
-	
-	return image;
 }
 
 - (id)copyWithZone:(NSZone *)zone

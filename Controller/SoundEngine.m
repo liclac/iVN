@@ -74,7 +74,12 @@
 	{
 		channel.loops = loops;
 		
-		if(NO)
+		NSData *data = [novel contentsOfResource:[@"sound" stringByAppendingPathComponent:name]];
+		NSError *error = [channel loadData:data];
+		if(error == nil) [channel play];
+		else MTLog(@"Audio Loading Error: %@", error);
+		
+		/*if(NO)
 		{
 			//TODO: Add Archive Loading
 		}
@@ -85,7 +90,7 @@
 			NSError *error = [channel loadPath:path];
 			if(error == nil) [channel play];
 			else MTLog(@"Audio Loading Error: %@", error);
-		}
+		}*/
 	}
 }
 
