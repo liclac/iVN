@@ -101,11 +101,13 @@
 	NSString *dirPath = [path stringByAppendingPathComponent:dir];
 	
 	//Attempt to load from a Zip File first
-	unzFile zipFile = unzOpen([dirPath UTF8String]);
+	MTLog(@"Zip Path: %@", [dirPath stringByAppendingPathExtension:@"zip"]);
+	unzFile zipFile = unzOpen([[dirPath stringByAppendingPathExtension:@"zip"] UTF8String]);
 	if(zipFile != NULL)
 	{
 		MTLog(@"Reading from Zip...");
-		if(unzLocateFile(zipFile, [res UTF8String], 0) == UNZ_OK)
+		if(unzLocateFile(zipFile, [res UTF8String], 0) == UNZ_OK ||
+		   unzLocateFile(zipFile, [[dir stringByAppendingPathComponent:res] UTF8String], 0) == UNZ_OK)
 		{
 			if(unzOpenCurrentFile(zipFile) == UNZ_OK)
 			{
@@ -126,7 +128,7 @@
 			} else MTLog(@"ERROR: Couldn't open Current File");
 			
 			unzClose(zipFile);
-		} else MTLog(@"ERROR: Couldn't locate file");
+		} else MTLog(@"ERROR: Couldn't locate file '%@'", res);
 	}
 	else
 	{
