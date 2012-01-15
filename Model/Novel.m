@@ -15,6 +15,8 @@
 #import "Variable.h"
 #import "Command.h"
 
+#import "unzip.h"
+
 @interface Novel(Private)
 - (void)loadFromDirectory;
 @end
@@ -30,6 +32,7 @@
 	if((self = [super init]))
 	{
 		directory = [theDirectory retain];
+#pragma warning Rewrite This!
 #if TARGET_IPHONE_SIMULATOR
 		NSString *resourcePath = [[NSBundle mainBundle] resourcePath];
 #else
@@ -85,7 +88,52 @@
 
 - (NSData *)contentsOfResource:(NSString *)resource
 {
-	NSData *data = [[NSData alloc] initWithContentsOfFile:[path stringByAppendingPathComponent:resource]];
+	NSArray *components = [resource pathComponents];
+	NSString *dir = [components objectAtIndex:0];
+	NSString *res = [resource substringFromIndex:[dir length]+1]; //+1 = '/'
+	return [self contentsOfResource:res inDirectory:dir];
+}
+
+- (NSData *)contentsOfResource:(NSString *)res inDirectory:(NSString *)dir
+{
+	NSData *data = nil;
+	
+	NSString *dirPath = [path stringByAppendingPathComponent:dir];
+	
+	//Attempt to load from a Zip File first
+	unzFile zipFile = unzOpen([dirPath UTF8String]);
+	if(zipFile != NULL)
+	{
+		MTLog(@"Reading from Zip...");
+		if(unzLocateFile(zipFile, [res UTF8String], 0) == UNZ_OK)
+		{
+			if(unzOpenCurrentFile(zipFile) == UNZ_OK)
+			{
+				unz_file_info fileInfo;
+				if(unzGetCurrentFileInfo(zipFile, &fileInfo, NULL, 0, NULL, 0, NULL, 0) == UNZ_OK)
+				{
+					void *buffer = malloc(fileInfo.uncompressed_size);
+					int readBytes = 0;
+					if((readBytes = unzReadCurrentFile(zipFile, buffer, fileInfo.uncompressed_size)) >= 0)
+					{
+						MTLog(@"Uncompressed Size: %d, Read: %d", (NSInteger)fileInfo.uncompressed_size, readBytes);
+						data = [[NSData alloc] initWithBytes:buffer length:readBytes];
+					}
+					free(buffer);
+				} else MTLog(@"ERROR: Couldn't get Current File Info");
+				
+				unzCloseCurrentFile(zipFile);
+			} else MTLog(@"ERROR: Couldn't open Current File");
+			
+			unzClose(zipFile);
+		} else MTLog(@"ERROR: Couldn't locate file");
+	}
+	else
+	{
+		MTLog(@"Reading from File...");
+		data = [[NSData alloc] initWithContentsOfFile:[dirPath stringByAppendingPathComponent:res]];
+	}
+	
 	return [data autorelease];
 }
 

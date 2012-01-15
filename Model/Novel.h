@@ -63,14 +63,28 @@
 - (NSString *)relativeToAbsolutePath:(NSString *)relativePath;
 
 /**
- * Gets the contents of a Resource.
+ * Loads the contents of a Resource.
  * This function will load zipped resources if available,
  * otherwise fall back to normal filesystem resources.
+ * 
+ * This function splits up a path and passes the resource and directory paths to
+ * ::contentsOfResource:inDirectory:
  * 
  * @param resource the Relative Path of the Resource to be loaded, ex. 'script/main.scr'
  * @return the contents of the requested Resource, or nil if it could not be loaded
  */
 - (NSData *)contentsOfResource:(NSString *)resource;
+
+/**
+ * Loads the contents of a Resource.
+ * This function will load zipped resources if available,
+ * otherwise fall back to normal filesystem resources.
+ * 
+ * @param resource the name of the resource to load
+ * @param the directory (or archive) to search for it from
+ * @return the contents of the requested Resource, or nil if it could not be loaded
+ */
+- (NSData *)contentsOfResource:(NSString *)resource inDirectory:(NSString *)directory;
 
 /**
  * Loads the script for the given name, or throws an exception if it doesn't exist.

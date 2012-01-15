@@ -50,6 +50,9 @@
 		[data appendBytes:buffer length:readLength];
 	}
 	
+	unzCloseCurrentFile(file);
+	unzClose(file);
+	
 	return [data autorelease];
 }
 
