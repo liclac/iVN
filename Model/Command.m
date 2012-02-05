@@ -7,19 +7,25 @@
 //
 
 #import "Command.h"
+#import "Script.h"
+#import "Novel.h"
+#import "State.h"
+#import "Variable.h"
 
 @interface Command(Private)
 - (void)loadFromString:(NSString *)str;
+- (NSString *)replaceVariablesInString:(NSString *)string;
 @end
 
 @implementation Command
-@synthesize type, string, parameters, text, endPosition;
+@synthesize script, type, string, text, endPosition;
 
-- (id)initWithString:(NSString *)str
+- (id)initWithString:(NSString *)str script:(Script *)script_
 {
     if((self = [super init]))
 	{
 		[self loadFromString:str];
+		script = script_;
     }
     
     return self;
@@ -69,8 +75,7 @@
 	/*
 	 * --> Process Command Name
 	 */
-	NSString *name = [[components objectAtIndex:0] uppercaseString];	//Alias to avoid having to write this all the time
-																		//Uppercase just because "BGLOAD" looks cooler than "bgload" ;)
+	NSString *name = [[components objectAtIndex:0] uppercaseString];	//Uppercase just because "BGLOAD" looks cooler than "bgload" ;)
 	
 	// "Translate" the text name into a more manageable - and faster managed - VNCommandType.
 	// VNCommandType is typedef:ed from an enum in the header in case you missed it.
@@ -122,6 +127,68 @@
 	
 	//Save the original string for debugging purposes
 	string = [str retain];
+}
+
+- (id)parameterAtIndex:(NSInteger)index defaultValue:(id)defval
+{
+	return [self parameterAtIndex:index defaultValue:defval maybeVariable:NO];
+}
+
+- (id)parameterAtIndex:(NSInteger)index defaultValue:(id)defval maybeVariable:(BOOL)mv
+{
+	if([parameters count] > index)
+	{
+		NSString *value = [parameters objectAtIndex:index];
+		if(mv)
+		{
+			Variable *var = [script.novel variableForName:value];
+			return (var ? [var objectValue] : value);
+		}
+		else return value;
+	}
+	else return defval;
+}
+
+- (NSInteger)parameterCount
+{
+	return [parameters count];
+}
+
+- (NSString *)text
+{
+	return [self replaceVariablesInString:text];
+}
+
+- (NSString *)replaceVariablesInString:(NSString *)string_
+{
+	NSMutableString *str = [[NSMutableString alloc] init];
+	NSScanner *scanner = [[NSScanner alloc] initWithString:string_];
+	NSString *foundString;
+	
+	[scanner setCharactersToBeSkipped:[NSCharacterSet characterSetWithCharactersInString:@""]];
+	NSCharacterSet *endSet = [NSCharacterSet characterSetWithCharactersInString:@" :"];
+	while(![scanner isAtEnd])
+	{
+		if([scanner scanUpToString:@"$" intoString:&foundString])
+		{
+			[str appendString:foundString];
+		}
+		if(![scanner isAtEnd])
+		{
+			[scanner scanString:@"$" intoString:nil];
+			foundString = @""; //scanUpToString doesn't modify foundString if no characters are scanned
+							   //[scanner scanUpToString:@" " intoString:&foundString];
+			[scanner scanUpToCharactersFromSet:endSet intoString:&foundString];
+			
+			id value = [script.novel variableForName:foundString];
+			if(value != nil) [str appendString:[value stringValue]];
+			else [str appendString:foundString];
+		}
+	}
+	
+	NSString *retval = [str copy];
+	[str release];
+	return [retval autorelease];
 }
 
 - (NSString *)description

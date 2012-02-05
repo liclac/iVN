@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+@class Script;
 
 /**
  * Command Type.
@@ -44,6 +45,7 @@ typedef enum VNCommandType
  */
 @interface Command : NSObject
 {
+	Script *script;			//Parent Scripts
 	VNCommandType type;		//The Command Type
 	NSString  *string;		//The String the command was created from
 	NSArray *parameters;	//Parameters (the string split by whitespace minus the command name)
@@ -51,12 +53,15 @@ typedef enum VNCommandType
 	NSInteger endPosition;	//Used by the "if"-command to determine where the corresponding FI is (assigned by the parent Script object)
 }
 
+@property (nonatomic, assign) Script *script;
 @property (nonatomic, assign) VNCommandType type;
 @property (nonatomic, readonly) NSString *string;
-@property (nonatomic, retain) NSArray *parameters;
 @property (nonatomic, retain) NSString *text;
 @property (nonatomic, assign) NSInteger endPosition;
 
-- (id)initWithString:(NSString *)str;
+- (id)initWithString:(NSString *)str script:(Script *)script;
+- (id)parameterAtIndex:(NSInteger)index defaultValue:(id)defval;
+- (id)parameterAtIndex:(NSInteger)index defaultValue:(id)defval maybeVariable:(BOOL)mv;
+- (NSInteger)parameterCount;
 
 @end

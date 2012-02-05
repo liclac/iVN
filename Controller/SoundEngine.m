@@ -31,66 +31,18 @@
 
 - (void)playSound:(NSString *)name onChannel:(VNSoundChannelID)channelID loops:(NSInteger)loops
 {
-	/*AVAudioPlayer *player = (music ? musicPlayer : soundPlayer);
-	[player stop];
-	[player release];
-	
-	if([filename isEqualToString:@"~"])
-	{
-		if(music) musicPlayer = nil;
-		else soundPlayer = nil;
-	}
-	else
-	{
-		NSError *error = nil;
-		NSString *path = [novel relativeToAbsolutePath:[@"sound" stringByAppendingPathComponent:filename]];
-		AVAudioPlayer *newPlayer =  [[AVAudioPlayer alloc]
-									 initWithContentsOfURL:[NSURL fileURLWithPath:path]
-									 error:&error];
-		if(music)
-		{
-			novel.currentState.music = filename;
-			newPlayer.volume = musicVolume;
-			musicPlayer = newPlayer;
-		}
-		else
-		{
-			[newPlayer setNumberOfLoops:loops];
-			newPlayer.volume = soundVolume;
-			soundPlayer = newPlayer;
-		}
-		
-		if(error != nil) MTLog(@"%@ -> %@:\n%@", filename, path, error);
-		else
-		{
-			MTLog(@"Playing %@ %@", (music ? @"Music" : @"Sound"), filename);
-			[newPlayer play];
-		}
-	}*/
-	
 	SoundChannel *channel = [self channel:channelID];
-	if([name isEqualToString:@"~"]) [channel stop];
+	if([name isEqualToString:@""]) return; //Don't play nothing
+	else if([name isEqualToString:@"~"]) [channel stop];
 	else
 	{
+		MTLog(@"Playing Sound '%@'...", name);
 		channel.loops = loops;
 		
 		NSData *data = [novel contentsOfResource:[@"sound" stringByAppendingPathComponent:name]];
 		NSError *error = [channel loadData:data];
 		if(error == nil) [channel play];
 		else MTLog(@"Audio Loading Error: %@", error);
-		
-		/*if(NO)
-		{
-			//TODO: Add Archive Loading
-		}
-		else
-		{
-			NSString *path = [novel relativeToAbsolutePath:[@"sound" stringByAppendingPathComponent:name]];
-			MTLog(@"Playing Audio at %@...", path);
-			NSError *error = [channel loadPath:path];
-			if(error == nil) [channel play];
-			else MTLog(@"Audio Loading Error: %@", error);
-		}*/
 	}
 }
 

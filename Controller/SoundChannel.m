@@ -10,19 +10,23 @@
 
 #define kVNSoundMaxVolume 16
 
+@interface SoundChannel()
+- (void)setupPlayer;
+@end
+
 @implementation SoundChannel
 @synthesize volume, loops;
 
 - (void)setVolume:(NSInteger)volume_
 {
 	volume = volume_;
-	player.volume = volume/kVNSoundMaxVolume;
+	[self setupPlayer];
 }
 
 - (void)setLoops:(NSInteger)loops_
 {
 	loops = loops_;
-	player.numberOfLoops = loops-1;
+	[self setupPlayer];
 }
 
 - (NSError *)loadPath:(NSString *)path
@@ -45,8 +49,7 @@
 
 - (void)play
 {
-	player.volume = volume/kVNSoundMaxVolume;
-	player.numberOfLoops = loops-1;
+	[self setupPlayer];
 	[player play];
 }
 
@@ -55,6 +58,12 @@
 	[player stop];
 	[player release];
 	player = nil;
+}
+
+- (void)setupPlayer
+{
+	player.volume = volume/kVNSoundMaxVolume;
+	player.numberOfLoops = loops;
 }
 
 @end

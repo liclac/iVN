@@ -159,9 +159,10 @@
 - (void)collection:(Collection *)collection willUnzipFileNumber:(NSInteger)number outOf:(NSInteger)total from:(NSString *)from
 {
 	MTLog(@"%d/%d", number, total);
-	NSInteger padding = numdigits(total);
 	dispatch_async(dispatch_get_main_queue(), ^{
 		float progress = (float)number/(float)total;
+		NSInteger padding = numdigits(total);
+		
 		loadingVC.subtitleLabel.text = [NSString stringWithFormat:@"Decompressing file %*d/%-*d from %@... (%d%%)",
 										padding, number, padding, total, [from lastPathComponent],
 										(NSInteger)(progress*100)];
@@ -171,11 +172,12 @@
 	});
 }
 
-- (void)collection:(Collection *)collection willReadSoundFromNovel:(NSString *)novel
+- (void)collection:(Collection *)collection willStartCleaningUpExtractionOfArchive:(NSString *)filename
 {
-	MTLog(@"%@", novel);
+	MTLog(@"Cleaning %@", filename);
 	dispatch_async(dispatch_get_main_queue(), ^{
-		loadingVC.subtitleLabel.text = [NSString stringWithFormat:@"Decompressing sound from '%@'...", novel];
+		loadingVC.subtitleLabel.text = [NSString stringWithFormat:@"Finishing extraction of %@...", filename];
+		loadingVC.progressBar.progress = 1;
 		[loadingVC.view setNeedsDisplay];
 	});
 }

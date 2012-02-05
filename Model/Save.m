@@ -191,7 +191,7 @@
 		[str appendFormat:@"%s<var name=\"%@\" type=\"%@\" value=\"%@\" />\n",
 		 s,																					//Indentation
 		 (var.type == VNVariableTypeInt ? @"int" : @"str"),									//Variable Type, either 'int' or 'str'
-		 var.value];																		//Value
+		 [var objectValue]];																//Value
 	}
 }
 
@@ -256,7 +256,7 @@
 	
 	if(positionE) position = MAX(0, [[positionE stringValue] integerValue]);
 	
-	Script *script = [novel.scripts objectForKey:(scriptPath ? scriptPath : @"main.scr")];
+	Script *script = [novel scriptWithName:(scriptPath ? scriptPath : @"main.scr")];
 	state.script = script;
 	state.textSkip = position;
 	
@@ -324,7 +324,7 @@
 		id value = [[element attributeForName:@"value"] stringValue];
 		if([type isEqualToString:@"int"]) value = [NSNumber numberWithInteger:[value integerValue]];
 		
-		Variable *var = [[Variable alloc] initWithKey:name value:value];
+		Variable *var = [[Variable alloc] initWithKey:name value:value flagsFromNovel:nil];
 		[state.vars setObject:var forKey:name];
 		[var release];
 	}

@@ -29,8 +29,8 @@
 @property (nonatomic, retain) Script *script;
 @property (nonatomic, assign) NSInteger position, textSkip;
 @property (nonatomic, retain) NSString *music, *background;
-@property (nonatomic, retain) NSMutableArray *sprites;
-@property (nonatomic, retain) NSMutableDictionary *vars;
+@property (nonatomic, readonly) NSMutableArray *sprites;
+@property (nonatomic, readonly) NSMutableDictionary *vars;
 
 - (void)reset;
 

@@ -17,28 +17,22 @@
 
 #import "unzip.h"
 
-@interface Novel(Private)
+@interface Novel()
 - (void)loadFromDirectory;
 @end
 
 @implementation Novel
 @synthesize directory, path, info;
 @synthesize saves, gvars;
-@synthesize scripts, currentState;
+@synthesize currentState;
 @synthesize encoding;
 
-- (id)initWithDirectory:(NSString *)theDirectory
+- (id)initWithDirectory:(NSString *)theDirectory basePath:(NSString *)base
 {
 	if((self = [super init]))
 	{
 		directory = [theDirectory retain];
-#pragma warning Rewrite This!
-#if TARGET_IPHONE_SIMULATOR
-		NSString *resourcePath = [[NSBundle mainBundle] resourcePath];
-#else
-		NSString *resourcePath = [[NSBundle mainBundle] documentsPath];
-#endif
-		path = [[resourcePath stringByAppendingPathComponent:directory] retain];
+		path = [[base stringByAppendingPathComponent:directory] retain];
 		
 		[self loadFromDirectory];
 	}
@@ -78,7 +72,6 @@
 	
 	info = [[NovelInfo alloc] initWithNovel:self];
 	currentState = [[State alloc] init];
-	[self loadScriptWithName:@"main.scr"];
 }
 
 - (NSString *)relativeToAbsolutePath:(NSString *)relativePath
@@ -90,7 +83,10 @@
 {
 	NSArray *components = [resource pathComponents];
 	NSString *dir = [components objectAtIndex:0];
-	NSString *res = [resource substringFromIndex:[dir length]+1]; //+1 = '/'
+	NSInteger resStartPos = [dir length]+1;
+	if([resource length] <= resStartPos)
+		return nil;
+	NSString *res = [resource substringFromIndex:resStartPos]; //+1 = '/'
 	return [self contentsOfResource:res inDirectory:dir];
 }
 
@@ -139,11 +135,21 @@
 
 - (void)loadScriptWithName:(NSString *)name
 {
-	NSString *localPath = [@"script/" stringByAppendingPathComponent:name];
-	Script *script = [[Script alloc] initWithData:[self contentsOfResource:localPath] encoding:encoding localPath:localPath];
+	Script *script = [self scriptWithName:name];
+	if(script == nil)
+		[self loadScriptWithName:@"main.scr"];
 	[currentState reset];
 	currentState.script = script;
-	[script release];
+}
+
+- (Script *)scriptWithName:(NSString *)name
+{
+	NSString *localPath = name;
+	static NSString *requiredPrefix = @"script/";
+	if([localPath compare:requiredPrefix options:NSCaseInsensitiveSearch range:NSMakeRange(0, [requiredPrefix length])] != NSOrderedSame)
+		localPath = [@"script/" stringByAppendingPathComponent:name];
+	Script *script = [[Script alloc] initWithData:[self contentsOfResource:localPath] encoding:encoding localPath:localPath novel:self];
+	return [script autorelease];
 }
 
 - (Variable *)variableForName:(NSString *)name

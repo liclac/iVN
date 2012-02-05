@@ -79,7 +79,7 @@
 
 - (void)actionSelectIndex:(NSInteger)index
 {
-	Variable *var = [[Variable alloc] initWithKey:@"selected" value:[NSNumber numberWithInteger:index]];
+	Variable *var = [[Variable alloc] initWithKey:@"selected" value:[NSNumber numberWithInteger:index] type:VNVariableTypeInt];
 	[novel.currentState.vars setObject:var forKey:var.key];
 	[var release];
 	[delegate choiceClosed:self];

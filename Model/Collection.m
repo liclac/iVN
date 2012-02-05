@@ -56,37 +56,10 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 				NSError *error = nil;
 				[SSZipArchive unzipFileAtPath:path toDestination:outPath overwrite:YES password:nil error:&error delegate:self];
 				if(error) MTLog(@"Novel Unzip Error: %@", error);
+				
+				[delegate collection:self willStartCleaningUpExtractionOfArchive:filename];
 				[fileManager removeItemAtPath:path error:NULL];
 				[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"__MACOSX"] error:nil];
-				
-				/*if(!error && [fileManager fileExistsAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"]])
-				{
-					NSString *soundPath = [outPath stringByAppendingPathComponent:@"sound.zip"];
-					NSString *soundOut = [outPath stringByAppendingPathComponent:@"sound"];
-					
-					[delegate collection:self willReadSoundFromNovel:[outPath lastPathComponent]];
-					[SSZipArchive unzipFileAtPath:soundPath
-									toDestination:soundOut
-										overwrite:YES password:nil error:&error];
-					[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"sound.zip"] error:NULL];
-					if(error) MTLog(@"Sound Unzip Error: %@", error);
-					
-					NSString *sound2Path = [soundOut stringByAppendingPathComponent:@"sound"];
-					BOOL sound2IsDir = NO;
-					BOOL sound2Exists = [fileManager fileExistsAtPath:sound2Path isDirectory:&sound2IsDir];
-					if(sound2Exists && sound2IsDir)
-					{
-						NSArray *s2contents = [fileManager contentsOfDirectoryAtPath:sound2Path error:NULL];
-						for(NSString *name in s2contents)
-						{
-							[fileManager moveItemAtPath:[sound2Path stringByAppendingPathComponent:name]
-												 toPath:[soundOut stringByAppendingPathComponent:name]
-												  error:NULL];
-						}
-						
-						[fileManager removeItemAtPath:sound2Path error:NULL];
-					}
-				}*/
 				
 				path = outPath;
 				filename = [path lastPathComponent];
@@ -105,7 +78,7 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 				}
 				
 				MTLog(@"%@", filename);
-				Novel *novel = [[Novel alloc] initWithDirectory:filename];
+				Novel *novel = [[Novel alloc] initWithDirectory:filename basePath:resourcePath];
 				[novels addObject:novel];
 				[novel release];
 			}

@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+@class Novel;
 
 /**
  * Determines the type of a flag.
@@ -30,20 +31,22 @@ typedef enum VNVariableType
 
 @interface Variable : NSObject <NSCopying>
 {
+@public //Allow direct access to iVars, used for debugging
 	NSString *key;					//Key
-	id value;						//Value, either an NSString or an NSNumber
+	id value;						//Value, either an NSString or an NSNumber (copied)
 	VNVariableType type;			//Value Type
 }
 
-@property (nonatomic, readonly) NSString *key;
-@property (nonatomic, readonly) id value;
+@property (nonatomic, copy) NSString *key;
 @property (nonatomic, readonly) VNVariableType type;
 
-- (id)initWithKey:(NSString *)key value:(id)value;
+- (id)initWithKey:(NSString *)key value:(NSString *)value flagsFromNovel:(Novel *)novel;
+- (id)initWithKey:(NSString *)key value:(id)value type:(VNVariableType)type;
 
 - (NSString *)stringValue;
 - (NSNumber *)numberValue;
 - (NSInteger)integerValue;
-- (void)setValue:(id)value;
+- (id)objectValue;
+- (void)setValue:(NSString *)value flagsFromNovel:(Novel *)novel;
 
 @end

@@ -15,6 +15,12 @@
 #import "Sprite.h"
 #import "Save.h"
 
+#if TARGET_IPHONE_SIMULATOR
+	#define DBGLOG(...) MTLog(__VA_ARGS__); [self debugLog:[NSString stringWithFormat:__VA_ARGS__]]
+#else
+	#define DBGLOG(...) do {} while (0);
+#endif
+
 @implementation ScriptInterpreter
 @synthesize novel, skipping, delegate;
 
@@ -23,6 +29,7 @@
     if((self = [super init]))
 	{
 		novel = [aNovel retain];
+		[novel loadScriptWithName:@"main.scr"];
 		
 		[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(saveLoaded) name:VNNotificationSaveLoaded object:nil];
     }
@@ -44,7 +51,9 @@
 	if([novel.currentState.script.commands count] <= novel.currentState.position)
 	{
 		MTLog(@"Exceeded the end of the script");
-		[self jumpToScript:@"main.scr" position:0];
+		MTLog(@"Loaded Commands: (%d <= %d)\n%@",
+			  [novel.currentState.script.commands count], novel.currentState.position, novel.currentState.script.commands);
+		[self jumpToScript:@"main.scr" label:nil];
 		return;
 	}
 	
@@ -112,7 +121,7 @@
 		case VNCommandTypeDELAY:
 			[self forwardSelector:@selector(interpreter:processDELAY:) withCommand:cmd];
 			continueExecuting = YES;
-			nextFrameDelay = [[cmd.parameters objectAtIndex:0] intValue]/100;
+			nextFrameDelay = [[cmd parameterAtIndex:0 defaultValue:nil] intValue]/100;
 			break;
 			
 		case VNCommandTypeRANDOM:
@@ -148,6 +157,7 @@
 			break;
 	}
 	
+	nextFrameDelay = 0;
 	if((continueExecuting || skipping) && !fastForwarding)
 	{
 		if(nextFrameDelay > 0)
@@ -170,20 +180,12 @@
 #pragma mark self-delegation
 - (void)interpreter:(ScriptInterpreter *)si processBGLOAD:(Command *)command
 {
-	/*if(!fastForwarding) return;
 	
-	[fastForwardState.sprites removeAllObjects];
-	fastForwardState.background = [command.parameters objectAtIndex:0];*/
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processSETIMG:(Command *)command
 {
-	/*if(!fastForwarding) return;
 	
-	Sprite *sprite = [[Sprite alloc] initWithPath:[command.parameters objectAtIndex:0] absPath:[novel relativeToAbsolutePath:[command.parameters objectAtIndex:0]]
-											point:CGPointMake([[command.parameters objectAtIndex:1] integerValue], [[command.parameters objectAtIndex:2] integerValue])];
-	[fastForwardState.sprites addObject:sprite];
-	[sprite release];*/
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processSOUND:(Command *)command
@@ -193,7 +195,7 @@
 
 - (void)interpreter:(ScriptInterpreter *)si processMUSIC:(Command *)command
 {
-	//fastForwardState.music = [command.parameters objectAtIndex:0];
+	if(fastForwarding) [delegate interpreter:si processMUSIC:command];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processTEXT:(Command *)command
@@ -222,25 +224,54 @@
 
 - (void)interpreter:(ScriptInterpreter *)si processSETVAR:(Command *)command
 {
-	if(fastForwarding) return;
+	if(skipping) return;
 	
-	Variable *var = [[Variable alloc] initWithKey:[command.parameters objectAtIndex:0] value:[command.parameters objectAtIndex:1]];
-	[novel.currentState.vars setObject:var forKey:var.key];
-	[var release];
+	NSString *key = [command parameterAtIndex:0 defaultValue:nil];
+	NSString *value = [command parameterAtIndex:1 defaultValue:nil];
+	if([value isEqualToString:@"="] && [command parameterCount] > 2) value = [command parameterAtIndex:2 defaultValue:nil];
+	if([value isEqualToString:@"~"])
+	{
+		if([key isEqualToString:@"~"])
+		{
+			DBGLOG(@"Unsetting All Flags...");
+			[novel.currentState.vars removeAllObjects];
+		}
+		else
+		{
+			DBGLOG(@"Unsetting Flag '%@'...", key);
+			[novel.currentState.vars removeObjectForKey:key];
+		}
+	}
+	else
+	{
+		Variable *var = [[Variable alloc] initWithKey:key value:value flagsFromNovel:novel];
+		DBGLOG(@"Setting %@ = (%@) %@", var.key, NSStringFromClass([var->value class]), var->value);
+		[novel.currentState.vars setObject:var forKey:var.key];
+		[var release];
+	}
+	
+	continueExecuting = YES;
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processGSETVAR:(Command *)command
 {
-	if(fastForwarding) return;
+	if(skipping) return;
 	
-	Variable *var = [[Variable alloc] initWithKey:[command.parameters objectAtIndex:0] value:[command.parameters objectAtIndex:1]];
+	NSString *key = [command parameterAtIndex:0 defaultValue:nil];
+	NSString *value = [command parameterAtIndex:1 defaultValue:nil];
+	if([value isEqualToString:@"="] && [command parameterCount] > 2) value = [command parameterAtIndex:2 defaultValue:nil];
+	Variable *var = [[Variable alloc] initWithKey:key value:value flagsFromNovel:novel];
+	DBGLOG(@"G-Setting %@ = %@", key, value);
 	[novel.gvars setObject:var forKey:var.key];
 	[var release];
+	
+	continueExecuting = YES;
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processIF:(Command *)command
 {
-	if(![self evaluateIF:command]) [self jumpToPosition:[command endPosition]];
+	if(skipping) return;
+	if(![self evaluateIF:command]) [self gotoPosition:[command endPosition]];
 	
 	continueExecuting = YES;
 }
@@ -254,8 +285,13 @@
 {
 	if(fastForwarding) return;
 	
-	[self jumpToScript:[command.parameters objectAtIndex:0]
-			  position:([command.parameters count] > 1 ? [[command.parameters objectAtIndex:1] integerValue] : 0)];
+	NSString *script = [[command parameterAtIndex:0 defaultValue:nil maybeVariable:YES] stringValue];
+	NSString *label = [[command parameterAtIndex:1 defaultValue:nil maybeVariable:YES] stringValue];
+	DBGLOG(@"CMD-Jump %@:%@", script, label);
+	/*[self jumpToScript:script
+			  position:[[novel.currentState.script.labels objectForKey:label] integerValue]];*/
+	[self jumpToScript:script label:label];
+	MTLog(@"Labels:\n%@", novel.currentState.script.labels);
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processDELAY:(Command *)command
@@ -266,12 +302,12 @@
 - (void)interpreter:(ScriptInterpreter *)si processRANDOM:(Command *)command
 {
 	//Copy-pasted from VNDS's 'script_interpreter.cpp'
-	int high  = [[command.parameters objectAtIndex:2] intValue] + 1;
-    int low   = [[command.parameters objectAtIndex:1] intValue];
+	int high  = [[command parameterAtIndex:2 defaultValue:nil] intValue] + 1;
+    int low   = [[command parameterAtIndex:1 defaultValue:nil] intValue];
     int value = (rand() % (high-low)) + low;
 	
 	NSNumber *valueNumber = [NSNumber numberWithInt:value];
-	Variable *var = [[Variable alloc] initWithKey:[command.parameters objectAtIndex:0] value:valueNumber];
+	Variable *var = [[Variable alloc] initWithKey:[command parameterAtIndex:0 defaultValue:nil] value:valueNumber type:VNVariableTypeInt];
 	[novel.currentState.vars setObject:var forKey:var.key];
 	[var release];
 }
@@ -283,7 +319,7 @@
 
 - (void)interpreter:(ScriptInterpreter *)si processENDSCRIPT:(Command *)command
 {
-	[self jumpToScript:@"main.scr" position:0];
+	[self jumpToScript:@"main.scr" label:nil];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processLABEL:(Command *)command
@@ -295,7 +331,8 @@
 {
 	if(fastForwarding) return;
 	
-	[self jumpToPosition:[[novel.currentState.vars objectForKey:[command.parameters objectAtIndex:0]] integerValue]];
+	//[self jumpToPosition:[[novel.currentState.script.labels objectForKey:[command parameterAtIndex:0 defaultValue:nil]] integerValue]];
+	[self gotoLabel:[command parameterAtIndex:0 defaultValue:nil maybeVariable:YES]];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processCLEARTEXT:(Command *)command
@@ -305,9 +342,14 @@
 
 
 #pragma mark Actions
-- (void)jumpToPosition:(NSInteger)position
+- (void)gotoPosition:(NSInteger)position
 {
-	MTLog(@"%d", position);
+	DBGLOG(@"JMP>POS %d/%d", position, [novel.currentState.script.commands count]);
+	if(position < novel.currentState.position) //Start over at the beginning if jumping backwards
+	{
+		novel.currentState.position = 0;
+		novel.currentState.textSkip = 0;
+	}
 	NSUInteger rangeLength = position - novel.currentState.position;
 	if(rangeLength > 0)
 	{
@@ -321,20 +363,16 @@
 	continueExecuting = YES;
 }
 
-- (void)jumpToScript:(NSString *)script position:(NSInteger)position
+- (void)gotoLabel:(NSString *)label
 {
-	MTLog(@"%@:%d", script, position);
+	NSInteger position = [[novel.currentState.script.labels objectForKey:label] integerValue];
+	[self gotoPosition:position];
+}
+
+- (void)jumpToScript:(NSString *)script label:(NSString *)label
+{
 	[novel loadScriptWithName:script];
-	NSInteger rangeLength = position - novel.currentState.position;
-	if(rangeLength > 0)
-	{
-		NSArray *skippedCommands = [novel.currentState.script.commands
-									subarrayWithRange:NSMakeRange(novel.currentState.position,
-																  rangeLength)];
-		for(Command *cmd in skippedCommands) if(cmd.type == VNCommandTypeTEXT) novel.currentState.textSkip++;
-	}
-	novel.currentState.position = position;
-	continueExecuting = YES;
+	if(label != nil) [self gotoLabel:label];
 	[self processNextCommand:nil];
 }
 
@@ -342,24 +380,31 @@
 {
 	MTAssert(command.type == VNCommandTypeIF, @"Not an IF-command! %@", command);
 	
-	NSString *leftValue = [command.parameters objectAtIndex:0];
-	NSString *operator = [command.parameters objectAtIndex:1];
-	NSString *rightValue = [command.parameters objectAtIndex:2];
+	NSString *leftValue = [command parameterAtIndex:0 defaultValue:nil];
+	NSString *operator = [command parameterAtIndex:1 defaultValue:nil];
+	NSString *rightValue = [command parameterAtIndex:2 defaultValue:nil];
 	
 	if(leftValue == nil || operator == nil || rightValue == nil)
 	{
-		MTLog(@"%@", command.parameters);
 		MTALog(@"Missing Parameters from command '%@' --> %@ %@ %@", command.string, leftValue, operator, rightValue);
 		return NO; //Ignore invalid IFs
 	}
 	
 	//Resolve eventual flags, default to 0 (left value) or string (right value) if there are no matches
 	id tmp = nil;
-	if((tmp = [novel variableForName:leftValue])) leftValue = [tmp stringValue];
+	if((tmp = [novel variableForName:leftValue]))
+	{
+		DBGLOG(@"IF: Resolved L-Variable '%@' = '%@'", leftValue, tmp);
+		leftValue = [tmp stringValue];
+	}
 	else leftValue = @"0";
-	if((tmp = [novel variableForName:rightValue])) rightValue = [tmp stringValue];
+	if((tmp = [novel variableForName:rightValue]))
+	{
+		DBGLOG(@"IF: Resolved R-Variable '%@' = '%@'", rightValue, tmp);
+		rightValue = [tmp stringValue];
+	}
 	
-	MTLog(@"Resolved: %@ %@ %@", leftValue, operator, rightValue);
+	MTLog(@"IF: Resolved: %@ %@ %@", leftValue, operator, rightValue);
 	
 	BOOL retval = NO;
 	if([operator isEqualToString:@"=="]) retval = [leftValue isEqualToString:rightValue];
@@ -370,12 +415,12 @@
 	else if([operator isEqualToString:@"<"]) retval = [leftValue intValue] < [rightValue intValue];
 	else
 	{
-		MTALog(@"Invalid IF-operator in %@: '%@' --> %@ %@ %@",
+		DBGLOG(@"Invalid IF-operator in %@: '%@' --> %@ %@ %@",
 			   novel.currentState.script.localPath, command.string, leftValue, operator, rightValue);
 		retval = NO;
 	}
 	
-	MTLog(@"Retsult: %@", MTStringWithBool(retval));
+	DBGLOG(@"IF: Result: %@", MTStringWithBool(retval));
 	return retval;
 }
 
@@ -404,5 +449,18 @@
 	
 	dispatch_async(dispatch_get_main_queue(), ^{[delegate interpreter:self restoreWithTextBuffer:fastForwardTextBuffer];});
 }
+
+
+#pragma mark - Debug
+#if TARGET_IPHONE_SIMULATOR
+- (void)debugLog:(NSString *)string
+{
+	Command *dbgcmd = [[Command alloc] init];
+	dbgcmd.text = [NSString stringWithFormat:@"@>>DBG: %@", string];
+	dbgcmd.script = novel.currentState.script;
+	[delegate interpreter:self processTEXT:dbgcmd];
+	[dbgcmd release];
+}
+#endif
 
 @end

@@ -8,21 +8,24 @@
 
 #import "Script.h"
 #import "Command.h"
+#import "Novel.h"
 
 @interface Script(Private)
 - (void)loadFromString:(NSString *)string;
 @end
 
 @implementation Script
-@synthesize localPath, commands, labels;
+@synthesize novel, localPath, commands, labels;
 
-- (id)initWithData:(NSData *)data encoding:(NSStringEncoding)encoding localPath:(NSString *)localPath_
+- (id)initWithData:(NSData *)data encoding:(NSStringEncoding)encoding localPath:(NSString *)localPath_ novel:(Novel *)novel_
 {
 	if((self = [super init]))
 	{
+		novel = novel_;
 		localPath = [localPath_ retain];
 		
 		NSString *string = [[NSString alloc] initWithData:data encoding:encoding];
+		MTLog(@"%@:\n%@", localPath, string);
 		[self loadFromString:string];
 		[string release];
 	}
@@ -41,7 +44,7 @@
 	for(NSString *line in lines)
 	{
 		//Create a Command object with the current line
-		Command *command = [[Command alloc] initWithString:line];
+		Command *command = [[Command alloc] initWithString:line script:self];
 		[commands addObject:command];
 		
 		//Assign end points to IF commands
@@ -53,7 +56,8 @@
 			[unclosedIfs removeLastObject];
 		}
 		else if(command.type == VNCommandTypeLABEL)
-			[labels setObject:[NSNumber numberWithInteger:[commands count]-1] forKey:[command.parameters objectAtIndex:0]];
+			[labels setObject:[NSNumber numberWithInteger:[commands count]-1]
+					   forKey:[command parameterAtIndex:0 defaultValue:nil]];
 		
 		[command release];
 	}

@@ -49,14 +49,15 @@
 - (void)forwardSelector:(SEL)selector withCommand:(Command *)cmd;
 
 /**
- * Jumps to the specified line number
+ * Jumps to the specified command number
  */
-- (void)jumpToPosition:(NSInteger)position;
+- (void)gotoPosition:(NSInteger)position;
+- (void)gotoLabel:(NSString *)label;
 
 /**
  * Jumps to the specified file and position
  */
-- (void)jumpToScript:(NSString *)script position:(NSInteger)position;
+- (void)jumpToScript:(NSString *)script label:(NSString *)label;
 
 /**
  * Evaluates an IF-type command, and returns werther it's true or false
@@ -67,5 +68,12 @@
  * Restore from loaded state
  */
 - (void)saveLoaded:(Save *)save;
+
+#if TARGET_IPHONE_SIMULATOR
+/**
+ * Output a Debug Message in the text log
+ */
+- (void)debugLog:(NSString *)string;
+#endif
 
 @end

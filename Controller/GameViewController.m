@@ -73,7 +73,6 @@
 	NSData *indexData = [[NSData alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"index" ofType:@"html"]];
 	[textView loadData:indexData MIMEType:@"text/html" textEncodingName:@"utf-8" baseURL:[[NSBundle mainBundle] resourceURL]];
 	[indexData release];
-	//[textView loadRequest:[NSURLRequest requestWithURL:[[NSBundle mainBundle] URLForResource:@"index" withExtension:@"html"]]];
 	
 	interpreter = [[ScriptInterpreter alloc] initWithNovel:novel];
 	interpreter.delegate = self;
@@ -113,9 +112,9 @@
 - (void)interpreter:(ScriptInterpreter *)si processBGLOAD:(Command *)command
 {
 	NSTimeInterval time = 0.16;
-	if([command.parameters count] > 1)
-		time = [[command.parameters objectAtIndex:2] integerValue]/100;
-	NSString *path = [command.parameters objectAtIndex:0];
+	if([command parameterCount] > 2)
+		time = [[command parameterAtIndex:2 defaultValue:nil] integerValue]/100;
+	NSString *path = [command parameterAtIndex:0 defaultValue:nil];
 	
 	[self loadBackground:path fadeTime:time fromSave:NO];
 }
@@ -125,12 +124,12 @@
 	//MTMark();
 	
 	NSTimeInterval time = 0.16;
-	if([command.parameters count] > 1)
-		time = [[command.parameters objectAtIndex:2] integerValue]/100;
+	if([command parameterCount] > 2)
+		time = [[command parameterAtIndex:2 defaultValue:nil] integerValue]/100;
 	
-	CGPoint point = CGPointMake([[command.parameters objectAtIndex:1] integerValue],
-								[[command.parameters objectAtIndex:2] integerValue]);
-	NSString *path = [@"foreground" stringByAppendingPathComponent:[command.parameters objectAtIndex:0]];
+	CGPoint point = CGPointMake([[command parameterAtIndex:1 defaultValue:nil] integerValue],
+								[[command parameterAtIndex:2 defaultValue:nil] integerValue]);
+	NSString *path = [@"foreground" stringByAppendingPathComponent:[command parameterAtIndex:0 defaultValue:nil]];
 	Sprite *sprite = [[Sprite alloc] initWithPath:path data:[novel contentsOfResource:path] point:point];
 	[self addSprite:sprite fadeTime:time fromSave:NO];
 	[sprite release];
@@ -139,15 +138,15 @@
 - (void)interpreter:(ScriptInterpreter *)si processSOUND:(Command *)command
 {
 	//MTMark();
-	[soundEngine playSound:[command.parameters objectAtIndex:0] onChannel:VNSoundChannelSound
-					 loops:([command.parameters count] > 1 ? [[command.parameters objectAtIndex:1] integerValue] : 0)];
+	[soundEngine playSound:[command parameterAtIndex:0 defaultValue:nil] onChannel:VNSoundChannelSound
+					 loops:[[command parameterAtIndex:1 defaultValue:nil] integerValue]];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processMUSIC:(Command *)command
 {
 	//MTMark();
-	[soundEngine playSound:[command.parameters objectAtIndex:0] onChannel:VNSoundChannelMusic
-					 loops:0];
+	[soundEngine playSound:[command parameterAtIndex:0 defaultValue:nil]
+				 onChannel:VNSoundChannelMusic loops:0];
 }
 
 - (void)interpreter:(ScriptInterpreter *)si processTEXT:(Command *)command

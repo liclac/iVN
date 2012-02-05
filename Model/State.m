@@ -31,7 +31,6 @@
 	self.music = nil;
 	self.background = nil;
 	[sprites removeAllObjects];
-	[vars removeAllObjects];
 }
 
 - (id)copyWithZone:(NSZone *)zone
@@ -42,8 +41,8 @@
 	copy.textSkip = textSkip;
 	copy.music = [[music copyWithZone:zone] autorelease];
 	copy.background = [[background copyWithZone:zone] autorelease];
-	copy.sprites = [[sprites copyWithZone:zone] autorelease];
-	copy.vars = [[vars copyWithZone:zone] autorelease];
+	[copy.sprites setArray:sprites];
+	[copy.vars setDictionary:vars];
 	
 	return copy;
 }

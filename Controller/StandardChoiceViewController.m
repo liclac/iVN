@@ -137,12 +137,12 @@
 - (void)actionSelect:(UIButton *)sender
 {
 	NSInteger index = [buttons indexOfObject:sender];
-	if(index == selectedIndex) [self actionSelectIndex:index+1]; //Start counting the buttons at 1 instead of 0
+	if(index == selectedIndex)
+	{
+		[self actionSelectIndex:index+1]; //Start counting the buttons at 1 instead of 0
+	}
 	else
 	{
-		/*[sender setBackgroundToGlossyRectOfColor:selectedBG withBorder:YES forState:UIControlStateNormal];
-		[[buttons objectAtIndex:selectedIndex] setBackgroundToGlossyRectOfColor:standardBG withBorder:YES
-																	   forState:UIControlStateNormal];*/
 		[sender setSelected:YES];
 		if(selectedIndex != -1) [[buttons objectAtIndex:selectedIndex] setSelected:NO];
 		selectedIndex = index;

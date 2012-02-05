@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+@class Novel;
 
 /**
  * A Script object handles a single .scr-file in a novel.
@@ -15,16 +16,18 @@
 
 @interface Script : NSObject
 {
+	Novel *novel;					//Parent Novel
 	NSString *localPath;			//Source File Path relative to the novel root
 	NSMutableArray *commands;		//All Commands in the file, stored in Command objects
 	NSMutableDictionary *labels;	//All Labels in the file, keys are NSStrings with the name, values are NSNumbers with the line nr.
 }
 
+@property (nonatomic, assign) Novel *novel;
 @property (nonatomic, readonly) NSString *localPath;
-@property (nonatomic, retain) NSMutableArray *commands;
-@property (nonatomic, retain) NSMutableDictionary *labels;
+@property (nonatomic, retain) NSArray *commands;
+@property (nonatomic, retain) NSDictionary *labels;
 
-- (id)initWithData:(NSData *)data encoding:(NSStringEncoding)encoding localPath:(NSString *)localPath;
+- (id)initWithData:(NSData *)data encoding:(NSStringEncoding)encoding localPath:(NSString *)localPath novel:(Novel *)novel;
 - (void)unload;
 
 @end

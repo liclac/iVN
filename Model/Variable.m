@@ -7,30 +7,38 @@
 //
 
 #import "Variable.h"
+#import "Novel.h"
 
-@interface Variable(Private)
-//NOTE: There's a reason why this isn't public; ONLY for internal use in -[copyWithZone]
-@property (nonatomic, retain) NSString *key;
+@interface Variable()
+//NOTE: There's a reason why this isn't public; ONLY for internal use in Copy operations
 @property (nonatomic, retain) id value;
 @property (nonatomic, assign) VNVariableType type;
-
-- (void)updateType;
 @end
 
 @implementation Variable
 @synthesize key, value, type;
 
-- (id)initWithKey:(NSString *)aKey value:(id)aValue
+- (id)initWithKey:(NSString *)aKey value:(NSString *)aValue flagsFromNovel:(Novel *)novel
 {
-    self = [super init];
-    if (self)
+    if((self = [super init]))
 	{
 		key = [aKey copy];
-		value = [aValue retain];
-		[self updateType];
+		[self setValue:aValue flagsFromNovel:novel];
     }
     
     return self;
+}
+
+- (id)initWithKey:(NSString *)key_ value:(id)value_ type:(VNVariableType)type_
+{
+	if((self = [super init]))
+	{
+		key = [key_ copy];
+		value = [value_ retain];
+		type = type_;
+	}
+	
+	return self;
 }
 
 - (NSString *)stringValue
@@ -52,18 +60,46 @@
 	else return 0;
 }
 
-- (void)setValue:(id)aValue
+- (id)objectValue
 {
-	[value release], value = [aValue retain];
-	[self updateType];
+	return value;
 }
 
-- (void)updateType
+- (void)setValue:(NSString *)value_ flagsFromNovel:(Novel *)novel
 {
-	if(value == nil) type = VNVariableTypeUnknown;
-	else if([value isKindOfClass:[NSString class]]) type = VNVariableTypeString;
-	else if([value isKindOfClass:[NSNumber class]]) type = VNVariableTypeInt;
-	else { MTALog(@"Invalid Value Class: %@", NSStringFromClass([value class])); type = VNVariableTypeUnknown; }
+	const char *valuechars = [value_ UTF8String];
+	if([value_ isEqualToString:@"~"])
+	{
+		value = nil; //I assume ~ means unset. Damn unclear specifications...
+	}
+	else if(valuechars[0] == '"')
+	{
+		char *valuecopy = strdup(valuechars+1);
+		if(valuecopy[strlen(valuecopy)-1] == '"') valuecopy[strlen(valuecopy)-1] = '\0';
+		value = [[NSString alloc] initWithUTF8String:valuecopy];
+		free(valuecopy);
+		type = VNVariableTypeString;
+	}
+	else if(isdigit(valuechars[0]))
+	{
+		int intval = atoi(valuechars);
+		value = [[NSNumber alloc] initWithInt:intval];
+		type = VNVariableTypeInt;
+	}
+	else
+	{
+		Variable *copyVar = [novel variableForName:value_];
+		if(copyVar != nil)
+		{
+			value = [copyVar.value retain];
+			type = [copyVar type];
+		}
+		else
+		{
+			value = [value_ copy];
+			type = VNVariableTypeString;
+		}
+	}
 }
 
 - (id)copyWithZone:(NSZone *)zone
@@ -74,6 +110,12 @@
 	copy.type = self.type;
 	
 	return copy;
+}
+
+- (NSString *)description
+{
+	return [NSString stringWithFormat:@"<Variable (%@): %@ = %@",
+			(type == VNVariableTypeUnknown ? @"???" : (type == VNVariableTypeInt ? @"int" : @"str")), key, value];
 }
 
 @end

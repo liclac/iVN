@@ -30,7 +30,6 @@
 	NSMutableDictionary *saves;			//Keys are NSNumbers with the save number (-1 = Global), Values are Save objects
 	NSMutableDictionary *gvars;			//Global Variables; saved in the global save file for things like "route cleared"-flags
 	
-	NSMutableDictionary *scripts;		//Script objects for all objects in the novel; keys are NSStrings with self-relative paths
 	State *currentState;				//The current State
 	
 	NSStringEncoding encoding;			//Encoding for text in the novel
@@ -42,7 +41,6 @@
 @property (nonatomic, retain) NSMutableDictionary *saves;
 @property (nonatomic, retain) NSMutableDictionary *gvars;
 
-@property (nonatomic, retain) NSMutableDictionary *scripts;
 @property (nonatomic, retain) State *currentState;
 
 @property (nonatomic, assign) NSStringEncoding encoding;
@@ -51,11 +49,11 @@
  * Creates a Novel that reads it's data from the specified directory.
  * @param path to the novel's directory, relative to the application bundle
  */
-- (id)initWithDirectory:(NSString *)path;
+- (id)initWithDirectory:(NSString *)path basePath:(NSString *)base;
 
 /**
  * "Translates" a path relative to the novel directory, such as "script/main.scr", into an absolute path.
- * DEPRECATED: Use ::contentsOfResource: instead, as this function does not support zipped resources.
+ * NOTE: Use ::contentsOfResource: for fetching resources, as this function does not support zip archives.
  * 
  * @param relativePath the relative path to translate
  * @return an absolute path to the file the relative path points to
@@ -90,6 +88,11 @@
  * Loads the script for the given name, or throws an exception if it doesn't exist.
  */
 - (void)loadScriptWithName:(NSString *)name;
+
+/**
+ * Returns the Script object for the given name
+ */
+- (Script *)scriptWithName:(NSString *)name;
 
 /**
  * Scans both local and global variable sets for a variable with the given name.

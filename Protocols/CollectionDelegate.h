@@ -12,8 +12,8 @@
 @protocol CollectionDelegate <NSObject>
 
 - (void)collection:(Collection *)collection willUnzipFile:(NSString *)filename count:(NSInteger)count;
-- (void)collection:(Collection *)collection willReadSoundFromNovel:(NSString *)filename;
 - (void)collection:(Collection *)collection willUnzipFileNumber:(NSInteger)number outOf:(NSInteger)total from:(NSString *)from;
+- (void)collection:(Collection *)collection willStartCleaningUpExtractionOfArchive:(NSString *)filename;
 - (void)collectionDidFinishUpdating:(Collection *)collection;
 
 @end
