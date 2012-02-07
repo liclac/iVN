@@ -30,5 +30,6 @@ typedef enum
 #define BitCpy(src,dest,pos1,pos2) if(BitTst(src,pos1)) BitSet(dest,pos2)
 
 #import "MacaroniTouch.h"
+#import "TestFlight.h"
 
 #import "Collection.h"

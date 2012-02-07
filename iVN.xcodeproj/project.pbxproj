@@ -15,6 +15,15 @@
 		225183D614C06B550023C95B /* SoundChannel.m in Sources */ = {isa = PBXBuildFile; fileRef = 225183D514C06B550023C95B /* SoundChannel.m */; };
 		22543E8314B2052000F410B4 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22543E8114B204E400F410B4 /* CoreText.framework */; };
 		227A071114BB7936009ABF0A /* Comic-Sans.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 227A071014BB7936009ABF0A /* Comic-Sans.ttf */; };
+		227C96EE14E10DB80098B28F /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 227C96EA14E10DB80098B28F /* Icon.png */; };
+		227C96EF14E10DB80098B28F /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 227C96EB14E10DB80098B28F /* Icon@2x.png */; };
+		227C96F014E10DB80098B28F /* Icon~iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 227C96EC14E10DB80098B28F /* Icon~iPad.png */; };
+		227C96F114E10DB80098B28F /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 227C96ED14E10DB80098B28F /* iTunesArtwork */; };
+		227C96F814E10EF80098B28F /* libTestFlight.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 227C96F414E10EF80098B28F /* libTestFlight.a */; };
+		227C96F914E10EF80098B28F /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 227C96F514E10EF80098B28F /* README.txt */; };
+		227C96FA14E10EF80098B28F /* release_notes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 227C96F614E10EF80098B28F /* release_notes.txt */; };
+		229752EE14E072C600A863E4 /* changelog.txt in Resources */ = {isa = PBXBuildFile; fileRef = 229752ED14E072C600A863E4 /* changelog.txt */; };
+		229752F114E072FD00A863E4 /* instructions.txt in Resources */ = {isa = PBXBuildFile; fileRef = 229752F014E072FD00A863E4 /* instructions.txt */; };
 		229EBC2014BE27E900BD1C5D /* SoundEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 229EBC1F14BE27E900BD1C5D /* SoundEngine.m */; };
 		229EBC2F14BF053D00BD1C5D /* FontSelectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 229EBC2E14BF053C00BD1C5D /* FontSelectionViewController.m */; };
 		22AD06DE14C2C9E0009EF12C /* CTools.c in Sources */ = {isa = PBXBuildFile; fileRef = 22AD06DD14C2C9E0009EF12C /* CTools.c */; };
@@ -138,6 +147,16 @@
 		225183D514C06B550023C95B /* SoundChannel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SoundChannel.m; path = Controller/SoundChannel.m; sourceTree = "<group>"; };
 		22543E8114B204E400F410B4 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
 		227A071014BB7936009ABF0A /* Comic-Sans.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Comic-Sans.ttf"; sourceTree = "<group>"; };
+		227C96EA14E10DB80098B28F /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = SOURCE_ROOT; };
+		227C96EB14E10DB80098B28F /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = SOURCE_ROOT; };
+		227C96EC14E10DB80098B28F /* Icon~iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon~iPad.png"; sourceTree = SOURCE_ROOT; };
+		227C96ED14E10DB80098B28F /* iTunesArtwork */ = {isa = PBXFileReference; lastKnownFileType = file; path = iTunesArtwork; sourceTree = SOURCE_ROOT; };
+		227C96F414E10EF80098B28F /* libTestFlight.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libTestFlight.a; sourceTree = "<group>"; };
+		227C96F514E10EF80098B28F /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		227C96F614E10EF80098B28F /* release_notes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = release_notes.txt; sourceTree = "<group>"; };
+		227C96F714E10EF80098B28F /* TestFlight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestFlight.h; sourceTree = "<group>"; };
+		229752ED14E072C600A863E4 /* changelog.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = changelog.txt; sourceTree = "<group>"; };
+		229752F014E072FD00A863E4 /* instructions.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = instructions.txt; sourceTree = "<group>"; };
 		229EBC1E14BE27E900BD1C5D /* SoundEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SoundEngine.h; path = Controller/SoundEngine.h; sourceTree = "<group>"; };
 		229EBC1F14BE27E900BD1C5D /* SoundEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SoundEngine.m; path = Controller/SoundEngine.m; sourceTree = "<group>"; };
 		229EBC2D14BF053C00BD1C5D /* FontSelectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FontSelectionViewController.h; path = Controller/FontSelectionViewController.h; sourceTree = "<group>"; };
@@ -344,12 +363,25 @@
 				8F1089C513D857DC0014DAAC /* Foundation.framework in Frameworks */,
 				8F1089C713D857DC0014DAAC /* CoreGraphics.framework in Frameworks */,
 				22543E8314B2052000F410B4 /* CoreText.framework in Frameworks */,
+				227C96F814E10EF80098B28F /* libTestFlight.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		227C96F314E10EF80098B28F /* TestFlightSDK */ = {
+			isa = PBXGroup;
+			children = (
+				227C96F414E10EF80098B28F /* libTestFlight.a */,
+				227C96F514E10EF80098B28F /* README.txt */,
+				227C96F614E10EF80098B28F /* release_notes.txt */,
+				227C96F714E10EF80098B28F /* TestFlight.h */,
+			);
+			name = TestFlightSDK;
+			path = ../TestFlightSDK;
+			sourceTree = "<group>";
+		};
 		22B509F614B33FE1000559FB /* Categories */ = {
 			isa = PBXGroup;
 			children = (
@@ -381,6 +413,8 @@
 		8F1089B313D857D90014DAAC = {
 			isa = PBXGroup;
 			children = (
+				229752F014E072FD00A863E4 /* instructions.txt */,
+				229752ED14E072C600A863E4 /* changelog.txt */,
 				2212A59314B9A5B6004529C5 /* README.markdown */,
 				8F59527B13D97B050064ACA8 /* Game */,
 				8F02722F13DB1B37008DA03A /* Save/Load */,
@@ -410,6 +444,7 @@
 			isa = PBXGroup;
 			children = (
 				8F1089EF13D860730014DAAC /* SynthesizeSingleton.h */,
+				227C96F314E10EF80098B28F /* TestFlightSDK */,
 				8F1089F013D8656C0014DAAC /* MacaroniTouch.h */,
 				8F5952B613DA114F0064ACA8 /* MacaroniTools */,
 				8F59524113D9762A0064ACA8 /* TouchXML */,
@@ -465,6 +500,10 @@
 				22AD06E014C2C9ED009EF12C /* CTools.h */,
 				22AD06DD14C2C9E0009EF12C /* CTools.c */,
 				22B509F314B33C4E000559FB /* index.html */,
+				227C96EA14E10DB80098B28F /* Icon.png */,
+				227C96EB14E10DB80098B28F /* Icon@2x.png */,
+				227C96EC14E10DB80098B28F /* Icon~iPad.png */,
+				227C96ED14E10DB80098B28F /* iTunesArtwork */,
 			);
 			name = "Supporting Files";
 			path = iVN;
@@ -822,6 +861,14 @@
 				227A071114BB7936009ABF0A /* Comic-Sans.ttf in Resources */,
 				2223F45814C0AC7E00C9E469 /* Osaka.ttf in Resources */,
 				2223F45B14C0AD0900C9E469 /* OsakaMono.ttf in Resources */,
+				229752EE14E072C600A863E4 /* changelog.txt in Resources */,
+				229752F114E072FD00A863E4 /* instructions.txt in Resources */,
+				227C96EE14E10DB80098B28F /* Icon.png in Resources */,
+				227C96EF14E10DB80098B28F /* Icon@2x.png in Resources */,
+				227C96F014E10DB80098B28F /* Icon~iPad.png in Resources */,
+				227C96F114E10DB80098B28F /* iTunesArtwork in Resources */,
+				227C96F914E10EF80098B28F /* README.txt in Resources */,
+				227C96FA14E10EF80098B28F /* release_notes.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -983,6 +1030,7 @@
 					armv6,
 					armv7,
 				);
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Johannes Ekberg (5X4LU39MXF)";
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
@@ -993,6 +1041,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/../TestFlightSDK\"",
 				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
@@ -1000,6 +1049,7 @@
 					"-lxml2",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C9F4885A-AC18-4AC6-8E36-8178C10C39FE";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1012,6 +1062,7 @@
 					armv6,
 					armv7,
 				);
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Johannes Ekberg (5X4LU39MXF)";
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
@@ -1022,6 +1073,7 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/../TestFlightSDK\"",
 				);
 				OTHER_LDFLAGS = (
 					"-ObjC",
@@ -1029,6 +1081,7 @@
 					"-lxml2",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C9F4885A-AC18-4AC6-8E36-8178C10C39FE";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};

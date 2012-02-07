@@ -18,6 +18,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+	[TestFlight takeOff:@"a0a2cc2e723e6fabc61e444f4f29aa3b_NTMwOTgyMDEyLTAyLTA2IDExOjM2OjM4LjcyNzQ5MA"];
+	
 	[self.window addSubview:navigationController.view];
 	[self.window makeKeyAndVisible];
     return YES;

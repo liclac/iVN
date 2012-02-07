@@ -56,6 +56,11 @@
 	musicVolumeLabel.text = [NSString stringWithFormat:@"%02d", (NSInteger)round([musicVolumeSlider value])];
 }
 
+- (void)actionFeedback:(id)sender
+{
+	[TestFlight openFeedbackView];
+}
+
 - (CGSize)contentSizeForViewInPopover
 {
 	return CGSizeMake(480, self.view.bounds.size.height);
@@ -71,7 +76,7 @@
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
     // Return YES for supported orientations
-    return UIInterfaceOrientationIsLandscape(interfaceOrientation);
+    return interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown;//UIInterfaceOrientationIsLandscape(interfaceOrientation);
 }
 
 - (void)dealloc

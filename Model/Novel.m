@@ -140,6 +140,7 @@
 		[self loadScriptWithName:@"main.scr"];
 	[currentState reset];
 	currentState.script = script;
+	[TestFlight addCustomEnvironmentInformation:name forKey:@"script"];
 }
 
 - (Script *)scriptWithName:(NSString *)name

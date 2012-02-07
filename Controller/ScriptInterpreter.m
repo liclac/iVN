@@ -157,7 +157,6 @@
 			break;
 	}
 	
-	nextFrameDelay = 0;
 	if((continueExecuting || skipping) && !fastForwarding)
 	{
 		if(nextFrameDelay > 0)

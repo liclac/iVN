@@ -89,6 +89,7 @@
 - (IBAction)actionPlay:(id)sender
 {
 	Novel *novel = [[Collection sharedCollection].novels objectAtIndex:[table indexPathForSelectedRow].row];
+	[TestFlight addCustomEnvironmentInformation:novel.info.title forKey:@"novel"];
 	GameViewController *vc = [[GameViewController alloc] init];
 	vc.novel = novel;
 	vc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;

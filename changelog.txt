@@ -1,0 +1,7 @@
+== 1.0b3 ==
+Added:
+* TestFlight SDK Integration; this means you can now send feedback from inside the app (from the In-Game Menu), and I will receive usage data and crash logs (including where in which novel it happened) directly to my mail
+* Placeholder Icon (looks awful, as expected of a 5-minute Illustrator job with no plan)
+
+Fixed:
+* Removed a line that forced all animations to take 0 seconds; this made debugging easier as timers can't be 'traced' easily, but also broke all animations

@@ -39,6 +39,7 @@
 
 @property (nonatomic, retain) UIPopoverController *padPopoverController;
 
+- (IBAction)actionFeedback:(id)sender;
 - (IBAction)actionChangeFontSize:(id)sender;
 - (IBAction)actionChangeFont:(id)sender;
 - (IBAction)actionChangeSoundVolume:(id)sender;

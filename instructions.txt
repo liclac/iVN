@@ -1,0 +1,20 @@
+Instructions for use:
+
+WARNING:
+	Check the age rating before playing anything, especially in public. 18+ means it contains sex scenes (though Cross Channel lets you turn them off), and this is the ONLY thing that awards anything an 18+ rating - everything else has 17+ at most.
+	http://vndb.org/ has a good database of most VNs in existence, including scores, summaries and age ratings.
+	Note that there's a difference between containing sex and containing lots of it - Fate/Stay Night for example, has a few H-scenes you can easily fast-forward through if you don't want to read them, but also has one of the most well thought out universes in the history of anything and top-tier action scenes.
+
+1: Obtain VNDS port of VN (from either http://digital-haze.net/projects/vnds.html or http://digital-haze.net/vndswiki/index.php?title=Category:Complete , not sure if the high-res ones at http://digital-haze.net/vndswiki/index.php?title=Category:Android work, but they will definitely work with the next release, and it may be worth trying for the higher image quality)
+
+1.1: (Optional) If you want sound, unzip the novel archive, add the sound.zip file linked next to the download on the site (NOTE: these tend to be HUGE, and you DON'T need to unpack sound.zip, just add the sound archive itself) to the archive, and zip shut it again.
+
+2: Connect your device to iTunes, select it in the sidebar, activate the Applications tab, scroll down to File Sharing, activate iVN, and drag the novel archive into the Documents pane. Sync and wait for it to transfer
+
+3: Launch iVN and wait for it to unpack. This can take a while, especially for larger novels. It hasn't frozen unless the spinning thing around the edge stops moving though.
+
+4: Tap the VN in the list and press Play
+
+4.1: (Optional) Be Keima Katsuragi. If you don't know who that is, you have failed this step, and should move on to the next one and/or read/watch The World God Only Knows.
+
+4.2: (Optional) Enjoy
