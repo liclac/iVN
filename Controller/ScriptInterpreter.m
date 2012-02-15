@@ -42,6 +42,7 @@
 	[nextFrameTimer invalidate];
 	[nextFrameTimer release];
 	nextFrameTimer = nil;
+	nextFrameDelay = kFrameDelay;
 	
 	if(choiceOpen) return; //Don't proceed past open choices
 	
@@ -121,7 +122,7 @@
 		case VNCommandTypeDELAY:
 			[self forwardSelector:@selector(interpreter:processDELAY:) withCommand:cmd];
 			continueExecuting = YES;
-			nextFrameDelay = [[cmd parameterAtIndex:0 defaultValue:nil] intValue]/100;
+			nextFrameDelay = [[cmd parameterAtIndex:0 defaultValue:nil] intValue]/100;				//<--
 			break;
 			
 		case VNCommandTypeRANDOM:
@@ -162,7 +163,8 @@
 		if(nextFrameDelay > 0)
 			nextFrameTimer = [[NSTimer scheduledTimerWithTimeInterval:nextFrameDelay target:self selector:@selector(processNextCommand:)
 															 userInfo:nil repeats:NO] retain];
-		else [self processNextCommand:nil];
+		else
+			[self processNextCommand:nil];
 	}
 }
 
@@ -206,8 +208,10 @@
 		if([command.text hasPrefix:@"@"] || [command.text isEqualToString:@"~"])
 		{
 			continueExecuting = YES;
-			if(!skipping) nextFrameDelay = kFrameDelay;
-			else nextFrameDelay = kFrameDelay/3;
+			if(!skipping)
+				nextFrameDelay = kFrameDelay;
+			else
+				nextFrameDelay = ((float)kFrameDelay)/3.0;
 		}
 	}
 	else

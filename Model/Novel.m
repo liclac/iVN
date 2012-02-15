@@ -23,7 +23,7 @@
 
 @implementation Novel
 @synthesize directory, path, info;
-@synthesize saves, gvars;
+@synthesize saves, quicksave, gvars;
 @synthesize currentState;
 @synthesize encoding;
 
@@ -69,6 +69,7 @@
 		[saves setObject:save forKey:[NSNumber numberWithInteger:i]];
 		[save release];
 	}
+	quicksave = [[Save alloc] initWithNovel:self saveSlot:999];
 	
 	info = [[NovelInfo alloc] initWithNovel:self];
 	currentState = [[State alloc] init];

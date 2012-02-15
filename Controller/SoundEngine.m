@@ -11,7 +11,6 @@
 #import "Novel.h"
 
 @interface SoundEngine()
-
 - (SoundChannel *)channel:(VNSoundChannelID)cid;
 @end
 
@@ -32,7 +31,7 @@
 - (void)playSound:(NSString *)name onChannel:(VNSoundChannelID)channelID loops:(NSInteger)loops
 {
 	SoundChannel *channel = [self channel:channelID];
-	if([name isEqualToString:@""]) return; //Don't play nothing
+	if([name length] == 0) return; //Don't play nothing (yes, this happens; I've had both @"" and nil)
 	else if([name isEqualToString:@"~"]) [channel stop];
 	else
 	{
@@ -42,7 +41,8 @@
 		NSData *data = [novel contentsOfResource:[@"sound" stringByAppendingPathComponent:name]];
 		NSError *error = [channel loadData:data];
 		if(error == nil) [channel play];
-		else MTLog(@"Audio Loading Error: %@", error);
+		else
+			MTLog(@"Audio Loading Error: %@", error);
 	}
 }
 

@@ -1,3 +1,25 @@
+== 1.0b5 ==
+Added:
+* Quicksave/Quickload - the game automatically saves when sent to the background and resumes when relaunched
+
+Fixed:
+* Music Volume (calculated as a decimal percentage, eg. 0 = 0%, 0.5 = 50%, 0.75 = 75%, 1 = 100%, etc) lost it's decimals along the line, and you could thus only have 0% volume and 100% volume, with everything in between resulting in 0%
+* The Status Bar disappearing when exiting a novel
+* Fixed a bug that caused fast-forwarding to freeze the app and thus be impossible to stop if no auto-forwarded lines have been read
+
+== 1.0b4 ==
+- New Tester: Martin Siggers (@Dragonzigg)
+
+Added:
+* In-app instructions on how to add novels
+* Refresh button for the main menu under the Add Novels... button to avoid requiring an app restart
+
+Fixed:
+* Status Bar disappearing when exiting the game to the main menu
+
+Changed:
+* New Icon
+
 == 1.0b3 ==
 Added:
 * TestFlight SDK Integration; this means you can now send feedback from inside the app (from the In-Game Menu), and I will receive usage data and crash logs (including where in which novel it happened) directly to my mail

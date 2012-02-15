@@ -27,12 +27,9 @@
 - (void)loadFromFile
 {
 	NSData *fdata = [[NSData alloc] initWithContentsOfFile:path];
-	//CGDataProviderRef provider = CGDataProviderCreateWithCFData((CFDataRef)fdata);
 	
 	const char *rdata = [fdata bytes];
-	//char *data = (char*)malloc([fdata length]);
 	argb16_t data[kSaveImageHeight*kSaveImageWidth];
-	//memset(data, 0, [fdata length]);
 	memcpy(data, rdata, [fdata length]);
 	for(int i = 0; i < kSaveImageHeight*kSaveImageWidth; i++)
 	{
@@ -47,21 +44,17 @@
 	CGColorSpaceRef colorSpace = CGColorSpaceCreateDeviceRGB();
 	CGImageRef cImage = CGImageCreate
 	(
-	 kSaveImageWidth, //Width
-	 kSaveImageHeight, //Height
-	 5, //Bits per Component
-	 16, //Bits per pixel
-	 kSaveImageWidth*2, //Bytes per row
-	 colorSpace, //Colorspace
-	 kCGImageAlphaNoneSkipFirst|kCGBitmapByteOrder16Little, //Options
-	 provider, //Data Source (pipeline to the image data)
-	 NULL, //Decode Array for fine-tuning colors
-	 YES, //Werther it should be interpolated
-	 kCGRenderingIntentDefault //Color for display on a screen, not paper
+	 kSaveImageWidth, kSaveImageHeight,						//The Image's Width and Height
+	 5, 16, kSaveImageWidth*2,								//Bits per Color Component, per pixel, and the number of bytes per row
+	 colorSpace,											//Colorspace
+	 kCGImageAlphaNoneSkipFirst|kCGBitmapByteOrder16Little,	//Options
+	 provider,												//Data Source (pipeline to the image data)
+	 NULL,													//Decode Array for fine-tuning colors (not used)
+	 YES,													//Werther it should be interpolated when scaled (it will look awful otherwise)
+	 kCGRenderingIntentDefault								//Color for display on a screen, not paper
 	 );
 	
 	img = [[UIImage alloc] initWithCGImage:cImage scale:1 orientation:UIImageOrientationUp];
-	//NSLog(@"Created Image from SaveSlot %d: %@ -> %@", save.slot, cImage, img);
 	
 	CGImageRelease(cImage);
 	CGColorSpaceRelease(colorSpace);

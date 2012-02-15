@@ -36,7 +36,6 @@
 	UIWebView *textView;
 	UIView *gameView;
 	UIView *sidebarView;
-	NSInteger lineCount;
 	
 	CGFloat scaleFactor;
 	
@@ -71,5 +70,8 @@
 - (void)updateOffset;
 - (void)loadBackground:(NSString *)background fadeTime:(NSTimeInterval)time fromSave:(BOOL)fromSave;
 - (void)addSprite:(Sprite *)sprite fadeTime:(NSTimeInterval)time fromSave:(BOOL)fromSave;
+
+- (void)quicksave;
+- (void)quickload;
 
 @end

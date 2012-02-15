@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 @class LoadingViewController;
+@class Novel;
 
 @interface MainMenuViewController : UIViewController <UITableViewDelegate,UITableViewDataSource,CollectionDelegate>
 {
@@ -26,7 +27,9 @@
 @property (nonatomic, retain) LoadingViewController *loadingVC;
 
 - (IBAction)actionPlay:(id)sender;
+- (IBAction)actionInstructions:(id)sender;
 - (IBAction)actionSettings:(id)sender;
-- (void)updateCollection;
+- (void)updateCollectionWithView:(UIView *)view_;
+- (void)launchNovel:(Novel *)novel;
 
 @end

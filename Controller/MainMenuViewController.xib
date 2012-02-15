@@ -118,7 +118,7 @@
 					</object>
 					<object class="IBUIButton" id="47760014">
 						<reference key="NSNextResponder" ref="191373211"/>
-						<int key="NSvFlags">-2147483359</int>
+						<int key="NSvFlags">289</int>
 						<string key="NSFrame">{{260, 198}, {200, 37}}</string>
 						<reference key="NSSuperview" ref="191373211"/>
 						<reference key="NSWindow"/>
@@ -130,7 +130,7 @@
 						<int key="IBUIContentHorizontalAlignment">0</int>
 						<int key="IBUIContentVerticalAlignment">0</int>
 						<int key="IBUIButtonType">1</int>
-						<string key="IBUINormalTitle">Settings</string>
+						<string key="IBUINormalTitle">Add Novels...</string>
 						<reference key="IBUIHighlightedTitleColor" ref="690167822"/>
 						<reference key="IBUIDisabledTitleColor" ref="1018025112"/>
 						<object class="NSColor" key="IBUINormalTitleColor">
@@ -4637,12 +4637,12 @@ AAgAAAAIAAIACAACAAAAAgAAAAEAAQABAAE</bytes>
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchEventConnection" key="connection">
-						<string key="label">actionSettings:</string>
+						<string key="label">actionInstructions:</string>
 						<reference key="source" ref="47760014"/>
 						<reference key="destination" ref="372490531"/>
 						<int key="IBEventType">7</int>
 					</object>
-					<int key="connectionID">15</int>
+					<int key="connectionID">17</int>
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -4753,7 +4753,7 @@ AAgAAAAIAAIACAACAAAAAgAAAAEAAQABAAE</bytes>
 				<reference key="dict.values" ref="0"/>
 			</object>
 			<nil key="sourceID"/>
-			<int key="maxID">16</int>
+			<int key="maxID">17</int>
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
@@ -4765,11 +4765,13 @@ AAgAAAAIAAIACAACAAAAAgAAAAEAAQABAAE</bytes>
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>actionInstructions:</string>
 							<string>actionPlay:</string>
 							<string>actionSettings:</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>id</string>
 							<string>id</string>
 							<string>id</string>
 						</object>
@@ -4778,11 +4780,16 @@ AAgAAAAIAAIACAACAAAAAgAAAAEAAQABAAE</bytes>
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<string>actionInstructions:</string>
 							<string>actionPlay:</string>
 							<string>actionSettings:</string>
 						</object>
 						<object class="NSMutableArray" key="dict.values">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+							<object class="IBActionInfo">
+								<string key="name">actionInstructions:</string>
+								<string key="candidateClassName">id</string>
+							</object>
 							<object class="IBActionInfo">
 								<string key="name">actionPlay:</string>
 								<string key="candidateClassName">id</string>

@@ -13,6 +13,7 @@
 #import "Command.h"
 #import "Sprite.h"
 #import "State.h"
+#import "Save.h"
 #import "Script.h"
 
 #import "SpriteView.h"
@@ -232,7 +233,6 @@
 {
 	//>>textView.text = nil;
 	[textView clearBuffer];
-	lineCount = 0;
 	
 	//MTMark();
 }
@@ -246,13 +246,12 @@
 	[soundEngine playSound:novel.currentState.music onChannel:VNSoundChannelMusic loops:0];
 	
 	//Update Sprites
-	//NOTE: Due to `self.scaleFactor` being calculated in -[loadBackground:fadeTime:fromSave:], the sprites have to be loaded afterwards
+	//NOTE: Due to `self.scaleFactor` being calculated in -[loadBackground:fadeTime:fromSave:], the sprites have to be loaded AFTER that
 	for(SpriteView *view in spriteViews) [view removeFromSuperview];
 	for(Sprite *sprite in novel.currentState.sprites) [self addSprite:sprite fadeTime:0 fromSave:YES];
 	
 	//Loop through all the lines and write them to the text area
 	[textView clearBuffer];
-	lineCount = 0;
 	for(NSString *line in buffer) [self writeLine:line quickly:YES];
 	[self updateOffset];
 }
@@ -332,8 +331,6 @@
 	if(!fromSave)
 		for(SpriteView *spriteView in spriteViews) [spriteView fadeOutWithDuration:time];
 	
-	/*UIImage *img = [[UIImage alloc] initWithContentsOfFile:
-					[novel relativeToAbsolutePath:[@"background" stringByAppendingPathComponent:background]]];*/
 	UIImage *img = [[UIImage alloc] initWithData:[novel contentsOfResource:[@"background/" stringByAppendingPathComponent:background]]];
 	if(img != nil)
 	{
@@ -444,8 +441,11 @@
 {
 	[soundEngine stopChannel:VNSoundChannelMusic];
 	[soundEngine stopChannel:VNSoundChannelSound];
+	[self quicksave];
 	[novel.currentState reset];
 	[self dismissModalViewControllerAnimated:YES];
+	
+	[[NSNotificationCenter defaultCenter] removeObserver:self name:UIApplicationDidEnterBackgroundNotification object:nil];
 }
 
 - (void)actionSettingsChanged
@@ -472,7 +472,23 @@
 {
 	[textView setFont:font];
 	[textView setFontSize:fontSize];
-	[interpreter processNextCommand:nil];
+	if(novel.quicksave.exists) [self quickload];
+	else [interpreter processNextCommand:nil];
+	
+	[[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(quicksave)
+												 name:UIApplicationDidEnterBackgroundNotification object:nil];
+}
+
+
+#pragma mark - Quicksaves
+- (void)quicksave
+{
+	[novel.quicksave saveWithScriptInterpreter:interpreter];
+}
+
+- (void)quickload
+{
+	[novel.quicksave loadWithScriptInterpreter:interpreter];
 }
 
 @end

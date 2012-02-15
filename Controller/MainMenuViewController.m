@@ -8,10 +8,12 @@
 
 #import "MainMenuViewController.h"
 #import "Novel.h"
+#import "Save.h"
 #import "NovelInfo.h"
 #import "GameViewController.h"
 #import "SettingsViewController.h"
 #import "LoadingViewController.h"
+#import "AddInstructionsViewController.h"
 
 #import "CTools.h"
 
@@ -46,16 +48,28 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
 	
-	loadingVC = [[LoadingViewController alloc] init];
-	loadingVC.view.frame = self.view.bounds;
-	[self.view addSubview:loadingVC.view];
+	NSString *qsNovelDir = [[NSUserDefaults standardUserDefaults] stringForKey:VNDefaultsKeyQSNovelDir];
+	for(Novel *novel in [Collection sharedCollection].novels)
+	{
+		if([novel.directory isEqualToString:qsNovelDir])
+		{
+			[self launchNovel:novel];
+		}
+	}
+}
+
+- (void)viewWillAppear:(BOOL)animated
+{
+	[[UIApplication sharedApplication] setStatusBarHidden:NO withAnimation:UIStatusBarAnimationFade];
+	[super viewWillAppear:animated];
 }
 
 - (void)viewDidAppear:(BOOL)animated
 {
+	[super viewDidAppear:animated];
 	if(hasAppeared) return;
 	
-	[self updateCollection];
+	[self updateCollectionWithView:self.view];
 	hasAppeared = YES;
 }
 
@@ -89,16 +103,17 @@
 - (IBAction)actionPlay:(id)sender
 {
 	Novel *novel = [[Collection sharedCollection].novels objectAtIndex:[table indexPathForSelectedRow].row];
-	[TestFlight addCustomEnvironmentInformation:novel.info.title forKey:@"novel"];
-	GameViewController *vc = [[GameViewController alloc] init];
-	vc.novel = novel;
-	vc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;
-	
-	[[UIApplication sharedApplication] setStatusBarHidden:YES withAnimation:UIStatusBarAnimationFade];
-	[self presentModalViewController:vc animated:YES];
-	
+	[self launchNovel:novel];
 	[table deselectAnimated:YES];
-	
+}
+
+- (IBAction)actionInstructions:(id)sender
+{
+	AddInstructionsViewController *vc = [[AddInstructionsViewController alloc]
+										 initWithNibName:@"AddInstructionsViewController" bundle:nil];
+	vc.mainMenu = self;
+	vc.modalPresentationStyle = UIModalPresentationFormSheet;
+	[self presentModalViewController:vc animated:YES];
 	[vc release];
 }
 
@@ -146,8 +161,12 @@
 
 
 #pragma mark - Collection
-- (void)updateCollection
+- (void)updateCollectionWithView:(UIView *)view_
 {
+	loadingVC = [[LoadingViewController alloc] init];
+	loadingVC.view.frame = view_.bounds;
+	[view_ addSubview:loadingVC.view];
+	
 	dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_HIGH, 0),
 				   ^{[[Collection sharedCollection] loadCollectionWithDelegate:self];});
 }
@@ -191,6 +210,23 @@
 		[loadingVC.view removeFromSuperview];
 		MTSafeRelease(loadingVC);
 	});
+}
+
+
+#pragma mark - Launching
+- (void)launchNovel:(Novel *)novel
+{
+	[TestFlight addCustomEnvironmentInformation:novel.info.title forKey:@"novel"];
+	NSLog(@"Started Playing %@", novel.info.title);
+	
+	GameViewController *vc = [[GameViewController alloc] init];
+	vc.novel = novel;
+	vc.modalTransitionStyle = UIModalTransitionStyleCrossDissolve;
+	
+	[[UIApplication sharedApplication] setStatusBarHidden:YES withAnimation:UIStatusBarAnimationFade];
+	[self presentModalViewController:vc animated:YES];
+	
+	[vc release];
 }
 
 @end

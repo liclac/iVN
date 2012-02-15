@@ -8,7 +8,7 @@
 
 #import "SoundChannel.h"
 
-#define kVNSoundMaxVolume 16
+#define kVNSoundMaxVolume 16.0
 
 @interface SoundChannel()
 - (void)setupPlayer;
@@ -62,7 +62,7 @@
 
 - (void)setupPlayer
 {
-	player.volume = volume/kVNSoundMaxVolume;
+	player.volume = ((float)volume)/kVNSoundMaxVolume;
 	player.numberOfLoops = loops;
 }
 

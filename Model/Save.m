@@ -322,9 +322,14 @@
 		NSString *type = [[element attributeForName:@"type"] stringValue];
 		
 		id value = [[element attributeForName:@"value"] stringValue];
-		if([type isEqualToString:@"int"]) value = [NSNumber numberWithInteger:[value integerValue]];
+		VNVariableType vtype = VNVariableTypeString;
+		if([type isEqualToString:@"int"])
+		{
+			value = [NSNumber numberWithInteger:[value integerValue]];
+			vtype = VNVariableTypeInt;
+		}
 		
-		Variable *var = [[Variable alloc] initWithKey:name value:value flagsFromNovel:nil];
+		Variable *var = [[Variable alloc] initWithKey:name value:value type:vtype];
 		[state.vars setObject:var forKey:name];
 		[var release];
 	}

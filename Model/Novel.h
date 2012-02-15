@@ -9,6 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "ScriptInterpreterDelegate.h"
 @class NovelInfo;
+@class Save;
 @class State;
 @class Settings;
 @class Script;
@@ -28,6 +29,7 @@
 	NovelInfo *info;					//Holds data that are not relevant to functionality, such as title and icons
 	
 	NSMutableDictionary *saves;			//Keys are NSNumbers with the save number (-1 = Global), Values are Save objects
+	Save *quicksave;					//Quicksave (Slot 999)
 	NSMutableDictionary *gvars;			//Global Variables; saved in the global save file for things like "route cleared"-flags
 	
 	State *currentState;				//The current State
@@ -39,6 +41,7 @@
 @property (nonatomic, retain) NovelInfo *info;
 
 @property (nonatomic, retain) NSMutableDictionary *saves;
+@property (nonatomic, retain) Save *quicksave;
 @property (nonatomic, retain) NSMutableDictionary *gvars;
 
 @property (nonatomic, retain) State *currentState;

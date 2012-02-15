@@ -10,6 +10,8 @@
 		2212A59414B9A5B6004529C5 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 2212A59314B9A5B6004529C5 /* README.markdown */; };
 		2223F45814C0AC7E00C9E469 /* Osaka.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2223F45614C0AC7E00C9E469 /* Osaka.ttf */; };
 		2223F45B14C0AD0900C9E469 /* OsakaMono.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2223F45A14C0AD0900C9E469 /* OsakaMono.ttf */; };
+		223C708D14E2934700E4F678 /* AddInstructionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 223C708B14E2934700E4F678 /* AddInstructionsViewController.m */; };
+		223C708E14E2934700E4F678 /* AddInstructionsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 223C708C14E2934700E4F678 /* AddInstructionsViewController.xib */; };
 		224BA2C714B1D25F009E9BF4 /* LoadingViewController~iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 224BA2C614B1D25F009E9BF4 /* LoadingViewController~iPad.xib */; };
 		224BA2CB14B1D42D009E9BF4 /* LoadingBackgroundView.m in Sources */ = {isa = PBXBuildFile; fileRef = 224BA2CA14B1D42D009E9BF4 /* LoadingBackgroundView.m */; };
 		225183D614C06B550023C95B /* SoundChannel.m in Sources */ = {isa = PBXBuildFile; fileRef = 225183D514C06B550023C95B /* SoundChannel.m */; };
@@ -140,6 +142,9 @@
 		2223D71414C20A0700500DB1 /* SSZipArchiveDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSZipArchiveDelegate.h; sourceTree = "<group>"; };
 		2223F45614C0AC7E00C9E469 /* Osaka.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Osaka.ttf; sourceTree = "<group>"; };
 		2223F45A14C0AD0900C9E469 /* OsakaMono.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = OsakaMono.ttf; sourceTree = "<group>"; };
+		223C708A14E2934700E4F678 /* AddInstructionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AddInstructionsViewController.h; path = Controller/AddInstructionsViewController.h; sourceTree = "<group>"; };
+		223C708B14E2934700E4F678 /* AddInstructionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AddInstructionsViewController.m; path = Controller/AddInstructionsViewController.m; sourceTree = "<group>"; };
+		223C708C14E2934700E4F678 /* AddInstructionsViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = AddInstructionsViewController.xib; path = Controller/AddInstructionsViewController.xib; sourceTree = "<group>"; };
 		224BA2C614B1D25F009E9BF4 /* LoadingViewController~iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = "LoadingViewController~iPad.xib"; path = "Controller/LoadingViewController~iPad.xib"; sourceTree = "<group>"; };
 		224BA2C914B1D42D009E9BF4 /* LoadingBackgroundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoadingBackgroundView.h; path = View/LoadingBackgroundView.h; sourceTree = "<group>"; };
 		224BA2CA14B1D42D009E9BF4 /* LoadingBackgroundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoadingBackgroundView.m; path = View/LoadingBackgroundView.m; sourceTree = "<group>"; };
@@ -596,6 +601,9 @@
 				8F59527013D97ACE0064ACA8 /* MainMenuViewController.h */,
 				8F59527113D97ACE0064ACA8 /* MainMenuViewController.m */,
 				8F59527213D97ACE0064ACA8 /* MainMenuViewController.xib */,
+				223C708A14E2934700E4F678 /* AddInstructionsViewController.h */,
+				223C708B14E2934700E4F678 /* AddInstructionsViewController.m */,
+				223C708C14E2934700E4F678 /* AddInstructionsViewController.xib */,
 				8FC7C0AC13DD6E3C00A5E60C /* LoadingViewController.h */,
 				8FC7C0AD13DD6E3C00A5E60C /* LoadingViewController.m */,
 				8FC7C0AE13DD6E3C00A5E60C /* LoadingViewController.xib */,
@@ -869,6 +877,7 @@
 				227C96F114E10DB80098B28F /* iTunesArtwork in Resources */,
 				227C96F914E10EF80098B28F /* README.txt in Resources */,
 				227C96FA14E10EF80098B28F /* release_notes.txt in Resources */,
+				223C708E14E2934700E4F678 /* AddInstructionsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -947,6 +956,7 @@
 				229EBC2F14BF053D00BD1C5D /* FontSelectionViewController.m in Sources */,
 				225183D614C06B550023C95B /* SoundChannel.m in Sources */,
 				22AD06DE14C2C9E0009EF12C /* CTools.c in Sources */,
+				223C708D14E2934700E4F678 /* AddInstructionsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1030,7 +1040,7 @@
 					armv6,
 					armv7,
 				);
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Johannes Ekberg (5X4LU39MXF)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Johannes Ekberg (5X4LU39MXF)";
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
@@ -1049,7 +1059,7 @@
 					"-lxml2",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C9F4885A-AC18-4AC6-8E36-8178C10C39FE";
+				PROVISIONING_PROFILE = "5C5AA6C2-0E96-4C54-B06C-6B52F0ED9BAA";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1062,7 +1072,7 @@
 					armv6,
 					armv7,
 				);
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Johannes Ekberg (5X4LU39MXF)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Johannes Ekberg (5X4LU39MXF)";
 				GCC_INPUT_FILETYPE = sourcecode.c.objc;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "iVN/iVN-Prefix.pch";
@@ -1081,7 +1091,7 @@
 					"-lxml2",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "C9F4885A-AC18-4AC6-8E36-8178C10C39FE";
+				PROVISIONING_PROFILE = "5C5AA6C2-0E96-4C54-B06C-6B52F0ED9BAA";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};

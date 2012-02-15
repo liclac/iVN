@@ -49,19 +49,19 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(Collection)
 			
 			if(!isDir && [[path pathExtension] isEqualToString:@"zip"])
 			{
-				NSString *outPath = [resourcePath stringByAppendingPathComponent:
-									 [filename substringToIndex:[filename length]-4]]; //4 = length of ".zip"
-				MTLog(@"Unzipping %@ to %@", path, outPath);
+				/*NSString *outPath = [resourcePath stringByAppendingPathComponent:
+									 [filename substringToIndex:[filename length]-4]]; //4 = length of ".zip"*/
+				MTLog(@"Unzipping %@ to %@", path, resourcePath);
 				
 				NSError *error = nil;
-				[SSZipArchive unzipFileAtPath:path toDestination:outPath overwrite:YES password:nil error:&error delegate:self];
+				[SSZipArchive unzipFileAtPath:path toDestination:resourcePath overwrite:YES password:nil error:&error delegate:self];
 				if(error) MTLog(@"Novel Unzip Error: %@", error);
 				
 				[delegate collection:self willStartCleaningUpExtractionOfArchive:filename];
 				[fileManager removeItemAtPath:path error:NULL];
-				[fileManager removeItemAtPath:[outPath stringByAppendingPathComponent:@"__MACOSX"] error:nil];
+				[fileManager removeItemAtPath:[resourcePath stringByAppendingPathComponent:@"__MACOSX"] error:nil];
 				
-				path = outPath;
+				path = resourcePath;
 				filename = [path lastPathComponent];
 				isDir = YES;
 			}

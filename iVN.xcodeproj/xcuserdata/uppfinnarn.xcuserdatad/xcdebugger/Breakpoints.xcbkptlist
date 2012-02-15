@@ -9,11 +9,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Controller/ScriptInterpreter.m"
-         timestampString = "350296917.272398"
+         timestampString = "350837636.514918"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "423"
-         endingLineNumber = "423"
+         startingLineNumber = "427"
+         endingLineNumber = "427"
          landmarkName = "-evaluateIF:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -38,11 +38,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Controller/ScriptInterpreter.m"
-         timestampString = "348944495.654069"
+         timestampString = "350837636.514918"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "56"
-         endingLineNumber = "56"
+         startingLineNumber = "57"
+         endingLineNumber = "57"
          landmarkName = "-processNextCommand:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -52,11 +52,11 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Model/Novel.m"
-         timestampString = "349975620.111833"
+         timestampString = "350728396.898866"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "140"
-         endingLineNumber = "140"
+         startingLineNumber = "141"
+         endingLineNumber = "141"
          landmarkName = "-loadScriptWithName:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -150,12 +150,40 @@
          continueAfterRunningActions = "No"
          isPathRelative = "1"
          filePath = "Model/Novel.m"
-         timestampString = "349975579.847001"
+         timestampString = "350728396.898866"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "88"
-         endingLineNumber = "88"
+         startingLineNumber = "89"
+         endingLineNumber = "89"
          landmarkName = "-contentsOfResource:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Controller/ScriptInterpreter.m"
+         timestampString = "350837636.514918"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "212"
+         endingLineNumber = "212"
+         landmarkName = "-interpreter:processTEXT:"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         isPathRelative = "1"
+         filePath = "Controller/ScriptInterpreter.m"
+         timestampString = "350837636.514918"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "214"
+         endingLineNumber = "214"
+         landmarkName = "-interpreter:processTEXT:"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>

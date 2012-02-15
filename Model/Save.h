@@ -57,7 +57,7 @@
 
 /**
  * Serializes and writes XML data to the save file.
- * Called internally by -[save].
+ * Called internally by -[saveWithScriptInterpreter:].
  * 
  * Ported from VNDS's 'saveload.cpp' file, namely the function 'saveXml(VNDS* vnds, u16 slot)'
  */

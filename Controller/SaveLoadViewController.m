@@ -125,6 +125,7 @@
 		loadingVC.view.frame = self.view.bounds; //Prevent the view from getting stuck in a corner on the iPad
 		[self.view addSubview:loadingVC.view];
 		dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_HIGH, 0), ^{
+			//dispatch_after(dispatch_time(DISPATCH_TIME_NOW, 0.3 * NSEC_PER_SEC), dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_HIGH, 0), ^{
 			[save loadWithScriptInterpreter:si];
 			[loadingVC release];
 			[self dismissModalViewControllerAnimated:YES];
